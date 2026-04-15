@@ -163,22 +163,23 @@ def generate_html(recent_items):
     tweets.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
     articles.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
     
-    html_template = """<!DOCTYPE html>
+    html_template = """
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>美伊谈判监测 · 最近6小时</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }
-        h1 { color: #2c3e50; border-left: 5px solid #e74c3c; padding-left: 15px; }
-        .tweet { background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #1da1f2; }
-        .tweet .username { font-weight: bold; color: #1da1f2; }
-        .tweet .time { font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }
-        .article { background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #27ae60; }
-        .article .source { font-weight: bold; color: #27ae60; }
-        .footer { text-align: center; margin-top: 30px; font-size: 0.8em; color: #7f8c8d; }
-        hr { margin: 20px 0; }
+        body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }}
+        h1 {{ color: #2c3e50; border-left: 5px solid #e74c3c; padding-left: 15px; }}
+        .tweet {{ background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #1da1f2; }}
+        .tweet .username {{ font-weight: bold; color: #1da1f2; }}
+        .tweet .time {{ font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }}
+        .article {{ background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #27ae60; }}
+        .article .source {{ font-weight: bold; color: #27ae60; }}
+        .footer {{ text-align: center; margin-top: 30px; font-size: 0.8em; color: #7f8c8d; }}
+        hr {{ margin: 20px 0; }}
     </style>
 </head>
 <body>
