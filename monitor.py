@@ -19,12 +19,32 @@ from typing import List, Dict, Any
 
 # ==================== 配置区 ====================
 # 你要监测的 X 账号列表（不带@）
-X_ACCOUNTS = ["PakistanMFA", "IRIMFA", "USAdepartmentofstate"]
+X_ACCOUNTS = [    
+    "foreignofficepk",
+    "mishaqdar50",
+    "cmshehbaz",
+    "IranAmbPak",
+    "paktvglobal",
+    # "geonews urdu" 需要确认正确用户名
+    "Tasnimnews_Fa",
+    "araghchi",
+    "irimfa",
+    "mb_ghalibaf",
+    "AJENews",
+    "whitehouse",
+    "usembislamabad",
+    "CBSNews",
+    "JenniferJJacobs",
+    "KellieMeyerNews",
+    "realdonaldtrump",
+    "vp",
+    "CGTNEurope"
+]
 
 # 新闻网站 URL 清单（示例，你需要替换成真实的 Dawn / ARY News 监测链接）
 NEWS_URLS = [
-    "https://www.dawn.com/news/iran-us",
-    "https://arynews.tv"
+    "https://www.dawn.com/news/1991497/efforts-afoot-for-second-round-of-us-iran-talks",
+    "https://arynews.tv/islamabad-talks-mohsin-naqvi-guarantees-foolproof-security"
 ]
 
 # Nitter 实例池（建议用多个，避免被限制）
