@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判监测脚本
-- 抓取指定 X 账号推文（通过 Nitter）
-- 从新闻网站首页自动提取文章链接并抓取详情
+美伊谈判监测脚本 (Selenium + snscrape版本)
+- 使用 Selenium 抓取新闻网站（模拟真实浏览器，解决403）
+- 使用 snscrape 抓取 X 平台推文（无需登录，稳定可靠）
 - 保存到 items.json，按条目保留时间戳
 - 生成最近6小时的 index.html 并推送到 gh-pages
 """
@@ -13,9 +13,19 @@ import json
 import time
 import random
 import hashlib
-import requests
 from datetime import datetime, timezone, timedelta
+
+# Selenium 相关
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
+
+# snscrape 相关
+import snscrape.modules.twitter as sntwitter
 
 # ==================== 配置区 ====================
 # 你要监测的 X 账号列表（不带@）
@@ -46,141 +56,112 @@ NEWS_URLS = [
     "https://arynews.tv"
 ]
 
-# Nitter 实例池（2026年4月可用实例）
-NITTER_INSTANCES = [
-    "https://nitter.privacydev.net",
-    "https://nitter.poast.org",
-    "https://nitter.domain.glass",
-    "https://nitter.it"
-]
-
 # 输出文件
 ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
 
-# ==================== 工具函数 ====================
-def get_headers():
-    """生成一个看起来更像真实浏览器的请求头"""
-    return {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-        'Sec-Fetch-Dest': 'document',
-        'Sec-Fetch-Mode': 'navigate',
-        'Sec-Fetch-Site': 'none',
-        'Sec-Fetch-User': '?1',
-        'Cache-Control': 'max-age=0',
-    }
+# ==================== Selenium 浏览器配置 ====================
+def get_driver():
+    """配置并返回一个 Chrome WebDriver 实例"""
+    chrome_options = Options()
+    
+    # 无头模式（在服务器上运行时必须）
+    chrome_options.add_argument("--headless=new")
+    
+    # 基础设置
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920,1080")
+    
+    # 反检测：禁用自动化提示
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    chrome_options.add_experimental_option('useAutomationExtension', False)
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    
+    # 随机 User-Agent
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    ]
+    chrome_options.add_argument(f"--user-agent={random.choice(user_agents)}")
+    
+    # 创建驱动
+    driver = webdriver.Chrome(options=chrome_options)
+    return driver
 
-def get_healthy_nitter_instance():
-    """健康检查：随机选一个实例，测试首页是否200"""
-    random.shuffle(NITTER_INSTANCES)
-    for inst in NITTER_INSTANCES:
-        try:
-            r = requests.get(inst, timeout=5, headers=get_headers())
-            if r.status_code == 200:
-                return inst
-        except:
-            continue
-    return NITTER_INSTANCES[0]  # 全挂了就硬用第一个
-
-def fetch_tweets(username):
-    """通过 Nitter 抓取某账号的推文（最多10条）"""
-    instance = get_healthy_nitter_instance()
-    url = f"{instance}/{username}"
+# ==================== 新闻抓取函数 ====================
+def extract_article_links_with_selenium(homepage_url):
+    """使用 Selenium 从新闻首页提取文章链接"""
+    driver = None
     try:
-        r = requests.get(url, headers=get_headers(), timeout=10)
-        if r.status_code != 200:
-            print(f"  Nitter 返回 {r.status_code}")
-            return []
-        soup = BeautifulSoup(r.text, "html.parser")
-        tweets = []
-        # 查找推文内容（根据 Nitter 的 HTML 结构）
-        for tweet_div in soup.select(".tweet-content"):
-            text = tweet_div.get_text(strip=True)
-            if not text:
-                continue
-            # 找时间链接
-            time_link = tweet_div.find_previous("a", class_="tweet-date")
-            if time_link:
-                time_str = time_link.get("title") or time_link.text
-                tweet_url = time_link.get("href", "")
-            else:
-                time_str = datetime.now(timezone.utc).isoformat()
-                tweet_url = ""
-            tweet_id = tweet_url.split("/")[-1] if tweet_url else str(hash(text))
-            tweets.append({
-                "id": f"tweet_{username}_{tweet_id}",
-                "type": "tweet",
-                "username": username,
-                "text": text,
-                "url": instance + tweet_url if tweet_url else "",
-                "timestamp": datetime.now(timezone.utc).isoformat(),
-                "original_time": time_str
-            })
-            if len(tweets) >= 10:  # 每个账号最多10条，避免过多
-                break
-        print(f"  从 @{username} 抓取到 {len(tweets)} 条推文")
-        return tweets
-    except Exception as e:
-        print(f"  抓取 @{username} 失败: {e}")
-        return []
-
-def load_items():
-    if os.path.exists(ITEMS_FILE):
-        with open(ITEMS_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
-
-def save_items(items):
-    with open(ITEMS_FILE, "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2, ensure_ascii=False)
-
-def extract_article_links(homepage_url):
-    """从新闻首页提取所有文章链接（返回绝对URL列表）"""
-    try:
-        r = requests.get(homepage_url, headers=get_headers(), timeout=10)
-        if r.status_code != 200:
-            print(f"  首页请求失败 {homepage_url}，状态码 {r.status_code}")
-            return []
-        soup = BeautifulSoup(r.text, "html.parser")
+        driver = get_driver()
+        print(f"  正在访问首页: {homepage_url}")
+        driver.get(homepage_url)
+        
+        # 等待页面加载完成
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
+        )
+        
+        # 获取页面源代码
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, "html.parser")
         
         links = set()
+        # 查找所有 <a> 标签，href 包含常见文章路径模式
         for a in soup.find_all('a', href=True):
             href = a['href']
+            if not href or len(href) < 10:
+                continue
+                
             # 匹配常见文章路径模式
             if ('/news/' in href or '/story/' in href or '/article/' in href 
                 or '/2026/' in href or href.startswith('/politics/') 
                 or href.startswith('/business/') or href.startswith('/world/')):
+                
+                # 转换为绝对URL
                 if href.startswith('/'):
                     full_url = homepage_url.rstrip('/') + href
                 elif href.startswith('http'):
                     full_url = href
                 else:
                     continue
+                    
                 # 排除明显不是文章页的链接
                 if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
                     continue
-                links.add(full_url)
+                    
+                # 只保留域名匹配的链接
+                if homepage_url in full_url:
+                    links.add(full_url)
         
-        # 限制最多前15个最新文章
         result = list(links)[:15]
         print(f"  从 {homepage_url} 提取到 {len(result)} 个文章链接")
         return result
+        
     except Exception as e:
         print(f"  提取文章链接失败 {homepage_url}: {e}")
         return []
+    finally:
+        if driver:
+            driver.quit()
 
-def fetch_article_detail(article_url):
-    """抓取单篇文章详情（标题、发布时间）"""
+def fetch_article_detail_with_selenium(article_url):
+    """使用 Selenium 抓取单篇文章详情（标题、发布时间）"""
+    driver = None
     try:
-        r = requests.get(article_url, headers=get_headers(), timeout=10)
-        if r.status_code != 200:
-            return None
-        soup = BeautifulSoup(r.text, "html.parser")
+        driver = get_driver()
+        driver.get(article_url)
+        
+        # 等待文章主体加载
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
+        )
+        
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, "html.parser")
         
         # 标题
         title_tag = soup.find("h1") or soup.find("title")
@@ -188,15 +169,25 @@ def fetch_article_detail(article_url):
         
         # 发布时间
         pub_time = None
+        
+        # Dawn 的发布时间
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
             pub_time = meta_time["content"]
         else:
+            # ARY News 的发布时间
             time_tag = soup.find("time")
             if time_tag and time_tag.get("datetime"):
                 pub_time = time_tag["datetime"]
+            elif time_tag:
+                pub_time = time_tag.get_text(strip=True)
             else:
-                pub_time = datetime.now(timezone.utc).isoformat()
+                # 尝试找其他包含时间的元素
+                date_meta = soup.find("meta", {"name": "pubdate"}) or soup.find("meta", {"name": "date"})
+                if date_meta and date_meta.get("content"):
+                    pub_time = date_meta["content"]
+                else:
+                    pub_time = datetime.now(timezone.utc).isoformat()
         
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         
@@ -209,9 +200,61 @@ def fetch_article_detail(article_url):
             "timestamp": datetime.now(timezone.utc).isoformat(),
             "original_time": pub_time
         }
+        
     except Exception as e:
         print(f"  抓取文章详情失败 {article_url}: {e}")
         return None
+    finally:
+        if driver:
+            driver.quit()
+
+# ==================== X 平台推文抓取函数 (使用 snscrape) ====================
+def fetch_tweets_with_snscrape(username, max_tweets=5):
+    """使用 snscrape 抓取指定用户的推文"""
+    tweets = []
+    try:
+        # 使用 snscrape 搜索该用户的最新推文
+        query = f"from:{username}"
+        for i, tweet in enumerate(sntwitter.TwitterSearchScraper(query).get_items()):
+            if i >= max_tweets:
+                break
+            
+            # 提取推文信息
+            tweet_id = str(tweet.id)
+            text = tweet.content
+            date = tweet.date
+            
+            # 如果推文过长，截断
+            if len(text) > 500:
+                text = text[:497] + "..."
+            
+            tweets.append({
+                "id": f"tweet_{username}_{tweet_id}",
+                "type": "tweet",
+                "username": username,
+                "text": text,
+                "url": tweet.url,
+                "timestamp": datetime.now(timezone.utc).isoformat(),
+                "original_time": date.isoformat() if date else datetime.now(timezone.utc).isoformat()
+            })
+        
+        print(f"  从 @{username} 抓取到 {len(tweets)} 条推文")
+        return tweets
+        
+    except Exception as e:
+        print(f"  抓取 @{username} 失败: {e}")
+        return []
+
+# ==================== 数据存储与过滤 ====================
+def load_items():
+    if os.path.exists(ITEMS_FILE):
+        with open(ITEMS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+def save_items(items):
+    with open(ITEMS_FILE, "w", encoding="utf-8") as f:
+        json.dump(items, f, indent=2, ensure_ascii=False)
 
 def filter_recent_items(items, hours=6):
     """保留最近 hours 小时内的条目（基于 original_time 或 timestamp）"""
@@ -232,6 +275,7 @@ def filter_recent_items(items, hours=6):
             recent.append(item)
     return recent
 
+# ==================== HTML 生成函数 ====================
 def generate_html(recent_items):
     """生成 index.html"""
     tweets = [i for i in recent_items if i["type"] == "tweet"]
@@ -267,7 +311,7 @@ def generate_html(recent_items):
     {articles_html}
     <div class="footer">
         <hr>
-        <p>数据来源：Nitter + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过6小时的内容</p>
+        <p>数据来源：X平台 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过6小时的内容</p>
     </div>
 </body>
 </html>"""
@@ -308,45 +352,50 @@ def generate_html(recent_items):
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(html)
 
+# ==================== 主函数 ====================
 def main():
     print(f"{datetime.now()} 开始抓取...")
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
-    # 抓取推文
+    # 1. 抓取推文（使用 snscrape）
+    print("\n--- 抓取 X 平台推文 ---")
     for username in X_ACCOUNTS:
         print(f"抓取 @{username} ...")
-        tweets = fetch_tweets(username)
+        tweets = fetch_tweets_with_snscrape(username)
         for tw in tweets:
             if tw["id"] not in existing_ids:
                 new_items.append(tw)
                 existing_ids.add(tw["id"])
-        time.sleep(random.uniform(2, 5))  # 随机延迟2-5秒，更像人类
+        time.sleep(random.uniform(1, 2))  # 随机延迟
     
-    # 抓取新闻文章（从首页提取链接）
+    # 2. 抓取新闻文章（使用 Selenium）
+    print("\n--- 抓取新闻文章 ---")
     for homepage in NEWS_URLS:
-        print(f"从首页提取文章链接: {homepage}")
-        article_links = extract_article_links(homepage)
+        print(f"处理首页: {homepage}")
+        article_links = extract_article_links_with_selenium(homepage)
+        
         for article_url in article_links:
             print(f"  抓取文章: {article_url}")
-            article = fetch_article_detail(article_url)
+            article = fetch_article_detail_with_selenium(article_url)
             if article and article["id"] not in existing_ids:
                 new_items.append(article)
                 existing_ids.add(article["id"])
-            time.sleep(random.uniform(2, 4))  # 随机延迟2-4秒
+            time.sleep(random.uniform(2, 4))  # 避免请求过快
     
+    # 3. 保存新内容
     if new_items:
         all_items.extend(new_items)
         save_items(all_items)
-        print(f"新增 {len(new_items)} 条内容")
+        print(f"\n✅ 新增 {len(new_items)} 条内容")
     else:
-        print("无新内容")
+        print("\n📭 无新内容")
     
-    # 过滤最近6小时并生成 HTML
+    # 4. 过滤最近6小时并生成 HTML
     recent = filter_recent_items(all_items, hours=6)
     generate_html(recent)
-    print(f"已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
+    print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
     print("完成")
 
 if __name__ == "__main__":
