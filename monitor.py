@@ -16,7 +16,6 @@ import hashlib
 import requests
 from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
-from typing import List, Dict, Any
 
 # ==================== 配置区 ====================
 # 你要监测的 X 账号列表（不带@）
@@ -47,7 +46,7 @@ NEWS_URLS = [
     "https://arynews.tv"
 ]
 
-# Nitter 实例池（建议用多个，避免被限制）
+# Nitter 实例池（2026年4月可用实例）
 NITTER_INSTANCES = [
     "https://nitter.privacydev.net",
     "https://nitter.poast.org",
@@ -55,39 +54,45 @@ NITTER_INSTANCES = [
     "https://nitter.it"
 ]
 
-# 用户代理轮换池
-USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-]
-
 # 输出文件
 ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
 
 # ==================== 工具函数 ====================
-def get_random_ua():
-    return random.choice(USER_AGENTS)
+def get_headers():
+    """生成一个看起来更像真实浏览器的请求头"""
+    return {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1',
+        'Cache-Control': 'max-age=0',
+    }
 
 def get_healthy_nitter_instance():
-    """简单健康检查：随机选一个实例，测试首页是否200"""
+    """健康检查：随机选一个实例，测试首页是否200"""
     random.shuffle(NITTER_INSTANCES)
     for inst in NITTER_INSTANCES:
         try:
-            r = requests.get(inst, timeout=5, headers={"User-Agent": get_random_ua()})
+            r = requests.get(inst, timeout=5, headers=get_headers())
             if r.status_code == 200:
                 return inst
         except:
             continue
     return NITTER_INSTANCES[0]  # 全挂了就硬用第一个
 
-def fetch_tweets(username, since_hours=6):
-    """通过 Nitter 抓取某账号最近 since_hours 小时的推文"""
+def fetch_tweets(username):
+    """通过 Nitter 抓取某账号的推文（最多10条）"""
     instance = get_healthy_nitter_instance()
     url = f"{instance}/{username}"
-    headers = {"User-Agent": get_random_ua()}
     try:
-        r = requests.get(url, headers=headers, timeout=10)
+        r = requests.get(url, headers=get_headers(), timeout=10)
         if r.status_code != 200:
             print(f"  Nitter 返回 {r.status_code}")
             return []
@@ -96,6 +101,8 @@ def fetch_tweets(username, since_hours=6):
         # 查找推文内容（根据 Nitter 的 HTML 结构）
         for tweet_div in soup.select(".tweet-content"):
             text = tweet_div.get_text(strip=True)
+            if not text:
+                continue
             # 找时间链接
             time_link = tweet_div.find_previous("a", class_="tweet-date")
             if time_link:
@@ -114,6 +121,8 @@ def fetch_tweets(username, since_hours=6):
                 "timestamp": datetime.now(timezone.utc).isoformat(),
                 "original_time": time_str
             })
+            if len(tweets) >= 10:  # 每个账号最多10条，避免过多
+                break
         print(f"  从 @{username} 抓取到 {len(tweets)} 条推文")
         return tweets
     except Exception as e:
@@ -132,21 +141,8 @@ def save_items(items):
 
 def extract_article_links(homepage_url):
     """从新闻首页提取所有文章链接（返回绝对URL列表）"""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-        'Sec-Fetch-Dest': 'document',
-        'Sec-Fetch-Mode': 'navigate',
-        'Sec-Fetch-Site': 'none',
-        'Sec-Fetch-User': '?1',
-        'Cache-Control': 'max-age=0',
-    }
     try:
-        r = requests.get(homepage_url, headers=headers, timeout=10)
+        r = requests.get(homepage_url, headers=get_headers(), timeout=10)
         if r.status_code != 200:
             print(f"  首页请求失败 {homepage_url}，状态码 {r.status_code}")
             return []
@@ -171,28 +167,17 @@ def extract_article_links(homepage_url):
                 links.add(full_url)
         
         # 限制最多前15个最新文章
-        return list(links)[:15]
+        result = list(links)[:15]
+        print(f"  从 {homepage_url} 提取到 {len(result)} 个文章链接")
+        return result
     except Exception as e:
         print(f"  提取文章链接失败 {homepage_url}: {e}")
         return []
 
 def fetch_article_detail(article_url):
     """抓取单篇文章详情（标题、发布时间）"""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-        'Sec-Fetch-Dest': 'document',
-        'Sec-Fetch-Mode': 'navigate',
-        'Sec-Fetch-Site': 'none',
-        'Sec-Fetch-User': '?1',
-        'Cache-Control': 'max-age=0',
-    }
     try:
-        r = requests.get(article_url, headers=headers, timeout=10)
+        r = requests.get(article_url, headers=get_headers(), timeout=10)
         if r.status_code != 200:
             return None
         soup = BeautifulSoup(r.text, "html.parser")
@@ -337,20 +322,19 @@ def main():
             if tw["id"] not in existing_ids:
                 new_items.append(tw)
                 existing_ids.add(tw["id"])
-        time.sleep(random.uniform(1, 3))
+        time.sleep(random.uniform(2, 5))  # 随机延迟2-5秒，更像人类
     
     # 抓取新闻文章（从首页提取链接）
     for homepage in NEWS_URLS:
         print(f"从首页提取文章链接: {homepage}")
         article_links = extract_article_links(homepage)
-        print(f"  找到 {len(article_links)} 个文章链接")
         for article_url in article_links:
             print(f"  抓取文章: {article_url}")
             article = fetch_article_detail(article_url)
             if article and article["id"] not in existing_ids:
                 new_items.append(article)
                 existing_ids.add(article["id"])
-            time.sleep(random.uniform(1, 2))
+            time.sleep(random.uniform(2, 4))  # 随机延迟2-4秒
     
     if new_items:
         all_items.extend(new_items)
