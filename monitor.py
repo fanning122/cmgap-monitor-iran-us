@@ -3,7 +3,7 @@
 """
 美伊谈判监测脚本
 - 抓取指定 X 账号推文（通过 Nitter）
-- 抓取指定新闻网站文章
+- 从新闻网站首页自动提取文章链接并抓取详情
 - 保存到 items.json，按条目保留时间戳
 - 生成最近6小时的 index.html 并推送到 gh-pages
 """
@@ -12,6 +12,7 @@ import os
 import json
 import time
 import random
+import hashlib
 import requests
 from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
@@ -19,13 +20,12 @@ from typing import List, Dict, Any
 
 # ==================== 配置区 ====================
 # 你要监测的 X 账号列表（不带@）
-X_ACCOUNTS = [    
+X_ACCOUNTS = [
     "foreignofficepk",
     "mishaqdar50",
     "cmshehbaz",
     "IranAmbPak",
     "paktvglobal",
-    # "geonews urdu" 需要确认正确用户名
     "Tasnimnews_Fa",
     "araghchi",
     "irimfa",
@@ -41,7 +41,7 @@ X_ACCOUNTS = [
     "CGTNEurope"
 ]
 
-# 新闻网站 URL 清单（示例，你需要替换成真实的 Dawn / ARY News 监测链接）
+# 新闻网站首页列表（脚本会自动从首页提取文章链接）
 NEWS_URLS = [
     "https://www.dawn.com",
     "https://arynews.tv"
@@ -49,15 +49,16 @@ NEWS_URLS = [
 
 # Nitter 实例池（建议用多个，避免被限制）
 NITTER_INSTANCES = [
-    "https://nitter.net",
+    "https://nitter.privacydev.net",
     "https://nitter.poast.org",
-    "https://nitter.privacydev.net"
+    "https://nitter.domain.glass",
+    "https://nitter.it"
 ]
 
 # 用户代理轮换池
 USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
 ]
 
 # 输出文件
@@ -88,20 +89,21 @@ def fetch_tweets(username, since_hours=6):
     try:
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code != 200:
+            print(f"  Nitter 返回 {r.status_code}")
             return []
         soup = BeautifulSoup(r.text, "html.parser")
         tweets = []
-        # 简化版解析：每个推文在 div.tweet-content 附近
+        # 查找推文内容（根据 Nitter 的 HTML 结构）
         for tweet_div in soup.select(".tweet-content"):
             text = tweet_div.get_text(strip=True)
-            # 尝试找时间链接
+            # 找时间链接
             time_link = tweet_div.find_previous("a", class_="tweet-date")
             if time_link:
                 time_str = time_link.get("title") or time_link.text
+                tweet_url = time_link.get("href", "")
             else:
                 time_str = datetime.now(timezone.utc).isoformat()
-            # 推文唯一ID（从链接提取）
-            tweet_url = time_link.get("href") if time_link else ""
+                tweet_url = ""
             tweet_id = tweet_url.split("/")[-1] if tweet_url else str(hash(text))
             tweets.append({
                 "id": f"tweet_{username}_{tweet_id}",
@@ -112,51 +114,21 @@ def fetch_tweets(username, since_hours=6):
                 "timestamp": datetime.now(timezone.utc).isoformat(),
                 "original_time": time_str
             })
+        print(f"  从 @{username} 抓取到 {len(tweets)} 条推文")
         return tweets
     except Exception as e:
-        print(f"抓取 {username} 失败: {e}")
+        print(f"  抓取 @{username} 失败: {e}")
         return []
 
-def fetch_article(url):
-    """抓取单篇新闻文章（支持 Dawn 和 ARY News）"""
-    headers = {"User-Agent": get_random_ua()}
-    try:
-        r = requests.get(url, headers=headers, timeout=10)
-        if r.status_code != 200:
-            print(f"  请求失败，状态码 {r.status_code}")
-            return None
-        soup = BeautifulSoup(r.text, "html.parser")
-        
-        # 提取标题
-        title_tag = soup.find("h1") or soup.find("title")
-        title = title_tag.get_text(strip=True) if title_tag else "无标题"
-        
-        # 提取发布时间（针对 Dawn）
-        pub_time = None
-        # Dawn 使用 <meta property="article:published_time">
-        meta_time = soup.find("meta", {"property": "article:published_time"})
-        if meta_time and meta_time.get("content"):
-            pub_time = meta_time["content"]
-        else:
-            # 尝试找 time 标签
-            time_tag = soup.find("time")
-            if time_tag and time_tag.get("datetime"):
-                pub_time = time_tag["datetime"]
-            else:
-                pub_time = datetime.now(timezone.utc).isoformat()
-        
-        return {
-            "id": f"article_{hash(url)}",
-            "type": "article",
-            "source": url.split("/")[2],
-            "title": title,
-            "url": url,
-            "timestamp": datetime.now(timezone.utc).isoformat(),
-            "original_time": pub_time
-        }
-    except Exception as e:
-        print(f"  抓取文章失败 {url}: {e}")
-        return None
+def load_items():
+    if os.path.exists(ITEMS_FILE):
+        with open(ITEMS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+def save_items(items):
+    with open(ITEMS_FILE, "w", encoding="utf-8") as f:
+        json.dump(items, f, indent=2, ensure_ascii=False)
 
 def extract_article_links(homepage_url):
     """从新闻首页提取所有文章链接（返回绝对URL列表）"""
@@ -181,14 +153,12 @@ def extract_article_links(homepage_url):
         soup = BeautifulSoup(r.text, "html.parser")
         
         links = set()
-        # 查找所有 <a> 标签，href 包含常见文章路径模式
         for a in soup.find_all('a', href=True):
             href = a['href']
-            # 针对 Dawn 和 ARY News 优化匹配规则
+            # 匹配常见文章路径模式
             if ('/news/' in href or '/story/' in href or '/article/' in href 
                 or '/2026/' in href or href.startswith('/politics/') 
                 or href.startswith('/business/') or href.startswith('/world/')):
-                # 转换为绝对URL
                 if href.startswith('/'):
                     full_url = homepage_url.rstrip('/') + href
                 elif href.startswith('http'):
@@ -243,8 +213,6 @@ def fetch_article_detail(article_url):
             else:
                 pub_time = datetime.now(timezone.utc).isoformat()
         
-        # 生成唯一ID
-        import hashlib
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         
         return {
@@ -266,7 +234,6 @@ def filter_recent_items(items, hours=6):
     cutoff = now_utc - timedelta(hours=hours)
     recent = []
     for item in items:
-        # 优先使用 original_time，其次 timestamp
         ts_str = item.get("original_time") or item.get("timestamp")
         if not ts_str:
             continue
@@ -360,7 +327,7 @@ def main():
     print(f"{datetime.now()} 开始抓取...")
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
-    new_items = []   # ✅ 关键修复：确保 new_items 在开头初始化
+    new_items = []
     
     # 抓取推文
     for username in X_ACCOUNTS:
