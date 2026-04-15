@@ -160,11 +160,11 @@ def filter_recent_items(items, hours=6):
     cutoff = now_utc - timedelta(hours=hours)
     recent = []
     for item in items:
-        # timestamp 字段是 ISO 格式字符串
-        ts_str = item.get("timestamp", "")
+        # 优先使用 original_time（文章/推文的真实发布时间），如果没有则回退到 timestamp（抓取时间）
+        ts_str = item.get("original_time") or item.get("timestamp")
         if not ts_str:
             continue
-        # 处理可能的 Z 结尾
+        # 处理可能的 Z 结尾（UTC标识）
         if ts_str.endswith("Z"):
             ts_str = ts_str.replace("Z", "+00:00")
         try:
