@@ -118,20 +118,33 @@ def fetch_tweets(username, since_hours=6):
         return []
 
 def fetch_article(url):
-    """抓取单篇新闻文章（简化版，实际需根据网站结构调整）"""
+    """抓取单篇新闻文章（支持 Dawn 和 ARY News）"""
     headers = {"User-Agent": get_random_ua()}
     try:
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code != 200:
+            print(f"  请求失败，状态码 {r.status_code}")
             return None
         soup = BeautifulSoup(r.text, "html.parser")
-        title = soup.find("title").get_text(strip=True) if soup.find("title") else "无标题"
-        # 简单提取发布时间（假设有 meta 属性）
-        time_meta = soup.find("meta", {"property": "article:published_time"})
-        if time_meta and time_meta.get("content"):
-            pub_time = time_meta["content"]
+        
+        # 提取标题
+        title_tag = soup.find("h1") or soup.find("title")
+        title = title_tag.get_text(strip=True) if title_tag else "无标题"
+        
+        # 提取发布时间（针对 Dawn）
+        pub_time = None
+        # Dawn 使用 <meta property="article:published_time">
+        meta_time = soup.find("meta", {"property": "article:published_time"})
+        if meta_time and meta_time.get("content"):
+            pub_time = meta_time["content"]
         else:
-            pub_time = datetime.now(timezone.utc).isoformat()
+            # 尝试找 time 标签
+            time_tag = soup.find("time")
+            if time_tag and time_tag.get("datetime"):
+                pub_time = time_tag["datetime"]
+            else:
+                pub_time = datetime.now(timezone.utc).isoformat()
+        
         return {
             "id": f"article_{hash(url)}",
             "type": "article",
@@ -142,7 +155,7 @@ def fetch_article(url):
             "original_time": pub_time
         }
     except Exception as e:
-        print(f"抓取文章失败 {url}: {e}")
+        print(f"  抓取文章失败 {url}: {e}")
         return None
 
 def load_items():
