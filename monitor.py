@@ -24,7 +24,7 @@ X_ACCOUNTS = ["PakistanMFA", "IRIMFA", "USAdepartmentofstate"]
 # 新闻网站 URL 清单（示例，你需要替换成真实的 Dawn / ARY News 监测链接）
 NEWS_URLS = [
     "https://www.dawn.com/news/iran-us",
-    "https://arynews.tv/category/iran-us-tensions/"
+    "https://arynews.tv"
 ]
 
 # Nitter 实例池（建议用多个，避免被限制）
