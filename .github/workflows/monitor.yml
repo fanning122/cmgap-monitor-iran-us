@@ -1,40 +1,31 @@
-name: 美伊谈判监测
+name: 美伊谈判新闻监测
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # 每5分钟运行一次（避免资源消耗过大）
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    
     steps:
       - uses: actions/checkout@v4
-      
       - name: 安装 Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
       - name: 安装 Chrome 浏览器
         run: |
           wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
           sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
-      
       - name: 安装 ChromeDriver
         uses: nanasess/setup-chromedriver@v2
-        with:
-          chromedriver-version: '120.0.6099.71'  # 指定版本以匹配Chrome
-      
       - name: 安装依赖
         run: pip install -r requirements.txt
-      
       - name: 运行监测脚本
         run: python monitor.py
-      
       - name: 部署到 GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
