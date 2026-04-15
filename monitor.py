@@ -277,7 +277,7 @@ def filter_recent_items(items, hours=6):
 
 # ==================== HTML 生成函数 ====================
 def generate_html(recent_items):
-    """生成 index.html"""
+    """生成 index.html（时间显示为巴基斯坦伊斯兰堡时间 PKT）"""
     tweets = [i for i in recent_items if i["type"] == "tweet"]
     articles = [i for i in recent_items if i["type"] == "article"]
     tweets.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
@@ -304,7 +304,7 @@ def generate_html(recent_items):
 </head>
 <body>
     <h1>📡 美伊谈判实时监测</h1>
-    <p>🕒 更新时间：{update_time} (UTC) | 显示最近6小时内数据 | 每分钟自动刷新</p>
+    <p>🕒 更新时间：{update_time} | 显示最近6小时内数据 | 每5分钟自动刷新</p>
     <h2>🐦 X 推文 ({tweet_count})</h2>
     {tweets_html}
     <h2>📰 新闻文章 ({article_count})</h2>
@@ -341,7 +341,12 @@ def generate_html(recent_items):
     if not articles:
         articles_html = "<p>暂无最近6小时的新文章。</p>"
     
-    update_time = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    # 巴基斯坦时区 (UTC+5)
+    utc_now = datetime.now(timezone.utc)
+    pkt_timezone = timezone(timedelta(hours=5))
+    pkt_now = utc_now.astimezone(pkt_timezone)
+    update_time = pkt_now.strftime("%Y-%m-%d %H:%M:%S PKT")
+    
     html = html_template.format(
         update_time=update_time,
         tweet_count=len(tweets),
