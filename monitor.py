@@ -158,6 +158,87 @@ def fetch_article(url):
         print(f"  抓取文章失败 {url}: {e}")
         return None
 
+def extract_article_links(homepage_url):
+    """从新闻首页提取所有文章链接（返回绝对URL列表）"""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    }
+    try:
+        r = requests.get(homepage_url, headers=headers, timeout=10)
+        if r.status_code != 200:
+            print(f"  首页请求失败 {homepage_url}，状态码 {r.status_code}")
+            return []
+        soup = BeautifulSoup(r.text, "html.parser")
+        
+        links = set()
+        # 查找所有 <a> 标签，href 包含 /news/ 或 /story/ 等常见文章路径模式
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            # 过滤：通常文章链接包含 /news/ 或 /story/ 或 /article/，且长度大于一定值
+            if '/news/' in href or '/story/' in href or '/article/' in href or '/2026/' in href:
+                # 转换为绝对URL
+                if href.startswith('/'):
+                    full_url = homepage_url.rstrip('/') + href
+                elif href.startswith('http'):
+                    full_url = href
+                else:
+                    continue
+                # 排除首页、分类页、标签页等（可选）
+                if 'category' not in full_url and 'tag' not in full_url:
+                    links.add(full_url)
+        
+        # 限制最多抓取前10个最新文章（避免太多）
+        return list(links)[:10]
+    except Exception as e:
+        print(f"  提取文章链接失败 {homepage_url}: {e}")
+        return []
+
+def fetch_article_detail(article_url):
+    """抓取单篇文章详情（标题、发布时间）"""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    }
+    try:
+        r = requests.get(article_url, headers=headers, timeout=10)
+        if r.status_code != 200:
+            return None
+        soup = BeautifulSoup(r.text, "html.parser")
+        
+        # 标题
+        title_tag = soup.find("h1") or soup.find("title")
+        title = title_tag.get_text(strip=True) if title_tag else "无标题"
+        
+        # 发布时间
+        pub_time = None
+        meta_time = soup.find("meta", {"property": "article:published_time"})
+        if meta_time and meta_time.get("content"):
+            pub_time = meta_time["content"]
+        else:
+            time_tag = soup.find("time")
+            if time_tag and time_tag.get("datetime"):
+                pub_time = time_tag["datetime"]
+            else:
+                pub_time = datetime.now(timezone.utc).isoformat()
+        
+        # 生成唯一ID
+        import hashlib
+        url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
+        
+        return {
+            "id": f"article_{url_hash}",
+            "type": "article",
+            "source": article_url.split("/")[2],
+            "title": title,
+            "url": article_url,
+            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "original_time": pub_time
+        }
+    except Exception as e:
+        print(f"  抓取文章详情失败 {article_url}: {e}")
+        return None
+
 def load_items():
     if os.path.exists(ITEMS_FILE):
         with open(ITEMS_FILE, "r", encoding="utf-8") as f:
@@ -282,13 +363,19 @@ def main():
         time.sleep(random.uniform(1, 3))  # 随机延迟
     
     # 抓取新闻文章
-    for url in NEWS_URLS:
-        print(f"抓取文章 {url} ...")
-        article = fetch_article(url)
+# 抓取新闻文章（从首页提取链接）
+for homepage in NEWS_URLS:
+    print(f"从首页提取文章链接: {homepage}")
+    article_links = extract_article_links(homepage)
+    print(f"  找到 {len(article_links)} 个文章链接")
+    
+    for article_url in article_links:
+        print(f"  抓取文章: {article_url}")
+        article = fetch_article_detail(article_url)
         if article and article["id"] not in existing_ids:
             new_items.append(article)
             existing_ids.add(article["id"])
-        time.sleep(random.uniform(1, 3))
+        time.sleep(random.uniform(1, 2))  # 避免过快
     
     if new_items:
         all_items.extend(new_items)
