@@ -161,8 +161,17 @@ def fetch_article(url):
 def extract_article_links(homepage_url):
     """从新闻首页提取所有文章链接（返回绝对URL列表）"""
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1',
+        'Cache-Control': 'max-age=0',
     }
     try:
         r = requests.get(homepage_url, headers=headers, timeout=10)
@@ -172,11 +181,13 @@ def extract_article_links(homepage_url):
         soup = BeautifulSoup(r.text, "html.parser")
         
         links = set()
-        # 查找所有 <a> 标签，href 包含 /news/ 或 /story/ 等常见文章路径模式
+        # 查找所有 <a> 标签，href 包含常见文章路径模式
         for a in soup.find_all('a', href=True):
             href = a['href']
-            # 过滤：通常文章链接包含 /news/ 或 /story/ 或 /article/，且长度大于一定值
-            if '/news/' in href or '/story/' in href or '/article/' in href or '/2026/' in href:
+            # 针对 Dawn 和 ARY News 优化匹配规则
+            if ('/news/' in href or '/story/' in href or '/article/' in href 
+                or '/2026/' in href or href.startswith('/politics/') 
+                or href.startswith('/business/') or href.startswith('/world/')):
                 # 转换为绝对URL
                 if href.startswith('/'):
                     full_url = homepage_url.rstrip('/') + href
@@ -184,12 +195,13 @@ def extract_article_links(homepage_url):
                     full_url = href
                 else:
                     continue
-                # 排除首页、分类页、标签页等（可选）
-                if 'category' not in full_url and 'tag' not in full_url:
-                    links.add(full_url)
+                # 排除明显不是文章页的链接
+                if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
+                    continue
+                links.add(full_url)
         
-        # 限制最多抓取前10个最新文章（避免太多）
-        return list(links)[:10]
+        # 限制最多前15个最新文章
+        return list(links)[:15]
     except Exception as e:
         print(f"  提取文章链接失败 {homepage_url}: {e}")
         return []
@@ -197,8 +209,17 @@ def extract_article_links(homepage_url):
 def fetch_article_detail(article_url):
     """抓取单篇文章详情（标题、发布时间）"""
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1',
+        'Cache-Control': 'max-age=0',
     }
     try:
         r = requests.get(article_url, headers=headers, timeout=10)
@@ -239,26 +260,16 @@ def fetch_article_detail(article_url):
         print(f"  抓取文章详情失败 {article_url}: {e}")
         return None
 
-def load_items():
-    if os.path.exists(ITEMS_FILE):
-        with open(ITEMS_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
-
-def save_items(items):
-    with open(ITEMS_FILE, "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2, ensure_ascii=False)
-
 def filter_recent_items(items, hours=6):
+    """保留最近 hours 小时内的条目（基于 original_time 或 timestamp）"""
     now_utc = datetime.now(timezone.utc)
     cutoff = now_utc - timedelta(hours=hours)
     recent = []
     for item in items:
-        # 优先使用 original_time（文章/推文的真实发布时间），如果没有则回退到 timestamp（抓取时间）
+        # 优先使用 original_time，其次 timestamp
         ts_str = item.get("original_time") or item.get("timestamp")
         if not ts_str:
             continue
-        # 处理可能的 Z 结尾（UTC标识）
         if ts_str.endswith("Z"):
             ts_str = ts_str.replace("Z", "+00:00")
         try:
@@ -270,12 +281,11 @@ def filter_recent_items(items, hours=6):
     return recent
 
 def generate_html(recent_items):
-    """根据最近条目生成 index.html"""
+    """生成 index.html"""
     tweets = [i for i in recent_items if i["type"] == "tweet"]
     articles = [i for i in recent_items if i["type"] == "article"]
-    # 按时间倒序排序
-    tweets.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
-    articles.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
+    tweets.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
+    articles.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
     
     html_template = """
 <!DOCTYPE html>
@@ -350,7 +360,7 @@ def main():
     print(f"{datetime.now()} 开始抓取...")
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
-    new_items = []
+    new_items = []   # ✅ 关键修复：确保 new_items 在开头初始化
     
     # 抓取推文
     for username in X_ACCOUNTS:
@@ -360,22 +370,20 @@ def main():
             if tw["id"] not in existing_ids:
                 new_items.append(tw)
                 existing_ids.add(tw["id"])
-        time.sleep(random.uniform(1, 3))  # 随机延迟
+        time.sleep(random.uniform(1, 3))
     
-    # 抓取新闻文章
-# 抓取新闻文章（从首页提取链接）
-for homepage in NEWS_URLS:
-    print(f"从首页提取文章链接: {homepage}")
-    article_links = extract_article_links(homepage)
-    print(f"  找到 {len(article_links)} 个文章链接")
-    
-    for article_url in article_links:
-        print(f"  抓取文章: {article_url}")
-        article = fetch_article_detail(article_url)
-        if article and article["id"] not in existing_ids:
-            new_items.append(article)
-            existing_ids.add(article["id"])
-        time.sleep(random.uniform(1, 2))  # 避免过快
+    # 抓取新闻文章（从首页提取链接）
+    for homepage in NEWS_URLS:
+        print(f"从首页提取文章链接: {homepage}")
+        article_links = extract_article_links(homepage)
+        print(f"  找到 {len(article_links)} 个文章链接")
+        for article_url in article_links:
+            print(f"  抓取文章: {article_url}")
+            article = fetch_article_detail(article_url)
+            if article and article["id"] not in existing_ids:
+                new_items.append(article)
+                existing_ids.add(article["id"])
+            time.sleep(random.uniform(1, 2))
     
     if new_items:
         all_items.extend(new_items)
