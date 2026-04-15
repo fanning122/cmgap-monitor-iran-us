@@ -43,7 +43,7 @@ X_ACCOUNTS = [
 
 # 新闻网站 URL 清单（示例，你需要替换成真实的 Dawn / ARY News 监测链接）
 NEWS_URLS = [
-    "https://www.dawn.com/news",
+    "https://www.dawn.com",
     "https://arynews.tv"
 ]
 
