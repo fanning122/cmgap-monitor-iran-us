@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判新闻监测脚本（仅抓取新闻网站首页）
-- 使用 Selenium 从 Dawn 和 ARY News 首页提取最新文章链接
-- 抓取文章标题、发布时间
+美伊谈判监测脚本（最终稳定版）
+- 使用 Selenium 模拟浏览器 + 你的 Cookie 抓取 X 账号推文
+- 每个账号先抓一次，失败则重试一次，成功则跳过第二次
+- 抓取 Dawn 和 ARY News 列表页的最新文章
 - 保存到 items.json，基于发布时间过滤最近6小时
 - 生成 index.html 并部署到 GitHub Pages
+- 总运行时间目标 ≤ 8 分钟
 """
 
 import os
@@ -23,101 +25,179 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
 # ==================== 配置区 ====================
+X_ACCOUNTS = [
+    "foreignofficepk", "mishaqdar50", "cmshehbaz", "pakpmo", "IranAmbPak",
+    "paktvglobal", "Tasnimnews_Fa", "araghchi", "irimfa", "mb_ghalibaf",
+    "AJENews", "whitehouse", "usembislamabad", "CBSNews", "JenniferJJacobs",
+    "KellieMeyerNews", "realdonaldtrump", "vp", "geonews_urdu", "CGTNEurope"
+]
+
 NEWS_URLS = [
-    "https://www.dawn.com",
-    "https://arynews.tv"
+    "https://www.dawn.com/latest-news",
+    "https://arynews.tv/tag/islamabad-talks"
 ]
 
 ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
+MAX_TWEETS_PER_ACCOUNT = 3       # 每个账号最多抓取3条推文
+RETRY_DELAY = 3                   # 重试前等待3秒
+BETWEEN_ACCOUNTS_DELAY = (3, 5)  # 账号之间的随机延迟（秒）
+BETWEEN_ARTICLES_DELAY = (1, 2)  # 文章之间的随机延迟（秒）
 
-# ==================== Selenium 浏览器配置 ====================
+# ==================== 全局浏览器驱动（复用） ====================
+_driver = None
+
 def get_driver():
-    """配置 Chrome 无头浏览器"""
-    chrome_options = Options()
-    chrome_options.add_argument("--headless=new")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    chrome_options.add_experimental_option('useAutomationExtension', False)
-    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-    
-    # 随机 User-Agent
-    user_agents = [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    ]
-    chrome_options.add_argument(f"--user-agent={random.choice(user_agents)}")
-    
-    return webdriver.Chrome(options=chrome_options)
+    global _driver
+    if _driver is None:
+        chrome_options = Options()
+        chrome_options.add_argument("--headless=new")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--window-size=1920,1080")
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        chrome_options.add_experimental_option('useAutomationExtension', False)
+        chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+        user_agents = [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        ]
+        chrome_options.add_argument(f"--user-agent={random.choice(user_agents)}")
+        _driver = webdriver.Chrome(options=chrome_options)
+    return _driver
 
-# ==================== 文章链接提取（从首页） ====================
-def extract_article_links(homepage_url):
-    """从首页提取文章链接（绝对URL）"""
-    driver = None
+def close_driver():
+    global _driver
+    if _driver:
+        _driver.quit()
+        _driver = None
+
+# ==================== 注入 X Cookie ====================
+def inject_x_cookies(driver):
+    """从环境变量读取 Cookie 并注入到浏览器"""
+    auth_token = os.environ.get("X_AUTH_TOKEN")
+    ct0 = os.environ.get("X_CT0")
+    twid = os.environ.get("X_TWID")
+    if not (auth_token and ct0 and twid):
+        print("⚠️ 未配置 X Cookie (X_AUTH_TOKEN, X_CT0, X_TWID)，跳过 X 推文抓取")
+        return False
+    # 先访问 x.com 建立域名
+    driver.get("https://x.com")
+    time.sleep(2)
+    driver.add_cookie({"name": "auth_token", "value": auth_token, "domain": ".x.com"})
+    driver.add_cookie({"name": "ct0", "value": ct0, "domain": ".x.com"})
+    driver.add_cookie({"name": "twid", "value": twid, "domain": ".x.com"})
+    print("✅ X Cookie 注入成功")
+    return True
+
+# ==================== 从 X 页面抓取推文（带重试） ====================
+def fetch_tweets_from_account(username, driver, max_tweets=MAX_TWEETS_PER_ACCOUNT, retry=True):
+    """抓取一个账号的推文，失败时可重试一次"""
+    url = f"https://x.com/{username}"
+    for attempt in range(1, 3 if retry else 1):
+        try:
+            driver.get(url)
+            # 等待推文出现，最长15秒
+            WebDriverWait(driver, 15).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'article[data-testid="tweet"]'))
+            )
+            # 额外等待1秒让JS渲染
+            time.sleep(1)
+            soup = BeautifulSoup(driver.page_source, "html.parser")
+            articles = soup.find_all('article', attrs={'data-testid': 'tweet'})
+            tweets = []
+            for art in articles[:max_tweets]:
+                try:
+                    text_div = art.find('div', {'data-testid': 'tweetText'})
+                    text = text_div.get_text(strip=True) if text_div else ""
+                    if len(text) > 500:
+                        text = text[:497] + "..."
+                    # 推文链接
+                    time_link = art.find('a', href=True)
+                    tweet_url = ""
+                    tweet_id = ""
+                    if time_link and '/status/' in time_link.get('href', ''):
+                        tweet_url = "https://x.com" + time_link['href']
+                        tweet_id = tweet_url.split('/')[-1]
+                    else:
+                        tweet_id = str(hash(text))
+                    # 发布时间
+                    time_tag = art.find('time')
+                    pub_time = time_tag['datetime'] if time_tag and time_tag.get('datetime') else datetime.now(timezone.utc).isoformat()
+                    tweets.append({
+                        "id": f"tweet_{username}_{tweet_id}",
+                        "type": "tweet",
+                        "username": username,
+                        "text": text,
+                        "url": tweet_url if tweet_url else f"https://x.com/{username}/status/{tweet_id}",
+                        "timestamp": datetime.now(timezone.utc).isoformat(),
+                        "original_time": pub_time
+                    })
+                except Exception as e:
+                    print(f"    解析单条推文出错: {e}")
+                    continue
+            if tweets:
+                print(f"  从 @{username} 抓取到 {len(tweets)} 条推文")
+                return tweets
+            else:
+                print(f"  从 @{username} 未找到推文（尝试 {attempt}/2）")
+                if attempt == 1 and retry:
+                    time.sleep(RETRY_DELAY)
+                    continue
+                return []
+        except Exception as e:
+            print(f"  抓取 @{username} 失败 (尝试 {attempt}/2): {e}")
+            if attempt == 1 and retry:
+                time.sleep(RETRY_DELAY)
+                continue
+            return []
+    return []
+
+# ==================== 新闻抓取（复用同一个 driver） ====================
+def extract_article_links(listpage_url):
+    driver = get_driver()
     try:
-        driver = get_driver()
-        print(f"  正在访问首页: {homepage_url}")
-        driver.get(homepage_url)
-        WebDriverWait(driver, 15).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
+        print(f"  正在访问列表页: {listpage_url}")
+        driver.get(listpage_url)
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        
         links = set()
         for a in soup.find_all('a', href=True):
             href = a['href']
             if not href or len(href) < 10:
                 continue
-            
-            # 匹配文章路径模式（根据 Dawn 和 ARY News 结构调整）
-            if ('/news/' in href or '/story/' in href or '/article/' in href 
-                or '/2026/' in href or href.startswith('/politics/') 
+            # 匹配文章路径
+            if ('/news/' in href or '/story/' in href or '/article/' in href
+                or '/2026/' in href or href.startswith('/politics/')
                 or href.startswith('/business/') or href.startswith('/world/')):
-                
                 if href.startswith('/'):
-                    full_url = homepage_url.rstrip('/') + href
+                    full_url = listpage_url.rstrip('/') + href
                 elif href.startswith('http'):
                     full_url = href
                 else:
                     continue
-                
-                # 排除明显不是文章页的链接
+                # 过滤非文章页
                 if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
                     continue
-                
-                if homepage_url.split('/')[2] in full_url:  # 确保同域名
+                if listpage_url.split('/')[2] in full_url:
                     links.add(full_url)
-        
-        result = list(links)[:15]  # 最多取15个最新链接
-        print(f"  从 {homepage_url} 提取到 {len(result)} 个文章链接")
+        result = list(links)[:10]
+        print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
         return result
     except Exception as e:
-        print(f"  提取链接失败 {homepage_url}: {e}")
+        print(f"  ❌ 提取链接失败 {listpage_url}: {e}")
         return []
-    finally:
-        if driver:
-            driver.quit()
 
-# ==================== 文章详情抓取 ====================
 def fetch_article_detail(article_url):
-    """抓取单篇文章的标题和发布时间"""
-    driver = None
+    driver = get_driver()
     try:
-        driver = get_driver()
         driver.get(article_url)
-        WebDriverWait(driver, 15).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        
-        # 标题
         title_tag = soup.find("h1") or soup.find("title")
         title = title_tag.get_text(strip=True) if title_tag else "无标题"
-        
-        # 发布时间（优先 article:published_time）
+        # 提取发布时间
         pub_time = None
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
@@ -130,7 +210,6 @@ def fetch_article_detail(article_url):
                 pub_time = time_tag.get_text(strip=True)
             else:
                 pub_time = datetime.now(timezone.utc).isoformat()
-        
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         return {
             "id": f"article_{url_hash}",
@@ -142,11 +221,8 @@ def fetch_article_detail(article_url):
             "original_time": pub_time
         }
     except Exception as e:
-        print(f"  抓取详情失败 {article_url}: {e}")
+        print(f"  ❌ 抓取详情失败 {article_url}: {e}")
         return None
-    finally:
-        if driver:
-            driver.quit()
 
 # ==================== 数据存储与过滤 ====================
 def load_items():
@@ -179,20 +255,24 @@ def filter_recent_items(items, hours=6):
 
 # ==================== 生成 HTML ====================
 def generate_html(recent_items):
-    tweets = []  # 无推文
+    tweets = [i for i in recent_items if i["type"] == "tweet"]
     articles = [i for i in recent_items if i["type"] == "article"]
+    tweets.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
     articles.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
-    
+
     html_template = """
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>美伊谈判新闻监测 · 最近6小时</title>
+    <title>美伊谈判监测 · 最近6小时</title>
     <style>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }}
         h1 {{ color: #2c3e50; border-left: 5px solid #e74c3c; padding-left: 15px; }}
+        .tweet {{ background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #1da1f2; }}
+        .tweet .username {{ font-weight: bold; color: #1da1f2; }}
+        .tweet .time {{ font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }}
         .article {{ background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #27ae60; }}
         .article .source {{ font-weight: bold; color: #27ae60; }}
         .article .time {{ font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }}
@@ -201,17 +281,32 @@ def generate_html(recent_items):
     </style>
 </head>
 <body>
-    <h1>📡 美伊谈判新闻实时监测</h1>
-    <p>🕒 更新时间：{update_time} | 显示最近6小时内数据 | 每5分钟自动刷新</p>
+    <h1>📡 美伊谈判实时监测</h1>
+    <p>🕒 更新时间：{update_time} | 显示最近6小时内数据 | 每10分钟自动刷新</p>
+    <h2>🐦 X 推文 ({tweet_count})</h2>
+    {tweets_html}
     <h2>📰 新闻文章 ({article_count})</h2>
     {articles_html}
     <div class="footer">
         <hr>
-        <p>数据来源：Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过6小时的内容</p>
+        <p>数据来源：X平台 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过6小时的内容</p>
     </div>
 </body>
 </html>"""
-    
+
+    tweets_html = ""
+    for t in tweets:
+        tweets_html += f'''
+        <div class="tweet">
+            <div class="username">@{t.get("username", "")}</div>
+            <div>{t.get("text", "")}</div>
+            <div class="time">🕒 {t.get("original_time", t.get("timestamp", ""))}</div>
+            <div><a href="{t.get("url", "#")}" target="_blank">查看原文</a></div>
+        </div>
+        '''
+    if not tweets:
+        tweets_html = "<p>暂无最近6小时的新推文。</p>"
+
     articles_html = ""
     for a in articles:
         articles_html += f'''
@@ -223,16 +318,17 @@ def generate_html(recent_items):
         '''
     if not articles:
         articles_html = "<p>暂无最近6小时的新文章。</p>"
-    
-    # 巴基斯坦时区
+
     utc_now = datetime.now(timezone.utc)
     pkt_timezone = timezone(timedelta(hours=5))
     pkt_now = utc_now.astimezone(pkt_timezone)
     update_time = pkt_now.strftime("%Y-%m-%d %H:%M:%S PKT")
-    
+
     html = html_template.format(
         update_time=update_time,
+        tweet_count=len(tweets),
         article_count=len(articles),
+        tweets_html=tweets_html,
         articles_html=articles_html
     )
     with open(HTML_FILE, "w", encoding="utf-8") as f:
@@ -240,18 +336,42 @@ def generate_html(recent_items):
 
 # ==================== 主函数 ====================
 def main():
-    print(f"{datetime.now()} 开始抓取新闻首页...")
+    print(f"{datetime.now()} 开始抓取（最终稳定版）...")
+    start = time.time()
+    driver = get_driver()
+    x_enabled = inject_x_cookies(driver)
+
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
     new_items = []
-    
-    for homepage in NEWS_URLS:
-        print(f"\n处理首页: {homepage}")
-        article_links = extract_article_links(homepage)
-        print(f"  找到 {len(article_links)} 个链接")
-        
-        for idx, article_url in enumerate(article_links):
-            print(f"  [{idx+1}/{len(article_links)}] 抓取: {article_url[:80]}...")
+
+    # 1. 抓取 X 推文（带重试，失败跳过）
+    if x_enabled:
+        print("\n--- 抓取 X 平台推文 ---")
+        for idx, username in enumerate(X_ACCOUNTS, 1):
+            print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} ...")
+            tweets = fetch_tweets_from_account(username, driver, retry=True)
+            for tw in tweets:
+                if tw["id"] not in existing_ids:
+                    new_items.append(tw)
+                    existing_ids.add(tw["id"])
+            # 账号间延迟
+            if idx < len(X_ACCOUNTS):
+                delay = random.uniform(*BETWEEN_ACCOUNTS_DELAY)
+                time.sleep(delay)
+    else:
+        print("\n⚠️ 跳过 X 推文抓取（未配置 Cookie）")
+
+    # 2. 抓取新闻文章（必须执行，失败只打印错误）
+    print("\n--- 抓取新闻文章 ---")
+    for listpage in NEWS_URLS:
+        print(f"处理列表页: {listpage}")
+        article_links = extract_article_links(listpage)
+        if not article_links:
+            print(f"  ⚠️ 未提取到链接，跳过该列表页")
+            continue
+        for idx, article_url in enumerate(article_links, 1):
+            print(f"  [{idx}/{len(article_links)}] 抓取: {article_url[:80]}...")
             article = fetch_article_detail(article_url)
             if article and article["id"] not in existing_ids:
                 new_items.append(article)
@@ -259,19 +379,24 @@ def main():
                 print(f"    ✅ 新增: {article['title'][:50]}")
             else:
                 print(f"    ⏭️ 已存在或失败")
-            time.sleep(random.uniform(2, 4))  # 避免过快
-    
+            time.sleep(random.uniform(*BETWEEN_ARTICLES_DELAY))
+
+    # 3. 保存新内容
     if new_items:
         all_items.extend(new_items)
         save_items(all_items)
-        print(f"\n✅ 总计新增 {len(new_items)} 篇文章")
+        print(f"\n✅ 总计新增 {len(new_items)} 条内容")
     else:
-        print("\n📭 无新增文章")
-    
+        print("\n📭 无新增内容")
+
+    # 4. 过滤最近6小时并生成 HTML
     recent = filter_recent_items(all_items, hours=6)
     generate_html(recent)
-    print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期文章")
-    print("完成")
+    elapsed = time.time() - start
+    print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
+    print(f"总耗时: {elapsed:.2f} 秒")
+
+    close_driver()
 
 if __name__ == "__main__":
     main()
