@@ -23,11 +23,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
-# twscrape 相关
 from twscrape import API
 
 # ==================== 配置区 ====================
-# X 账号列表（20个）
 X_ACCOUNTS = [
     "foreignofficepk",
     "mishaqdar50",
@@ -51,7 +49,6 @@ X_ACCOUNTS = [
     "CGTNEurope"
 ]
 
-# 新闻列表页 URL
 NEWS_URLS = [
     "https://www.dawn.com/latest-news",
     "https://arynews.tv/tag/islamabad-talks"
@@ -80,7 +77,7 @@ def get_driver():
     
     return webdriver.Chrome(options=chrome_options)
 
-# ==================== 文章链接提取（从列表页） ====================
+# ==================== 文章链接提取 ====================
 def extract_article_links(listpage_url):
     driver = None
     try:
@@ -169,17 +166,15 @@ def fetch_article_detail(article_url):
         if driver:
             driver.quit()
 
-# ==================== X 推文抓取（使用 twscrape） ====================
+# ==================== X 推文抓取（异步） ====================
 async def fetch_tweets_with_cookie(username, api, max_tweets=10):
     tweets = []
     try:
-        # 通过用户名获取用户信息
         user = await api.user_by_login(username)
         if not user:
             print(f"  无法获取 @{username} 的用户信息")
             return []
         
-        # 获取用户的最新推文
         user_tweets = []
         async for tweet in api.user_tweets(user.id, limit=max_tweets):
             user_tweets.append(tweet)
@@ -208,8 +203,43 @@ async def fetch_tweets_with_cookie(username, api, max_tweets=10):
         print(f"  抓取 @{username} 失败: {e}")
         return []
 
-def run_fetch_tweets(username, api):
-    return asyncio.run(fetch_tweets_with_cookie(username, api))
+async def fetch_all_tweets(usernames, existing_ids):
+    """异步批量抓取所有推文，返回新增条目列表和更新后的 existing_ids"""
+    new_items = []
+    auth_token = os.environ.get("X_AUTH_TOKEN")
+    ct0 = os.environ.get("X_CT0")
+    twid = os.environ.get("X_TWID")
+    
+    if not (auth_token and ct0 and twid):
+        print("⚠️ 未配置 X Cookie Secrets，跳过 X 推文抓取")
+        return new_items, existing_ids
+    
+    try:
+        api = API()
+        cookies = f"auth_token={auth_token}; ct0={ct0}; twid={twid}"
+        await api.pool.add_account(
+            username="auto_account",  # 任意标识
+            password="",
+            email="",
+            email_password="",
+            cookies=cookies
+        )
+        await api.pool.login_all()
+        print("✅ X 账号认证成功")
+        
+        for username in usernames:
+            print(f"抓取 @{username} ...")
+            tweets = await fetch_tweets_with_cookie(username, api)
+            for tw in tweets:
+                if tw["id"] not in existing_ids:
+                    new_items.append(tw)
+                    existing_ids.add(tw["id"])
+            await asyncio.sleep(random.uniform(2, 4))
+    except Exception as e:
+        print(f"❌ X 认证失败: {e}")
+        print("   请检查 GitHub Secrets 中的 X_AUTH_TOKEN, X_CT0, X_TWID 是否正确")
+    
+    return new_items, existing_ids
 
 # ==================== 数据存储与过滤 ====================
 def load_items():
@@ -328,45 +358,13 @@ def main():
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
-    # ========== 1. 抓取 X 推文（使用 twscrape + Cookie 认证） ==========
+    # 1. 抓取 X 推文（异步）
     print("\n--- 抓取 X 平台推文 ---")
+    # 运行异步函数，获取新增推文和更新后的 ID 集合
+    x_new, existing_ids = asyncio.run(fetch_all_tweets(X_ACCOUNTS, existing_ids))
+    new_items.extend(x_new)
     
-    auth_token = os.environ.get("X_AUTH_TOKEN")
-    ct0 = os.environ.get("X_CT0")
-    twid = os.environ.get("X_TWID")
-    
-    if auth_token and ct0 and twid:
-        try:
-            # 使用 twscrape API，并添加带有 Cookie 的账户
-            api = API()
-            # 构造 Cookie 字符串
-            cookies = f"auth_token={auth_token}; ct0={ct0}; twid={twid}"
-            # 添加账户（使用 Cookie 认证）
-            await api.pool.add_account(
-                username="your_username",  # 可以随便填，主要用于日志记录
-                password="",                # 不需要密码
-                email="",                   # 不需要邮箱
-                email_password="",          # 不需要邮箱密码
-                cookies=cookies
-            )
-            await api.pool.login_all()
-            print("✅ X 账号认证成功")
-            
-            for username in X_ACCOUNTS:
-                print(f"抓取 @{username} ...")
-                tweets = run_fetch_tweets(username, api)
-                for tw in tweets:
-                    if tw["id"] not in existing_ids:
-                        new_items.append(tw)
-                        existing_ids.add(tw["id"])
-                time.sleep(random.uniform(2, 4))
-        except Exception as e:
-            print(f"❌ X 认证失败: {e}")
-            print("   请检查 GitHub Secrets 中的 X_AUTH_TOKEN, X_CT0, X_TWID 是否正确")
-    else:
-        print("⚠️ 未配置 X Cookie Secrets，跳过 X 推文抓取")
-    
-    # ========== 2. 抓取新闻文章 ==========
+    # 2. 抓取新闻文章（同步）
     print("\n--- 抓取新闻文章 ---")
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
@@ -384,6 +382,7 @@ def main():
                 print(f"    ⏭️ 已存在或失败")
             time.sleep(random.uniform(2, 4))
     
+    # 3. 保存新内容
     if new_items:
         all_items.extend(new_items)
         save_items(all_items)
@@ -391,6 +390,7 @@ def main():
     else:
         print("\n📭 无新增内容")
     
+    # 4. 过滤并生成 HTML
     recent = filter_recent_items(all_items, hours=6)
     generate_html(recent)
     print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
