@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判监测脚本（最终稳定版）
-- 使用 Selenium 模拟浏览器 + 你的 Cookie 抓取 X 账号推文
-- 每个账号先抓一次，失败则重试一次，成功则跳过第二次
-- 抓取 Dawn 和 ARY News 列表页的最新文章
-- 保存到 items.json，基于发布时间过滤最近6小时
-- 生成 index.html 并部署到 GitHub Pages
-- 总运行时间目标 ≤ 8 分钟
+美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换）
+- 顺序处理 20 个 X 账号
+- 每个账号随机选择使用账号1（40%）或账号2（60%）
+- 如果所选账号抓取失败（重试后无结果），立即切换另一个账号重试一次
+- 两次均失败则跳过该账号
+- 新闻抓取部分不变
 """
 
 import os
@@ -39,12 +38,12 @@ NEWS_URLS = [
 
 ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
-MAX_TWEETS_PER_ACCOUNT = 3       # 每个账号最多抓取3条推文
-RETRY_DELAY = 3                   # 重试前等待3秒
-BETWEEN_ACCOUNTS_DELAY = (3, 5)  # 账号之间的随机延迟（秒）
-BETWEEN_ARTICLES_DELAY = (1, 2)  # 文章之间的随机延迟（秒）
+MAX_TWEETS_PER_ACCOUNT = 3
+RETRY_DELAY = 3
+BETWEEN_ACCOUNTS_DELAY = (3, 5)   # 账号之间延迟
+BETWEEN_ARTICLES_DELAY = (1, 2)
 
-# ==================== 全局浏览器驱动（复用） ====================
+# ==================== 全局浏览器驱动 ====================
 _driver = None
 
 def get_driver():
@@ -73,36 +72,43 @@ def close_driver():
         _driver.quit()
         _driver = None
 
-# ==================== 注入 X Cookie ====================
-def inject_x_cookies(driver):
-    """从环境变量读取 Cookie 并注入到浏览器"""
-    auth_token = os.environ.get("X_AUTH_TOKEN")
-    ct0 = os.environ.get("X_CT0")
-    twid = os.environ.get("X_TWID")
+# ==================== Cookie 注入（支持多账号） ====================
+def inject_cookies(driver, account=1):
+    """注入指定账号的 Cookie，account=1 或 2"""
+    if account == 1:
+        auth_token = os.environ.get("X_AUTH_TOKEN")
+        ct0 = os.environ.get("X_CT0")
+        twid = os.environ.get("X_TWID")
+    else:
+        auth_token = os.environ.get("X_AUTH_TOKEN2")
+        ct0 = os.environ.get("X_CT02")
+        twid = os.environ.get("X_TWID2")
+    
     if not (auth_token and ct0 and twid):
-        print("⚠️ 未配置 X Cookie (X_AUTH_TOKEN, X_CT0, X_TWID)，跳过 X 推文抓取")
+        print(f"⚠️ 未配置账号{account}的 Cookie，跳过")
         return False
+    
+    # 清除现有 Cookie
+    driver.delete_all_cookies()
     # 先访问 x.com 建立域名
     driver.get("https://x.com")
     time.sleep(2)
     driver.add_cookie({"name": "auth_token", "value": auth_token, "domain": ".x.com"})
     driver.add_cookie({"name": "ct0", "value": ct0, "domain": ".x.com"})
     driver.add_cookie({"name": "twid", "value": twid, "domain": ".x.com"})
-    print("✅ X Cookie 注入成功")
+    print(f"✅ 账号{account} Cookie 注入成功")
     return True
 
-# ==================== 从 X 页面抓取推文（带重试） ====================
-def fetch_tweets_from_account(username, driver, max_tweets=MAX_TWEETS_PER_ACCOUNT, retry=True):
-    """抓取一个账号的推文，失败时可重试一次"""
+# ==================== 抓取单个账号推文（指定账号的 Cookie） ====================
+def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS_PER_ACCOUNT, retry=True):
+    """使用指定账号的 Cookie 抓取推文，失败时可重试一次"""
     url = f"https://x.com/{username}"
     for attempt in range(1, 3 if retry else 1):
         try:
             driver.get(url)
-            # 等待推文出现，最长15秒
             WebDriverWait(driver, 15).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'article[data-testid="tweet"]'))
             )
-            # 额外等待1秒让JS渲染
             time.sleep(1)
             soup = BeautifulSoup(driver.page_source, "html.parser")
             articles = soup.find_all('article', attrs={'data-testid': 'tweet'})
@@ -113,7 +119,6 @@ def fetch_tweets_from_account(username, driver, max_tweets=MAX_TWEETS_PER_ACCOUN
                     text = text_div.get_text(strip=True) if text_div else ""
                     if len(text) > 500:
                         text = text[:497] + "..."
-                    # 推文链接
                     time_link = art.find('a', href=True)
                     tweet_url = ""
                     tweet_id = ""
@@ -122,7 +127,6 @@ def fetch_tweets_from_account(username, driver, max_tweets=MAX_TWEETS_PER_ACCOUN
                         tweet_id = tweet_url.split('/')[-1]
                     else:
                         tweet_id = str(hash(text))
-                    # 发布时间
                     time_tag = art.find('time')
                     pub_time = time_tag['datetime'] if time_tag and time_tag.get('datetime') else datetime.now(timezone.utc).isoformat()
                     tweets.append({
@@ -138,23 +142,23 @@ def fetch_tweets_from_account(username, driver, max_tweets=MAX_TWEETS_PER_ACCOUN
                     print(f"    解析单条推文出错: {e}")
                     continue
             if tweets:
-                print(f"  从 @{username} 抓取到 {len(tweets)} 条推文")
+                print(f"  从 @{username} (账号{account}) 抓取到 {len(tweets)} 条推文")
                 return tweets
             else:
-                print(f"  从 @{username} 未找到推文（尝试 {attempt}/2）")
+                print(f"  从 @{username} (账号{account}) 未找到推文（尝试 {attempt}/2）")
                 if attempt == 1 and retry:
                     time.sleep(RETRY_DELAY)
                     continue
                 return []
         except Exception as e:
-            print(f"  抓取 @{username} 失败 (尝试 {attempt}/2): {e}")
+            print(f"  抓取 @{username} (账号{account}) 失败 (尝试 {attempt}/2): {e}")
             if attempt == 1 and retry:
                 time.sleep(RETRY_DELAY)
                 continue
             return []
     return []
 
-# ==================== 新闻抓取（复用同一个 driver） ====================
+# ==================== 新闻抓取函数（已修复） ====================
 def extract_article_links(listpage_url):
     driver = get_driver()
     try:
@@ -162,25 +166,35 @@ def extract_article_links(listpage_url):
         driver.get(listpage_url)
         WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         soup = BeautifulSoup(driver.page_source, "html.parser")
+        domain = listpage_url.split("/")[2]
         links = set()
         for a in soup.find_all('a', href=True):
             href = a['href']
-            if not href or len(href) < 10:
+            if not href or len(href) < 5:
                 continue
-            # 匹配文章路径
-            if ('/news/' in href or '/story/' in href or '/article/' in href
-                or '/2026/' in href or href.startswith('/politics/')
-                or href.startswith('/business/') or href.startswith('/world/')):
-                if href.startswith('/'):
-                    full_url = listpage_url.rstrip('/') + href
-                elif href.startswith('http'):
-                    full_url = href
-                else:
+            if href.startswith('/'):
+                full_url = listpage_url.rstrip('/') + href
+            elif href.startswith('http'):
+                full_url = href
+            else:
+                continue
+            if domain not in full_url:
+                continue
+            if domain == "arynews.tv":
+                path = full_url.replace(f"https://{domain}", "")
+                if any(x in path for x in ['/category/', '/tag/', '/author/', '/page/', '/video', '/live']):
                     continue
-                # 过滤非文章页
-                if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
+                if len(path) < 15:
                     continue
-                if listpage_url.split('/')[2] in full_url:
+                if path in ["", "/"]:
+                    continue
+                links.add(full_url)
+            else:
+                if ('/news/' in href or '/story/' in href or '/article/' in href 
+                    or '/2026/' in href or href.startswith('/politics/') 
+                    or href.startswith('/business/') or href.startswith('/world/')):
+                    if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
+                        continue
                     links.add(full_url)
         result = list(links)[:10]
         print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
@@ -194,10 +208,27 @@ def fetch_article_detail(article_url):
     try:
         driver.get(article_url)
         WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        page_title = driver.title.lower()
+        if "opt out" in page_title or "privacy" in page_title:
+            print(f"  ⚠️ 页面可能被屏蔽，跳过: {article_url[:80]}")
+            return None
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        title_tag = soup.find("h1") or soup.find("title")
-        title = title_tag.get_text(strip=True) if title_tag else "无标题"
-        # 提取发布时间
+        title = None
+        og_title = soup.find("meta", property="og:title")
+        if og_title and og_title.get("content"):
+            title = og_title["content"].strip()
+        if not title:
+            h1 = soup.find("h1")
+            if h1:
+                title = h1.get_text(strip=True)
+        if not title:
+            t = soup.find("title")
+            if t:
+                candidate = t.get_text(strip=True)
+                if not any(x in candidate.lower() for x in ["opt out", "privacy", "share"]):
+                    title = candidate
+        if not title:
+            title = "无标题"
         pub_time = None
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
@@ -259,7 +290,6 @@ def generate_html(recent_items):
     articles = [i for i in recent_items if i["type"] == "article"]
     tweets.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
     articles.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
-
     html_template = """
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -293,7 +323,6 @@ def generate_html(recent_items):
     </div>
 </body>
 </html>"""
-
     tweets_html = ""
     for t in tweets:
         tweets_html += f'''
@@ -306,7 +335,6 @@ def generate_html(recent_items):
         '''
     if not tweets:
         tweets_html = "<p>暂无最近6小时的新推文。</p>"
-
     articles_html = ""
     for a in articles:
         articles_html += f'''
@@ -318,12 +346,10 @@ def generate_html(recent_items):
         '''
     if not articles:
         articles_html = "<p>暂无最近6小时的新文章。</p>"
-
     utc_now = datetime.now(timezone.utc)
     pkt_timezone = timezone(timedelta(hours=5))
     pkt_now = utc_now.astimezone(pkt_timezone)
     update_time = pkt_now.strftime("%Y-%m-%d %H:%M:%S PKT")
-
     html = html_template.format(
         update_time=update_time,
         tweet_count=len(tweets),
@@ -334,35 +360,71 @@ def generate_html(recent_items):
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(html)
 
-# ==================== 主函数 ====================
+# ==================== 主函数（随机分配 Cookie，4:6 比例，失败切换） ====================
 def main():
-    print(f"{datetime.now()} 开始抓取（最终稳定版）...")
+    print(f"{datetime.now()} 开始抓取（双账号随机比例 4:6，失败自动切换）...")
     start = time.time()
     driver = get_driver()
-    x_enabled = inject_x_cookies(driver)
-
+    
+    # 检查两个账号的 Cookie 是否可用
+    account1_available = bool(os.environ.get("X_AUTH_TOKEN") and os.environ.get("X_CT0") and os.environ.get("X_TWID"))
+    account2_available = bool(os.environ.get("X_AUTH_TOKEN2") and os.environ.get("X_CT02") and os.environ.get("X_TWID2"))
+    if not (account1_available or account2_available):
+        print("❌ 未配置任何 X Cookie，跳过 X 推文抓取")
+        x_enabled = False
+    else:
+        x_enabled = True
+        # 如果只有一个账号可用，则强制使用该账号
+        if not account1_available:
+            print("⚠️ 账号1 Cookie 未配置，将只使用账号2")
+        if not account2_available:
+            print("⚠️ 账号2 Cookie 未配置，将只使用账号1")
+    
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
     new_items = []
-
-    # 1. 抓取 X 推文（带重试，失败跳过）
+    
+    # 抓取 X 推文
     if x_enabled:
-        print("\n--- 抓取 X 平台推文 ---")
+        print("\n--- 抓取 X 平台推文（随机分配 Cookie，比例 4:6） ---")
         for idx, username in enumerate(X_ACCOUNTS, 1):
-            print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} ...")
-            tweets = fetch_tweets_from_account(username, driver, retry=True)
+            # 随机选择使用的账号（40% 概率选账号1，60% 选账号2）
+            # 如果某个账号不可用，则降级到另一个
+            if account1_available and account2_available:
+                chosen_account = 1 if random.random() < 0.4 else 2
+            elif account1_available:
+                chosen_account = 1
+            else:
+                chosen_account = 2
+            
+            print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} (随机选用账号{chosen_account}) ...")
+            # 注入对应账号的 Cookie
+            if not inject_cookies(driver, account=chosen_account):
+                print(f"  ❌ 无法注入账号{chosen_account}的 Cookie，跳过 @{username}")
+                continue
+            
+            tweets = fetch_tweets_from_account(username, driver, account=chosen_account, retry=True)
+            # 如果失败且另一个账号可用，则切换重试
+            if not tweets and ((chosen_account == 1 and account2_available) or (chosen_account == 2 and account1_available)):
+                other_account = 2 if chosen_account == 1 else 1
+                print(f"  ⚠️ 账号{chosen_account} 抓取失败，尝试切换至账号{other_account}...")
+                if inject_cookies(driver, account=other_account):
+                    tweets = fetch_tweets_from_account(username, driver, account=other_account, retry=True)
+                    if tweets:
+                        print(f"  ✅ 切换账号{other_account}后成功抓取")
+                else:
+                    print(f"  ❌ 无法注入账号{other_account}的 Cookie，无法切换")
+            
             for tw in tweets:
                 if tw["id"] not in existing_ids:
                     new_items.append(tw)
                     existing_ids.add(tw["id"])
-            # 账号间延迟
+            
             if idx < len(X_ACCOUNTS):
                 delay = random.uniform(*BETWEEN_ACCOUNTS_DELAY)
                 time.sleep(delay)
-    else:
-        print("\n⚠️ 跳过 X 推文抓取（未配置 Cookie）")
-
-    # 2. 抓取新闻文章（必须执行，失败只打印错误）
+    
+    # 抓取新闻文章（不变）
     print("\n--- 抓取新闻文章 ---")
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
@@ -380,23 +442,21 @@ def main():
             else:
                 print(f"    ⏭️ 已存在或失败")
             time.sleep(random.uniform(*BETWEEN_ARTICLES_DELAY))
-
-    # 3. 保存新内容
+    
     if new_items:
         all_items.extend(new_items)
         save_items(all_items)
         print(f"\n✅ 总计新增 {len(new_items)} 条内容")
     else:
         print("\n📭 无新增内容")
-
-    # 4. 过滤最近6小时并生成 HTML
+    
     recent = filter_recent_items(all_items, hours=6)
     generate_html(recent)
     elapsed = time.time() - start
     print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
     print(f"总耗时: {elapsed:.2f} 秒")
-
     close_driver()
 
 if __name__ == "__main__":
     main()
+    
