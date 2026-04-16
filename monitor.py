@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换）
+美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换，增量统计）
 - 顺序处理 20 个 X 账号
 - 每个账号随机选择使用账号1（40%）或账号2（60%）
 - 如果所选账号抓取失败（重试后无结果），立即切换另一个账号重试一次
 - 两次均失败则跳过该账号
-- 新闻抓取部分不变
+- 新闻抓取部分使用 Selenium，支持 Dawn 和 ARY News
+- 生成 HTML 时显示与上次刷新相比的新增内容
 """
 
 import os
@@ -158,7 +159,7 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
             return []
     return []
 
-# ==================== 新闻抓取函数（已修复） ====================
+# ==================== 新闻抓取函数 ====================
 def extract_article_links(listpage_url):
     driver = get_driver()
     try:
@@ -284,18 +285,67 @@ def filter_recent_items(items, hours=6):
             recent.append(item)
     return recent
 
-# ==================== 生成 HTML ====================
+# ==================== 增量统计（上次与本次对比） ====================
+def save_last_stats(tweet_count, article_count, update_time_str):
+    stats = {
+        "tweet_count": tweet_count,
+        "article_count": article_count,
+        "update_time": update_time_str
+    }
+    with open("last_stats.json", "w", encoding="utf-8") as f:
+        json.dump(stats, f)
+
+def load_last_stats():
+    if os.path.exists("last_stats.json"):
+        with open("last_stats.json", "r", encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+# ==================== 生成 HTML（含增量说明） ====================
 def generate_html(recent_items):
     tweets = [i for i in recent_items if i["type"] == "tweet"]
     articles = [i for i in recent_items if i["type"] == "article"]
     tweets.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
     articles.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
+    
+    # 获取上次统计数据
+    last_stats = load_last_stats()
+    last_tweet_count = last_stats.get("tweet_count", 0) if last_stats else 0
+    last_article_count = last_stats.get("article_count", 0) if last_stats else 0
+    last_update = last_stats.get("update_time", "从未刷新") if last_stats else "从未刷新"
+    
+    # 计算增量
+    new_tweets = len(tweets) - last_tweet_count
+    new_articles = len(articles) - last_article_count
+    if new_tweets < 0:
+        new_tweets = 0
+    if new_articles < 0:
+        new_articles = 0
+    
+    # 构建变化提示文字
+    if new_tweets == 0 and new_articles == 0:
+        change_msg = "📭 自上次刷新以来，无新内容。"
+    else:
+        changes = []
+        if new_tweets > 0:
+            changes.append(f"{new_tweets} 条新推文")
+        if new_articles > 0:
+            changes.append(f"{new_articles} 篇新文章")
+        change_msg = f"✨ 相比上次（{last_update}），新增 " + "、".join(changes) + "。"
+    
+    # 巴基斯坦时区时间
+    utc_now = datetime.now(timezone.utc)
+    pkt_timezone = timezone(timedelta(hours=5))
+    pkt_now = utc_now.astimezone(pkt_timezone)
+    update_time = pkt_now.strftime("%Y-%m-%d %H:%M:%S PKT")
+    
     html_template = """
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="360"> <!-- 6分钟自动刷新，可修改秒数 -->
     <title>美伊谈判监测 · 最近6小时</title>
     <style>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }}
@@ -308,11 +358,16 @@ def generate_html(recent_items):
         .article .time {{ font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }}
         .footer {{ text-align: center; margin-top: 30px; font-size: 0.8em; color: #7f8c8d; }}
         hr {{ margin: 20px 0; }}
+        .status {{ background: #e8f4f8; padding: 10px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9em; }}
     </style>
 </head>
 <body>
     <h1>📡 美伊谈判实时监测</h1>
-    <p>🕒 更新时间：{update_time} | 显示最近6小时内数据 | 每10分钟自动刷新</p>
+    <div class="status">
+        🕒 当前页面数据更新时间：{update_time}<br>
+        📊 显示最近6小时内数据 | 页面每10分钟自动刷新<br>
+        {change_msg}
+    </div>
     <h2>🐦 X 推文 ({tweet_count})</h2>
     {tweets_html}
     <h2>📰 新闻文章 ({article_count})</h2>
@@ -323,6 +378,7 @@ def generate_html(recent_items):
     </div>
 </body>
 </html>"""
+    
     tweets_html = ""
     for t in tweets:
         tweets_html += f'''
@@ -335,6 +391,7 @@ def generate_html(recent_items):
         '''
     if not tweets:
         tweets_html = "<p>暂无最近6小时的新推文。</p>"
+    
     articles_html = ""
     for a in articles:
         articles_html += f'''
@@ -346,21 +403,22 @@ def generate_html(recent_items):
         '''
     if not articles:
         articles_html = "<p>暂无最近6小时的新文章。</p>"
-    utc_now = datetime.now(timezone.utc)
-    pkt_timezone = timezone(timedelta(hours=5))
-    pkt_now = utc_now.astimezone(pkt_timezone)
-    update_time = pkt_now.strftime("%Y-%m-%d %H:%M:%S PKT")
+    
     html = html_template.format(
         update_time=update_time,
         tweet_count=len(tweets),
         article_count=len(articles),
+        change_msg=change_msg,
         tweets_html=tweets_html,
         articles_html=articles_html
     )
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(html)
+    
+    # 保存本次统计数据
+    save_last_stats(len(tweets), len(articles), update_time)
 
-# ==================== 主函数（随机分配 Cookie，4:6 比例，失败切换） ====================
+# ==================== 主函数 ====================
 def main():
     print(f"{datetime.now()} 开始抓取（双账号随机比例 4:6，失败自动切换）...")
     start = time.time()
@@ -374,7 +432,6 @@ def main():
         x_enabled = False
     else:
         x_enabled = True
-        # 如果只有一个账号可用，则强制使用该账号
         if not account1_available:
             print("⚠️ 账号1 Cookie 未配置，将只使用账号2")
         if not account2_available:
@@ -388,8 +445,6 @@ def main():
     if x_enabled:
         print("\n--- 抓取 X 平台推文（随机分配 Cookie，比例 4:6） ---")
         for idx, username in enumerate(X_ACCOUNTS, 1):
-            # 随机选择使用的账号（40% 概率选账号1，60% 选账号2）
-            # 如果某个账号不可用，则降级到另一个
             if account1_available and account2_available:
                 chosen_account = 1 if random.random() < 0.4 else 2
             elif account1_available:
@@ -398,13 +453,11 @@ def main():
                 chosen_account = 2
             
             print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} (随机选用账号{chosen_account}) ...")
-            # 注入对应账号的 Cookie
             if not inject_cookies(driver, account=chosen_account):
                 print(f"  ❌ 无法注入账号{chosen_account}的 Cookie，跳过 @{username}")
                 continue
             
             tweets = fetch_tweets_from_account(username, driver, account=chosen_account, retry=True)
-            # 如果失败且另一个账号可用，则切换重试
             if not tweets and ((chosen_account == 1 and account2_available) or (chosen_account == 2 and account1_available)):
                 other_account = 2 if chosen_account == 1 else 1
                 print(f"  ⚠️ 账号{chosen_account} 抓取失败，尝试切换至账号{other_account}...")
@@ -424,7 +477,7 @@ def main():
                 delay = random.uniform(*BETWEEN_ACCOUNTS_DELAY)
                 time.sleep(delay)
     
-    # 抓取新闻文章（不变）
+    # 抓取新闻文章
     print("\n--- 抓取新闻文章 ---")
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
@@ -459,4 +512,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
