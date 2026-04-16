@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判监测脚本（双 X 账号备用版）
-- 使用两套 Cookie，主账号失败时自动切换到备用账号
-- 其他功能保持不变
+美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换）
+- 顺序处理 20 个 X 账号
+- 每个账号随机选择使用账号1（40%）或账号2（60%）
+- 如果所选账号抓取失败（重试后无结果），立即切换另一个账号重试一次
+- 两次均失败则跳过该账号
+- 新闻抓取部分不变
 """
 
 import os
@@ -37,7 +40,7 @@ ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
 MAX_TWEETS_PER_ACCOUNT = 3
 RETRY_DELAY = 3
-BETWEEN_ACCOUNTS_DELAY = (3, 5)
+BETWEEN_ACCOUNTS_DELAY = (3, 5)   # 账号之间延迟
 BETWEEN_ARTICLES_DELAY = (1, 2)
 
 # ==================== 全局浏览器驱动 ====================
@@ -96,7 +99,7 @@ def inject_cookies(driver, account=1):
     print(f"✅ 账号{account} Cookie 注入成功")
     return True
 
-# ==================== 抓取单个账号推文（支持指定 Cookie 账号） ====================
+# ==================== 抓取单个账号推文（指定账号的 Cookie） ====================
 def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS_PER_ACCOUNT, retry=True):
     """使用指定账号的 Cookie 抓取推文，失败时可重试一次"""
     url = f"https://x.com/{username}"
@@ -155,7 +158,7 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
             return []
     return []
 
-# ==================== 新闻抓取函数（与原相同，但已修复） ====================
+# ==================== 新闻抓取函数（已修复） ====================
 def extract_article_links(listpage_url):
     driver = get_driver()
     try:
@@ -357,26 +360,25 @@ def generate_html(recent_items):
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(html)
 
-# ==================== 主函数（双账号切换逻辑） ====================
+# ==================== 主函数（随机分配 Cookie，4:6 比例，失败切换） ====================
 def main():
-    print(f"{datetime.now()} 开始抓取（双账号备用版）...")
+    print(f"{datetime.now()} 开始抓取（双账号随机比例 4:6，失败自动切换）...")
     start = time.time()
     driver = get_driver()
     
-    # 先尝试使用账号1注入 Cookie
-    use_account1 = inject_cookies(driver, account=1)
-    if not use_account1:
-        print("❌ 账号1 Cookie 未配置，尝试使用账号2")
-        use_account1 = False
-        if not inject_cookies(driver, account=2):
-            print("❌ 未配置任何 X Cookie，跳过 X 推文抓取")
-            x_enabled = False
-        else:
-            x_enabled = True
-            current_account = 2
+    # 检查两个账号的 Cookie 是否可用
+    account1_available = bool(os.environ.get("X_AUTH_TOKEN") and os.environ.get("X_CT0") and os.environ.get("X_TWID"))
+    account2_available = bool(os.environ.get("X_AUTH_TOKEN2") and os.environ.get("X_CT02") and os.environ.get("X_TWID2"))
+    if not (account1_available or account2_available):
+        print("❌ 未配置任何 X Cookie，跳过 X 推文抓取")
+        x_enabled = False
     else:
         x_enabled = True
-        current_account = 1
+        # 如果只有一个账号可用，则强制使用该账号
+        if not account1_available:
+            print("⚠️ 账号1 Cookie 未配置，将只使用账号2")
+        if not account2_available:
+            print("⚠️ 账号2 Cookie 未配置，将只使用账号1")
     
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
@@ -384,28 +386,43 @@ def main():
     
     # 抓取 X 推文
     if x_enabled:
-        print("\n--- 抓取 X 平台推文 ---")
+        print("\n--- 抓取 X 平台推文（随机分配 Cookie，比例 4:6） ---")
         for idx, username in enumerate(X_ACCOUNTS, 1):
-            print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} ...")
-            tweets = fetch_tweets_from_account(username, driver, account=current_account, retry=True)
-            # 如果抓取失败且当前是账号1，尝试切换到账号2重试
-            if not tweets and current_account == 1:
-                print(f"  ⚠️ 账号1 抓取 @{username} 失败，尝试切换至账号2...")
-                if inject_cookies(driver, account=2):
-                    current_account = 2
-                    tweets = fetch_tweets_from_account(username, driver, account=2, retry=True)
-                    # 无论成功与否，下次抓取继续使用账号2（避免频繁切换）
+            # 随机选择使用的账号（40% 概率选账号1，60% 选账号2）
+            # 如果某个账号不可用，则降级到另一个
+            if account1_available and account2_available:
+                chosen_account = 1 if random.random() < 0.4 else 2
+            elif account1_available:
+                chosen_account = 1
+            else:
+                chosen_account = 2
+            
+            print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} (随机选用账号{chosen_account}) ...")
+            # 注入对应账号的 Cookie
+            if not inject_cookies(driver, account=chosen_account):
+                print(f"  ❌ 无法注入账号{chosen_account}的 Cookie，跳过 @{username}")
+                continue
+            
+            tweets = fetch_tweets_from_account(username, driver, account=chosen_account, retry=True)
+            # 如果失败且另一个账号可用，则切换重试
+            if not tweets and ((chosen_account == 1 and account2_available) or (chosen_account == 2 and account1_available)):
+                other_account = 2 if chosen_account == 1 else 1
+                print(f"  ⚠️ 账号{chosen_account} 抓取失败，尝试切换至账号{other_account}...")
+                if inject_cookies(driver, account=other_account):
+                    tweets = fetch_tweets_from_account(username, driver, account=other_account, retry=True)
+                    if tweets:
+                        print(f"  ✅ 切换账号{other_account}后成功抓取")
                 else:
-                    print("  ❌ 账号2 Cookie 未配置，无法切换")
+                    print(f"  ❌ 无法注入账号{other_account}的 Cookie，无法切换")
+            
             for tw in tweets:
                 if tw["id"] not in existing_ids:
                     new_items.append(tw)
                     existing_ids.add(tw["id"])
+            
             if idx < len(X_ACCOUNTS):
                 delay = random.uniform(*BETWEEN_ACCOUNTS_DELAY)
                 time.sleep(delay)
-    else:
-        print("\n⚠️ 跳过 X 推文抓取（未配置 Cookie）")
     
     # 抓取新闻文章（不变）
     print("\n--- 抓取新闻文章 ---")
@@ -442,3 +459,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
