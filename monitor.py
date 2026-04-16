@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换，增量统计）
+美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换，增量统计，支持图片，自动清理过期数据）
 - 顺序处理 20 个 X 账号
 - 每个账号随机选择使用账号1（40%）或账号2（60%）
 - 如果所选账号抓取失败（重试后无结果），立即切换另一个账号重试一次
 - 两次均失败则跳过该账号
 - 新闻抓取部分使用 Selenium，支持 Dawn 和 ARY News
+- 抓取推文中的图片并保存到本地（原始尺寸，不替换URL），在 HTML 中显示
+- 每次运行时自动删除超过6小时的旧数据和对应的图片文件
 - 生成 HTML 时显示与上次刷新相比的新增内容
 """
 
@@ -15,6 +17,8 @@ import json
 import time
 import random
 import hashlib
+import requests
+import shutil
 from datetime import datetime, timezone, timedelta
 
 from selenium import webdriver
@@ -41,8 +45,10 @@ ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
 MAX_TWEETS_PER_ACCOUNT = 3
 RETRY_DELAY = 3
-BETWEEN_ACCOUNTS_DELAY = (3, 5)   # 账号之间延迟
+BETWEEN_ACCOUNTS_DELAY = (3, 5)
 BETWEEN_ARTICLES_DELAY = (1, 2)
+
+IMAGES_DIR = "images"
 
 # ==================== 全局浏览器驱动 ====================
 _driver = None
@@ -73,7 +79,7 @@ def close_driver():
         _driver.quit()
         _driver = None
 
-# ==================== Cookie 注入（支持多账号） ====================
+# ==================== Cookie 注入 ====================
 def inject_cookies(driver, account=1):
     """注入指定账号的 Cookie，account=1 或 2"""
     if account == 1:
@@ -89,9 +95,7 @@ def inject_cookies(driver, account=1):
         print(f"⚠️ 未配置账号{account}的 Cookie，跳过")
         return False
     
-    # 清除现有 Cookie
     driver.delete_all_cookies()
-    # 先访问 x.com 建立域名
     driver.get("https://x.com")
     time.sleep(2)
     driver.add_cookie({"name": "auth_token", "value": auth_token, "domain": ".x.com"})
@@ -100,9 +104,40 @@ def inject_cookies(driver, account=1):
     print(f"✅ 账号{account} Cookie 注入成功")
     return True
 
-# ==================== 抓取单个账号推文（指定账号的 Cookie） ====================
+# ==================== 下载图片（保持原始URL，不替换尺寸） ====================
+def download_image(img_url, save_dir=IMAGES_DIR):
+    """下载图片并返回本地文件名，失败返回 None（不修改URL参数）"""
+    if not img_url:
+        return None
+    try:
+        os.makedirs(save_dir, exist_ok=True)
+        # 使用 URL 的 MD5 作为文件名
+        img_hash = hashlib.md5(img_url.encode()).hexdigest()[:16]
+        # 提取扩展名
+        ext = os.path.splitext(img_url.split('?')[0])[1]
+        if not ext or len(ext) > 5:
+            ext = '.jpg'
+        local_filename = f"{img_hash}{ext}"
+        local_path = os.path.join(save_dir, local_filename)
+        if os.path.exists(local_path):
+            return local_filename
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        response = requests.get(img_url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            with open(local_path, 'wb') as f:
+                f.write(response.content)
+            print(f"    📸 已下载图片: {local_filename}")
+            return local_filename
+        else:
+            print(f"    ⚠️ 下载图片失败: {img_url} (HTTP {response.status_code})")
+            return None
+    except Exception as e:
+        print(f"    ⚠️ 下载图片异常: {img_url} - {e}")
+        return None
+
+# ==================== 抓取推文（保留原始图片URL） ====================
 def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS_PER_ACCOUNT, retry=True):
-    """使用指定账号的 Cookie 抓取推文，失败时可重试一次"""
+    """使用指定账号的 Cookie 抓取推文（包括图片），失败时可重试一次"""
     url = f"https://x.com/{username}"
     for attempt in range(1, 3 if retry else 1):
         try:
@@ -116,10 +151,35 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
             tweets = []
             for art in articles[:max_tweets]:
                 try:
+                    # 推文文本
                     text_div = art.find('div', {'data-testid': 'tweetText'})
                     text = text_div.get_text(strip=True) if text_div else ""
                     if len(text) > 500:
                         text = text[:497] + "..."
+                    
+                    # 提取图片原始 URL（不替换尺寸参数）
+                    images = []
+                    img_tags = art.find_all('img')
+                    for img in img_tags:
+                        src = img.get('src')
+                        if not src:
+                            continue
+                        # 过滤头像、表情
+                        if 'profile_images' in src or 'avatar' in src.lower() or 'twemoji' in src:
+                            continue
+                        # 保留原始 URL，不做任何替换
+                        images.append(src)
+                    # 去重
+                    images = list(dict.fromkeys(images))
+                    
+                    # 下载图片
+                    local_images = []
+                    for img_url in images:
+                        local_img = download_image(img_url)
+                        if local_img:
+                            local_images.append(local_img)
+                    
+                    # 推文链接和 ID
                     time_link = art.find('a', href=True)
                     tweet_url = ""
                     tweet_id = ""
@@ -128,13 +188,16 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
                         tweet_id = tweet_url.split('/')[-1]
                     else:
                         tweet_id = str(hash(text))
+                    
                     time_tag = art.find('time')
                     pub_time = time_tag['datetime'] if time_tag and time_tag.get('datetime') else datetime.now(timezone.utc).isoformat()
+                    
                     tweets.append({
                         "id": f"tweet_{username}_{tweet_id}",
                         "type": "tweet",
                         "username": username,
                         "text": text,
+                        "images": local_images,
                         "url": tweet_url if tweet_url else f"https://x.com/{username}/status/{tweet_id}",
                         "timestamp": datetime.now(timezone.utc).isoformat(),
                         "original_time": pub_time
@@ -159,7 +222,7 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
             return []
     return []
 
-# ==================== 新闻抓取函数 ====================
+# ==================== 新闻抓取函数（不变） ====================
 def extract_article_links(listpage_url):
     driver = get_driver()
     try:
@@ -285,7 +348,55 @@ def filter_recent_items(items, hours=6):
             recent.append(item)
     return recent
 
-# ==================== 增量统计（上次与本次对比） ====================
+# ==================== 清理过期数据（删除 items 中超过6小时的条目及对应图片） ====================
+def clean_old_data(hours=6):
+    """删除 items.json 中超过 hours 小时的数据，并删除不再被引用的图片文件"""
+    if not os.path.exists(ITEMS_FILE):
+        return
+    with open(ITEMS_FILE, "r", encoding="utf-8") as f:
+        all_items = json.load(f)
+    now_utc = datetime.now(timezone.utc)
+    cutoff = now_utc - timedelta(hours=hours)
+    
+    kept_items = []
+    used_images = set()
+    for item in all_items:
+        ts_str = item.get("original_time") or item.get("timestamp")
+        if not ts_str:
+            continue
+        if ts_str.endswith("Z"):
+            ts_str = ts_str.replace("Z", "+00:00")
+        try:
+            item_time = datetime.fromisoformat(ts_str)
+        except:
+            continue
+        if item_time >= cutoff:
+            kept_items.append(item)
+            # 收集该条目中引用的图片文件名
+            if item.get("type") == "tweet" and item.get("images"):
+                for img in item["images"]:
+                    used_images.add(img)
+    
+    # 保存过滤后的数据
+    if len(kept_items) != len(all_items):
+        save_items(kept_items)
+        print(f"🧹 已删除 {len(all_items) - len(kept_items)} 条超过 {hours} 小时的旧数据")
+    
+    # 删除不再使用的图片文件
+    if os.path.exists(IMAGES_DIR):
+        all_files = os.listdir(IMAGES_DIR)
+        deleted_count = 0
+        for fname in all_files:
+            if fname not in used_images:
+                try:
+                    os.remove(os.path.join(IMAGES_DIR, fname))
+                    deleted_count += 1
+                except:
+                    pass
+        if deleted_count > 0:
+            print(f"🧹 已删除 {deleted_count} 个不再使用的图片文件")
+
+# ==================== 增量统计 ====================
 def save_last_stats(tweet_count, article_count, update_time_str):
     stats = {
         "tweet_count": tweet_count,
@@ -301,20 +412,18 @@ def load_last_stats():
             return json.load(f)
     return None
 
-# ==================== 生成 HTML（含增量说明） ====================
+# ==================== 生成 HTML（支持图片显示） ====================
 def generate_html(recent_items):
     tweets = [i for i in recent_items if i["type"] == "tweet"]
     articles = [i for i in recent_items if i["type"] == "article"]
     tweets.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
     articles.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
     
-    # 获取上次统计数据
     last_stats = load_last_stats()
     last_tweet_count = last_stats.get("tweet_count", 0) if last_stats else 0
     last_article_count = last_stats.get("article_count", 0) if last_stats else 0
     last_update = last_stats.get("update_time", "从未刷新") if last_stats else "从未刷新"
     
-    # 计算增量
     new_tweets = len(tweets) - last_tweet_count
     new_articles = len(articles) - last_article_count
     if new_tweets < 0:
@@ -322,7 +431,6 @@ def generate_html(recent_items):
     if new_articles < 0:
         new_articles = 0
     
-    # 构建变化提示文字
     if new_tweets == 0 and new_articles == 0:
         change_msg = "📭 自上次刷新以来，无新内容。"
     else:
@@ -333,7 +441,6 @@ def generate_html(recent_items):
             changes.append(f"{new_articles} 篇新文章")
         change_msg = f"✨ 相比上次（{last_update}），新增 " + "、".join(changes) + "。"
     
-    # 巴基斯坦时区时间
     utc_now = datetime.now(timezone.utc)
     pkt_timezone = timezone(timedelta(hours=5))
     pkt_now = utc_now.astimezone(pkt_timezone)
@@ -345,7 +452,7 @@ def generate_html(recent_items):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="360"> <!-- 6分钟自动刷新，可修改秒数 -->
+    <meta http-equiv="refresh" content="600">
     <title>美伊谈判监测 · 最近6小时</title>
     <style>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }}
@@ -353,6 +460,9 @@ def generate_html(recent_items):
         .tweet {{ background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #1da1f2; }}
         .tweet .username {{ font-weight: bold; color: #1da1f2; }}
         .tweet .time {{ font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }}
+        .tweet .text {{ margin: 10px 0; }}
+        .tweet .images {{ display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }}
+        .tweet .images img {{ max-width: 200px; max-height: 200px; border-radius: 8px; border: 1px solid #ddd; }}
         .article {{ background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #27ae60; }}
         .article .source {{ font-weight: bold; color: #27ae60; }}
         .article .time {{ font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }}
@@ -381,10 +491,16 @@ def generate_html(recent_items):
     
     tweets_html = ""
     for t in tweets:
+        images_html = ""
+        if t.get("images"):
+            for img in t["images"]:
+                images_html += f'<img src="images/{img}" alt="推文图片">'
+            images_html = f'<div class="images">{images_html}</div>'
         tweets_html += f'''
         <div class="tweet">
             <div class="username">@{t.get("username", "")}</div>
-            <div>{t.get("text", "")}</div>
+            <div class="text">{t.get("text", "")}</div>
+            {images_html}
             <div class="time">🕒 {t.get("original_time", t.get("timestamp", ""))}</div>
             <div><a href="{t.get("url", "#")}" target="_blank">查看原文</a></div>
         </div>
@@ -415,16 +531,19 @@ def generate_html(recent_items):
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(html)
     
-    # 保存本次统计数据
     save_last_stats(len(tweets), len(articles), update_time)
 
 # ==================== 主函数 ====================
 def main():
-    print(f"{datetime.now()} 开始抓取（双账号随机比例 4:6，失败自动切换）...")
+    print(f"{datetime.now()} 开始抓取（支持图片、自动清理过期数据）...")
+    
+    # 第一步：清理超过6小时的旧数据和图片
+    clean_old_data(hours=6)
+    
     start = time.time()
     driver = get_driver()
+    os.makedirs(IMAGES_DIR, exist_ok=True)
     
-    # 检查两个账号的 Cookie 是否可用
     account1_available = bool(os.environ.get("X_AUTH_TOKEN") and os.environ.get("X_CT0") and os.environ.get("X_TWID"))
     account2_available = bool(os.environ.get("X_AUTH_TOKEN2") and os.environ.get("X_CT02") and os.environ.get("X_TWID2"))
     if not (account1_available or account2_available):
@@ -441,7 +560,6 @@ def main():
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
-    # 抓取 X 推文
     if x_enabled:
         print("\n--- 抓取 X 平台推文（随机分配 Cookie，比例 4:6） ---")
         for idx, username in enumerate(X_ACCOUNTS, 1):
@@ -477,7 +595,6 @@ def main():
                 delay = random.uniform(*BETWEEN_ACCOUNTS_DELAY)
                 time.sleep(delay)
     
-    # 抓取新闻文章
     print("\n--- 抓取新闻文章 ---")
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
