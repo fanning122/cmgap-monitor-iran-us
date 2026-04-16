@@ -162,27 +162,46 @@ def extract_article_links(listpage_url):
         driver.get(listpage_url)
         WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         soup = BeautifulSoup(driver.page_source, "html.parser")
+        domain = listpage_url.split("/")[2]
         links = set()
+        
         for a in soup.find_all('a', href=True):
             href = a['href']
-            if not href or len(href) < 10:
+            if not href or len(href) < 5:
                 continue
-            # 匹配文章路径
-            if ('/news/' in href or '/story/' in href or '/article/' in href
-                or '/2026/' in href or href.startswith('/politics/')
-                or href.startswith('/business/') or href.startswith('/world/')):
-                if href.startswith('/'):
-                    full_url = listpage_url.rstrip('/') + href
-                elif href.startswith('http'):
-                    full_url = href
-                else:
+            # 转换为绝对URL
+            if href.startswith('/'):
+                full_url = listpage_url.rstrip('/') + href
+            elif href.startswith('http'):
+                full_url = href
+            else:
+                continue
+            # 只保留同域名链接
+            if domain not in full_url:
+                continue
+            
+            # 根据域名采用不同规则
+            if domain == "arynews.tv":
+                # ARY News 文章路径特征：不含 /category/ /tag/ /author/ /page/ 等，且路径长度 > 15
+                path = full_url.replace(f"https://{domain}", "")
+                if any(x in path for x in ['/category/', '/tag/', '/author/', '/page/', '/video', '/live']):
                     continue
-                # 过滤非文章页
-                if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
+                if len(path) < 15:
                     continue
-                if listpage_url.split('/')[2] in full_url:
+                # 排除首页本身
+                if path in ["", "/"]:
+                    continue
+                links.add(full_url)
+            else:  # dawn.com 及其他
+                if ('/news/' in href or '/story/' in href or '/article/' in href 
+                    or '/2026/' in href or href.startswith('/politics/') 
+                    or href.startswith('/business/') or href.startswith('/world/')):
+                    # 排除非文章页
+                    if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
+                        continue
                     links.add(full_url)
-        result = list(links)[:10]
+        
+        result = list(links)[:10]  # 限制最多10个
         print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
         return result
     except Exception as e:
@@ -194,10 +213,36 @@ def fetch_article_detail(article_url):
     try:
         driver.get(article_url)
         WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        # 检查页面标题是否包含隐私提示（Dawn 屏蔽标识）
+        page_title = driver.title.lower()
+        if "opt out" in page_title or "privacy" in page_title or "share" in page_title:
+            print(f"  ⚠️ 页面可能被屏蔽（标题含隐私提示），跳过: {article_url[:80]}")
+            return None
+
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        title_tag = soup.find("h1") or soup.find("title")
-        title = title_tag.get_text(strip=True) if title_tag else "无标题"
-        # 提取发布时间
+        
+        # 尝试多种方式获取真实标题
+        title = None
+        # 1) og:title
+        og_title = soup.find("meta", property="og:title")
+        if og_title and og_title.get("content"):
+            title = og_title["content"].strip()
+        # 2) h1
+        if not title:
+            h1 = soup.find("h1")
+            if h1:
+                title = h1.get_text(strip=True)
+        # 3) title 标签（但要排除隐私提示）
+        if not title:
+            t = soup.find("title")
+            if t:
+                candidate = t.get_text(strip=True)
+                if not any(x in candidate.lower() for x in ["opt out", "privacy", "share"]):
+                    title = candidate
+        if not title:
+            title = "无标题"
+        
+        # 发布时间（保持不变）
         pub_time = None
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
@@ -210,6 +255,7 @@ def fetch_article_detail(article_url):
                 pub_time = time_tag.get_text(strip=True)
             else:
                 pub_time = datetime.now(timezone.utc).isoformat()
+        
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         return {
             "id": f"article_{url_hash}",
