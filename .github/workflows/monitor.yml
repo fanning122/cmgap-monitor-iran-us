@@ -2,7 +2,7 @@ name: 美伊谈判新闻监测
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/8 * * * *'
   workflow_dispatch:
 
 jobs:
