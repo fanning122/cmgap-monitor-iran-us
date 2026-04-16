@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换，增量统计，支持图片，自动清理过期数据）
+美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换，增量统计，支持图片，自动清理过期数据，中英文翻译）
 - 顺序处理 20 个 X 账号
 - 每个账号随机选择使用账号1（40%）或账号2（60%）
 - 如果所选账号抓取失败（重试后无结果），立即切换另一个账号重试一次
@@ -9,6 +9,7 @@
 - 新闻抓取部分使用 Selenium，支持 Dawn 和 ARY News
 - 抓取推文中的图片并保存到本地（原始尺寸，不替换URL），在 HTML 中显示
 - 每次运行时自动删除超过6小时的旧数据和对应的图片文件
+- 将英文内容翻译成中文，在页面中同时显示原文和译文
 - 生成 HTML 时显示与上次刷新相比的新增内容
 """
 
@@ -27,6 +28,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
+from deep_translator import GoogleTranslator
 
 # ==================== 配置区 ====================
 X_ACCOUNTS = [
@@ -104,6 +106,19 @@ def inject_cookies(driver, account=1):
     print(f"✅ 账号{account} Cookie 注入成功")
     return True
 
+# ==================== 翻译函数 ====================
+def translate_text(text, target_lang='zh-CN'):
+    """将英文文本翻译成中文，失败时返回原文"""
+    if not text or len(text.strip()) == 0:
+        return text
+    try:
+        translator = GoogleTranslator(source='auto', target=target_lang)
+        translated = translator.translate(text)
+        return translated
+    except Exception as e:
+        print(f"    ⚠️ 翻译失败: {e}")
+        return text
+
 # ==================== 下载图片（保持原始URL，不替换尺寸） ====================
 def download_image(img_url, save_dir=IMAGES_DIR):
     """下载图片并返回本地文件名，失败返回 None（不修改URL参数）"""
@@ -111,9 +126,7 @@ def download_image(img_url, save_dir=IMAGES_DIR):
         return None
     try:
         os.makedirs(save_dir, exist_ok=True)
-        # 使用 URL 的 MD5 作为文件名
         img_hash = hashlib.md5(img_url.encode()).hexdigest()[:16]
-        # 提取扩展名
         ext = os.path.splitext(img_url.split('?')[0])[1]
         if not ext or len(ext) > 5:
             ext = '.jpg'
@@ -135,9 +148,9 @@ def download_image(img_url, save_dir=IMAGES_DIR):
         print(f"    ⚠️ 下载图片异常: {img_url} - {e}")
         return None
 
-# ==================== 抓取推文（保留原始图片URL） ====================
+# ==================== 抓取推文（保留原始图片URL，增加翻译） ====================
 def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS_PER_ACCOUNT, retry=True):
-    """使用指定账号的 Cookie 抓取推文（包括图片），失败时可重试一次"""
+    """使用指定账号的 Cookie 抓取推文（包括图片、翻译），失败时可重试一次"""
     url = f"https://x.com/{username}"
     for attempt in range(1, 3 if retry else 1):
         try:
@@ -157,19 +170,19 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
                     if len(text) > 500:
                         text = text[:497] + "..."
                     
-                    # 提取图片原始 URL（不替换尺寸参数）
+                    # 翻译文本
+                    translated_text = translate_text(text)
+                    
+                    # 提取图片原始 URL
                     images = []
                     img_tags = art.find_all('img')
                     for img in img_tags:
                         src = img.get('src')
                         if not src:
                             continue
-                        # 过滤头像、表情
                         if 'profile_images' in src or 'avatar' in src.lower() or 'twemoji' in src:
                             continue
-                        # 保留原始 URL，不做任何替换
                         images.append(src)
-                    # 去重
                     images = list(dict.fromkeys(images))
                     
                     # 下载图片
@@ -197,6 +210,7 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
                         "type": "tweet",
                         "username": username,
                         "text": text,
+                        "translated_text": translated_text,
                         "images": local_images,
                         "url": tweet_url if tweet_url else f"https://x.com/{username}/status/{tweet_id}",
                         "timestamp": datetime.now(timezone.utc).isoformat(),
@@ -222,7 +236,7 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
             return []
     return []
 
-# ==================== 新闻抓取函数（不变） ====================
+# ==================== 新闻抓取函数（增加翻译） ====================
 def extract_article_links(listpage_url):
     driver = get_driver()
     try:
@@ -293,6 +307,10 @@ def fetch_article_detail(article_url):
                     title = candidate
         if not title:
             title = "无标题"
+        
+        # 翻译标题
+        translated_title = translate_text(title)
+        
         pub_time = None
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
@@ -311,6 +329,7 @@ def fetch_article_detail(article_url):
             "type": "article",
             "source": article_url.split("/")[2],
             "title": title,
+            "translated_title": translated_title,
             "url": article_url,
             "timestamp": datetime.now(timezone.utc).isoformat(),
             "original_time": pub_time
@@ -348,7 +367,7 @@ def filter_recent_items(items, hours=6):
             recent.append(item)
     return recent
 
-# ==================== 清理过期数据（删除 items 中超过6小时的条目及对应图片） ====================
+# ==================== 清理过期数据 ====================
 def clean_old_data(hours=6):
     """删除 items.json 中超过 hours 小时的数据，并删除不再被引用的图片文件"""
     if not os.path.exists(ITEMS_FILE):
@@ -372,17 +391,14 @@ def clean_old_data(hours=6):
             continue
         if item_time >= cutoff:
             kept_items.append(item)
-            # 收集该条目中引用的图片文件名
             if item.get("type") == "tweet" and item.get("images"):
                 for img in item["images"]:
                     used_images.add(img)
     
-    # 保存过滤后的数据
     if len(kept_items) != len(all_items):
         save_items(kept_items)
         print(f"🧹 已删除 {len(all_items) - len(kept_items)} 条超过 {hours} 小时的旧数据")
     
-    # 删除不再使用的图片文件
     if os.path.exists(IMAGES_DIR):
         all_files = os.listdir(IMAGES_DIR)
         deleted_count = 0
@@ -412,7 +428,7 @@ def load_last_stats():
             return json.load(f)
     return None
 
-# ==================== 生成 HTML（支持图片显示） ====================
+# ==================== 生成 HTML（中英文显示） ====================
 def generate_html(recent_items):
     tweets = [i for i in recent_items if i["type"] == "tweet"]
     articles = [i for i in recent_items if i["type"] == "article"]
@@ -461,10 +477,13 @@ def generate_html(recent_items):
         .tweet .username {{ font-weight: bold; color: #1da1f2; }}
         .tweet .time {{ font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }}
         .tweet .text {{ margin: 10px 0; }}
+        .tweet .translated {{ margin: 5px 0; color: #2c3e50; background: #f0f7ff; padding: 5px; border-radius: 5px; }}
         .tweet .images {{ display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }}
         .tweet .images img {{ max-width: 200px; max-height: 200px; border-radius: 8px; border: 1px solid #ddd; }}
         .article {{ background: white; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-left: 4px solid #27ae60; }}
         .article .source {{ font-weight: bold; color: #27ae60; }}
+        .article .title {{ margin: 8px 0; }}
+        .article .translated-title {{ margin: 5px 0; color: #2c3e50; background: #f0f7ff; padding: 5px; border-radius: 5px; }}
         .article .time {{ font-size: 0.8em; color: #7f8c8d; margin-top: 5px; }}
         .footer {{ text-align: center; margin-top: 30px; font-size: 0.8em; color: #7f8c8d; }}
         hr {{ margin: 20px 0; }}
@@ -484,7 +503,7 @@ def generate_html(recent_items):
     {articles_html}
     <div class="footer">
         <hr>
-        <p>数据来源：X平台 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过6小时的内容</p>
+        <p>数据来源：X平台 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过6小时的内容 | 英文自动翻译为中文</p>
     </div>
 </body>
 </html>"""
@@ -499,7 +518,8 @@ def generate_html(recent_items):
         tweets_html += f'''
         <div class="tweet">
             <div class="username">@{t.get("username", "")}</div>
-            <div class="text">{t.get("text", "")}</div>
+            <div class="text">📝 原文: {t.get("text", "")}</div>
+            <div class="translated">🇨🇳 译文: {t.get("translated_text", t.get("text", ""))}</div>
             {images_html}
             <div class="time">🕒 {t.get("original_time", t.get("timestamp", ""))}</div>
             <div><a href="{t.get("url", "#")}" target="_blank">查看原文</a></div>
@@ -513,7 +533,8 @@ def generate_html(recent_items):
         articles_html += f'''
         <div class="article">
             <div class="source">{a.get("source", "")}</div>
-            <div><a href="{a.get("url", "#")}" target="_blank">{a.get("title", "")}</a></div>
+            <div class="title">📝 原文标题: <a href="{a.get("url", "#")}" target="_blank">{a.get("title", "")}</a></div>
+            <div class="translated-title">🇨🇳 译文标题: {a.get("translated_title", a.get("title", ""))}</div>
             <div class="time">🕒 {a.get("original_time", a.get("timestamp", ""))}</div>
         </div>
         '''
@@ -535,9 +556,9 @@ def generate_html(recent_items):
 
 # ==================== 主函数 ====================
 def main():
-    print(f"{datetime.now()} 开始抓取（支持图片、自动清理过期数据）...")
+    print(f"{datetime.now()} 开始抓取（支持图片、自动清理、中英文翻译）...")
     
-    # 第一步：清理超过6小时的旧数据和图片
+    # 清理超过6小时的旧数据和图片
     clean_old_data(hours=6)
     
     start = time.time()
