@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判新闻+推文监测脚本
-- 使用 Selenium 抓取 Dawn 和 ARY News 列表页的最新文章
-- 使用 twscrape + Cookie 认证抓取 20 个 X 账号的推文
-- 保存到 items.json，基于发布时间过滤最近6小时
-- 生成 index.html 并部署到 GitHub Pages
+美伊谈判监测脚本（并发优化版）
+- 并发抓取 20 个 X 账号推文
+- 复用 Chrome 驱动抓取新闻
+- 总运行时间预计 < 5 分钟
 """
 
 import os
@@ -25,28 +24,12 @@ from bs4 import BeautifulSoup
 
 from twscrape import API
 
-# ==================== 配置区 ====================
+# ==================== 配置 ====================
 X_ACCOUNTS = [
-    "foreignofficepk",
-    "mishaqdar50",
-    "cmshehbaz",
-    "pakpmo",
-    "IranAmbPak",
-    "paktvglobal",
-    "Tasnimnews_Fa",
-    "araghchi",
-    "irimfa",
-    "mb_ghalibaf",
-    "AJENews",
-    "whitehouse",
-    "usembislamabad",
-    "CBSNews",
-    "JenniferJJacobs",
-    "KellieMeyerNews",
-    "realdonaldtrump",
-    "vp",
-    "geonews_urdu",
-    "CGTNEurope"
+    "foreignofficepk", "mishaqdar50", "cmshehbaz", "pakpmo", "IranAmbPak",
+    "paktvglobal", "Tasnimnews_Fa", "araghchi", "irimfa", "mb_ghalibaf",
+    "AJENews", "whitehouse", "usembislamabad", "CBSNews", "JenniferJJacobs",
+    "KellieMeyerNews", "realdonaldtrump", "vp", "geonews_urdu", "CGTNEurope"
 ]
 
 NEWS_URLS = [
@@ -56,86 +39,83 @@ NEWS_URLS = [
 
 ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
+MAX_TWEETS_PER_USER = 5   # 减少推文数量
+CONCURRENT_X = 5          # 同时抓取5个X账号（避免并发过高）
 
-# ==================== Selenium 浏览器配置 ====================
-def get_driver():
-    chrome_options = Options()
-    chrome_options.add_argument("--headless=new")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    chrome_options.add_experimental_option('useAutomationExtension', False)
-    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-    
-    user_agents = [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    ]
-    chrome_options.add_argument(f"--user-agent={random.choice(user_agents)}")
-    
-    return webdriver.Chrome(options=chrome_options)
+# ==================== 全局 Chrome 驱动（复用） ====================
+_driver = None
 
-# ==================== 文章链接提取 ====================
+def get_global_driver():
+    global _driver
+    if _driver is None:
+        chrome_options = Options()
+        chrome_options.add_argument("--headless=new")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--window-size=1920,1080")
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        chrome_options.add_experimental_option('useAutomationExtension', False)
+        chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+        user_agents = [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        ]
+        chrome_options.add_argument(f"--user-agent={random.choice(user_agents)}")
+        _driver = webdriver.Chrome(options=chrome_options)
+    return _driver
+
+def close_global_driver():
+    global _driver
+    if _driver:
+        _driver.quit()
+        _driver = None
+
+# ==================== 新闻抓取（复用驱动） ====================
 def extract_article_links(listpage_url):
-    driver = None
+    driver = get_global_driver()
     try:
-        driver = get_driver()
         print(f"  正在访问列表页: {listpage_url}")
         driver.get(listpage_url)
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.TAG_NAME, "body"))
         )
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        
         links = set()
         for a in soup.find_all('a', href=True):
             href = a['href']
             if not href or len(href) < 10:
                 continue
-            
             if ('/news/' in href or '/story/' in href or '/article/' in href 
                 or '/2026/' in href or href.startswith('/politics/') 
                 or href.startswith('/business/') or href.startswith('/world/')):
-                
                 if href.startswith('/'):
                     full_url = listpage_url.rstrip('/') + href
                 elif href.startswith('http'):
                     full_url = href
                 else:
                     continue
-                
                 if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
                     continue
-                
                 if listpage_url.split('/')[2] in full_url:
                     links.add(full_url)
-        
-        result = list(links)[:15]
+        result = list(links)[:10]  # 每个列表页最多10个链接
         print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
         return result
     except Exception as e:
         print(f"  提取链接失败 {listpage_url}: {e}")
         return []
-    finally:
-        if driver:
-            driver.quit()
 
-# ==================== 文章详情抓取 ====================
 def fetch_article_detail(article_url):
-    driver = None
+    driver = get_global_driver()
     try:
-        driver = get_driver()
         driver.get(article_url)
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.TAG_NAME, "body"))
         )
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        
         title_tag = soup.find("h1") or soup.find("title")
         title = title_tag.get_text(strip=True) if title_tag else "无标题"
-        
         pub_time = None
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
@@ -148,7 +128,6 @@ def fetch_article_detail(article_url):
                 pub_time = time_tag.get_text(strip=True)
             else:
                 pub_time = datetime.now(timezone.utc).isoformat()
-        
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         return {
             "id": f"article_{url_hash}",
@@ -162,31 +141,21 @@ def fetch_article_detail(article_url):
     except Exception as e:
         print(f"  抓取详情失败 {article_url}: {e}")
         return None
-    finally:
-        if driver:
-            driver.quit()
 
-# ==================== X 推文抓取（异步） ====================
-async def fetch_tweets_with_cookie(username, api, max_tweets=10):
-    tweets = []
+# ==================== X 推文抓取（异步并发） ====================
+async def fetch_tweets_for_user(username, api, max_tweets=MAX_TWEETS_PER_USER):
     try:
         user = await api.user_by_login(username)
         if not user:
             print(f"  无法获取 @{username} 的用户信息")
             return []
-        
-        user_tweets = []
+        tweets = []
         async for tweet in api.user_tweets(user.id, limit=max_tweets):
-            user_tweets.append(tweet)
-        
-        for tweet in user_tweets:
             tweet_id = str(tweet.id)
             text = tweet.rawContent
             date = tweet.date
-            
             if len(text) > 500:
                 text = text[:497] + "..."
-            
             tweets.append({
                 "id": f"tweet_{username}_{tweet_id}",
                 "type": "tweet",
@@ -196,29 +165,25 @@ async def fetch_tweets_with_cookie(username, api, max_tweets=10):
                 "timestamp": datetime.now(timezone.utc).isoformat(),
                 "original_time": date.isoformat() if date else datetime.now(timezone.utc).isoformat()
             })
-        
         print(f"  从 @{username} 抓取到 {len(tweets)} 条推文")
         return tweets
     except Exception as e:
         print(f"  抓取 @{username} 失败: {e}")
         return []
 
-async def fetch_all_tweets(usernames, existing_ids):
-    """异步批量抓取所有推文，返回新增条目列表和更新后的 existing_ids"""
+async def fetch_all_tweets_concurrent(usernames, existing_ids):
     new_items = []
     auth_token = os.environ.get("X_AUTH_TOKEN")
     ct0 = os.environ.get("X_CT0")
     twid = os.environ.get("X_TWID")
-    
     if not (auth_token and ct0 and twid):
         print("⚠️ 未配置 X Cookie Secrets，跳过 X 推文抓取")
         return new_items, existing_ids
-    
     try:
         api = API()
         cookies = f"auth_token={auth_token}; ct0={ct0}; twid={twid}"
         await api.pool.add_account(
-            username="auto_account",  # 任意标识
+            username="auto_account",
             password="",
             email="",
             email_password="",
@@ -227,21 +192,23 @@ async def fetch_all_tweets(usernames, existing_ids):
         await api.pool.login_all()
         print("✅ X 账号认证成功")
         
-        for username in usernames:
-            print(f"抓取 @{username} ...")
-            tweets = await fetch_tweets_with_cookie(username, api)
-            for tw in tweets:
-                if tw["id"] not in existing_ids:
-                    new_items.append(tw)
-                    existing_ids.add(tw["id"])
+        # 分批并发，避免同时请求过多
+        for i in range(0, len(usernames), CONCURRENT_X):
+            batch = usernames[i:i+CONCURRENT_X]
+            tasks = [fetch_tweets_for_user(u, api) for u in batch]
+            results = await asyncio.gather(*tasks)
+            for tweets in results:
+                for tw in tweets:
+                    if tw["id"] not in existing_ids:
+                        new_items.append(tw)
+                        existing_ids.add(tw["id"])
+            # 批次间延迟
             await asyncio.sleep(random.uniform(2, 4))
     except Exception as e:
         print(f"❌ X 认证失败: {e}")
-        print("   请检查 GitHub Secrets 中的 X_AUTH_TOKEN, X_CT0, X_TWID 是否正确")
-    
     return new_items, existing_ids
 
-# ==================== 数据存储与过滤 ====================
+# ==================== 数据存储 ====================
 def load_items():
     if os.path.exists(ITEMS_FILE):
         with open(ITEMS_FILE, "r", encoding="utf-8") as f:
@@ -299,7 +266,7 @@ def generate_html(recent_items):
 </head>
 <body>
     <h1>📡 美伊谈判实时监测</h1>
-    <p>🕒 更新时间：{update_time} | 显示最近6小时内数据 | 每5分钟自动刷新</p>
+    <p>🕒 更新时间：{update_time} | 显示最近6小时内数据 | 每10分钟自动刷新</p>
     <h2>🐦 X 推文 ({tweet_count})</h2>
     {tweets_html}
     <h2>📰 新闻文章 ({article_count})</h2>
@@ -353,24 +320,22 @@ def generate_html(recent_items):
 
 # ==================== 主函数 ====================
 def main():
-    print(f"{datetime.now()} 开始抓取...")
+    print(f"{datetime.now()} 开始抓取（优化并发版）...")
+    start = time.time()
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
-    # 1. 抓取 X 推文（异步）
-    print("\n--- 抓取 X 平台推文 ---")
-    # 运行异步函数，获取新增推文和更新后的 ID 集合
-    x_new, existing_ids = asyncio.run(fetch_all_tweets(X_ACCOUNTS, existing_ids))
+    # 1. 并发抓取 X 推文
+    print("\n--- 并发抓取 X 平台推文 ---")
+    x_new, existing_ids = asyncio.run(fetch_all_tweets_concurrent(X_ACCOUNTS, existing_ids))
     new_items.extend(x_new)
     
-    # 2. 抓取新闻文章（同步）
+    # 2. 抓取新闻文章（复用全局驱动）
     print("\n--- 抓取新闻文章 ---")
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
         article_links = extract_article_links(listpage)
-        print(f"  找到 {len(article_links)} 个链接")
-        
         for idx, article_url in enumerate(article_links):
             print(f"  [{idx+1}/{len(article_links)}] 抓取: {article_url[:80]}...")
             article = fetch_article_detail(article_url)
@@ -380,9 +345,10 @@ def main():
                 print(f"    ✅ 新增: {article['title'][:50]}")
             else:
                 print(f"    ⏭️ 已存在或失败")
-            time.sleep(random.uniform(2, 4))
+            # 文章之间延迟缩短
+            time.sleep(random.uniform(1, 2))
     
-    # 3. 保存新内容
+    # 3. 保存
     if new_items:
         all_items.extend(new_items)
         save_items(all_items)
@@ -390,11 +356,15 @@ def main():
     else:
         print("\n📭 无新增内容")
     
-    # 4. 过滤并生成 HTML
+    # 4. 生成 HTML
     recent = filter_recent_items(all_items, hours=6)
     generate_html(recent)
+    elapsed = time.time() - start
     print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
-    print("完成")
+    print(f"总耗时: {elapsed:.2f} 秒")
+    
+    # 关闭全局浏览器
+    close_global_driver()
 
 if __name__ == "__main__":
     main()
