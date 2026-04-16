@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判监测脚本（并发优化版）
-- 并发抓取 20 个 X 账号推文
-- 复用 Chrome 驱动抓取新闻
-- 总运行时间预计 < 5 分钟
+美伊谈判监测脚本（顺序抓取 X 账号，避免速率限制）
 """
 
 import os
@@ -39,8 +36,8 @@ NEWS_URLS = [
 
 ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
-MAX_TWEETS_PER_USER = 5   # 减少推文数量
-CONCURRENT_X = 5          # 同时抓取5个X账号（避免并发过高）
+MAX_TWEETS_PER_USER = 3   # 每个账号只抓3条，减少请求
+CONCURRENT_X = 1           # 顺序抓取，避免触发速率限制
 
 # ==================== 全局 Chrome 驱动（复用） ====================
 _driver = None
@@ -71,7 +68,7 @@ def close_global_driver():
         _driver.quit()
         _driver = None
 
-# ==================== 新闻抓取（复用驱动） ====================
+# ==================== 新闻抓取 ====================
 def extract_article_links(listpage_url):
     driver = get_global_driver()
     try:
@@ -99,7 +96,7 @@ def extract_article_links(listpage_url):
                     continue
                 if listpage_url.split('/')[2] in full_url:
                     links.add(full_url)
-        result = list(links)[:10]  # 每个列表页最多10个链接
+        result = list(links)[:10]
         print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
         return result
     except Exception as e:
@@ -142,7 +139,7 @@ def fetch_article_detail(article_url):
         print(f"  抓取详情失败 {article_url}: {e}")
         return None
 
-# ==================== X 推文抓取（异步并发） ====================
+# ==================== X 推文抓取（顺序，避免速率限制） ====================
 async def fetch_tweets_for_user(username, api, max_tweets=MAX_TWEETS_PER_USER):
     try:
         user = await api.user_by_login(username)
@@ -171,7 +168,7 @@ async def fetch_tweets_for_user(username, api, max_tweets=MAX_TWEETS_PER_USER):
         print(f"  抓取 @{username} 失败: {e}")
         return []
 
-async def fetch_all_tweets_concurrent(usernames, existing_ids):
+async def fetch_all_tweets_sequential(usernames, existing_ids):
     new_items = []
     auth_token = os.environ.get("X_AUTH_TOKEN")
     ct0 = os.environ.get("X_CT0")
@@ -192,18 +189,15 @@ async def fetch_all_tweets_concurrent(usernames, existing_ids):
         await api.pool.login_all()
         print("✅ X 账号认证成功")
         
-        # 分批并发，避免同时请求过多
-        for i in range(0, len(usernames), CONCURRENT_X):
-            batch = usernames[i:i+CONCURRENT_X]
-            tasks = [fetch_tweets_for_user(u, api) for u in batch]
-            results = await asyncio.gather(*tasks)
-            for tweets in results:
-                for tw in tweets:
-                    if tw["id"] not in existing_ids:
-                        new_items.append(tw)
-                        existing_ids.add(tw["id"])
-            # 批次间延迟
-            await asyncio.sleep(random.uniform(2, 4))
+        for username in usernames:
+            print(f"抓取 @{username} ...")
+            tweets = await fetch_tweets_for_user(username, api)
+            for tw in tweets:
+                if tw["id"] not in existing_ids:
+                    new_items.append(tw)
+                    existing_ids.add(tw["id"])
+            # 每个账号抓取后等待较长时间，避免触发速率限制
+            await asyncio.sleep(random.uniform(5, 8))
     except Exception as e:
         print(f"❌ X 认证失败: {e}")
     return new_items, existing_ids
@@ -320,18 +314,18 @@ def generate_html(recent_items):
 
 # ==================== 主函数 ====================
 def main():
-    print(f"{datetime.now()} 开始抓取（优化并发版）...")
+    print(f"{datetime.now()} 开始抓取（顺序版，避免速率限制）...")
     start = time.time()
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
-    # 1. 并发抓取 X 推文
-    print("\n--- 并发抓取 X 平台推文 ---")
-    x_new, existing_ids = asyncio.run(fetch_all_tweets_concurrent(X_ACCOUNTS, existing_ids))
+    # 1. 顺序抓取 X 推文
+    print("\n--- 抓取 X 平台推文（顺序） ---")
+    x_new, existing_ids = asyncio.run(fetch_all_tweets_sequential(X_ACCOUNTS, existing_ids))
     new_items.extend(x_new)
     
-    # 2. 抓取新闻文章（复用全局驱动）
+    # 2. 抓取新闻文章
     print("\n--- 抓取新闻文章 ---")
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
@@ -345,10 +339,8 @@ def main():
                 print(f"    ✅ 新增: {article['title'][:50]}")
             else:
                 print(f"    ⏭️ 已存在或失败")
-            # 文章之间延迟缩短
             time.sleep(random.uniform(1, 2))
     
-    # 3. 保存
     if new_items:
         all_items.extend(new_items)
         save_items(all_items)
@@ -356,14 +348,12 @@ def main():
     else:
         print("\n📭 无新增内容")
     
-    # 4. 生成 HTML
     recent = filter_recent_items(all_items, hours=6)
     generate_html(recent)
     elapsed = time.time() - start
     print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
     print(f"总耗时: {elapsed:.2f} 秒")
     
-    # 关闭全局浏览器
     close_global_driver()
 
 if __name__ == "__main__":
