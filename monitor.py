@@ -345,7 +345,7 @@ def generate_html(recent_items):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="600"> <!-- 10分钟自动刷新，可修改秒数 -->
+    <meta http-equiv="refresh" content="360"> <!-- 6分钟自动刷新，可修改秒数 -->
     <title>美伊谈判监测 · 最近6小时</title>
     <style>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }}
