@@ -30,6 +30,55 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
+# ==================== 调度控制（每10分钟+随机60~120秒执行一次） ====================
+LAST_RUN_FILE = "last_run.txt"
+
+def should_run_now():
+    """
+    判断本次是否应该执行抓取。
+    返回 (should_run, wait_seconds)
+    - should_run: True 表示应该执行，False 表示跳过
+    - wait_seconds: 如果 should_run 为 True 且需要等待（距离上次不足目标间隔），则等待此秒数后再开始抓取
+    """
+    now = datetime.now(timezone.utc)
+    min_interval = 600           # 10分钟 = 600秒
+    extra = random.randint(60, 120)   # 随机增量 60~120秒
+    target_interval = min_interval + extra
+
+    # 读取上次实际执行时间
+    last_run = None
+    if os.path.exists(LAST_RUN_FILE):
+        with open(LAST_RUN_FILE, "r") as f:
+            try:
+                last_run = datetime.fromisoformat(f.read().strip())
+            except:
+                pass
+
+    if last_run is None:
+        # 第一次运行，立即执行
+        wait_seconds = 0
+        should = True
+    else:
+        elapsed = (now - last_run).total_seconds()
+        if elapsed >= target_interval:
+            # 已达到或超过目标间隔，立即执行
+            wait_seconds = 0
+            should = True
+        else:
+            # 尚未达到目标间隔，本次跳过（不等待，让下次 cron 触发再检查）
+            # 注意：这里不等待，直接跳过，避免长时间占用 runner
+            print(f"距离上次执行仅 {elapsed:.1f} 秒，未达到 {target_interval:.1f} 秒（10分钟+随机{extra}秒），本次跳过")
+            should = False
+            wait_seconds = 0
+
+    if should:
+        # 立即更新 last_run 时间戳，避免并发执行（GitHub Actions 通常不会并发，但安全起见）
+        with open(LAST_RUN_FILE, "w") as f:
+            f.write(now.isoformat())
+        if wait_seconds > 0:
+            print(f"距离上次执行未满目标间隔，等待 {wait_seconds:.1f} 秒后开始抓取...")
+    return should, wait_seconds
+
 # ==================== 配置区 ====================
 X_ACCOUNTS = [
     "foreignofficepk", "mishaqdar50", "cmshehbaz", "pakpmo", "IranAmbPak",
@@ -556,6 +605,15 @@ def generate_html(recent_items):
 
 # ==================== 主函数 ====================
 def main():
+    # 调度控制：检查是否应该执行本次抓取（最小间隔10分钟+随机60~120秒）
+    should_run, wait_sec = should_run_now()
+    if not should_run:
+        print("跳过本次执行，未达到最小间隔10分钟+随机增量")
+        return
+    if wait_sec > 0:
+        print(f"距离上次执行未满目标间隔，等待 {wait_sec:.1f} 秒后开始抓取...")
+        time.sleep(wait_sec)
+
     print(f"{datetime.now()} 开始抓取（支持图片、自动清理、中英文翻译）...")
     
     # 清理超过6小时的旧数据和图片
