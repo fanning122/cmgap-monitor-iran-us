@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-美伊谈判监测脚本（双账号随机比例 4:6，失败自动切换，增量统计，支持图片，自动清理过期数据，中英文翻译）
-- 顺序处理 20 个 X 账号
-- 每个账号随机选择使用账号1（40%）或账号2（60%）
-- 如果所选账号抓取失败（重试后无结果），立即切换另一个账号重试一次
-- 两次均失败则跳过该账号
-- 新闻抓取部分使用 Selenium，支持 Dawn 和 ARY News
+美伊谈判监测脚本（双账号随机比例 4:6，失败不切换，增量统计，支持图片，自动清理过期数据，中英文翻译）
+- 顺序处理 20 个 X 账号，预先验证 Cookie 有效性，按 4:6 比例随机选择可用账号，失败不切换
+- 新闻抓取部分使用 Selenium，支持 Dawn（含 Load More 点击）和 ARY News
 - 抓取推文中的图片并保存到本地（原始尺寸，不替换URL），在 HTML 中显示
 - 每次运行时自动删除超过6小时的旧数据和对应的图片文件
 - 将英文内容翻译成中文，在页面中同时显示原文和译文
@@ -65,7 +62,7 @@ def should_run_now():
             wait_seconds = 0
             should = True
         else:
-            # 尚未达到目标间隔，本次跳过（不等待，让下次 cron 触发再检查）
+            # 尚未达到目标间隔，本次跳过
             print(f"距离上次执行仅 {elapsed:.1f} 秒，未达到 {target_interval:.1f} 秒（10分钟+随机{extra}秒），本次跳过")
             should = False
             wait_seconds = 0
@@ -99,6 +96,10 @@ BETWEEN_ACCOUNTS_DELAY = (3, 5)
 BETWEEN_ARTICLES_DELAY = (1, 2)
 
 IMAGES_DIR = "images"
+
+# Dawn "Load More" 配置
+DAWN_MAX_LOAD_MORE_CLICKS = 10   # 最多点击10次“加载更多”
+DAWN_LOAD_MORE_WAIT = 2          # 每次点击后等待秒数
 
 # ==================== 全局浏览器驱动 ====================
 _driver = None
@@ -162,12 +163,10 @@ def check_cookie_valid(driver, account):
     try:
         driver.get("https://x.com/home")
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
-        # 检查当前 URL 是否包含 /login，若包含则说明 Cookie 无效
         current_url = driver.current_url
         if "/login" in current_url:
             print(f"⚠️ 账号{account} Cookie 无效（跳转到登录页）")
             return False
-        # 可选：检查是否存在登录按钮或注册按钮
         if "Log in" in driver.page_source[:2000] or "Sign up" in driver.page_source[:2000]:
             print(f"⚠️ 账号{account} Cookie 可能无效（页面仍显示登录按钮）")
             return False
@@ -190,9 +189,9 @@ def translate_text(text, target_lang='zh-CN'):
         print(f"    ⚠️ 翻译失败: {e}")
         return text
 
-# ==================== 下载图片（保持原始URL，不替换尺寸） ====================
+# ==================== 下载图片 ====================
 def download_image(img_url, save_dir=IMAGES_DIR):
-    """下载图片并返回本地文件名，失败返回 None（不修改URL参数）"""
+    """下载图片并返回本地文件名，失败返回 None"""
     if not img_url:
         return None
     try:
@@ -219,7 +218,7 @@ def download_image(img_url, save_dir=IMAGES_DIR):
         print(f"    ⚠️ 下载图片异常: {img_url} - {e}")
         return None
 
-# ==================== 抓取推文（保留原始图片URL，增加翻译） ====================
+# ==================== 抓取推文 ====================
 def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS_PER_ACCOUNT, retry=True):
     """使用指定账号的 Cookie 抓取推文（包括图片、翻译），失败时可重试一次"""
     url = f"https://x.com/{username}"
@@ -235,16 +234,13 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
             tweets = []
             for art in articles[:max_tweets]:
                 try:
-                    # 推文文本
                     text_div = art.find('div', {'data-testid': 'tweetText'})
                     text = text_div.get_text(strip=True) if text_div else ""
                     if len(text) > 500:
                         text = text[:497] + "..."
                     
-                    # 翻译文本
                     translated_text = translate_text(text)
                     
-                    # 提取图片原始 URL
                     images = []
                     img_tags = art.find_all('img')
                     for img in img_tags:
@@ -256,14 +252,12 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
                         images.append(src)
                     images = list(dict.fromkeys(images))
                     
-                    # 下载图片
                     local_images = []
                     for img_url in images:
                         local_img = download_image(img_url)
                         if local_img:
                             local_images.append(local_img)
                     
-                    # 推文链接和 ID
                     time_link = art.find('a', href=True)
                     tweet_url = ""
                     tweet_id = ""
@@ -307,53 +301,81 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
             return []
     return []
 
-# ==================== 新闻抓取函数（增加翻译） ====================
-def extract_article_links(listpage_url):
-    driver = get_driver()
-    try:
-        print(f"  正在访问列表页: {listpage_url}")
-        driver.get(listpage_url)
-        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
-        soup = BeautifulSoup(driver.page_source, "html.parser")
-        domain = listpage_url.split("/")[2]
-        links = set()
-        for a in soup.find_all('a', href=True):
-            href = a['href']
-            if not href or len(href) < 5:
+# ==================== 新闻抓取函数（支持 Dawn Load More，允许 /cartoon/） ====================
+def extract_article_links(driver, listpage_url):
+    """
+    从新闻列表页提取所有文章链接。
+    对于 Dawn 页面，会自动点击 "Load More" 按钮多次以加载更多内容。
+    返回链接列表（不限制数量）。
+    """
+    print(f"  正在访问列表页: {listpage_url}")
+    driver.get(listpage_url)
+    WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+    
+    # 针对 Dawn 执行 "Load More" 点击循环
+    if "dawn.com" in listpage_url:
+        click_count = 0
+        for _ in range(DAWN_MAX_LOAD_MORE_CLICKS):
+            try:
+                # 查找 "Load More" 按钮（常见选择器）
+                load_more_btn = driver.find_element(By.CSS_SELECTOR, "button.load-more, a.load-more, .load-more, button:contains('Load More'), a:contains('Load More')")
+                # 若按钮不可见或 disabled，则跳出
+                if not load_more_btn.is_displayed() or not load_more_btn.is_enabled():
+                    break
+                load_more_btn.click()
+                click_count += 1
+                print(f"    点击 'Load More' 第 {click_count} 次")
+                time.sleep(DAWN_LOAD_MORE_WAIT)
+            except Exception as e:
+                # 没有找到 Load More 按钮或点击失败，视为已加载完全
+                break
+        if click_count > 0:
+            print(f"    共点击 'Load More' {click_count} 次")
+        # 等待新内容稳定
+        time.sleep(2)
+    
+    # 解析所有链接
+    soup = BeautifulSoup(driver.page_source, "html.parser")
+    domain = listpage_url.split("/")[2]
+    links = set()
+    
+    for a in soup.find_all('a', href=True):
+        href = a['href']
+        if not href or len(href) < 5:
+            continue
+        if href.startswith('/'):
+            full_url = listpage_url.rstrip('/') + href
+        elif href.startswith('http'):
+            full_url = href
+        else:
+            continue
+        if domain not in full_url:
+            continue
+        
+        # 处理 Dawn 和 ARY News 的过滤规则
+        if domain == "arynews.tv":
+            path = full_url.replace(f"https://{domain}", "")
+            if any(x in path for x in ['/category/', '/tag/', '/author/', '/page/', '/video', '/live']):
                 continue
-            if href.startswith('/'):
-                full_url = listpage_url.rstrip('/') + href
-            elif href.startswith('http'):
-                full_url = href
-            else:
+            if len(path) < 15:
                 continue
-            if domain not in full_url:
+            if path in ["", "/"]:
                 continue
-            if domain == "arynews.tv":
-                path = full_url.replace(f"https://{domain}", "")
-                if any(x in path for x in ['/category/', '/tag/', '/author/', '/page/', '/video', '/live']):
-                    continue
-                if len(path) < 15:
-                    continue
-                if path in ["", "/"]:
+            links.add(full_url)
+        else:  # dawn.com 及其他
+            # 允许的路径：/news/, /story/, /article/, /2026/, /politics/, /business/, /world/, /cartoon/
+            if any(x in href for x in ['/news/', '/story/', '/article/', '/2026/', '/politics/', '/business/', '/world/', '/cartoon/']):
+                # 排除不需要的路径
+                if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
                     continue
                 links.add(full_url)
-            else:
-                if ('/news/' in href or '/story/' in href or '/article/' in href 
-                    or '/2026/' in href or href.startswith('/politics/') 
-                    or href.startswith('/business/') or href.startswith('/world/')):
-                    if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
-                        continue
-                    links.add(full_url)
-        result = list(links)[:10]
-        print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
-        return result
-    except Exception as e:
-        print(f"  ❌ 提取链接失败 {listpage_url}: {e}")
-        return []
+    
+    result = list(links)
+    print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
+    return result
 
-def fetch_article_detail(article_url):
-    driver = get_driver()
+def fetch_article_detail(driver, article_url):
+    """抓取单篇文章的标题和发布时间，并翻译标题"""
     try:
         driver.get(article_url)
         WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
@@ -379,7 +401,6 @@ def fetch_article_detail(article_url):
         if not title:
             title = "无标题"
         
-        # 翻译标题
         translated_title = translate_text(title)
         
         pub_time = None
@@ -499,7 +520,7 @@ def load_last_stats():
             return json.load(f)
     return None
 
-# ==================== 生成 HTML（中英文显示） ====================
+# ==================== 生成 HTML ====================
 def generate_html(recent_items):
     tweets = [i for i in recent_items if i["type"] == "tweet"]
     articles = [i for i in recent_items if i["type"] == "article"]
@@ -657,7 +678,7 @@ def main():
         if not account2_available:
             print("⚠️ 账号2 Cookie 未配置，将只使用账号1")
     
-    # ========== 新增：预先验证两个 Cookie 的有效性 ==========
+    # 预先验证两个 Cookie 的有效性
     valid1 = False
     valid2 = False
     if account1_available:
@@ -665,7 +686,6 @@ def main():
     if account2_available:
         valid2 = check_cookie_valid(driver, 2)
     
-    # 记录本次运行中每个账号被选中的次数
     account_usage = {1: 0, 2: 0}
     
     all_items = load_items()
@@ -675,7 +695,6 @@ def main():
     if x_enabled:
         print("\n--- 抓取 X 平台推文（按4:6比例随机选择可用账号，失败不切换） ---")
         for idx, username in enumerate(X_ACCOUNTS, 1):
-            # 根据验证结果确定可用账号列表
             available = []
             if valid1:
                 available.append(1)
@@ -686,14 +705,11 @@ def main():
                 print(f"[{idx}/{len(X_ACCOUNTS)}] 跳过 @{username}：没有可用的 Cookie")
                 continue
             
-            # 按 4:6 比例选择账号（如果两个都可用）
             if len(available) == 2:
-                # 40% 概率选账号1，60% 概率选账号2
                 chosen_account = 1 if random.random() < 0.4 else 2
             else:
                 chosen_account = available[0]
             
-            # 记录使用次数
             account_usage[chosen_account] += 1
             
             print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} (选用账号{chosen_account}) ...")
@@ -701,7 +717,6 @@ def main():
                 print(f"  ❌ 无法注入账号{chosen_account}的 Cookie，跳过 @{username}")
                 continue
             
-            # 只使用选中的账号抓取，失败不切换（retry=True 仅对当前账号重试）
             tweets = fetch_tweets_from_account(username, driver, account=chosen_account, retry=True)
             
             for tw in tweets:
@@ -713,7 +728,6 @@ def main():
                 delay = random.uniform(*BETWEEN_ACCOUNTS_DELAY)
                 time.sleep(delay)
     
-    # 输出本次运行账号使用统计
     print("\n📊 本次运行账号使用统计:")
     print(f"   账号1 被选中 {account_usage[1]} 次")
     print(f"   账号2 被选中 {account_usage[2]} 次")
@@ -721,22 +735,42 @@ def main():
     if total_usage > 0:
         print(f"   实际比例: 账号1 {account_usage[1]/total_usage*100:.1f}% , 账号2 {account_usage[2]/total_usage*100:.1f}%")
     
-    print("\n--- 抓取新闻文章 ---")
+    # ========== 新闻抓取（支持 Load More，按时间窗口筛选） ==========
+    print("\n--- 抓取新闻文章（按6小时内时间窗口筛选） ---")
+    now_utc = datetime.now(timezone.utc)
+    cutoff_time = now_utc - timedelta(hours=6)
+    
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
-        article_links = extract_article_links(listpage)
+        article_links = extract_article_links(driver, listpage)  # 传入 driver
         if not article_links:
             print(f"  ⚠️ 未提取到链接，跳过该列表页")
             continue
         for idx, article_url in enumerate(article_links, 1):
             print(f"  [{idx}/{len(article_links)}] 抓取: {article_url[:80]}...")
-            article = fetch_article_detail(article_url)
-            if article and article["id"] not in existing_ids:
-                new_items.append(article)
-                existing_ids.add(article["id"])
-                print(f"    ✅ 新增: {article['title'][:50]}")
+            article = fetch_article_detail(driver, article_url)
+            if article:
+                # 解析发布时间并判断是否在6小时内
+                ts_str = article.get("original_time")
+                if ts_str:
+                    if ts_str.endswith("Z"):
+                        ts_str = ts_str.replace("Z", "+00:00")
+                    try:
+                        pub_time = datetime.fromisoformat(ts_str)
+                        # 如果发布时间早于6小时前，则丢弃
+                        if pub_time < cutoff_time:
+                            print(f"    ⏭️ 跳过（发布时间超过6小时）: {article['title'][:50]}")
+                            continue
+                    except Exception as e:
+                        print(f"    ⚠️ 无法解析时间，保留: {e}")
+                if article["id"] not in existing_ids:
+                    new_items.append(article)
+                    existing_ids.add(article["id"])
+                    print(f"    ✅ 新增: {article['title'][:50]}")
+                else:
+                    print(f"    ⏭️ 已存在")
             else:
-                print(f"    ⏭️ 已存在或失败")
+                print(f"    ⏭️ 抓取失败")
             time.sleep(random.uniform(*BETWEEN_ARTICLES_DELAY))
     
     if new_items:
