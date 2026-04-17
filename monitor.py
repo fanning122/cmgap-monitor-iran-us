@@ -30,6 +30,54 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
+# ==================== 调度控制（每10分钟+随机60~120秒执行一次） ====================
+LAST_RUN_FILE = "last_run.txt"
+
+def should_run_now():
+    """
+    判断本次是否应该执行抓取。
+    返回 (should_run, wait_seconds)
+    - should_run: True 表示应该执行，False 表示跳过
+    - wait_seconds: 如果 should_run 为 True 且需要等待（距离上次不足目标间隔），则等待此秒数后再开始抓取
+    """
+    now = datetime.now(timezone.utc)
+    min_interval = 600           # 10分钟 = 600秒
+    extra = random.randint(60, 120)   # 随机增量 60~120秒
+    target_interval = min_interval + extra
+
+    # 读取上次实际执行时间
+    last_run = None
+    if os.path.exists(LAST_RUN_FILE):
+        with open(LAST_RUN_FILE, "r") as f:
+            try:
+                last_run = datetime.fromisoformat(f.read().strip())
+            except:
+                pass
+
+    if last_run is None:
+        # 第一次运行，立即执行
+        wait_seconds = 0
+        should = True
+    else:
+        elapsed = (now - last_run).total_seconds()
+        if elapsed >= target_interval:
+            # 已达到或超过目标间隔，立即执行
+            wait_seconds = 0
+            should = True
+        else:
+            # 尚未达到目标间隔，本次跳过（不等待，让下次 cron 触发再检查）
+            print(f"距离上次执行仅 {elapsed:.1f} 秒，未达到 {target_interval:.1f} 秒（10分钟+随机{extra}秒），本次跳过")
+            should = False
+            wait_seconds = 0
+
+    if should:
+        # 立即更新 last_run 时间戳，避免并发执行
+        with open(LAST_RUN_FILE, "w") as f:
+            f.write(now.isoformat())
+        if wait_seconds > 0:
+            print(f"距离上次执行未满目标间隔，等待 {wait_seconds:.1f} 秒后开始抓取...")
+    return should, wait_seconds
+
 # ==================== 配置区 ====================
 X_ACCOUNTS = [
     "foreignofficepk", "mishaqdar50", "cmshehbaz", "pakpmo", "IranAmbPak",
@@ -105,6 +153,29 @@ def inject_cookies(driver, account=1):
     driver.add_cookie({"name": "twid", "value": twid, "domain": ".x.com"})
     print(f"✅ 账号{account} Cookie 注入成功")
     return True
+
+# ==================== 验证 Cookie 有效性 ====================
+def check_cookie_valid(driver, account):
+    """验证指定账号的 Cookie 是否有效（能正常访问 X 首页，不跳转到登录页）"""
+    if not inject_cookies(driver, account):
+        return False
+    try:
+        driver.get("https://x.com/home")
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        # 检查当前 URL 是否包含 /login，若包含则说明 Cookie 无效
+        current_url = driver.current_url
+        if "/login" in current_url:
+            print(f"⚠️ 账号{account} Cookie 无效（跳转到登录页）")
+            return False
+        # 可选：检查是否存在登录按钮或注册按钮
+        if "Log in" in driver.page_source[:2000] or "Sign up" in driver.page_source[:2000]:
+            print(f"⚠️ 账号{account} Cookie 可能无效（页面仍显示登录按钮）")
+            return False
+        print(f"✅ 账号{account} Cookie 有效")
+        return True
+    except Exception as e:
+        print(f"❌ 验证账号{account} Cookie 时出错: {e}")
+        return False
 
 # ==================== 翻译函数 ====================
 def translate_text(text, target_lang='zh-CN'):
@@ -556,6 +627,15 @@ def generate_html(recent_items):
 
 # ==================== 主函数 ====================
 def main():
+    # 调度控制：检查是否应该执行本次抓取（最小间隔10分钟+随机60~120秒）
+    should_run, wait_sec = should_run_now()
+    if not should_run:
+        print("跳过本次执行，未达到最小间隔10分钟+随机增量")
+        return
+    if wait_sec > 0:
+        print(f"距离上次执行未满目标间隔，等待 {wait_sec:.1f} 秒后开始抓取...")
+        time.sleep(wait_sec)
+
     print(f"{datetime.now()} 开始抓取（支持图片、自动清理、中英文翻译）...")
     
     # 清理超过6小时的旧数据和图片
@@ -577,35 +657,52 @@ def main():
         if not account2_available:
             print("⚠️ 账号2 Cookie 未配置，将只使用账号1")
     
+    # ========== 新增：预先验证两个 Cookie 的有效性 ==========
+    valid1 = False
+    valid2 = False
+    if account1_available:
+        valid1 = check_cookie_valid(driver, 1)
+    if account2_available:
+        valid2 = check_cookie_valid(driver, 2)
+    
+    # 记录本次运行中每个账号被选中的次数
+    account_usage = {1: 0, 2: 0}
+    
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
     if x_enabled:
-        print("\n--- 抓取 X 平台推文（随机分配 Cookie，比例 4:6） ---")
+        print("\n--- 抓取 X 平台推文（按4:6比例随机选择可用账号，失败不切换） ---")
         for idx, username in enumerate(X_ACCOUNTS, 1):
-            if account1_available and account2_available:
-                chosen_account = 1 if random.random() < 0.4 else 2
-            elif account1_available:
-                chosen_account = 1
-            else:
-                chosen_account = 2
+            # 根据验证结果确定可用账号列表
+            available = []
+            if valid1:
+                available.append(1)
+            if valid2:
+                available.append(2)
             
-            print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} (随机选用账号{chosen_account}) ...")
+            if not available:
+                print(f"[{idx}/{len(X_ACCOUNTS)}] 跳过 @{username}：没有可用的 Cookie")
+                continue
+            
+            # 按 4:6 比例选择账号（如果两个都可用）
+            if len(available) == 2:
+                # 40% 概率选账号1，60% 概率选账号2
+                chosen_account = 1 if random.random() < 0.4 else 2
+            else:
+                chosen_account = available[0]
+            
+            # 记录使用次数
+            account_usage[chosen_account] += 1
+            
+            print(f"[{idx}/{len(X_ACCOUNTS)}] 抓取 @{username} (选用账号{chosen_account}) ...")
             if not inject_cookies(driver, account=chosen_account):
                 print(f"  ❌ 无法注入账号{chosen_account}的 Cookie，跳过 @{username}")
                 continue
             
+            # 只使用选中的账号抓取，失败不切换（retry=True 仅对当前账号重试）
             tweets = fetch_tweets_from_account(username, driver, account=chosen_account, retry=True)
-            if not tweets and ((chosen_account == 1 and account2_available) or (chosen_account == 2 and account1_available)):
-                other_account = 2 if chosen_account == 1 else 1
-                print(f"  ⚠️ 账号{chosen_account} 抓取失败，尝试切换至账号{other_account}...")
-                if inject_cookies(driver, account=other_account):
-                    tweets = fetch_tweets_from_account(username, driver, account=other_account, retry=True)
-                    if tweets:
-                        print(f"  ✅ 切换账号{other_account}后成功抓取")
-                else:
-                    print(f"  ❌ 无法注入账号{other_account}的 Cookie，无法切换")
             
             for tw in tweets:
                 if tw["id"] not in existing_ids:
@@ -615,6 +712,14 @@ def main():
             if idx < len(X_ACCOUNTS):
                 delay = random.uniform(*BETWEEN_ACCOUNTS_DELAY)
                 time.sleep(delay)
+    
+    # 输出本次运行账号使用统计
+    print("\n📊 本次运行账号使用统计:")
+    print(f"   账号1 被选中 {account_usage[1]} 次")
+    print(f"   账号2 被选中 {account_usage[2]} 次")
+    total_usage = account_usage[1] + account_usage[2]
+    if total_usage > 0:
+        print(f"   实际比例: 账号1 {account_usage[1]/total_usage*100:.1f}% , 账号2 {account_usage[2]/total_usage*100:.1f}%")
     
     print("\n--- 抓取新闻文章 ---")
     for listpage in NEWS_URLS:
