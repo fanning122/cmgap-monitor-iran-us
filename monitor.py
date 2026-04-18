@@ -397,7 +397,7 @@ def extract_article_links(driver, listpage_url):
     return result
 
 def fetch_article_detail(driver, article_url):
-    """抓取单篇文章的标题和发布时间，并翻译标题。优先从JSON-LD数据中提取。"""
+    """抓取单篇文章的标题和发布时间，并翻译标题。采用增强型标题提取策略。"""
     try:
         driver.get(article_url)
         WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
@@ -409,46 +409,65 @@ def fetch_article_detail(driver, article_url):
         soup = BeautifulSoup(driver.page_source, "html.parser")
         title = None
         
-        # --- 新增：从 JSON-LD 结构化数据中提取标题 ---
+        # --- 策略 1: 从 JSON-LD 结构化数据中提取标题 ---
         try:
-            # 查找所有 type="application/ld+json" 的 script 标签
             for script_tag in soup.find_all('script', type='application/ld+json'):
-                try:
-                    data = json.loads(script_tag.string)
-                    # 处理数据可能是列表的情况
-                    if isinstance(data, list):
-                        for item in data:
-                            if item.get('@type') == 'NewsArticle' and item.get('headline'):
-                                title = item.get('headline')
-                                break
-                    elif isinstance(data, dict) and data.get('@type') == 'NewsArticle' and data.get('headline'):
-                        title = data.get('headline')
-                    if title:
-                        print(f"    📝 从 JSON-LD 提取到标题: {title[:50]}")
-                        break
-                except json.JSONDecodeError:
-                    continue
+                data = json.loads(script_tag.string)
+                if isinstance(data, list):
+                    for item in data:
+                        if item.get('@type') == 'NewsArticle' and item.get('headline'):
+                            title = item.get('headline')
+                            break
+                elif isinstance(data, dict) and data.get('@type') == 'NewsArticle' and data.get('headline'):
+                    title = data.get('headline')
+                if title:
+                    print(f"    📝 [JSON-LD] 提取到标题: {title[:50]}")
+                    break
         except Exception as e:
             print(f"    ⚠️ 解析 JSON-LD 失败: {e}")
-        # --- 原有提取逻辑（作为降级方案）---
+        
+        # --- 策略 2: 从 Open Graph 中提取标题 ---
         if not title:
             og_title = soup.find("meta", property="og:title")
             if og_title and og_title.get("content"):
                 title = og_title["content"].strip()
-                print(f"    📝 从 og:title 提取到标题: {title[:50]}")
+                print(f"    📝 [og:title] 提取到标题: {title[:50]}")
+        
+        # --- 策略 3: 针对性的 CSS 选择器 (针对 Dawn, ARY News 等) ---
+        if not title:
+            # 针对 Dawn 和 ARY News 的常见标题选择器
+            css_selectors = [
+                'h2.story__title a',   # Dawn 网站的文章标题
+                '.story__title a',      # Dawn 网站的备用选择器
+                'h1.heading1',          # ARY News 等网站可能的结构
+                '.article-headline a',  # 其他新闻网站的通用选择器
+                '.entry-title a',       # WordPress 类网站的通用选择器
+            ]
+            for selector in css_selectors:
+                elem = soup.select_one(selector)
+                if elem:
+                    title = elem.get_text(strip=True)
+                    print(f"    📝 [CSS Selector: {selector}] 提取到标题: {title[:50]}")
+                    break
+        
+        # --- 策略 4: 从 <h1> 标签中提取标题 ---
         if not title:
             h1 = soup.find("h1")
             if h1:
                 title = h1.get_text(strip=True)
-                print(f"    📝 从 h1 提取到标题: {title[:50]}")
+                print(f"    📝 [<h1>] 提取到标题: {title[:50]}")
+        
+        # --- 策略 5: 从 <title> 标签中提取标题（降级方案）---
         if not title:
             t = soup.find("title")
             if t:
                 candidate = t.get_text(strip=True)
-                if not any(x in candidate.lower() for x in ["opt out", "privacy", "share"]):
+                # 排除一些通用的、非文章标题的内容
+                if not any(x in candidate.lower() for x in ["opt out", "privacy", "share", "dawn.com", "ary news"]):
                     title = candidate
-                    print(f"    📝 从 title 提取到标题: {title[:50]}")
+                    print(f"    📝 [<title>] 提取到标题: {title[:50]}")
         
+        # --- 策略 6: 最终兜底 ---
         if not title:
             title = "无标题"
             print(f"    ⚠️ 未能提取到标题，使用默认值")
@@ -456,7 +475,7 @@ def fetch_article_detail(driver, article_url):
         # 翻译标题
         translated_title = translate_text(title)
         
-        # ... (原有的时间提取和返回数据的代码保持不变) ...
+        # 提取发布时间（原逻辑保持不变）
         pub_time = None
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
@@ -469,6 +488,7 @@ def fetch_article_detail(driver, article_url):
                 pub_time = time_tag.get_text(strip=True)
             else:
                 pub_time = datetime.now(timezone.utc).isoformat()
+        
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         return {
             "id": f"article_{url_hash}",
