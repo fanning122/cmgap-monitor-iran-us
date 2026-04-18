@@ -397,10 +397,20 @@ def extract_article_links(driver, listpage_url):
     return result
 
 def fetch_article_detail(driver, article_url):
-    """抓取单篇文章的标题和发布时间，并翻译标题。采用增强型标题提取策略。"""
+    """抓取单篇文章的标题和发布时间，并翻译标题。优先等待动态内容加载。"""
     try:
         driver.get(article_url)
-        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        
+        # --- 关键修改点：明确等待标题元素加载完成 ---
+        # 等待 h2.story__title 元素出现，最多等待15秒
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'h2.story__title'))
+        )
+        # 等待元素稳定后，再稍微加一点缓冲
+        time.sleep(1)
+        # --------------------------------------------
+        
+        # 检查页面是否被屏蔽
         page_title = driver.title.lower()
         if "opt out" in page_title or "privacy" in page_title:
             print(f"  ⚠️ 页面可能被屏蔽，跳过: {article_url[:80]}")
@@ -409,46 +419,36 @@ def fetch_article_detail(driver, article_url):
         soup = BeautifulSoup(driver.page_source, "html.parser")
         title = None
         
-        # --- 策略 1: 从 JSON-LD 结构化数据中提取标题 ---
-        try:
-            for script_tag in soup.find_all('script', type='application/ld+json'):
-                data = json.loads(script_tag.string)
-                if isinstance(data, list):
-                    for item in data:
-                        if item.get('@type') == 'NewsArticle' and item.get('headline'):
-                            title = item.get('headline')
-                            break
-                elif isinstance(data, dict) and data.get('@type') == 'NewsArticle' and data.get('headline'):
-                    title = data.get('headline')
-                if title:
-                    print(f"    📝 [JSON-LD] 提取到标题: {title[:50]}")
-                    break
-        except Exception as e:
-            print(f"    ⚠️ 解析 JSON-LD 失败: {e}")
+        # --- 策略 1: 针对 Dawn 网站的精准选择器 ---
+        title_elem = soup.select_one('h2.story__title a.story__link')
+        if title_elem:
+            title = title_elem.get_text(strip=True)
+            print(f"    📝 [Dawn Selector] 提取到标题: {title[:50]}")
         
-        # --- 策略 2: 从 Open Graph 中提取标题 ---
+        # --- 策略 2: 从 JSON-LD 结构化数据中提取标题 ---
+        if not title:
+            try:
+                for script_tag in soup.find_all('script', type='application/ld+json'):
+                    data = json.loads(script_tag.string)
+                    if isinstance(data, list):
+                        for item in data:
+                            if item.get('@type') == 'NewsArticle' and item.get('headline'):
+                                title = item.get('headline')
+                                break
+                    elif isinstance(data, dict) and data.get('@type') == 'NewsArticle' and data.get('headline'):
+                        title = data.get('headline')
+                    if title:
+                        print(f"    📝 [JSON-LD] 提取到标题: {title[:50]}")
+                        break
+            except Exception as e:
+                print(f"    ⚠️ 解析 JSON-LD 失败: {e}")
+        
+        # --- 策略 3: 从 Open Graph 中提取标题 ---
         if not title:
             og_title = soup.find("meta", property="og:title")
             if og_title and og_title.get("content"):
                 title = og_title["content"].strip()
                 print(f"    📝 [og:title] 提取到标题: {title[:50]}")
-        
-        # --- 策略 3: 针对性的 CSS 选择器 (针对 Dawn, ARY News 等) ---
-        if not title:
-            # 针对 Dawn 和 ARY News 的常见标题选择器
-            css_selectors = [
-                'h2.story__title a',   # Dawn 网站的文章标题
-                '.story__title a',      # Dawn 网站的备用选择器
-                'h1.heading1',          # ARY News 等网站可能的结构
-                '.article-headline a',  # 其他新闻网站的通用选择器
-                '.entry-title a',       # WordPress 类网站的通用选择器
-            ]
-            for selector in css_selectors:
-                elem = soup.select_one(selector)
-                if elem:
-                    title = elem.get_text(strip=True)
-                    print(f"    📝 [CSS Selector: {selector}] 提取到标题: {title[:50]}")
-                    break
         
         # --- 策略 4: 从 <h1> 标签中提取标题 ---
         if not title:
