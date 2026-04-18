@@ -220,7 +220,7 @@ def download_image(img_url, save_dir=IMAGES_DIR):
 
 # ==================== 抓取推文 ====================
 def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS_PER_ACCOUNT, retry=True):
-    """使用指定账号的 Cookie 抓取推文（包括图片、翻译），失败时可重试一次"""
+    """使用指定账号的 Cookie 抓取推文（包括图片、翻译），自动点击 "Show more"，失败时可重试一次"""
     url = f"https://x.com/{username}"
     for attempt in range(1, 3 if retry else 1):
         try:
@@ -229,11 +229,31 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'article[data-testid="tweet"]'))
             )
             time.sleep(1)
+            
+            # ========== 新增：点击每个推文中的 "Show more" 按钮 ==========
+            # 获取所有推文 article 元素（Selenium WebElement 列表）
+            article_elements = driver.find_elements(By.CSS_SELECTOR, 'article[data-testid="tweet"]')
+            # 只处理前 max_tweets 个
+            for article_elem in article_elements[:max_tweets]:
+                try:
+                    # 查找 "Show more" 或 "more" 按钮（不区分大小写）
+                    show_more_btn = article_elem.find_element(By.XPATH, './/button[contains(text(), "Show more") or contains(text(), "more")]')
+                    if show_more_btn.is_displayed() and show_more_btn.is_enabled():
+                        # 使用 JavaScript 点击，避免元素被遮挡
+                        driver.execute_script("arguments[0].click();", show_more_btn)
+                        time.sleep(0.5)  # 等待内容展开
+                except:
+                    pass  # 没有 "Show more" 按钮，正常继续
+            # ========================================================
+            
+            # 重新获取页面源码（因为点击后 DOM 已更新）
             soup = BeautifulSoup(driver.page_source, "html.parser")
             articles = soup.find_all('article', attrs={'data-testid': 'tweet'})
+            
             tweets = []
             for art in articles[:max_tweets]:
                 try:
+                    # 获取推文文本（已展开）
                     text_div = art.find('div', {'data-testid': 'tweetText'})
                     text = text_div.get_text(strip=True) if text_div else ""
                     if len(text) > 500:
@@ -241,6 +261,7 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
                     
                     translated_text = translate_text(text)
                     
+                    # 提取图片（与原来完全一致）
                     images = []
                     img_tags = art.find_all('img')
                     for img in img_tags:
@@ -258,6 +279,7 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
                         if local_img:
                             local_images.append(local_img)
                     
+                    # 提取推文链接和 ID
                     time_link = art.find('a', href=True)
                     tweet_url = ""
                     tweet_id = ""
@@ -375,7 +397,7 @@ def extract_article_links(driver, listpage_url):
     return result
 
 def fetch_article_detail(driver, article_url):
-    """抓取单篇文章的标题和发布时间，并翻译标题"""
+    """抓取单篇文章的标题和发布时间，并翻译标题。优先从JSON-LD数据中提取。"""
     try:
         driver.get(article_url)
         WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
@@ -383,26 +405,58 @@ def fetch_article_detail(driver, article_url):
         if "opt out" in page_title or "privacy" in page_title:
             print(f"  ⚠️ 页面可能被屏蔽，跳过: {article_url[:80]}")
             return None
+        
         soup = BeautifulSoup(driver.page_source, "html.parser")
         title = None
-        og_title = soup.find("meta", property="og:title")
-        if og_title and og_title.get("content"):
-            title = og_title["content"].strip()
+        
+        # --- 新增：从 JSON-LD 结构化数据中提取标题 ---
+        try:
+            # 查找所有 type="application/ld+json" 的 script 标签
+            for script_tag in soup.find_all('script', type='application/ld+json'):
+                try:
+                    data = json.loads(script_tag.string)
+                    # 处理数据可能是列表的情况
+                    if isinstance(data, list):
+                        for item in data:
+                            if item.get('@type') == 'NewsArticle' and item.get('headline'):
+                                title = item.get('headline')
+                                break
+                    elif isinstance(data, dict) and data.get('@type') == 'NewsArticle' and data.get('headline'):
+                        title = data.get('headline')
+                    if title:
+                        print(f"    📝 从 JSON-LD 提取到标题: {title[:50]}")
+                        break
+                except json.JSONDecodeError:
+                    continue
+        except Exception as e:
+            print(f"    ⚠️ 解析 JSON-LD 失败: {e}")
+        # --- 原有提取逻辑（作为降级方案）---
+        if not title:
+            og_title = soup.find("meta", property="og:title")
+            if og_title and og_title.get("content"):
+                title = og_title["content"].strip()
+                print(f"    📝 从 og:title 提取到标题: {title[:50]}")
         if not title:
             h1 = soup.find("h1")
             if h1:
                 title = h1.get_text(strip=True)
+                print(f"    📝 从 h1 提取到标题: {title[:50]}")
         if not title:
             t = soup.find("title")
             if t:
                 candidate = t.get_text(strip=True)
                 if not any(x in candidate.lower() for x in ["opt out", "privacy", "share"]):
                     title = candidate
+                    print(f"    📝 从 title 提取到标题: {title[:50]}")
+        
         if not title:
             title = "无标题"
+            print(f"    ⚠️ 未能提取到标题，使用默认值")
         
+        # 翻译标题
         translated_title = translate_text(title)
         
+        # ... (原有的时间提取和返回数据的代码保持不变) ...
         pub_time = None
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
