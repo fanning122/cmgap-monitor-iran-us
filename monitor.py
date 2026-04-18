@@ -375,7 +375,7 @@ def extract_article_links(driver, listpage_url):
     return result
 
 def fetch_article_detail(driver, article_url):
-    """抓取单篇文章的标题和发布时间，并翻译标题"""
+    """抓取单篇文章的标题和发布时间，并翻译标题。优先从JSON-LD数据中提取。"""
     try:
         driver.get(article_url)
         WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
@@ -383,26 +383,58 @@ def fetch_article_detail(driver, article_url):
         if "opt out" in page_title or "privacy" in page_title:
             print(f"  ⚠️ 页面可能被屏蔽，跳过: {article_url[:80]}")
             return None
+        
         soup = BeautifulSoup(driver.page_source, "html.parser")
         title = None
-        og_title = soup.find("meta", property="og:title")
-        if og_title and og_title.get("content"):
-            title = og_title["content"].strip()
+        
+        # --- 新增：从 JSON-LD 结构化数据中提取标题 ---
+        try:
+            # 查找所有 type="application/ld+json" 的 script 标签
+            for script_tag in soup.find_all('script', type='application/ld+json'):
+                try:
+                    data = json.loads(script_tag.string)
+                    # 处理数据可能是列表的情况
+                    if isinstance(data, list):
+                        for item in data:
+                            if item.get('@type') == 'NewsArticle' and item.get('headline'):
+                                title = item.get('headline')
+                                break
+                    elif isinstance(data, dict) and data.get('@type') == 'NewsArticle' and data.get('headline'):
+                        title = data.get('headline')
+                    if title:
+                        print(f"    📝 从 JSON-LD 提取到标题: {title[:50]}")
+                        break
+                except json.JSONDecodeError:
+                    continue
+        except Exception as e:
+            print(f"    ⚠️ 解析 JSON-LD 失败: {e}")
+        # --- 原有提取逻辑（作为降级方案）---
+        if not title:
+            og_title = soup.find("meta", property="og:title")
+            if og_title and og_title.get("content"):
+                title = og_title["content"].strip()
+                print(f"    📝 从 og:title 提取到标题: {title[:50]}")
         if not title:
             h1 = soup.find("h1")
             if h1:
                 title = h1.get_text(strip=True)
+                print(f"    📝 从 h1 提取到标题: {title[:50]}")
         if not title:
             t = soup.find("title")
             if t:
                 candidate = t.get_text(strip=True)
                 if not any(x in candidate.lower() for x in ["opt out", "privacy", "share"]):
                     title = candidate
+                    print(f"    📝 从 title 提取到标题: {title[:50]}")
+        
         if not title:
             title = "无标题"
+            print(f"    ⚠️ 未能提取到标题，使用默认值")
         
+        # 翻译标题
         translated_title = translate_text(title)
         
+        # ... (原有的时间提取和返回数据的代码保持不变) ...
         pub_time = None
         meta_time = soup.find("meta", {"property": "article:published_time"})
         if meta_time and meta_time.get("content"):
