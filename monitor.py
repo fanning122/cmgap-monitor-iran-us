@@ -5,7 +5,7 @@
 - 顺序处理 20 个 X 账号，预先验证 Cookie 有效性，按 4:6 比例随机选择可用账号，失败不切换
 - 新闻抓取部分使用 Selenium，支持 Dawn（含 Load More 点击）和 ARY News
 - 抓取推文中的图片并保存到本地（原始尺寸，不替换URL），在 HTML 中显示
-- 每次运行时自动删除超过6小时的旧数据和对应的图片文件
+- 每次运行时自动删除超过12小时的旧数据和对应的图片文件
 - 将英文内容翻译成中文，在页面中同时显示原文和译文
 - 生成 HTML 时显示与上次刷新相比的新增内容
 """
@@ -515,7 +515,7 @@ def save_items(items):
     with open(ITEMS_FILE, "w", encoding="utf-8") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
 
-def filter_recent_items(items, hours=6):
+def filter_recent_items(items, hours=12):
     now_utc = datetime.now(timezone.utc)
     cutoff = now_utc - timedelta(hours=hours)
     recent = []
@@ -534,7 +534,7 @@ def filter_recent_items(items, hours=6):
     return recent
 
 # ==================== 清理过期数据 ====================
-def clean_old_data(hours=6):
+def clean_old_data(hours=12):
     """删除 items.json 中超过 hours 小时的数据，并删除不再被引用的图片文件"""
     if not os.path.exists(ITEMS_FILE):
         return
@@ -635,7 +635,7 @@ def generate_html(recent_items):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="600">
-    <title>美伊谈判监测 · 最近6小时</title>
+    <title>美伊谈判监测 · 最近12小时</title>
     <style>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }}
         h1 {{ color: #2c3e50; border-left: 5px solid #e74c3c; padding-left: 15px; }}
@@ -660,7 +660,7 @@ def generate_html(recent_items):
     <h1>📡 美伊谈判实时监测</h1>
     <div class="status">
         🕒 当前页面数据更新时间：{update_time}<br>
-        📊 显示最近6小时内数据 | 页面每10分钟自动刷新<br>
+        📊 显示最近12小时内数据 | 页面每10分钟自动刷新<br>
         {change_msg}
     </div>
     <h2>🐦 X 推文 ({tweet_count})</h2>
@@ -669,7 +669,7 @@ def generate_html(recent_items):
     {articles_html}
     <div class="footer">
         <hr>
-        <p>数据来源：X平台 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过6小时的内容 | 英文自动翻译为中文</p>
+        <p>数据来源：X平台 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过12小时的内容 | 英文自动翻译为中文</p>
     </div>
 </body>
 </html>"""
@@ -692,7 +692,7 @@ def generate_html(recent_items):
         </div>
         '''
     if not tweets:
-        tweets_html = "<p>暂无最近6小时的新推文。</p>"
+        tweets_html = "<p>暂无最近12小时的新推文。</p>"
     
     articles_html = ""
     for a in articles:
@@ -705,7 +705,7 @@ def generate_html(recent_items):
         </div>
         '''
     if not articles:
-        articles_html = "<p>暂无最近6小时的新文章。</p>"
+        articles_html = "<p>暂无最近12小时的新文章。</p>"
     
     html = html_template.format(
         update_time=update_time,
@@ -733,8 +733,8 @@ def main():
 
     print(f"{datetime.now()} 开始抓取（支持图片、自动清理、中英文翻译）...")
     
-    # 清理超过6小时的旧数据和图片
-    clean_old_data(hours=6)
+    # 清理超过12小时的旧数据和图片
+    clean_old_data(hours=12)
     
     start = time.time()
     driver = get_driver()
@@ -810,9 +810,9 @@ def main():
         print(f"   实际比例: 账号1 {account_usage[1]/total_usage*100:.1f}% , 账号2 {account_usage[2]/total_usage*100:.1f}%")
     
     # ========== 新闻抓取（支持 Load More，按时间窗口筛选） ==========
-    print("\n--- 抓取新闻文章（按6小时内时间窗口筛选） ---")
+    print("\n--- 抓取新闻文章（按12小时内时间窗口筛选） ---")
     now_utc = datetime.now(timezone.utc)
-    cutoff_time = now_utc - timedelta(hours=6)
+    cutoff_time = now_utc - timedelta(hours=12)
     
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
@@ -824,16 +824,16 @@ def main():
             print(f"  [{idx}/{len(article_links)}] 抓取: {article_url[:80]}...")
             article = fetch_article_detail(driver, article_url)
             if article:
-                # 解析发布时间并判断是否在6小时内
+                # 解析发布时间并判断是否在12小时内
                 ts_str = article.get("original_time")
                 if ts_str:
                     if ts_str.endswith("Z"):
                         ts_str = ts_str.replace("Z", "+00:00")
                     try:
                         pub_time = datetime.fromisoformat(ts_str)
-                        # 如果发布时间早于6小时前，则丢弃
+                        # 如果发布时间早于12小时前，则丢弃
                         if pub_time < cutoff_time:
-                            print(f"    ⏭️ 跳过（发布时间超过6小时）: {article['title'][:50]}")
+                            print(f"    ⏭️ 跳过（发布时间超过12小时）: {article['title'][:50]}")
                             continue
                     except Exception as e:
                         print(f"    ⚠️ 无法解析时间，保留: {e}")
@@ -854,7 +854,7 @@ def main():
     else:
         print("\n📭 无新增内容")
     
-    recent = filter_recent_items(all_items, hours=6)
+    recent = filter_recent_items(all_items, hours=12)
     generate_html(recent)
     elapsed = time.time() - start
     print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
