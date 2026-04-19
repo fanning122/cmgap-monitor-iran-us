@@ -534,7 +534,7 @@ def filter_recent_items(items, hours=6):
     return recent
 
 # ==================== 清理过期数据 ====================
-def clean_old_data(hours=6):
+def clean_old_data(hours=12):
     """删除 items.json 中超过 hours 小时的数据，并删除不再被引用的图片文件"""
     if not os.path.exists(ITEMS_FILE):
         return
@@ -660,7 +660,7 @@ def generate_html(recent_items):
     <h1>📡 美伊谈判实时监测</h1>
     <div class="status">
         🕒 当前页面数据更新时间：{update_time}<br>
-        📊 显示最近6小时内数据 | 页面每10分钟自动刷新<br>
+        📊 显示最近12小时内数据 | 页面每10分钟自动刷新<br>
         {change_msg}
     </div>
     <h2>🐦 X 推文 ({tweet_count})</h2>
@@ -669,7 +669,7 @@ def generate_html(recent_items):
     {articles_html}
     <div class="footer">
         <hr>
-        <p>数据来源：X平台 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过6小时的内容 | 英文自动翻译为中文</p>
+        <p>数据来源：X平台 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过12小时的内容 | 英文自动翻译为中文</p>
     </div>
 </body>
 </html>"""
@@ -692,7 +692,7 @@ def generate_html(recent_items):
         </div>
         '''
     if not tweets:
-        tweets_html = "<p>暂无最近6小时的新推文。</p>"
+        tweets_html = "<p>暂无最近12小时的新推文。</p>"
     
     articles_html = ""
     for a in articles:
@@ -734,7 +734,7 @@ def main():
     print(f"{datetime.now()} 开始抓取（支持图片、自动清理、中英文翻译）...")
     
     # 清理超过6小时的旧数据和图片
-    clean_old_data(hours=6)
+    clean_old_data(hours=12)
     
     start = time.time()
     driver = get_driver()
@@ -854,7 +854,7 @@ def main():
     else:
         print("\n📭 无新增内容")
     
-    recent = filter_recent_items(all_items, hours=6)
+    recent = filter_recent_items(all_items, hours=12)
     generate_html(recent)
     elapsed = time.time() - start
     print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
