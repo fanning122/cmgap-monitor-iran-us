@@ -328,6 +328,7 @@ def extract_article_links(driver, listpage_url):
     """
     从新闻列表页提取所有文章链接。
     对于 Dawn 页面，会自动点击 "Load More" 按钮多次以加载更多内容。
+    对于 ARY News 页面，会自动滚动到底部以触发动态加载。
     返回链接列表（不限制数量）。
     """
     print(f"  正在访问列表页: {listpage_url}")
@@ -341,20 +342,40 @@ def extract_article_links(driver, listpage_url):
             try:
                 # 查找 "Load More" 按钮（常见选择器）
                 load_more_btn = driver.find_element(By.CSS_SELECTOR, "button.load-more, a.load-more, .load-more, button:contains('Load More'), a:contains('Load More')")
-                # 若按钮不可见或 disabled，则跳出
                 if not load_more_btn.is_displayed() or not load_more_btn.is_enabled():
                     break
                 load_more_btn.click()
                 click_count += 1
                 print(f"    点击 'Load More' 第 {click_count} 次")
                 time.sleep(DAWN_LOAD_MORE_WAIT)
-            except Exception as e:
+            except Exception:
                 # 没有找到 Load More 按钮或点击失败，视为已加载完全
                 break
         if click_count > 0:
             print(f"    共点击 'Load More' {click_count} 次")
-        # 等待新内容稳定
         time.sleep(2)
+    
+    # 针对 ARY News 执行滚动加载（模拟滚动到底部，触发动态加载）
+    if "arynews.tv" in listpage_url:
+        print("    检测到 ARY News 列表页，开始滚动加载更多文章...")
+        last_height = driver.execute_script("return document.body.scrollHeight")
+        scroll_attempts = 0
+        max_scrolls = 5  # 最多滚动5次
+        while scroll_attempts < max_scrolls:
+            # 滚动到底部
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2)  # 等待新内容加载
+            new_height = driver.execute_script("return document.body.scrollHeight")
+            if new_height == last_height:
+                # 高度不再变化，说明没有新内容了
+                break
+            last_height = new_height
+            scroll_attempts += 1
+            print(f"    滚动加载第 {scroll_attempts} 次，页面高度增加")
+        print("    滚动加载完成")
+        # 可选：再滚动回顶部，避免后续操作位置异常
+        driver.execute_script("window.scrollTo(0, 0);")
+        time.sleep(1)
     
     # 解析所有链接
     soup = BeautifulSoup(driver.page_source, "html.parser")
