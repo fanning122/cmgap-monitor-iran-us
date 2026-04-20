@@ -327,20 +327,22 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
 def extract_article_links(driver, listpage_url):
     """
     从新闻列表页提取所有文章链接。
-    对于 Dawn 页面，会自动点击 "Load More" 按钮多次以加载更多内容。
-    对于 ARY News 页面，会自动滚动到底部以触发动态加载。
+    对于 Dawn 页面，会自动点击 "Load More" 按钮多次。
+    对于 ARY News 页面，会自动遍历分页（/page/2/, /page/3/ ...）。
     返回链接列表（不限制数量）。
     """
     print(f"  正在访问列表页: {listpage_url}")
-    driver.get(listpage_url)
-    WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+    all_links = set()
     
-    # 针对 Dawn 执行 "Load More" 点击循环
+    # ------------------ Dawn 处理 ------------------
     if "dawn.com" in listpage_url:
+        driver.get(listpage_url)
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        
+        # 点击 Load More
         click_count = 0
         for _ in range(DAWN_MAX_LOAD_MORE_CLICKS):
             try:
-                # 查找 "Load More" 按钮（常见选择器）
                 load_more_btn = driver.find_element(By.CSS_SELECTOR, "button.load-more, a.load-more, .load-more, button:contains('Load More'), a:contains('Load More')")
                 if not load_more_btn.is_displayed() or not load_more_btn.is_enabled():
                     break
@@ -349,73 +351,122 @@ def extract_article_links(driver, listpage_url):
                 print(f"    点击 'Load More' 第 {click_count} 次")
                 time.sleep(DAWN_LOAD_MORE_WAIT)
             except Exception:
-                # 没有找到 Load More 按钮或点击失败，视为已加载完全
                 break
         if click_count > 0:
             print(f"    共点击 'Load More' {click_count} 次")
         time.sleep(2)
-    
-    # 针对 ARY News 执行滚动加载（模拟滚动到底部，触发动态加载）
-    if "arynews.tv" in listpage_url:
-        print("    检测到 ARY News 列表页，开始滚动加载更多文章...")
-        last_height = driver.execute_script("return document.body.scrollHeight")
-        scroll_attempts = 0
-        max_scrolls = 5  # 最多滚动5次
-        while scroll_attempts < max_scrolls:
-            # 滚动到底部
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2)  # 等待新内容加载
-            new_height = driver.execute_script("return document.body.scrollHeight")
-            if new_height == last_height:
-                # 高度不再变化，说明没有新内容了
-                break
-            last_height = new_height
-            scroll_attempts += 1
-            print(f"    滚动加载第 {scroll_attempts} 次，页面高度增加")
-        print("    滚动加载完成")
-        # 可选：再滚动回顶部，避免后续操作位置异常
-        driver.execute_script("window.scrollTo(0, 0);")
-        time.sleep(1)
-    
-    # 解析所有链接
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-    domain = listpage_url.split("/")[2]
-    links = set()
-    
-    for a in soup.find_all('a', href=True):
-        href = a['href']
-        if not href or len(href) < 5:
-            continue
-        if href.startswith('/'):
-            full_url = listpage_url.rstrip('/') + href
-        elif href.startswith('http'):
-            full_url = href
-        else:
-            continue
-        if domain not in full_url:
-            continue
         
-        # 处理 Dawn 和 ARY News 的过滤规则
-        if domain == "arynews.tv":
-            path = full_url.replace(f"https://{domain}", "")
-            if any(x in path for x in ['/category/', '/tag/', '/author/', '/page/', '/video', '/live']):
+        # 解析 Dawn 页面所有链接
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        domain = listpage_url.split("/")[2]
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            if not href or len(href) < 5:
                 continue
-            if len(path) < 15:
+            if href.startswith('/'):
+                full_url = listpage_url.rstrip('/') + href
+            elif href.startswith('http'):
+                full_url = href
+            else:
                 continue
-            if path in ["", "/"]:
+            if domain not in full_url:
                 continue
-            links.add(full_url)
-        else:  # dawn.com 及其他
-            # 允许的路径：/news/, /story/, /article/, /2026/, /politics/, /business/, /world/, /cartoon/
+            # Dawn 允许的路径
             if any(x in href for x in ['/news/', '/story/', '/article/', '/2026/', '/politics/', '/business/', '/world/', '/cartoon/']):
-                # 排除不需要的路径
                 if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
                     continue
-                links.add(full_url)
+                all_links.add(full_url)
+        result = list(all_links)
+        print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
+        return result
     
-    result = list(links)
-    print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
-    return result
+    # ------------------ ARY News 处理（分页遍历） ------------------
+    elif "arynews.tv" in listpage_url:
+        # 提取基础 URL（去掉可能存在的 /page/ 后缀）
+        import re
+        base_url = listpage_url.rstrip('/')
+        match = re.match(r'(.*?)/page/\d+', base_url)
+        if match:
+            base_url = match.group(1)
+        
+        current_page = 1
+        max_pages = 10  # 最多抓取10页
+        while current_page <= max_pages:
+            if current_page == 1:
+                page_url = base_url + '/'
+            else:
+                page_url = f"{base_url}/page/{current_page}/"
+            
+            print(f"    抓取分页: {page_url}")
+            driver.get(page_url)
+            WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+            time.sleep(2)
+            
+            soup = BeautifulSoup(driver.page_source, "html.parser")
+            domain = "arynews.tv"
+            links_on_page = set()
+            
+            for a in soup.find_all('a', href=True):
+                href = a['href']
+                if not href or len(href) < 5:
+                    continue
+                if href.startswith('/'):
+                    full_url = "https://" + domain + href
+                elif href.startswith('http'):
+                    full_url = href
+                else:
+                    continue
+                if domain not in full_url:
+                    continue
+                # ARY News 过滤规则
+                path = full_url.replace(f"https://{domain}", "")
+                if any(x in path for x in ['/category/', '/tag/', '/author/', '/page/', '/video', '/live']):
+                    continue
+                if len(path) < 15:
+                    continue
+                if path in ["", "/"]:
+                    continue
+                links_on_page.add(full_url)
+            
+            if not links_on_page:
+                print(f"    分页 {current_page} 无有效链接，停止抓取")
+                break
+            
+            print(f"    分页 {current_page} 提取到 {len(links_on_page)} 个链接")
+            all_links.update(links_on_page)
+            
+            # 可选：检查当前页最早文章时间（需要额外解析，这里省略，依靠主函数的时间过滤）
+            current_page += 1
+        
+        result = list(all_links)
+        print(f"  从 {listpage_url} 共抓取 {len(result)} 个文章链接（来自 {current_page-1} 页）")
+        return result
+    
+    # ------------------ 其他网站（备用） ------------------
+    else:
+        driver.get(listpage_url)
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        domain = listpage_url.split("/")[2]
+        links = set()
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            if not href or len(href) < 5:
+                continue
+            if href.startswith('/'):
+                full_url = listpage_url.rstrip('/') + href
+            elif href.startswith('http'):
+                full_url = href
+            else:
+                continue
+            if domain not in full_url:
+                continue
+            # 通用过滤（简单示例）
+            if any(x in href for x in ['/news/', '/story/', '/article/']):
+                links.add(full_url)
+        result = list(links)
+        print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
+        return result
 
 def fetch_article_detail(driver, article_url):
     """抓取单篇文章的标题和发布时间，并翻译标题。优先等待动态内容加载。"""
