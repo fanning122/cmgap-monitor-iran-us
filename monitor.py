@@ -324,120 +324,104 @@ def fetch_tweets_from_account(username, driver, account=1, max_tweets=MAX_TWEETS
     return []
 
 # ==================== 新闻抓取函数（支持 Dawn Load More，允许 /cartoon/） ====================
-def fetch_article_detail(driver, article_url):
-    """抓取单篇文章的标题和发布时间，并翻译标题。优先等待动态内容加载。"""
-    try:
-        driver.get(article_url)
+def extract_article_links(driver, listpage_url):
+    """
+    从新闻列表页提取所有文章链接。
+    对于 Dawn 页面，会自动点击 "Load More" 按钮多次以加载更多内容。
+    对于 ARY News 页面，使用专用解析逻辑。
+    返回链接列表（不限制数量）。
+    """
+    print(f"  正在访问列表页: {listpage_url}")
+    all_links = set()
+    
+    # ------------------ Dawn 处理 ------------------
+    if "dawn.com" in listpage_url:
+        driver.get(listpage_url)
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         
-        # --- 关键修改点：明确等待标题元素加载完成（仅对 Dawn 有效，失败则跳过）---
-        try:
-            WebDriverWait(driver, 15).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, 'h2.story__title'))
-            )
-            time.sleep(1)
-        except Exception:
-            pass
-        # --------------------------------------------
+        # 点击 Load More
+        click_count = 0
+        for _ in range(DAWN_MAX_LOAD_MORE_CLICKS):
+            try:
+                load_more_btn = driver.find_element(By.CSS_SELECTOR, "button.load-more, a.load-more, .load-more")
+                if not load_more_btn.is_displayed() or not load_more_btn.is_enabled():
+                    break
+                load_more_btn.click()
+                click_count += 1
+                print(f"    点击 'Load More' 第 {click_count} 次")
+                time.sleep(DAWN_LOAD_MORE_WAIT)
+            except Exception:
+                break
+        if click_count > 0:
+            print(f"    共点击 'Load More' {click_count} 次")
+        time.sleep(2)
         
-        # 检查页面是否被屏蔽
-        page_title = driver.title.lower()
-        if "opt out" in page_title or "privacy" in page_title:
-            print(f"  ⚠️ 页面可能被屏蔽，跳过: {article_url[:80]}")
-            return None
+        # 解析 Dawn 页面所有链接
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        domain = listpage_url.split("/")[2]
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            if not href or len(href) < 5:
+                continue
+            if href.startswith('/'):
+                full_url = listpage_url.rstrip('/') + href
+            elif href.startswith('http'):
+                full_url = href
+            else:
+                continue
+            if domain not in full_url:
+                continue
+            # Dawn 允许的路径
+            if any(x in href for x in ['/news/', '/story/', '/article/', '/2026/', '/politics/', '/business/', '/world/', '/cartoon/']):
+                if any(x in full_url for x in ['/video', '/live', '/gallery', '/tag/', '/category/', '/author/']):
+                    continue
+                all_links.add(full_url)
+        result = list(all_links)
+        print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
+        return result
+    
+    # ------------------ ARY News 处理（新增专用解析逻辑） ------------------
+    if "arynews.tv" in listpage_url:
+        print("    使用 ARY News 专用解析器...")
+        driver.get(listpage_url)
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        time.sleep(2)
         
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        title = None
+        # 查找所有新闻条目容器
+        news_items = soup.find_all('div', class_='news-list-item')
+        if not news_items:
+            print("    ⚠️ 未找到任何新闻条目，请检查HTML结构")
+            return []
         
-        # --- 策略 1: 针对 Dawn 网站的精准选择器 ---
-        title_elem = soup.select_one('h2.story__title a.story__link')
-        if title_elem:
-            title = title_elem.get_text(strip=True)
-            print(f"    📝 [Dawn Selector] 提取到标题: {title[:50]}")
-        
-        # --- 策略 2: 从 JSON-LD 结构化数据中提取标题 ---
-        if not title:
-            try:
-                for script_tag in soup.find_all('script', type='application/ld+json'):
-                    data = json.loads(script_tag.string)
-                    if isinstance(data, list):
-                        for item in data:
-                            if item.get('@type') == 'NewsArticle' and item.get('headline'):
-                                title = item.get('headline')
-                                break
-                    elif isinstance(data, dict) and data.get('@type') == 'NewsArticle' and data.get('headline'):
-                        title = data.get('headline')
-                    if title:
-                        print(f"    📝 [JSON-LD] 提取到标题: {title[:50]}")
-                        break
-            except Exception as e:
-                print(f"    ⚠️ 解析 JSON-LD 失败: {e}")
-        
-        # --- 策略 3: 从 Open Graph 中提取标题 ---
-        if not title:
-            og_title = soup.find("meta", property="og:title")
-            if og_title and og_title.get("content"):
-                title = og_title["content"].strip()
-                print(f"    📝 [og:title] 提取到标题: {title[:50]}")
-        
-        # --- 策略 4: 从 <h1> 标签中提取标题 ---
-        if not title:
-            h1 = soup.find("h1")
-            if h1:
-                title = h1.get_text(strip=True)
-                print(f"    📝 [<h1>] 提取到标题: {title[:50]}")
-        
-        # --- 策略 5: 从 <title> 标签中提取标题（降级方案）---
-        if not title:
-            t = soup.find("title")
-            if t:
-                candidate = t.get_text(strip=True)
-                # 排除一些通用的、非文章标题的内容
-                if not any(x in candidate.lower() for x in ["opt out", "privacy", "share", "dawn.com", "ary news"]):
-                    title = candidate
-                    print(f"    📝 [<title>] 提取到标题: {title[:50]}")
-        
-        # --- 策略 6: 最终兜底 ---
-        if not title:
-            title = "无标题"
-            print(f"    ⚠️ 未能提取到标题，使用默认值")
-        
-        # 翻译标题
-        translated_title = translate_text(title)
-        
-        # 提取发布时间（原逻辑保持不变）
-        pub_time = None
-        meta_time = soup.find("meta", {"property": "article:published_time"})
-        if meta_time and meta_time.get("content"):
-            pub_time = meta_time["content"]
-        else:
-            time_tag = soup.find("time")
-            if time_tag and time_tag.get("datetime"):
-                pub_time = time_tag["datetime"]
-            elif time_tag:
-                pub_time = time_tag.get_text(strip=True)
+        print(f"    发现 {len(news_items)} 个新闻条目")
+        for item in news_items:
+            link_tag = item.find('a', href=True)
+            if not link_tag:
+                continue
+            href = link_tag.get('href', '')
+            if not href or len(href) < 5:
+                continue
+            if href.startswith('/'):
+                full_url = "https://arynews.tv" + href
+            elif href.startswith('http'):
+                full_url = href
             else:
-                pub_time = datetime.now(timezone.utc).isoformat()
+                continue
+            if any(x in full_url for x in ['/category/', '/tag/', '/author/', '/page/', '/video', '/live']):
+                continue
+            all_links.add(full_url)
         
-        url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
-        return {
-            "id": f"article_{url_hash}",
-            "type": "article",
-            "source": article_url.split("/")[2],
-            "title": title,
-            "translated_title": translated_title,
-            "url": article_url,
-            "timestamp": datetime.now(timezone.utc).isoformat(),
-            "original_time": pub_time
-        }
-    except Exception as e:
-        print(f"  ❌ 抓取详情失败 {article_url}: {e}")
-        return None
+        result = list(all_links)
+        print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
+        return result
     
-    # ========== 其他网站（备用） ==========
+    # ------------------ 其他网站（备用） ------------------
     driver.get(listpage_url)
     WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
     soup = BeautifulSoup(driver.page_source, "html.parser")
     domain = listpage_url.split("/")[2]
+    links = set()
     for a in soup.find_all('a', href=True):
         href = a['href']
         if not href or len(href) < 5:
@@ -451,26 +435,25 @@ def fetch_article_detail(driver, article_url):
         if domain not in full_url:
             continue
         if any(x in href for x in ['/news/', '/story/', '/article/']):
-            all_links.add(full_url)
-    result = list(all_links)
+            links.add(full_url)
+    result = list(links)
     print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
     return result
 
+# ==================== 抓取文章详情（已修改：等待标题元素改为可选项） ====================
 def fetch_article_detail(driver, article_url):
     """抓取单篇文章的标题和发布时间，并翻译标题。优先等待动态内容加载。"""
     try:
         driver.get(article_url)
         
-        # --- 关键修改点：明确等待标题元素加载完成 ---
-        # 等待 h2.story__title 元素出现，最多等待15秒
-    try:
-        WebDriverWait(driver, 15).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, 'h2.story__title'))
-        )
-        time.sleep(1)  # 等待元素稳定
-    except Exception:
-        # 非 Dawn 网站（如 ARY News）没有此元素，忽略超时，继续执行
-        pass
+        # --- 关键修改点：明确等待标题元素加载完成（仅对 Dawn 有效，失败则跳过）---
+        try:
+            WebDriverWait(driver, 15).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'h2.story__title'))
+            )
+            time.sleep(1)
+        except Exception:
+            pass
         # --------------------------------------------
         
         # 检查页面是否被屏蔽
@@ -879,7 +862,7 @@ def main():
     
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
-        article_links = extract_article_links(driver, listpage)  # 传入 driver
+        article_links = extract_article_links(driver, listpage)
         if not article_links:
             print(f"  ⚠️ 未提取到链接，跳过该列表页")
             continue
