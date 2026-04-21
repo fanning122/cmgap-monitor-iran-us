@@ -473,6 +473,7 @@ def extract_article_links(driver, listpage_url):
     result = list(all_links)
     print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
     return result
+
 def fetch_article_detail(driver, article_url):
     """抓取单篇文章的标题和发布时间，并翻译标题。优先等待动态内容加载。"""
     try:
@@ -480,11 +481,14 @@ def fetch_article_detail(driver, article_url):
         
         # --- 关键修改点：明确等待标题元素加载完成 ---
         # 等待 h2.story__title 元素出现，最多等待15秒
+    try:
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'h2.story__title'))
         )
-        # 等待元素稳定后，再稍微加一点缓冲
-        time.sleep(1)
+        time.sleep(1)  # 等待元素稳定
+    except Exception:
+        # 非 Dawn 网站（如 ARY News）没有此元素，忽略超时，继续执行
+        pass
         # --------------------------------------------
         
         # 检查页面是否被屏蔽
