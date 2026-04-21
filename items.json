@@ -1,866 +1,417 @@
 [
   {
-    "id": "tweet_foreignofficepk_-8070596125732132959",
+    "id": "tweet_DeItaone_6437074268043706037",
     "type": "tweet",
-    "username": "foreignofficepk",
-    "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50spoke this evening with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud@FaisalbinFarhan. \n\nThe two leaders discussed the latest regional developments and emphasized the importance of",
-    "translated_text": "副首相兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50 今晚与沙特外交大臣费萨尔·本·法尔汉亲王@FaisalbinFarhan 进行了交谈。 \n\n两国领导人讨论了地区最新发展并强调了合作的重要性",
-    "images": [
-      "a47b35a914961272.jpg"
-    ],
-    "url": "https://x.com/foreignofficepk/status/-8070596125732132959",
-    "timestamp": "2026-04-21T15:45:13.495787+00:00",
-    "original_time": "2026-04-21T14:44:52.000Z"
-  },
-  {
-    "id": "tweet_foreignofficepk_-7917052814204549358",
-    "type": "tweet",
-    "username": "foreignofficepk",
-    "text": "U.S. Chargé d’Affaires Natalie A. Baker called on Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50today. Discussions covered recent regional developments.\n\nDPM/FM underscored Pakistan’s consistent emphasis on dialogue and diplomacy as the only",
-    "translated_text": "美国临时代办娜塔莉·A·贝克今天拜会了副总理兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50。讨论涵盖了最近的区域发展。\n\n副总理兼外长强调巴基斯坦一贯强调对话和外交是唯一的途径",
-    "images": [
-      "4cf506f1842e5907.jpg",
-      "dd641e316859337d.jpg",
-      "4dbd42d2a4544aa5.jpg",
-      "08fed1afdbc62d4a.jpg"
-    ],
-    "url": "https://x.com/foreignofficepk/status/-7917052814204549358",
-    "timestamp": "2026-04-21T15:45:15.502140+00:00",
-    "original_time": "2026-04-21T13:25:46.000Z"
-  },
-  {
-    "id": "tweet_foreignofficepk_-7099929115580430287",
-    "type": "tweet",
-    "username": "foreignofficepk",
-    "text": "Today, the nation commemorates the 88th death anniversary of Allama Muhammad Iqbal, Hakeem-ul-Ummat and the visionary thinker who articulated the idea of a separate Muslim homeland in South Asia.\n\nThrough his poetry and philosophy, he awakened a sense of purpose and political",
-    "translated_text": "今天，全国纪念阿拉马·穆罕默德·伊克巴尔、哈基姆·乌尔·乌玛特以及这位提出了在南亚建立独立穆斯林家园这一理念的富有远见的思想家逝世 88 周年。\n\n通过他的诗歌和哲学，他唤醒了一种使命感和政治意识",
-    "images": [
-      "b03bc888adb480c1.jpg"
-    ],
-    "url": "https://x.com/foreignofficepk/status/-7099929115580430287",
-    "timestamp": "2026-04-21T15:45:16.269998+00:00",
-    "original_time": "2026-04-21T11:54:52.000Z"
-  },
-  {
-    "id": "tweet_mishaqdar50_-8070596125732132959",
-    "type": "tweet",
-    "username": "mishaqdar50",
-    "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50spoke this evening with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud@FaisalbinFarhan. \n\nThe two leaders discussed the latest regional developments and emphasized the importance of",
-    "translated_text": "副首相兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50 今晚与沙特外交大臣费萨尔·本·法尔汉亲王@FaisalbinFarhan 进行了交谈。 \n\n两国领导人讨论了地区最新发展并强调了合作的重要性",
-    "images": [
-      "a47b35a914961272.jpg"
-    ],
-    "url": "https://x.com/mishaqdar50/status/-8070596125732132959",
-    "timestamp": "2026-04-21T15:45:28.101102+00:00",
-    "original_time": "2026-04-21T14:44:52.000Z"
-  },
-  {
-    "id": "tweet_mishaqdar50_-7917052814204549358",
-    "type": "tweet",
-    "username": "mishaqdar50",
-    "text": "U.S. Chargé d’Affaires Natalie A. Baker called on Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50today. Discussions covered recent regional developments.\n\nDPM/FM underscored Pakistan’s consistent emphasis on dialogue and diplomacy as the only",
-    "translated_text": "美国临时代办娜塔莉·A·贝克今天拜会了副总理兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50。讨论涵盖了最近的区域发展。\n\n副总理兼外长强调巴基斯坦一贯强调对话和外交是唯一的途径",
-    "images": [
-      "4cf506f1842e5907.jpg",
-      "dd641e316859337d.jpg",
-      "4dbd42d2a4544aa5.jpg",
-      "08fed1afdbc62d4a.jpg"
-    ],
-    "url": "https://x.com/mishaqdar50/status/-7917052814204549358",
-    "timestamp": "2026-04-21T15:45:28.326919+00:00",
-    "original_time": "2026-04-21T13:25:46.000Z"
-  },
-  {
-    "id": "tweet_mishaqdar50_3943999702544720631",
-    "type": "tweet",
-    "username": "mishaqdar50",
-    "text": "We have played our full role in the political and defense arenas as well as in development projects. Pakistan's green passport has once again earned respect, just like in 1998, for which Prime Minister Shehbaz Sharif, Foreign Minister Ishaq Dar, and Field Marshal Asim Munir have",
-    "translated_text": "我们在政治和国防领域以及发展项目中充分发挥了作用。正如1998年一样，巴基斯坦的绿色护照再次赢得尊重，总理谢赫巴兹·谢里夫、外交部长伊沙克·达尔和陆军元帅阿西姆·穆尼尔对此表示赞赏。",
-    "images": [
-      "dc60fadf559aa78e.jpg"
-    ],
-    "url": "https://x.com/mishaqdar50/status/3943999702544720631",
-    "timestamp": "2026-04-21T15:45:29.827510+00:00",
-    "original_time": "2026-04-21T11:49:48.000Z"
-  },
-  {
-    "id": "tweet_cmshehbaz_9084284263105474457",
-    "type": "tweet",
-    "username": "cmshehbaz",
-    "text": "I received a call from H.E. António Costa, President of the European Council, this evening.\n\nDuring our cordial exchange, I shared with President Costa, updates on Pakistan’s ongoing diplomatic outreach and peace efforts in the Middle East. \n\nGrateful for the European Union’s",
-    "translated_text": "我接到 H.E. 的电话今晚，欧洲理事会主席安东尼奥·科斯塔。\n\n在我们的亲切交流中，我向科斯塔总统介绍了巴基斯坦正在进行的中东外交与和平努力的最新情况。 \n\n感谢欧盟的",
+    "username": "DeItaone",
+    "text": "TRUMP: IRAN TRYING TO MOVE THEIR MISSILES",
+    "translated_text": "特朗普：伊朗试图转移导弹",
     "images": [],
-    "url": "https://x.com/cmshehbaz/status/9084284263105474457",
-    "timestamp": "2026-04-21T15:45:40.696289+00:00",
-    "original_time": "2026-04-20T14:23:42.000Z"
+    "url": "https://x.com/DeItaone/status/6437074268043706037",
+    "timestamp": "2026-04-21T16:20:42.062620+00:00",
+    "original_time": "2026-04-21T12:37:04.000Z"
   },
   {
-    "id": "tweet_cmshehbaz_6115768693092356654",
+    "id": "tweet_DeItaone_8199949539500487793",
     "type": "tweet",
-    "username": "cmshehbaz",
-    "text": "I had a warm and constructive conversation with President Dr. Masoud Pezeshkian this evening on the evolving regional situation.\n\nI appreciated Iran’s engagement, including its high-level delegation to Islamabad for the historic talks, and recent discussions with Field Marshal",
-    "translated_text": "今晚我与总统马苏德·佩泽什基安博士就不断变化的地区局势进行了热情和建设性的交谈。\n\n我赞赏伊朗的参与，包括派高级代表团前往伊斯兰堡参加历史性会谈，以及最近与陆军元帅的讨论",
+    "username": "DeItaone",
+    "text": "TRUMP: IRAN CAN MAKE ITSELF INTO 'LEGITIMATE' COUNTRY",
+    "translated_text": "特朗普：伊朗可以使自己成为“合法”国家",
     "images": [],
-    "url": "https://x.com/cmshehbaz/status/6115768693092356654",
-    "timestamp": "2026-04-21T15:45:40.937091+00:00",
-    "original_time": "2026-04-19T18:22:19.000Z"
+    "url": "https://x.com/DeItaone/status/8199949539500487793",
+    "timestamp": "2026-04-21T16:20:42.393767+00:00",
+    "original_time": "2026-04-21T12:36:45.000Z"
   },
   {
-    "id": "tweet_cmshehbaz_-9081253568655601529",
-    "type": "tweet",
-    "username": "cmshehbaz",
-    "text": "As I depart from the beautiful city of Antalya, I wish to extend my deepest gratitude to my dear brother Recep Tayyip Erdoğan for the exceptionally warm welcome and gracious hospitality extended to me and my delegation.\n\nI am leaving Antalya with cherished memories and a renewed",
-    "translated_text": "在我离开美丽的安塔利亚市之际，我谨向我亲爱的兄弟雷杰普·塔伊普·埃尔多安表示最深切的谢意，感谢他对我和我国代表团的异常热烈欢迎和盛情款待。\n\n我将带着珍贵的回忆和崭新的心情离开安塔利亚",
-    "images": [],
-    "url": "https://x.com/cmshehbaz/status/-9081253568655601529",
-    "timestamp": "2026-04-21T15:45:41.166270+00:00",
-    "original_time": "2026-04-18T06:14:02.000Z"
-  },
-  {
-    "id": "tweet_pakpmo_8597329791441036366",
-    "type": "tweet",
-    "username": "pakpmo",
-    "text": "Islamabad: April 21, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif chaired a high-level meeting to accelerate developmental projects in the country through public-private partnerships.\n\nThe Prime Minister has given in-principle approval to further streamline the Public-Private",
-    "translated_text": "伊斯兰堡：2026 年 4 月 21 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫主持了一次高级别会议，旨在通过公私伙伴关系加快该国的发展项目。\n\n总理原则上批准进一步简化公私部门",
-    "images": [],
-    "url": "https://x.com/pakpmo/status/8597329791441036366",
-    "timestamp": "2026-04-21T15:45:53.637809+00:00",
-    "original_time": "2026-04-21T09:57:20.000Z"
-  },
-  {
-    "id": "tweet_pakpmo_-5049449555127031438",
-    "type": "tweet",
-    "username": "pakpmo",
-    "text": "Prime Minister Muhammad Shehbaz Sharif's Message on Iqbal Day, April 21, 2026.\n\nOn Iqbal Day today, I pay heartfelt tribute, on behalf of the entire nation, to the Poet of the East, Thinker of Islam, and Visionary of Pakistan, Allama Muhammad Iqbal. Undoubtedly, Allama Iqbal was",
-    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫 2026 年 4 月 21 日伊克巴尔日致辞。\n\n在今天的伊克巴尔日，我代表全国向东方诗人、伊斯兰教思想家、巴基斯坦梦想家阿拉马·穆罕默德·伊克巴尔致以衷心的敬意。毫无疑问，阿拉马·伊克巴尔",
-    "images": [
-      "db4b58bba4b94492.jpg"
-    ],
-    "url": "https://x.com/pakpmo/status/-5049449555127031438",
-    "timestamp": "2026-04-21T15:45:54.000759+00:00",
-    "original_time": "2026-04-21T01:44:47.000Z"
-  },
-  {
-    "id": "tweet_pakpmo_9084284263105474457",
-    "type": "tweet",
-    "username": "pakpmo",
-    "text": "I received a call from H.E. António Costa, President of the European Council, this evening.\n\nDuring our cordial exchange, I shared with President Costa, updates on Pakistan’s ongoing diplomatic outreach and peace efforts in the Middle East. \n\nGrateful for the European Union’s",
-    "translated_text": "我接到 H.E. 的电话今晚，欧洲理事会主席安东尼奥·科斯塔。\n\n在我们的亲切交流中，我向科斯塔总统介绍了巴基斯坦正在进行的中东外交与和平努力的最新情况。 \n\n感谢欧盟的",
-    "images": [],
-    "url": "https://x.com/pakpmo/status/9084284263105474457",
-    "timestamp": "2026-04-21T15:45:54.330796+00:00",
-    "original_time": "2026-04-20T14:23:42.000Z"
-  },
-  {
-    "id": "tweet_IranAmbPak_6149353591767954186",
-    "type": "tweet",
-    "username": "IranAmbPak",
-    "text": "On the Demise Anniversary of Allama Iqbal, we pay tribute to this greate intellectual & spiritual figure. \n\nHis enduring legacy of self-realization, unity, dignity & intellectual awakening transcends borders and remains deeply relevant in addressing the challenges of our time.",
-    "translated_text": "在阿拉马·伊克巴尔逝世周年纪念日之际，我们向这位伟大的知识分子和精神人物致敬。 \n\n他的自我实现、团结、尊严和知识觉醒的持久遗产超越了国界，在应对我们这个时代的挑战方面仍然具有深远的意义。",
-    "images": [
-      "4910604f0a9aecdf.jpg"
-    ],
-    "url": "https://x.com/IranAmbPak/status/6149353591767954186",
-    "timestamp": "2026-04-21T15:46:07.921924+00:00",
-    "original_time": "2026-04-21T10:25:04.000Z"
-  },
-  {
-    "id": "tweet_IranAmbPak_830817202444600105",
-    "type": "tweet",
-    "username": "IranAmbPak",
-    "text": "It's a truth universally acknowledged that a single country in possession of a large Civilisation, will Not negotiate under Threat and Force. \n\nThis is a substantial, Islamic and theological principle.\n\nI wish the US would have perceived ...",
-    "translated_text": "这是一个举世公认的事实：一个拥有庞大文明的国家不会在威胁和武力下进行谈判。 \n\n这是一项实质性的伊斯兰神学原则。\n\n我希望美国能够意识到...",
-    "images": [],
-    "url": "https://x.com/IranAmbPak/status/830817202444600105",
-    "timestamp": "2026-04-21T15:46:08.150216+00:00",
-    "original_time": "2026-04-21T05:05:19.000Z"
-  },
-  {
-    "id": "tweet_IranAmbPak_3304770334185445302",
-    "type": "tweet",
-    "username": "IranAmbPak",
-    "text": "You cannot keep violating the international law, double down on your blockade, threaten Iran with further war crimes, insist on unreasonable demands, pace out with rethorics and pretend to be pursuing \"Diplomacy\".\n\nAs long as the naval blockade remains, faultlines remain.",
-    "translated_text": "你不能继续违反国际法，加倍封锁，以进一步的战争罪威胁伊朗，坚持无理要求，步调一致，假装追求“外交”。\n\n只要海上封锁依然存在，断层线就依然存在。",
-    "images": [],
-    "url": "https://x.com/IranAmbPak/status/3304770334185445302",
-    "timestamp": "2026-04-21T15:46:08.381972+00:00",
-    "original_time": "2026-04-19T19:19:04.000Z"
-  },
-  {
-    "id": "tweet_paktvglobal_-2241769405439120737",
-    "type": "tweet",
-    "username": "paktvglobal",
-    "text": "Deputy Prime Minister and Foreign Minister Ishaq Dar held a phone call with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud. The two leaders discussed the latest regional developments and underscored the importance of dialogue and engagement for lasting peace and",
-    "translated_text": "副首相兼外交部长伊沙克·达尔与沙特外交大臣费萨尔·本·法尔汉·阿勒沙特亲王通电话。两位领导人讨论了最新的地区事态发展，并强调对话与接触对于持久和平与发展的重要性。",
-    "images": [
-      "d6008fde869f35ec.jpg"
-    ],
-    "url": "https://x.com/paktvglobal/status/-2241769405439120737",
-    "timestamp": "2026-04-21T15:46:20.428853+00:00",
-    "original_time": "2026-04-21T15:23:55.000Z"
-  },
-  {
-    "id": "tweet_paktvglobal_-5948661247255983652",
-    "type": "tweet",
-    "username": "paktvglobal",
-    "text": "Pakistan continues its active mediation and remains in constant contact with Iranian leadership to advance dialogue and regional peace. The ceasefire remains in effect until 22 April at 4:50 am PST, with a decision on participation expected within this critical window, says",
-    "translated_text": "巴基斯坦继续积极调解，并与伊朗领导人保持持续接触，以推动对话和地区和平。停火协议有效期至太平洋标准时间 4 月 22 日凌晨 4 点 50 分，预计在此关键窗口内做出参与决定",
-    "images": [
-      "ddc9d17544955624.jpg"
-    ],
-    "url": "https://x.com/paktvglobal/status/-5948661247255983652",
-    "timestamp": "2026-04-21T15:46:21.484968+00:00",
-    "original_time": "2026-04-21T14:58:17.000Z"
-  },
-  {
-    "id": "tweet_paktvglobal_-7221819858947620860",
-    "type": "tweet",
-    "username": "paktvglobal",
-    "text": "In an X post, Federal Minister for Information and Broadcasting Attaullah Tarar says Iran’s formal confirmation to attend Islamabad talks is still awaited. Pakistan remains in constant contact with Tehran, pursuing diplomacy and dialogue. With the ceasefire ending at 4:50 AM PST",
-    "translated_text": "联邦信息和广播部长阿塔拉·塔拉尔 (Attaullah Tarar) 在 X 帖子中表示，仍在等待伊朗正式确认参加伊斯兰堡会谈。巴基斯坦与德黑兰保持持续接触，寻求外交和对话。停火于太平洋标准时间凌晨 4:50 结束",
-    "images": [
-      "20831c5d568aa15d.jpg",
-      "569254805735a24b.jpg"
-    ],
-    "url": "https://x.com/paktvglobal/status/-7221819858947620860",
-    "timestamp": "2026-04-21T15:46:22.575298+00:00",
-    "original_time": "2026-04-21T14:54:43.000Z"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-3896300469515821634",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "«Vance» has been on his way to Pakistan since 3 nights ago but hasn't set off yet!\n\nTrump's ridiculous announcements and American media reports about this country's negotiating team show no sign of stopping\n\nFor example, do you remember that since 3 days ago, American media were",
-    "translated_text": "《Vance》从三晚前就已启程前往巴基斯坦，但尚未出发！\n\n特朗普的荒谬声明和美国媒体对这个国家谈判团队的报道没有停止的迹象\n\n比如说，你还记得吗，从三天前开始，美国媒体就",
-    "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/-3896300469515821634",
-    "timestamp": "2026-04-21T15:46:34.995490+00:00",
-    "original_time": "2026-04-21T15:40:15.000Z"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_8549866938653245852",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "We just wanted to let you know that CNN, the American media outlet, has reported in its latest news that it's unclear when Vance (Trump's vice president) will depart from the United States!\n\nIn other words, the Vance who's been supposedly en route to Islamabad, Pakistan, for the",
-    "translated_text": "我们只是想让大家知道，美国媒体CNN最新消息称，目前还不清楚万斯（特朗普的副总统）何时离开美国！\n\n换句话说，万斯号据称正在前往巴基斯坦伊斯兰堡的途中",
-    "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/8549866938653245852",
-    "timestamp": "2026-04-21T15:46:35.790726+00:00",
-    "original_time": "2026-04-21T15:40:16.000Z"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_6180306345363830016",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "However, American media essentially doesn't even need to admit that they were constantly lying!\n\nThey just say every few hours that an informed source claims so-and-so is on the way.\n\nThe fact that, then, why has he been \"on the way\" for all these hours and still not only hasn't",
-    "translated_text": "然而，美国媒体根本不需要承认他们一直在撒谎！\n\n他们只是每隔几个小时就会说有知情人士声称某某正在路上。\n\n事实上，那么，为什么他已经“在路上”了这么多个小时，而且仍然没有",
-    "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/6180306345363830016",
-    "timestamp": "2026-04-21T15:46:36.869117+00:00",
-    "original_time": "2026-04-21T15:40:17.000Z"
-  },
-  {
-    "id": "tweet_araghchi_4421612175687175112",
-    "type": "tweet",
-    "username": "araghchi",
-    "text": "In line with the ceasefire in Lebanon, the passage for all commercial vessels through Strait of Hormuz is declared completely open for the remaining period of ceasefire, on the coordinated route as already announced by Ports and Maritime Organisation of the Islamic Rep. of Iran.",
-    "translated_text": "根据黎巴嫩停火，所有商船通过霍尔木兹海峡的通道在剩余停火期间完全开放，路线按照伊朗伊斯兰共和国港口和海事组织已经宣布的协调航线。",
-    "images": [],
-    "url": "https://x.com/araghchi/status/4421612175687175112",
-    "timestamp": "2026-04-21T15:46:48.226588+00:00",
-    "original_time": "2026-04-17T12:45:54.000Z"
-  },
-  {
-    "id": "tweet_araghchi_-518998229779091075",
-    "type": "tweet",
-    "username": "araghchi",
-    "text": "Delighted to welcome Field Marshal Munir to Iran.\n\nExpressed gratitude for Pakistan's gracious hosting of dialogue, emphasizing that it reflects our deep and great bilateral relationship. Our commitment to promoting peace and stability in the region remains strong—and shared.",
-    "translated_text": "很高兴欢迎穆尼尔元帅来到伊朗。\n\n对巴基斯坦慷慨主办对话表示感谢，强调这反映了我们深厚而伟大的双边关系。我们对促进该地区和平与稳定的承诺依然坚定，而且是共同的。",
-    "images": [
-      "80e03bf9ee2f54f4.jpg"
-    ],
-    "url": "https://x.com/araghchi/status/-518998229779091075",
-    "timestamp": "2026-04-21T15:46:48.578508+00:00",
-    "original_time": "2026-04-15T18:12:35.000Z"
-  },
-  {
-    "id": "tweet_araghchi_7438469389676051709",
-    "type": "tweet",
-    "username": "araghchi",
-    "text": "In intensive talks at highest level in 47 years, Iran engaged with U.S in good faith to end war.\n\nBut when just inches away from \"Islamabad MoU\", we encountered maximalism, shifting goalposts, and blockade. \n\nZero lessons earned\n\nGood will begets good will. \nEnmity begets enmity.",
-    "translated_text": "在 47 年来最高级别的密集会谈中，伊朗真诚地与美国接触以结束战争。\n\n但当距离“伊斯兰堡谅解备忘录”仅几英寸时，我们遇到了极繁主义、不断变化的球门柱和封锁。 \n\n零教训\n\n善意会产生善意。 \n敌意会产生敌意。",
-    "images": [],
-    "url": "https://x.com/araghchi/status/7438469389676051709",
-    "timestamp": "2026-04-21T15:46:48.828868+00:00",
-    "original_time": "2026-04-12T21:31:06.000Z"
-  },
-  {
-    "id": "tweet_irimfa_3804957349566885022",
-    "type": "tweet",
-    "username": "irimfa",
-    "text": "Today marked the birth anniversary of Hazrat Masoumeh (peace be upon her) and \"Girls' Day.\" I extend my congratulations on this occasion to all the girls of Iran, who are the light of this land's tomorrow, planting hope in hearts with their pure smiles and the freshness of their",
-    "translated_text": "今天是 Hazrat Masoumeh（愿她安息）的诞辰纪念日和“女孩节”。值此之际，我向所有伊朗女孩表示祝贺，她们是这片土地的明天之光，用她们纯洁的微笑和清新的气质在心中播下希望。",
-    "images": [],
-    "url": "https://x.com/irimfa/status/3804957349566885022",
-    "timestamp": "2026-04-21T15:47:01.455943+00:00",
-    "original_time": "2026-04-19T17:35:11.000Z"
-  },
-  {
-    "id": "tweet_irimfa_8197597469987171687",
-    "type": "tweet",
-    "username": "irimfa",
-    "text": "May their pride’s radiance dim the eye of the heavens’ orb  \nIt casts its influences upon the living earth as well  \n\nO brave hearts of the homeland, onward with “Long live Iran”!  \nMay the fervor of your faith swell greater than the lions’ might  \n\nI sincerely congratulate Army",
-    "translated_text": "愿他们骄傲的光辉遮蔽天球之眼  \n它也对生机勃勃的地球产生影响  \n\n祖国勇敢的心啊，与“伊朗万岁”一起前进！  \n愿你的信仰热情比狮子的威力更大  \n\n衷心祝贺陆军",
-    "images": [],
-    "url": "https://x.com/irimfa/status/8197597469987171687",
-    "timestamp": "2026-04-21T15:47:01.796845+00:00",
-    "original_time": "2026-04-18T07:09:13.000Z"
-  },
-  {
-    "id": "tweet_irimfa_8611582703617581319",
-    "type": "tweet",
-    "username": "irimfa",
-    "text": "Field Marshal Asim Munir, Chief of Army Staff of Pakistan, meets with Seyed Abbas#Araghchi, our country's Foreign Minister, in Tehran@araghchi",
-    "translated_text": "巴基斯坦陆军参谋长阿西姆·穆尼尔元帅在德黑兰会见我国外交部长赛义德·阿巴斯#Araghchi@araghchi",
-    "images": [
-      "770f487a8bd5e3ff.jpg",
-      "2c9dacc8727bb907.jpg",
-      "a25f6ae68346b272.jpg",
-      "67e65f9dccd17499.jpg",
-      "c453384a7e7fd6c2.jpg",
-      "c967caf53fc36776.jpg",
-      "f987ce362a5d603d.jpg"
-    ],
-    "url": "https://x.com/irimfa/status/8611582703617581319",
-    "timestamp": "2026-04-21T15:47:02.746303+00:00",
-    "original_time": "2026-04-15T17:23:16.000Z"
-  },
-  {
-    "id": "tweet_mb_ghalibaf_-4444669973885981209",
-    "type": "tweet",
-    "username": "mb_ghalibaf",
-    "text": "They'll sell war to make what great again?",
-    "translated_text": "他们会出售战争来再次伟大吗？",
-    "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/-4444669973885981209",
-    "timestamp": "2026-04-21T15:47:18.224005+00:00",
-    "original_time": "2026-04-21T14:49:19.000Z"
-  },
-  {
-    "id": "tweet_mb_ghalibaf_4588433339561609366",
-    "type": "tweet",
-    "username": "mb_ghalibaf",
-    "text": "Trump, by imposing a siege and violating the ceasefire, seeks to turn this negotiating table— in his own imagination— into a table of surrender or to justify renewed warmongering.  \nWe do not accept negotiations under the shadow of threats, and in the past two weeks, we have",
-    "translated_text": "特朗普通过实施围困和违反停火协议，试图将这张谈判桌——在他自己的想象中——变成一张投降桌，或者为新的好战行为辩护。  \n我们不接受在威胁的阴影下进行谈判，在过去的两周里，我们",
-    "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/4588433339561609366",
-    "timestamp": "2026-04-21T15:47:18.449603+00:00",
-    "original_time": "2026-04-20T21:24:59.000Z"
-  },
-  {
-    "id": "tweet_mb_ghalibaf_-2284431940652963",
-    "type": "tweet",
-    "username": "mb_ghalibaf",
-    "text": "Vibe-trading digital oil is like vibe-hedging in treasuries during Hormuz risk-off. Both share one house of cards that works on paper. \nDifference: oil at least has Dated Brent. Treasuries? Vibes all the way down.\n\nEUCRBRDT Index GP <GO>",
-    "translated_text": "Vibe 交易数字石油就像霍尔木兹风险规避期间国债的 Vibe 对冲。两人共用一间纸牌屋。 \n区别：石油至少已经过时了布伦特原油。国债？一路上气势磅礴。\n\nEUCRBRDT 指数 GP <GO>",
-    "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/-2284431940652963",
-    "timestamp": "2026-04-21T15:47:18.700444+00:00",
-    "original_time": "2026-04-19T22:04:10.000Z"
-  },
-  {
-    "id": "tweet_AJENews_0",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "9b20f961c2ada6de.svg"
-    ],
-    "url": "https://x.com/AJENews/status/0",
-    "timestamp": "2026-04-21T15:47:30.890678+00:00",
-    "original_time": "2026-04-21T05:28:33.000Z"
-  },
-  {
-    "id": "tweet_AJENews_-615696360458991547",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: United State media, citing US military officials, report that the Pentagon’s new budget request includes $30bn for ammunition and interceptor missiles.",
-    "translated_text": "突发新闻：美国媒体援引美国军方官员的话说，五角大楼的新预算请求包括 300 亿美元的弹药和拦截导弹。",
-    "images": [
-      "7484e602d51ac6bd.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-615696360458991547",
-    "timestamp": "2026-04-21T15:47:32.087411+00:00",
-    "original_time": "2026-04-21T15:37:16.000Z"
-  },
-  {
-    "id": "tweet_AJENews_-6578332786990819193",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Trump says administration is weighing currency swap for UAELIVE updates:https://aje.news/0v16yj?update=4510513…",
-    "translated_text": "突发新闻：特朗普表示政府正在考虑对UAELIVE更新进行货币互换：https://aje.news/0v16yj?update=4510513…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "8a264d047ba00c0f.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-6578332786990819193",
-    "timestamp": "2026-04-21T15:47:33.722707+00:00",
-    "original_time": "2026-04-21T15:10:24.000Z"
-  },
-  {
-    "id": "tweet_whitehouse_7359961465999964052",
-    "type": "tweet",
-    "username": "whitehouse",
-    "text": "A defining moment in history.\nA clear mandate from the American people.\n\n365 days later, President Donald J. Trump is delivering, patriotism is rising, America is BACK, and the story is just getting started.",
-    "translated_text": "历史上的决定性时刻。\n来自美国人民的明确授权。\n\n365 天后，唐纳德·J·特朗普总统兑现承诺，爱国主义高涨，美国回来了，故事才刚刚开始。",
-    "images": [
-      "555acad9347888d2.svg"
-    ],
-    "url": "https://x.com/whitehouse/status/7359961465999964052",
-    "timestamp": "2026-04-21T15:47:46.097888+00:00",
-    "original_time": "2026-01-20T21:49:15.000Z"
-  },
-  {
-    "id": "tweet_whitehouse_5918294095745992926",
-    "type": "tweet",
-    "username": "whitehouse",
-    "text": "It's common sense: U.S. elections should be for U.S. citizens only. \n\nPass the SAVE America Act.",
-    "translated_text": "这是常识：美国选举应该只针对美国公民。 \n\n通过“拯救美国法案”。",
-    "images": [
-      "a05f99b74a985cd5.jpg"
-    ],
-    "url": "https://x.com/whitehouse/status/5918294095745992926",
-    "timestamp": "2026-04-21T15:47:46.429826+00:00",
-    "original_time": "2026-04-21T15:32:27.000Z"
-  },
-  {
-    "id": "tweet_whitehouse_-5557277604139346446",
-    "type": "tweet",
-    "username": "whitehouse",
-    "text": "Since the start of the U.S. blockade against ships entering or exiting Iranian ports, U.S. forces have directed 28 vessels to turn around or return to port.",
-    "translated_text": "自美国开始对进出伊朗港口的船只实施封锁以来，美军已指示28艘船只掉头或返回港口。",
-    "images": [
-      "132f63a7d98814b9.jpg"
-    ],
-    "url": "https://x.com/whitehouse/status/-5557277604139346446",
-    "timestamp": "2026-04-21T15:47:46.787694+00:00",
-    "original_time": "2026-04-21T15:12:02.000Z"
-  },
-  {
-    "id": "tweet_usembislamabad_6130225729711768728",
-    "type": "tweet",
-    "username": "usembislamabad",
-    "text": "The United States is committed to the safety and security of Americans in Pakistan. Enroll athttp://step.state.govto receive the latest security alerts for your nearest U.S. Embassy or Consulate. Also follow our WhatsApp channel: “U.S. Citizen Consular Information: PAKISTAN”",
-    "translated_text": "美国致力于保障在巴基斯坦的美国人的安全。在 http://step.state.gov 注册即可接收离您最近的美国大使馆或领事馆的最新安全警报。另请关注我们的 WhatsApp 频道：“美国公民领事信息：巴基斯坦”",
-    "images": [
-      "57cd896efa792adc.jpg",
-      "8e999fa4c9df81ec.jpg"
-    ],
-    "url": "https://x.com/usembislamabad/status/6130225729711768728",
-    "timestamp": "2026-04-21T15:47:59.545067+00:00",
-    "original_time": "2026-03-02T10:53:32.000Z"
-  },
-  {
-    "id": "tweet_usembislamabad_6539978213130665241",
-    "type": "tweet",
-    "username": "usembislamabad",
-    "text": ".@POTUS: \"We're negotiating over the weekend... I expect things to go well. Many of these things have been negotiated and agreed to... The main thing is that Iran will not have a nuclear weapon. You cannot let Iran have a nuclear weapon — and that supersedes everything else.\"",
-    "translated_text": ".@总统：“我们周末正在谈判......我希望事情进展顺利。其中许多事情已经经过谈判并达成一致......最主要的是伊朗不会拥有核武器。你不能让伊朗拥有核武器 - 这取代了其他一切。”",
-    "images": [
-      "0487618281dac561.jpg"
-    ],
-    "url": "https://x.com/usembislamabad/status/6539978213130665241",
-    "timestamp": "2026-04-21T15:47:59.907902+00:00",
-    "original_time": "2026-04-18T03:43:11.000Z"
-  },
-  {
-    "id": "tweet_usembislamabad_-3322914751759544341",
-    "type": "tweet",
-    "username": "usembislamabad",
-    "text": "The Strait of Hormuz is COMPLETELY OPEN AND READY FOR BUSINESS!",
-    "translated_text": "霍尔木兹海峡已完全开放并准备就绪！",
-    "images": [
-      "41fb09b6bdf2392f.jpg"
-    ],
-    "url": "https://x.com/usembislamabad/status/-3322914751759544341",
-    "timestamp": "2026-04-21T15:48:00.223686+00:00",
-    "original_time": "2026-04-17T14:23:10.000Z"
-  },
-  {
-    "id": "tweet_CBSNews_5596989380862499387",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Leon Smith of Pennsylvania named 2026 National Teacher of the Year: \"He is everything you want in a teacher.\"",
-    "translated_text": "宾夕法尼亚州的利昂·史密斯 (Leon Smith) 被评为 2026 年全国年度教师：“他具备你所期望的教师的一切特质。”",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/5596989380862499387",
-    "timestamp": "2026-04-21T15:48:11.955691+00:00",
-    "original_time": "2026-04-21T15:26:50.000Z"
-  },
-  {
-    "id": "tweet_CBSNews_209410632776430869",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "NATO deploys armed fighter jets to intercept Russian military planes flying over Baltic Sea.",
-    "translated_text": "北约部署武装战斗机拦截飞越波罗的海的俄罗斯军机。",
-    "images": [
-      "0f252ccc4ec3577d.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/209410632776430869",
-    "timestamp": "2026-04-21T15:48:13.132276+00:00",
-    "original_time": "2026-04-21T15:25:51.000Z"
-  },
-  {
-    "id": "tweet_CBSNews_-4791005915573470214",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Kevin Warsh faces lawmakers in Fed chair confirmation hearing today. Here's what to expect.",
-    "translated_text": "凯文·沃什今天将在美联储主席确认听证会上面对立法者。这是值得期待的事情。",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/-4791005915573470214",
-    "timestamp": "2026-04-21T15:48:13.970781+00:00",
-    "original_time": "2026-04-21T15:25:06.000Z"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-2049876799982945545",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "A watchful D.C. resident sent me a photo of something we haven’t seen in years; water flowing down the cascading fountain at Meridian Hill/Malcolm X Park. NPS started work on the long-dry fountain late last year, as part of a broader project to refurbish the park.",
-    "translated_text": "一位警惕的华盛顿居民给我发了一张我们多年未见的照片；水从 Meridian Hill/Malcolm X Park 的瀑布喷泉流下。 NPS 去年年底开始修建长期干涸的喷泉，这是公园翻新更广泛项目的一部分。",
-    "images": [
-      "1ca543725cde2c01.jpg"
-    ],
-    "url": "https://x.com/JenniferJJacobs/status/-2049876799982945545",
-    "timestamp": "2026-04-21T15:48:27.666753+00:00",
-    "original_time": "2026-04-21T13:24:50.000Z"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-2269373926037870818",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "The War Department is once again restoring freedom to our Joint Force.  \n\nWe are discarding the mandatory flu vaccine requirement, effective immediately.",
-    "translated_text": "陆军部再次恢复我们联合部队的自由。  \n\n我们将放弃强制性流感疫苗要求，立即生效。",
-    "images": [
-      "b11e0de5b50cdb7f.jpg",
-      "a0197d2cb402a26f.jpg"
-    ],
-    "url": "https://x.com/JenniferJJacobs/status/-2269373926037870818",
-    "timestamp": "2026-04-21T15:48:28.119353+00:00",
-    "original_time": "2026-04-21T13:51:48.000Z"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_4329521775436674729",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "Hegseth: \"We are discarding the mandatory flu vaccine requirement, effective immediately\" for US military",
-    "translated_text": "赫格斯：“我们正在放弃对美军的强制性流感疫苗要求，立即生效”",
-    "images": [
-      "85e0cdcecc8796ab.jpg"
-    ],
-    "url": "https://x.com/JenniferJJacobs/status/4329521775436674729",
-    "timestamp": "2026-04-21T15:48:30.155286+00:00",
-    "original_time": "2026-04-21T14:01:07.000Z"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-4609422649457489530",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "I said to@LelandVittertlast night that it’s still unclear who will be there to meet VP Vance on the other side of the table and that still holds true today. \n\nIranian foreign ministry spokesman, Esmail Baghaei, has told the@BBCthat a decision has still not yet been made for",
-    "translated_text": "昨晚我对 @LelandVittert 说，目前还不清楚谁会在那里与桌子另一边的副总裁万斯会面，这在今天仍然适用。 \n\n伊朗外交部发言人埃斯梅尔·巴格哈伊 (Esmail Baghaei) 告诉@BBC，尚未做出决定",
-    "images": [
-      "785a196aeefd502b.jpg"
-    ],
-    "url": "https://x.com/KellieMeyerNews/status/-4609422649457489530",
-    "timestamp": "2026-04-21T15:48:42.475681+00:00",
-    "original_time": "2026-04-21T15:44:25.000Z"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_8091464255452304055",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Trump speaking to CNBC claims he could've \"won\" the Vietnam & Iraq wars in five months\n\n\"Five months. I would have won Vietnam, very quickly. I would have, if I were president. I would have won Iraq in the same amount of time\"",
-    "translated_text": "特朗普在接受 CNBC 采访时声称他可以在五个月内“赢得”越南和伊拉克战争\n\n“五个月。我会很快赢得越南。如果我是总统，我会的。我会在同样的时间内赢得伊拉克”",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/8091464255452304055",
-    "timestamp": "2026-04-21T15:48:43.296649+00:00",
-    "original_time": "2026-04-21T12:50:13.000Z"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_8044743313530019946",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Pakistan says Iran has still not given a formal response on attending the peace talks.",
-    "translated_text": "巴基斯坦表示，伊朗尚未就参加和谈作出正式回应。",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/8044743313530019946",
-    "timestamp": "2026-04-21T15:48:44.010063+00:00",
-    "original_time": "2026-04-21T14:49:36.000Z"
-  },
-  {
-    "id": "tweet_realdonaldtrump_0",
-    "type": "tweet",
-    "username": "realdonaldtrump",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "ab4f85daef52f035.jpg"
-    ],
-    "url": "https://x.com/realdonaldtrump/status/0",
-    "timestamp": "2026-04-21T15:48:57.889749+00:00",
-    "original_time": "2026-03-02T16:20:05.000Z"
-  },
-  {
-    "id": "tweet_realdonaldtrump_551380295596559575",
-    "type": "tweet",
-    "username": "realdonaldtrump",
-    "text": "On behalf of Erin and me, thank you to everyone for the love and support we've received. We both had an unforgettable wedding day, and we'll never forget it. We're humbled and grateful to all.\n\nTHANK YOU!",
-    "translated_text": "我谨代表艾琳和我，感谢大家对我们的爱和支持。我们俩度过了一个难忘的婚礼，我们永远不会忘记。我们对所有人表示谦卑和感激。\n\n谢谢你！",
-    "images": [
-      "555acad9347888d2.svg",
-      "f79edc5df0f79f21.svg",
-      "0e2ce4ddebe0c438.svg",
-      "7a9b79c6aceb565a.svg",
-      "a05868f64465fd01.jpg"
-    ],
-    "url": "https://x.com/realdonaldtrump/status/551380295596559575",
-    "timestamp": "2026-04-21T15:48:58.972005+00:00",
-    "original_time": "2026-02-02T22:04:19.000Z"
-  },
-  {
-    "id": "tweet_vp_8894768686662280415",
-    "type": "tweet",
-    "username": "vp",
-    "text": "It’s an incredible honor to take the oath of office as the 50th Vice President of the United States. I look forward to working alongside President Trump to serve the American people. Let's Make America Great Again!",
-    "translated_text": "宣誓就任美国第 50 任副总统，我感到无比荣幸。我期待与特朗普总统一起为美国人民服务。让我们让美国再次伟大！",
-    "images": [
-      "0219cb76ab9488c0.jpg",
-      "59a9e7baed09db94.jpg",
-      "66b3fdd3edd3f0d9.jpg",
-      "24689c43cb828a73.jpg"
-    ],
-    "url": "https://x.com/vp/status/8894768686662280415",
-    "timestamp": "2026-04-21T15:49:10.318954+00:00",
-    "original_time": "2025-01-20T19:32:32.000Z"
-  },
-  {
-    "id": "tweet_vp_-6109604592999094516",
-    "type": "tweet",
-    "username": "vp",
-    "text": "Proud of the continued work of the task force to root out fraud.",
-    "translated_text": "为工作组持续努力根除欺诈行为感到自豪。",
-    "images": [
-      "674c4cd567b4d62f.svg",
-      "50a253fd4e3e0fc7.svg",
-      "555acad9347888d2.svg"
-    ],
-    "url": "https://x.com/vp/status/-6109604592999094516",
-    "timestamp": "2026-04-21T15:49:10.759900+00:00",
-    "original_time": "2026-04-18T02:44:58.000Z"
-  },
-  {
-    "id": "tweet_vp_-2066359751877968241",
-    "type": "tweet",
-    "username": "vp",
-    "text": "Vice President Vance to students in Athens, Georgia:\n\n“You are the master of your own destiny. Never give up on yourself and never believe that you're a victim of circumstances...no matter what hand you were dealt, you have the responsibility to play as well as you can.”",
-    "translated_text": "万斯副校长对佐治亚州雅典的学生们说：\n\n“你是自己命运的主人。永远不要放弃自己，永远不要相信自己是环境的受害者……无论你拿到什么牌，你都有责任打得尽可能好。”",
-    "images": [
-      "ec8ab7909491c695.svg",
-      "5de9e3e613fc15b0.jpg"
-    ],
-    "url": "https://x.com/vp/status/-2066359751877968241",
-    "timestamp": "2026-04-21T15:49:11.290442+00:00",
-    "original_time": "2026-04-20T19:41:08.000Z"
-  },
-  {
-    "id": "tweet_geonews_urdu_-966011235931995903",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Oh, Lord of us all!\nWe pray to You to bestow Your special mercy upon this region...\nPrayer for the success of Mr. Jim's negotiations in Islamabad",
-    "translated_text": "哦，我们大家的主！\n我们祈求您赐予这个地区特别的怜悯……\n为吉姆先生在伊斯兰堡的谈判取得成功祈祷",
-    "images": [
-      "68558825f1711a14.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-966011235931995903",
-    "timestamp": "2026-04-21T15:49:24.357196+00:00",
-    "original_time": "2026-04-11T18:59:54.000Z"
-  },
-  {
-    "id": "tweet_geonews_urdu_-347956202177986625",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Reema Khan's White House Visit@geonewspodcast",
-    "translated_text": "雷玛·汗 (Reema Khan) 访问白宫@geonewspodcast",
-    "images": [
-      "e79425d600b5e223.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-347956202177986625",
-    "timestamp": "2026-04-21T15:49:25.513088+00:00",
-    "original_time": "2026-04-21T15:46:00.000Z"
-  },
-  {
-    "id": "tweet_geonews_urdu_-4339287906153089403",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Minutes before any major announcement by Trump, the revelation of deals yielding millions of dollars in profits in the stock markets",
-    "translated_text": "在特朗普发表任何重大声明之前几分钟，股市上产生数百万美元利润的交易的披露",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/-4339287906153089403",
-    "timestamp": "2026-04-21T15:49:26.468591+00:00",
-    "original_time": "2026-04-21T15:29:24.000Z"
-  },
-  {
-    "id": "tweet_CGTNEurope_6063938312068088996",
+    "id": "tweet_CGTNEurope_-5772071869698996133",
     "type": "tweet",
     "username": "CGTNEurope",
-    "text": "Watch CGTN Europe News LIVE 24/7https://x.com/i/broadcasts/1pJkOyaywEVJj…",
-    "translated_text": "观看 CGTN 欧洲新闻直播 24/7 https://x.com/i/broadcasts/1pJkOyaywEVJj…",
-    "images": [],
-    "url": "https://x.com/CGTNEurope/status/6063938312068088996",
-    "timestamp": "2026-04-21T15:49:36.549416+00:00",
-    "original_time": "2026-03-25T10:10:16.000Z"
+    "text": "Iran’s judiciary chief, Gholamhossein Mohseni Ejei, has said that negotiations between Iran and the US “may genuinely lead nowhere”.\n\nHe warned that a proposed maritime blockade by Washington would be a clear violation of the ceasefire from Iran's perspective.\n\nAccording to",
+    "translated_text": "伊朗司法部长吴拉姆侯赛因·莫赫森尼·埃杰伊表示，伊朗和美国之间的谈判“可能真的毫无结果”。\n\n他警告说，从伊朗的角度来看，华盛顿提议的海上封锁将明显违反停火协议。\n\n根据",
+    "images": [
+      "0b942f0dcab5f801.jpg"
+    ],
+    "url": "https://x.com/CGTNEurope/status/-5772071869698996133",
+    "timestamp": "2026-04-21T16:20:43.342027+00:00",
+    "original_time": "2026-04-21T12:36:42.000Z"
   },
   {
-    "id": "tweet_CGTNEurope_-5761833387401394837",
+    "id": "tweet_DeItaone_6853470605906593868",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "TRUMP ON IRAN: I DON'T WANT TO EXTEND CEASEFIRE",
+    "translated_text": "特朗普谈伊朗：我不想延长停火",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/6853470605906593868",
+    "timestamp": "2026-04-21T16:20:43.670213+00:00",
+    "original_time": "2026-04-21T12:36:14.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_-4073118569902839155",
     "type": "tweet",
     "username": "CGTNEurope",
-    "text": "IDF: Following the sirens that sounded a short while ago in the areas of Kfar Yovel and Maayan Baruch, it was determined to be a false identification.",
-    "translated_text": "以色列国防军：不久前在卡法尔约维尔和马延巴鲁克地区响起警报后，确定这是一次虚假身份识别。",
+    "text": "TRUMP SAYS ON EXTENDING CEASEFIRE AGAIN: I DON'T WANT TO DO THAT",
+    "translated_text": "特朗普再次表示延长停火：我不想这样做",
     "images": [],
-    "url": "https://x.com/CGTNEurope/status/-5761833387401394837",
-    "timestamp": "2026-04-21T15:49:37.880176+00:00",
-    "original_time": "2026-04-21T15:48:34.000Z"
+    "url": "https://x.com/CGTNEurope/status/-4073118569902839155",
+    "timestamp": "2026-04-21T16:20:44.661133+00:00",
+    "original_time": "2026-04-21T12:35:45.000Z"
   },
   {
-    "id": "tweet_CGTNEurope_8344281658622856107",
+    "id": "tweet_CGTNEurope_1223432467791530343",
     "type": "tweet",
     "username": "CGTNEurope",
-    "text": "Reports in Israel: Alarms in the north - false alarm",
-    "translated_text": "以色列报道：北部警报——误报",
+    "text": "TRUMP ON IRAN CEASEFIRE: WE DON'T HAVE THAT MUCH TIME",
+    "translated_text": "特朗普谈伊朗停火：我们没有那么多时间",
     "images": [],
-    "url": "https://x.com/CGTNEurope/status/8344281658622856107",
-    "timestamp": "2026-04-21T15:49:38.526485+00:00",
-    "original_time": "2026-04-21T15:46:35.000Z"
+    "url": "https://x.com/CGTNEurope/status/1223432467791530343",
+    "timestamp": "2026-04-21T16:20:44.906291+00:00",
+    "original_time": "2026-04-21T12:35:20.000Z"
   },
   {
-    "id": "article_6364d05fdf98",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "7,900 people died, disappeared on migration routes in 2025: UN",
-    "translated_title": "联合国：2025年有7,900人在移民路线上死亡、失踪",
-    "url": "https://www.dawn.com/news/1993788/7900-people-died-disappeared-on-migration-routes-in-2025-un",
-    "timestamp": "2026-04-21T15:50:03.421458+00:00",
-    "original_time": "2026-04-21T16:06:09+05:00"
+    "id": "tweet_DeItaone_1223432467791530343",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "TRUMP ON IRAN CEASEFIRE: WE DON'T HAVE THAT MUCH TIME",
+    "translated_text": "特朗普谈伊朗停火：我们没有那么多时间",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/1223432467791530343",
+    "timestamp": "2026-04-21T16:20:45.247579+00:00",
+    "original_time": "2026-04-21T12:35:17.000Z"
   },
   {
-    "id": "article_312411e49851",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Centre dragging its feet on KP’s bridge financing offer for Northern Bypass project",
-    "translated_title": "中心在 KP 为北部绕道项目提供的过桥融资提议上犹豫不决",
-    "url": "https://www.dawn.com/news/1993712/centre-dragging-its-feet-on-kps-bridge-financing-offer-for-northern-bypass-project",
-    "timestamp": "2026-04-21T15:50:33.171294+00:00",
-    "original_time": "2026-04-21T08:59:23+05:00"
+    "id": "tweet_CGTNEurope_5571324623285324964",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "Trump: Don't want to extend ceasefire, Iran just got okay to go to meeting in Pakistan",
+    "translated_text": "特朗普：不想延长停火，伊朗刚刚获准前往巴基斯坦参加会议",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/5571324623285324964",
+    "timestamp": "2026-04-21T16:20:46.570066+00:00",
+    "original_time": "2026-04-21T12:35:11.000Z"
   },
   {
-    "id": "article_073d9b974ba0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Nawaz highlights PML-N’s focus on development ahead of GB elections",
-    "translated_title": "纳瓦兹强调 PML-N 在英国选举前对发展的关注",
-    "url": "https://www.dawn.com/news/1993801/nawaz-highlights-pml-ns-focus-on-development-ahead-of-gb-elections",
-    "timestamp": "2026-04-21T15:50:51.763425+00:00",
-    "original_time": "2026-04-21T17:39:20+05:00"
+    "id": "tweet_DeItaone_-7641147460955021298",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "TRUMP: WE TOTALLY CONTROL THE STRAIT OF HORMUZ",
+    "translated_text": "特朗普：我们完全控制霍尔木兹海峡",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/-7641147460955021298",
+    "timestamp": "2026-04-21T16:20:46.805857+00:00",
+    "original_time": "2026-04-21T12:35:05.000Z"
   },
   {
-    "id": "article_eb2d9966da1a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Third season of Peshawar Literature Festival begins",
-    "translated_title": "白沙瓦文学节第三季开始",
-    "url": "https://www.dawn.com/news/1993707/third-season-of-peshawar-literature-festival-begins",
-    "timestamp": "2026-04-21T15:50:55.431191+00:00",
-    "original_time": "2026-04-21T08:55:40+05:00"
+    "id": "tweet_cgtnamerica_8545163125114032613",
+    "type": "tweet",
+    "username": "cgtnamerica",
+    "text": "TRUMP: BLOCKADE HAS BEEN A SUCCESS -CNBC INTERVIEW",
+    "translated_text": "特朗普：封锁取得了成功 - CNBC 采访",
+    "images": [],
+    "url": "https://x.com/cgtnamerica/status/8545163125114032613",
+    "timestamp": "2026-04-21T16:20:47.072768+00:00",
+    "original_time": "2026-04-21T12:34:48.000Z"
   },
   {
-    "id": "article_fbba0d594080",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "SC to function with minimal staff on Wednesday; no judicial work to be conducted at FCC for 2nd consecutive day",
-    "translated_title": "SC 周三以最少的人员运作； FCC连续两天不进行司法工作",
-    "url": "https://www.dawn.com/news/1993783/sc-to-function-with-minimal-staff-on-wednesday-no-judicial-work-to-be-conducted-at-fcc-for-2nd-consecutive-day",
-    "timestamp": "2026-04-21T15:51:26.327891+00:00",
-    "original_time": "2026-04-21T15:52:49+05:00"
+    "id": "tweet_DeItaone_8545163125114032613",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "TRUMP: BLOCKADE HAS BEEN A SUCCESS -CNBC INTERVIEW",
+    "translated_text": "特朗普：封锁取得了成功 - CNBC 采访",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/8545163125114032613",
+    "timestamp": "2026-04-21T16:20:47.313723+00:00",
+    "original_time": "2026-04-21T12:34:45.000Z"
   },
   {
-    "id": "article_f9d6b0377137",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Downing Street exerted pressure to approve Mandelson’s appointment, sacked official tells MPs",
-    "translated_title": "被解雇官员告诉国会议员，唐宁街施加压力批准曼德尔森的任命",
-    "url": "https://www.dawn.com/news/1993798/downing-street-exerted-pressure-to-approve-mandelsons-appointment-sacked-official-tells-mps",
-    "timestamp": "2026-04-21T15:51:32.873890+00:00",
-    "original_time": "2026-04-21T17:16:35+05:00"
+    "id": "tweet_CGTNEurope_725553647413403768",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "TRUMP: BLOCKADE HAS BEEN A SUCCESS",
+    "translated_text": "特朗普：封锁取得了成功",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/725553647413403768",
+    "timestamp": "2026-04-21T16:20:48.090768+00:00",
+    "original_time": "2026-04-21T12:34:33.000Z"
   },
   {
-    "id": "article_cd01839561af",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PAA extends airspace ban for Indian aircraft until May 24",
-    "translated_title": "PAA将印度飞机的空域禁令延长至5月24日",
-    "url": "https://www.dawn.com/news/1993752/paa-extends-airspace-ban-for-indian-aircraft-until-may-24",
-    "timestamp": "2026-04-21T15:51:55.570035+00:00",
-    "original_time": "2026-04-21T12:43:33+05:00"
+    "id": "tweet_DeItaone_5776144423025146735",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "TRUMP ON IRAN: WE'RE DEALING WITH THEM VERY SUCCESSFULLY",
+    "translated_text": "特朗普就伊朗问题：我们正在非常成功地应对他们",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/5776144423025146735",
+    "timestamp": "2026-04-21T16:20:48.339312+00:00",
+    "original_time": "2026-04-21T12:34:33.000Z"
   },
   {
-    "id": "article_091252fa3e48",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Health minister says medicine stocks sufficient to meet demand for next 5 to 6 months",
-    "translated_title": "卫生部长表示药品库存足以满足未来5至6个月的需求",
-    "url": "https://www.dawn.com/news/1993828/health-minister-says-medicine-stocks-sufficient-to-meet-demand-for-next-5-to-6-months",
-    "timestamp": "2026-04-21T15:52:01.632412+00:00",
-    "original_time": "2026-04-21T20:19:36+05:00"
+    "id": "tweet_CGTNEurope_5776144423025146735",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "TRUMP ON IRAN: WE'RE DEALING WITH THEM VERY SUCCESSFULLY",
+    "translated_text": "特朗普就伊朗问题：我们正在非常成功地应对他们",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/5776144423025146735",
+    "timestamp": "2026-04-21T16:20:48.595430+00:00",
+    "original_time": "2026-04-21T12:34:17.000Z"
   },
   {
-    "id": "article_06eac27efd4b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan Navy conducts successful test of locally developed air-launched cruise missile: ISPR",
-    "translated_title": "巴基斯坦海军成功测试国产空射巡航导弹：ISPR",
-    "url": "https://www.dawn.com/news/1993781/pakistan-navy-conducts-successful-test-of-locally-developed-air-launched-cruise-missile-ispr",
-    "timestamp": "2026-04-21T15:52:15.289415+00:00",
-    "original_time": "2026-04-21T15:31:23+05:00"
+    "id": "tweet_cgtnamerica_5776144423025146735",
+    "type": "tweet",
+    "username": "cgtnamerica",
+    "text": "TRUMP ON IRAN: WE'RE DEALING WITH THEM VERY SUCCESSFULLY",
+    "translated_text": "特朗普就伊朗问题：我们正在非常成功地应对他们",
+    "images": [],
+    "url": "https://x.com/cgtnamerica/status/5776144423025146735",
+    "timestamp": "2026-04-21T16:20:48.937197+00:00",
+    "original_time": "2026-04-21T12:34:13.000Z"
   },
   {
-    "id": "article_26d62cf51c01",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Rats, fleas plague Gaza’s displaced as temperatures rise",
-    "translated_title": "随着气温升高，老鼠、跳蚤困扰加沙流离失所者",
-    "url": "https://www.dawn.com/news/1993790/rats-fleas-plague-gazas-displaced-as-temperatures-rise",
-    "timestamp": "2026-04-21T15:52:39.318121+00:00",
-    "original_time": "2026-04-21T16:19:13+05:00"
+    "id": "tweet_CGTNEurope_9081636144715873267",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "Trump: We totally control the Strait",
+    "translated_text": "特朗普：我们完全控制海峡",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/9081636144715873267",
+    "timestamp": "2026-04-21T16:20:50.252778+00:00",
+    "original_time": "2026-04-21T12:34:12.000Z"
   },
   {
-    "id": "article_542330009e68",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP govt to establish five more FM radio stations",
-    "translated_title": "KP政府将再建立五个调频广播电台",
-    "url": "https://www.dawn.com/news/1993710/kp-govt-to-establish-five-more-fm-radio-stations",
-    "timestamp": "2026-04-21T15:52:54.484317+00:00",
-    "original_time": "2026-04-21T08:58:29+05:00"
+    "id": "tweet_DeItaone_1324207977955821833",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "TRUMP: IRAN HAS NO CHOICE BUT TO SEND PEOPLE TO TALKS",
+    "translated_text": "特朗普：伊朗别无选择，只能派人参加会谈",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/1324207977955821833",
+    "timestamp": "2026-04-21T16:20:50.498130+00:00",
+    "original_time": "2026-04-21T12:34:05.000Z"
   },
   {
-    "id": "article_f79fa875030f",
+    "id": "tweet_CGTNEurope_-4550079467743405134",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "Trump: We control the strait of Hormuz",
+    "translated_text": "特朗普：我们控制霍尔木兹海峡",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/-4550079467743405134",
+    "timestamp": "2026-04-21T16:20:51.794835+00:00",
+    "original_time": "2026-04-21T12:33:59.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_-7164455760173985567",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "Trump: Blockade been a tremendous success",
+    "translated_text": "特朗普：封锁取得了巨大成功",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/-7164455760173985567",
+    "timestamp": "2026-04-21T16:20:52.834851+00:00",
+    "original_time": "2026-04-21T12:33:59.000Z"
+  },
+  {
+    "id": "tweet_DeItaone_6412359712132751448",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "TRUMP ON IRAN: WE'RE IN STRONG NEGOTIATING POSITION",
+    "translated_text": "特朗普在伊朗问题上：我们处于有利的谈判地位",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/6412359712132751448",
+    "timestamp": "2026-04-21T16:20:53.067887+00:00",
+    "original_time": "2026-04-21T12:33:44.000Z"
+  },
+  {
+    "id": "tweet_cgtnamerica_6412359712132751448",
+    "type": "tweet",
+    "username": "cgtnamerica",
+    "text": "TRUMP ON IRAN: WE'RE IN STRONG NEGOTIATING POSITION",
+    "translated_text": "特朗普在伊朗问题上：我们处于有利的谈判地位",
+    "images": [],
+    "url": "https://x.com/cgtnamerica/status/6412359712132751448",
+    "timestamp": "2026-04-21T16:20:53.318812+00:00",
+    "original_time": "2026-04-21T12:33:43.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_6412359712132751448",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "TRUMP ON IRAN: WE'RE IN STRONG NEGOTIATING POSITION",
+    "translated_text": "特朗普在伊朗问题上：我们处于有利的谈判地位",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/6412359712132751448",
+    "timestamp": "2026-04-21T16:20:53.543959+00:00",
+    "original_time": "2026-04-21T12:33:36.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_4911082984214671674",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "Trump: Iran has no choice but to send people to talks",
+    "translated_text": "特朗普：伊朗别无选择，只能派人参加会谈",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/4911082984214671674",
+    "timestamp": "2026-04-21T16:20:53.781901+00:00",
+    "original_time": "2026-04-21T12:33:32.000Z"
+  },
+  {
+    "id": "tweet_DeItaone_1475304885169495822",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "TRUMP ON IRAN: WILL END UP WITH GREAT DEAL  -CNBC INTERVIEW",
+    "translated_text": "特朗普对伊朗问题：最终会达成伟大协议 - CNBC 采访",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/1475304885169495822",
+    "timestamp": "2026-04-21T16:20:54.009605+00:00",
+    "original_time": "2026-04-21T12:33:24.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_3750342955434314304",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "TRUMP ON IRAN: WILL END UP WITH GREAT DEAL",
+    "translated_text": "特朗普对伊朗问题：最终会达成伟大协议",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/3750342955434314304",
+    "timestamp": "2026-04-21T16:20:54.941184+00:00",
+    "original_time": "2026-04-21T12:33:19.000Z"
+  },
+  {
+    "id": "tweet_cgtnamerica_-2407338927507403159",
+    "type": "tweet",
+    "username": "cgtnamerica",
+    "text": "TRUMP ON IRAN: WILL END UP WITH GREAT DEAL -CNBC INTERVIEW",
+    "translated_text": "特朗普对伊朗问题：最终会达成伟大协议 - CNBC 采访",
+    "images": [],
+    "url": "https://x.com/cgtnamerica/status/-2407338927507403159",
+    "timestamp": "2026-04-21T16:20:55.985883+00:00",
+    "original_time": "2026-04-21T12:33:13.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_3552273489770151522",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "Trump: We gonna end up with a great deal, Iran has no choice",
+    "translated_text": "特朗普：我们最终会达成一项伟大协议，伊朗别无选择",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/3552273489770151522",
+    "timestamp": "2026-04-21T16:20:56.382799+00:00",
+    "original_time": "2026-04-21T12:33:11.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_-3704393814398701364",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "IDF: 'IDF Spokesperson:\n\nEarlier today (Tuesday), IDF forces entered the area of the village of Al-Mu'ayyer in the Benjamin Brigade, following a report of stone-throwing at an Israeli vehicle carrying several Israeli civilians, one of whom is a reserve soldier, who got out of the",
+    "translated_text": "以色列国防军：“以色列国防军发言人：\n\n今天（星期二）早些时候，以色列国防军部队进入本杰明旅的 Al-Mu'ayyer 村地区，此前有报告称，一辆载有几名以色列平民的以色列车辆遭到投掷石块，其中一名是预备役士兵。",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/-3704393814398701364",
+    "timestamp": "2026-04-21T16:20:57.291782+00:00",
+    "original_time": "2026-04-21T12:32:51.000Z"
+  },
+  {
+    "id": "tweet_DeItaone_5608760111912542158",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "US DOLLAR INDEX TICKS UP AFTER US DATA, LAST UP 0.20% AT 98.25",
+    "translated_text": "美国数据公布后美元指数上涨，最终上涨0.20%至98.25",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/5608760111912542158",
+    "timestamp": "2026-04-21T16:20:57.818287+00:00",
+    "original_time": "2026-04-21T12:32:45.000Z"
+  },
+  {
+    "id": "tweet_geonews_urdu_2627238444908770119",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Only India and Israel are troubled by Pakistan's peace mission, Hafiz Tahir Ashrafihttps://geonewsurdu.tv/liveblog/10?story=2538…",
+    "translated_text": "只有印度和以色列对巴基斯坦的和平使命感到困扰，Hafiz Tahir Ashrafi https://geonewsurdu.tv/liveblog/10?story=2538...",
+    "images": [
+      "6117748376f293ce.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/2627238444908770119",
+    "timestamp": "2026-04-21T16:20:58.545675+00:00",
+    "original_time": "2026-04-21T12:32:36.000Z"
+  },
+  {
+    "id": "tweet_geonews_urdu_-4395377002644276787",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Pakistan's effort is to maintain the ceasefire and improve the atmosphere for negotiations, Sherry Rehman",
+    "translated_text": "巴基斯坦的努力是维持停火并改善谈判气氛，Sherry Rehman",
+    "images": [
+      "933aed8abddbf1b1.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-4395377002644276787",
+    "timestamp": "2026-04-21T16:20:59.255583+00:00",
+    "original_time": "2026-04-21T12:32:32.000Z"
+  },
+  {
+    "id": "tweet_ZahidGishkori_222183301489288395",
+    "type": "tweet",
+    "username": "ZahidGishkori",
+    "text": "US-Iran Deal Final Stage| Iran’s Big Surprise Ready?| What’s at Stake in 72hrs?| CDA Grand Operation",
+    "translated_text": "美伊协议最后阶段|伊朗的大惊喜准备好了吗？ 72 小时内有什么危险？ CDA大行动",
+    "images": [
+      "32ab538a86c449fd.jpg"
+    ],
+    "url": "https://x.com/ZahidGishkori/status/222183301489288395",
+    "timestamp": "2026-04-21T16:21:00.769117+00:00",
+    "original_time": "2026-04-21T12:31:35.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_-4551269510023982469",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "A security zone is gradually being established on the Russian border with Ukraine, and this work will continue until the threats to the border regions are eliminated, Vladimir Putin announced.",
+    "translated_text": "弗拉基米尔·普京宣布，俄罗斯与乌克兰边境正在逐步建立安全区，这项工作将持续下去，直到消除对边境地区的威胁。",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/-4551269510023982469",
+    "timestamp": "2026-04-21T16:21:02.184039+00:00",
+    "original_time": "2026-04-21T12:31:13.000Z"
+  },
+  {
+    "id": "tweet_DeItaone_-8556109128743316442",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "US MARCH GASOLINE SALES +15.5% VS FEB +1.3%",
+    "translated_text": "美国 3 月汽油销量 +15.5% 较 2 月 +1.3%",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/-8556109128743316442",
+    "timestamp": "2026-04-21T16:21:02.417690+00:00",
+    "original_time": "2026-04-21T12:30:57.000Z"
+  },
+  {
+    "id": "tweet_DeItaone_-1214681380434031968",
+    "type": "tweet",
+    "username": "DeItaone",
+    "text": "*US MARCH RETAIL SALES RISE 1.7% M/M; EST. +1.4%",
+    "translated_text": "*美国 3 月零售额环比增长 1.7%；美国东部时间。 +1.4%",
+    "images": [],
+    "url": "https://x.com/DeItaone/status/-1214681380434031968",
+    "timestamp": "2026-04-21T16:21:02.657640+00:00",
+    "original_time": "2026-04-21T12:30:38.000Z"
+  },
+  {
+    "id": "tweet_CGTNEurope_1957196417403023689",
+    "type": "tweet",
+    "username": "CGTNEurope",
+    "text": "EUROPE MUST TAKE GREATER RESPONSIBILITY FOR ITS OWN SECURITY, SAYS DUTCH MILITARY INTELLIGENCE AGENCY MIVD",
+    "translated_text": "荷兰军事情报机构 MIVD 表示，欧洲必须对其自身安全承担更大责任",
+    "images": [],
+    "url": "https://x.com/CGTNEurope/status/1957196417403023689",
+    "timestamp": "2026-04-21T16:21:03.740702+00:00",
+    "original_time": "2026-04-21T12:30:12.000Z"
+  },
+  {
+    "id": "article_407ed96db76a",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "PSX gains over 900 points amid geopolitical uncertainty",
-    "translated_title": "由于地缘政治不确定性，PSX 上涨超过 900 点",
-    "url": "https://www.dawn.com/news/1993746/psx-gains-over-900-points-amid-geopolitical-uncertainty",
-    "timestamp": "2026-04-21T15:53:41.991476+00:00",
-    "original_time": "2026-04-21T12:05:07+05:00"
+    "title": "ECP halts Senate by-election for Murad Saeed’s vacant seat",
+    "translated_title": "ECP暂停参议院穆拉德·赛义德空缺席位补选",
+    "url": "https://www.dawn.com/news/1993764/ecp-halts-senate-by-election-for-murad-saeeds-vacant-seat",
+    "timestamp": "2026-04-21T16:21:22.321367+00:00",
+    "original_time": "2026-04-21T14:08:35+05:00"
   },
   {
     "id": "article_c7260696af22",
@@ -869,8 +420,48 @@
     "title": "Pakistan says formal response from Iran regarding participation in 2nd round of talks ‘still awaited’",
     "translated_title": "巴基斯坦表示“仍在等待”伊朗关于参加第二轮会谈的正式回应",
     "url": "https://www.dawn.com/news/1993810/pakistan-says-formal-response-from-iran-regarding-participation-in-2nd-round-of-talks-still-awaited",
-    "timestamp": "2026-04-21T15:53:46.767328+00:00",
+    "timestamp": "2026-04-21T16:21:36.031910+00:00",
     "original_time": "2026-04-21T18:49:33+05:00"
+  },
+  {
+    "id": "article_7273f5cff83a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Japan opens door to global arms market with overhaul of defence export rules",
+    "translated_title": "日本全面改革国防出口规则，打开全球军火市场大门",
+    "url": "https://www.dawn.com/news/1993777/japan-opens-door-to-global-arms-market-with-overhaul-of-defence-export-rules",
+    "timestamp": "2026-04-21T16:22:00.200195+00:00",
+    "original_time": "2026-04-21T14:50:46+05:00"
+  },
+  {
+    "id": "article_26d62cf51c01",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Rats, fleas plague Gaza’s displaced as temperatures rise",
+    "translated_title": "随着气温升高，老鼠、跳蚤困扰加沙流离失所者",
+    "url": "https://www.dawn.com/news/1993790/rats-fleas-plague-gazas-displaced-as-temperatures-rise",
+    "timestamp": "2026-04-21T16:22:03.364965+00:00",
+    "original_time": "2026-04-21T16:19:13+05:00"
+  },
+  {
+    "id": "article_574c4a2fd4b2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Govt actively pursuing diversified capital markets strategy, finmin tells EU envoy",
+    "translated_title": "芬明告诉欧盟特使，政府积极推行多元化资本市场战略",
+    "url": "https://www.dawn.com/news/1993793/govt-actively-pursuing-diversified-capital-markets-strategy-finmin-tells-eu-envoy",
+    "timestamp": "2026-04-21T16:22:52.196196+00:00",
+    "original_time": "2026-04-21T16:34:39+05:00"
+  },
+  {
+    "id": "article_1c8ed546e519",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Focus shifts to Islamabad as war timeline changes and pressure builds",
+    "translated_title": "随着战争时间表的变化和压力的增加，焦点转向伊斯兰堡",
+    "url": "https://www.dawn.com/news/1993730/focus-shifts-to-islamabad-as-war-timeline-changes-and-pressure-builds",
+    "timestamp": "2026-04-21T16:23:00.500947+00:00",
+    "original_time": "2026-04-21T11:30:56+05:00"
   },
   {
     "id": "article_3e766915e597",
@@ -879,18 +470,48 @@
     "title": "‘Strangled’: Pakistan faces economic imperative in Iran war peace push",
     "translated_title": "“被勒死”：巴基斯坦在伊朗战争和平推动中面临经济上的迫切需要",
     "url": "https://www.dawn.com/news/1993778/strangled-pakistan-faces-economic-imperative-in-iran-war-peace-push",
-    "timestamp": "2026-04-21T15:54:47.236051+00:00",
+    "timestamp": "2026-04-21T16:24:03.846312+00:00",
     "original_time": "2026-04-21T15:13:59+05:00"
   },
   {
-    "id": "article_f580116c26f3",
+    "id": "article_073d9b974ba0",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "KP Assembly supports Islamabad peace talks",
-    "translated_title": "金伯利进程大会支持伊斯兰堡和平谈判",
-    "url": "https://www.dawn.com/news/1993715/kp-assembly-supports-islamabad-peace-talks",
-    "timestamp": "2026-04-21T15:54:50.946760+00:00",
-    "original_time": "2026-04-21T09:02:04+05:00"
+    "title": "Nawaz highlights PML-N’s focus on development ahead of GB elections",
+    "translated_title": "纳瓦兹强调 PML-N 在英国选举前对发展的关注",
+    "url": "https://www.dawn.com/news/1993801/nawaz-highlights-pml-ns-focus-on-development-ahead-of-gb-elections",
+    "timestamp": "2026-04-21T16:24:07.909318+00:00",
+    "original_time": "2026-04-21T17:39:20+05:00"
+  },
+  {
+    "id": "article_a0f1988c35e6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "4 suspects arrested in Karachi in action against gangs involved in leaking matric exams",
+    "translated_title": "4 名嫌疑人在卡拉奇被捕，打击涉嫌泄露入学考试的团伙",
+    "url": "https://www.dawn.com/news/1993833/4-suspects-arrested-in-karachi-in-action-against-gangs-involved-in-leaking-matric-exams",
+    "timestamp": "2026-04-21T16:24:27.153386+00:00",
+    "original_time": "2026-04-21T20:58:01+05:00"
+  },
+  {
+    "id": "article_c608d844752d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Azerbaijan says it is ready to supply LNG to Pakistan",
+    "translated_title": "阿塞拜疆表示已准备好向巴基斯坦供应液化天然气",
+    "url": "https://www.dawn.com/news/1993802/azerbaijan-says-it-is-ready-to-supply-lng-to-pakistan",
+    "timestamp": "2026-04-21T16:25:41.899361+00:00",
+    "original_time": "2026-04-21T17:44:16+05:00"
+  },
+  {
+    "id": "article_cd01839561af",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PAA extends airspace ban for Indian aircraft until May 24",
+    "translated_title": "PAA将印度飞机的空域禁令延长至5月24日",
+    "url": "https://www.dawn.com/news/1993752/paa-extends-airspace-ban-for-indian-aircraft-until-may-24",
+    "timestamp": "2026-04-21T16:26:07.301789+00:00",
+    "original_time": "2026-04-21T12:43:33+05:00"
   },
   {
     "id": "article_f3ca78337667",
@@ -899,8 +520,18 @@
     "title": "Around 3.3 million jobs may have been affected by 2025 floods in Pakistan: ILO",
     "translated_title": "国际劳工组织：2025 年巴基斯坦洪水可能影响约 330 万个工作岗位",
     "url": "https://www.dawn.com/news/1993797/around-33-million-jobs-may-have-been-affected-by-2025-floods-in-pakistan-ilo",
-    "timestamp": "2026-04-21T15:55:05.327329+00:00",
+    "timestamp": "2026-04-21T16:26:28.275150+00:00",
     "original_time": "2026-04-21T17:13:52+05:00"
+  },
+  {
+    "id": "article_6364d05fdf98",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "7,900 people died, disappeared on migration routes in 2025: UN",
+    "translated_title": "联合国：2025年有7,900人在移民路线上死亡、失踪",
+    "url": "https://www.dawn.com/news/1993788/7900-people-died-disappeared-on-migration-routes-in-2025-un",
+    "timestamp": "2026-04-21T16:26:44.389147+00:00",
+    "original_time": "2026-04-21T16:06:09+05:00"
   },
   {
     "id": "article_c490b3b7fbad",
@@ -909,7 +540,7 @@
     "title": "Pakistan receives $1bn from Saudi Arabia as second tranche of $3bn deposit",
     "translated_title": "巴基斯坦从沙特阿拉伯收到 10 亿美元，作为第二笔 30 亿美元存款",
     "url": "https://www.dawn.com/news/1993728/pakistan-receives-1bn-from-saudi-arabia-as-second-tranche-of-3bn-deposit",
-    "timestamp": "2026-04-21T15:55:12.519226+00:00",
+    "timestamp": "2026-04-21T16:26:48.217586+00:00",
     "original_time": "2026-04-21T09:51:42+05:00"
   },
   {
@@ -919,38 +550,48 @@
     "title": "What are the main points of contention between US and Iran?",
     "translated_title": "美国和伊朗之间的主要争论点是什么？",
     "url": "https://www.dawn.com/news/1993773/what-are-the-main-points-of-contention-between-us-and-iran",
-    "timestamp": "2026-04-21T15:55:20.782418+00:00",
+    "timestamp": "2026-04-21T16:26:53.648520+00:00",
     "original_time": "2026-04-21T15:05:08+05:00"
   },
   {
-    "id": "article_c608d844752d",
+    "id": "article_06eac27efd4b",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Azerbaijan says it is ready to supply LNG to Pakistan",
-    "translated_title": "阿塞拜疆表示已准备好向巴基斯坦供应液化天然气",
-    "url": "https://www.dawn.com/news/1993802/azerbaijan-says-it-is-ready-to-supply-lng-to-pakistan",
-    "timestamp": "2026-04-21T15:55:45.726318+00:00",
-    "original_time": "2026-04-21T17:44:16+05:00"
+    "title": "Pakistan Navy conducts successful test of locally developed air-launched cruise missile: ISPR",
+    "translated_title": "巴基斯坦海军成功测试国产空射巡航导弹：ISPR",
+    "url": "https://www.dawn.com/news/1993781/pakistan-navy-conducts-successful-test-of-locally-developed-air-launched-cruise-missile-ispr",
+    "timestamp": "2026-04-21T16:27:06.579630+00:00",
+    "original_time": "2026-04-21T15:31:23+05:00"
   },
   {
-    "id": "article_1c8ed546e519",
+    "id": "article_091252fa3e48",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Focus shifts to Islamabad as war timeline changes and pressure builds",
-    "translated_title": "随着战争时间表的变化和压力的增加，焦点转向伊斯兰堡",
-    "url": "https://www.dawn.com/news/1993730/focus-shifts-to-islamabad-as-war-timeline-changes-and-pressure-builds",
-    "timestamp": "2026-04-21T15:55:48.937587+00:00",
-    "original_time": "2026-04-21T11:30:56+05:00"
+    "title": "Health minister says medicine stocks sufficient to meet demand for next 5 to 6 months",
+    "translated_title": "卫生部长表示药品库存足以满足未来5至6个月的需求",
+    "url": "https://www.dawn.com/news/1993828/health-minister-says-medicine-stocks-sufficient-to-meet-demand-for-next-5-to-6-months",
+    "timestamp": "2026-04-21T16:27:40.229275+00:00",
+    "original_time": "2026-04-21T20:19:36+05:00"
   },
   {
-    "id": "article_574c4a2fd4b2",
+    "id": "article_f79fa875030f",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Govt actively pursuing diversified capital markets strategy, finmin tells EU envoy",
-    "translated_title": "芬明告诉欧盟特使，政府积极推行多元化资本市场战略",
-    "url": "https://www.dawn.com/news/1993793/govt-actively-pursuing-diversified-capital-markets-strategy-finmin-tells-eu-envoy",
-    "timestamp": "2026-04-21T15:56:07.939727+00:00",
-    "original_time": "2026-04-21T16:34:39+05:00"
+    "title": "PSX gains over 900 points amid geopolitical uncertainty",
+    "translated_title": "由于地缘政治不确定性，PSX 上涨超过 900 点",
+    "url": "https://www.dawn.com/news/1993746/psx-gains-over-900-points-amid-geopolitical-uncertainty",
+    "timestamp": "2026-04-21T16:27:45.618262+00:00",
+    "original_time": "2026-04-21T12:05:07+05:00"
+  },
+  {
+    "id": "article_f9d6b0377137",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Downing Street exerted pressure to approve Mandelson’s appointment, sacked official tells MPs",
+    "translated_title": "被解雇官员告诉国会议员，唐宁街施加压力批准曼德尔森的任命",
+    "url": "https://www.dawn.com/news/1993798/downing-street-exerted-pressure-to-approve-mandelsons-appointment-sacked-official-tells-mps",
+    "timestamp": "2026-04-21T16:27:57.841970+00:00",
+    "original_time": "2026-04-21T17:16:35+05:00"
   },
   {
     "id": "article_f239f974ba87",
@@ -959,78 +600,18 @@
     "title": "Young doctor shot dead near Karachi’s Mehran Hotel",
     "translated_title": "年轻医生在卡拉奇迈赫兰酒店附近被枪杀",
     "url": "https://www.dawn.com/news/1993744/young-doctor-shot-dead-near-karachis-mehran-hotel",
-    "timestamp": "2026-04-21T15:56:11.997804+00:00",
+    "timestamp": "2026-04-21T16:28:30.482263+00:00",
     "original_time": "2026-04-21T11:59:25+05:00"
   },
   {
-    "id": "article_407ed96db76a",
+    "id": "article_fbba0d594080",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "ECP halts Senate by-election for Murad Saeed’s vacant seat",
-    "translated_title": "ECP暂停参议院穆拉德·赛义德空缺席位补选",
-    "url": "https://www.dawn.com/news/1993764/ecp-halts-senate-by-election-for-murad-saeeds-vacant-seat",
-    "timestamp": "2026-04-21T15:56:30.180266+00:00",
-    "original_time": "2026-04-21T14:08:35+05:00"
-  },
-  {
-    "id": "article_2dedbb949f4d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP govt urged to simplify pre-marriage thalassaemia screening",
-    "translated_title": "KP政府敦促简化婚前地中海贫血筛查",
-    "url": "https://www.dawn.com/news/1993704/kp-govt-urged-to-simplify-pre-marriage-thalassaemia-screening",
-    "timestamp": "2026-04-21T15:56:43.979004+00:00",
-    "original_time": "2026-04-21T08:53:07+05:00"
-  },
-  {
-    "id": "article_7273f5cff83a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Japan opens door to global arms market with overhaul of defence export rules",
-    "translated_title": "日本全面改革国防出口规则，打开全球军火市场大门",
-    "url": "https://www.dawn.com/news/1993777/japan-opens-door-to-global-arms-market-with-overhaul-of-defence-export-rules",
-    "timestamp": "2026-04-21T15:57:41.952201+00:00",
-    "original_time": "2026-04-21T14:50:46+05:00"
-  },
-  {
-    "id": "article_2cc5ab05daa1",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Iran state TV denies reports of diplomatic delegation in Islamabad",
-    "translated_title": "伊朗国家电视台否认外交代表团驻伊斯兰堡的报道",
-    "url": "https://arynews.tv/iran-state-tv-denies-reports-of-diplomatic-delegation-in-islamabad",
-    "timestamp": "2026-04-21T15:58:47.619754+00:00",
-    "original_time": "2026-04-21T14:28:36+05:00"
-  },
-  {
-    "id": "article_99efbfe3dd76",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Donald Trump says Iran is ‘going to negotiate’ or face ‘problems’",
-    "translated_title": "唐纳德·特朗普表示伊朗将“进行谈判”或面临“问题”",
-    "url": "https://arynews.tv/donald-trump-says-iran-is-going-to-negotiate-or-face-problems",
-    "timestamp": "2026-04-21T15:59:21.779592+00:00",
-    "original_time": "2026-04-21T09:21:09+05:00"
-  },
-  {
-    "id": "article_c6dbf40e6c2b",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Iran will not negotiate with US under shadow of threats: Ghalibaf",
-    "translated_title": "加利巴夫：伊朗不会在威胁阴影下与美国谈判",
-    "url": "https://arynews.tv/iran-will-not-negotiate-with-us-under-shadow-of-threats-ghalibaf",
-    "timestamp": "2026-04-21T15:59:54.709271+00:00",
-    "original_time": "2026-04-21T09:48:22+05:00"
-  },
-  {
-    "id": "article_ffbfe9ae5f73",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "China endorses Pakistan’s efforts to facilitate US–Iran peace talks",
-    "translated_title": "中方支持巴基斯坦为推动美伊和谈所做的努力",
-    "url": "https://arynews.tv/china-endorses-pakistans-efforts-to-facilitate-us-iran-peace-talks",
-    "timestamp": "2026-04-21T16:00:27.449265+00:00",
-    "original_time": "2026-04-21T14:51:10+05:00"
+    "title": "SC to function with minimal staff on Wednesday; no judicial work to be conducted at FCC for 2nd consecutive day",
+    "translated_title": "SC 周三以最少的人员运作； FCC连续两天不进行司法工作",
+    "url": "https://www.dawn.com/news/1993783/sc-to-function-with-minimal-staff-on-wednesday-no-judicial-work-to-be-conducted-at-fcc-for-2nd-consecutive-day",
+    "timestamp": "2026-04-21T16:28:58.105421+00:00",
+    "original_time": "2026-04-21T15:52:49+05:00"
   },
   {
     "id": "article_55a5ab65cc8d",
@@ -1039,7 +620,47 @@
     "title": "Islamabad Talks round 2: Pakistan awaits Iran response",
     "translated_title": "伊斯兰堡第二轮会谈：巴基斯坦等待伊朗的回应",
     "url": "https://arynews.tv/islamabad-talks-round-2-pakistan-awaits-iran-response",
-    "timestamp": "2026-04-21T16:00:45.377987+00:00",
+    "timestamp": "2026-04-21T16:29:46.119782+00:00",
     "original_time": "2026-04-21T20:12:46+05:00"
+  },
+  {
+    "id": "article_2cc5ab05daa1",
+    "type": "article",
+    "source": "arynews.tv",
+    "title": "Iran state TV denies reports of diplomatic delegation in Islamabad",
+    "translated_title": "伊朗国家电视台否认外交代表团驻伊斯兰堡的报道",
+    "url": "https://arynews.tv/iran-state-tv-denies-reports-of-diplomatic-delegation-in-islamabad",
+    "timestamp": "2026-04-21T16:30:03.161299+00:00",
+    "original_time": "2026-04-21T14:28:36+05:00"
+  },
+  {
+    "id": "article_c6dbf40e6c2b",
+    "type": "article",
+    "source": "arynews.tv",
+    "title": "Iran will not negotiate with US under shadow of threats: Ghalibaf",
+    "translated_title": "加利巴夫：伊朗不会在威胁阴影下与美国谈判",
+    "url": "https://arynews.tv/iran-will-not-negotiate-with-us-under-shadow-of-threats-ghalibaf",
+    "timestamp": "2026-04-21T16:30:37.021901+00:00",
+    "original_time": "2026-04-21T09:48:22+05:00"
+  },
+  {
+    "id": "article_99efbfe3dd76",
+    "type": "article",
+    "source": "arynews.tv",
+    "title": "Donald Trump says Iran is ‘going to negotiate’ or face ‘problems’",
+    "translated_title": "唐纳德·特朗普表示伊朗将“进行谈判”或面临“问题”",
+    "url": "https://arynews.tv/donald-trump-says-iran-is-going-to-negotiate-or-face-problems",
+    "timestamp": "2026-04-21T16:31:10.795299+00:00",
+    "original_time": "2026-04-21T09:21:09+05:00"
+  },
+  {
+    "id": "article_ffbfe9ae5f73",
+    "type": "article",
+    "source": "arynews.tv",
+    "title": "China endorses Pakistan’s efforts to facilitate US–Iran peace talks",
+    "translated_title": "中方支持巴基斯坦为推动美伊和谈所做的努力",
+    "url": "https://arynews.tv/china-endorses-pakistans-efforts-to-facilitate-us-iran-peace-talks",
+    "timestamp": "2026-04-21T16:31:43.855916+00:00",
+    "original_time": "2026-04-21T14:51:10+05:00"
   }
 ]
