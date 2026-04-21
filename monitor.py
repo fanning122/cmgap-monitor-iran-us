@@ -3,6 +3,7 @@
 """
 美伊谈判监测脚本（单账号，监控指定 X 列表 + Dawn/ARY News）
 - 通过 Selenium + 自己的 Cookie 访问 X 列表（https://x.com/i/lists/2044826892327674362）
+- X 列表抓取只保留最近 1 小时内的推文（自动停止，无数量上限）
 - 新闻抓取部分使用 Selenium，支持 Dawn（含 Load More 点击）和 ARY News
 - 抓取推文中的图片并保存到本地，在 HTML 中显示
 - 每次运行时自动删除超过12小时的旧数据和对应的图片文件
@@ -75,11 +76,12 @@ def should_run_now():
     return should, wait_seconds
 
 # ==================== 配置区 ====================
-# 你的 X 列表 URL（替换原来的 20 个账号）
+# 你的 X 列表 URL
 X_LIST_URL = "https://x.com/i/lists/2044826892327674362"
-MAX_TWEETS_FROM_LIST = 100   # 每次最多抓取的推文数量（可根据需要调整）
+# X 列表抓取时间窗口（只抓取最近 N 小时内的推文）
+X_LIST_TIME_WINDOW_HOURS = 1   # 1 小时
 
-# 新闻列表页
+# 新闻列表页（仍保持 12 小时窗口）
 NEWS_URLS = [
     "https://www.dawn.com/latest-news",
     "https://arynews.tv/tag/islamabad-talks"
@@ -186,110 +188,138 @@ def download_image(img_url, save_dir=IMAGES_DIR):
         print(f"    ⚠️ 下载图片异常: {img_url} - {e}")
         return None
 
-# ==================== 抓取 X 列表推文（Selenium 版本） ====================
-def fetch_tweets_from_list(driver, list_url, max_tweets=MAX_TWEETS_FROM_LIST):
+# ==================== 抓取 X 列表推文（基于时间窗口，无限量） ====================
+def fetch_tweets_from_list(driver, list_url, time_window_hours=X_LIST_TIME_WINDOW_HOURS):
     """
     使用 Selenium 抓取指定 X 列表中的推文（滚动加载更多）
-    返回格式与原有 tweets 列表一致
+    只抓取最近 time_window_hours 小时内的推文，遇到更旧的则立即停止（不再继续滚动）
+    返回抓取到的所有符合时间窗口的推文列表（无数量上限）
     """
     tweets = []
+    now_utc = datetime.now(timezone.utc)
+    cutoff_time = now_utc - timedelta(hours=time_window_hours)
+    
     try:
         driver.get(list_url)
-        # 等待列表中的推文出现
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'article[data-testid="tweet"]'))
         )
         time.sleep(2)
         
-        # 滚动页面几次，加载更多推文（模拟用户滚动）
+        # 滚动加载控制
         last_height = driver.execute_script("return document.body.scrollHeight")
         scroll_attempts = 0
-        while len(tweets) < max_tweets and scroll_attempts < 5:  # 最多滚动5次
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2)
-            new_height = driver.execute_script("return document.body.scrollHeight")
-            if new_height == last_height:
-                break
-            last_height = new_height
-            scroll_attempts += 1
+        max_scrolls = 20  # 安全上限，防止无限滚动（正常不会触发，因为时间窗口会提前停止）
         
-        # 解析页面中的推文
-        soup = BeautifulSoup(driver.page_source, "html.parser")
-        articles = soup.find_all('article', attrs={'data-testid': 'tweet'})
+        while scroll_attempts < max_scrolls:
+            # 解析当前页面所有推文
+            soup = BeautifulSoup(driver.page_source, "html.parser")
+            articles = soup.find_all('article', attrs={'data-testid': 'tweet'})
+            
+            # 记录本次循环是否新增了推文（用于判断是否需要滚动）
+            new_tweets_found = False
+            
+            # 只处理尚未抓取的推文（按顺序）
+            for art in articles[len(tweets):]:
+                try:
+                    # 提取发布时间
+                    time_tag = art.find('time')
+                    if not time_tag or not time_tag.get('datetime'):
+                        # 没有时间标签的推文，跳过（极少情况）
+                        continue
+                    pub_time_str = time_tag['datetime']
+                    if pub_time_str.endswith('Z'):
+                        pub_time_str = pub_time_str.replace('Z', '+00:00')
+                    pub_time = datetime.fromisoformat(pub_time_str)
+                    
+                    # 如果推文发布时间早于截止时间，停止整个抓取（不再滚动，直接返回）
+                    if pub_time < cutoff_time:
+                        print(f"遇到超过 {time_window_hours} 小时的旧推文（发布时间 {pub_time}），停止抓取")
+                        return tweets
+                    
+                    # 在时间窗口内，抓取这条推文
+                    new_tweets_found = True
+                    text_div = art.find('div', {'data-testid': 'tweetText'})
+                    text = text_div.get_text(strip=True) if text_div else ""
+                    if len(text) > 500:
+                        text = text[:497] + "..."
+                    
+                    translated_text = translate_text(text)
+                    
+                    # 提取图片
+                    images = []
+                    img_tags = art.find_all('img')
+                    for img in img_tags:
+                        src = img.get('src')
+                        if not src:
+                            continue
+                        if 'profile_images' in src or 'avatar' in src.lower() or 'twemoji' in src:
+                            continue
+                        images.append(src)
+                    images = list(dict.fromkeys(images))
+                    
+                    local_images = []
+                    for img_url in images:
+                        local_img = download_image(img_url)
+                        if local_img:
+                            local_images.append(local_img)
+                    
+                    # 提取用户名
+                    username = "unknown"
+                    username_elem = art.find('div', {'data-testid': 'User-Name'})
+                    if username_elem:
+                        links = username_elem.find_all('a')
+                        for link in links:
+                            href = link.get('href', '')
+                            if href and '/status/' not in href:
+                                username = href.strip('/')
+                                break
+                    
+                    # 提取推文链接和 ID
+                    time_link = art.find('a', href=True)
+                    tweet_url = ""
+                    tweet_id = ""
+                    if time_link and '/status/' in time_link.get('href', ''):
+                        tweet_url = "https://x.com" + time_link['href']
+                        tweet_id = tweet_url.split('/')[-1]
+                    else:
+                        tweet_id = str(hash(text))
+                    
+                    tweets.append({
+                        "id": f"tweet_{username}_{tweet_id}",
+                        "type": "tweet",
+                        "username": username,
+                        "text": text,
+                        "translated_text": translated_text,
+                        "images": local_images,
+                        "url": tweet_url if tweet_url else f"https://x.com/{username}/status/{tweet_id}",
+                        "timestamp": datetime.now(timezone.utc).isoformat(),
+                        "original_time": pub_time.isoformat()
+                    })
+                except Exception as e:
+                    print(f"    解析单条推文出错: {e}")
+                    continue
+            
+            # 如果没有抓取到新推文（说明当前页面已全部解析，且没有遇到旧推文）
+            if not new_tweets_found:
+                # 尝试滚动加载更多
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                time.sleep(2)
+                new_height = driver.execute_script("return document.body.scrollHeight")
+                if new_height == last_height:
+                    # 页面高度不再变化，没有更多内容
+                    break
+                last_height = new_height
+                scroll_attempts += 1
+            # 如果抓取到了新推文，继续解析当前页面剩余的推文（不滚动，循环继续）
         
-        for art in articles[:max_tweets]:
-            try:
-                # 获取推文文本
-                text_div = art.find('div', {'data-testid': 'tweetText'})
-                text = text_div.get_text(strip=True) if text_div else ""
-                if len(text) > 500:
-                    text = text[:497] + "..."
-                
-                translated_text = translate_text(text)
-                
-                # 提取图片
-                images = []
-                img_tags = art.find_all('img')
-                for img in img_tags:
-                    src = img.get('src')
-                    if not src:
-                        continue
-                    if 'profile_images' in src or 'avatar' in src.lower() or 'twemoji' in src:
-                        continue
-                    images.append(src)
-                images = list(dict.fromkeys(images))
-                
-                local_images = []
-                for img_url in images:
-                    local_img = download_image(img_url)
-                    if local_img:
-                        local_images.append(local_img)
-                
-                # 提取用户名
-                username = "unknown"
-                username_elem = art.find('div', {'data-testid': 'User-Name'})
-                if username_elem:
-                    links = username_elem.find_all('a')
-                    for link in links:
-                        href = link.get('href', '')
-                        if href and '/status/' not in href:
-                            username = href.strip('/')
-                            break
-                
-                # 提取推文链接和 ID
-                time_link = art.find('a', href=True)
-                tweet_url = ""
-                tweet_id = ""
-                if time_link and '/status/' in time_link.get('href', ''):
-                    tweet_url = "https://x.com" + time_link['href']
-                    tweet_id = tweet_url.split('/')[-1]
-                else:
-                    tweet_id = str(hash(text))
-                
-                time_tag = art.find('time')
-                pub_time = time_tag['datetime'] if time_tag and time_tag.get('datetime') else datetime.now(timezone.utc).isoformat()
-                
-                tweets.append({
-                    "id": f"tweet_{username}_{tweet_id}",
-                    "type": "tweet",
-                    "username": username,
-                    "text": text,
-                    "translated_text": translated_text,
-                    "images": local_images,
-                    "url": tweet_url if tweet_url else f"https://x.com/{username}/status/{tweet_id}",
-                    "timestamp": datetime.now(timezone.utc).isoformat(),
-                    "original_time": pub_time
-                })
-            except Exception as e:
-                print(f"    解析单条推文出错: {e}")
-                continue
-        print(f"从列表抓取到 {len(tweets)} 条推文")
+        print(f"从列表抓取到 {len(tweets)} 条推文（时间窗口 {time_window_hours} 小时，未遇到更旧推文）")
         return tweets
     except Exception as e:
         print(f"抓取列表 {list_url} 失败: {e}")
         return []
 
-# ==================== 新闻抓取函数（与原来完全相同） ====================
+# ==================== 新闻抓取函数（保持不变，12小时窗口） ====================
 def extract_article_links(driver, listpage_url):
     """
     从新闻列表页提取所有文章链接。
@@ -668,7 +698,7 @@ def generate_html(recent_items):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="600">
+    <meta http-equiv="refresh" content="1800">
     <title>美伊谈判监测 · 最近12小时</title>
     <style>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }}
@@ -694,7 +724,7 @@ def generate_html(recent_items):
     <h1>📡 美伊谈判实时监测</h1>
     <div class="status">
         🕒 当前页面数据更新时间：{update_time}<br>
-        📊 显示最近12小时内数据 | 页面每10分钟自动刷新<br>
+        📊 显示最近12小时内数据 | 页面每30分钟自动刷新<br>
         {change_msg}
     </div>
     <h2>🐦 X 推文 ({tweet_count})</h2>
@@ -765,7 +795,7 @@ def main():
         print(f"距离上次执行未满目标间隔，等待 {wait_sec:.1f} 秒后开始抓取...")
         time.sleep(wait_sec)
 
-    print(f"{datetime.now()} 开始抓取（单账号监控 X 列表 + 新闻）...")
+    print(f"{datetime.now()} 开始抓取（X列表时间窗口1小时 + 新闻12小时）...")
     
     # 清理超过12小时的旧数据和图片
     clean_old_data(hours=12)
@@ -778,10 +808,10 @@ def main():
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
-    # ========== 1. 使用你自己的 Cookie 抓取 X 列表 ==========
+    # ========== 1. 使用你自己的 Cookie 抓取 X 列表（基于时间窗口） ==========
     if inject_my_cookies(driver):
-        print("\n--- 抓取你的 X 列表 ---")
-        tweets = fetch_tweets_from_list(driver, X_LIST_URL, max_tweets=MAX_TWEETS_FROM_LIST)
+        print(f"\n--- 抓取你的 X 列表（只保留最近 {X_LIST_TIME_WINDOW_HOURS} 小时） ---")
+        tweets = fetch_tweets_from_list(driver, X_LIST_URL, time_window_hours=X_LIST_TIME_WINDOW_HOURS)
         for tw in tweets:
             if tw["id"] not in existing_ids:
                 new_items.append(tw)
@@ -790,7 +820,7 @@ def main():
     else:
         print("⚠️ 无法注入 Cookie，跳过 X 列表抓取")
     
-    # ========== 2. 抓取新闻文章（完全不变） ==========
+    # ========== 2. 抓取新闻文章（12小时窗口，保持不变） ==========
     print("\n--- 抓取新闻文章（按12小时内时间窗口筛选） ---")
     now_utc = datetime.now(timezone.utc)
     cutoff_time = now_utc - timedelta(hours=12)
