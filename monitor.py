@@ -3,7 +3,7 @@
 """
 美伊谈判监测脚本（单账号，监控指定 X 列表 + Dawn/ARY News）
 - 通过 Selenium + 自己的 Cookie 访问 X 列表（https://x.com/i/lists/2044826892327674362）
-- X 列表抓取只保留最近 1 小时内的推文（自动停止，无数量上限）
+- X 列表抓取：基于相对时间文本（如“2m”）转换为绝对时间，只保留最近 1 小时（PKT 时区）
 - 新闻抓取部分使用 Selenium，支持 Dawn（含 Load More 点击）和 ARY News
 - 抓取推文中的图片并保存到本地，在 HTML 中显示
 - 每次运行时自动删除超过12小时的旧数据和对应的图片文件
@@ -17,6 +17,7 @@ import time
 import random
 import hashlib
 import requests
+import re
 from datetime import datetime, timezone, timedelta
 
 from selenium import webdriver
@@ -27,22 +28,55 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
-# ==================== 调度控制（每10分钟+随机60~120秒执行一次） ====================
+# ==================== 时区定义 ====================
+PKT_TZ = timezone(timedelta(hours=5))
+
+# ==================== 辅助函数：解析相对时间 ====================
+def parse_relative_time(relative_str, now_utc=None):
+    """
+    将 X 上的相对时间字符串（如 "2m", "4h", "1d"）转换为绝对 UTC 时间。
+    返回 datetime 对象（带 UTC 时区），如果无法解析则返回 None。
+    """
+    if now_utc is None:
+        now_utc = datetime.now(timezone.utc)
+    
+    relative_str = relative_str.strip().lower()
+    # 匹配数字和单位，例如 "2m", "4h", "1d", "3h", "45m", "10s" 等
+    match = re.match(r'^(\d+)([smhd])$', relative_str)
+    if not match:
+        return None
+    
+    value = int(match.group(1))
+    unit = match.group(2)
+    
+    if unit == 's':
+        delta = timedelta(seconds=value)
+    elif unit == 'm':
+        delta = timedelta(minutes=value)
+    elif unit == 'h':
+        delta = timedelta(hours=value)
+    elif unit == 'd':
+        delta = timedelta(days=value)
+    else:
+        return None
+    
+    # 推文时间 = 当前时间 - 相对时间间隔
+    tweet_time = now_utc - delta
+    return tweet_time
+
+# ==================== 调度控制 ====================
 LAST_RUN_FILE = "last_run.txt"
 
 def should_run_now():
     """
     判断本次是否应该执行抓取。
     返回 (should_run, wait_seconds)
-    - should_run: True 表示应该执行，False 表示跳过
-    - wait_seconds: 如果 should_run 为 True 且需要等待（距离上次不足目标间隔），则等待此秒数后再开始抓取
     """
     now = datetime.now(timezone.utc)
-    min_interval = 600           # 10分钟 = 600秒
+    min_interval = 600           # 10分钟
     extra = random.randint(60, 120)   # 随机增量 60~120秒
     target_interval = min_interval + extra
 
-    # 读取上次实际执行时间
     last_run = None
     if os.path.exists(LAST_RUN_FILE):
         with open(LAST_RUN_FILE, "r") as f:
@@ -52,23 +86,19 @@ def should_run_now():
                 pass
 
     if last_run is None:
-        # 第一次运行，立即执行
         wait_seconds = 0
         should = True
     else:
         elapsed = (now - last_run).total_seconds()
         if elapsed >= target_interval:
-            # 已达到或超过目标间隔，立即执行
             wait_seconds = 0
             should = True
         else:
-            # 尚未达到目标间隔，本次跳过
             print(f"距离上次执行仅 {elapsed:.1f} 秒，未达到 {target_interval:.1f} 秒（10分钟+随机{extra}秒），本次跳过")
             should = False
             wait_seconds = 0
 
     if should:
-        # 立即更新 last_run 时间戳，避免并发执行
         with open(LAST_RUN_FILE, "w") as f:
             f.write(now.isoformat())
         if wait_seconds > 0:
@@ -76,12 +106,9 @@ def should_run_now():
     return should, wait_seconds
 
 # ==================== 配置区 ====================
-# 你的 X 列表 URL
 X_LIST_URL = "https://x.com/i/lists/2044826892327674362"
-# X 列表抓取时间窗口（只抓取最近 N 小时内的推文）
-X_LIST_TIME_WINDOW_HOURS = 1   # 1 小时
+X_LIST_TIME_WINDOW_HOURS = 1   # 1 小时（PKT 时区）
 
-# 新闻列表页（仍保持 12 小时窗口）
 NEWS_URLS = [
     "https://www.dawn.com/latest-news",
     "https://arynews.tv/tag/islamabad-talks"
@@ -94,8 +121,8 @@ BETWEEN_ARTICLES_DELAY = (1, 2)
 IMAGES_DIR = "images"
 
 # Dawn "Load More" 配置
-DAWN_MAX_LOAD_MORE_CLICKS = 10   # 最多点击10次“加载更多”
-DAWN_LOAD_MORE_WAIT = 2          # 每次点击后等待秒数
+DAWN_MAX_LOAD_MORE_CLICKS = 10
+DAWN_LOAD_MORE_WAIT = 2
 
 # ==================== 全局浏览器驱动 ====================
 _driver = None
@@ -126,7 +153,7 @@ def close_driver():
         _driver.quit()
         _driver = None
 
-# ==================== Cookie 注入（仅使用你的账号） ====================
+# ==================== Cookie 注入 ====================
 def inject_my_cookies(driver):
     """注入你自己的 X Cookie（从环境变量读取）"""
     auth_token = os.environ.get("X_AUTH_TOKEN")
@@ -188,16 +215,22 @@ def download_image(img_url, save_dir=IMAGES_DIR):
         print(f"    ⚠️ 下载图片异常: {img_url} - {e}")
         return None
 
-# ==================== 抓取 X 列表推文（基于时间窗口，无限量） ====================
+# ==================== 抓取 X 列表推文（基于相对时间文本） ====================
 def fetch_tweets_from_list(driver, list_url, time_window_hours=X_LIST_TIME_WINDOW_HOURS):
     """
     使用 Selenium 抓取指定 X 列表中的推文（滚动加载更多）
-    只抓取最近 time_window_hours 小时内的推文，遇到更旧的则立即停止（不再继续滚动）
-    返回抓取到的所有符合时间窗口的推文列表（无数量上限）
+    时间窗口基于 PKT 时区：只保留最近 time_window_hours 小时内的推文。
+    发布时间通过解析相对时间文本（如“2m”）转换为绝对 UTC 时间。
     """
     tweets = []
-    now_utc = datetime.now(timezone.utc)
-    cutoff_time = now_utc - timedelta(hours=time_window_hours)
+    # 当前 PKT 时间
+    now_pkt = datetime.now(PKT_TZ)
+    cutoff_pkt = now_pkt - timedelta(hours=time_window_hours)
+    cutoff_utc = cutoff_pkt.astimezone(timezone.utc)
+    
+    print(f"时间窗口：最近 {time_window_hours} 小时（PKT）")
+    print(f"窗口截止时间（PKT）：{cutoff_pkt.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"窗口截止时间（UTC）：{cutoff_utc.strftime('%Y-%m-%d %H:%M:%S')}")
     
     try:
         driver.get(list_url)
@@ -206,39 +239,67 @@ def fetch_tweets_from_list(driver, list_url, time_window_hours=X_LIST_TIME_WINDO
         )
         time.sleep(2)
         
-        # 滚动加载控制
         last_height = driver.execute_script("return document.body.scrollHeight")
         scroll_attempts = 0
-        max_scrolls = 20  # 安全上限，防止无限滚动（正常不会触发，因为时间窗口会提前停止）
+        max_scrolls = 20
         
         while scroll_attempts < max_scrolls:
-            # 解析当前页面所有推文
             soup = BeautifulSoup(driver.page_source, "html.parser")
             articles = soup.find_all('article', attrs={'data-testid': 'tweet'})
             
-            # 记录本次循环是否新增了推文（用于判断是否需要滚动）
             new_tweets_found = False
             
-            # 只处理尚未抓取的推文（按顺序）
             for art in articles[len(tweets):]:
                 try:
-                    # 提取发布时间
-                    time_tag = art.find('time')
-                    if not time_tag or not time_tag.get('datetime'):
-                        # 没有时间标签的推文，跳过（极少情况）
-                        continue
-                    pub_time_str = time_tag['datetime']
-                    if pub_time_str.endswith('Z'):
-                        pub_time_str = pub_time_str.replace('Z', '+00:00')
-                    pub_time = datetime.fromisoformat(pub_time_str)
+                    # ---------- 解析发布时间 ----------
+                    pub_time = None
+                    # 方式1：查找 <time> 标签
+                    time_elem = art.find('time')
+                    if time_elem:
+                        datetime_attr = time_elem.get('datetime')
+                        if datetime_attr:
+                            # 绝对时间
+                            if datetime_attr.endswith('Z'):
+                                datetime_attr = datetime_attr.replace('Z', '+00:00')
+                            pub_time = datetime.fromisoformat(datetime_attr)
+                            if pub_time.tzinfo is None:
+                                pub_time = pub_time.replace(tzinfo=timezone.utc)
+                        else:
+                            # 相对时间文本
+                            rel_text = time_elem.get_text(strip=True)
+                            pub_time = parse_relative_time(rel_text)
+                    else:
+                        # 方式2：查找 aria-label 包含 "ago" 的元素
+                        time_span = art.find(attrs={'aria-label': re.compile(r'.*ago.*', re.I)})
+                        if time_span:
+                            rel_text = time_span.get_text(strip=True)
+                            pub_time = parse_relative_time(rel_text)
+                        else:
+                            # 方式3：在所有 <a> 中查找类似 "2m" 的文本
+                            links = art.find_all('a')
+                            for link in links:
+                                txt = link.get_text(strip=True)
+                                if re.match(r'^\d+[smhd]$', txt):
+                                    pub_time = parse_relative_time(txt)
+                                    if pub_time:
+                                        break
                     
-                    # 如果推文发布时间早于截止时间，停止整个抓取（不再滚动，直接返回）
-                    if pub_time < cutoff_time:
-                        print(f"遇到超过 {time_window_hours} 小时的旧推文（发布时间 {pub_time}），停止抓取")
+                    if pub_time is None:
+                        print(f"    无法解析发布时间，跳过该推文")
+                        continue
+                    
+                    if pub_time.tzinfo is None:
+                        pub_time = pub_time.replace(tzinfo=timezone.utc)
+                    
+                    # 检查时间窗口
+                    if pub_time < cutoff_utc:
+                        pub_time_pkt = pub_time.astimezone(PKT_TZ)
+                        print(f"遇到超过 {time_window_hours} 小时的旧推文（发布时间 {pub_time_pkt.strftime('%Y-%m-%d %H:%M:%S')} PKT），停止抓取")
                         return tweets
                     
-                    # 在时间窗口内，抓取这条推文
                     new_tweets_found = True
+                    
+                    # 提取文本
                     text_div = art.find('div', {'data-testid': 'tweetText'})
                     text = text_div.get_text(strip=True) if text_div else ""
                     if len(text) > 500:
@@ -300,26 +361,23 @@ def fetch_tweets_from_list(driver, list_url, time_window_hours=X_LIST_TIME_WINDO
                     print(f"    解析单条推文出错: {e}")
                     continue
             
-            # 如果没有抓取到新推文（说明当前页面已全部解析，且没有遇到旧推文）
             if not new_tweets_found:
-                # 尝试滚动加载更多
+                # 滚动加载更多
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(2)
                 new_height = driver.execute_script("return document.body.scrollHeight")
                 if new_height == last_height:
-                    # 页面高度不再变化，没有更多内容
                     break
                 last_height = new_height
                 scroll_attempts += 1
-            # 如果抓取到了新推文，继续解析当前页面剩余的推文（不滚动，循环继续）
         
-        print(f"从列表抓取到 {len(tweets)} 条推文（时间窗口 {time_window_hours} 小时，未遇到更旧推文）")
+        print(f"从列表抓取到 {len(tweets)} 条推文（时间窗口 {time_window_hours} 小时）")
         return tweets
     except Exception as e:
         print(f"抓取列表 {list_url} 失败: {e}")
         return []
 
-# ==================== 新闻抓取函数（保持不变，12小时窗口） ====================
+# ==================== 新闻抓取函数 ====================
 def extract_article_links(driver, listpage_url):
     """
     从新闻列表页提取所有文章链接。
@@ -688,8 +746,7 @@ def generate_html(recent_items):
         change_msg = f"✨ 相比上次（{last_update}），新增 " + "、".join(changes) + "。"
     
     utc_now = datetime.now(timezone.utc)
-    pkt_timezone = timezone(timedelta(hours=5))
-    pkt_now = utc_now.astimezone(pkt_timezone)
+    pkt_now = utc_now.astimezone(PKT_TZ)
     update_time = pkt_now.strftime("%Y-%m-%d %H:%M:%S PKT")
     
     html_template = """
@@ -786,7 +843,7 @@ def generate_html(recent_items):
 
 # ==================== 主函数 ====================
 def main():
-    # 调度控制：检查是否应该执行本次抓取
+    # 调度控制
     should_run, wait_sec = should_run_now()
     if not should_run:
         print("跳过本次执行，未达到最小间隔10分钟+随机增量")
@@ -795,7 +852,8 @@ def main():
         print(f"距离上次执行未满目标间隔，等待 {wait_sec:.1f} 秒后开始抓取...")
         time.sleep(wait_sec)
 
-    print(f"{datetime.now()} 开始抓取（X列表时间窗口1小时 + 新闻12小时）...")
+    now_pkt = datetime.now(PKT_TZ)
+    print(f"{now_pkt.strftime('%Y-%m-%d %H:%M:%S')} PKT 开始抓取（X列表相对时间窗口1小时 + 新闻12小时）...")
     
     # 清理超过12小时的旧数据和图片
     clean_old_data(hours=12)
@@ -808,9 +866,9 @@ def main():
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
-    # ========== 1. 使用你自己的 Cookie 抓取 X 列表（基于时间窗口） ==========
+    # ========== 1. 抓取 X 列表 ==========
     if inject_my_cookies(driver):
-        print(f"\n--- 抓取你的 X 列表（只保留最近 {X_LIST_TIME_WINDOW_HOURS} 小时） ---")
+        print(f"\n--- 抓取你的 X 列表（只保留最近 {X_LIST_TIME_WINDOW_HOURS} 小时，PKT 时区） ---")
         tweets = fetch_tweets_from_list(driver, X_LIST_URL, time_window_hours=X_LIST_TIME_WINDOW_HOURS)
         for tw in tweets:
             if tw["id"] not in existing_ids:
@@ -820,7 +878,7 @@ def main():
     else:
         print("⚠️ 无法注入 Cookie，跳过 X 列表抓取")
     
-    # ========== 2. 抓取新闻文章（12小时窗口，保持不变） ==========
+    # ========== 2. 抓取新闻文章（12小时窗口） ==========
     print("\n--- 抓取新闻文章（按12小时内时间窗口筛选） ---")
     now_utc = datetime.now(timezone.utc)
     cutoff_time = now_utc - timedelta(hours=12)
