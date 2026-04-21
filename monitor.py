@@ -521,19 +521,53 @@ def fetch_article_detail(driver, article_url):
         # 翻译标题
         translated_title = translate_text(title)
         
-        # 提取发布时间（原逻辑保持不变）
+        # ========== 增强的发布时间提取（针对 ARY News 和 Dawn） ==========
         pub_time = None
-        meta_time = soup.find("meta", {"property": "article:published_time"})
-        if meta_time and meta_time.get("content"):
-            pub_time = meta_time["content"]
-        else:
+        
+        # 1. 优先从 ul.authar-info 中获取日期（ARY News 格式：20-Apr-2026）
+        authar_info = soup.find('ul', class_='authar-info')
+        if authar_info:
+            date_li = authar_info.find('li')
+            if date_li:
+                date_text = date_li.get_text(strip=True)
+                print(f"    📅 从 authar-info 找到日期文本: {date_text}")
+                try:
+                    # 解析 "20-Apr-2026" 格式
+                    pub_time = datetime.strptime(date_text, "%d-%b-%Y")
+                    # 转换为带 UTC 时区的 datetime
+                    pub_time = pub_time.replace(tzinfo=timezone.utc)
+                    print(f"    📅 解析到发布时间: {pub_time}")
+                except ValueError:
+                    print(f"    ⚠️ 无法解析日期文本: {date_text}")
+        
+        # 2. 如果上面失败，尝试从 meta 标签中获取（Dawn 等网站）
+        if not pub_time:
+            meta_time = soup.find("meta", {"property": "article:published_time"})
+            if meta_time and meta_time.get("content"):
+                try:
+                    pub_time = datetime.fromisoformat(meta_time["content"].replace('Z', '+00:00'))
+                except Exception:
+                    pass
+        
+        # 3. 如果仍然失败，尝试从 <time> 标签中获取
+        if not pub_time:
             time_tag = soup.find("time")
             if time_tag and time_tag.get("datetime"):
-                pub_time = time_tag["datetime"]
+                try:
+                    pub_time = datetime.fromisoformat(time_tag["datetime"].replace('Z', '+00:00'))
+                except Exception:
+                    pass
             elif time_tag:
-                pub_time = time_tag.get_text(strip=True)
-            else:
-                pub_time = datetime.now(timezone.utc).isoformat()
+                date_text = time_tag.get_text(strip=True)
+                try:
+                    pub_time = datetime.strptime(date_text, "%d-%b-%Y").replace(tzinfo=timezone.utc)
+                except ValueError:
+                    pass
+        
+        # 4. 最终兜底：使用当前时间（但会打印警告）
+        if not pub_time:
+            pub_time = datetime.now(timezone.utc)
+            print(f"    ⚠️ 无法解析发布时间，使用当前时间: {pub_time}")
         
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         return {
@@ -544,7 +578,7 @@ def fetch_article_detail(driver, article_url):
             "translated_title": translated_title,
             "url": article_url,
             "timestamp": datetime.now(timezone.utc).isoformat(),
-            "original_time": pub_time
+            "original_time": pub_time.isoformat()
         }
     except Exception as e:
         print(f"  ❌ 抓取详情失败 {article_url}: {e}")
