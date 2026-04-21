@@ -77,7 +77,7 @@ def should_run_now():
 # ==================== 配置区 ====================
 # 你的 X 列表 URL（替换原来的 20 个账号）
 X_LIST_URL = "https://x.com/i/lists/2044826892327674362"
-MAX_TWEETS_FROM_LIST = 30   # 每次最多抓取的推文数量（可根据需要调整）
+MAX_TWEETS_FROM_LIST = 100   # 每次最多抓取的推文数量（可根据需要调整）
 
 # 新闻列表页
 NEWS_URLS = [
