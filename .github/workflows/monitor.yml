@@ -30,6 +30,9 @@ jobs:
           X_AUTH_TOKEN: ${{ secrets.X_AUTH_TOKEN }}
           X_CT0: ${{ secrets.X_CT0 }}
           X_TWID: ${{ secrets.X_TWID }}
+          X_AUTH_TOKEN2: ${{ secrets.X_AUTH_TOKEN2 }}
+          X_CT02: ${{ secrets.X_CT02 }}
+          X_TWID2: ${{ secrets.X_TWID2 }}
       - name: 部署到 GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
