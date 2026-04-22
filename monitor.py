@@ -755,7 +755,7 @@ def generate_html(recent_items):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="1800">
+    <!-- 已取消自动刷新，页面更新由 GitHub Actions 每30分钟触发脚本完成 -->
     <title>美伊谈判监测 · 最近12小时</title>
     <style>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }}
@@ -781,7 +781,7 @@ def generate_html(recent_items):
     <h1>📡 美伊谈判实时监测</h1>
     <div class="status">
         🕒 当前页面数据更新时间：{update_time}<br>
-        📊 显示最近12小时内数据 | 页面每30分钟自动刷新<br>
+        📊 显示最近12小时内数据 | 数据由 GitHub Actions 每30分钟自动更新<br>
         {change_msg}
     </div>
     <h2>🐦 X 推文 ({tweet_count})</h2>
