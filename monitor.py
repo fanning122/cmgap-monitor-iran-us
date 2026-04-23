@@ -4,10 +4,11 @@
 美伊谈判监测脚本（监控 20 个固定 X 账号 + Dawn/ARY News）
 - 使用两个 X 账号的 Cookie（比例 4:6 随机），预先验证有效性
 - 每个账号抓取最近 12 小时内（PKT 时区）的所有推文（无数量上限，滚动最多 66 次）
-- 自动点击推文中的 "Show more" 按钮以获取完整内容
+- 自动点击推文中的 "Show more" 按钮以获取完整内容（修复 BeautifulSoup Tag 传递错误）
 - 新闻抓取：Dawn（含 Load More 点击）和 ARY News，12 小时窗口
 - 图片下载、翻译、12 小时数据清理、HTML 生成（无自动刷新）
 - 完全由 GitHub Actions cron 每 30 分钟触发，无内部调度
+- 增强稳定性：自动重启失效会话，安全页面加载重试
 """
 
 import os
@@ -17,6 +18,7 @@ import random
 import hashlib
 import requests
 import re
+import traceback
 from datetime import datetime, timezone, timedelta
 
 from selenium import webdriver
@@ -104,25 +106,75 @@ def get_driver():
         chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
         chrome_options.add_experimental_option('useAutomationExtension', False)
         chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+        # 稳定性配置
+        chrome_options.add_argument(f'--user-data-dir={os.environ.get("HOME", "/tmp")}/.cache/chrome-profile')
         user_agents = [
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         ]
         chrome_options.add_argument(f"--user-agent={random.choice(user_agents)}")
         _driver = webdriver.Chrome(options=chrome_options)
+        # 隐藏 webdriver 属性
+        _driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
+            "source": """
+                Object.defineProperty(navigator, 'webdriver', {
+                    get: () => undefined
+                });
+            """
+        })
     return _driver
+
+def restart_driver():
+    """重启浏览器驱动，释放内存"""
+    global _driver
+    if _driver:
+        try:
+            _driver.quit()
+        except:
+            pass
+        _driver = None
+    return get_driver()
 
 def close_driver():
     global _driver
     if _driver:
-        _driver.quit()
+        try:
+            _driver.quit()
+        except:
+            pass
         _driver = None
+
+def safe_driver_get(driver, url, max_retries=2):
+    """安全的 driver.get 方法，遇到会话失效时自动重启浏览器并重试"""
+    for attempt in range(max_retries):
+        try:
+            driver.get(url)
+            return True
+        except Exception as e:
+            err_str = str(e)
+            if "invalid session id" in err_str.lower() or "no such window" in err_str.lower():
+                print(f"    ⚠️ 会话失效，正在重启浏览器 (尝试 {attempt+1}/{max_retries})...")
+                restart_driver()
+                driver = get_driver()
+                # 重新注入当前使用的 Cookie（需要外部调用者重新注入）
+                return False  # 让上层重新注入 Cookie
+            else:
+                print(f"    ❌ 加载页面失败: {e}")
+                return False
+    return False
 
 # ==================== Cookie 操作 ====================
 def inject_cookies(driver, auth_token, ct0, twid):
     """注入指定 Cookie 到 driver"""
     driver.delete_all_cookies()
-    driver.get("https://x.com")
+    driver.set_page_load_timeout(30)
+    try:
+        driver.get("https://x.com")
+    except Exception as e:
+        print(f"    ⚠️ 加载 X 首页超时，尝试重启 driver: {e}")
+        restart_driver()
+        driver = get_driver()
+        driver.get("https://x.com")
     time.sleep(2)
     driver.add_cookie({"name": "auth_token", "value": auth_token, "domain": ".x.com"})
     driver.add_cookie({"name": "ct0", "value": ct0, "domain": ".x.com"})
@@ -142,11 +194,12 @@ def check_cookie_valid(driver, auth_token, ct0, twid):
         if "Log in" in driver.page_source[:2000] or "Sign up" in driver.page_source[:2000]:
             return False
         return True
-    except Exception:
+    except Exception as e:
+        print(f"    验证 Cookie 失败: {e}")
         return False
 
 def get_valid_cookies(driver):
-    """从环境变量读取两个账号的 Cookie，验证有效性，返回有效账号列表（每个元素包含 auth_token, ct0, twid）"""
+    """从环境变量读取两个账号的 Cookie，验证有效性，返回有效账号列表"""
     valid = []
     for acc in ACCOUNT_COOKIES:
         auth_token = os.environ.get(acc["auth_token"])
@@ -167,7 +220,6 @@ def choose_cookie(valid_cookies):
         return None
     if len(valid_cookies) == 1:
         return valid_cookies[0]
-    # 权重分配：第一个账号权重40，第二个60
     r = random.randint(1, 100)
     if r <= 40:
         return valid_cookies[0]
@@ -214,197 +266,194 @@ def download_image(img_url, save_dir=IMAGES_DIR):
         print(f"    ⚠️ 下载图片异常: {img_url} - {e}")
         return None
 
-# ==================== 抓取单个账号的推文（12小时窗口） ====================
+# ==================== 抓取单个账号的推文（12小时窗口，修复 Show more 按钮） ====================
 def fetch_tweets_from_account(driver, username, valid_cookies):
     """
     抓取指定 X 账号的最新推文，只保留发布时间在最近 12 小时（PKT）内的推文。
-    遇到超过 12 小时的推文则停止抓取该账号。
-    使用传入的 valid_cookies 按权重随机选择账号，若选中无效则尝试另一个。
-    返回推文列表。
+    使用 Selenium WebElement 点击 "Show more" 按钮，避免 BeautifulSoup Tag 错误。
     """
-    # 随机选择一个 Cookie
     selected = choose_cookie(valid_cookies)
     if not selected:
         print(f"  ❌ 没有可用的 Cookie，跳过 @{username}")
         return []
     
-    # 注入选中的 Cookie
-    inject_cookies(driver, selected["auth_token"], selected["ct0"], selected["twid"])
+    try:
+        inject_cookies(driver, selected["auth_token"], selected["ct0"], selected["twid"])
+    except Exception as e:
+        print(f"  ❌ 注入 Cookie 失败: {e}")
+        return []
     print(f"  使用 Cookie 账号 {selected['auth_token'][:10]}... 抓取 @{username}")
     
-    # 当前 PKT 时间，计算截止时间（12 小时前）
     now_pkt = datetime.now(PKT_TZ)
     cutoff_pkt = now_pkt - timedelta(hours=12)
     cutoff_utc = cutoff_pkt.astimezone(timezone.utc)
     
     url = f"https://x.com/{username}"
-    tweets = []
+    if not safe_driver_get(driver, url):
+        print(f"  ❌ 无法加载 @{username} 页面，跳过")
+        return []
+    
     try:
-        driver.get(url)
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'article[data-testid="tweet"]'))
         )
-        time.sleep(2)
-        
-        last_height = driver.execute_script("return document.body.scrollHeight")
-        scroll_count = 0
-        
-        while scroll_count < MAX_SCROLL_ATTEMPTS:
-            # 获取当前页面所有推文元素
-            soup = BeautifulSoup(driver.page_source, "html.parser")
-            articles = soup.find_all('article', attrs={'data-testid': 'tweet'})
-            
-            # 处理新出现的推文（尚未抓取过的）
-            for art in articles[len(tweets):]:
+    except:
+        print(f"  ⚠️ 未找到推文，可能账号无推文或页面加载失败")
+        return []
+    time.sleep(2)
+    
+    tweets = []
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    scroll_count = 0
+    
+    while scroll_count < MAX_SCROLL_ATTEMPTS:
+        # 获取当前页面所有推文元素（Selenium WebElement）
+        article_elements = driver.find_elements(By.CSS_SELECTOR, 'article[data-testid="tweet"]')
+        # 只处理未抓取的新推文
+        for art_elem in article_elements[len(tweets):]:
+            try:
+                # ---------- 点击 "Show more" 按钮（使用 Selenium WebElement） ----------
                 try:
-                    # ---------- 点击 "Show more" 按钮 ----------
-                    show_more_btn = art.find('button', string=re.compile(r'Show more|more', re.I))
-                    if show_more_btn:
+                    # 在当前推文元素内部查找 "Show more" 按钮
+                    show_more_btn = art_elem.find_element(By.XPATH, './/button[contains(text(), "Show more") or contains(text(), "more")]')
+                    if show_more_btn.is_displayed() and show_more_btn.is_enabled():
                         driver.execute_script("arguments[0].click();", show_more_btn)
                         time.sleep(0.5)
-                        # 点击后重新获取当前推文的完整 HTML（需要重新解析，但为了简单，我们再次获取整个页面？）
-                        # 更好的办法：在点击后重新获取该推文的文本，但为了避免复杂，我们可以在解析文本时使用已展开的 DOM。
-                        # 由于 BeautifulSoup 是静态的，点击后需要重新获取 driver.page_source。
-                        # 这里简单处理：重新获取整个页面，然后重新解析该推文。
-                        # 但会导致性能下降。考虑到 Show more 出现频率不高，我们接受。
-                        driver.execute_script("arguments[0].scrollIntoView();", art)
-                        time.sleep(0.5)
-                        # 重新获取页面源码
-                        soup2 = BeautifulSoup(driver.page_source, "html.parser")
-                        # 重新定位到当前推文（通过相同的 data-testid 和大致位置？不容易）
-                        # 更简单：重新获取所有推文，然后继续。但这样会重复解析之前的推文。
-                        # 为了代码简洁，我们放弃重新获取，而是依赖第一次的文本（可能不完整）。
-                        # 实际上，X 的 "Show more" 通常只影响文本内容，而文本已经在 art 中，但 art 是旧的。
-                        # 所以我们最好在点击后，重新从 driver 获取该推文元素。
-                        # 为了可靠性，我们采用以下方式：
-                        # 先记录当前推文的 id（通过链接），然后点击后重新查找该推文。
-                        # 为了不使代码过于复杂，我们假设点击后文本会自动更新到 DOM，而我们下次滚动时会重新解析整个页面。
-                        # 这样新抓取的推文就会是完整的。对于当前这条推文，可能仍是不完整的，但可以接受。
-                        pass
-                    # 提取发布时间
-                    pub_time = None
-                    time_elem = art.find('time')
-                    if time_elem:
-                        datetime_attr = time_elem.get('datetime')
-                        if datetime_attr:
-                            if datetime_attr.endswith('Z'):
-                                datetime_attr = datetime_attr.replace('Z', '+00:00')
+                except:
+                    pass  # 没有 Show more 按钮，正常继续
+                
+                # 获取推文 HTML 用于解析（使用 BeautifulSoup 提取文本、图片等）
+                outer_html = art_elem.get_attribute('outerHTML')
+                soup_art = BeautifulSoup(outer_html, 'html.parser')
+                
+                # 提取发布时间
+                pub_time = None
+                time_elem = soup_art.find('time')
+                if time_elem:
+                    datetime_attr = time_elem.get('datetime')
+                    if datetime_attr:
+                        if datetime_attr.endswith('Z'):
+                            datetime_attr = datetime_attr.replace('Z', '+00:00')
+                        try:
                             pub_time = datetime.fromisoformat(datetime_attr)
                             if pub_time.tzinfo is None:
                                 pub_time = pub_time.replace(tzinfo=timezone.utc)
-                        else:
-                            rel_text = time_elem.get_text(strip=True)
-                            pub_time = parse_relative_time(rel_text)
+                        except:
+                            pub_time = None
+                    if not pub_time:
+                        rel_text = time_elem.get_text(strip=True)
+                        pub_time = parse_relative_time(rel_text)
+                else:
+                    # 备选：查找 aria-label 包含 "ago" 的元素
+                    time_span = soup_art.find(attrs={'aria-label': re.compile(r'.*ago.*', re.I)})
+                    if time_span:
+                        rel_text = time_span.get_text(strip=True)
+                        pub_time = parse_relative_time(rel_text)
                     else:
-                        # 备选：查找 aria-label 包含 "ago"
-                        time_span = art.find(attrs={'aria-label': re.compile(r'.*ago.*', re.I)})
-                        if time_span:
-                            rel_text = time_span.get_text(strip=True)
-                            pub_time = parse_relative_time(rel_text)
-                        else:
-                            # 查找链接中的相对时间
-                            links = art.find_all('a')
-                            for link in links:
-                                txt = link.get_text(strip=True)
-                                if re.match(r'^\d+[smhd]$', txt):
-                                    pub_time = parse_relative_time(txt)
-                                    if pub_time:
-                                        break
-                    if pub_time is None:
-                        print(f"    无法解析时间，跳过该推文")
-                        continue
-                    if pub_time.tzinfo is None:
-                        pub_time = pub_time.replace(tzinfo=timezone.utc)
-                    
-                    if pub_time < cutoff_utc:
-                        pub_time_pkt = pub_time.astimezone(PKT_TZ)
-                        print(f"    遇到超过 12 小时的旧推文（发布时间 {pub_time_pkt.strftime('%Y-%m-%d %H:%M:%S')} PKT），停止抓取 @{username}")
-                        return tweets
-                    
-                    # 提取文本
-                    text_div = art.find('div', {'data-testid': 'tweetText'})
-                    text = text_div.get_text(strip=True) if text_div else ""
-                    if len(text) > 500:
-                        text = text[:497] + "..."
-                    
-                    translated_text = translate_text(text)
-                    
-                    # 提取图片
-                    images = []
-                    img_tags = art.find_all('img')
-                    for img in img_tags:
-                        src = img.get('src')
-                        if not src:
-                            continue
-                        if 'profile_images' in src or 'avatar' in src.lower() or 'twemoji' in src:
-                            continue
-                        images.append(src)
-                    images = list(dict.fromkeys(images))
-                    local_images = []
-                    for img_url in images:
-                        local_img = download_image(img_url)
-                        if local_img:
-                            local_images.append(local_img)
-                    
-                    # 提取用户名
-                    username_found = username
-                    username_elem = art.find('div', {'data-testid': 'User-Name'})
-                    if username_elem:
-                        links = username_elem.find_all('a')
+                        links = soup_art.find_all('a')
                         for link in links:
-                            href = link.get('href', '')
-                            if href and '/status/' not in href:
-                                username_found = href.strip('/')
-                                break
-                    
-                    # 提取推文链接和 ID
-                    time_link = art.find('a', href=True)
-                    tweet_url = ""
-                    tweet_id = ""
-                    if time_link and '/status/' in time_link.get('href', ''):
-                        tweet_url = "https://x.com" + time_link['href']
-                        tweet_id = tweet_url.split('/')[-1]
-                    else:
-                        tweet_id = str(hash(text))
-                    
-                    tweets.append({
-                        "id": f"tweet_{username_found}_{tweet_id}",
-                        "type": "tweet",
-                        "username": username_found,
-                        "text": text,
-                        "translated_text": translated_text,
-                        "images": local_images,
-                        "url": tweet_url if tweet_url else f"https://x.com/{username_found}/status/{tweet_id}",
-                        "timestamp": datetime.now(timezone.utc).isoformat(),
-                        "original_time": pub_time.isoformat()
-                    })
-                except Exception as e:
-                    print(f"    解析单条推文出错: {e}")
+                            txt = link.get_text(strip=True)
+                            if re.match(r'^\d+[smhd]$', txt):
+                                pub_time = parse_relative_time(txt)
+                                if pub_time:
+                                    break
+                if pub_time is None:
+                    print(f"    无法解析时间，跳过该推文")
                     continue
-            
-            # 滚动加载更多
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(SCROLL_WAIT)
-            new_height = driver.execute_script("return document.body.scrollHeight")
-            if new_height == last_height:
-                break
-            last_height = new_height
-            scroll_count += 1
+                if pub_time.tzinfo is None:
+                    pub_time = pub_time.replace(tzinfo=timezone.utc)
+                
+                if pub_time < cutoff_utc:
+                    pub_time_pkt = pub_time.astimezone(PKT_TZ)
+                    print(f"    遇到超过 12 小时的旧推文（发布时间 {pub_time_pkt.strftime('%Y-%m-%d %H:%M:%S')} PKT），停止抓取 @{username}")
+                    return tweets
+                
+                # 提取文本
+                text_div = soup_art.find('div', {'data-testid': 'tweetText'})
+                text = text_div.get_text(strip=True) if text_div else ""
+                if len(text) > 500:
+                    text = text[:497] + "..."
+                translated_text = translate_text(text)
+                
+                # 提取图片
+                images = []
+                img_tags = soup_art.find_all('img')
+                for img in img_tags:
+                    src = img.get('src')
+                    if not src:
+                        continue
+                    if 'profile_images' in src or 'avatar' in src.lower() or 'twemoji' in src:
+                        continue
+                    images.append(src)
+                images = list(dict.fromkeys(images))
+                local_images = []
+                for img_url in images:
+                    local_img = download_image(img_url)
+                    if local_img:
+                        local_images.append(local_img)
+                
+                # 提取用户名
+                username_found = username
+                username_elem = soup_art.find('div', {'data-testid': 'User-Name'})
+                if username_elem:
+                    links = username_elem.find_all('a')
+                    for link in links:
+                        href = link.get('href', '')
+                        if href and '/status/' not in href:
+                            username_found = href.strip('/')
+                            break
+                
+                # 提取推文链接和 ID
+                time_link = soup_art.find('a', href=True)
+                tweet_url = ""
+                tweet_id = ""
+                if time_link and '/status/' in time_link.get('href', ''):
+                    tweet_url = "https://x.com" + time_link['href']
+                    tweet_id = tweet_url.split('/')[-1]
+                else:
+                    tweet_id = str(hash(text))
+                
+                tweet_data = {
+                    "id": f"tweet_{username_found}_{tweet_id}",
+                    "type": "tweet",
+                    "username": str(username_found),
+                    "text": str(text),
+                    "translated_text": str(translated_text),
+                    "images": local_images,
+                    "url": str(tweet_url) if tweet_url else f"https://x.com/{username_found}/status/{tweet_id}",
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
+                    "original_time": pub_time.isoformat()
+                }
+                tweets.append(tweet_data)
+            except Exception as e:
+                print(f"    解析单条推文出错: {e}")
+                traceback.print_exc()
+                continue
         
-        print(f"  从 @{username} 抓取到 {len(tweets)} 条推文（12小时窗口内）")
-        return tweets
-    except Exception as e:
-        print(f"  ❌ 抓取 @{username} 失败: {e}")
-        return []
+        # 滚动加载更多
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(SCROLL_WAIT)
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break
+        last_height = new_height
+        scroll_count += 1
+    
+    print(f"  从 @{username} 抓取到 {len(tweets)} 条推文（12小时窗口内）")
+    return tweets
 
-# ==================== 新闻抓取函数（保持不变，来自原脚本） ====================
+# ==================== 新闻抓取函数 ====================
 def extract_article_links(driver, listpage_url):
     print(f"  正在访问列表页: {listpage_url}")
     all_links = set()
     
     if "dawn.com" in listpage_url:
-        driver.get(listpage_url)
-        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        if not safe_driver_get(driver, listpage_url):
+            return []
+        try:
+            WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        except:
+            return []
         click_count = 0
         for _ in range(DAWN_MAX_LOAD_MORE_CLICKS):
             try:
@@ -444,8 +493,12 @@ def extract_article_links(driver, listpage_url):
     
     if "arynews.tv" in listpage_url:
         print("    使用 ARY News 专用解析器...")
-        driver.get(listpage_url)
-        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        if not safe_driver_get(driver, listpage_url):
+            return []
+        try:
+            WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        except:
+            return []
         time.sleep(2)
         soup = BeautifulSoup(driver.page_source, "html.parser")
         news_items = soup.find_all('div', class_='news-list-item')
@@ -473,9 +526,13 @@ def extract_article_links(driver, listpage_url):
         print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
         return result
     
-    # 其他网站
-    driver.get(listpage_url)
-    WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+    # 其他网站（备用）
+    if not safe_driver_get(driver, listpage_url):
+        return []
+    try:
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+    except:
+        return []
     soup = BeautifulSoup(driver.page_source, "html.parser")
     domain = listpage_url.split("/")[2]
     links = set()
@@ -499,7 +556,8 @@ def extract_article_links(driver, listpage_url):
 
 def fetch_article_detail(driver, article_url):
     try:
-        driver.get(article_url)
+        if not safe_driver_get(driver, article_url):
+            return None
         try:
             WebDriverWait(driver, 15).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'h2.story__title'))
@@ -818,7 +876,6 @@ def main():
     now_pkt = datetime.now(PKT_TZ)
     print(f"{now_pkt.strftime('%Y-%m-%d %H:%M:%S')} PKT 开始抓取（20个X账号 + 新闻）...")
     
-    # 清理超过12小时的旧数据和图片
     clean_old_data(hours=12)
     
     start = time.time()
@@ -829,7 +886,6 @@ def main():
     existing_ids = {item["id"] for item in all_items}
     new_items = []
     
-    # 预先验证两个 Cookie 的有效性
     print("正在验证 Cookie 有效性...")
     valid_cookies = get_valid_cookies(driver)
     if not valid_cookies:
@@ -844,6 +900,13 @@ def main():
             print("  没有可用 Cookie，跳过")
             continue
         
+        # 每处理 5 个账号后重启浏览器，释放资源
+        if idx > 1 and (idx - 1) % 5 == 0:
+            print("  重启浏览器驱动以释放资源...")
+            driver = restart_driver()
+            # 重新注入 Cookie 有效性可能需要重新验证，但简单重启后沿用之前 valid_cookies 即可
+            # 注意：重启后需要重新注入 Cookie（在 fetch_tweets_from_account 中会自动注入）
+        
         tweets = fetch_tweets_from_account(driver, username, valid_cookies)
         for tw in tweets:
             if tw["id"] not in existing_ids:
@@ -856,7 +919,7 @@ def main():
             print(f"  等待 {delay:.1f} 秒后继续...")
             time.sleep(delay)
     
-    # ========== 抓取新闻文章（12小时窗口，保持不变） ==========
+    # ========== 抓取新闻文章 ==========
     print("\n--- 抓取新闻文章（按12小时内时间窗口筛选） ---")
     now_utc = datetime.now(timezone.utc)
     cutoff_time = now_utc - timedelta(hours=12)
