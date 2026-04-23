@@ -72,7 +72,7 @@ ACCOUNT_COOKIES = [
 # 抓取参数
 RETRY_DELAY = 3
 BETWEEN_ACCOUNTS_DELAY = (3, 5)   # 账号之间的随机延迟（秒）
-MAX_SCROLL_ATTEMPTS = 66           # 滚动次数上限（防止无限滚动）
+MAX_SCROLL_ATTEMPTS = 30           # 滚动次数上限（防止无限滚动）
 SCROLL_WAIT = 2                    # 每次滚动后等待秒数
 
 # 新闻列表页
