@@ -5,8 +5,8 @@
 - 使用两个 X 账号的 Cookie（比例 4:6 随机），预先验证有效性
 - 每个账号抓取最近 12 小时内（PKT 时区）的所有推文（无数量上限，滚动最多 66 次）
 - 自动点击推文中的 "Show more" 按钮以获取完整内容（修复 BeautifulSoup Tag 传递错误）
-- 新闻抓取：Dawn（含 Load More 点击）和 ARY News，12 小时窗口
-- 图片下载、翻译、12 小时数据清理、HTML 生成（无自动刷新）
+- 新闻抓取：Dawn（12小时窗口），ARY News（昨天+今天窗口）
+- 图片下载、翻译、12小时数据清理、HTML 生成（无自动刷新）
 - 完全由 GitHub Actions cron 每 30 分钟触发，无内部调度
 - 增强稳定性：自动重启失效会话，安全页面加载重试
 """
@@ -612,19 +612,41 @@ def fetch_article_detail(driver, article_url):
             title = "无标题"
             print(f"    ⚠️ 未能提取到标题，使用默认值")
         translated_title = translate_text(title)
+        
+        # ==================== ARY News 日期解析（优先） ====================
         pub_time = None
-        authar_info = soup.find('ul', class_='authar-info')
-        if authar_info:
-            date_li = authar_info.find('li')
-            if date_li:
-                date_text = date_li.get_text(strip=True)
-                print(f"    📅 从 authar-info 找到日期文本: {date_text}")
-                try:
-                    pub_time = datetime.strptime(date_text, "%d-%b-%Y")
-                    pub_time = pub_time.replace(tzinfo=timezone.utc)
-                    print(f"    📅 解析到发布时间: {pub_time}")
-                except ValueError:
-                    print(f"    ⚠️ 无法解析日期文本: {date_text}")
+        if "arynews.tv" in article_url:
+            date_pattern = re.compile(r'([A-Z][a-z]{2})\s+(\d{1,2}),\s+(\d{4})')
+            date_match = date_pattern.search(driver.page_source)
+            if date_match:
+                month_str, day_str, year_str = date_match.groups()
+                month_map = {
+                    'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+                    'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+                }
+                month = month_map.get(month_str)
+                if month:
+                    try:
+                        pub_time = datetime(int(year_str), month, int(day_str), tzinfo=timezone.utc)
+                        print(f"    📅 [Regex] 从页面解析到 ARY News 日期: {pub_time.strftime('%Y-%m-%d')}")
+                    except ValueError as e:
+                        print(f"    ⚠️ [Regex] 日期转换失败: {e}")
+        # ================================================================
+        
+        # 降级方案：原有解析逻辑（保持不变）
+        if not pub_time:
+            authar_info = soup.find('ul', class_='authar-info')
+            if authar_info:
+                date_li = authar_info.find('li')
+                if date_li:
+                    date_text = date_li.get_text(strip=True)
+                    print(f"    📅 从 authar-info 找到日期文本: {date_text}")
+                    try:
+                        pub_time = datetime.strptime(date_text, "%d-%b-%Y")
+                        pub_time = pub_time.replace(tzinfo=timezone.utc)
+                        print(f"    📅 解析到发布时间: {pub_time}")
+                    except ValueError:
+                        print(f"    ⚠️ 无法解析日期文本: {date_text}")
         if not pub_time:
             meta_time = soup.find("meta", {"property": "article:published_time"})
             if meta_time and meta_time.get("content"):
@@ -648,6 +670,7 @@ def fetch_article_detail(driver, article_url):
         if not pub_time:
             pub_time = datetime.now(timezone.utc)
             print(f"    ⚠️ 无法解析发布时间，使用当前时间: {pub_time}")
+        
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         return {
             "id": f"article_{url_hash}",
@@ -811,7 +834,7 @@ def generate_html(recent_items):
     <h1>📡 美伊谈判实时监测</h1>
     <div class="status">
         🕒 当前页面数据更新时间：{update_time}<br>
-        📊 显示最近12小时内数据 | 数据由 GitHub Actions 每30分钟自动更新<br>
+        📊 显示最近12小时内数据（ARY News显示昨天和今天） | 数据由 GitHub Actions 每30分钟自动更新<br>
         {change_msg}
     </div>
     <h2>🐦 X 推文 ({tweet_count})</h2>
@@ -820,7 +843,7 @@ def generate_html(recent_items):
     {articles_html}
     <div class="footer">
         <hr>
-        <p>数据来源：X平台 20个指定账号 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 淘汰超过12小时的内容 | 英文自动翻译为中文</p>
+        <p>数据来源：X平台 20个指定账号 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 推文和Dawn淘汰超过12小时的内容 | ARY News显示昨天和今天的文章 | 英文自动翻译为中文</p>
     </div>
 </body>
 </html>"""
@@ -856,7 +879,7 @@ def generate_html(recent_items):
         </div>
         '''
     if not articles:
-        articles_html = "<p>暂无最近12小时的新文章。</p>"
+        articles_html = "<p>暂无文章。</p>"
     
     html = html_template.format(
         update_time=update_time,
@@ -893,19 +916,16 @@ def main():
     else:
         print(f"✅ 共 {len(valid_cookies)} 个 Cookie 可用")
     
-    # 遍历 20 个账号
+    # ========== 1. 抓取推文（12小时窗口） ==========
     for idx, username in enumerate(X_ACCOUNTS, 1):
         print(f"\n[{idx}/{len(X_ACCOUNTS)}] 正在处理 @{username} ...")
         if not valid_cookies:
             print("  没有可用 Cookie，跳过")
             continue
         
-        # 每处理 5 个账号后重启浏览器，释放资源
         if idx > 1 and (idx - 1) % 5 == 0:
             print("  重启浏览器驱动以释放资源...")
             driver = restart_driver()
-            # 重新注入 Cookie 有效性可能需要重新验证，但简单重启后沿用之前 valid_cookies 即可
-            # 注意：重启后需要重新注入 Cookie（在 fetch_tweets_from_account 中会自动注入）
         
         tweets = fetch_tweets_from_account(driver, username, valid_cookies)
         for tw in tweets:
@@ -919,10 +939,18 @@ def main():
             print(f"  等待 {delay:.1f} 秒后继续...")
             time.sleep(delay)
     
-    # ========== 抓取新闻文章 ==========
-    print("\n--- 抓取新闻文章（按12小时内时间窗口筛选） ---")
+    # ========== 2. 抓取新闻文章（分别处理 Dawn 和 ARY News） ==========
+    print("\n--- 抓取新闻文章 ---")
+    # 定义两个时间窗口
     now_utc = datetime.now(timezone.utc)
-    cutoff_time = now_utc - timedelta(hours=12)
+    # Dawn: 12小时窗口
+    dawn_cutoff = now_utc - timedelta(hours=12)
+    # ARY News: 昨天和今天窗口（PKT时区）
+    now_pkt = datetime.now(PKT_TZ)
+    today_start_pkt = datetime(now_pkt.year, now_pkt.month, now_pkt.day, 0, 0, 0, tzinfo=PKT_TZ)
+    yesterday_start_pkt = today_start_pkt - timedelta(days=1)
+    ary_cutoff_start_utc = yesterday_start_pkt.astimezone(timezone.utc)
+    ary_cutoff_end_utc = (today_start_pkt + timedelta(days=1) - timedelta(seconds=1)).astimezone(timezone.utc)
     
     for listpage in NEWS_URLS:
         print(f"处理列表页: {listpage}")
@@ -933,28 +961,46 @@ def main():
         for idx, article_url in enumerate(article_links, 1):
             print(f"  [{idx}/{len(article_links)}] 抓取: {article_url[:80]}...")
             article = fetch_article_detail(driver, article_url)
-            if article:
-                ts_str = article.get("original_time")
-                if ts_str:
-                    if ts_str.endswith("Z"):
-                        ts_str = ts_str.replace("Z", "+00:00")
-                    try:
-                        pub_time = datetime.fromisoformat(ts_str)
-                        if pub_time < cutoff_time:
-                            print(f"    ⏭️ 跳过（发布时间超过12小时）: {article['title'][:50]}")
-                            continue
-                    except Exception as e:
-                        print(f"    ⚠️ 无法解析时间，保留: {e}")
-                if article["id"] not in existing_ids:
-                    new_items.append(article)
-                    existing_ids.add(article["id"])
-                    print(f"    ✅ 新增: {article['title'][:50]}")
-                else:
-                    print(f"    ⏭️ 已存在")
-            else:
+            if not article:
                 print(f"    ⏭️ 抓取失败")
+                continue
+            
+            ts_str = article.get("original_time")
+            if not ts_str:
+                print(f"    ⚠️ 文章没有时间信息，跳过")
+                continue
+            if ts_str.endswith("Z"):
+                ts_str = ts_str.replace("Z", "+00:00")
+            try:
+                pub_time = datetime.fromisoformat(ts_str)
+            except:
+                print(f"    ⚠️ 无法解析时间，跳过")
+                continue
+            
+            # 根据来源分别判断时间窗口
+            if "arynews.tv" in article_url:
+                if pub_time < ary_cutoff_start_utc or pub_time > ary_cutoff_end_utc:
+                    print(f"    ⏭️ 跳过（不在昨天和今天范围内）: {article['title'][:50]}")
+                    continue
+                else:
+                    print(f"    ✅ 通过（昨天/今天）: {article['title'][:50]}")
+            else:  # Dawn 或其他新闻
+                if pub_time < dawn_cutoff:
+                    print(f"    ⏭️ 跳过（超过12小时）: {article['title'][:50]}")
+                    continue
+                else:
+                    print(f"    ✅ 通过（12小时内）: {article['title'][:50]}")
+            
+            if article["id"] not in existing_ids:
+                new_items.append(article)
+                existing_ids.add(article["id"])
+                print(f"    ✅ 新增: {article['title'][:50]}")
+            else:
+                print(f"    ⏭️ 已存在")
+            
             time.sleep(random.uniform(*BETWEEN_ARTICLES_DELAY))
     
+    # ========== 3. 合并并生成最终显示内容 ==========
     if new_items:
         all_items.extend(new_items)
         save_items(all_items)
@@ -962,10 +1008,61 @@ def main():
     else:
         print("\n📭 无新增内容")
     
-    recent = filter_recent_items(all_items, hours=12)
-    generate_html(recent)
+    # 从 all_items 中筛选出最终要显示的内容：
+    #   - 推文: 12小时内的
+    #   - Dawn 文章: 12小时内的
+    #   - ARY News 文章: 昨天和今天内的（不经过12小时过滤）
+    final_items = []
+    for item in all_items:
+        if item["type"] == "tweet":
+            # 推文使用12小时过滤
+            ts_str = item.get("original_time", item.get("timestamp"))
+            if not ts_str:
+                continue
+            if ts_str.endswith("Z"):
+                ts_str = ts_str.replace("Z", "+00:00")
+            try:
+                item_time = datetime.fromisoformat(ts_str)
+                if item_time >= dawn_cutoff:
+                    final_items.append(item)
+            except:
+                continue
+        elif item["type"] == "article":
+            # 判断来源
+            source = item.get("source", "")
+            if "arynews" in source.lower():
+                # ARY News 使用昨天/今天窗口
+                ts_str = item.get("original_time", item.get("timestamp"))
+                if not ts_str:
+                    continue
+                if ts_str.endswith("Z"):
+                    ts_str = ts_str.replace("Z", "+00:00")
+                try:
+                    item_time = datetime.fromisoformat(ts_str)
+                    if ary_cutoff_start_utc <= item_time <= ary_cutoff_end_utc:
+                        final_items.append(item)
+                except:
+                    continue
+            else:
+                # Dawn 等其他文章使用12小时窗口
+                ts_str = item.get("original_time", item.get("timestamp"))
+                if not ts_str:
+                    continue
+                if ts_str.endswith("Z"):
+                    ts_str = ts_str.replace("Z", "+00:00")
+                try:
+                    item_time = datetime.fromisoformat(ts_str)
+                    if item_time >= dawn_cutoff:
+                        final_items.append(item)
+                except:
+                    continue
+        else:
+            # 其他类型（不会发生）
+            continue
+    
+    generate_html(final_items)
     elapsed = time.time() - start
-    print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(recent)} 条近期内容")
+    print(f"\n✅ 已生成 {HTML_FILE}，包含 {len([i for i in final_items if i['type']=='tweet'])} 条推文 + {len([i for i in final_items if i['type']=='article'])} 篇文章")
     print(f"总耗时: {elapsed:.2f} 秒")
     close_driver()
 
