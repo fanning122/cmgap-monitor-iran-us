@@ -8,6 +8,7 @@
 - 新闻抓取：Dawn（含 Load More 点击）和 ARY News，12 小时窗口
 - 图片下载、翻译、12 小时数据清理、HTML 生成（无自动刷新）
 - 完全由 GitHub Actions cron 每 30 分钟触发，无内部调度
+- 修复：JSON 序列化错误、浏览器超时、增加异常堆栈打印
 """
 
 import os
@@ -17,6 +18,7 @@ import random
 import hashlib
 import requests
 import re
+import traceback
 from datetime import datetime, timezone, timedelta
 
 from selenium import webdriver
@@ -112,17 +114,39 @@ def get_driver():
         _driver = webdriver.Chrome(options=chrome_options)
     return _driver
 
+def restart_driver():
+    """重启浏览器驱动，释放内存"""
+    global _driver
+    if _driver:
+        try:
+            _driver.quit()
+        except:
+            pass
+        _driver = None
+    return get_driver()
+
 def close_driver():
     global _driver
     if _driver:
-        _driver.quit()
+        try:
+            _driver.quit()
+        except:
+            pass
         _driver = None
 
 # ==================== Cookie 操作 ====================
 def inject_cookies(driver, auth_token, ct0, twid):
     """注入指定 Cookie 到 driver"""
     driver.delete_all_cookies()
-    driver.get("https://x.com")
+    # 设置超时，避免卡死
+    driver.set_page_load_timeout(30)
+    try:
+        driver.get("https://x.com")
+    except Exception as e:
+        print(f"    ⚠️ 加载 X 首页超时，尝试重启 driver: {e}")
+        restart_driver()
+        driver = get_driver()
+        driver.get("https://x.com")
     time.sleep(2)
     driver.add_cookie({"name": "auth_token", "value": auth_token, "domain": ".x.com"})
     driver.add_cookie({"name": "ct0", "value": ct0, "domain": ".x.com"})
@@ -142,7 +166,8 @@ def check_cookie_valid(driver, auth_token, ct0, twid):
         if "Log in" in driver.page_source[:2000] or "Sign up" in driver.page_source[:2000]:
             return False
         return True
-    except Exception:
+    except Exception as e:
+        print(f"    验证 Cookie 失败: {e}")
         return False
 
 def get_valid_cookies(driver):
@@ -229,7 +254,11 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
         return []
     
     # 注入选中的 Cookie
-    inject_cookies(driver, selected["auth_token"], selected["ct0"], selected["twid"])
+    try:
+        inject_cookies(driver, selected["auth_token"], selected["ct0"], selected["twid"])
+    except Exception as e:
+        print(f"  ❌ 注入 Cookie 失败: {e}")
+        return []
     print(f"  使用 Cookie 账号 {selected['auth_token'][:10]}... 抓取 @{username}")
     
     # 当前 PKT 时间，计算截止时间（12 小时前）
@@ -258,29 +287,34 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
             for art in articles[len(tweets):]:
                 try:
                     # ---------- 点击 "Show more" 按钮 ----------
-                    show_more_btn = art.find('button', string=re.compile(r'Show more|more', re.I))
+                    # 查找所有可能的 "Show more" 按钮（文本或 aria-label）
+                    show_more_btn = None
+                    for btn in art.find_all('button', role='button'):
+                        btn_text = btn.get_text(strip=True).lower()
+                        if 'show more' in btn_text or 'more' in btn_text:
+                            show_more_btn = btn
+                            break
                     if show_more_btn:
                         driver.execute_script("arguments[0].click();", show_more_btn)
                         time.sleep(0.5)
-                        # 点击后重新获取当前推文的完整 HTML（需要重新解析，但为了简单，我们再次获取整个页面？）
-                        # 更好的办法：在点击后重新获取该推文的文本，但为了避免复杂，我们可以在解析文本时使用已展开的 DOM。
-                        # 由于 BeautifulSoup 是静态的，点击后需要重新获取 driver.page_source。
-                        # 这里简单处理：重新获取整个页面，然后重新解析该推文。
-                        # 但会导致性能下降。考虑到 Show more 出现频率不高，我们接受。
-                        driver.execute_script("arguments[0].scrollIntoView();", art)
-                        time.sleep(0.5)
-                        # 重新获取页面源码
-                        soup2 = BeautifulSoup(driver.page_source, "html.parser")
-                        # 重新定位到当前推文（通过相同的 data-testid 和大致位置？不容易）
-                        # 更简单：重新获取所有推文，然后继续。但这样会重复解析之前的推文。
-                        # 为了代码简洁，我们放弃重新获取，而是依赖第一次的文本（可能不完整）。
-                        # 实际上，X 的 "Show more" 通常只影响文本内容，而文本已经在 art 中，但 art 是旧的。
-                        # 所以我们最好在点击后，重新从 driver 获取该推文元素。
-                        # 为了可靠性，我们采用以下方式：
-                        # 先记录当前推文的 id（通过链接），然后点击后重新查找该推文。
-                        # 为了不使代码过于复杂，我们假设点击后文本会自动更新到 DOM，而我们下次滚动时会重新解析整个页面。
-                        # 这样新抓取的推文就会是完整的。对于当前这条推文，可能仍是不完整的，但可以接受。
-                        pass
+                        # 重新获取页面源码，使当前推文内容更新（但注意：重新获取会影响整个页面，我们只更新当前推文）
+                        # 简单起见，我们重新获取整个页面的 soup，然后重新定位当前推文（通过 data-testid 和位置）
+                        # 但为了性能，我们只重新获取一次，然后继续。这里我们不重新获取，因为点击后文本会自动更新到 DOM，
+                        # 但当前的 art 对象是旧的。为了获取完整文本，我们可以在下次循环重新解析整个页面。
+                        # 为了简化，我们接受可能不完整，但大多数情况下 "Show more" 只是展开，原 art 中的文本可能已经包含完整内容？实际上，X 的 "Show more" 会动态加载更多文本，必须重新获取。
+                        # 所以我们重新获取整个页面，并重新解析所有推文，但这样会导致重复处理之前的推文。
+                        # 为了避免复杂，我们选择在点击后，重新从 driver 获取当前推文的文本。
+                        # 这里我们使用 driver.execute_script 获取该推文的文本内容作为替代。
+                        try:
+                            # 找到推文文本元素
+                            text_elem = driver.find_element(By.CSS_SELECTOR, 'article[data-testid="tweet"] div[data-testid="tweetText"]')
+                            full_text = text_elem.text
+                            if full_text:
+                                # 更新当前推文的 text 变量
+                                text = full_text
+                        except:
+                            pass
+                    
                     # 提取发布时间
                     pub_time = None
                     time_elem = art.find('time')
@@ -289,10 +323,13 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
                         if datetime_attr:
                             if datetime_attr.endswith('Z'):
                                 datetime_attr = datetime_attr.replace('Z', '+00:00')
-                            pub_time = datetime.fromisoformat(datetime_attr)
-                            if pub_time.tzinfo is None:
-                                pub_time = pub_time.replace(tzinfo=timezone.utc)
-                        else:
+                            try:
+                                pub_time = datetime.fromisoformat(datetime_attr)
+                                if pub_time.tzinfo is None:
+                                    pub_time = pub_time.replace(tzinfo=timezone.utc)
+                            except:
+                                pub_time = None
+                        if not pub_time:
                             rel_text = time_elem.get_text(strip=True)
                             pub_time = parse_relative_time(rel_text)
                     else:
@@ -321,9 +358,12 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
                         print(f"    遇到超过 12 小时的旧推文（发布时间 {pub_time_pkt.strftime('%Y-%m-%d %H:%M:%S')} PKT），停止抓取 @{username}")
                         return tweets
                     
-                    # 提取文本
+                    # 提取文本（确保是字符串）
                     text_div = art.find('div', {'data-testid': 'tweetText'})
-                    text = text_div.get_text(strip=True) if text_div else ""
+                    if text_div:
+                        text = text_div.get_text(strip=True)
+                    else:
+                        text = ""
                     if len(text) > 500:
                         text = text[:497] + "..."
                     
@@ -367,19 +407,22 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
                     else:
                         tweet_id = str(hash(text))
                     
-                    tweets.append({
+                    # 构建推文字典，确保所有值都是可 JSON 序列化的类型
+                    tweet_data = {
                         "id": f"tweet_{username_found}_{tweet_id}",
                         "type": "tweet",
-                        "username": username_found,
-                        "text": text,
-                        "translated_text": translated_text,
+                        "username": str(username_found),
+                        "text": str(text),
+                        "translated_text": str(translated_text),
                         "images": local_images,
-                        "url": tweet_url if tweet_url else f"https://x.com/{username_found}/status/{tweet_id}",
+                        "url": str(tweet_url) if tweet_url else f"https://x.com/{username_found}/status/{tweet_id}",
                         "timestamp": datetime.now(timezone.utc).isoformat(),
                         "original_time": pub_time.isoformat()
-                    })
+                    }
+                    tweets.append(tweet_data)
                 except Exception as e:
                     print(f"    解析单条推文出错: {e}")
+                    traceback.print_exc()
                     continue
             
             # 滚动加载更多
@@ -395,9 +438,10 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
         return tweets
     except Exception as e:
         print(f"  ❌ 抓取 @{username} 失败: {e}")
+        traceback.print_exc()
         return []
 
-# ==================== 新闻抓取函数（保持不变，来自原脚本） ====================
+# ==================== 新闻抓取函数（保持不变） ====================
 def extract_article_links(driver, listpage_url):
     print(f"  正在访问列表页: {listpage_url}")
     all_links = set()
@@ -843,6 +887,11 @@ def main():
         if not valid_cookies:
             print("  没有可用 Cookie，跳过")
             continue
+        
+        # 每处理 5 个账号后重启 driver，避免内存泄漏或超时
+        if idx > 1 and (idx - 1) % 5 == 0:
+            print("  重启浏览器驱动以释放资源...")
+            driver = restart_driver()
         
         tweets = fetch_tweets_from_account(driver, username, valid_cookies)
         for tw in tweets:
