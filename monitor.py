@@ -3,7 +3,7 @@
 """
 美伊谈判监测脚本（监控 20 个固定 X 账号 + Dawn/ARY News）
 - 使用两个 X 账号的 Cookie（比例 4:6 随机），预先验证有效性
-- 每个账号抓取最近 12 小时内（PKT 时区）的所有推文（无数量上限，滚动最多 66 次）
+- 每个账号抓取最近 12 小时内（PKT 时区）的所有推文（无数量上限，滚动最多 30 次）
 - 自动点击推文中的 "Show more" 按钮以获取完整内容（修复 BeautifulSoup Tag 传递错误）
 - 新闻抓取：Dawn（12小时窗口），ARY News（昨天+今天窗口）
 - 图片下载、翻译、12小时数据清理、HTML 生成（无自动刷新）
@@ -899,12 +899,70 @@ def main():
     now_pkt = datetime.now(PKT_TZ)
     print(f"{now_pkt.strftime('%Y-%m-%d %H:%M:%S')} PKT 开始抓取（20个X账号 + 新闻）...")
     
+    # ========== 先加载旧数据，用于计算淘汰数 ==========
+    old_all_items = load_items()   # 保存旧数据（尚未清理前的 items.json）
+    
+    # 定义旧窗口参数（与本次运行使用的窗口一致）
+    now_utc_old = datetime.now(timezone.utc)
+    dawn_cutoff_old = now_utc_old - timedelta(hours=12)
+    now_pkt_old = datetime.now(PKT_TZ)
+    today_start_pkt_old = datetime(now_pkt_old.year, now_pkt_old.month, now_pkt_old.day, 0, 0, 0, tzinfo=PKT_TZ)
+    yesterday_start_pkt_old = today_start_pkt_old - timedelta(days=1)
+    ary_cutoff_start_utc_old = yesterday_start_pkt_old.astimezone(timezone.utc)
+    ary_cutoff_end_utc_old = (today_start_pkt_old + timedelta(days=1) - timedelta(seconds=1)).astimezone(timezone.utc)
+    
+    old_tweets_dawn = 0
+    old_ary = 0
+    for item in old_all_items:
+        if item["type"] == "tweet":
+            ts_str = item.get("original_time", item.get("timestamp"))
+            if not ts_str:
+                continue
+            if ts_str.endswith("Z"):
+                ts_str = ts_str.replace("Z", "+00:00")
+            try:
+                item_time = datetime.fromisoformat(ts_str)
+                if item_time >= dawn_cutoff_old:
+                    old_tweets_dawn += 1
+            except:
+                continue
+        elif item["type"] == "article":
+            source = item.get("source", "")
+            if "arynews" in source.lower():
+                ts_str = item.get("original_time", item.get("timestamp"))
+                if not ts_str:
+                    continue
+                if ts_str.endswith("Z"):
+                    ts_str = ts_str.replace("Z", "+00:00")
+                try:
+                    item_time = datetime.fromisoformat(ts_str)
+                    if ary_cutoff_start_utc_old <= item_time <= ary_cutoff_end_utc_old:
+                        old_ary += 1
+                except:
+                    continue
+            else:
+                ts_str = item.get("original_time", item.get("timestamp"))
+                if not ts_str:
+                    continue
+                if ts_str.endswith("Z"):
+                    ts_str = ts_str.replace("Z", "+00:00")
+                try:
+                    item_time = datetime.fromisoformat(ts_str)
+                    if item_time >= dawn_cutoff_old:
+                        old_tweets_dawn += 1
+                except:
+                    continue
+    
+    print(f"旧窗口统计: 推文+Dawn {old_tweets_dawn} 条, ARY News {old_ary} 条")
+    
+    # ========== 清理超过12小时的旧数据 ==========
     clean_old_data(hours=12)
     
     start = time.time()
     driver = get_driver()
     os.makedirs(IMAGES_DIR, exist_ok=True)
     
+    # 清理后重新加载 items.json 作为本轮初始数据
     all_items = load_items()
     existing_ids = {item["id"] for item in all_items}
     new_items = []
@@ -941,11 +999,9 @@ def main():
     
     # ========== 2. 抓取新闻文章（分别处理 Dawn 和 ARY News） ==========
     print("\n--- 抓取新闻文章 ---")
-    # 定义两个时间窗口
+    # 定义两个时间窗口（本轮抓取用）
     now_utc = datetime.now(timezone.utc)
-    # Dawn: 12小时窗口
     dawn_cutoff = now_utc - timedelta(hours=12)
-    # ARY News: 昨天和今天窗口（PKT时区）
     now_pkt = datetime.now(PKT_TZ)
     today_start_pkt = datetime(now_pkt.year, now_pkt.month, now_pkt.day, 0, 0, 0, tzinfo=PKT_TZ)
     yesterday_start_pkt = today_start_pkt - timedelta(days=1)
@@ -1000,7 +1056,7 @@ def main():
             
             time.sleep(random.uniform(*BETWEEN_ARTICLES_DELAY))
     
-    # ========== 3. 合并并生成最终显示内容 ==========
+    # ========== 3. 合并并保存新增条目 ==========
     if new_items:
         all_items.extend(new_items)
         save_items(all_items)
@@ -1008,14 +1064,10 @@ def main():
     else:
         print("\n📭 无新增内容")
     
-    # 从 all_items 中筛选出最终要显示的内容：
-    #   - 推文: 12小时内的
-    #   - Dawn 文章: 12小时内的
-    #   - ARY News 文章: 昨天和今天内的（不经过12小时过滤）
+    # ========== 4. 从 all_items 中筛选出最终要显示的内容 ==========
     final_items = []
     for item in all_items:
         if item["type"] == "tweet":
-            # 推文使用12小时过滤
             ts_str = item.get("original_time", item.get("timestamp"))
             if not ts_str:
                 continue
@@ -1028,10 +1080,8 @@ def main():
             except:
                 continue
         elif item["type"] == "article":
-            # 判断来源
             source = item.get("source", "")
             if "arynews" in source.lower():
-                # ARY News 使用昨天/今天窗口
                 ts_str = item.get("original_time", item.get("timestamp"))
                 if not ts_str:
                     continue
@@ -1044,7 +1094,6 @@ def main():
                 except:
                     continue
             else:
-                # Dawn 等其他文章使用12小时窗口
                 ts_str = item.get("original_time", item.get("timestamp"))
                 if not ts_str:
                     continue
@@ -1057,12 +1106,55 @@ def main():
                 except:
                     continue
         else:
-            # 其他类型（不会发生）
             continue
     
+    # ========== 5. 统计本轮窗口内数量 ==========
+    tweets_dawn_items = []
+    ary_items = []
+    for item in final_items:
+        if item["type"] == "tweet":
+            tweets_dawn_items.append(item)
+        elif item["type"] == "article":
+            source = item.get("source", "")
+            if "arynews" in source.lower():
+                ary_items.append(item)
+            else:
+                tweets_dawn_items.append(item)
+    
+    new_tweets_dawn = 0
+    new_ary = 0
+    for item in new_items:
+        if item["type"] == "tweet":
+            new_tweets_dawn += 1
+        elif item["type"] == "article":
+            source = item.get("source", "")
+            if "arynews" in source.lower():
+                new_ary += 1
+            else:
+                new_tweets_dawn += 1
+    
+    # 淘汰数 = 旧窗口内数量 + 本轮新增数量 - 本轮窗口内数量
+    eliminated_tweets_dawn = old_tweets_dawn + new_tweets_dawn - len(tweets_dawn_items)
+    eliminated_ary = old_ary + new_ary - len(ary_items)
+    
+    # 生成 HTML
     generate_html(final_items)
     elapsed = time.time() - start
-    print(f"\n✅ 已生成 {HTML_FILE}，包含 {len([i for i in final_items if i['type']=='tweet'])} 条推文 + {len([i for i in final_items if i['type']=='article'])} 篇文章")
+    
+    # 输出分类统计
+    print(f"\n📊 推文 + Dawn 新闻（12小时窗口）")
+    print(f"   旧窗口内数量: {old_tweets_dawn}")
+    print(f"   本次新增: {new_tweets_dawn}")
+    print(f"   本次淘汰: {eliminated_tweets_dawn}")
+    print(f"   当前窗口内共有: {len(tweets_dawn_items)}")
+    
+    print(f"\n📊 ARY News（昨天+今天窗口）")
+    print(f"   旧窗口内数量: {old_ary}")
+    print(f"   本次新增: {new_ary}")
+    print(f"   本次淘汰: {eliminated_ary}")
+    print(f"   当前窗口内共有: {len(ary_items)}")
+    
+    print(f"\n✅ 已生成 {HTML_FILE}，包含 {len(tweets_dawn_items)} 条推文/Dawn + {len(ary_items)} 条ARY新闻")
     print(f"总耗时: {elapsed:.2f} 秒")
     close_driver()
 
