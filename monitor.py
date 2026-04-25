@@ -4,11 +4,11 @@
 美伊谈判监测脚本（监控 20 个固定 X 账号 + Dawn/ARY News）
 - 使用两个 X 账号的 Cookie（比例 4:6 随机），预先验证有效性
 - 每个账号抓取最近 12 小时内（PKT 时区）的所有推文（无数量上限，滚动最多 30 次）
-- 自动点击推文中的 "Show more" 按钮以获取完整内容（修复 BeautifulSoup Tag 传递错误）
+- 自动点击推文中的 "Show more" 按钮以获取完整内容
 - 新闻抓取：Dawn（12小时窗口），ARY News（昨天+今天窗口）
 - 图片下载、翻译、12小时数据清理、HTML 生成（无自动刷新）
-- 完全由 GitHub Actions cron 每 30 分钟触发，无内部调度
-- 增强稳定性：自动重启失效会话，安全页面加载重试
+- 完全由 GitHub Actions cron 触发，无内部调度
+- 增强稳定性：自动重启失效会话，支持账号级重试
 """
 
 import os
@@ -30,11 +30,12 @@ from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
 # ==================== 时区定义 ====================
-PKT_TZ = timezone(timedelta(hours=5))
+PKT_TZ = timezone(timedelta(hours=5))  # 巴基斯坦时区 UTC+5，用于日志和页面显示
 
 # ==================== 辅助函数：解析相对时间 ====================
 def parse_relative_time(relative_str, now_utc=None):
     """将 X 上的相对时间字符串（如 "2m", "4h"）转换为绝对 UTC 时间。"""
+    # 可能问题：正则表达式无法匹配某些非标准格式，如 "1h30m" 或 "now"
     if now_utc is None:
         now_utc = datetime.now(timezone.utc)
     relative_str = relative_str.strip().lower()
@@ -62,24 +63,28 @@ X_ACCOUNTS = [
     "AJENews", "whitehouse", "usembislamabad", "CBSNews", "JenniferJJacobs",
     "KellieMeyerNews", "realdonaldtrump", "vp", "geonews_urdu", "CGTNEurope"
 ]
+# 可能问题：某个账号用户名变更或停用，导致抓取失败
 
 # Cookie 账号配置（环境变量名）
 ACCOUNT_COOKIES = [
     {"auth_token": "X_AUTH_TOKEN", "ct0": "X_CT0", "twid": "X_TWID", "weight": 40},
     {"auth_token": "X_AUTH_TOKEN2", "ct0": "X_CT02", "twid": "X_TWID2", "weight": 60},
 ]
+# 可能问题：环境变量未设置或 Cookie 过期
 
 # 抓取参数
 RETRY_DELAY = 3
 BETWEEN_ACCOUNTS_DELAY = (3, 5)   # 账号之间的随机延迟（秒）
 MAX_SCROLL_ATTEMPTS = 30           # 滚动次数上限（防止无限滚动）
 SCROLL_WAIT = 2                    # 每次滚动后等待秒数
+# 可能问题：滚动次数过少导致抓取不到足够新的推文；过多导致运行时间过长
 
 # 新闻列表页
 NEWS_URLS = [
     "https://www.dawn.com/latest-news",
     "https://arynews.tv/tag/islamabad-talks"
 ]
+# 可能问题：网站改版导致解析器失效
 
 ITEMS_FILE = "items.json"
 HTML_FILE = "index.html"
@@ -95,18 +100,18 @@ DAWN_LOAD_MORE_WAIT = 2
 _driver = None
 
 def get_driver():
+    """获取或创建一个 Chrome 浏览器驱动实例（无头模式）"""
     global _driver
     if _driver is None:
         chrome_options = Options()
-        chrome_options.add_argument("--headless=new")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--headless=new")       # 无头模式，不显示界面
+        chrome_options.add_argument("--no-sandbox")         # 解决权限问题（GitHub Actions 必需）
+        chrome_options.add_argument("--disable-dev-shm-usage")  # 避免共享内存不足
+        chrome_options.add_argument("--disable-gpu")        # 禁用 GPU 加速
         chrome_options.add_argument("--window-size=1920,1080")
         chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
         chrome_options.add_experimental_option('useAutomationExtension', False)
         chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-        # 稳定性配置
         chrome_options.add_argument(f'--user-data-dir={os.environ.get("HOME", "/tmp")}/.cache/chrome-profile')
         user_agents = [
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -114,7 +119,7 @@ def get_driver():
         ]
         chrome_options.add_argument(f"--user-agent={random.choice(user_agents)}")
         _driver = webdriver.Chrome(options=chrome_options)
-        # 隐藏 webdriver 属性
+        # 隐藏 webdriver 属性，降低被检测的风险
         _driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
             "source": """
                 Object.defineProperty(navigator, 'webdriver', {
@@ -122,10 +127,11 @@ def get_driver():
                 });
             """
         })
+        # 可能问题：Chrome 版本与 chromedriver 不兼容，导致启动失败
     return _driver
 
 def restart_driver():
-    """重启浏览器驱动，释放内存"""
+    """彻底重启浏览器驱动，释放所有资源"""
     global _driver
     if _driver:
         try:
@@ -133,7 +139,9 @@ def restart_driver():
         except:
             pass
         _driver = None
+    time.sleep(1)   # 等待端口释放，避免冲突
     return get_driver()
+    # 可能问题：sleep 时间不够长，导致新驱动仍无法绑定端口
 
 def close_driver():
     global _driver
@@ -148,44 +156,53 @@ def safe_driver_get(driver, url, max_retries=2):
     """安全的 driver.get 方法，遇到会话失效时自动重启浏览器并重试"""
     for attempt in range(max_retries):
         try:
+            driver.set_page_load_timeout(30)
             driver.get(url)
             return True
         except Exception as e:
             err_str = str(e)
-            if "invalid session id" in err_str.lower() or "no such window" in err_str.lower():
-                print(f"    ⚠️ 会话失效，正在重启浏览器 (尝试 {attempt+1}/{max_retries})...")
+            if "invalid session id" in err_str.lower() or "no such window" in err_str.lower() or "connection refused" in err_str.lower():
+                print(f"    ⚠️ 会话失效或连接被拒，正在重启浏览器 (尝试 {attempt+1}/{max_retries})...")
                 restart_driver()
                 driver = get_driver()
-                # 重新注入当前使用的 Cookie（需要外部调用者重新注入）
-                return False  # 让上层重新注入 Cookie
+                return False   # 需要上层重新注入 Cookie
             else:
                 print(f"    ❌ 加载页面失败: {e}")
                 return False
     return False
+    # 可能问题：多次重试后仍失败，但脚本会继续运行，可能导致后续步骤全部失败
 
 # ==================== Cookie 操作 ====================
 def inject_cookies(driver, auth_token, ct0, twid):
-    """注入指定 Cookie 到 driver"""
-    driver.delete_all_cookies()
-    driver.set_page_load_timeout(30)
-    try:
-        driver.get("https://x.com")
-    except Exception as e:
-        print(f"    ⚠️ 加载 X 首页超时，尝试重启 driver: {e}")
-        restart_driver()
-        driver = get_driver()
-        driver.get("https://x.com")
-    time.sleep(2)
-    driver.add_cookie({"name": "auth_token", "value": auth_token, "domain": ".x.com"})
-    driver.add_cookie({"name": "ct0", "value": ct0, "domain": ".x.com"})
-    driver.add_cookie({"name": "twid", "value": twid, "domain": ".x.com"})
-    driver.refresh()
-    time.sleep(2)
+    """注入指定 Cookie 到 driver，带重试"""
+    max_retry = 2
+    for attempt in range(max_retry):
+        try:
+            driver.delete_all_cookies()
+            driver.set_page_load_timeout(30)
+            driver.get("https://x.com")
+            time.sleep(2)
+            driver.add_cookie({"name": "auth_token", "value": auth_token, "domain": ".x.com"})
+            driver.add_cookie({"name": "ct0", "value": ct0, "domain": ".x.com"})
+            driver.add_cookie({"name": "twid", "value": twid, "domain": ".x.com"})
+            driver.refresh()
+            time.sleep(2)
+            return True
+        except Exception as e:
+            print(f"    ⚠️ 注入 Cookie 失败 (尝试 {attempt+1}/{max_retry}): {e}")
+            if attempt < max_retry - 1:
+                restart_driver()
+                driver = get_driver()
+            else:
+                return False
+    return False
+    # 可能问题：Cookie 值本身无效或被吊销
 
 def check_cookie_valid(driver, auth_token, ct0, twid):
     """验证 Cookie 是否有效（能正常访问首页，不跳转到登录页）"""
     try:
-        inject_cookies(driver, auth_token, ct0, twid)
+        if not inject_cookies(driver, auth_token, ct0, twid):
+            return False
         driver.get("https://x.com/home")
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         current_url = driver.current_url
@@ -197,6 +214,7 @@ def check_cookie_valid(driver, auth_token, ct0, twid):
     except Exception as e:
         print(f"    验证 Cookie 失败: {e}")
         return False
+    # 可能问题：网络超时或 X 页面结构改变导致找不到 body
 
 def get_valid_cookies(driver):
     """从环境变量读取两个账号的 Cookie，验证有效性，返回有效账号列表"""
@@ -213,6 +231,7 @@ def get_valid_cookies(driver):
         else:
             print(f"⚠️ 账号 {acc['auth_token']} Cookie 无效，跳过")
     return valid
+    # 可能问题：验证过程耗时较长，可能导致整体运行超时
 
 def choose_cookie(valid_cookies):
     """根据权重 4:6 随机选择一个有效 Cookie"""
@@ -225,9 +244,11 @@ def choose_cookie(valid_cookies):
         return valid_cookies[0]
     else:
         return valid_cookies[1]
+    # 可能问题：权重分配不符合预期，但影响不大
 
 # ==================== 翻译函数 ====================
 def translate_text(text, target_lang='zh-CN'):
+    """使用 Google 翻译将英文翻译成中文，失败时返回原文"""
     if not text or len(text.strip()) == 0:
         return text
     try:
@@ -237,14 +258,16 @@ def translate_text(text, target_lang='zh-CN'):
     except Exception as e:
         print(f"    ⚠️ 翻译失败: {e}")
         return text
+    # 可能问题：网络不通或翻译服务限制，导致频繁失败
 
 # ==================== 下载图片 ====================
 def download_image(img_url, save_dir=IMAGES_DIR):
+    """下载图片到本地，返回本地文件名；如果已存在则直接返回"""
     if not img_url:
         return None
     try:
         os.makedirs(save_dir, exist_ok=True)
-        img_hash = hashlib.md5(img_url.encode()).hexdigest()[:16]
+        img_hash = hashlib.md5(img_url.encode()).hexdigest()[:16]  # 用 URL 的 MD5 做唯一文件名
         ext = os.path.splitext(img_url.split('?')[0])[1]
         if not ext or len(ext) > 5:
             ext = '.jpg'
@@ -265,6 +288,7 @@ def download_image(img_url, save_dir=IMAGES_DIR):
     except Exception as e:
         print(f"    ⚠️ 下载图片异常: {img_url} - {e}")
         return None
+    # 可能问题：图片 URL 失效或需要特殊认证
 
 # ==================== 抓取单个账号的推文（12小时窗口，修复 Show more 按钮） ====================
 def fetch_tweets_from_account(driver, username, valid_cookies):
@@ -278,9 +302,11 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
         return []
     
     try:
-        inject_cookies(driver, selected["auth_token"], selected["ct0"], selected["twid"])
+        if not inject_cookies(driver, selected["auth_token"], selected["ct0"], selected["twid"]):
+            print(f"  ❌ 注入 Cookie 失败，跳过 @{username}")
+            return []
     except Exception as e:
-        print(f"  ❌ 注入 Cookie 失败: {e}")
+        print(f"  ❌ 注入 Cookie 异常: {e}")
         return []
     print(f"  使用 Cookie 账号 {selected['auth_token'][:10]}... 抓取 @{username}")
     
@@ -305,24 +331,21 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
     tweets = []
     last_height = driver.execute_script("return document.body.scrollHeight")
     scroll_count = 0
+    # 可能问题：scroll_count 可能超过 MAX_SCROLL_ATTEMPTS，但设置了上限
     
     while scroll_count < MAX_SCROLL_ATTEMPTS:
-        # 获取当前页面所有推文元素（Selenium WebElement）
         article_elements = driver.find_elements(By.CSS_SELECTOR, 'article[data-testid="tweet"]')
-        # 只处理未抓取的新推文
         for art_elem in article_elements[len(tweets):]:
             try:
-                # ---------- 点击 "Show more" 按钮（使用 Selenium WebElement） ----------
+                # ---------- 点击 "Show more" 按钮 ----------
                 try:
-                    # 在当前推文元素内部查找 "Show more" 按钮
                     show_more_btn = art_elem.find_element(By.XPATH, './/button[contains(text(), "Show more") or contains(text(), "more")]')
                     if show_more_btn.is_displayed() and show_more_btn.is_enabled():
                         driver.execute_script("arguments[0].click();", show_more_btn)
                         time.sleep(0.5)
                 except:
-                    pass  # 没有 Show more 按钮，正常继续
+                    pass  # 没有 Show more 按钮
                 
-                # 获取推文 HTML 用于解析（使用 BeautifulSoup 提取文本、图片等）
                 outer_html = art_elem.get_attribute('outerHTML')
                 soup_art = BeautifulSoup(outer_html, 'html.parser')
                 
@@ -344,7 +367,6 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
                         rel_text = time_elem.get_text(strip=True)
                         pub_time = parse_relative_time(rel_text)
                 else:
-                    # 备选：查找 aria-label 包含 "ago" 的元素
                     time_span = soup_art.find(attrs={'aria-label': re.compile(r'.*ago.*', re.I)})
                     if time_span:
                         rel_text = time_span.get_text(strip=True)
@@ -441,6 +463,7 @@ def fetch_tweets_from_account(driver, username, valid_cookies):
     
     print(f"  从 @{username} 抓取到 {len(tweets)} 条推文（12小时窗口内）")
     return tweets
+    # 可能问题：对于推文极多的账号，滚动次数可能不够，但时间窗口会提前停止
 
 # ==================== 新闻抓取函数 ====================
 def extract_article_links(driver, listpage_url):
@@ -490,6 +513,7 @@ def extract_article_links(driver, listpage_url):
         result = list(all_links)
         print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
         return result
+        # 可能问题：Dawn 改版后选择器失效，导致无法提取链接
     
     if "arynews.tv" in listpage_url:
         print("    使用 ARY News 专用解析器...")
@@ -525,6 +549,7 @@ def extract_article_links(driver, listpage_url):
         result = list(all_links)
         print(f"  从 {listpage_url} 提取到 {len(result)} 个文章链接")
         return result
+        # 可能问题：ARY News 页面结构改变，class 名变更
     
     # 其他网站（备用）
     if not safe_driver_get(driver, listpage_url):
@@ -670,6 +695,7 @@ def fetch_article_detail(driver, article_url):
         if not pub_time:
             pub_time = datetime.now(timezone.utc)
             print(f"    ⚠️ 无法解析发布时间，使用当前时间: {pub_time}")
+        # 可能问题：ARY News 页面上的日期格式变化，导致正则匹配失败
         
         url_hash = hashlib.md5(article_url.encode()).hexdigest()[:12]
         return {
@@ -692,10 +718,12 @@ def load_items():
         with open(ITEMS_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
     return []
+    # 可能问题：items.json 损坏或格式错误
 
 def save_items(items):
     with open(ITEMS_FILE, "w", encoding="utf-8") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
+    # 可能问题：磁盘空间不足或权限错误
 
 def filter_recent_items(items, hours=12):
     now_utc = datetime.now(timezone.utc)
@@ -714,6 +742,7 @@ def filter_recent_items(items, hours=12):
         if item_time >= cutoff:
             recent.append(item)
     return recent
+    # 可能问题：时区处理不当导致过滤错误
 
 def clean_old_data(hours=12):
     if not os.path.exists(ITEMS_FILE):
@@ -754,6 +783,7 @@ def clean_old_data(hours=12):
                     pass
         if deleted_count > 0:
             print(f"🧹 已删除 {deleted_count} 个不再使用的图片文件")
+    # 可能问题：某些图片文件被多个条目引用，但这里只保留了被引用的，安全
 
 def save_last_stats(tweet_count, article_count, update_time_str):
     stats = {
@@ -770,7 +800,15 @@ def load_last_stats():
             return json.load(f)
     return None
 
-def generate_html(recent_items):
+# ==================== 生成 HTML（已修改，增加详细统计展示） ====================
+def generate_html(recent_items, stats_tweets_dawn, stats_ary):
+    """
+    生成 HTML 页面。
+    新增参数：
+        stats_tweets_dawn: dict，包含推文+Dawn 的统计信息 
+            {'old': int, 'new': int, 'eliminated': int, 'current': int}
+        stats_ary: dict，包含 ARY News 的统计信息，结构同上
+    """
     tweets = [i for i in recent_items if i["type"] == "tweet"]
     articles = [i for i in recent_items if i["type"] == "article"]
     tweets.sort(key=lambda x: x.get("original_time", x.get("timestamp", "")), reverse=True)
@@ -802,6 +840,24 @@ def generate_html(recent_items):
     pkt_now = utc_now.astimezone(PKT_TZ)
     update_time = pkt_now.strftime("%Y-%m-%d %H:%M:%S PKT")
     
+    # 构造详细统计的 HTML 表格
+    stats_html = f"""
+    <div class="stats-container">
+        <h3>📈 详细统计（本次运行）</h3>
+        <table class="stats-table" border="1" cellpadding="5" cellspacing="0">
+            <thead>
+                <tr><th>来源</th><th>旧窗口内数量</th><th>本次新增</th><th>本次淘汰</th><th>当前窗口内共有</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>推文 + Dawn 新闻</td><td>{stats_tweets_dawn['old']}</td><td>{stats_tweets_dawn['new']}</td><td>{stats_tweets_dawn['eliminated']}</td><td>{stats_tweets_dawn['current']}</td></tr>
+                <tr><td>ARY News</td><td>{stats_ary['old']}</td><td>{stats_ary['new']}</td><td>{stats_ary['eliminated']}</td><td>{stats_ary['current']}</td></tr>
+            </tbody>
+        </table>
+        <p class="stats-note">注：淘汰数 = 旧窗口内数量 + 本次新增 - 当前窗口内共有</p>
+    </div>
+    """
+    # 可能问题：如果 stats_tweets_dawn 或 stats_ary 中的键缺失，会导致 KeyError
+    
     html_template = """
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -828,6 +884,32 @@ def generate_html(recent_items):
         .footer {{ text-align: center; margin-top: 30px; font-size: 0.8em; color: #7f8c8d; }}
         hr {{ margin: 20px 0; }}
         .status {{ background: #e8f4f8; padding: 10px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9em; }}
+        /* 新增统计表格样式 */
+        .stats-container {{
+            background: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }}
+        .stats-table {{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }}
+        .stats-table th, .stats-table td {{
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }}
+        .stats-table th {{
+            background-color: #f2f2f2;
+        }}
+        .stats-note {{
+            font-size: 0.8em;
+            color: #7f8c8d;
+            margin-top: 8px;
+        }}
     </style>
 </head>
 <body>
@@ -837,6 +919,7 @@ def generate_html(recent_items):
         📊 显示最近12小时内数据（ARY News显示昨天和今天） | 数据由 GitHub Actions 每30分钟自动更新<br>
         {change_msg}
     </div>
+    {stats_html}
     <h2>🐦 X 推文 ({tweet_count})</h2>
     {tweets_html}
     <h2>📰 新闻文章 ({article_count})</h2>
@@ -886,6 +969,7 @@ def generate_html(recent_items):
         tweet_count=len(tweets),
         article_count=len(articles),
         change_msg=change_msg,
+        stats_html=stats_html,
         tweets_html=tweets_html,
         articles_html=articles_html
     )
@@ -893,6 +977,7 @@ def generate_html(recent_items):
         f.write(html)
     
     save_last_stats(len(tweets), len(articles), update_time)
+    # 可能问题：HTML 模板中的占位符数量不匹配，会导致 KeyError
 
 # ==================== 主函数 ====================
 def main():
@@ -1137,11 +1222,25 @@ def main():
     eliminated_tweets_dawn = old_tweets_dawn + new_tweets_dawn - len(tweets_dawn_items)
     eliminated_ary = old_ary + new_ary - len(ary_items)
     
-    # 生成 HTML
-    generate_html(final_items)
+    # 组装统计数据字典
+    stats_tweets_dawn = {
+        'old': old_tweets_dawn,
+        'new': new_tweets_dawn,
+        'eliminated': eliminated_tweets_dawn,
+        'current': len(tweets_dawn_items)
+    }
+    stats_ary = {
+        'old': old_ary,
+        'new': new_ary,
+        'eliminated': eliminated_ary,
+        'current': len(ary_items)
+    }
+    
+    # 生成 HTML 页面（传入统计信息）
+    generate_html(final_items, stats_tweets_dawn, stats_ary)
     elapsed = time.time() - start
     
-    # 输出分类统计
+    # 输出分类统计到控制台（保留）
     print(f"\n📊 推文 + Dawn 新闻（12小时窗口）")
     print(f"   旧窗口内数量: {old_tweets_dawn}")
     print(f"   本次新增: {new_tweets_dawn}")
