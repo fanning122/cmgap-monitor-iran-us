@@ -24,42 +24,69 @@
         .footer { text-align: center; margin-top: 30px; font-size: 0.8em; color: #7f8c8d; }
         hr { margin: 20px 0; }
         .status { background: #e8f4f8; padding: 10px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9em; }
+        /* 新增统计表格样式 */
+        .stats-container {
+            background: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .stats-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        .stats-table th, .stats-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .stats-table th {
+            background-color: #f2f2f2;
+        }
+        .stats-note {
+            font-size: 0.8em;
+            color: #7f8c8d;
+            margin-top: 8px;
+        }
     </style>
 </head>
 <body>
     <h1>📡 美伊谈判实时监测</h1>
     <div class="status">
-        🕒 当前页面数据更新时间：2026-04-26 00:56:18 PKT<br>
+        🕒 当前页面数据更新时间：2026-04-26 01:09:11 PKT<br>
         📊 显示最近12小时内数据（ARY News显示昨天和今天） | 数据由 GitHub Actions 每30分钟自动更新<br>
-        ✨ 相比上次（从未刷新），新增 40 条新推文、18 篇新文章。
+        ✨ 相比上次（从未刷新），新增 33 条新推文。
     </div>
-    <h2>🐦 X 推文 (40)</h2>
+    
+    <div class="stats-container">
+        <h3>📈 详细统计（本次运行）</h3>
+        <table class="stats-table" border="1" cellpadding="5" cellspacing="0">
+            <thead>
+                <tr><th>来源</th><th>旧窗口内数量</th><th>本次新增</th><th>本次淘汰</th><th>当前窗口内共有</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>推文 + Dawn 新闻</td><td>0</td><td>33</td><td>0</td><td>33</td></tr>
+                <tr><td>ARY News</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+            </tbody>
+        </table>
+        <p class="stats-note">注：淘汰数 = 旧窗口内数量 + 本次新增 - 当前窗口内共有</p>
+    </div>
+    
+    <h2>🐦 X 推文 (33)</h2>
     
         <div class="tweet">
-            <div class="username">@CBSNews</div>
-            <div class="text">📝 原文: President Trump is expected to make his first appearance as president at White House Correspondents' Association dinner.</div>
-            <div class="translated">🇨🇳 译文: 特朗普总统预计将在白宫记者协会晚宴上首次以总统身份亮相。</div>
-            <div class="images"><img src="images/8068f22e1a9bea1c.jpg" alt="推文图片"></div>
-            <div class="time">🕒 2026-04-25T19:30:00+00:00</div>
-            <div><a href="https://x.com/CBSNews/status/2178425153722182068" target="_blank">查看原文</a></div>
-        </div>
-        
-        <div class="tweet">
-            <div class="username">@CBSNews</div>
-            <div class="text">📝 原文: “I probably wouldn't have made it,” a business owner in Enid, Oklahoma, told CBS News’@LanaZakafter a powerful tornado ripped through a woodworker's shop and sent pieces that were ready for delivery flying up to half a mile away. He had left the shop and returned home shortly</div>
-            <div class="translated">🇨🇳 译文: “我可能无法成功，”俄克拉荷马州伊尼德的一位企业主在一场强大的龙卷风席卷了一家木工店并将准备交付的木制品飞到半​​英里外后告诉哥伦比亚广播公司新闻@LanaZak。他离开商店不久就回家了</div>
-            <div class="images"><img src="images/a5d5d63c293bee7b.jpg" alt="推文图片"></div>
-            <div class="time">🕒 2026-04-25T19:28:28+00:00</div>
-            <div><a href="https://x.com/CBSNews/status/1681597954725112890" target="_blank">查看原文</a></div>
-        </div>
-        
-        <div class="tweet">
-            <div class="username">@CBSNews</div>
-            <div class="text">📝 原文: Texas regulators flagged dozens of deficiencies in Camp Mystic's emergency plan, such as missing flood maps and unclear evacuation procedures for emergencies.</div>
-            <div class="translated">🇨🇳 译文: 德克萨斯州监管机构指出了神秘营应急计划中的数十项缺陷，例如缺少洪水地图以及紧急情况下的疏散程序不明确。</div>
-            <div class="images"><img src="images/af2b2429ae6ca716.jpg" alt="推文图片"></div>
-            <div class="time">🕒 2026-04-25T19:00:00+00:00</div>
-            <div><a href="https://x.com/CBSNews/status/-7821369208477984894" target="_blank">查看原文</a></div>
+            <div class="username">@Tasnimbrk</div>
+            <div class="text">📝 原文: Israeli Regime's Renewed Violations Against Southern Lebanon
+
+The Israeli regime, in continuation of ceasefire violations, targeted the town of Hadatah in southern Lebanon with its aerial aggressions.</div>
+            <div class="translated">🇨🇳 译文: 以色列政权再次侵犯黎巴嫩南部
+
+以色列政权继续违反停火，对黎巴嫩南部的哈达塔镇进行空袭。</div>
+            
+            <div class="time">🕒 2026-04-25T20:00:49+00:00</div>
+            <div><a href="https://x.com/Tasnimbrk/status/6420447824575830145" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -68,7 +95,7 @@
             <div class="translated">🇨🇳 译文: 我们准备并决心在监视该地区敌人的行为和动向并继续管理和控制战略性的霍尔木兹海峡的同时，一旦美国犹太复国主义敌人重新发动攻击，将给他们造成更严重的伤害。</div>
             
             <div class="time">🕒 2026-04-25T18:35:54+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/5175920612520534049" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/-4828502885583738492" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -77,7 +104,7 @@
             <div class="translated">🇨🇳 译文: 美国必须知道，伊朗伊斯兰共和国的武装部队比以往任何时候都拥有更大的权威和战备，以保卫其主权、领土和国家利益，并且该国的军队经历了这种权威和进攻的一部分</div>
             
             <div class="time">🕒 2026-04-25T18:35:53+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/-1212416015489927379" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/1606869593157059917" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -90,7 +117,7 @@ Should the invading American army continue the siege, piracy, and maritime robbe
 如果入侵的美国军队继续在该地区进行围攻、海盗和海上抢劫，可以肯定的是，他们将面临伊朗强大武装力量的反击。</div>
             
             <div class="time">🕒 2026-04-25T18:35:52+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/-7028758097948758102" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/-6475030689973540720" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -107,7 +134,7 @@ During their warm and cordial conversation that lasted fifty minutes, the two le
 两国领导人在长达五十分钟的亲切交谈中，达成了共识。</div>
             
             <div class="time">🕒 2026-04-25T18:33:04+00:00</div>
-            <div><a href="https://x.com/PakPMO/status/2084883160603438680" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/PakPMO/status/3531458647860613310" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -120,7 +147,7 @@ From the Story of Selecting the Most Suitable Worker 40 Years Ago to the Martyre
 从40年前选拔最合适工人的故事到革命烈士论工人参与生产利润的必要性#</div>
             <div class="images"><img src="images/c56858dca67c12e8.svg" alt="推文图片"><img src="images/7471e6b50359ac5a.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T18:31:28+00:00</div>
-            <div><a href="https://x.com/Tasnimnews_Fa/status/-402426959751753635" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimnews_Fa/status/673976558827472016" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -133,16 +160,7 @@ The people of the holy city of Qom have spoken of the unity between the people a
 圣城库姆的人民谈到了围绕最高领袖阿亚图拉·赛义德·莫杰塔巴·哈梅内伊轴心的人民和官员之间的团结，并认为特朗普在伊朗制造不和的原始梦想是为了</div>
             <div class="images"><img src="images/c56858dca67c12e8.svg" alt="推文图片"><img src="images/83e1c368905da86b.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T18:30:04+00:00</div>
-            <div><a href="https://x.com/Tasnimnews_Fa/status/-2992867467360413300" target="_blank">查看原文</a></div>
-        </div>
-        
-        <div class="tweet">
-            <div class="username">@CBSNews</div>
-            <div class="text">📝 原文: Drug-making giant Johnson & Johnson will officially start marketing four of its medications on the TrumpRx website.</div>
-            <div class="translated">🇨🇳 译文: 制药巨头强生公司将正式开始在 TrumpRx 网站上营销其四种药物。</div>
-            <div class="images"><img src="images/e559fe88ce4164a9.jpg" alt="推文图片"></div>
-            <div class="time">🕒 2026-04-25T18:30:00+00:00</div>
-            <div><a href="https://x.com/CBSNews/status/3936666603085407335" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimnews_Fa/status/638835344508011120" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -155,7 +173,7 @@ People of Ilam: We will continue the Street Epic until we bring America and Isra
 伊拉姆人民：我们将继续街头史诗，直到我们让美国和以色列屈服</div>
             <div class="images"><img src="images/c56858dca67c12e8.svg" alt="推文图片"><img src="images/53ec38d0b3ac65e3.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T18:27:36+00:00</div>
-            <div><a href="https://x.com/Tasnimnews_Fa/status/96464613877693219" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimnews_Fa/status/528085194446889706" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -168,33 +186,7 @@ I appreciated Iran’s continued engagement, including the high-level delegation
 我赞赏伊朗的持续参与，包括外交部长阿巴斯·阿拉格奇率领的高级代表团访问伊斯兰堡。</div>
             
             <div class="time">🕒 2026-04-25T18:01:52+00:00</div>
-            <div><a href="https://x.com/CMShehbaz/status/6756431159517007562" target="_blank">查看原文</a></div>
-        </div>
-        
-        <div class="tweet">
-            <div class="username">@CBSNews</div>
-            <div class="text">📝 原文: The U.S. military launched a strike Friday on a boat accused of ferrying drugs in the eastern Pacific Ocean, killing two people, according to U.S. Southern Command.
-
-No U.S. military forces were harmed in the operation, it said in a statement on X.</div>
-            <div class="translated">🇨🇳 译文: 据美国南方司令部称，美国军方周五对一艘被指控在东太平洋运送毒品的船只发动袭击，造成两人死亡。
-
-它在 X 的一份声明中表示，没有美军在这次行动中受伤。</div>
-            <div class="images"><img src="images/597ea2930b216602.jpg" alt="推文图片"></div>
-            <div class="time">🕒 2026-04-25T18:00:00+00:00</div>
-            <div><a href="https://x.com/CBSNews/status/-4870387689817998826" target="_blank">查看原文</a></div>
-        </div>
-        
-        <div class="tweet">
-            <div class="username">@Tasnimnews_Fa</div>
-            <div class="text">📝 原文: To familiarize yourself with the nature of American media, it suffices to try this these days, when events unfold rapidly and within one or two days, the truth can be easily uncovered—test this matter for yourself.
-
-It suffices to record any of their claims and fact-check them</div>
-            <div class="translated">🇨🇳 译文: 要熟悉美国媒体的本质，现在试试这个就可以了，事态发展很快，一两天之内，真相就很容易被揭露，你自己去检验一下。
-
-记录他们的任何主张并对其进行事实核查就足够了</div>
-            
-            <div class="time">🕒 2026-04-25T16:56:17+00:00</div>
-            <div><a href="https://x.com/Tasnimnews_Fa/status/4637671829944427046" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/CMShehbaz/status/-1942334951583987312" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -203,7 +195,7 @@ It suffices to record any of their claims and fact-check them</div>
             <div class="translated">🇨🇳 译文: 伊朗革命卫队：控制霍尔木兹海峡并保持其对美国及其盟国的威慑作用是伊朗的最终战略，将为除美国和犹太复国主义船只之外的所有国家的船只通行提供便利。</div>
             
             <div class="time">🕒 2026-04-25T16:46:02+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/3347529675447827009" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/-3801706804579355803" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -212,7 +204,7 @@ It suffices to record any of their claims and fact-check them</div>
             <div class="translated">🇨🇳 译文: 伊朗革命卫队：美国在该地区的基地已无法重建，唯一的出路就是迅速无条件撤军。</div>
             
             <div class="time">🕒 2026-04-25T16:45:38+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/-2452634065211811274" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/2470754837337058818" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -221,7 +213,7 @@ It suffices to record any of their claims and fact-check them</div>
             <div class="translated">🇨🇳 译文: 伊朗革命卫队：对抗敌人的行动计划已经被设想到甚至为潜在侵略者准备了战俘营。</div>
             
             <div class="time">🕒 2026-04-25T16:44:53+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/-3582639630544176127" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/2242478302500767311" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -230,7 +222,7 @@ It suffices to record any of their claims and fact-check them</div>
             <div class="translated">🇨🇳 译文: 伊斯兰革命卫队（IRGC）在纪念美国塔巴斯惨败及其他事态发展周年的公报中表示，这些事件是伊朗一再羞辱白宫和击败帝国主义的标志。</div>
             
             <div class="time">🕒 2026-04-25T16:44:24+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/8487174885907610969" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/5175786410860346263" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -243,7 +235,7 @@ In this trip, I elaborated on the Islamic Republic of Iran's position regarding 
 在这次访问中，我阐述了伊朗伊斯兰共和国关于永久结束伊朗伊斯兰共和国关于建立切实可行的框架的立场。</div>
             
             <div class="time">🕒 2026-04-25T16:42:49+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/-1499169375949653106" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/5869052063354325863" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -256,7 +248,7 @@ This was the first time a manned aircraft attacked a U.S. military base.</div>
 这是有人驾驶飞机首次袭击美国军事基地。</div>
             
             <div class="time">🕒 2026-04-25T16:40:55+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/8451364626000337090" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/-7841637881429972962" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -269,7 +261,7 @@ This was the first time a manned aircraft attacked a U.S. military base.</div>
 “还有待观察美国是否真正认真对待外交。”</div>
             
             <div class="time">🕒 2026-04-25T16:38:03+00:00</div>
-            <div><a href="https://x.com/KellieMeyerNews/status/-8601229640775250895" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/KellieMeyerNews/status/-8658340478704526273" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -278,7 +270,7 @@ This was the first time a manned aircraft attacked a U.S. military base.</div>
             <div class="translated">🇨🇳 译文: 特朗普声称：我取消了惠特科夫和库什纳的伊斯兰堡之行</div>
             
             <div class="time">🕒 2026-04-25T16:36:47+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/-7895182646563674978" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/-4951657399144513010" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -291,7 +283,7 @@ Shared Iran's position concerning workable framework to permanently end the war 
 分享了伊朗关于永久结束对伊朗战争的可行框架的立场。尚待观察美国是否真正认真对待外交。</div>
             
             <div class="time">🕒 2026-04-25T16:36:38+00:00</div>
-            <div><a href="https://x.com/araghchi/status/9104603334207556264" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/araghchi/status/-1618019180374186233" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -304,7 +296,7 @@ The Foreign Minister will meet with Oman's senior officials during this trip and
 此行外长将会见阿曼高级官员，就双边关系和地区发展问题讨论和交换意见。</div>
             
             <div class="time">🕒 2026-04-25T16:35:48+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/8142294231683394246" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/2282132632361807634" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -313,7 +305,7 @@ The Foreign Minister will meet with Oman's senior officials during this trip and
             <div class="translated">🇨🇳 译文: 新的乐高动画刺痛了伊斯兰堡谈判期间归还美国船只的话题</div>
             <div class="images"><img src="images/c56858dca67c12e8.svg" alt="推文图片"><img src="images/a00106c63f59c59e.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T16:34:11+00:00</div>
-            <div><a href="https://x.com/Tasnimnews_Fa/status/8822821458720299146" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimnews_Fa/status/1916319735951539022" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -327,10 +319,10 @@ The Foreign Minister will meet with Oman's senior officials during this trip and
 
 “太多的时间浪费在旅行上，太多的工作！”
 
-“而且，我们有所有底牌，他们没有！如果他们想说话，他们只要打电话就可以了！！！”</div>
+“还有，我们有所有底牌，他们没有！如果他们想说话，他们只要打电话就可以了！！！”</div>
             <div class="images"><img src="images/24fab3ebe3f4b991.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T16:30:08+00:00</div>
-            <div><a href="https://x.com/KellieMeyerNews/status/8843423454410510778" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/KellieMeyerNews/status/4002827998007743385" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -339,7 +331,7 @@ The Foreign Minister will meet with Oman's senior officials during this trip and
             <div class="translated">🇨🇳 译文: 特朗普表示，威特科夫和库什纳今天不再前往巴基斯坦。</div>
             <div class="images"><img src="images/b0a3b13925e50ea0.svg" alt="推文图片"><img src="images/a0a5567fd8c5b81a.svg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T16:01:53+00:00</div>
-            <div><a href="https://x.com/KellieMeyerNews/status/-8795273382664022964" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/KellieMeyerNews/status/-4384547929497553989" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -348,7 +340,7 @@ The Foreign Minister will meet with Oman's senior officials during this trip and
             <div class="translated">🇨🇳 译文: 介绍伊拉克总理候选人的会议已推迟到明天周日。</div>
             
             <div class="time">🕒 2026-04-25T15:34:44+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/4099587888846265850" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/5181751884757407500" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -358,15 +350,6 @@ The Foreign Minister will meet with Oman's senior officials during this trip and
             <div class="images"><img src="images/f17d3a5679462a26.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T15:05:24+00:00</div>
             <div><a href="https://x.com/MIshaqDar50/status/0" target="_blank">查看原文</a></div>
-        </div>
-        
-        <div class="tweet">
-            <div class="username">@CBSNews</div>
-            <div class="text">📝 原文: Rob and Michele Reiner's son Jake says "my world ... collapsed" after their killings.</div>
-            <div class="translated">🇨🇳 译文: 罗布·雷纳和米歇尔·雷纳的儿子杰克说，他们被杀后“我的世界……崩溃了”。</div>
-            <div class="images"><img src="images/065b936d6a18992d.jpg" alt="推文图片"></div>
-            <div class="time">🕒 2026-04-25T14:35:00+00:00</div>
-            <div><a href="https://x.com/CBSNews/status/-2314046398492918477" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -383,7 +366,7 @@ Despite casualties, the IRGC's combat structure and intelligence, tracking, and 
 尽管造成人员伤亡，伊朗革命卫队的作战结构以及情报、跟踪和瞄准作战能力</div>
             
             <div class="time">🕒 2026-04-25T14:14:14+00:00</div>
-            <div><a href="https://x.com/Tasnimbrk/status/205580336966892053" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/Tasnimbrk/status/2188133348956647819" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -392,7 +375,7 @@ Despite casualties, the IRGC's combat structure and intelligence, tracking, and 
             <div class="translated">🇨🇳 译文: 很高兴见到H.E.伊朗外交部长赛义德·阿巴斯·阿拉格奇及其代表团今天在伊斯兰堡。双方就当前地区局势进行了热烈、诚恳的交换意见。我们还讨论了共同关心的问题，包括进一步加强</div>
             <div class="images"><img src="images/8cacf8dab8bee918.jpg" alt="推文图片"><img src="images/42acb39570e8256b.jpg" alt="推文图片"><img src="images/74f42099c348e282.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T14:10:23+00:00</div>
-            <div><a href="https://x.com/CMShehbaz/status/4208588642110087904" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/CMShehbaz/status/4405183340411860974" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -401,16 +384,7 @@ Despite casualties, the IRGC's combat structure and intelligence, tracking, and 
             <div class="translated">🇨🇳 译文: 伊朗外交部长赛义德·阿巴斯·阿拉格奇致电总理穆罕默德·谢赫巴兹·谢里夫。副总理兼外交部长参议员穆罕默德·伊沙克·达尔和陆军参谋长兼国防军参谋长赛义德·阿西姆·穆尼尔元帅也出席了会议。</div>
             <div class="images"><img src="images/2c6be413026b32d3.jpg" alt="推文图片"><img src="images/6d23befccda03d3c.jpg" alt="推文图片"><img src="images/8f012d3e844a8289.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T14:04:01+00:00</div>
-            <div><a href="https://x.com/PakPMO/status/-4265107402152475770" target="_blank">查看原文</a></div>
-        </div>
-        
-        <div class="tweet">
-            <div class="username">@CBSNews</div>
-            <div class="text">📝 原文: U.S. Southern Command shared a video showing a boat floating in the water before an explosion left it in flames. It said it targeted the alleged drug traffickers along known smuggling routes.</div>
-            <div class="translated">🇨🇳 译文: 美国南方司令部分享了一段视频，显示一艘船漂浮在水中，然后发生爆炸并起火。它说，它的目标是已知走私路线上的涉嫌毒贩。</div>
-            <div class="images"><img src="images/b8376f3a1ecb8afb.jpg" alt="推文图片"></div>
-            <div class="time">🕒 2026-04-25T14:00:00+00:00</div>
-            <div><a href="https://x.com/CBSNews/status/4470904259364896371" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/PakPMO/status/-6629877116968446757" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -421,9 +395,9 @@ Along with Prime Minister@CMShehbaz,  Deputy Prime Minister and Foreign Minister
             <div class="translated">🇨🇳 译文: 穆罕默德·沙赫巴兹·谢里夫总理今天在总理府会见了伊朗外长阿巴斯·阿拉奇，会议持续了大约两个小时。 
 
 与总理@CMShehbaz 一起，副总理兼外交部长参议员穆罕默德·伊沙克·达尔 (Mohammad Ishaq Dar)</div>
-            <div class="images"><img src="images/50d61171fa6ba87e.jpg" alt="推文图片"></div>
+            
             <div class="time">🕒 2026-04-25T13:57:35+00:00</div>
-            <div><a href="https://x.com/MIshaqDar50/status/5165017970051444420" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/MIshaqDar50/status/-1475497472574202947" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -432,7 +406,7 @@ Along with Prime Minister@CMShehbaz,  Deputy Prime Minister and Foreign Minister
             <div class="translated">🇨🇳 译文: 巴基斯坦发射本土EO-3卫星，标志着重大太空里程碑</div>
             <div class="images"><img src="images/b4f9e45678a04f10.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T13:49:02+00:00</div>
-            <div><a href="https://x.com/ForeignOfficePk/status/-6132947535992563140" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/ForeignOfficePk/status/2281897495599084728" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -441,7 +415,7 @@ Along with Prime Minister@CMShehbaz,  Deputy Prime Minister and Foreign Minister
             <div class="translated">🇨🇳 译文: PR No./巴基斯坦发射本土 EO-3 卫星，标志着重大太空里程碑</div>
             <div class="images"><img src="images/88f40ae084ace679.svg" alt="推文图片"><img src="images/49b80fa86f503c69.svg" alt="推文图片"><img src="images/6dd70089c15d9c8c.svg" alt="推文图片"><img src="images/59563c1a40d3d73b.svg" alt="推文图片"><img src="images/42c644bbf48e04fc.svg" alt="推文图片"><img src="images/6927007c5e94b687.svg" alt="推文图片"><img src="images/1d7695f51048fca1.svg" alt="推文图片"><img src="images/c45885dbdb07ed5f.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T13:49:01+00:00</div>
-            <div><a href="https://x.com/ForeignOfficePk/status/7448334477314635188" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/ForeignOfficePk/status/7123388337535167652" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -458,7 +432,7 @@ Iranian Foreign Minister Abbas Araghchi has arrived at the Prime Minister's Hous
 伊朗外交部长阿巴斯·阿拉格奇已抵达总理府与总理会面；这</div>
             <div class="images"><img src="images/9e364aed858a5046.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T11:41:45+00:00</div>
-            <div><a href="https://x.com/PakPMO/status/5559967516323833723" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/PakPMO/status/-8721633794360254587" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -471,7 +445,7 @@ DPM/FM shared developments regarding ongoing diplomatic efforts by Pakistan. He 
 副总理/外长分享了巴基斯坦正在进行的外交努力的进展情况。他强调，通过持续参与</div>
             <div class="images"><img src="images/dabb3fca1626c46d.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T11:34:57+00:00</div>
-            <div><a href="https://x.com/ForeignOfficePk/status/-8218442039578328605" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/ForeignOfficePk/status/-7371973677448559197" target="_blank">查看原文</a></div>
         </div>
         
         <div class="tweet">
@@ -480,137 +454,11 @@ DPM/FM shared developments regarding ongoing diplomatic efforts by Pakistan. He 
             <div class="translated">🇨🇳 译文: DPM/FM 参议员 Mohammad Ishaq Dar@MIshaqDar50 今天举行会议，回顾该地区的最新发展。他重申，巴基斯坦正在推动伊朗与美国的谈判，以实现地区内外的和平与稳定。巴基斯坦将继续努力</div>
             <div class="images"><img src="images/0025b5b6c5935253.jpg" alt="推文图片"><img src="images/6d631d5ce2111ad3.jpg" alt="推文图片"><img src="images/2322ad08d7700ec2.jpg" alt="推文图片"></div>
             <div class="time">🕒 2026-04-25T10:48:47+00:00</div>
-            <div><a href="https://x.com/ForeignOfficePk/status/-4144960307898218059" target="_blank">查看原文</a></div>
+            <div><a href="https://x.com/ForeignOfficePk/status/-7753015756531328901" target="_blank">查看原文</a></div>
         </div>
         
-    <h2>📰 新闻文章 (18)</h2>
-    
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995044/in-call-with-iranian-president-pm-says-pakistan-committed-to-serving-as-honest-and-sincere-facilitator" target="_blank">In call with Iranian president, PM says Pakistan committed to serving as 'honest and sincere facilitator'</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 总理在与伊朗总统通话时表示，巴基斯坦致力于充当“诚实和真诚的调解者”</div>
-            <div class="time">🕒 2026-04-25T23:50:51+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995037/islamabad-administration-allows-public-goods-transport-revises-business-timings" target="_blank">Islamabad administration allows public, goods transport; revises business timings</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 伊斯兰堡政府允许公共、货物运输；修改营业时间</div>
-            <div class="time">🕒 2026-04-25T22:11:23+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995030/operation-to-recover-boy-swept-away-while-swimming-in-water-line-continues-for-2nd-day-in-karachi" target="_blank">Operation to recover boy swept away while swimming in water line continues for 2nd day in Karachi</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 卡拉奇，救回在水线中游泳时被卷走的男孩的行动持续第二天</div>
-            <div class="time">🕒 2026-04-25T21:19:54+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995029/us-state-department-orders-global-warning-about-alleged-ai-theft-by-deepseek-other-chinese-firms" target="_blank">US State Department orders global warning about alleged AI theft by DeepSeek, other Chinese firms</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 美国国务院下令对 DeepSeek 和其他中国公司涉嫌盗窃人工智能发出全球警告</div>
-            <div class="time">🕒 2026-04-25T20:51:27+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1994561/trump-rules-out-n-option-amid-hormuz-struggle" target="_blank">www.dawn.com</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 黎明网</div>
-            <div class="time">🕒 2026-04-25T19:53:29.227907+00:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1994802/man-nephew-killed-in-khyber-car-ambush" target="_blank">www.dawn.com</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 黎明网</div>
-            <div class="time">🕒 2026-04-25T19:50:35.448556+00:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995020/pakistan-successfully-launches-indigenous-satellite-from-china" target="_blank">Pakistan successfully launches indigenous satellite from China</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 巴基斯坦成功发射中国自主卫星</div>
-            <div class="time">🕒 2026-04-25T19:30:45+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995015/journalist-fakharur-rehman-sent-to-jail-on-judicial-remand-following-arrest-in-peca-case" target="_blank">Journalist Fakharur Rehman sent to jail on judicial remand following arrest in Peca case</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 记者法哈鲁尔·雷赫曼 (Fakharur Rehman) 在佩卡案中被捕后被司法还押入狱</div>
-            <div class="time">🕒 2026-04-25T18:44:11+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995012/india-to-bid-for-2038-asian-games-in-ahmedabad" target="_blank">India to bid for 2038 Asian Games in Ahmedabad</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 印度将申办2038年艾哈迈达巴德亚运会</div>
-            <div class="time">🕒 2026-04-25T18:02:17+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995010/afghans-in-qatar-can-return-with-full-confidence-says-taliban-govt" target="_blank">Afghans in Qatar can return 'with full confidence', says Taliban govt</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 塔利班政府表示，在卡塔尔的阿富汗人可以“充满信心”返回</div>
-            <div class="time">🕒 2026-04-25T18:02:02+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1995003/telecos-to-begin-5g-trials-in-gilgit-baltistan-soon" target="_blank">Telecos to begin 5G trials in Gilgit-Baltistan soon</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 电信公司即将在吉尔吉特-巴尔蒂斯坦开始 5G 试验</div>
-            <div class="time">🕒 2026-04-25T17:17:11+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1994995/four-family-members-gunned-down-in-islamabad-suburbs-police-say" target="_blank">Four family members gunned down in Islamabad suburbs, police say</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 警方称，四名家庭成员在伊斯兰堡郊区被枪杀</div>
-            <div class="time">🕒 2026-04-25T16:32:07+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1994993/billionaire-elon-musk-enters-courtroom-showdown-with-openai" target="_blank">Billionaire Elon Musk enters courtroom showdown with OpenAI</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 亿万富翁埃隆·马斯克与 OpenAI 进入法庭对决</div>
-            <div class="time">🕒 2026-04-25T16:00:58+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1994989/in-pictures-high-security-in-islamabads-red-zone-during-iranian-delegations-visit" target="_blank">In pictures: High security in Islamabad’s Red Zone during Iranian delegation’s visit</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 图片中：伊朗代表团访问期间伊斯兰堡红区高度戒备</div>
-            <div class="time">🕒 2026-04-25T15:53:12+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1973699/is-karachi-disposable-by-design" target="_blank">Is Karachi disposable by design?</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 卡拉奇的设计是一次性的吗？</div>
-            <div class="time">🕒 2026-04-25T14:39:32+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1994972/strait-of-hormuz-closure-pushes-pakistan-into-expensive-184-per-mmbtu-lng-deal" target="_blank">Strait of Hormuz closure pushes Pakistan into expensive $18.4 per mmBtu LNG deal</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 霍尔木兹海峡关闭导致巴基斯坦每百万英热单位液化天然气交易价格高达 18.4 美元</div>
-            <div class="time">🕒 2026-04-25T14:07:25+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1994980/3-killed-in-latest-clashes-in-indias-troubled-manipur-state" target="_blank">3 killed in latest clashes in India's troubled Manipur state</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 印度陷入困境的曼尼普尔邦最近发生冲突，造成3人死亡</div>
-            <div class="time">🕒 2026-04-25T14:03:27+05:00</div>
-        </div>
-        
-        <div class="article">
-            <div class="source">www.dawn.com</div>
-            <div class="title">📝 原文标题: <a href="https://www.dawn.com/news/1994964/palestinians-vote-in-first-elections-since-israels-invasion-of-gaza" target="_blank">Palestinians vote in first elections since Israel's invasion of Gaza</a></div>
-            <div class="translated-title">🇨🇳 译文标题: 巴勒斯坦人在以色列入侵加沙以来的首次选举中投票</div>
-            <div class="time">🕒 2026-04-25T13:38:32+05:00</div>
-        </div>
-        
+    <h2>📰 新闻文章 (0)</h2>
+    <p>暂无文章。</p>
     <div class="footer">
         <hr>
         <p>数据来源：X平台 20个指定账号 + Dawn / ARY News | 自动抓取部署于 GitHub Actions | 推文和Dawn淘汰超过12小时的内容 | ARY News显示昨天和今天的文章 | 英文自动翻译为中文</p>
