@@ -785,12 +785,16 @@ def clean_old_data(hours=12):
             print(f"🧹 已删除 {deleted_count} 个不再使用的图片文件")
     # 可能问题：某些图片文件被多个条目引用，但这里只保留了被引用的，安全
 
-def save_last_stats(tweet_count, article_count, update_time_str):
+# ==================== 修改点 1：扩展 save_last_stats 以保存分类统计 ====================
+def save_last_stats(tweet_count, article_count, update_time_str, tweets_dawn_count=None, ary_count=None):
     stats = {
         "tweet_count": tweet_count,
         "article_count": article_count,
         "update_time": update_time_str
     }
+    if tweets_dawn_count is not None and ary_count is not None:
+        stats["last_tweets_dawn"] = tweets_dawn_count
+        stats["last_ary"] = ary_count
     with open("last_stats.json", "w", encoding="utf-8") as f:
         json.dump(stats, f)
 
@@ -976,7 +980,8 @@ def generate_html(recent_items, stats_tweets_dawn, stats_ary):
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(html)
     
-    save_last_stats(len(tweets), len(articles), update_time)
+    # ==================== 修改点 3：保存本次统计数据时传入分类窗口数量 ====================
+    save_last_stats(len(tweets), len(articles), update_time, stats_tweets_dawn['current'], stats_ary['current'])
     # 可能问题：HTML 模板中的占位符数量不匹配，会导致 KeyError
 
 # ==================== 主函数 ====================
@@ -984,61 +989,12 @@ def main():
     now_pkt = datetime.now(PKT_TZ)
     print(f"{now_pkt.strftime('%Y-%m-%d %H:%M:%S')} PKT 开始抓取（20个X账号 + 新闻）...")
     
-    # ========== 先加载旧数据，用于计算淘汰数 ==========
-    old_all_items = load_items()   # 保存旧数据（尚未清理前的 items.json）
-    
-    # 定义旧窗口参数（与本次运行使用的窗口一致）
-    now_utc_old = datetime.now(timezone.utc)
-    dawn_cutoff_old = now_utc_old - timedelta(hours=12)
-    now_pkt_old = datetime.now(PKT_TZ)
-    today_start_pkt_old = datetime(now_pkt_old.year, now_pkt_old.month, now_pkt_old.day, 0, 0, 0, tzinfo=PKT_TZ)
-    yesterday_start_pkt_old = today_start_pkt_old - timedelta(days=1)
-    ary_cutoff_start_utc_old = yesterday_start_pkt_old.astimezone(timezone.utc)
-    ary_cutoff_end_utc_old = (today_start_pkt_old + timedelta(days=1) - timedelta(seconds=1)).astimezone(timezone.utc)
-    
-    old_tweets_dawn = 0
-    old_ary = 0
-    for item in old_all_items:
-        if item["type"] == "tweet":
-            ts_str = item.get("original_time", item.get("timestamp"))
-            if not ts_str:
-                continue
-            if ts_str.endswith("Z"):
-                ts_str = ts_str.replace("Z", "+00:00")
-            try:
-                item_time = datetime.fromisoformat(ts_str)
-                if item_time >= dawn_cutoff_old:
-                    old_tweets_dawn += 1
-            except:
-                continue
-        elif item["type"] == "article":
-            source = item.get("source", "")
-            if "arynews" in source.lower():
-                ts_str = item.get("original_time", item.get("timestamp"))
-                if not ts_str:
-                    continue
-                if ts_str.endswith("Z"):
-                    ts_str = ts_str.replace("Z", "+00:00")
-                try:
-                    item_time = datetime.fromisoformat(ts_str)
-                    if ary_cutoff_start_utc_old <= item_time <= ary_cutoff_end_utc_old:
-                        old_ary += 1
-                except:
-                    continue
-            else:
-                ts_str = item.get("original_time", item.get("timestamp"))
-                if not ts_str:
-                    continue
-                if ts_str.endswith("Z"):
-                    ts_str = ts_str.replace("Z", "+00:00")
-                try:
-                    item_time = datetime.fromisoformat(ts_str)
-                    if item_time >= dawn_cutoff_old:
-                        old_tweets_dawn += 1
-                except:
-                    continue
-    
-    print(f"旧窗口统计: 推文+Dawn {old_tweets_dawn} 条, ARY News {old_ary} 条")
+    # ==================== 修改点 2：从 last_stats.json 读取旧窗口数量，替换原来基于当前时间的错误计算 ====================
+    # 原来这里有一大段基于 old_all_items 重新计算旧窗口数量的代码，已删除，改为直接读取上次保存的分类统计。
+    last_stats = load_last_stats()
+    old_tweets_dawn = last_stats.get("last_tweets_dawn", 0) if last_stats else 0
+    old_ary = last_stats.get("last_ary", 0) if last_stats else 0
+    print(f"旧窗口统计（来自上次运行）: 推文+Dawn {old_tweets_dawn} 条, ARY News {old_ary} 条")
     
     # ========== 清理超过12小时的旧数据 ==========
     clean_old_data(hours=12)
