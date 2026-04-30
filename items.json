@@ -1,17 +1,30 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-2435405275222921294",
+    "id": "tweet_ForeignOfficePk_5245695427837655155",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Relations with the United Arab Emirates",
+    "translated_text": "发言人@TahirAndrabi 每周举行新闻发布会关于与阿拉伯联合酋长国的关系",
+    "images": [],
+    "url": "https://x.com/ForeignOfficePk/status/5245695427837655155",
+    "timestamp": "2026-04-30T19:21:14.156358+00:00",
+    "original_time": "2026-04-30T19:09:30+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-174778847586470724",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Indian efforts to Erase Muslim Identity & Urdu Language from Indian Illegally Occupied Jammu and Kashmir",
     "translated_text": "发言人@TahirAndrabi 每周举行新闻发布会关于印度努力从印度非法占领的查谟和克什米尔消除穆斯林身份和乌尔都语",
-    "images": [],
-    "url": "https://x.com/ForeignOfficePk/status/-2435405275222921294",
-    "timestamp": "2026-04-30T17:21:27.637310+00:00",
+    "images": [
+      "0006dff1736eef67.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-174778847586470724",
+    "timestamp": "2026-04-30T19:21:14.626270+00:00",
     "original_time": "2026-04-30T17:17:00+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_5377551220239157655",
+    "id": "tweet_ForeignOfficePk_-5201370169354521576",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Afghanistan - related Queries",
@@ -19,12 +32,12 @@
     "images": [
       "2aa06d1c3a36f230.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/5377551220239157655",
-    "timestamp": "2026-04-30T17:21:28.386805+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-5201370169354521576",
+    "timestamp": "2026-04-30T19:21:15.259571+00:00",
     "original_time": "2026-04-30T16:49:20+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-2033290391351112325",
+    "id": "tweet_ForeignOfficePk_-1964129115466516161",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Iran - USA Talks",
@@ -33,12 +46,12 @@
       "8ae0cbd18dab45d1.jpg",
       "198135500a3a6ff2.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-2033290391351112325",
-    "timestamp": "2026-04-30T17:21:29.423935+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-1964129115466516161",
+    "timestamp": "2026-04-30T19:21:15.633722+00:00",
     "original_time": "2026-04-30T16:44:26+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_3140415403340127125",
+    "id": "tweet_ForeignOfficePk_4682153836977137024",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Iran-USA Talks, Status of Peace Process and Proposals",
@@ -46,38 +59,36 @@
     "images": [
       "8084d3a05d571aa5.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/3140415403340127125",
-    "timestamp": "2026-04-30T17:21:30.075233+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/4682153836977137024",
+    "timestamp": "2026-04-30T19:21:16.286318+00:00",
     "original_time": "2026-04-30T15:56:50+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-2773341806383347194",
+    "id": "tweet_business_-7379052845286864158",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Alteration in the Indian Occupied Ladakh Territory of the Indian Illegally Occupied Jammu & Kashmir",
-    "translated_text": "发言人@TahirAndrabi每周举行新闻发布会关于印度非法占领的查谟和克什米尔拉达克领土的变化",
+    "username": "business",
+    "text": "A Pakistani tanker carrying a cargo of diesel from Kuwait appeared to be making an outbound transit through the Strait of Hormuz, a rare event in the blockaded waterway",
+    "translated_text": "一艘载有来自科威特的柴油的巴基斯坦油轮似乎正在通过霍尔木兹海峡出境，这在被封锁的水道中是罕见的事件",
     "images": [
-      "5b34916d597b49f7.jpg"
+      "aa9a509361384a6a.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-2773341806383347194",
-    "timestamp": "2026-04-30T17:21:30.766142+00:00",
-    "original_time": "2026-04-30T15:14:55+00:00"
+    "url": "https://x.com/business/status/-7379052845286864158",
+    "timestamp": "2026-04-30T19:21:35.643539+00:00",
+    "original_time": "2026-04-30T16:48:53+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-4757966531619753287",
+    "id": "tweet_MIshaqDar50_-2439038939224924689",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Ingress of RSS/Hindutva Extremist in Jamia Millia University in Delhi & Anti-Muslim Statements by BJP Leader",
-    "translated_text": "发言人@TahirAndrabi 每周举行新闻发布会关于 RSS/印度教极端分子侵入德里贾米亚米利亚大学以及印度人民党领导人发表反穆斯林言论",
-    "images": [
-      "4a00ee30c70c0141.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/-4757966531619753287",
-    "timestamp": "2026-04-30T17:21:31.910387+00:00",
-    "original_time": "2026-04-30T15:02:45+00:00"
+    "username": "MIshaqDar50",
+    "text": "I condemn, in the strongest possible terms, the illegal interception of the Global Sumud Flotilla in international waters, and the unlawful detention of activists onboard.\n\nThis flagrant violation of international law and deliberate obstruction of humanitarian aid by Israeli",
+    "translated_text": "我以最强烈的措辞谴责在国际水域非法拦截全球苏姆德船队以及非法拘留船上活动人士的行为。\n\n以色列公然违反国际法并蓄意阻挠人道主义援助",
+    "images": [],
+    "url": "https://x.com/MIshaqDar50/status/-2439038939224924689",
+    "timestamp": "2026-04-30T19:21:35.932041+00:00",
+    "original_time": "2026-04-30T18:49:48+00:00"
   },
   {
-    "id": "tweet_MIshaqDar50_4884100926487627898",
+    "id": "tweet_MIshaqDar50_-1151935978024446585",
     "type": "tweet",
     "username": "MIshaqDar50",
     "text": "Jumma Mubarak",
@@ -86,12 +97,12 @@
       "be04ea11f6266799.svg",
       "4281db428d750874.jpg"
     ],
-    "url": "https://x.com/MIshaqDar50/status/4884100926487627898",
-    "timestamp": "2026-04-30T17:21:49.178185+00:00",
+    "url": "https://x.com/MIshaqDar50/status/-1151935978024446585",
+    "timestamp": "2026-04-30T19:21:36.336838+00:00",
     "original_time": "2026-04-30T17:01:11+00:00"
   },
   {
-    "id": "tweet_PTVNewsOfficial_6026928173715983524",
+    "id": "tweet_PTVNewsOfficial_-2567881450512955458",
     "type": "tweet",
     "username": "PTVNewsOfficial",
     "text": "Reaffirmation of Pakistan's political and military leadership's unwavering resolve for national defense... Pakistan has reiterated its commitment to giving a firm and decisive response to every provocation, along with an offer for a transparent inquiry into the Pulwama",
@@ -99,12 +110,12 @@
     "images": [
       "144a1fcd95d49af9.jpg"
     ],
-    "url": "https://x.com/PTVNewsOfficial/status/6026928173715983524",
-    "timestamp": "2026-04-30T17:21:50.116273+00:00",
+    "url": "https://x.com/PTVNewsOfficial/status/-2567881450512955458",
+    "timestamp": "2026-04-30T19:21:36.579863+00:00",
     "original_time": "2026-04-30T10:39:12+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_5150902470298032249",
+    "id": "tweet_ForeignOfficePk_-596956882073405563",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "DPM/FM Senator Mohammad Ishaq Dar@MIshaqDar50chaired a meeting today to review preparations for the 9th OIC Ministerial Conference on Women, scheduled to be hosted by Pakistan on 12-13 July 2026. \n\nExpressing satisfaction at the state of preparations, DPM/FM directed all",
@@ -115,52 +126,34 @@
       "7e6ac93aec5ea737.jpg",
       "0e928e0c5631edf1.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/5150902470298032249",
-    "timestamp": "2026-04-30T17:21:51.896823+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-596956882073405563",
+    "timestamp": "2026-04-30T19:21:37.031422+00:00",
     "original_time": "2026-04-30T13:51:06+00:00"
   },
   {
-    "id": "tweet_DPM_PK_-8554460991892470503",
-    "type": "tweet",
-    "username": "DPM_PK",
-    "text": "DPM/FM Senator Mohammad Ishaq Dar@MIshaqDar50chaired a meeting today on the recognition of Medical, Dentistry, and Alternative Medicine educational institutions.\n\nThe meeting reviewed existing regulatory frameworks and discussed measures to enhance transparency,",
-    "translated_text": "DPM/FM 参议员 Mohammad Ishaq Dar@MIshaqDar50 今天主持了一次关于认可医学、牙科和替代医学教育机构的会议。\n\n会议审查了现有监管框架并讨论了提高透明度的措施，",
-    "images": [
-      "12c1203de262bf20.jpg",
-      "6d1c89a36ef4a19d.jpg",
-      "c885cd3a9a4828a0.jpg",
-      "21c5dbad66e2aa37.jpg"
-    ],
-    "url": "https://x.com/DPM_PK/status/-8554460991892470503",
-    "timestamp": "2026-04-30T17:21:53.076051+00:00",
-    "original_time": "2026-04-30T12:46:53+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_954799006649658172",
+    "id": "tweet_PakPMO_7179918065406870181",
     "type": "tweet",
     "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif launches PM's Apna Ghar Program. Islamabad, 30 April 2026.",
-    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫启动总理阿普纳·加尔计划。伊斯兰堡，2026 年 4 月 30 日。",
-    "images": [
-      "2902b7dc51361267.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/954799006649658172",
-    "timestamp": "2026-04-30T17:21:53.373040+00:00",
-    "original_time": "2026-04-30T08:57:07+00:00"
+    "text": "Islamabad: April 30, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif met with a delegation from the Partnership for a Lead-Free Future and UNICEF.\n\nThe delegation included Abdullah Fazal, Director of the Secretariat for a Lead-Free Future; Pernille Ironside, UNICEF Representative",
+    "translated_text": "伊斯兰堡：2026 年 4 月 30 日。\n\n穆罕默德·谢赫巴兹·谢里夫总理会见了无铅未来伙伴关系和联合国儿童基金会的代表团。\n\n代表团成员包括无铅未来秘书处主任 Abdullah Fazal；佩妮·艾恩赛德 (Pernille Ironside)，联合国儿童基金会代表",
+    "images": [],
+    "url": "https://x.com/PakPMO/status/7179918065406870181",
+    "timestamp": "2026-04-30T19:22:09.547528+00:00",
+    "original_time": "2026-04-30T18:59:38+00:00"
   },
   {
-    "id": "tweet_PakPMO_5483227021791204796",
+    "id": "tweet_PakPMO_3961168621006035206",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad: April 30, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif has decided to maintain the continuity of providing relief to the economically weaker segments in view of the recent situation.\n\nThe Prime Minister has approved a one-month extension in the subsidy given last",
-    "translated_text": "伊斯兰堡：2026 年 4 月 30 日。\n\n鉴于最近的形势，总理穆罕默德·谢赫巴兹·谢里夫决定继续向经济较弱的群体提供救助。\n\n总理已批准将去年给予的补贴延长一个月",
+    "translated_text": "伊斯兰堡：2026 年 4 月 30 日。\n\n鉴于最近的局势，总理穆罕默德·谢赫巴兹·谢里夫决定继续向经济薄弱部门提供救助。\n\n总理已批准将去年给予的补贴延长一个月",
     "images": [],
-    "url": "https://x.com/PakPMO/status/5483227021791204796",
-    "timestamp": "2026-04-30T17:22:27.223851+00:00",
+    "url": "https://x.com/PakPMO/status/3961168621006035206",
+    "timestamp": "2026-04-30T19:22:09.697107+00:00",
     "original_time": "2026-04-30T13:53:17+00:00"
   },
   {
-    "id": "tweet_PakPMO_-2597575707001922308",
+    "id": "tweet_PakPMO_5734819833663814626",
     "type": "tweet",
     "username": "PakPMO",
     "text": "A delegation of Partnership for Lead Free Future and UNICEF called on Prime Minister Muhammad Shehbaz Sharif. Islamabad, 30 April 2026.",
@@ -170,12 +163,12 @@
       "06a74f3b38e06d32.jpg",
       "abbb209f7e9c71f7.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-2597575707001922308",
-    "timestamp": "2026-04-30T17:22:28.653783+00:00",
+    "url": "https://x.com/PakPMO/status/5734819833663814626",
+    "timestamp": "2026-04-30T19:22:10.015783+00:00",
     "original_time": "2026-04-30T13:47:28+00:00"
   },
   {
-    "id": "tweet_PakPMO_-5897618036953433037",
+    "id": "tweet_PakPMO_6119559662704489636",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad: April 30, 2026.\n\nA meeting was held between Prime Minister Muhammad Shehbaz Sharif and a delegation from the Partnership for a Lead-Free Future and UNICEF.\n\nThe delegation included Abdullah Fazeel, Director of the Secretariat for a Lead-Free Future, Pernille Ironside,",
@@ -183,12 +176,12 @@
     "images": [
       "f9c28bfbe10d72e6.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-5897618036953433037",
-    "timestamp": "2026-04-30T17:22:29.870442+00:00",
+    "url": "https://x.com/PakPMO/status/6119559662704489636",
+    "timestamp": "2026-04-30T19:22:10.268869+00:00",
     "original_time": "2026-04-30T13:43:41+00:00"
   },
   {
-    "id": "tweet_PakPMO_-6306497346796393473",
+    "id": "tweet_PakPMO_-4730926228977001260",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif distributes PM's Apna Ghar Program cheques among the beneficiaries. Islamabad, 30 April 2026.",
@@ -199,12 +192,12 @@
       "d7f8975830adf9ed.jpg",
       "4bd075fd8dc1ad03.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-6306497346796393473",
-    "timestamp": "2026-04-30T17:22:30.427789+00:00",
+    "url": "https://x.com/PakPMO/status/-4730926228977001260",
+    "timestamp": "2026-04-30T19:22:10.674148+00:00",
     "original_time": "2026-04-30T08:59:57+00:00"
   },
   {
-    "id": "tweet_PakPMO_3343237984787317372",
+    "id": "tweet_PakPMO_4592398143697457123",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif addresses the launching ceremony of PM Apna Ghar Program. Islamabad, 30 April, 2026.",
@@ -215,25 +208,89 @@
       "3df5590b4737d5b4.jpg",
       "7c31c531d4b98433.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/3343237984787317372",
-    "timestamp": "2026-04-30T17:22:31.003442+00:00",
+    "url": "https://x.com/PakPMO/status/4592398143697457123",
+    "timestamp": "2026-04-30T19:22:11.108896+00:00",
     "original_time": "2026-04-30T08:58:37+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2190212243282571566",
+    "id": "tweet_PakTVGlobal_-7458731672291488811",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "US President Donald Trump congratulated Iraq’s new Prime Minister Ali al-Zaidi, calling his nomination a “tremendous new chapter” in US-Iraq relations. He expressed hope for a government free from terrorism and said it could bring prosperity, stability, and success like never",
+    "translated_text": "美国总统唐纳德·特朗普祝贺伊拉克新总理阿里·扎伊迪，称他的提名是美伊关系的“巨大新篇章”。他表达了对一个没有恐怖主义的政府的希望，并表示这可以带来前所未有的繁荣、稳定和成功。",
+    "images": [
+      "08d4adc041b83943.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-7458731672291488811",
+    "timestamp": "2026-04-30T19:22:47.356194+00:00",
+    "original_time": "2026-04-30T19:20:53+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_9158269182835003370",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "President Trump says the US obliterated Iran's nuclear capabilities, and that Iran's leadership is gone.#Trump#USIranTensions#Iran#MiddleEastCrisis#PakistanTV",
+    "translated_text": "特朗普总统表示，美国摧毁了伊朗的核能力，伊朗的领导地位已经不复存在。#Trump#USIranTensions#Iran#MiddleEastCrisis#PakistanTV",
+    "images": [
+      "b6aa79dc7984e8b1.jpg",
+      "f25e97ad95fa9c33.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/9158269182835003370",
+    "timestamp": "2026-04-30T19:22:48.061745+00:00",
+    "original_time": "2026-04-30T19:17:35+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-4770019885549900230",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "President Trump says the US knocked out Iran's navy and airforce.#DonaldTrump#USIranTensions#Iran#MiddleEastCrisis#MilitaryConflict#USMilitary#PakistanTV",
+    "translated_text": "特朗普总统表示，美国摧毁了伊朗的海军和空军。#DonaldTrump#USIranTensions#Iran#MiddleEastCrisis#MilitaryConflict#USMilitary#PakistanTV",
+    "images": [
+      "6acd5e2c28c6556c.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-4770019885549900230",
+    "timestamp": "2026-04-30T19:22:48.462856+00:00",
+    "original_time": "2026-04-30T19:13:35+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2332574876356684863",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "President Trump says Iran is dying to make a deal.#DonaldTrump#Iran#USIranTensions#MiddleEastCrisis#PakistanTV",
+    "translated_text": "特朗普总统表示伊朗渴望达成协议。#DonaldTrump#Iran#USIranTensions#MiddleEastCrisis#PakistanTV",
+    "images": [
+      "c2c159451f4262ed.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2332574876356684863",
+    "timestamp": "2026-04-30T19:22:48.980635+00:00",
+    "original_time": "2026-04-30T19:10:55+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1173411033030792452",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The Pentagon's spending on its war with Iran could cover the UN's entire 2026 aid appeal and bring lifesaving support to more than 87 million people, the UN aid chief said. The US Department of Defense says it has spent $25 billion so far on the conflict in the Middle East, while",
+    "translated_text": "联合国援助负责人表示，五角大楼在与伊朗的战争中的支出可以满足联合国2026年的全部援助呼吁，并为超过8700万人提供救生支持。美国国防部表示，迄今为止已为中东冲突花费了 250 亿美元，而",
+    "images": [
+      "ba6e974267d7d372.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1173411033030792452",
+    "timestamp": "2026-04-30T19:22:49.606193+00:00",
+    "original_time": "2026-04-30T19:08:05+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3235559292353342167",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Muhammad Umar, a security analyst says amid escalating US–Iran tensions over the Strait of Hormuz, the biggest flaw in Washington’s approach is the lack of a clear endgame, warning shifting goals risk prolonged conflict@umarwrites@OmarButtPK@iqrahanif2610#USIranTensions",
     "translated_text": "安全分析师穆罕默德·乌马尔表示，在美伊围绕霍尔木兹海峡的紧张局势不断升级的情况下，华盛顿做法的最大缺陷是缺乏明确的结局，并警告说，转移目标可能会导致长期冲突@umarwrites@OmarButtPK@iqrahanif2610#USIranTensions",
-    "images": [
-      "e055814c63de37eb.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/2190212243282571566",
-    "timestamp": "2026-04-30T17:23:05.086271+00:00",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/3235559292353342167",
+    "timestamp": "2026-04-30T19:22:52.108556+00:00",
     "original_time": "2026-04-30T17:22:32+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3938616850102262607",
+    "id": "tweet_PakTVGlobal_-3044237349840296587",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Pakistan has released the names of the martyred and injured in attacks by Afghan Taliban regime, in district Bajaur, Khyber Pakhtunkhwa. The Taliban regime fired mortars and shells in Mamund and Salarzai areas in March and April, targeting civilians. The martyrs included 3 women",
@@ -241,12 +298,12 @@
     "images": [
       "b1df3035fa68ae5c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3938616850102262607",
-    "timestamp": "2026-04-30T17:23:06.637186+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-3044237349840296587",
+    "timestamp": "2026-04-30T19:22:52.581473+00:00",
     "original_time": "2026-04-30T17:18:25+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_5702797954146755426",
+    "id": "tweet_PakTVGlobal_4402175486619372646",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "German Chancellor Friedrich Merz has stated that Germany is committed to ending Iran’s blockade of the Strait of Hormuz and is ready to engage militarily, if required, to safeguard freedom of navigation, provided certain conditions are met.#USIranTensions#Geopolitics",
@@ -254,12 +311,12 @@
     "images": [
       "3cde519c91d0219b.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/5702797954146755426",
-    "timestamp": "2026-04-30T17:23:09.553194+00:00",
+    "url": "https://x.com/PakTVGlobal/status/4402175486619372646",
+    "timestamp": "2026-04-30T19:22:52.938259+00:00",
     "original_time": "2026-04-30T17:15:17+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7012142363404701894",
+    "id": "tweet_PakTVGlobal_1045632693902172829",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Professor David Dunn, University of Birmingham says there’s little evidence US strategy is working yet, warning blockades take time while rising military signals may harden Iran’s stance instead of pushing quick negotiations.#USIranTensions#Geopolitics#MiddleEastCrisis",
@@ -267,12 +324,12 @@
     "images": [
       "c01b8ff3caac071e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/7012142363404701894",
-    "timestamp": "2026-04-30T17:23:10.294038+00:00",
+    "url": "https://x.com/PakTVGlobal/status/1045632693902172829",
+    "timestamp": "2026-04-30T19:22:53.446302+00:00",
     "original_time": "2026-04-30T17:06:16+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7705869250021590275",
+    "id": "tweet_PakTVGlobal_810414272003048757",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "China warns Taiwan issue is the most sensitive flashpoint in US–China ties, urging stability while tensions continue to shape global diplomacy.#Taiwan#USChina#Geopolitics#GlobalDiplomacy#InternationalRelations#PakistanTV",
@@ -280,88 +337,25 @@
     "images": [
       "b1006b52954d33ae.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/7705869250021590275",
-    "timestamp": "2026-04-30T17:23:11.711994+00:00",
+    "url": "https://x.com/PakTVGlobal/status/810414272003048757",
+    "timestamp": "2026-04-30T19:22:54.011616+00:00",
     "original_time": "2026-04-30T16:41:55+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3949335412412338143",
+    "id": "tweet_PakTVGlobal_-4081391898214937445",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "President Asif Ali Zardari met Mr Feng Fei, Party Secretary of Hainan, along with Governor Liu Xiaoming and Sanya Party Secretary Wang Qiyang in Sanya, discussing expanded trade, investment opportunities, and stronger Pakistan–Hainan relations.@PresOfPakistan#PakistanChina",
-    "translated_text": "阿西夫·阿里·扎尔达里总统在三亚会见了海南省委书记冯飞先生、省长刘晓明和三亚市市委书记王启阳，讨论扩大贸易、投资机会和加强巴基斯坦与海南关系。@PresOfPakistan#PakistanChina",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-3949335412412338143",
-    "timestamp": "2026-04-30T17:23:14.534778+00:00",
-    "original_time": "2026-04-30T12:31:49+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_648663744651797892",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Afghanistan under Taliban has become a safe haven for multiple terrorist organizations and groups and now Al-Qaeda has announced its backing and support for the Afghan Taliban regime.#Afghanistan#AfghanTaliban#AlQaeda#CounterTerrorism#PakistanTV",
-    "translated_text": "塔利班统治下的阿富汗已成为多个恐怖组织和团体的避风港，现在基地组织已宣布支持阿富汗塔利班政权。#Afghanistan#AfghanTaliban#AlQaeda#CounterTerrorism#PakistanTV",
+    "text": "Headlines 9PM | Oil price soars to highest level in four years | UN Chief warns of global recession as Hormuz crisis deepens | Iran's Supreme leader vows control, security in Hormuz | CENTCOM Chief to brief Donald Trump on US-Iran war today.#OilPrices#GlobalEconomy#UN",
+    "translated_text": "晚上 9 点头条新闻 |油价飙升至四年来最高水平|联合国秘书长警告霍尔木兹危机加深全球经济衰退伊朗最高领袖誓言控制霍尔木兹并确保安全中央司令部司令今天向唐纳德·特朗普通报美伊战争情况。#OilPrices#GlobalEconomy#UN",
     "images": [
-      "892f4c0d2aec1fee.jpg"
+      "a260aa61f3775a17.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/648663744651797892",
-    "timestamp": "2026-04-30T17:23:15.984449+00:00",
-    "original_time": "2026-04-30T12:22:49+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-4081391898214937445",
+    "timestamp": "2026-04-30T19:22:54.283135+00:00",
+    "original_time": "2026-04-30T16:26:45+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-499489731482032685",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The Bank of England kept its key interest rate unchanged at 3.75%, warning that ongoing Middle East tensions could sustain inflation pressures and affect the UK economic outlook.#BankOfEngland#InterestRates#Inflation#UKEconomy#PakistanTV",
-    "translated_text": "英国央行将关键利率维持在 3.75% 不变，警告中东持续紧张局势可能会持续通胀压力并影响英国经济前景。#BankOfEngland#InterestRates#Inflation#UKEconomy#PakistanTV",
-    "images": [
-      "ef727948c8cb1c35.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-499489731482032685",
-    "timestamp": "2026-04-30T17:23:17.272949+00:00",
-    "original_time": "2026-04-30T12:20:47+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-4647722578932689795",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Italy has called for the immediate release of its citizens detained after Israeli forces intercepted the Global Sumud Flotilla in international waters, urging their prompt return and condemning the seizure amid rising diplomatic tensions.#Italy#GazaFlotilla#Israel",
-    "translated_text": "意大利呼吁立即释放以色列军队在国际水域拦截全球苏姆德船队后被拘留的公民，敦促他们立即返回，并谴责在外交紧张局势升级之际扣押他们。#Italy#GazaFlotilla#Israel",
-    "images": [
-      "dbe20cde57513811.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-4647722578932689795",
-    "timestamp": "2026-04-30T17:23:18.879077+00:00",
-    "original_time": "2026-04-30T12:19:40+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-3673992637694225889",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "A US Federal jury convicted an Afghan man Mohammad Sharifullah — arrested by Pakistani authorities in 2025 — for his role in the 2021 suicide bombing at Kabul airport that killed at least 170 Afghans and 13 American troops@nailashuja#KabulAirportAttack#USCourt#TerrorismCase",
-    "translated_text": "美国联邦陪审团对一名阿富汗男子穆罕默德·沙里富拉 (Mohammad Sharifullah) 定罪，该男子于 2025 年被巴基斯坦当局逮捕，罪名是他参与了 2021 年喀布尔机场自杀式爆炸事件，该爆炸造成至少 170 名阿富汗人和 13 名美军死亡@nailashuja#KabulAirportAttack#USCourt#TerrorismCase",
-    "images": [
-      "b384fddd5044eef3.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-3673992637694225889",
-    "timestamp": "2026-04-30T17:23:20.414569+00:00",
-    "original_time": "2026-04-30T12:13:02+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-8534393346596070378",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Israel's army arrests hundreds of aid activists from Gaza-bound flotilla in international waters off Greece after Israeli naval forces intercept, board, and disable vessels of the Global Sumud Flotilla.@bangashfaheem#Gaza#Israel#Flotilla#HumanitarianAid#PakistanTV",
-    "translated_text": "在以色列海军拦截、登上并摧毁全球 Sumud 船队的船只后，以色列军队在希腊附近的国际水域逮捕了数百名前往加沙的船队的援助活动人士。@bangashfaheem#Gaza#Israel#Flotilla#HumanarianAid#PakistanTV",
-    "images": [
-      "7bcf7fe4c5d0eacd.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-8534393346596070378",
-    "timestamp": "2026-04-30T17:23:20.702741+00:00",
-    "original_time": "2026-04-30T11:05:22+00:00"
-  },
-  {
-    "id": "tweet_araghchi_-7186946195558849027",
+    "id": "tweet_araghchi_3424718658989461082",
     "type": "tweet",
     "username": "araghchi",
     "text": "Today is Persian Gulf Day in Iran, marking our ancestors' expulsion of Portuguese from Strait of Hormuz 400 years ago.\n\nPOTUS uses the correct term “Persian Gulf\", not the Pentagon’s fake version. But calling Hormuz anything else is indeed a \"terrible mistake\".",
@@ -369,12 +363,12 @@
     "images": [
       "e3a84ca30d342c6b.jpg"
     ],
-    "url": "https://x.com/araghchi/status/-7186946195558849027",
-    "timestamp": "2026-04-30T17:23:58.069352+00:00",
+    "url": "https://x.com/araghchi/status/3424718658989461082",
+    "timestamp": "2026-04-30T19:23:34.952754+00:00",
     "original_time": "2026-04-30T12:11:34+00:00"
   },
   {
-    "id": "tweet_IRIMFA_SPOX_7596684868504988283",
+    "id": "tweet_IRIMFA_SPOX_5884783193807321606",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "May 10th, National#PersianGulfDay,\n\nA day to recall a truth that neither changes with media clamor nor fades with political games.\n\nIn today's tense times in the region, the stability and security of this body of water only gain meaning through respect for the will of the",
@@ -382,12 +376,12 @@
     "images": [
       "0be77393157006ac.jpg"
     ],
-    "url": "https://x.com/IRIMFA_SPOX/status/7596684868504988283",
-    "timestamp": "2026-04-30T17:24:13.542297+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/5884783193807321606",
+    "timestamp": "2026-04-30T19:23:49.519393+00:00",
     "original_time": "2026-04-30T13:11:08+00:00"
   },
   {
-    "id": "tweet_IRIMFA_-2342776989271735033",
+    "id": "tweet_IRIMFA_9140969223168852647",
     "type": "tweet",
     "username": "IRIMFA",
     "text": "Today in Iran is National Persian Gulf Day; which commemorates the expulsion of the Portuguese from the Strait of Hormuz by our ancestors about 400 years ago.\n\nThe President of the United States uses the correct name \"Persian Gulf,\" not the Pentagon's fake term! But using any",
@@ -396,487 +390,99 @@
       "e3a84ca30d342c6b.jpg",
       "5598c47ccc5bab32.jpg"
     ],
-    "url": "https://x.com/IRIMFA/status/-2342776989271735033",
-    "timestamp": "2026-04-30T17:24:14.728358+00:00",
+    "url": "https://x.com/IRIMFA/status/9140969223168852647",
+    "timestamp": "2026-04-30T19:23:49.972645+00:00",
     "original_time": "2026-04-30T12:50:49+00:00"
   },
   {
-    "id": "tweet_Rahbarenghelab__3009372153868339620",
+    "id": "tweet_Rahbarenghelab__1906700289694258392",
     "type": "tweet",
     "username": "Rahbarenghelab_",
     "text": "One hundred million proud and noble Iranian compatriots, inside and outside the country, will regard all their national identity capacities—spiritual, human, scientific, industrial, and foundational and cutting-edge technologies—from nano and bio to nuclear and missile—as their",
     "translated_text": "一亿自豪而高贵的伊朗同胞，无论国内外，都将把他们所有的国家认同能力——精神、人类、科学、工业以及从纳米和生物到核和导弹的基础和尖端技术——视为他们的国家认同能力。",
     "images": [],
-    "url": "https://x.com/Rahbarenghelab_/status/3009372153868339620",
-    "timestamp": "2026-04-30T17:24:15.788756+00:00",
+    "url": "https://x.com/Rahbarenghelab_/status/1906700289694258392",
+    "timestamp": "2026-04-30T19:23:50.552986+00:00",
     "original_time": "2026-04-30T11:21:01+00:00"
   },
   {
-    "id": "tweet_Rahbarenghelab__-2789500889470088203",
+    "id": "tweet_Rahbarenghelab__-9075495221229538483",
     "type": "tweet",
     "username": "Rahbarenghelab_",
     "text": "Those aliens who, from thousands of kilometers away, greedily sow mischief in that [expanse of the blue waters of the Persian Gulf and the Sea of Oman], have no place there except in the depths of its waters.",
     "translated_text": "那些从数千公里之外贪婪地在那儿（波斯湾和阿曼海的蔚蓝海水）中制造祸害的外星人，除了在其水域深处之外，没有任何容身之地。",
     "images": [],
-    "url": "https://x.com/Rahbarenghelab_/status/-2789500889470088203",
-    "timestamp": "2026-04-30T17:24:16.906379+00:00",
+    "url": "https://x.com/Rahbarenghelab_/status/-9075495221229538483",
+    "timestamp": "2026-04-30T19:23:50.875562+00:00",
     "original_time": "2026-04-30T11:06:03+00:00"
   },
   {
-    "id": "tweet_Rahbarenghelab__-6759044573347766639",
+    "id": "tweet_Rahbarenghelab__-5213592195236280524",
     "type": "tweet",
     "username": "Rahbarenghelab_",
     "text": "We are \"fellow-destined\" with our neighbors in the waters of the Persian Gulf and the Sea of Oman.",
     "translated_text": "我们与波斯湾、阿曼海海域邻国“有缘”。",
     "images": [],
-    "url": "https://x.com/Rahbarenghelab_/status/-6759044573347766639",
-    "timestamp": "2026-04-30T17:24:17.307944+00:00",
+    "url": "https://x.com/Rahbarenghelab_/status/-5213592195236280524",
+    "timestamp": "2026-04-30T19:23:51.083820+00:00",
     "original_time": "2026-04-30T11:03:26+00:00"
   },
   {
-    "id": "tweet_Rahbarenghelab__2029713921538103444",
+    "id": "tweet_Rahbarenghelab__2657980654515502259",
     "type": "tweet",
     "username": "Rahbarenghelab_",
     "text": "By the grace and power of God, the bright future of the#Persian_Gulfregion will be one without America, serving the progress, comfort, and welfare of its nations.",
     "translated_text": "靠着上帝的恩典和力量，#波斯湾地区的光明未来将是一个没有美国的国家，为各国人民的进步、舒适和福祉服务。",
     "images": [],
-    "url": "https://x.com/Rahbarenghelab_/status/2029713921538103444",
-    "timestamp": "2026-04-30T17:24:17.885828+00:00",
+    "url": "https://x.com/Rahbarenghelab_/status/2657980654515502259",
+    "timestamp": "2026-04-30T19:23:51.595364+00:00",
     "original_time": "2026-04-30T11:01:00+00:00"
   },
   {
-    "id": "tweet_Rahbarenghelab__5995333448815737029",
+    "id": "tweet_Rahbarenghelab__-341862749145978151",
     "type": "tweet",
     "username": "Rahbarenghelab_",
     "text": "The presence of American aliens and their nesting in the lands of the Persian Gulf is the most important factor of insecurity in the region, and America's illusory bases lack even the ability to ensure their own security, let alone any hope that America could provide security for",
     "translated_text": "美国外星人的存在及其在波斯湾土地上的筑巢，是该地区最重要的不安全因素，而美国虚幻的基地连保障自身安全的能力都没有，更别说指望美国能为该地区提供安全了。",
     "images": [],
-    "url": "https://x.com/Rahbarenghelab_/status/5995333448815737029",
-    "timestamp": "2026-04-30T17:24:18.862543+00:00",
+    "url": "https://x.com/Rahbarenghelab_/status/-341862749145978151",
+    "timestamp": "2026-04-30T19:23:52.314399+00:00",
     "original_time": "2026-04-30T10:58:56+00:00"
   },
   {
-    "id": "tweet_mb_ghalibaf_-8061485524861785983",
+    "id": "tweet_mb_ghalibaf_161727635149622357",
+    "type": "tweet",
+    "username": "mb_ghalibaf",
+    "text": "If you build two walls, one from NYC to the West Coast and another from LA to the East Coast, the total length will be 7,755 km, which is still about 1,000 km short of Iran’s total borders. Good luck blockading a country with those bordersP.S. For Pete Hegseth: 1 km = 0.62 mi",
+    "translated_text": "如果修建两堵墙，一堵从纽约到西海岸，另一堵从洛杉矶到东海岸，总长度将是 7,755 公里，比伊朗的总边界还短约 1,000 公里。祝你封锁一个有这些边界的国家好运皮特·赫格斯 (Pete Hegseth)：1 公里 = 0.62 英里",
+    "images": [
+      "f375a10dae2b0f6f.svg",
+      "2ddecc406cdf4119.jpg"
+    ],
+    "url": "https://x.com/mb_ghalibaf/status/161727635149622357",
+    "timestamp": "2026-04-30T19:24:10.918665+00:00",
+    "original_time": "2026-04-30T18:17:32+00:00"
+  },
+  {
+    "id": "tweet_mb_ghalibaf_4770885236705200959",
     "type": "tweet",
     "username": "mb_ghalibaf",
     "text": "In the year 1622 AD, after 115 years of occupation, we expelled the European colonizers from the Persian Gulf, and we celebrate Persian Gulf Day in honor of this victory.\n\nToday as well, Iran, by exercising control over the Strait of Hormuz, will ensure that it and its neighbors",
     "translated_text": "公元1622年，经过115年的占领，我们将欧洲殖民者驱逐出波斯湾，我们庆祝波斯湾日以纪念这一胜利。\n\n今天，伊朗通过对霍尔木兹海峡实施控制，将确保其及其邻国",
     "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/-8061485524861785983",
-    "timestamp": "2026-04-30T17:24:37.497658+00:00",
+    "url": "https://x.com/mb_ghalibaf/status/4770885236705200959",
+    "timestamp": "2026-04-30T19:24:11.467296+00:00",
     "original_time": "2026-04-30T12:46:03+00:00"
   },
   {
-    "id": "tweet_AJENews_0",
+    "id": "tweet_KellieMeyerNews_-8206642872245044448",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "8b5c60c7d8380a91.jpg",
-      "9b20f961c2ada6de.svg"
-    ],
-    "url": "https://x.com/AJENews/status/0",
-    "timestamp": "2026-04-30T17:24:53.782427+00:00",
-    "original_time": "2026-04-30T06:07:47+00:00"
-  },
-  {
-    "id": "tweet_AJENews_2409810227099949322",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: The UK has raised its national terrorism threat level to “severe” following a stabbing in London, meaning an attack is considered highly likely, Reuters reports.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：据路透社报道，在伦敦发生刺伤事件后，英国已将国家恐怖主义威胁级别提升至“严重”，这意味着袭击极有可能发生。更多信息请访问http://aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "43fb326bb9986ec6.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/2409810227099949322",
-    "timestamp": "2026-04-30T17:24:55.124477+00:00",
-    "original_time": "2026-04-30T17:13:20+00:00"
-  },
-  {
-    "id": "tweet_AJENews_4709683867357491777",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israeli attack kills six in Lebanon's Zebdin: Lebanese mediaLIVE updates:https://aje.news/txlhaf?update=4535323…",
-    "translated_text": "突发事件：以色列袭击黎巴嫩泽布丁，造成六人死亡：黎巴嫩媒体实时更新：https://aje.news/txlhaf?update=4535323…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "eecf30e1f761c183.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/4709683867357491777",
-    "timestamp": "2026-04-30T17:24:55.655599+00:00",
-    "original_time": "2026-04-30T17:10:25+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-2215380370457103853",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Hezbollah deploys fibre-optic drones to evade Israeli air defencesLIVE updates:https://aje.news/txlhaf?update=4535195…",
-    "translated_text": "更新：真主党部署光纤无人机来躲避以色列防空系统实时更新：https://aje.news/txlhaf?update=4535195…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "73d886a2ad616588.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-2215380370457103853",
-    "timestamp": "2026-04-30T17:24:56.922403+00:00",
-    "original_time": "2026-04-30T17:00:34+00:00"
-  },
-  {
-    "id": "tweet_AJENews_3140971760073972023",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israeli military claims to down 'suspicious aerial target'LIVE updates:https://aje.news/txlhaf?update=4535315…",
-    "translated_text": "突发：以色列军方声称击落“可疑空中目标”实时更新：https://aje.news/txlhaf?update=4535315…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "6b3405aff1a90b52.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/3140971760073972023",
-    "timestamp": "2026-04-30T17:24:58.149812+00:00",
-    "original_time": "2026-04-30T16:59:28+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-7700172407190844943",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: At least 2,586 people have been killed and 8,020 wounded by Israeli attacks across Lebanon since the resumption of hostilities on March 2LIVE updates:https://aje.news/txlhaf?update=4535019…",
-    "translated_text": "突发新闻：自 3 月 2 日敌对行动恢复以来，以色列在黎巴嫩各地发动的袭击已造成至少 2,586 人死亡、8,020 人受伤实时更新：https://aje.news/txlhaf?update=4535019…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "0b15cf05c845ed03.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-7700172407190844943",
-    "timestamp": "2026-04-30T17:25:01.736799+00:00",
-    "original_time": "2026-04-30T14:01:16+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-8190779450380973610",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Russia’s Deputy PM Alexander Novak says it could take several months for the global oil market to stabilise, reports Russian media.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：据俄罗斯媒体报道，俄罗斯副总理亚历山大·诺瓦克表示，全球石油市场可能需要几个月的时间才能稳定下来。更多信息请访问 http://aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "ec4ba005bd77c9b8.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-8190779450380973610",
-    "timestamp": "2026-04-30T17:25:02.856646+00:00",
-    "original_time": "2026-04-30T13:54:52+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-7015573943974569193",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israeli strike kills at least three in northern GazaLIVE updates:https://aje.news/txlhaf?update=4534933…",
-    "translated_text": "突发新闻：以色列袭击导致加沙北部至少三人死亡实时更新：https://aje.news/txlhaf?update=4534933…",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/-7015573943974569193",
-    "timestamp": "2026-04-30T17:25:03.548425+00:00",
-    "original_time": "2026-04-30T13:20:04+00:00"
-  },
-  {
-    "id": "tweet_AJENews_4867441467364257211",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Lebanon facing 'severe' food insecurity as conflict continues: WFPLIVE updates:https://aje.news/txlhaf?update=4534789…",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "7f1a451786c84548.svg",
-      "94eac0ce2f8cb489.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/4867441467364257211",
-    "timestamp": "2026-04-30T17:25:04.500138+00:00",
-    "original_time": "2026-04-30T13:15:31+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-5169016829792743191",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Israeli army says interceptors launched during three incidents in southern LebanonLIVE updates:https://aje.news/txlhaf?update=4534764…",
-    "translated_text": "更新：以色列军队表示，在黎巴嫩南部的三起事件中发射了拦截弹实时更新：https://aje.news/txlhaf?update=4534764…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "13a7a9ba775427e8.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-5169016829792743191",
-    "timestamp": "2026-04-30T17:25:05.723302+00:00",
-    "original_time": "2026-04-30T12:32:33+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-3364543647800446921",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Hezbollah claims attack on Israeli tanks in Bint Jbeil cityLIVE updates:https://aje.news/txlhaf?update=4534646…",
-    "translated_text": "更新：真主党声称在 Bint Jbeil 市袭击以色列坦克实时更新：https://aje.news/txlhaf?update=4534646…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "8e370637639f185e.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-3364543647800446921",
-    "timestamp": "2026-04-30T17:25:07.922196+00:00",
-    "original_time": "2026-04-30T12:30:21+00:00"
-  },
-  {
-    "id": "tweet_AJENews_4328391277799365198",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Italy condemns flotilla interception by Israel, seeks 'immediate' release of citizensLIVE updates:https://aje.news/txlhaf?update=4534707…",
-    "translated_text": "更新：意大利谴责以色列拦截船队，寻求“立即”释放公民实时更新：https://aje.news/txlhaf?update=4534707…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "9ba68f581676e869.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/4328391277799365198",
-    "timestamp": "2026-04-30T17:25:08.865554+00:00",
-    "original_time": "2026-04-30T12:15:45+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-5713961997077317649",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Lebanon's president calls on Israel to stop attacks on civilians, paramedicsLIVE updates:https://aje.news/txlhaf?update=4534499…",
-    "translated_text": "更新：黎巴嫩总统呼吁以色列停止对平民和护理人员的袭击实时更新：https://aje.news/txlhaf?update=4534499…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "59281cceaaf93a07.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-5713961997077317649",
-    "timestamp": "2026-04-30T17:25:10.263615+00:00",
-    "original_time": "2026-04-30T12:15:18+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_1611394592083084130",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "BREAKING: The House approves a Senate bill to fund the Department of Homeland Security, signaling an end to the shutdown.",
-    "translated_text": "突发新闻：众议院批准了一项参议院法案，为国土安全部提供资金，标志着政府关闭的结束。",
-    "images": [
-      "5d5c6ba276c38fa2.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1611394592083084130",
-    "timestamp": "2026-04-30T17:26:55.813101+00:00",
-    "original_time": "2026-04-30T17:18:07+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-8405939713304890250",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A protester interrupted Defense Secretary Pete Hegseth’s testimony on Thursday, calling him a “war criminal” and that “the American people do not want to go into this war” before being escorted out of the hearing room by security.",
-    "translated_text": "周四，一名抗议者打断了国防部长皮特·赫格斯的证词，称他为“战争罪犯”，并称“美国人民不想卷入这场战争”，然后被保安护送出听证室。",
-    "images": [
-      "57ae1439e6c2865b.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8405939713304890250",
-    "timestamp": "2026-04-30T17:26:57.217679+00:00",
-    "original_time": "2026-04-30T17:00:42+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-1049421302435065244",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Mexico is seeking \"irrefutable evidence\" to back up U.S. drug trafficking charges against a state governor and other officials before proceeding with extradition requests, President Claudia Sheinbaum said Thursday.",
-    "translated_text": "墨西哥总统克劳迪娅·谢因鲍姆周四表示，墨西哥正在寻求“无可辩驳的证据”来支持美国对州长和其他官员的贩毒指控，然后再提出引渡请求。",
-    "images": [
-      "3ad73309f1676acc.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-1049421302435065244",
-    "timestamp": "2026-04-30T17:26:57.493763+00:00",
-    "original_time": "2026-04-30T17:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-8947266724632411742",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Three masked people dressed in black executed a brazen daylight smash-and-grab at a Connecticut Kay jewelry store on April 24.\n\nOfficers said the suspects used a hammer during the break-in before fleeing in a black Hyundai Elantra with dark-tinted windows and no license plates.",
-    "translated_text": "4 月 24 日，三名蒙面黑衣人在光天化日之下在康涅狄格州凯珠宝店实施了一场明目张胆的砸抢事件。\n\n警方表示，犯罪嫌疑人在闯入时使用了锤子，然后驾驶一辆黑色现代伊兰特逃跑，该车的车窗颜色为深色，没有车牌。",
-    "images": [
-      "f1d0335b371d1831.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8947266724632411742",
-    "timestamp": "2026-04-30T17:26:58.973735+00:00",
-    "original_time": "2026-04-30T16:46:15+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-4436886684684604381",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A major fire broke out earlier this week on the USS Higgins, a guided-missile destroyer and a mainstay of the Navy's forward presence in Asia, according to U.S. officials.",
-    "translated_text": "据美国官员称，本周早些时候，美国海军在亚洲前沿部署的中流砥柱希金斯号导弹驱逐舰发生重大火灾。",
-    "images": [
-      "8d5f59c42411e9ec.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-4436886684684604381",
-    "timestamp": "2026-04-30T17:27:00.169611+00:00",
-    "original_time": "2026-04-30T16:35:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_5039032233481738959",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "GDP rose at 2% annual rate in first quarter as U.S. economy rebounds.",
-    "translated_text": "随着美国经济反弹，第一季度GDP按年率增长2%。",
-    "images": [
-      "a44c0b71a69cda21.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/5039032233481738959",
-    "timestamp": "2026-04-30T17:27:02.768621+00:00",
-    "original_time": "2026-04-30T14:35:41+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2619318874611971525",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Oil prices hit wartime peak, pushing U.S. gas costs to highest since level July 2022.",
-    "translated_text": "油价触及战时峰值，导致美国天然气成本升至 2022 年 7 月以来的最高水平。",
-    "images": [
-      "3c74cd3b7cba733f.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/2619318874611971525",
-    "timestamp": "2026-04-30T17:27:04.549395+00:00",
-    "original_time": "2026-04-30T13:38:32+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-8865610770109983896",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Orleans Parish Sheriff Susan Hutson was indicted on 30 felony counts after a probe into one of the largest jailbreaks in U.S. history, which occurred under her watch.",
-    "translated_text": "奥尔良教区警长苏珊·赫特森 (Susan Hutson) 在对她监督下发生的美国历史上规模最大的越狱事件之一进行调查后，被指控 30 项重罪。",
-    "images": [
-      "f3c05b8a6c5c90b1.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8865610770109983896",
-    "timestamp": "2026-04-30T17:27:05.385554+00:00",
-    "original_time": "2026-04-30T13:37:57+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-2720140140087895510",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Activists trying to break Israel's maritime blockade of Gaza said Thursday that Israeli forces intercepted 22 vessels of their flotilla near the Greek island of Crete and detained their crews.",
-    "translated_text": "试图打破以色列对加沙海上封锁的活动人士周四表示，以色列军队在希腊克里特岛附近拦截了其船队的 22 艘船只，并拘留了船员。",
-    "images": [
-      "c6d9f87af7a43562.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-2720140140087895510",
-    "timestamp": "2026-04-30T17:27:06.263045+00:00",
-    "original_time": "2026-04-30T13:37:11+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_4620926646418730916",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "David Allan Coe, country singer who wrote \"Take This Job and Shove It,\" dies at age 86.",
-    "translated_text": "创作《Take This Job and Shove It》的乡村歌手大卫·艾伦·科 (David Allan Coe) 去世，享年 86 岁。",
-    "images": [
-      "d528dc722df12b22.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/4620926646418730916",
-    "timestamp": "2026-04-30T17:27:07.544474+00:00",
-    "original_time": "2026-04-30T13:35:25+00:00"
-  },
-  {
-    "id": "tweet_margbrennan_-7428653283847905787",
-    "type": "tweet",
-    "username": "margbrennan",
-    "text": "The first direct commercial flight in years between the US and Venezuela is about to take off from Miami this morning. American is the operator. WH's National Energy Dominance Council's Jarrod Agen is onboard as is Venezuela's Ambassador to the US Felix Plascencia, two officials",
-    "translated_text": "多年来美国和委内瑞拉之间的第一趟直飞商业航班将于今天早上从迈阿密起飞。运营商是美国人。白宫国家能源主导委员会的贾罗德·阿根 (Jarrod Agen) 以及委内瑞拉驻美国大使费利克斯·普拉森西亚 (Felix Plascencia) 和两名官员也在船上",
+    "username": "KellieMeyerNews",
+    "text": "POTUS on with@gretaat 4pm Et",
+    "translated_text": "美国总统@gretaat 下午 4 点（东部时间）",
     "images": [],
-    "url": "https://x.com/margbrennan/status/-7428653283847905787",
-    "timestamp": "2026-04-30T17:27:08.660725+00:00",
-    "original_time": "2026-04-30T13:30:29+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-1894461741798390030",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "The British government has pledged about $34 million to combat what one cabinet member is calling an antisemitism emergency facing the U.K., a day after two Jewish men were stabbed in broad daylight in north London in an incident being investigated as terrorism.",
-    "translated_text": "英国政府承诺提供约3400万美元，以应对一名内阁成员所说的英国面临的反犹太主义紧急情况，一天前，两名犹太男子在伦敦北部光天化日之下被刺伤，该事件正在被作为恐怖主义进行调查。",
-    "images": [
-      "6f857806a41dda81.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-1894461741798390030",
-    "timestamp": "2026-04-30T17:27:08.938557+00:00",
-    "original_time": "2026-04-30T13:20:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_7726093520456866510",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "The backlash was immediate after the Trump administration served notice that hospitals and nursing homes should limit sugary drinks and dietary supplements in favor of what HHS terms \"real food.\"",
-    "translated_text": "在特朗普政府发出通知，要求医院和疗养院应限制含糖饮料和膳食补充剂，转而使用美国卫生与公众服务部所说的“真正的食物”后，立即遭到强烈反对。",
-    "images": [
-      "13874099450d9f67.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/7726093520456866510",
-    "timestamp": "2026-04-30T17:27:09.629322+00:00",
-    "original_time": "2026-04-30T13:00:00+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-44601453856049094",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "Scoop via@CBSNews: A major fire broke out this week on the USS Higgins, a guided-missile destroyer, sources told@JimLaPortaand me. \nThe fire knocked out electricity and propulsion on the destroyer, a mainstay of the Navy’s forward presence in Asia.\nDetails of how the fire",
-    "translated_text": "来自 @CBSNews 的独家报道：消息人士告诉 @JimLaPorta 和我，本周希金斯号导弹驱逐舰发生了一场大火。 \n这场火灾摧毁了这艘驱逐舰的电力和推进系统，这艘驱逐舰是美国海军在亚洲前沿存在的中流砥柱。\n详细了解火灾情况",
-    "images": [
-      "8d5f59c42411e9ec.jpg"
-    ],
-    "url": "https://x.com/JenniferJJacobs/status/-44601453856049094",
-    "timestamp": "2026-04-30T17:27:39.614763+00:00",
-    "original_time": "2026-04-30T16:22:44+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_937035715583362001",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "\"Mindful of the hearing room we're in, but there's definitely some action there,\" Dan Caine, chairman of the Joint Chiefs, said at Senate hearing when asked if there's no question that Putin's Russia is taking serious action to undermine US efforts for success in Iran.",
-    "translated_text": "参谋长联席会议主席丹·凯恩在参议院听证会上被问及普京领导下的俄罗斯是否正在采取严肃行动破坏美国在伊朗取得成功的努力时表示，“要注意我们所在的听证室，但那里肯定会采取一些行动。”",
-    "images": [],
-    "url": "https://x.com/JenniferJJacobs/status/937035715583362001",
-    "timestamp": "2026-04-30T17:27:40.262473+00:00",
-    "original_time": "2026-04-30T16:11:55+00:00"
-  },
-  {
-    "id": "tweet_meredithllee_-2704897637525339775",
-    "type": "tweet",
-    "username": "meredithllee",
-    "text": "NEW — Mike Johnson backs Louisiana election delay, urges other states to redraw maps \n\nThe exact timing of the rescheduled elections is “not my decision,” Johnson added, but said “the way it was typically done” was to hold an all-party “jungle” primary in November, with a runoff",
-    "translated_text": "新消息——迈克·约翰逊支持路易斯安那州推迟选举，敦促其他州重新绘制地图 \n\n约翰逊补充说，重新安排选举的确切时间“不是我的决定”，但他表示“通常的做法”是在 11 月举行全党派“丛林”初选，并进行决选",
-    "images": [
-      "92867d9f56e04172.jpg"
-    ],
-    "url": "https://x.com/meredithllee/status/-2704897637525339775",
-    "timestamp": "2026-04-30T17:27:41.597583+00:00",
-    "original_time": "2026-04-30T14:42:57+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-2034010767595337132",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "\"Great people. We need more people like that in our country,\" Trump says King Charles and Queen Camilla as the royals leave the White House",
-    "translated_text": "当王室成员离开白宫时，特朗普说道：“伟大的人。我们的国家需要更多这样的人。”",
-    "images": [
-      "357728feb865f097.jpg",
-      "01506c6be7093462.jpg",
-      "9de4b283a0cd896c.jpg"
-    ],
-    "url": "https://x.com/JenniferJJacobs/status/-2034010767595337132",
-    "timestamp": "2026-04-30T17:27:43.134152+00:00",
-    "original_time": "2026-04-30T15:04:30+00:00"
-  },
-  {
-    "id": "tweet_CBSMornings_-9146526612194541469",
-    "type": "tweet",
-    "username": "CBSMornings",
-    "text": "“It seems like a horror movie, but it's actually happening. It's almost unbelievable”: The U.S. Coast Guard is running out of money, Commandant Admiral Kevin Lunday, told@nicolesganga, and he said this is forcing some service members to go into personal debt in order to report",
-    "translated_text": "“这看起来像一部恐怖电影，但它确实正在发生。这几乎令人难以置信”：美国海岸警卫队司令凯文·伦迪告诉@nicolesganga，美国海岸警卫队的钱快用完了，他说这迫使一些军人背负个人债务才能报告",
-    "images": [
-      "6db88e4245afcde2.jpg"
-    ],
-    "url": "https://x.com/CBSMornings/status/-9146526612194541469",
-    "timestamp": "2026-04-30T17:27:43.790788+00:00",
-    "original_time": "2026-04-30T12:20:27+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/-8206642872245044448",
+    "timestamp": "2026-04-30T19:26:13.487081+00:00",
+    "original_time": "2026-04-30T19:15:04+00:00"
   }
 ]
