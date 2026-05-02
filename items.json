@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_5880088807170765764",
+    "id": "tweet_ForeignOfficePk_4783407715043188865",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Statement by the Spokesperson",
@@ -16,12 +16,12 @@
       "1d7695f51048fca1.svg",
       "80e19ff379f71242.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/5880088807170765764",
-    "timestamp": "2026-05-02T16:46:31.414676+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/4783407715043188865",
+    "timestamp": "2026-05-02T17:43:46.610560+00:00",
     "original_time": "2026-05-02T09:59:02+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_606591899363767383",
+    "id": "tweet_ForeignOfficePk_-9009758963918425106",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "DPM/ FM Senator Mohammad Ishaq Dar@MIshaqDar50spoke today with the Foreign Minister of Kuwait, Sheikh Jarrah Jaber Al-Ahmad Al-Sabah.\n\nThe two leaders discussed the evolving regional situation and exchanged views on its wider economic implications. \n\nDPM/FM underscored",
@@ -29,8 +29,8 @@
     "images": [
       "4200a83e29d2a240.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/606591899363767383",
-    "timestamp": "2026-05-02T16:46:31.901138+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-9009758963918425106",
+    "timestamp": "2026-05-02T17:43:46.807681+00:00",
     "original_time": "2026-05-02T08:21:45+00:00"
   },
   {
@@ -43,33 +43,22 @@
       "d581823b5086a0fc.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-05-02T16:46:46.722971+00:00",
+    "timestamp": "2026-05-02T17:44:01.032104+00:00",
     "original_time": "2026-05-02T14:58:22+00:00"
   },
   {
-    "id": "tweet_CMShehbaz_-729086697270725281",
-    "type": "tweet",
-    "username": "CMShehbaz",
-    "text": "I congratulate my brother H.E. Mr. Ali al-Zaidi on his appointment as Prime Minister of Iraq. I extend my warm wishes to him as he assumes this important responsibility. \n\nPakistan looks forward to working closely with the new Iraqi government to further strengthen our bilateral",
-    "translated_text": "我祝贺我的兄弟 H.E.阿里·扎伊迪先生就任伊拉克总理。在他承担这一重要职责时，我向他致以热烈的祝愿。 \n\n巴基斯坦期待与伊拉克新政府密切合作，进一步加强我们的双边关系",
-    "images": [],
-    "url": "https://x.com/CMShehbaz/status/-729086697270725281",
-    "timestamp": "2026-05-02T16:47:02.650506+00:00",
-    "original_time": "2026-05-02T05:22:31+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_4092495356521984753",
+    "id": "tweet_PakPMO_663284231101492056",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Lahore: May 2, 2026.\n\nA meeting was held between Prime Minister Muhammad Shehbaz Sharif and Interior Minister Syed Mohsin Raza Naqvi. The Interior Minister briefed the Prime Minister on the security situation in the country and the measures taken to maintain peace and order in",
     "translated_text": "拉合尔：2026 年 5 月 2 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫和内政部长赛义德·穆赫辛·拉扎·纳克维举行了会议。内政部长向总理介绍了该国的安全局势以及为维护和平与秩序所采取的措施",
     "images": [],
-    "url": "https://x.com/PakPMO/status/4092495356521984753",
-    "timestamp": "2026-05-02T16:47:20.233441+00:00",
+    "url": "https://x.com/PakPMO/status/663284231101492056",
+    "timestamp": "2026-05-02T17:44:31.894968+00:00",
     "original_time": "2026-05-02T15:57:28+00:00"
   },
   {
-    "id": "tweet_PakPMO_5685028237391690118",
+    "id": "tweet_PakPMO_3914612043241726003",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Lahore: May 2, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif chaired a meeting regarding reforms in the energy sector.\n\nSpeaking at the meeting, the Prime Minister said that measures should be taken to provide facilities for industrial and domestic electricity consumers.\n\nThe",
@@ -77,12 +66,25 @@
     "images": [
       "d2561da1aaff9eee.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/5685028237391690118",
-    "timestamp": "2026-05-02T16:47:20.699076+00:00",
+    "url": "https://x.com/PakPMO/status/3914612043241726003",
+    "timestamp": "2026-05-02T17:44:32.407927+00:00",
     "original_time": "2026-05-02T14:20:06+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8242893063581913951",
+    "id": "tweet_PakTVGlobal_745289923960724069",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Spirit Airlines, based in the United States, has ceased operations, becoming the first major airline casualty linked to the Iran war, as soaring fuel costs and a failed government's bailout effort impact jobs and the aviation sector.#SpiritAirlines#UnitedStates",
+    "translated_text": "总部位于美国的精神航空公司已停止运营，成为第一家与伊朗战争有关的重大航空公司伤亡者，因为燃油成本飙升和政府救助努力失败影响了就业和航空业。#SpiritAirlines#UnitedStates",
+    "images": [
+      "9e5d35def801935b.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/745289923960724069",
+    "timestamp": "2026-05-02T17:45:06.798734+00:00",
+    "original_time": "2026-05-02T17:03:18+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-6629219235311737294",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Brigadier (R) Said Nazir criticizes the Afghan Taliban for anti-Pakistan terror activities, saying despite decades of support from Pakistan, commitments like the Doha Agreement are being violated, Afghan soil is used against the neighbours of Afghanistan.@nailashuja",
@@ -90,12 +92,12 @@
     "images": [
       "ab600fcdc159f433.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8242893063581913951",
-    "timestamp": "2026-05-02T16:47:54.513966+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-6629219235311737294",
+    "timestamp": "2026-05-02T17:45:07.538211+00:00",
     "original_time": "2026-05-02T16:47:39+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3833490048064944432",
+    "id": "tweet_PakTVGlobal_-1669574312439030906",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Dr. Hassan Daud Butt, a senior analyst says China and Pakistan are emerging as key stabilizers. He  stresses the importance of keeping the Strait of Hormuz open while advancing economic security through the Belt and Road Initiative, with China focusing on economic resilience and",
@@ -103,12 +105,12 @@
     "images": [
       "33c7d7d6dcd9557f.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3833490048064944432",
-    "timestamp": "2026-05-02T16:47:56.427054+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-1669574312439030906",
+    "timestamp": "2026-05-02T17:45:07.924181+00:00",
     "original_time": "2026-05-02T16:30:48+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2390084588775993478",
+    "id": "tweet_PakTVGlobal_4463066083664716010",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Headlines 9PM | FO rejects UK remarks on Pak-Afghan situation | US approves billions in arms sales | Oil prices fall as Iran proposes new US talks | US President praises Pakistan’s role in diplomacy | Hormuz closure to dominate Xi-Trump talks.#PakistanAfghanistan#AfghanTaliban",
@@ -116,12 +118,12 @@
     "images": [
       "9ee69ceabd964d5f.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2390084588775993478",
-    "timestamp": "2026-05-02T16:47:57.422957+00:00",
+    "url": "https://x.com/PakTVGlobal/status/4463066083664716010",
+    "timestamp": "2026-05-02T17:45:08.461672+00:00",
     "original_time": "2026-05-02T16:23:22+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2284028590741596605",
+    "id": "tweet_PakTVGlobal_6180249850001516954",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Political analyst, Ather H Tirmizi says Pakistan played a pivotal diplomatic role during a critical global crisis, emerging as a trusted mediator, helping sustain a fragile ceasefire and ease tensions through active engagement led by PM Shehbaz Sharif.@Mahnurqureshi",
@@ -129,25 +131,25 @@
     "images": [
       "ae09b39dea11e52c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2284028590741596605",
-    "timestamp": "2026-05-02T16:47:58.311634+00:00",
+    "url": "https://x.com/PakTVGlobal/status/6180249850001516954",
+    "timestamp": "2026-05-02T17:45:08.901614+00:00",
     "original_time": "2026-05-02T16:04:04+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2901111809074599333",
+    "id": "tweet_PakTVGlobal_-4542904186418116934",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Former ambassador Mian Sanaullah says Pakistan has proven itself a credible mediator between US and Iran with both sides expressing confidence in its role as a facilitator, helping build trust, maintain dialogue, and support regional engagement involving Iran and Russia.",
-    "translated_text": "前大使米安·萨纳乌拉表示，巴基斯坦已证明自己是美国和伊朗之间可靠的调解者，双方都对其作为调解者的角色表示信心，帮助建立信任、维持对话并支持涉及伊朗和俄罗斯的地区参与。",
+    "text": "The Ministry of Foreign Affairs reports that since Eid ul Fitr (March 26), cross-border shelling has resulted in 52 civilian martyrs and 84 injured, raising serious concerns over the targeting of non-combatants and escalating tensions along the border.#ForeignOffice",
+    "translated_text": "外交部报告称，自开斋节（3 月 26 日）以来，跨境炮击已造成 52 名平民殉难和 84 人受伤，引发了对针对非战斗人员的袭击以及边境紧张局势升级的严重担忧。#ForeignOffice",
     "images": [
-      "2e662ee063925836.jpg"
+      "cea925e43c2a0f67.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2901111809074599333",
-    "timestamp": "2026-05-02T16:47:59.469072+00:00",
-    "original_time": "2026-05-02T15:59:21+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-4542904186418116934",
+    "timestamp": "2026-05-02T17:45:11.174210+00:00",
+    "original_time": "2026-05-02T10:46:01+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6883728255728772948",
+    "id": "tweet_PakTVGlobal_2622686145081108717",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Muhammad Mohsin ,a USA cricketer ,says he was fortunate to represent Peshawar Zalmi in the 2020 Pakistan Super League, praising their strong setup and family-like culture. He noted the franchise has stayed in touch with him even after his time with the team.He also praised",
@@ -155,12 +157,12 @@
     "images": [
       "5092d106c8a5b5a3.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6883728255728772948",
-    "timestamp": "2026-05-02T16:48:02.947428+00:00",
+    "url": "https://x.com/PakTVGlobal/status/2622686145081108717",
+    "timestamp": "2026-05-02T17:45:11.347123+00:00",
     "original_time": "2026-05-02T10:45:11+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7049509405678592495",
+    "id": "tweet_PakTVGlobal_2644878500056066443",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Muhammad Mohsin praised Major League Cricket for boosting cricket in the country through strong investment and international expertise.He said playing with global stars is rapidly improving local players.He added that USA cricket is rising fast and will soon compete with top",
@@ -168,12 +170,12 @@
     "images": [
       "9a292e04f8102efa.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/7049509405678592495",
-    "timestamp": "2026-05-02T16:48:03.940772+00:00",
+    "url": "https://x.com/PakTVGlobal/status/2644878500056066443",
+    "timestamp": "2026-05-02T17:45:11.530202+00:00",
     "original_time": "2026-05-02T10:41:01+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3011333650001392232",
+    "id": "tweet_PakTVGlobal_5649835022561391893",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Pakistan takes notice of British Solicitors Regulation Authority’s remarks on developments along Pak-Afghan border. Foreign office says the remarks are one-sided and lack deeper understanding of the cross-border security challenges.#ForeignOffice#PakistanAfghanistanBorder",
@@ -184,12 +186,12 @@
       "84ea9fe28d1202d2.jpg",
       "e73b207634ec0dab.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3011333650001392232",
-    "timestamp": "2026-05-02T16:48:05.443060+00:00",
+    "url": "https://x.com/PakTVGlobal/status/5649835022561391893",
+    "timestamp": "2026-05-02T17:45:12.276342+00:00",
     "original_time": "2026-05-02T10:32:27+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1263499848831738444",
+    "id": "tweet_PakTVGlobal_1199218095087428194",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Afghan Taliban - supported Indian proxies attacks resulted in the martyrdom of 52 civilians and 84 injuried since Eid Ul Fitr: Foreign Office#ForeignOffice#BorderSecurity#CivilianCasualties#RegionalStability#CounterTerrorism#PakistanTV",
@@ -197,52 +199,12 @@
     "images": [
       "595a194f4fc297a5.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1263499848831738444",
-    "timestamp": "2026-05-02T16:48:06.640141+00:00",
+    "url": "https://x.com/PakTVGlobal/status/1199218095087428194",
+    "timestamp": "2026-05-02T17:45:12.877352+00:00",
     "original_time": "2026-05-02T10:27:18+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6745875224309011156",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The Ministry of Foreign Affairs reports that since Eid ul Fitr (March 26), cross-border shelling has resulted in 52 civilian martyrs and 84 injured, raising serious concerns over the targeting of non-combatants and escalating tensions along the border.#ForeignOffice",
-    "translated_text": "外交部报告称，自开斋节（3 月 26 日）以来，跨境炮击已造成 52 名平民殉难和 84 人受伤，引发了对针对非战斗人员的袭击以及边境紧张局势升级的严重担忧。#ForeignOffice",
-    "images": [
-      "6ee8d6919149210d.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6745875224309011156",
-    "timestamp": "2026-05-02T16:48:07.807578+00:00",
-    "original_time": "2026-05-02T10:26:24+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_8807758298371595553",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "ISPR and MoIB played a key role in countering misinformation and defeated India on the narrative front during Marka-e-Haq: Attaullah Tarar@TararAttaullah#AttaullahTarar#ISPR#MarkaeHaq#InformationWarfare#CounterMisinformation#PakistanTV",
-    "translated_text": "ISPR 和 MoIB 在反击错误信息方面发挥了关键作用，并在 Marka-e-Haq 期间在叙事战线上击败了印度：Attaullah Tarar@TararAttaullah#AttaullahTarar#ISPR#MarkaeHaq#InformationWarfare#CounterMisinformation#PakistanTV",
-    "images": [
-      "281ddff49394e29b.jpg",
-      "4005990f987fc1df.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8807758298371595553",
-    "timestamp": "2026-05-02T16:48:09.272738+00:00",
-    "original_time": "2026-05-02T09:50:06+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_8121564219960873131",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Pakistan is against terrorism in all its forms: MoIB Attaullah Tarar@TararAttaullah#AttaullahTarar#PakistanAgainstTerrorism#CounterTerrorism#PakistanTV",
-    "translated_text": "巴基斯坦反对一切形式的恐怖主义：MoIB Attaullah Tarar@TararAttaullah#AttaullahTarar#PakistanAgainstTerrorism#CounterTerrorism#PakistanTV",
-    "images": [
-      "f2ce9819e12fe1a0.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8121564219960873131",
-    "timestamp": "2026-05-02T16:48:11.544174+00:00",
-    "original_time": "2026-05-02T09:41:54+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_SPOX_-920667210933122411",
+    "id": "tweet_IRIMFA_SPOX_9171492896720902600",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "Minâbâ, my Minâb\n\nDaughters of the Seven Seas  \nWhy did you come to the Rose Planet?  \nHere, the Devil in the darkness  \n\nHas seized  \nYour silence and your fate.  \nThe night-worshipping Devil does not know  \nWith the first blade of sunlight  \n\nYou, with your thousand-torn body",
@@ -250,8 +212,8 @@
     "images": [
       "aa2ba973f3ab222b.jpg"
     ],
-    "url": "https://x.com/IRIMFA_SPOX/status/-920667210933122411",
-    "timestamp": "2026-05-02T16:49:05.781089+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/9171492896720902600",
+    "timestamp": "2026-05-02T17:46:04.002032+00:00",
     "original_time": "2026-05-02T11:24:31+00:00"
   },
   {
@@ -261,71 +223,124 @@
     "text": "",
     "translated_text": "",
     "images": [
-      "3753be409b3f5886.jpg",
+      "44711a755ecd5d98.jpg",
       "9b20f961c2ada6de.svg"
     ],
     "url": "https://x.com/AJENews/status/0",
-    "timestamp": "2026-05-02T16:49:35.241224+00:00",
+    "timestamp": "2026-05-02T17:46:35.388783+00:00",
     "original_time": "2026-05-02T06:51:34+00:00"
   },
   {
-    "id": "tweet_AJENews_2346268622689040942",
+    "id": "tweet_AJENews_6414196685601922479",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iraq could restore oil exports within a week once Hormuz crisis ends: Deputy oil ministerLIVE updates:https://aje.news/o4g2s6?update=4539338…",
-    "translated_text": "突发新闻：一旦霍尔木兹危机结束，伊拉克可能会在一周内恢复石油出口：副石油部长实时更新：https://aje.news/o4g2s6?update=4539338…",
+    "text": "BREAKING: Iran fully prepared to repel any aggression: MinisterLIVE updates:https://aje.news/o4g2s6?update=4539497…",
+    "translated_text": "突发新闻：伊朗已做好充分准备击退任何侵略：部长直播更新：https://aje.news/o4g2s6?update=4539497…",
     "images": [
       "7f1a451786c84548.svg",
-      "e3a3ebdcdeef7b1b.jpg"
+      "9440501bd432e605.jpg"
     ],
-    "url": "https://x.com/AJENews/status/2346268622689040942",
-    "timestamp": "2026-05-02T16:49:35.885368+00:00",
-    "original_time": "2026-05-02T16:45:23+00:00"
+    "url": "https://x.com/AJENews/status/6414196685601922479",
+    "timestamp": "2026-05-02T17:46:36.035153+00:00",
+    "original_time": "2026-05-02T17:41:42+00:00"
   },
   {
-    "id": "tweet_AJENews_-8981477819140607146",
+    "id": "tweet_AJENews_9094860977394435561",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Lebanese Army commander and US general in charge of 'ceasefire' hold Beirut meetingLIVE updates:https://aje.news/o4g2s6?update=4539368…",
-    "translated_text": "突发新闻：黎巴嫩陆军指挥官和负责“停火”的美国将军举行贝鲁特会议实时更新：https://aje.news/o4g2s6?update=4539368…",
+    "text": "BREAKING: Iran is fully prepared to repel any aggression, says senior officialLIVE updates:https://aje.news/o4g2s6?update=4539497…",
+    "translated_text": "突发新闻：高级官员表示，伊朗已做好充分准备击退任何侵略。实时更新：https://aje.news/o4g2s6?update=4539497…",
     "images": [
       "7f1a451786c84548.svg",
-      "4c8abe5b219909f1.jpg"
+      "35fe3e4307788e0e.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-8981477819140607146",
-    "timestamp": "2026-05-02T16:49:36.875821+00:00",
-    "original_time": "2026-05-02T16:26:35+00:00"
+    "url": "https://x.com/AJENews/status/9094860977394435561",
+    "timestamp": "2026-05-02T17:46:36.482218+00:00",
+    "original_time": "2026-05-02T17:15:42+00:00"
   },
   {
-    "id": "tweet_AJENews_-4045963916772100050",
+    "id": "tweet_AJENews_801863760756891333",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iranian Deputy Foreign Minister Ali Bagheri Kani said Tehran has presented Pakistan with a proposal to definitively end what it described as \"the war imposed on the country\".More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：伊朗副外长阿里·巴盖里·卡尼 (Ali Bagheri Kani) 表示，德黑兰已向巴基斯坦提出一项建议，以彻底结束其所谓的“强加给该国的战争”。更多信息请访问 http://aljazeera.com",
+    "text": "UPDATE: Prices surge, jobs disappear as war strains Iran's economy\n\nRead more:https://aje.news/gw5g2v",
+    "translated_text": "更新：战争给伊朗经济造成压力，物价飙升，就业岗位消失\n\n了解更多：https://aje.news/gw5g2v",
     "images": [
-      "7f1a451786c84548.svg",
-      "e3ea32dca89d59aa.jpg"
+      "9d0d83f2dde55c6c.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-4045963916772100050",
-    "timestamp": "2026-05-02T16:49:37.847623+00:00",
-    "original_time": "2026-05-02T16:20:54+00:00"
+    "url": "https://x.com/AJENews/status/801863760756891333",
+    "timestamp": "2026-05-02T17:46:36.994045+00:00",
+    "original_time": "2026-05-02T17:13:46+00:00"
   },
   {
-    "id": "tweet_AJENews_3917617904282747900",
+    "id": "tweet_AJENews_-4746063337441921373",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iran says the US is not complying with the nuclear non-proliferation treatyLIVE updates:https://aje.news/o4g2s6?update=4539272…",
-    "translated_text": "突发新闻：伊朗称美国不遵守核不扩散条约实时更新：https://aje.news/o4g2s6?update=4539272…",
+    "text": "UPDATE: Yemen reports hijacked oil tanker headed for Somalia\n\nRead more:https://aje.news/mx206e",
+    "translated_text": "最新消息：也门报告被劫持的油轮驶往索马里\n\n了解更多：https://aje.news/mx206e",
     "images": [
-      "7f1a451786c84548.svg",
-      "ba2e596ca14dfd93.jpg"
+      "959202c691b7c0aa.jpg"
     ],
-    "url": "https://x.com/AJENews/status/3917617904282747900",
-    "timestamp": "2026-05-02T16:49:38.496818+00:00",
-    "original_time": "2026-05-02T16:15:24+00:00"
+    "url": "https://x.com/AJENews/status/-4746063337441921373",
+    "timestamp": "2026-05-02T17:46:37.614092+00:00",
+    "original_time": "2026-05-02T17:13:15+00:00"
   },
   {
-    "id": "tweet_AJENews_1244666729317478555",
+    "id": "tweet_AJENews_687719229461055757",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Qatar Airways to resume flights to Iraq starting May 10LIVE updates:https://aje.news/o4g2s6?update=4538912…",
+    "translated_text": "突发新闻：卡塔尔航空将于 5 月 10 日起恢复飞往伊拉克的航班实时更新：https://aje.news/o4g2s6?update=4538912…",
+    "images": [
+      "7f1a451786c84548.svg"
+    ],
+    "url": "https://x.com/AJENews/status/687719229461055757",
+    "timestamp": "2026-05-02T17:46:39.962614+00:00",
+    "original_time": "2026-05-02T13:30:47+00:00"
+  },
+  {
+    "id": "tweet_AJENews_5616861408188595916",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Israel kills seven people in Gaza over the past 24 hours as deadly 'ceasefire' violations continue dailyLIVE updates:https://aje.news/o4g2s6?update=4538885…",
+    "translated_text": "突发新闻：过去 24 小时，以色列在加沙杀害了 7 人，致命的“停火”违反行为仍在继续，每日实时更新：https://aje.news/o4g2s6?update=4538885…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "5b8f7f1a7307fe3f.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/5616861408188595916",
+    "timestamp": "2026-05-02T17:46:40.474675+00:00",
+    "original_time": "2026-05-02T13:15:28+00:00"
+  },
+  {
+    "id": "tweet_AJENews_3556103848821810663",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Three killed in Israeli air attack on southern Lebanese town of ChoukineLIVE updates:https://aje.news/o4g2s6?update=4538948…",
+    "translated_text": "更新：以色列对黎巴嫩南部城镇 Choukine 的空袭造成三人死亡实时更新：https://aje.news/o4g2s6?update=4538948…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "0ed191dfd7a9ea97.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/3556103848821810663",
+    "timestamp": "2026-05-02T17:46:40.945466+00:00",
+    "original_time": "2026-05-02T13:00:44+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-8991115317719086925",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: UAE says air traffic returns to normal after precautionary measures liftedLIVE updates:https://aje.news/o4g2s6?update=4538879…",
+    "translated_text": "突发新闻：阿联酋表示，预防措施解除后，空中交通恢复正常实时更新：https://aje.news/o4g2s6?update=4538879…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "bc57e34531381e20.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-8991115317719086925",
+    "timestamp": "2026-05-02T17:46:41.448808+00:00",
+    "original_time": "2026-05-02T12:45:36+00:00"
+  },
+  {
+    "id": "tweet_AJENews_6821271331627329222",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Yemen coastguard reports 'armed men' seized oil tanker, steered it in direction of Somali watersLIVE updates:https://aje.news/o4g2s6?update=4538928…",
@@ -334,12 +349,12 @@
       "7f1a451786c84548.svg",
       "aaef5b7ea8058ab6.jpg"
     ],
-    "url": "https://x.com/AJENews/status/1244666729317478555",
-    "timestamp": "2026-05-02T16:49:40.785164+00:00",
+    "url": "https://x.com/AJENews/status/6821271331627329222",
+    "timestamp": "2026-05-02T17:46:41.932890+00:00",
     "original_time": "2026-05-02T12:35:20+00:00"
   },
   {
-    "id": "tweet_AJENews_-1331566032081135999",
+    "id": "tweet_AJENews_-2959701604168701046",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Two Gaza aid flotilla activists brought to Israel for 'questioning'LIVE updates:https://aje.news/o4g2s6?update=4538822…",
@@ -348,95 +363,65 @@
       "7f1a451786c84548.svg",
       "12394cb1d0b1f417.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-1331566032081135999",
-    "timestamp": "2026-05-02T16:49:41.023397+00:00",
+    "url": "https://x.com/AJENews/status/-2959701604168701046",
+    "timestamp": "2026-05-02T17:46:42.566729+00:00",
     "original_time": "2026-05-02T12:00:24+00:00"
   },
   {
-    "id": "tweet_AJENews_7860690436959711177",
+    "id": "tweet_AJENews_-1841907576108717339",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: At least three killed in Israeli air attack on southern Lebanese village, bringing today's death toll to at least sevenLIVE updates:https://aje.news/o4g2s6?update=4538816…",
     "translated_text": "突发新闻：以色列对黎巴嫩南部村庄的空袭造成至少三人死亡，使今天的死亡人数至少达到七人实时更新：https://aje.news/o4g2s6?update=4538816…",
     "images": [
-      "7f1a451786c84548.svg"
+      "7f1a451786c84548.svg",
+      "0afb3104346507d8.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7860690436959711177",
-    "timestamp": "2026-05-02T16:49:41.949044+00:00",
+    "url": "https://x.com/AJENews/status/-1841907576108717339",
+    "timestamp": "2026-05-02T17:46:42.747677+00:00",
     "original_time": "2026-05-02T11:15:36+00:00"
   },
   {
-    "id": "tweet_AJENews_67886512026865398",
+    "id": "tweet_CBSNews_-7793884120466439079",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: UKMTO says received report of incident off YemenLIVE updates:https://aje.news/o4g2s6?update=4538758…",
-    "translated_text": "突发新闻：UKMTO 表示收到也门事件更新的报告：https://aje.news/o4g2s6?update=4538758…",
+    "username": "CBSNews",
+    "text": "President Trump's executive order tightening U.S. sanctions on Cuba is a warning to other countries, an expert says.",
+    "translated_text": "专家表示，特朗普总统加强美国对古巴制裁的行政命令是对其他国家的警告。",
     "images": [
-      "7f1a451786c84548.svg",
-      "3e50b3e28600c033.jpg"
+      "dcf88d1832d75129.jpg"
     ],
-    "url": "https://x.com/AJENews/status/67886512026865398",
-    "timestamp": "2026-05-02T16:49:42.803578+00:00",
-    "original_time": "2026-05-02T11:00:27+00:00"
+    "url": "https://x.com/CBSNews/status/-7793884120466439079",
+    "timestamp": "2026-05-02T17:47:43.181190+00:00",
+    "original_time": "2026-05-02T17:35:54+00:00"
   },
   {
-    "id": "tweet_AJENews_-3042068940704986445",
+    "id": "tweet_CBSNews_-7682951396399117705",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "Two activists who participated in a Gaza-bound aid flotilla have been brought to Israel for questioning, according to the Israeli foreign ministry after the vessels were intercepted by Israeli forces.More onhttp://aljazeera.com",
-    "translated_text": "据以色列外交部称，在船只被以色列军队拦截后，两名参加前往加沙的援助船队的活动人士已被带回以色列接受审问。",
+    "username": "CBSNews",
+    "text": "Berkshire Hathaway shareholders gathered Saturday in Omaha, Nebraska for the first annual meeting without founder Warren Buffett on the stage.",
+    "translated_text": "伯克希尔哈撒韦公司的股东周六在内布拉斯加州奥马哈举行年度会议，这是公司创始人沃伦·巴菲特没有出席的首次年会。",
     "images": [
-      "7f1a451786c84548.svg",
-      "e034df8302d1ad76.jpg"
+      "5bb7492bd70e4910.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-3042068940704986445",
-    "timestamp": "2026-05-02T16:49:43.674183+00:00",
-    "original_time": "2026-05-02T10:49:26+00:00"
+    "url": "https://x.com/CBSNews/status/-7682951396399117705",
+    "timestamp": "2026-05-02T17:47:43.434958+00:00",
+    "original_time": "2026-05-02T17:00:00+00:00"
   },
   {
-    "id": "tweet_AJENews_7930846451158082000",
+    "id": "tweet_CBSNews_-4381258464979824146",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: French FM Barrot condemns wave of 'anti-Christian acts' in Israel following attack on Catholic nunLIVE updates:https://aje.news/o4g2s6?update=4538751…",
-    "translated_text": "突发新闻：法国FM巴罗谴责天主教修女遇袭后以色列发生的“反基督教行为”浪潮实时更新：https://aje.news/o4g2s6?update=4538751…",
+    "username": "CBSNews",
+    "text": "Israeli Defense Forces shared video of strikes in Southern Lebanon targeting what they say are Hezbollah strongholds in the region. The military announced on its website they \"destroyed the town's soccer stadium after it was discovered to be booby-trapped.\"",
+    "translated_text": "以色列国防军分享了在黎巴嫩南部发动袭击的视频，目标是他们所说的真主党在该地区的据点。军方在其网站上宣布，他们“在发现该镇的足球场埋有诱杀装置后摧毁了该体育场”。",
     "images": [
-      "7f1a451786c84548.svg",
-      "afaf5831508d5286.jpg"
+      "0ea8e48709fec822.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7930846451158082000",
-    "timestamp": "2026-05-02T16:49:44.644096+00:00",
-    "original_time": "2026-05-02T10:45:41+00:00"
+    "url": "https://x.com/CBSNews/status/-4381258464979824146",
+    "timestamp": "2026-05-02T17:47:43.962616+00:00",
+    "original_time": "2026-05-02T16:56:41+00:00"
   },
   {
-    "id": "tweet_AJENews_8043633434855027896",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Hezbollah says it targeted Israeli soldiers stationed in a home in Biyyada, southern LebanonLIVE updates:https://aje.news/o4g2s6?update=4538727…",
-    "translated_text": "突发新闻：真主党表示，它的目标是驻扎在黎巴嫩南部比亚达一所房子里的以色列士兵实时更新：https://aje.news/o4g2s6?update=4538727…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "8469bc35d80dae37.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/8043633434855027896",
-    "timestamp": "2026-05-02T16:49:45.238991+00:00",
-    "original_time": "2026-05-02T10:14:58+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-5013196495638066968",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran official says his nation will resist 'military expeditions of world-devouring America'LIVE updates:https://aje.news/o4g2s6?update=4538708…",
-    "translated_text": "突发新闻：伊朗官员表示，他的国家将抵制“吞噬世界的美国的军事远征”实时更新：https://aje.news/o4g2s6?update=4538708…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "071415b14a74172a.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-5013196495638066968",
-    "timestamp": "2026-05-02T16:49:45.858484+00:00",
-    "original_time": "2026-05-02T10:00:30+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-1592765869669781218",
+    "id": "tweet_CBSNews_400067655152361350",
     "type": "tweet",
     "username": "CBSNews",
     "text": "\"This is it tonight\": Spirit Airlines pilots sign off on final flights as budget carrier shuts down.",
@@ -444,12 +429,12 @@
     "images": [
       "73bf8eb496de7734.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-1592765869669781218",
-    "timestamp": "2026-05-02T16:51:22.505315+00:00",
+    "url": "https://x.com/CBSNews/status/400067655152361350",
+    "timestamp": "2026-05-02T17:47:44.269566+00:00",
     "original_time": "2026-05-02T16:30:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3095207129224424002",
+    "id": "tweet_CBSNews_5202197621153966564",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Transportation Secretary Sean Duffy said those traveling with Spirit Airlines should not show up at the airport, but instead try to rebook with another carrier that's assisting flyers amid Spirit's immediate shutdown on Saturday.\n\n\"United, Delta, JetBlue and Southwest are capping",
@@ -457,51 +442,12 @@
     "images": [
       "acc4e21159bc7eba.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3095207129224424002",
-    "timestamp": "2026-05-02T16:51:23.220598+00:00",
+    "url": "https://x.com/CBSNews/status/5202197621153966564",
+    "timestamp": "2026-05-02T17:47:44.574912+00:00",
     "original_time": "2026-05-02T16:00:50+00:00"
   },
   {
-    "id": "tweet_CBSNews_-783482204289260745",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "The Kentucky Derby will see a field of 19 horses today in the first leg of the 2026 competition for the Triple Crown.",
-    "translated_text": "今天，肯塔基德比将迎来 19 匹马参加 2026 年三冠王争夺战的第一回合比赛。",
-    "images": [
-      "ad411da3669e1bad.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-783482204289260745",
-    "timestamp": "2026-05-02T16:51:23.791852+00:00",
-    "original_time": "2026-05-02T16:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_5849302782014564443",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Mexican governor accused by U.S. of drug trafficking steps down during investigation.",
-    "translated_text": "被美国指控贩毒的墨西哥州长在调查期间辞职。",
-    "images": [
-      "07f78bdc5ae9f160.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/5849302782014564443",
-    "timestamp": "2026-05-02T16:51:24.307697+00:00",
-    "original_time": "2026-05-02T15:30:01+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_8088250509479290323",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Air traffic controllers shared best wishes with Spirit Airlines pilots over the radio as the airline ceased operations overnight. The budget carrier failed to secure a $500 million federal bailout and said rising prices left the airline \"no choice\" but to shut down.",
-    "translated_text": "当精神航空公司夜间停止运营时，空中交通管制员通过无线电向该航空公司的飞行员表达了最美好的祝愿。这家廉价航空公司未能获得 5 亿美元的联邦救助，并表示价格上涨使该航空公司“别无选择”，只能关闭。",
-    "images": [
-      "8fb41c9a6d26a280.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/8088250509479290323",
-    "timestamp": "2026-05-02T16:51:24.947470+00:00",
-    "original_time": "2026-05-02T15:04:22+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-2915860272674940583",
+    "id": "tweet_KellieMeyerNews_-1619996159055444567",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Guido is still on top of the Frederick Douglas bridge in DC this morning. \n\nHe’s been there since yesterday. \n\nHe’s protesting the war in Iran and the rise of AI. \n\nMy only question, well I have a ton, but how does he keep a charge?!",
@@ -509,8 +455,8 @@
     "images": [
       "74e295cb5c8f2d44.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-2915860272674940583",
-    "timestamp": "2026-05-02T16:51:58.938984+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-1619996159055444567",
+    "timestamp": "2026-05-02T17:48:17.879819+00:00",
     "original_time": "2026-05-02T13:10:20+00:00"
   }
 ]
