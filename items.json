@@ -1,26 +1,5 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_395649315011411121",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "PR No./Statement by the Spokesperson",
-    "translated_text": "PR 编号/发言人声明",
-    "images": [
-      "88f40ae084ace679.svg",
-      "49b80fa86f503c69.svg",
-      "41c2984051434f7d.svg",
-      "59563c1a40d3d73b.svg",
-      "6dd70089c15d9c8c.svg",
-      "42c644bbf48e04fc.svg",
-      "6927007c5e94b687.svg",
-      "1d7695f51048fca1.svg",
-      "80e19ff379f71242.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/395649315011411121",
-    "timestamp": "2026-05-02T21:40:50.191152+00:00",
-    "original_time": "2026-05-02T09:59:02+00:00"
-  },
-  {
     "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
     "username": "MIshaqDar50",
@@ -30,22 +9,22 @@
       "d581823b5086a0fc.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-05-02T21:41:08.737540+00:00",
+    "timestamp": "2026-05-02T22:41:33.667782+00:00",
     "original_time": "2026-05-02T14:58:22+00:00"
   },
   {
-    "id": "tweet_PakPMO_-8368062625498633697",
+    "id": "tweet_PakPMO_-7480166556287305176",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Lahore: May 2, 2026.\n\nA meeting was held between Prime Minister Muhammad Shehbaz Sharif and Interior Minister Syed Mohsin Raza Naqvi. The Interior Minister briefed the Prime Minister on the security situation in the country and the measures taken to maintain peace and order in",
     "translated_text": "拉合尔：2026 年 5 月 2 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫和内政部长赛义德·穆赫辛·拉扎·纳克维举行了会议。内政部长向总理介绍了该国的安全局势以及为维护和平与秩序所采取的措施",
     "images": [],
-    "url": "https://x.com/PakPMO/status/-8368062625498633697",
-    "timestamp": "2026-05-02T21:41:40.540930+00:00",
+    "url": "https://x.com/PakPMO/status/-7480166556287305176",
+    "timestamp": "2026-05-02T22:42:03.613197+00:00",
     "original_time": "2026-05-02T15:57:28+00:00"
   },
   {
-    "id": "tweet_PakPMO_-3007102675078900008",
+    "id": "tweet_PakPMO_3521601479261571858",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Lahore: May 2, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif chaired a meeting regarding reforms in the energy sector.\n\nSpeaking at the meeting, the Prime Minister said that measures should be taken to provide facilities for industrial and domestic electricity consumers.\n\nThe",
@@ -53,12 +32,64 @@
     "images": [
       "d2561da1aaff9eee.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-3007102675078900008",
-    "timestamp": "2026-05-02T21:41:40.735727+00:00",
+    "url": "https://x.com/PakPMO/status/3521601479261571858",
+    "timestamp": "2026-05-02T22:42:03.790146+00:00",
     "original_time": "2026-05-02T14:20:06+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_5984458620977741546",
+    "id": "tweet_PakTVGlobal_-4511693417151842282",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Headlines 3 AM: Taliban regime attacks kill 52 civilians since Eid-ul-Fitr: Andrabi; DPM Dar, Kuwaiti FM Sheikh Jarrah discuss regional situation; Kuwait did not export any crude oil during April 2026#AfghanistanCrisis#PakistanDiplomacy#KuwaitOil#PakistanTV",
+    "translated_text": "凌晨 3 点头条新闻：自开斋节以来，塔利班政权发动袭击，造成 52 名平民死亡：Andrabi；达尔副总理与科威特外长谢赫·贾拉讨论地区局势；科威特在 2026 年 4 月期间没有出口任何原油#阿富汗危机#巴基斯坦外交#KuwaitOil#PakistanTV",
+    "images": [
+      "78de3680d523fc89.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-4511693417151842282",
+    "timestamp": "2026-05-02T22:42:36.063076+00:00",
+    "original_time": "2026-05-02T22:38:27+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_4311508464255716358",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Due to the Strait of Hormuz blockade, Kuwait did not export any crude oil during April for the first time since the end of the Gulf War in 1991, reports the international oil shipment websitehttp://TankerTrackers.com.#StraitOfHormuz#Kuwait#MiddleEastconflict#EnergyCrisis",
+    "translated_text": "据国际石油运输网站http://TankerTrackers.com报道，由于霍尔木兹海峡封锁，科威特4月份没有出口任何原油，这是自1991年海湾战争结束以来首次。",
+    "images": [
+      "6c3d00115e9f5438.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/4311508464255716358",
+    "timestamp": "2026-05-02T22:42:36.754119+00:00",
+    "original_time": "2026-05-02T21:59:44+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1006995328856364036",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Italian Foreign Minister Antonio Tajani, in a phone call with his Iranian counterpart Abbas Araghchi, voiced strong concern about rising tensions in the Middle East, stressing the urgent need to prevent further escalation and underscoring the importance of intensifying diplomatic",
+    "translated_text": "意大利外长安东尼奥·塔亚尼在与伊朗外长阿巴斯·阿拉格奇通电话时对中东紧张局势升级表示强烈关切，强调迫切需要防止局势进一步升级，并强调加强外交努力的重要性",
+    "images": [
+      "34fd062aae43eb94.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1006995328856364036",
+    "timestamp": "2026-05-02T22:42:37.921640+00:00",
+    "original_time": "2026-05-02T21:47:48+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_5588522871645330838",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Babar Azam, Peshawar Zalmi captain, says, “We have played really good cricket in the tournament. Our focus has been on assessing the conditions first and then executing the plans. The performance of our team this season has been a combined effort of the local and overseas",
+    "translated_text": "白沙瓦扎尔米队长巴巴尔·阿扎姆 (Babar Azam) 表示：“我们在比赛中打出了非常出色的板球。我们的重点是首先评估条件，然后执行计划。我们球队本赛季的表现是本地和海外共同努力的结果",
+    "images": [
+      "d06fca7eda3ebaf0.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/5588522871645330838",
+    "timestamp": "2026-05-02T22:42:38.915704+00:00",
+    "original_time": "2026-05-02T21:42:48+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_4186526213797747331",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Marnus Labuschagne’s Hyderabad Kingsmen are set to face Babar Azam’s Peshawar Zalmi in the final of the HBL Pakistan Super League 11 on today at the Gaddafi Stadium, Lahore as the 44-match season of the league will mark its completion.#PSL11#HBLPSL#CricketPakistan",
@@ -66,129 +97,77 @@
     "images": [
       "a24e3b30d6848124.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/5984458620977741546",
-    "timestamp": "2026-05-02T21:42:11.618492+00:00",
+    "url": "https://x.com/PakTVGlobal/status/4186526213797747331",
+    "timestamp": "2026-05-02T22:42:39.096451+00:00",
     "original_time": "2026-05-02T21:35:29+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-8135378347326147643",
+    "id": "tweet_PakTVGlobal_-3804783840080359977",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "The tariff hike on cars and trucks from the European ​Union announced by US President Donald Trump could cost Germany ‌nearly $17.58 billion in output, Kiel Institute for the World Economy (IfW) told Reuters.#Tariffs#Trump#EuropeanUnion#Germany#TradeWar#PakistanTV",
-    "translated_text": "基尔世界经济研究所 (IfW) 告诉路透社，美国总统唐纳德·特朗普宣布对来自欧盟的汽车和卡车提高关税可能会使德国损失近 175.8 亿美元的产出。#Tariffs#Trump#EuropeanUnion#Germany#TradeWar#PakistanTV",
+    "text": "Olympique Lyonnais booked their place in the UEFA Women's Champions League final after a 3–1 win over Arsenal W.F.C., with German forward Jule Brand scoring a late 85th-minute winner to seal a 4–3 aggregate victory at Groupama Stadium.#OlympiqueLyonnais#Football",
+    "translated_text": "里昂奥林匹克队在安盟球场以 3-1 击败阿森纳 W.F.C. 后，凭借德国前锋朱尔·布兰德在第 85 分钟的绝杀进球，以 4-3 的总比分锁定了欧洲女子冠军联赛决赛的席位。#OlympiqueLyonnais#Football",
     "images": [
-      "34f3ef9d8bafb13e.jpg"
+      "a5373830793386ee.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-8135378347326147643",
-    "timestamp": "2026-05-02T21:42:12.544925+00:00",
-    "original_time": "2026-05-02T21:27:24+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-3804783840080359977",
+    "timestamp": "2026-05-02T22:42:42.209100+00:00",
+    "original_time": "2026-05-02T15:56:04+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3697720802419209890",
+    "id": "tweet_PakTVGlobal_-2624469881823339395",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Cuban President Miguel Diaz-Canel said Saturday US President Donald Trump's threats of military aggression against Cuba have reached a \"dangerous and unprecedented level,\" calling on the international community to respond.#Cuba#MiguelDiazCanel#Trump#USCubaRelations",
-    "translated_text": "古巴总统米格尔·迪亚斯-卡内尔周六表示，美国总统唐纳德·特朗普对古巴的军事侵略威胁已达到“危险且前所未有的程度”，呼吁国际社会做出回应。#Cuba#MiguelDiazCanel#Trump#USCubaRelations",
+    "text": "China’s rail network hit a record 24.8 million passengers in a single day, reports Xinhua News Agency, with heavy holiday travel expected to continue.#ChinaRailway#China#TravelRush#HolidayTravel#PassengerRecord#PublicTransport#PakistanTV",
+    "translated_text": "据新华社报道，中国铁路网单日旅客吞吐量达到创纪录的 2480 万人次，预计假日出行高峰仍将持续。#ChinaRailway#China#TravelRush#HolidayTravel#PassengerRecord#PublicTransport#PakistanTV",
     "images": [
-      "c7040582f9546843.jpg"
+      "5bbc8a2bdf51074a.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3697720802419209890",
-    "timestamp": "2026-05-02T21:42:12.756653+00:00",
-    "original_time": "2026-05-02T20:38:09+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-2624469881823339395",
+    "timestamp": "2026-05-02T22:42:43.515576+00:00",
+    "original_time": "2026-05-02T15:23:52+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3986066451972074095",
+    "id": "tweet_PakTVGlobal_-9727850240182249",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Interior Minister Mohsin Naqvi called on Prime Minister Shehbaz Sharif, briefed him on the security situation in the country, and informed the premier about the security arrangements for the Pakistan Super League (PSL) final scheduled to be held in Lahore today. PM Sharif",
-    "translated_text": "内政部长穆赫辛·纳克维拜会谢巴兹·谢里夫总理，向其通报了国内安全形势，并向总理通报了定于今天在拉合尔举行的巴基斯坦超级联赛（PSL）决赛的安全安排。谢里夫总理",
+    "text": "NATO says it is coordinating with the United States to understand plans for troop reductions in Germany, as it's spokesperson Allison Hart stresses Europe must boost defence spending and share greater responsibility for collective security.#NATO#UnitedStates#Germany",
+    "translated_text": "北约表示正在与美国协调，以了解在德国削减驻军的计划，其发言人艾莉森·哈特强调欧洲必须增加国防开支并在集体安全方面分担更大的责任。#NATO#UnitedStates#Germany",
     "images": [
-      "f84480acc22613a2.jpg"
+      "f8a44dc4e4a8b1fe.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3986066451972074095",
-    "timestamp": "2026-05-02T21:42:12.968234+00:00",
-    "original_time": "2026-05-02T20:22:33+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-9727850240182249",
+    "timestamp": "2026-05-02T22:42:44.301267+00:00",
+    "original_time": "2026-05-02T14:51:52+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2700669646693345523",
+    "id": "tweet_PakTVGlobal_-1269688478862812453",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "At least 10 people have died across Kenya after heavy rains triggered flooding and landslides in ​several regions, police said, as authorities warned rising ‌river levels could threaten communities downstream from a major hydropower dam system.#KenyaFloods#Flooding#Landslides",
-    "translated_text": "警方称，大雨在肯尼亚多个地区引发洪水和山体滑坡，造成肯尼亚各地至少 10 人死亡，当局警告称，河水水位上升可能威胁到主要水电大坝系统下游的社区。#KenyaFloods#Flooding#Landslides",
+    "text": "A high-stakes trial in New Mexico, US could reshape how Meta Platforms operates Facebook, Instagram, and WhatsApp, as Attorney General Raúl Torrez accuses the company of harming young users and failing to prevent exploitation.#Meta#RaulTorrez#DigitalPrivacy#NewMexico",
+    "translated_text": "美国新墨西哥州的一项高风险审判可能会重塑 Meta Platforms 运营 Facebook、Instagram 和 WhatsApp 的方式，因为总检察长 Raúl Torrez 指控该公司伤害年轻用户并未能防止剥削。#Meta#RaulTorrez#DigitalPrivacy#NewMexico",
     "images": [
-      "6aa52df53eebf942.jpg"
+      "1a03c0a4b75fc74e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2700669646693345523",
-    "timestamp": "2026-05-02T21:42:13.155295+00:00",
-    "original_time": "2026-05-02T20:09:13+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-1269688478862812453",
+    "timestamp": "2026-05-02T22:42:44.891623+00:00",
+    "original_time": "2026-05-02T14:41:07+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1637832798028167726",
+    "id": "tweet_PakTVGlobal_3998229798479817200",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Pakistan foreign office spokesperson says there is no temporary ceasefire in place (between Pakistan and Afghan Taliban). There was only a time barred three days pause at Eid, which was over at that time.@ForeignOfficePk#PakistanForeignOffice#PakistanAfghanistan",
-    "translated_text": "巴基斯坦外交部发言人表示，巴基斯坦和阿富汗塔利班之间没有临时停火。开斋节只有三天的暂停时间，那时就结束了。@ForeignOfficePk#PakistanForeignOffice#PakistanAfghanistan",
+    "text": "\"Cross-border fire from Afghan Taliban positions is met with decisive retaliation by our forces,\" says Brig (R) Haris Nawaz, a defence analyst. He noted that operations focus on destroying enemy's posts, weapons, and infrastructure while pre-emptive intelligence-based strikes are",
+    "translated_text": "国防分析师哈里斯·纳瓦兹准将表示：“阿富汗塔利班阵地的跨境火力遭到了我们部队的果断报复。”他指出，行动的重点是摧毁敌人的哨所、武器和基础设施，而先发制人的基于情报的打击则是",
     "images": [
-      "35c8d97273f52d9c.jpg"
+      "c9c3a2c99018eb71.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1637832798028167726",
-    "timestamp": "2026-05-02T21:42:16.041820+00:00",
-    "original_time": "2026-05-02T13:35:52+00:00"
+    "url": "https://x.com/PakTVGlobal/status/3998229798479817200",
+    "timestamp": "2026-05-02T22:42:45.391895+00:00",
+    "original_time": "2026-05-02T13:51:05+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1513732645288993141",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Real Madrid defender Dani Carvajal will miss the May 10 clash against FC Barcelona after suffering a toe fracture, dealing a blow to Real Madrid as they trail in the La Liga title race.#ElClasico#DaniCarvajal#RealMadrid#FCBarcelona#PakistanTV",
-    "translated_text": "皇马后卫丹尼·卡瓦哈尔因脚趾骨折而缺席 5 月 10 日对阵巴塞罗那足球俱乐部的比赛，这对在西甲冠军争夺战中落后的皇马造成了打击。#ElClasico#DaniCarvajal#RealMadrid#FCBarcelona#PakistanTV",
-    "images": [
-      "9707bc3ad20dfe54.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-1513732645288993141",
-    "timestamp": "2026-05-02T21:42:16.291921+00:00",
-    "original_time": "2026-05-02T12:04:13+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_7548501202901382844",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Around 20,000 people gathered for an illegal rave at a former military site near Bourges, defying warnings over unexploded ordnance, as authorities moved to manage safety risks and limit disruptions.#Bourges#IllegalRave#FranceNews#PublicSafety#PakistanTV",
-    "translated_text": "随着当局采取措施管理安全风险并限制干扰，大约 20,000 人无视有关未爆炸弹药的警告，聚集在布尔日附近的一处前军事基地举行非法狂欢。#Bourges#IllegalRave#FranceNews#PublicSafety#PakistanTV",
-    "images": [
-      "7b653b6b29ab6a9a.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/7548501202901382844",
-    "timestamp": "2026-05-02T21:42:16.457387+00:00",
-    "original_time": "2026-05-02T12:03:01+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_4164499220837876950",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Beneath the Afghan Taliban regime's carefully crafted narrative lies a systematic pattern of failure — one that has stripped the Afghan people of political legitimacy, genuine security, and even their most basic human needs.#AfghanistanCrisis#HumanRights#RegionalStability",
-    "translated_text": "在阿富汗塔利班政权精心策划的叙述之下，隐藏着一种系统性的失败模式——这种失败模式剥夺了阿富汗人民的政治合法性、真正的安全，甚至最基本的人类需求。#阿富汗危机#HumanRights#RegionalStability",
-    "images": [
-      "5a318ad38833dbcf.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/4164499220837876950",
-    "timestamp": "2026-05-02T21:42:16.627096+00:00",
-    "original_time": "2026-05-02T11:52:45+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-9063602030770385838",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Fury grips the local community of South Waziristan as Afghan Taliban's cross-border shelling continues to claim innocent lives — residents demand an end to attacks that have repeatedly put unarmed civilians, especially children, in the line of fire and left critical",
-    "translated_text": "阿富汗塔利班的跨境炮击继续夺走无辜者的生命，愤怒笼罩着南瓦济里斯坦当地社区——居民要求停止袭击，这些袭击多次将手无寸铁的平民，特别是儿童置于火线之中，造成生命危险",
-    "images": [
-      "b71d125485dbf97f.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-9063602030770385838",
-    "timestamp": "2026-05-02T21:42:16.790420+00:00",
-    "original_time": "2026-05-02T11:17:10+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_SPOX_2610742733040769595",
+    "id": "tweet_IRIMFA_SPOX_-4218442682751897971",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "Minâbâ, my Minâb\n\nDaughters of the Seven Seas  \nWhy did you come to the Rose Planet?  \nHere, the Devil in the darkness  \n\nHas seized  \nYour silence and your fate.  \nThe night-worshipping Devil does not know  \nWith the first blade of sunlight  \n\nYou, with your thousand-torn body",
@@ -196,23 +175,23 @@
     "images": [
       "aa2ba973f3ab222b.jpg"
     ],
-    "url": "https://x.com/IRIMFA_SPOX/status/2610742733040769595",
-    "timestamp": "2026-05-02T21:43:10.686904+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/-4218442682751897971",
+    "timestamp": "2026-05-02T22:43:37.252968+00:00",
     "original_time": "2026-05-02T11:24:31+00:00"
   },
   {
-    "id": "tweet_CBSNews_3052074085369499907",
+    "id": "tweet_CBSNews_-5254847854734495770",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Law enforcement in Florida arrested a man accused of murder after a woman died from lacerations, according to authorities.\n\nDeputies found the suspect in a field and quickly took him into custody.",
     "translated_text": "据当局称，佛罗里达州执法部门在一名妇女因割伤死亡后逮捕了一名被指控谋杀的男子。\n\n警员们在田野里发现了嫌疑人，并迅速将其拘留。",
     "images": [],
-    "url": "https://x.com/CBSNews/status/3052074085369499907",
-    "timestamp": "2026-05-02T21:44:25.360861+00:00",
+    "url": "https://x.com/CBSNews/status/-5254847854734495770",
+    "timestamp": "2026-05-02T22:44:53.380863+00:00",
     "original_time": "2026-05-02T20:53:53+00:00"
   },
   {
-    "id": "tweet_CBSNews_2411424166190785447",
+    "id": "tweet_CBSNews_-8983625579450874216",
     "type": "tweet",
     "username": "CBSNews",
     "text": "How a whiffed NFL field goal helped save this Kentucky Derby horse expert's life.",
@@ -220,12 +199,12 @@
     "images": [
       "a67ed386819f6e95.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2411424166190785447",
-    "timestamp": "2026-05-02T21:44:25.542480+00:00",
+    "url": "https://x.com/CBSNews/status/-8983625579450874216",
+    "timestamp": "2026-05-02T22:44:53.551334+00:00",
     "original_time": "2026-05-02T19:27:58+00:00"
   },
   {
-    "id": "tweet_CBSNews_9032609091012928644",
+    "id": "tweet_CBSNews_-5638680659867660764",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Federal agents are responding after explosives were found in a vehicle that crashed into the front entrance of an Oregon athletic club and killed the driver.",
@@ -233,12 +212,12 @@
     "images": [
       "71493fcdca7a3822.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/9032609091012928644",
-    "timestamp": "2026-05-02T21:44:25.693710+00:00",
+    "url": "https://x.com/CBSNews/status/-5638680659867660764",
+    "timestamp": "2026-05-02T22:44:53.738942+00:00",
     "original_time": "2026-05-02T18:31:57+00:00"
   },
   {
-    "id": "tweet_CBSNews_497861946334460616",
+    "id": "tweet_CBSNews_6830338973044109474",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Nick Stewart, a former lobbyist and State Department member during President Trump's first term, has joined the team negotiating to end the war with Iran.",
@@ -246,12 +225,12 @@
     "images": [
       "b32b72f0ae5cc8cc.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/497861946334460616",
-    "timestamp": "2026-05-02T21:44:25.867583+00:00",
+    "url": "https://x.com/CBSNews/status/6830338973044109474",
+    "timestamp": "2026-05-02T22:44:53.899438+00:00",
     "original_time": "2026-05-02T18:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2424291356678097274",
+    "id": "tweet_CBSNews_2707742733669469519",
     "type": "tweet",
     "username": "CBSNews",
     "text": "President Trump shared an AI image on Truth Social Friday night of him, Vice President JD Vance, Secretary of State Marco Rubio, and Secretary of the Interior Doug Burgum wading in the Lincoln Memorial Reflecting Pool.",
@@ -259,49 +238,23 @@
     "images": [
       "bd3cd318d841804b.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2424291356678097274",
-    "timestamp": "2026-05-02T21:44:26.043674+00:00",
+    "url": "https://x.com/CBSNews/status/2707742733669469519",
+    "timestamp": "2026-05-02T22:44:54.067354+00:00",
     "original_time": "2026-05-02T17:56:10+00:00"
   },
   {
-    "id": "tweet_CBSNews_5193677003638503738",
+    "id": "tweet_CBSNews_2564403986637165078",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Crews with the National Park Service have been coating the bottom of the drained pool with \"American flag blue\" paint. Swimming or wading in the landmark is prohibited, according to the NPS.\n\nPresident Trump said the renovation project will take a week and cost $2 million.",
     "translated_text": "国家公园管理局的工作人员已经在排干的水池底部涂上“美国国旗蓝”油漆。根据 NPS 的规定，禁止在该地标内游泳或涉水。\n\n特朗普总统表示，翻修工程将耗时一周，耗资 200 万美元。",
     "images": [],
-    "url": "https://x.com/CBSNews/status/5193677003638503738",
-    "timestamp": "2026-05-02T21:44:26.183558+00:00",
+    "url": "https://x.com/CBSNews/status/2564403986637165078",
+    "timestamp": "2026-05-02T22:44:54.225483+00:00",
     "original_time": "2026-05-02T17:56:11+00:00"
   },
   {
-    "id": "tweet_CBSNews_8096755499153308243",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Spirit Airlines shutting down after failed effort at government rescue deal",
-    "translated_text": "精神航空因政府救援协议失败而关闭",
-    "images": [
-      "e831c077100d1dae.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/8096755499153308243",
-    "timestamp": "2026-05-02T21:44:28.339470+00:00",
-    "original_time": "2026-05-02T10:01:07+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_1598626898242860016",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "FDA expands access to pancreatic cancer drug helping patients like Ben Sasse",
-    "translated_text": "FDA 扩大胰腺癌药物的使用范围，帮助像 Ben Sasse 这样的患者",
-    "images": [
-      "a5ac0417e90da072.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1598626898242860016",
-    "timestamp": "2026-05-02T21:44:28.506140+00:00",
-    "original_time": "2026-05-02T10:00:01+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_8810163186193809643",
+    "id": "tweet_KellieMeyerNews_6404098961460257598",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Guido is still on top of the Frederick Douglas bridge in DC this morning. \n\nHe’s been there since yesterday. \n\nHe’s protesting the war in Iran and the rise of AI. \n\nMy only question, well I have a ton, but how does he keep a charge?!",
@@ -309,248 +262,8 @@
     "images": [
       "74e295cb5c8f2d44.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/8810163186193809643",
-    "timestamp": "2026-05-02T21:45:03.234009+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/6404098961460257598",
+    "timestamp": "2026-05-02T22:45:27.459587+00:00",
     "original_time": "2026-05-02T13:10:20+00:00"
-  },
-  {
-    "id": "article_4b6501c56d9b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "2 Gaza aid flotilla activists brought to Israel for questioning, its foreign ministry says",
-    "translated_title": "以色列外交部称，两名加沙援助船队活动人士被带回以色列接受讯问",
-    "url": "https://www.dawn.com/news/1996950/2-gaza-aid-flotilla-activists-brought-to-israel-for-questioning-its-foreign-ministry-says",
-    "timestamp": "2026-05-02T21:47:21.164467+00:00",
-    "original_time": "2026-05-02T17:21:43+05:00"
-  },
-  {
-    "id": "article_922d5555e61e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "CM Murad urges public to take precautionary measures amid heatwave alert for Sindh's central, upper regions",
-    "translated_title": "CM Murad敦促公众在信德省中部和北部地区的热浪警报中采取预防措施",
-    "url": "https://www.dawn.com/news/1996972/cm-murad-urges-public-to-take-precautionary-measures-amid-heatwave-alert-for-sindhs-central-upper-regions",
-    "timestamp": "2026-05-02T21:47:29.840108+00:00",
-    "original_time": "2026-05-02T20:30:25+05:00"
-  },
-  {
-    "id": "article_ba82d3ad9e23",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Ex-F1 driver turned Paralympic legend Alex Zanardi dies aged 59",
-    "translated_title": "前 F1 车手、残奥传奇人物亚历克斯·扎纳尔迪 (Alex Zanardi) 去世，享年 59 岁",
-    "url": "https://www.dawn.com/news/1996964/ex-f1-driver-turned-paralympic-legend-alex-zanardi-dies-aged-59",
-    "timestamp": "2026-05-02T21:47:34.798815+00:00",
-    "original_time": "2026-05-02T19:28:27+05:00"
-  },
-  {
-    "id": "article_4357e055284c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Jirga convened by KP CM decides on holding talks with Centre, other stakeholders over drone attacks",
-    "translated_title": "由金伯利进程部长召集的支尔格会议决定与中心和其他利益攸关方就无人机袭击问题举行会谈",
-    "url": "https://www.dawn.com/news/1996959/jirga-convened-by-kp-cm-decides-on-holding-talks-with-centre-other-stakeholders-over-drone-attacks",
-    "timestamp": "2026-05-02T21:47:51.809791+00:00",
-    "original_time": "2026-05-02T18:49:06+05:00"
-  },
-  {
-    "id": "article_e5573f05598f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/1994662",
-    "timestamp": "2026-05-02T21:48:08.544775+00:00",
-    "original_time": "2026-05-02T21:48:08.544730+00:00"
-  },
-  {
-    "id": "article_3c9a14b6ed29",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Saudi Arabia reverses decision setting minimum age for Haj pilgrims at 15 years",
-    "translated_title": "沙特阿拉伯撤销朝觐者最低年龄为 15 岁的决定",
-    "url": "https://www.dawn.com/news/1996941/saudi-arabia-reverses-decision-setting-minimum-age-for-haj-pilgrims-at-15-years",
-    "timestamp": "2026-05-02T21:48:30.269720+00:00",
-    "original_time": "2026-05-02T15:29:23+05:00"
-  },
-  {
-    "id": "article_6ccc5bd8d5f1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PM Shehbaz orders formulation of strategy to stabilise electricity tariffs",
-    "translated_title": "总理谢赫巴兹下令制定稳定电价战略",
-    "url": "https://www.dawn.com/news/1996962/pm-shehbaz-orders-formulation-of-strategy-to-stabilise-electricity-tariffs",
-    "timestamp": "2026-05-02T21:49:42.709861+00:00",
-    "original_time": "2026-05-02T19:03:16+05:00"
-  },
-  {
-    "id": "article_d55243836540",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Shooting at dinner attended by Trump spotlights US hotel industry's nagging and costly security problem",
-    "translated_title": "特朗普出席晚宴时发生枪击事件凸显美国酒店业棘手且代价高昂的安全问题",
-    "url": "https://www.dawn.com/news/1996968/shooting-at-dinner-attended-by-trump-spotlights-us-hotel-industrys-nagging-and-costly-security-problem",
-    "timestamp": "2026-05-02T21:50:02.627088+00:00",
-    "original_time": "2026-05-02T19:38:24+05:00"
-  },
-  {
-    "id": "article_7f034933a5a2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "IED attack targets police official’s residence in Lakki Marwat, causes significant damage",
-    "translated_title": "简易爆炸装置袭击目标拉基马尔瓦特警察官邸，造成重大损失",
-    "url": "https://www.dawn.com/news/1996937/ied-attack-targets-police-officials-residence-in-lakki-marwat-causes-significant-damage",
-    "timestamp": "2026-05-02T21:50:55.117156+00:00",
-    "original_time": "2026-05-02T14:58:29+05:00"
-  },
-  {
-    "id": "article_8f9ffbec8107",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan slams 'one-sided' remarks by British diplomat on Pak-Afghan border situation",
-    "translated_title": "巴基斯坦谴责英国外交官就巴阿边境局势发表“片面”言论",
-    "url": "https://www.dawn.com/news/1996946/pakistan-slams-one-sided-remarks-by-british-diplomat-on-pak-afghan-border-situation",
-    "timestamp": "2026-05-02T21:51:48.824325+00:00",
-    "original_time": "2026-05-02T16:50:42+05:00"
-  },
-  {
-    "id": "article_9fa5b9db296b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Interior minister briefs PM Shehbaz on security situation in country",
-    "translated_title": "内政部长向谢赫巴兹总理介绍了该国的安全局势",
-    "url": "https://www.dawn.com/news/1996979/interior-minister-briefs-pm-shehbaz-on-security-situation-in-country",
-    "timestamp": "2026-05-02T21:52:09.014648+00:00",
-    "original_time": "2026-05-02T21:35:43+05:00"
-  },
-  {
-    "id": "article_15323cd31ec1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/1996945/fcc-rejects-balochistan-govt-plea-for-lifetime-facilities-to-retired-chief-secretaries-widows",
-    "timestamp": "2026-05-02T21:55:10.903917+00:00",
-    "original_time": "2026-05-02T21:55:10.903885+00:00"
-  },
-  {
-    "id": "article_36d9402268d4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Austria arrests man suspected of lacing jars of baby food with rat poison",
-    "translated_title": "奥地利逮捕涉嫌在婴儿食品罐中掺入老鼠药的男子",
-    "url": "https://www.dawn.com/news/1996983/austria-arrests-man-suspected-of-lacing-jars-of-baby-food-with-rat-poison",
-    "timestamp": "2026-05-02T21:55:17.911379+00:00",
-    "original_time": "2026-05-02T22:19:28+05:00"
-  },
-  {
-    "id": "article_e9e5a7e17178",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Karachi court grants bail to SSP's son arrested following heated exchange with police in DHA",
-    "translated_title": "卡拉奇法院批准 SSP 儿子保释，该儿子因与 DHA 警方激烈交锋而被捕",
-    "url": "https://www.dawn.com/news/1996951/karachi-court-grants-bail-to-ssps-son-arrested-following-heated-exchange-with-police-in-dha",
-    "timestamp": "2026-05-02T21:55:36.807171+00:00",
-    "original_time": "2026-05-02T17:29:22+05:00"
-  },
-  {
-    "id": "article_99efbfe3dd76",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Donald Trump says Iran is ‘going to negotiate’ or face ‘problems’",
-    "translated_title": "唐纳德·特朗普表示伊朗将“进行谈判”或面临“问题”",
-    "url": "https://arynews.tv/donald-trump-says-iran-is-going-to-negotiate-or-face-problems",
-    "timestamp": "2026-05-02T21:56:03.801460+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_55a5ab65cc8d",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Islamabad Talks round 2: Pakistan awaits Iran response",
-    "translated_title": "伊斯兰堡第二轮会谈：巴基斯坦等待伊朗的回应",
-    "url": "https://arynews.tv/islamabad-talks-round-2-pakistan-awaits-iran-response",
-    "timestamp": "2026-05-02T21:56:21.065486+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_c6dbf40e6c2b",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Iran will not negotiate with US under shadow of threats: Ghalibaf",
-    "translated_title": "加利巴夫：伊朗不会在威胁阴影下与美国谈判",
-    "url": "https://arynews.tv/iran-will-not-negotiate-with-us-under-shadow-of-threats-ghalibaf",
-    "timestamp": "2026-05-02T21:56:38.946690+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_ffbfe9ae5f73",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "China endorses Pakistan’s efforts to facilitate US–Iran peace talks",
-    "translated_title": "中方支持巴基斯坦为推动美伊和谈所做的努力",
-    "url": "https://arynews.tv/china-endorses-pakistans-efforts-to-facilitate-us-iran-peace-talks",
-    "timestamp": "2026-05-02T21:56:56.127821+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_bfab3bac456e",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Traffic plan rolled out, key roads closed in Islamabad",
-    "translated_title": "交通计划出台，伊斯兰堡主要道路关闭",
-    "url": "https://arynews.tv/traffic-plan-rolled-out-key-roads-closed-in-islamabad",
-    "timestamp": "2026-05-02T21:57:12.936392+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_2cc5ab05daa1",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Iran state TV denies reports of diplomatic delegation in Islamabad",
-    "translated_title": "伊朗国家电视台否认外交代表团驻伊斯兰堡的报道",
-    "url": "https://arynews.tv/iran-state-tv-denies-reports-of-diplomatic-delegation-in-islamabad",
-    "timestamp": "2026-05-02T21:57:30.474382+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_b71f7fc22d8a",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Pakistan Reaffirms Commitment to Hosting US-Iran Dialogue",
-    "translated_title": "巴基斯坦重申主办美伊对话的承诺",
-    "url": "https://arynews.tv/pakistan-reaffirms-commitment-to-hosting-us-iran-dialogue",
-    "timestamp": "2026-05-02T21:57:47.206529+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_064b783065fe",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "JD Vance Visit to Pakistan Postponed",
-    "translated_title": "JD万斯对巴基斯坦的访问推迟",
-    "url": "https://arynews.tv/jd-vance-visit-to-pakistan-postponed",
-    "timestamp": "2026-05-02T21:58:04.411276+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_281e47eba0dd",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Donald Trump repeats that Iran’s ‘entire Navy is at bottom of Sea’",
-    "translated_title": "唐纳德·特朗普重申伊朗“整个海军都在海底”",
-    "url": "https://arynews.tv/donald-trump-repeats-that-irans-entire-navy-is-at-bottom-of-sea",
-    "timestamp": "2026-05-02T21:58:22.628200+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
-  },
-  {
-    "id": "article_2d5d8653effe",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Interior Minister, US envoy discuss security for Islamabad talks",
-    "translated_title": "内政部长与美国特使讨论伊斯兰堡会谈的安全问题",
-    "url": "https://arynews.tv/interior-minister-us-envoy-discuss-security-for-islamabad-talks",
-    "timestamp": "2026-05-02T21:58:40.471387+00:00",
-    "original_time": "2026-05-02T00:00:00+00:00"
   }
 ]
