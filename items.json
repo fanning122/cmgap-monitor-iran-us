@@ -1,6 +1,19 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-2290005866913116175",
+    "id": "tweet_ForeignOfficePk_-3889764510184913809",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister / Foreign Minister, Senator Mohammad Ishaq Dar@MIshaqDar50spoke tonight with UK Foreign Secretary H. E. Ms Yvette Cooper@YvetteCooperMP.\n\nThey exchanged views on evolving regional developments. Foreign Secretary Cooper reiterated appreciation of",
+    "translated_text": "副首相兼外交部长、参议员 Mohammad Ishaq Dar@MIshaqDar50 今晚与英国外交大臣 Yvette Cooper 女士阁下进行了交谈@YvetteCooperMP。\n\n他们就不断变化的区域发展交换了意见。外交大臣库珀重申赞赏",
+    "images": [
+      "3c23c5eb91515aa1.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-3889764510184913809",
+    "timestamp": "2026-05-04T18:14:49.336449+00:00",
+    "original_time": "2026-05-04T17:35:19+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_8954657911485070163",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50today received the Deputy Foreign Minister of Norway, H.E. Mr. Andreas Motzfeldt Kravik, at the Ministry of Foreign Affairs. The two sides held discussions on the evolving regional situation.\n\nDPM/FM",
@@ -11,23 +24,23 @@
       "1e69c35913bc9305.jpg",
       "ac982fe34d1f4025.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-2290005866913116175",
-    "timestamp": "2026-05-04T16:06:49.672974+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/8954657911485070163",
+    "timestamp": "2026-05-04T18:14:49.700365+00:00",
     "original_time": "2026-05-04T08:55:37+00:00"
   },
   {
-    "id": "tweet_MIshaqDar50_-5992804232062459617",
+    "id": "tweet_MIshaqDar50_7838371063218207336",
     "type": "tweet",
     "username": "MIshaqDar50",
     "text": "Pleased to announce that twenty-two crew members from the seized Iranian container vessel, “MV Touska”, have been safely evacuated to Pakistan.\n\nThe individuals were safely flown in Pakistan last night and will be transferred to Iran today. The Iranian ship is also being",
     "translated_text": "很高兴地宣布，被扣押的伊朗集装箱船“MV Touska”上的 22 名船员已安全撤离至巴基斯坦。\n\n这些人昨晚安全飞抵巴基斯坦，今天将被转移到伊朗。伊朗船只也被",
     "images": [],
-    "url": "https://x.com/MIshaqDar50/status/-5992804232062459617",
-    "timestamp": "2026-05-04T16:06:49.827931+00:00",
+    "url": "https://x.com/MIshaqDar50/status/7838371063218207336",
+    "timestamp": "2026-05-04T18:14:49.895479+00:00",
     "original_time": "2026-05-04T07:52:55+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-4977971500958210073",
+    "id": "tweet_ForeignOfficePk_-3802272495239849462",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Pakistan Facilitates Transfer of Iranian Crew Members",
@@ -43,25 +56,25 @@
       "1d7695f51048fca1.svg",
       "c4de710564854f21.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-4977971500958210073",
-    "timestamp": "2026-05-04T16:06:50.768420+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-3802272495239849462",
+    "timestamp": "2026-05-04T18:14:50.402925+00:00",
     "original_time": "2026-05-04T06:45:49+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_2168767034338887206",
+    "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50held a telephonic conversation late last night with the Foreign Minister of Iran, Seyed Abbas Araqchi@Araghchi.\n\nDiscussion focused on regional situation and Pakistan’s ongoing diplomatic efforts",
-    "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50 昨晚深夜与伊朗外交部长赛义德·阿巴斯·阿拉克奇@Araghchi 进行了电话交谈。\n\n讨论重点是地区局势和巴基斯坦正在进行的外交努力",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
     "images": [
-      "58e7c5f382aef691.jpg"
+      "5cbc0b20ac9d773c.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/2168767034338887206",
-    "timestamp": "2026-05-04T16:06:51.011569+00:00",
-    "original_time": "2026-05-04T04:57:28+00:00"
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-05-04T18:15:06.196322+00:00",
+    "original_time": "2026-05-04T16:22:10+00:00"
   },
   {
-    "id": "tweet_DPM_PK_7612067908158851254",
+    "id": "tweet_DPM_PK_6482571640908564505",
     "type": "tweet",
     "username": "DPM_PK",
     "text": "Deputy Prime Minister/Foreign Minister, Senator Mohammad Ishaq Dar@MIshaqDar50chaired today a meeting of the Committee on Security Assessment of Oil Refineries and Oil Shortage Facilities.\n\nThe Committee reviewed the security arrangements of refineries and other oil storage",
@@ -71,12 +84,12 @@
       "70e1a5efefdcc473.jpg",
       "9125e954ee137270.jpg"
     ],
-    "url": "https://x.com/DPM_PK/status/7612067908158851254",
-    "timestamp": "2026-05-04T16:07:06.749982+00:00",
+    "url": "https://x.com/DPM_PK/status/6482571640908564505",
+    "timestamp": "2026-05-04T18:15:06.741442+00:00",
     "original_time": "2026-05-04T15:50:49+00:00"
   },
   {
-    "id": "tweet_DPM_PK_5485499647833939901",
+    "id": "tweet_DPM_PK_52825649142290051",
     "type": "tweet",
     "username": "DPM_PK",
     "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50chaired a high-level meeting to review the country’s petroleum, oil, and lubricants (POL) stock position.\n\nThe Petroleum Ministry briefed the committee on the prevailing supply situation, confirming",
@@ -86,145 +99,192 @@
       "c37ef4ec0a4446b2.jpg",
       "b2647826b8d6f356.jpg"
     ],
-    "url": "https://x.com/DPM_PK/status/5485499647833939901",
-    "timestamp": "2026-05-04T16:07:07.212390+00:00",
+    "url": "https://x.com/DPM_PK/status/52825649142290051",
+    "timestamp": "2026-05-04T18:15:07.076719+00:00",
     "original_time": "2026-05-04T15:01:14+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_3095420686812545804",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The 22 crew members of the Iranian container ship MV Tosca have been safely transferred to Pakistan, Ishaq Dar",
-    "translated_text": "伊朗集装箱船MV Tosca的22名船员已安全转移至巴基斯坦Ishaq Dar",
-    "images": [
-      "cda4510df8a548af.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/3095420686812545804",
-    "timestamp": "2026-05-04T16:07:07.475353+00:00",
-    "original_time": "2026-05-04T09:14:28+00:00"
-  },
-  {
-    "id": "tweet_thursday_times_-3946944885598621152",
-    "type": "tweet",
-    "username": "thursday_times",
-    "text": "According to the US Central Command, the United States has transferred the crew of the seized Iranian vessel Tuska to Pakistan. Islamabad has described it as a significant confidence-building step.\n\nAccording to Deputy Prime Minister Ishaq Dar, the 22 crew members have been",
-    "translated_text": "据美国中央司令部消息，美国已将被扣押的伊朗船只“图斯卡”号的船员转移至巴基斯坦。伊斯兰堡称这是建立信任的重要一步。\n\n据副总理伊沙克·达尔 (Ishaq Dar) 称，22 名船员已被",
-    "images": [
-      "bcf1fd97274dba3e.jpg"
-    ],
-    "url": "https://x.com/thursday_times/status/-3946944885598621152",
-    "timestamp": "2026-05-04T16:07:07.872508+00:00",
-    "original_time": "2026-05-04T09:22:17+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_1700193111626712008",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "This time, the air raid siren sounded in Dubai and Abu Dhabi.",
-    "translated_text": "这一次，迪拜和阿布扎比都拉响了空袭警报。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/1700193111626712008",
-    "timestamp": "2026-05-04T16:08:24.853104+00:00",
-    "original_time": "2026-05-04T15:54:14+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_5853957054833001047",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Another ship has also been targeted in an attack\n\nTrump's chef once again throws the world into trouble!\n\nUK Maritime Trade Operations: Reports have been received of a fire on a ship 14 nautical miles west of the Emirati port of Saqr",
-    "translated_text": "另一艘船也成为袭击目标\n\n特朗普的厨师再次让世界陷入困境！\n\n英国海事贸易业务：收到报告称，一艘位于阿联酋萨克尔港以西 14 海里处的船只起火",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/5853957054833001047",
-    "timestamp": "2026-05-04T16:08:25.301521+00:00",
-    "original_time": "2026-05-04T15:49:14+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_7021662604007655314",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Residents of Dubai in the UAE have all gone to shelters, and reports indicate that the city's public streets are empty.",
-    "translated_text": "阿联酋迪拜的居民全部前往避难所，有报道称该市的公共街道空无一人。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/7021662604007655314",
-    "timestamp": "2026-05-04T16:08:25.714594+00:00",
-    "original_time": "2026-05-04T15:46:02+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_4464637755737212434",
+    "id": "tweet_Tasnimnews_Fa_-7587848701403439736",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
-    "text": "Air traffic in the UAE disrupted\n\nDocumented reports indicate that air traffic at Sharjah and Dubai airports has been disrupted\n\nAccording to documentation, some aircraft have entered holding patterns (waiting circles) or are returning to their departure routes",
-    "translated_text": "阿联酋空中交通中断\n\n有记录的报告显示沙迦和迪拜机场的空中交通已中断\n\n根据文件显示，一些飞机已进入等待模式（等待圈）或正在返回出发航线",
+    "text": "Tether dropped by 15,000 tomans\n\nAlongside the rise in global oil prices and the fall in global gold prices following the intensification of unrest in the Strait of Hormuz, the price of Tether also declined by 15,000 tomans, from 189,000 tomans to 174,000 tomans.",
+    "translated_text": "Tether 减少了 15,000 个 tomans\n\n随着霍尔木兹海峡骚乱加剧导致全球油价上涨和全球金价下跌，Tether 价格也下跌了 15,000 托曼，从 189,000 托曼跌至 174,000 托曼。",
     "images": [
-      "9fe60e8283b3e451.jpg"
+      "62a52522231b092e.jpg"
     ],
-    "url": "https://x.com/Tasnimnews_Fa/status/4464637755737212434",
-    "timestamp": "2026-05-04T16:08:26.173097+00:00",
-    "original_time": "2026-05-04T15:47:17+00:00"
+    "url": "https://x.com/Tasnimnews_Fa/status/-7587848701403439736",
+    "timestamp": "2026-05-04T18:16:31.317737+00:00",
+    "original_time": "2026-05-04T16:49:34+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_-6483494442059156101",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Image attributed to the port of Fujairah, UAE\n\nThe UAE says that Iran, in response to America's bullying in the Strait of Hormuz and the UAE's support for this terrorist government, has carried out a drone attack on this port.",
-    "translated_text": "图片来自阿联酋富查伊拉港\n\n阿联酋表示，伊朗为了回应美国在霍尔木兹海峡的欺凌行为以及阿联酋对这个恐怖政府的支持，对这个港口进行了无人机袭击。",
-    "images": [
-      "5d20b17940cf80e3.jpg",
-      "654037f8ae6607d0.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-6483494442059156101",
-    "timestamp": "2026-05-04T16:08:26.805903+00:00",
-    "original_time": "2026-05-04T15:41:58+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_4077856655269666931",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Wall Street Index Falls\n\nOil Price Reaches $114\n\nIn the wake of escalating certain military activities in the Strait of Hormuz and the United States' insistence on continuing warmongering, the S&P 500, Nasdaq, and Dow Jones indices are rapidly declining",
-    "translated_text": "华尔街指数下跌\n\n油价达到 114 美元\n\n随着霍尔木兹海峡某些军事活动的升级以及美国坚持继续煽动战争，标准普尔 500 指数、纳斯达克指数和道琼斯指数迅速下跌",
-    "images": [
-      "7ea541c8542e7141.jpg",
-      "c0d96d96d763afa6.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/4077856655269666931",
-    "timestamp": "2026-05-04T16:08:27.310587+00:00",
-    "original_time": "2026-05-04T15:39:46+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_3614685583516869791",
+    "id": "tweet_Tasnimbrk_2097213888209027699",
     "type": "tweet",
     "username": "Tasnimbrk",
-    "text": "Account affiliated with the Army Commander-in-Chief: Security of the Hormuz region is Iran's red line.",
-    "translated_text": "陆军总司令下属账号：霍尔木兹地区安全是伊朗的红线。",
+    "text": "Reuters: Flightradar flight tracker shows that several flights bound for the UAE have been diverted to Muscat.",
+    "translated_text": "路透社记者：Flightradar航班追踪显示，多架飞往阿联酋的航班已改道飞往马斯喀特。",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/3614685583516869791",
-    "timestamp": "2026-05-04T16:08:27.610778+00:00",
-    "original_time": "2026-05-04T15:38:11+00:00"
+    "url": "https://x.com/Tasnimbrk/status/2097213888209027699",
+    "timestamp": "2026-05-04T18:16:31.569229+00:00",
+    "original_time": "2026-05-04T16:44:47+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_4343151639504273620",
+    "id": "tweet_Tasnimbrk_-3456762751269041561",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "A senior military official: The US claim of sinking several Iranian warships is false.",
+    "translated_text": "军方高级官员：美方称击沉多艘伊朗军舰的说法不实",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-3456762751269041561",
+    "timestamp": "2026-05-04T18:16:31.832489+00:00",
+    "original_time": "2026-05-04T16:40:22+00:00"
+  },
+  {
+    "id": "tweet_Tasnimnews_Fa_6388017950406706731",
+    "type": "tweet",
+    "username": "Tasnimnews_Fa",
+    "text": "With the rise in Brent oil prices, the global gold ounce fell by 2 percent, equivalent to $110, reaching the $4,500 range.\n\nFollowing the drop in the global ounce, the price of 18-karat gold also approached the lower end of the 20 million toman range once again.",
+    "translated_text": "随着布伦特油价上涨，全球黄金盎司下跌2%，折合110美元，触及4500美元区间。\n\n随着全球盎司的下跌，18克拉黄金的价格也再次逼近2000万托曼区间的下限。",
+    "images": [
+      "7cbee7a57f1135c5.jpg"
+    ],
+    "url": "https://x.com/Tasnimnews_Fa/status/6388017950406706731",
+    "timestamp": "2026-05-04T18:16:32.290890+00:00",
+    "original_time": "2026-05-04T16:30:45+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_1304303192249475372",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "News sources: UAE claims it has been subjected to a new missile wave",
+    "translated_text": "新闻来源：阿联酋声称遭受新一轮导弹袭击",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/1304303192249475372",
+    "timestamp": "2026-05-04T18:16:32.637662+00:00",
+    "original_time": "2026-05-04T16:29:32+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-527012831030433634",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "Israel's i24 News Network: All flights from Israel to Dubai have been suspended",
+    "translated_text": "以色列i24新闻网：所有从以色列飞往迪拜的航班已暂停",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-527012831030433634",
+    "timestamp": "2026-05-04T18:16:33.069253+00:00",
+    "original_time": "2026-05-04T16:28:53+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-914869884272317035",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "The government of Fujairah in the UAE claimed that three Indian nationals were injured following a drone strike on oil facilities in the region.",
+    "translated_text": "阿联酋富查伊拉政府声称，无人机袭击该地区石油设施，造成三名印度国民受伤。",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-914869884272317035",
+    "timestamp": "2026-05-04T18:16:33.570007+00:00",
+    "original_time": "2026-05-04T16:26:14+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-1106504807899076900",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "Bahrain Army Issues Alert\n\nThe General Command of the Bahrain Defense Force claimed that all weapons and units of this country are at the highest levels of readiness.",
+    "translated_text": "巴林陆军发出警报\n\n巴林国防军总指挥部声称，该国所有武器和部队均处于最高戒备状态。",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-1106504807899076900",
+    "timestamp": "2026-05-04T18:16:34.145011+00:00",
+    "original_time": "2026-05-04T16:27:55+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-6382539285598199242",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "Suspension of Flights to Dubai and Sharjah\n\nFlightradar announced that all flights en route to Dubai and Sharjah have been temporarily suspended.",
+    "translated_text": "暂停飞往迪拜和沙迦的航班\n\nFlightradar宣布，所有飞往迪拜和沙迦的航班已暂停。",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-6382539285598199242",
+    "timestamp": "2026-05-04T18:16:36.642110+00:00",
+    "original_time": "2026-05-04T15:35:40+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-5611001748115760574",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "The UAE claims that several missiles and drones were launched from Iran toward the port of Fujairah.",
+    "translated_text": "阿联酋声称，伊朗向富查伊拉港发射了多枚导弹和无人机。",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-5611001748115760574",
+    "timestamp": "2026-05-04T18:16:38.898143+00:00",
+    "original_time": "2026-05-04T15:33:02+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-5253069878217121332",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "A drone attack on the oil facilities in Fujairah Port, UAE, has resulted in a fire breaking out in the area.",
+    "translated_text": "无人机袭击了阿联酋富查伊拉港的石油设施，导致该地区起火。",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-5253069878217121332",
+    "timestamp": "2026-05-04T18:16:39.312303+00:00",
+    "original_time": "2026-05-04T15:32:27+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-8382116058626017846",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "Maritime Incident Near the UAE\n\nThe UK Maritime Trade Organization has received a report of an incident 36 nautical miles north of Dubai.",
+    "translated_text": "阿联酋附近发生海上事件\n\n英国海事贸易组织收到了迪拜以北 36 海里处发生事故的报告。",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-8382116058626017846",
+    "timestamp": "2026-05-04T18:16:39.780438+00:00",
+    "original_time": "2026-05-04T15:30:55+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-1429725651356935183",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "UAE's Claim Regarding Missile Attack on the Country\n\nThe UAE Ministry of Defense claimed that four cruise missiles, which were moving from the direction of Iran toward the territory of this country, were detected.",
+    "translated_text": "阿联酋关于对该国进行导弹袭击的声明\n\n阿联酋国防部声称，检测到四枚巡航导弹从伊朗方向飞向该国领土。",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/-1429725651356935183",
+    "timestamp": "2026-05-04T18:16:40.044011+00:00",
+    "original_time": "2026-05-04T15:29:58+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_2800112567003265490",
+    "type": "tweet",
+    "username": "Tasnimbrk",
+    "text": "Explosion in UAE Ports?\n\nSome unofficial and unconfirmed news reports indicate explosions in the UAE's Fujairah or Jebel Ali ports.\n\nThese reports have not yet been confirmed.",
+    "translated_text": "阿联酋港口发生爆炸？\n\n一些非官方和未经证实的新闻报道显示，阿联酋富查伊拉或杰贝阿里港口发生爆炸。\n\n这些报道尚未得到证实。",
+    "images": [],
+    "url": "https://x.com/Tasnimbrk/status/2800112567003265490",
+    "timestamp": "2026-05-04T18:16:40.540786+00:00",
+    "original_time": "2026-05-04T15:29:13+00:00"
+  },
+  {
+    "id": "tweet_Tasnimbrk_-2330327048131542704",
     "type": "tweet",
     "username": "Tasnimbrk",
     "text": "UAE Air Defense Activation Following Missile Threat\n\nUAE: We are facing a missile threat; Emiratis should remain in safe locations",
     "translated_text": "阿联酋在导弹威胁后启动防空系统\n\n阿联酋：我们面临导弹威胁；阿联酋人应留在安全的地方",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/4343151639504273620",
-    "timestamp": "2026-05-04T16:08:30.178348+00:00",
+    "url": "https://x.com/Tasnimbrk/status/-2330327048131542704",
+    "timestamp": "2026-05-04T18:16:40.670636+00:00",
     "original_time": "2026-05-04T15:28:27+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_-838869723798929400",
+    "id": "tweet_Tasnimbrk_7535468913621995841",
     "type": "tweet",
     "username": "Tasnimbrk",
     "text": "US Plea to China to Reopen the Strait of Hormuz\n\nAccording to Fox News, Scott Bessent, the US Treasury Secretary, has urged China to intensify its diplomatic efforts to persuade Iran to reopen the Strait of Hormuz to international ships.",
     "translated_text": "美国恳求中国重新开放霍尔木兹海峡\n\n据福克斯新闻报道，美国财长斯科特·贝森特敦促中国加大外交努力，说服伊朗向国际船只重新开放霍尔木兹海峡。",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-838869723798929400",
-    "timestamp": "2026-05-04T16:08:30.663000+00:00",
+    "url": "https://x.com/Tasnimbrk/status/7535468913621995841",
+    "timestamp": "2026-05-04T18:16:40.785727+00:00",
     "original_time": "2026-05-04T15:23:19+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_9179151712305468748",
+    "id": "tweet_Tasnimnews_Fa_-379570377485311397",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
     "text": "Footage of the Navy of the Army's warning shots fired at American destroyers",
@@ -233,381 +293,145 @@
       "c56858dca67c12e8.svg",
       "f4382c1d9bbfb6d3.jpg"
     ],
-    "url": "https://x.com/Tasnimnews_Fa/status/9179151712305468748",
-    "timestamp": "2026-05-04T16:08:31.195881+00:00",
+    "url": "https://x.com/Tasnimnews_Fa/status/-379570377485311397",
+    "timestamp": "2026-05-04T18:16:41.005429+00:00",
     "original_time": "2026-05-04T15:24:59+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_3351803571671204604",
+    "id": "tweet_Tasnimbrk_-5630966645654711635",
     "type": "tweet",
     "username": "Tasnimbrk",
     "text": "Terrorists Failed to Infiltrate Iran's Western Borders\n\nWestern Azerbaijan IRGC Commander:\n\nThe enemies had plans to infiltrate the country's western borders and create instability, which were thwarted due to the vigilance and readiness of the armed forces.",
     "translated_text": "恐怖分子未能渗透伊朗西部边境\n\n西阿塞拜疆伊斯兰革命卫队指挥官：\n\n敌人计划渗透该国西部边境并制造不稳定，但由于武装部队的警惕和准备，这一计划遭到挫败。",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/3351803571671204604",
-    "timestamp": "2026-05-04T16:08:31.740249+00:00",
+    "url": "https://x.com/Tasnimbrk/status/-5630966645654711635",
+    "timestamp": "2026-05-04T18:16:41.116311+00:00",
     "original_time": "2026-05-04T12:32:50+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_-830867921732098145",
+    "id": "tweet_Tasnimbrk_3735185398220931024",
     "type": "tweet",
     "username": "Tasnimbrk",
     "text": "Hezbollah's Missile Operation Against Israeli Military\n\nHezbollah in Lebanon announced that Islamic Resistance fighters today targeted a gathering of military personnel and military vehicles of the Zionist regime's army around the Al-Qantara settlement with a missile attack.",
     "translated_text": "真主党针对以色列军队的导弹行动\n\n黎巴嫩真主党宣布，伊斯兰抵抗运动战士今天对 Al-Qantara 定居点周围聚集的犹太复国主义政权军队的军事人员和军车进行了导弹袭击。",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-830867921732098145",
-    "timestamp": "2026-05-04T16:08:32.319777+00:00",
+    "url": "https://x.com/Tasnimbrk/status/3735185398220931024",
+    "timestamp": "2026-05-04T18:16:41.233142+00:00",
     "original_time": "2026-05-04T12:33:14+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_-3229659768184923740",
+    "id": "tweet_Tasnimbrk_-125475644584657998",
     "type": "tweet",
     "username": "Tasnimbrk",
     "text": "Iranian Gas-Carrying Ship Passes Through U.S. Blockade\n\nTanker Trackers: \n\nThe ship \"XAVIA\" was observed loading in Iran's Asaluyeh a few weeks ago and appeared near the coast of Sohar in Oman two days ago.",
     "translated_text": "伊朗天然气运输船穿越美国封锁\n\n油轮追踪器： \n\n“XAVIA”号船几周前被发现在伊朗阿萨卢耶装载，两天前又出现在阿曼苏哈尔海岸附近。",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-3229659768184923740",
-    "timestamp": "2026-05-04T16:08:32.881548+00:00",
+    "url": "https://x.com/Tasnimbrk/status/-125475644584657998",
+    "timestamp": "2026-05-04T18:16:41.361340+00:00",
     "original_time": "2026-05-04T12:46:20+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_-2787921474915304100",
+    "id": "tweet_Tasnimbrk_-8562960316709644651",
     "type": "tweet",
     "username": "Tasnimbrk",
     "text": "The number of Lebanese martyrs has reached 2,700\n\nLebanese Ministry of Health: In the course of the attacks by the Zionist regime, 2,696 people were martyred and 8,264 others were wounded",
     "translated_text": "黎巴嫩烈士人数已达2700人\n\n黎巴嫩卫生部：犹太复国主义政权袭击造成2696人死亡、8264人受伤",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-2787921474915304100",
-    "timestamp": "2026-05-04T16:08:33.485043+00:00",
+    "url": "https://x.com/Tasnimbrk/status/-8562960316709644651",
+    "timestamp": "2026-05-04T18:16:41.512802+00:00",
     "original_time": "2026-05-04T13:20:25+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_1974275753216794079",
+    "id": "tweet_Tasnimbrk_6653790621171119030",
     "type": "tweet",
     "username": "Tasnimbrk",
     "text": "The American Automobile Association (AAA) announced that gasoline prices in the country have increased by more than 49 percent since the start of the war with Iran.",
     "translated_text": "美国汽车协会 (AAA) 宣布，自与伊朗开战以来，该国汽油价格上涨了 49% 以上。",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/1974275753216794079",
-    "timestamp": "2026-05-04T16:08:33.961748+00:00",
+    "url": "https://x.com/Tasnimbrk/status/6653790621171119030",
+    "timestamp": "2026-05-04T18:16:41.635369+00:00",
     "original_time": "2026-05-04T13:44:50+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_123150819872906708",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Injury of 2 Zionist soldiers in southern Lebanon\n\nThe spokesperson for the Zionist regime's army added: These soldiers were transferred to the hospital for treatment, and their families were also informed.",
-    "translated_text": "黎巴嫩南部 2 名犹太复国主义士兵受伤\n\n犹太复国主义政权军队发言人补充说：这些士兵已被转移到医院接受治疗，他们的家人也得到了通知。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/123150819872906708",
-    "timestamp": "2026-05-04T16:08:34.342913+00:00",
-    "original_time": "2026-05-04T13:45:17+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_1529471168472937890",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "No commercial or tanker vessel has passed through the Strait of Hormuz in the past hours.\n\nSpokesman for the IRGC: The claims of American officials are baseless and utterly false, and other maritime activities contrary to the declared principles of the IRGC Navy will face serious",
-    "translated_text": "过去几个小时内没有商船或油轮通过霍尔木兹海峡。\n\n伊朗革命卫队发言人：美国官员的说法毫无根据且完全错误，其他违反伊朗革命卫队海军所宣称原则的海上活动将面临严重制裁",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/1529471168472937890",
-    "timestamp": "2026-05-04T16:08:34.802815+00:00",
-    "original_time": "2026-05-04T14:30:31+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_-6752873427561644279",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Ministry of Cooperatives, Labour, and Social Welfare: The credit for the tenth phase of the electronic coupon scheme will be deposited into the accounts of household heads starting from Tuesday, May 5th.",
-    "translated_text": "合作社、劳工和社会福利部：电子优惠券计划第十阶段的积分将从 5 月 5 日星期二开始存入户主账户。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-6752873427561644279",
-    "timestamp": "2026-05-04T16:08:35.361653+00:00",
-    "original_time": "2026-05-04T14:49:24+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_-8523231443280054914",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "The Director General of Meteorology for Tehran Province announced the forecast of atmospheric instability over the next three days in the capital and issued a warning regarding strong to very strong winds, dust, and reduced air quality in some areas.",
-    "translated_text": "德黑兰省气象局局长宣布，预计首都未来三天大气不稳定，并就部分地区的强风、沙尘和空气质量下降发出警告​​。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-8523231443280054914",
-    "timestamp": "2026-05-04T16:08:35.750742+00:00",
-    "original_time": "2026-05-04T14:50:27+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_774462955617951165",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Haaretz Disclosure: Iran's Extensive Infiltration into Israel's Security Documents\n\nHaaretz: Over the years, Iran has successfully hacked into the systems of Israel's Institute for National Security Studies and gained access to a vast amount of sensitive information\n\nThousands of",
-    "translated_text": "《国土报》披露：伊朗广泛渗透以色列安全文件\n\n《国土报》：多年来，伊朗成功侵入以色列国家安全研究所系统，获取大量敏感信息\n\n数千个",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/774462955617951165",
-    "timestamp": "2026-05-04T16:08:36.417487+00:00",
-    "original_time": "2026-05-04T14:24:58+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_623411782865009885",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "French President: Europe has decided to depend on no power\n\nWe will probably experience the cost of our dependencies on China; there is no doubt about that\n\nA major danger for Europe is the accelerating confrontation between China and the United States",
-    "translated_text": "法国总统：欧洲已决定不依赖任何权力\n\n我们可能会经历依赖中国的代价；毫无疑问\n\n欧洲面临的主要危险是中美之间的对抗加剧",
-    "images": [
-      "c56858dca67c12e8.svg",
-      "8d5fb7f5db872e8b.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/623411782865009885",
-    "timestamp": "2026-05-04T16:08:36.877195+00:00",
-    "original_time": "2026-05-04T14:13:25+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_-2332064510249339101",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Ali Emad, a member of Yemen's Ansarullah Political Council, to Tasnim: Dominating the Hormuz and Bab al-Mandab is a divine gift for the Axis of Resistance\n\nSaudi Arabia knows that if it enters war against Iran, our patience will run out and they will pay a heavy price",
-    "translated_text": "也门安萨鲁拉政治委员会成员阿里·埃马德致塔斯尼姆：统治霍尔木兹和曼德卜是抵抗轴心的神圣礼物\n\n沙特阿拉伯知道，如果对伊朗发动战争，我们的耐心就会耗尽，他们将付出沉重的代价",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-2332064510249339101",
-    "timestamp": "2026-05-04T16:08:37.341642+00:00",
-    "original_time": "2026-05-04T14:03:24+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-2480264984089088147",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "I miss you, I miss the smile of my martyred gentleman...\n\nThe evening presence of the mourning people near the site of the martyrdom of His Eminence Grand Ayatollah Imam Sayyid Ali Hosseini Khamenei, may his pure soul be sanctified; Keshvar Doust Street",
-    "translated_text": "我想念你，我想念我烈士的笑容……\n\n晚上，哀悼的人们聚集在大阿亚图拉伊玛目赛义德·阿里·侯赛尼·哈梅内伊殉难地点附近，愿他纯洁的灵魂被圣化；凯什瓦尔·杜斯特街",
-    "images": [
-      "c56858dca67c12e8.svg",
-      "433abfe1ed5d80f1.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-2480264984089088147",
-    "timestamp": "2026-05-04T16:08:37.894901+00:00",
-    "original_time": "2026-05-04T14:10:59+00:00"
-  },
-  {
-    "id": "tweet_AJENews_0",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "b4cf08a173dc8733.jpg",
-      "9b20f961c2ada6de.svg"
-    ],
-    "url": "https://x.com/AJENews/status/0",
-    "timestamp": "2026-05-04T16:09:52.780611+00:00",
-    "original_time": "2026-05-04T05:24:28+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-1042718428665681252",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Three Indian nationals injured in Fujairah drone attackLIVE updates:https://aje.news/t7e6pf?update=4544437…",
-    "translated_text": "突发：三名印度国民在富查伊拉无人机袭击中受伤实时更新：https://aje.news/t7e6pf?update=4544437…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "d63dc41d397b1069.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-1042718428665681252",
-    "timestamp": "2026-05-04T16:09:53.432466+00:00",
-    "original_time": "2026-05-04T16:05:23+00:00"
-  },
-  {
-    "id": "tweet_AJENews_5967870123070917255",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Cargo ship in Gulf reports engine room fire, crew safe: UKMTOLIVE updates:https://aje.news/t7e6pf?update=4544316…",
-    "translated_text": "突发新闻：海湾货船报告机舱起火，船员安全：UKMTOLIVE 更新：https://aje.news/t7e6pf?update=4544316…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "2582a2765c668548.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/5967870123070917255",
-    "timestamp": "2026-05-04T16:09:53.873900+00:00",
-    "original_time": "2026-05-04T15:56:09+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-3244581963414169888",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: UKMTO says it has received a report of an incident involving a cargo vessel about 36 nautical miles north of DubaiLIVE updates:https://aje.news/t7e6pf?update=4544316…",
-    "translated_text": "突发新闻：UKMTO 表示已收到一份涉及迪拜以北约 36 海里处一艘货船的事故报告实时更新：https://aje.news/t7e6pf?update=4544316…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "96d1443e2c9f6d44.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-3244581963414169888",
-    "timestamp": "2026-05-04T16:09:54.489280+00:00",
-    "original_time": "2026-05-04T15:45:30+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-5016534395751044258",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: UAE says air defences 'engaging with missiles attacks, incoming drones from Iran'LIVE updates:https://aje.news/t7e6pf?update=4544348…",
-    "translated_text": "突发新闻：阿联酋表示防空系统“参与导弹袭击，来自伊朗的无人机”实时更新：https://aje.news/t7e6pf?update=4544348…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "74b1bd40e8fab119.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-5016534395751044258",
-    "timestamp": "2026-05-04T16:09:55.085082+00:00",
-    "original_time": "2026-05-04T15:38:05+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-2778319598115474071",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Explosion, fire occurred on South Korean vessel in Hormuz: Seoul's Foreign MinistryLIVE updates:https://aje.news/t7e6pf?update=4544176…",
-    "translated_text": "突发新闻：韩国船只在霍尔木兹海峡发生爆炸和火灾：首尔外交部实时更新：https://aje.news/t7e6pf?update=4544176…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "880ba5662ed6f90f.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-2778319598115474071",
-    "timestamp": "2026-05-04T16:09:58.007074+00:00",
-    "original_time": "2026-05-04T14:25:03+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-676085437080740244",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Qatar condemns attack on tanker, rejects use of Strait of Hormuz as 'bargaining chip'LIVE updates:https://aje.news/t7e6pf?update=4544037…",
-    "translated_text": "更新：卡塔尔谴责对油轮的袭击，拒绝使用霍尔木兹海峡作为“讨价还价的筹码”实时更新：https://aje.news/t7e6pf?update=4544037…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "a9eb649a91a35cf4.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-676085437080740244",
-    "timestamp": "2026-05-04T16:09:58.697756+00:00",
-    "original_time": "2026-05-04T14:20:30+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-6964365317044546277",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: US treasury secretary calls on China to push Iran to open straitLIVE updates:https://aje.news/t7e6pf?update=4544093…",
-    "translated_text": "更新：美国财政部长呼吁中国推动伊朗开放海峡实时更新：https://aje.news/t7e6pf?update=4544093…",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/-6964365317044546277",
-    "timestamp": "2026-05-04T16:09:58.843557+00:00",
-    "original_time": "2026-05-04T14:00:32+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-4494298420564617101",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: US Treasury Secretary Scott Bessent says higher gasoline prices are affecting Americans but are expected to fall quickly once the war with Iran ends.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：美国财政部长斯科特·贝森特表示，汽油价格上涨正在影响美国人，但一旦与伊朗的战争结束，预计汽油价格将迅速下跌。更多信息请访问 http://aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "f9fce52868b483c1.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4494298420564617101",
-    "timestamp": "2026-05-04T16:09:59.029047+00:00",
-    "original_time": "2026-05-04T13:41:16+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-8892108051776545110",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran army says it confronted US destroyers; fired cruise missile, rocket, and combat drone warning shots near Hormuz StraitLIVE updates:https://aje.news/t7e6pf?update=4544006…",
-    "translated_text": "突发新闻：伊朗军队称其与美国驱逐舰对峙；在霍尔木兹海峡附近发射巡航导弹、火箭和战斗无人机警告射击实时更新：https://aje.news/t7e6pf?update=4544006…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "8b73bfc2d10b0593.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-8892108051776545110",
-    "timestamp": "2026-05-04T16:09:59.230777+00:00",
-    "original_time": "2026-05-04T13:40:26+00:00"
-  },
-  {
-    "id": "tweet_AJENews_2572518573110105148",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Hezbollah claims to have attacked Israeli soldiers in southern Lebanon's Marjayoun districtLIVE updates:https://aje.news/t7e6pf?update=4543957…",
-    "translated_text": "突发：真主党声称袭击了黎巴嫩南部 Marjayoun 区的以色列士兵实时更新：https://aje.news/t7e6pf?update=4543957…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "20f4e314a09f4099.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/2572518573110105148",
-    "timestamp": "2026-05-04T16:10:00.145491+00:00",
-    "original_time": "2026-05-04T13:30:19+00:00"
-  },
-  {
-    "id": "tweet_AJENews_6042618911501044888",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Gulf Cooperation Council chief condemns Iranian attack on UAE oil tankerLIVE updates:https://aje.news/t7e6pf?update=4543962…",
-    "translated_text": "突发：海湾合作委员会主席谴责伊朗袭击阿联酋油轮实时更新：https://aje.news/t7e6pf?update=4543962…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "e9a7426e42aacbdf.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6042618911501044888",
-    "timestamp": "2026-05-04T16:10:00.736672+00:00",
-    "original_time": "2026-05-04T13:25:30+00:00"
-  },
-  {
-    "id": "tweet_AJENews_4512880322993696074",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: New UAE phone alert says situation 'now safe' after issuing Iran missile warningLIVE updates:https://aje.news/t7e6pf?update=4544055…",
-    "translated_text": "突发新闻：阿联酋新的电话警报显示，在发出伊朗导弹警告后，情况“现在安全”实时更新：https://aje.news/t7e6pf?update=4544055…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "2add30b7846ee27c.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/4512880322993696074",
-    "timestamp": "2026-05-04T16:10:01.215370+00:00",
-    "original_time": "2026-05-04T13:21:08+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_5106427322349099157",
+    "id": "tweet_CBSNews_3735578735544709263",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump family's World Liberty Financial sues crypto billionaire Justin Sun for defamation.",
-    "translated_text": "特朗普总统家族的世界自由金融公司起诉加密货币亿万富翁孙宇晨诽谤。",
+    "text": "French President Emmanuel Macron on Monday urged the United States and Iran to work together on a coordinated reopening of the Strait of Hormuz, saying it was the only lasting solution to restore free and unrestricted navigation through the vital shipping route.",
+    "translated_text": "法国总统马克龙周一敦促美国和伊朗共同努力，协调重新开放霍尔木兹海峡，并表示这是恢复这条重要航线自由和不受限制航行的唯一持久解决方案。",
     "images": [
-      "a74637bfa4fcffca.jpg"
+      "4e90b80e30724950.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/5106427322349099157",
-    "timestamp": "2026-05-04T16:10:55.777456+00:00",
-    "original_time": "2026-05-04T16:09:12+00:00"
+    "url": "https://x.com/CBSNews/status/3735578735544709263",
+    "timestamp": "2026-05-04T18:18:54.804435+00:00",
+    "original_time": "2026-05-04T18:17:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_1834696846907633034",
+    "id": "tweet_CBSNews_-973106515271602857",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Lizzo opens up about new music amid yearslong legal battle: \"The truth will come out.\"",
-    "translated_text": "在长达数年的法律斗争中，利佐公开谈论新音乐：“真相终将水落石出。”",
+    "text": "89-year-old man in hospice gets his wish to attend one more Kentucky Derby.",
+    "translated_text": "89 岁的临终关怀老人如愿以偿地再次参加一场肯塔基德比赛。",
     "images": [
-      "07585d7e278b1cc5.jpg"
+      "a716eaa90f6247ba.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1834696846907633034",
-    "timestamp": "2026-05-04T16:10:56.077605+00:00",
-    "original_time": "2026-05-04T16:08:25+00:00"
+    "url": "https://x.com/CBSNews/status/-973106515271602857",
+    "timestamp": "2026-05-04T18:18:55.147222+00:00",
+    "original_time": "2026-05-04T18:01:58+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2371687507738963223",
+    "id": "tweet_CBSNews_7729560356943427203",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Spirit Airlines says it has refunded most customers after shutting down.",
-    "translated_text": "精神航空表示，该公司在停业后已向大多数乘客退款。",
+    "text": "The U.S. sinks 6 small Iranian boats as Iran launches attacks on UAE and a ship in Strait of Hormuz.",
+    "translated_text": "伊朗在霍尔木兹海峡对阿联酋和一艘船只发动袭击，美国击沉了 6 艘伊朗小船。",
     "images": [
-      "d8fe6bce56c6b5ba.jpg"
+      "42f53580111ab4c1.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2371687507738963223",
-    "timestamp": "2026-05-04T16:10:56.600307+00:00",
-    "original_time": "2026-05-04T16:07:42+00:00"
+    "url": "https://x.com/CBSNews/status/7729560356943427203",
+    "timestamp": "2026-05-04T18:18:55.348207+00:00",
+    "original_time": "2026-05-04T18:00:58+00:00"
   },
   {
-    "id": "tweet_CBSNews_858857334257392113",
+    "id": "tweet_CBSNews_-6713931048286261420",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Thermos is recalling 8.2 million bottles and jars after 27 complaints that stoppers forcefully ejected from the containers upon opening, causing impact and laceration injuries requiring medical attention and permanent vision loss in three people.",
+    "translated_text": "在收到 27 起投诉后，Thermos 正在召回 820 万个瓶子和罐子，原因是瓶塞在打开时从容器中强行弹出，造成撞击和割伤，需要就医，并造成 3 人永久性视力丧失。",
+    "images": [
+      "5ce387c49166ff07.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-6713931048286261420",
+    "timestamp": "2026-05-04T18:18:55.595023+00:00",
+    "original_time": "2026-05-04T17:51:27+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_6975257730816719556",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Read more here:",
+    "translated_text": "在这里阅读更多内容：",
+    "images": [
+      "5dc7fb590e1aa356.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/6975257730816719556",
+    "timestamp": "2026-05-04T18:18:55.775065+00:00",
+    "original_time": "2026-05-04T17:51:49+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-7822022675046002210",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Emotional Spirit Airlines employees, who just lost their jobs when the airline ceased operations this weekend, gathered at the company's headquarters in Florida on Monday to rally around each other and share their heartbreak. \n\n\"This was my second home. All these people were my",
+    "translated_text": "情绪精神航空公司的员工在本周末该航空公司停止运营后刚刚失去了工作，周一聚集在佛罗里达州的公司总部，互相团结起来，分享他们的心碎。 \n\n“这是我的第二个家。所有这些人都是我的",
+    "images": [
+      "47b7f09d3d629d98.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-7822022675046002210",
+    "timestamp": "2026-05-04T18:18:56.339415+00:00",
+    "original_time": "2026-05-04T17:27:46+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_5429941901059878623",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A new study suggests that a tiny, icy world beyond Pluto harbors a thin, delicate atmosphere that may have been created by volcanic eruptions or a comet strike.",
@@ -615,12 +439,12 @@
     "images": [
       "92021f5928af02cb.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/858857334257392113",
-    "timestamp": "2026-05-04T16:10:57.228848+00:00",
+    "url": "https://x.com/CBSNews/status/5429941901059878623",
+    "timestamp": "2026-05-04T18:18:58.545716+00:00",
     "original_time": "2026-05-04T16:07:05+00:00"
   },
   {
-    "id": "tweet_CBSNews_5304303292042069540",
+    "id": "tweet_CBSNews_-365190006570125728",
     "type": "tweet",
     "username": "CBSNews",
     "text": "BREAKING: The Supreme Court temporarily restores the FDA rule allowing the abortion pill mifepristone to be sent by mail.",
@@ -628,12 +452,12 @@
     "images": [
       "9177ce89d6a52d56.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/5304303292042069540",
-    "timestamp": "2026-05-04T16:10:57.494303+00:00",
+    "url": "https://x.com/CBSNews/status/-365190006570125728",
+    "timestamp": "2026-05-04T18:18:58.802868+00:00",
     "original_time": "2026-05-04T15:34:23+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3802702892485639620",
+    "id": "tweet_CBSNews_-6323430880343284054",
     "type": "tweet",
     "username": "CBSNews",
     "text": "GameStop offers to buy eBay for $55.5 billion as video game seller threatens hostile bid.",
@@ -641,51 +465,77 @@
     "images": [
       "670a1ccea43cff35.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3802702892485639620",
-    "timestamp": "2026-05-04T16:10:57.819451+00:00",
+    "url": "https://x.com/CBSNews/status/-6323430880343284054",
+    "timestamp": "2026-05-04T18:18:58.982316+00:00",
     "original_time": "2026-05-04T14:30:38+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7957669038126177741",
+    "id": "tweet_CBSNews_-7193716496539742190",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Sting embarks on \"The Last Ship\"",
-    "translated_text": "斯汀登上“最后一艘船”",
+    "text": "Spanish police impounded what is believed to be a national record haul of cocaine from a ship, with the seizure potentially reaching 40 tons, a union said.",
+    "translated_text": "一个工会表示，西班牙警方从一艘船上查获的可卡因数量据信创下全国纪录，查获量可能达到 40 吨。",
     "images": [
-      "a4429324e147ec5a.jpg"
+      "b6c4ff6aa8ffb076.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7957669038126177741",
-    "timestamp": "2026-05-04T16:11:00.025245+00:00",
-    "original_time": "2026-05-04T10:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/-7193716496539742190",
+    "timestamp": "2026-05-04T18:18:59.428180+00:00",
+    "original_time": "2026-05-04T14:29:02+00:00"
   },
   {
-    "id": "tweet_CBSNews_3031357125951328869",
+    "id": "tweet_CBSNews_5703533241396759697",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Overtourism: Too much of a good thing?",
-    "translated_text": "过度旅游：太多好事？",
+    "text": "All the past Met Gala themes over the years up to 2026",
+    "translated_text": "截至 2026 年历届 Met Gala 主题",
     "images": [
-      "69938107e68a60fd.jpg"
+      "ac8859148622a290.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/3031357125951328869",
-    "timestamp": "2026-05-04T16:11:00.237046+00:00",
-    "original_time": "2026-05-04T08:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/5703533241396759697",
+    "timestamp": "2026-05-04T18:18:59.738944+00:00",
+    "original_time": "2026-05-04T14:23:23+00:00"
   },
   {
-    "id": "tweet_CBSNews_6814713982389737444",
+    "id": "tweet_CBSNews_1885031672197058340",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Tom Coyne on becoming an \"accidental\" golf course owner",
-    "translated_text": "汤姆·科因 (Tom Coyne) 谈“意外”成为高尔夫球场老板",
+    "text": "Elizabeth Smart , who survived abduction and sexual abuse as a teenager and went on to become a child safety advocate, recently revealed a pivot into body building.",
+    "translated_text": "伊丽莎白·斯马特（Elizabeth Smart）在青少年时期经历了绑架和性虐待，后来成为一名儿童安全倡导者，她最近透露自己将转向健身。",
     "images": [
-      "deaf862818231c8f.jpg"
+      "14c78634070a2c0c.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/6814713982389737444",
-    "timestamp": "2026-05-04T16:11:00.439880+00:00",
-    "original_time": "2026-05-04T06:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/1885031672197058340",
+    "timestamp": "2026-05-04T18:19:00.138859+00:00",
+    "original_time": "2026-05-04T14:13:25+00:00"
   },
   {
-    "id": "tweet_ChristopherJM_-6001461777264825738",
+    "id": "tweet_CBSNews_-1847699100843466415",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "There are roughly 11,000 bird species around the world and some 2,000 of them can be found in Colombia, a country with diverse geography.",
+    "translated_text": "全世界大约有 11,000 种鸟类，其中约 2,000 种可以在哥伦比亚这个地理多样化的国家找到。",
+    "images": [
+      "25ed82834eb77c51.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1847699100843466415",
+    "timestamp": "2026-05-04T18:19:00.601935+00:00",
+    "original_time": "2026-05-04T14:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_7462627111303967140",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Flower fields once blanketed Grasse, France, where blossoms used in Chanel No. 5 are grown. Now luxury brands are reinvesting in the town long known as the perfume capital of the world.",
+    "translated_text": "法国格拉斯曾经覆盖着花田，香奈儿 5 号香水中使用的花朵就生长在那里。现在，奢侈品牌正在这个长期被誉为世界香水之都的小镇进行再投资。",
+    "images": [
+      "12f6ad4d01c11f6c.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/7462627111303967140",
+    "timestamp": "2026-05-04T18:19:00.936654+00:00",
+    "original_time": "2026-05-04T13:40:00+00:00"
+  },
+  {
+    "id": "tweet_ChristopherJM_-3114957795709773580",
     "type": "tweet",
     "username": "ChristopherJM",
     "text": "\"Staff in [Putin's] immediate circle, including cooks, photographers and bodyguards, have been barred from taking public transport and using mobile phones or internet-enabled devices around him. Surveillance systems have been installed in their homes.\"",
@@ -694,12 +544,12 @@
       "0eb0b93f2c5673b5.svg",
       "bc315993b4decf29.svg"
     ],
-    "url": "https://x.com/ChristopherJM/status/-6001461777264825738",
-    "timestamp": "2026-05-04T16:11:15.186713+00:00",
+    "url": "https://x.com/ChristopherJM/status/-3114957795709773580",
+    "timestamp": "2026-05-04T18:19:48.299023+00:00",
     "original_time": "2026-05-04T08:56:35+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_4610504010780899862",
+    "id": "tweet_JenniferJJacobs_5619363893407558137",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Iran falsely claimed IRGC hit a US ship.",
@@ -709,12 +559,12 @@
       "e2f06d9347b48d18.svg",
       "691815b5e749ca48.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/4610504010780899862",
-    "timestamp": "2026-05-04T16:11:15.536767+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/5619363893407558137",
+    "timestamp": "2026-05-04T18:19:48.619830+00:00",
     "original_time": "2026-05-04T11:05:59+00:00"
   },
   {
-    "id": "tweet_marcodifonzo_8373305211231527785",
+    "id": "tweet_marcodifonzo_-7151085805530787554",
     "type": "tweet",
     "username": "marcodifonzo",
     "text": "The Vatican has officially confirmed that Pope Leo will receive the U.S. Secretary of State Marco Rubio in the Apostolic Palace on Thursday, May 7, at 11:30 a.m.",
@@ -722,23 +572,23 @@
     "images": [
       "b2d14fa009955d1c.svg"
     ],
-    "url": "https://x.com/marcodifonzo/status/8373305211231527785",
-    "timestamp": "2026-05-04T16:11:15.800031+00:00",
+    "url": "https://x.com/marcodifonzo/status/-7151085805530787554",
+    "timestamp": "2026-05-04T18:19:48.916752+00:00",
     "original_time": "2026-05-04T10:42:33+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_8227604566591778799",
+    "id": "tweet_KellieMeyerNews_1031500538775289668",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Guido is soon leaving the bridge in DC after protesting from on top of it all weekend.",
     "translated_text": "圭多在整个周末都在桥上抗议后，很快就要离开华盛顿的这座桥。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/8227604566591778799",
-    "timestamp": "2026-05-04T16:11:32.084642+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/1031500538775289668",
+    "timestamp": "2026-05-04T18:20:04.589287+00:00",
     "original_time": "2026-05-04T11:03:48+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_1460073731908582427",
+    "id": "tweet_KellieMeyerNews_1550615823787032591",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "CENTCOM denies the claim that Iran struck a U.S. ship.",
@@ -748,108 +598,8 @@
       "e2f06d9347b48d18.svg",
       "691815b5e749ca48.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/1460073731908582427",
-    "timestamp": "2026-05-04T16:11:32.241710+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/1550615823787032591",
+    "timestamp": "2026-05-04T18:20:04.739888+00:00",
     "original_time": "2026-05-04T11:02:53+00:00"
-  },
-  {
-    "id": "article_99efbfe3dd76",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Donald Trump says Iran is ‘going to negotiate’ or face ‘problems’",
-    "translated_title": "唐纳德·特朗普表示伊朗将“进行谈判”或面临“问题”",
-    "url": "https://arynews.tv/donald-trump-says-iran-is-going-to-negotiate-or-face-problems",
-    "timestamp": "2026-05-04T16:13:25.542777+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_281e47eba0dd",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Donald Trump repeats that Iran’s ‘entire Navy is at bottom of Sea’",
-    "translated_title": "唐纳德·特朗普重申伊朗“整个海军都在海底”",
-    "url": "https://arynews.tv/donald-trump-repeats-that-irans-entire-navy-is-at-bottom-of-sea",
-    "timestamp": "2026-05-04T16:13:43.452302+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_2d5d8653effe",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Interior Minister, US envoy discuss security for Islamabad talks",
-    "translated_title": "内政部长与美国特使讨论伊斯兰堡会谈的安全问题",
-    "url": "https://arynews.tv/interior-minister-us-envoy-discuss-security-for-islamabad-talks",
-    "timestamp": "2026-05-04T16:14:01.142915+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_064b783065fe",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "JD Vance Visit to Pakistan Postponed",
-    "translated_title": "JD万斯对巴基斯坦的访问推迟",
-    "url": "https://arynews.tv/jd-vance-visit-to-pakistan-postponed",
-    "timestamp": "2026-05-04T16:14:18.362361+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_ffbfe9ae5f73",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "China endorses Pakistan’s efforts to facilitate US–Iran peace talks",
-    "translated_title": "中方支持巴基斯坦为推动美伊和谈所做的努力",
-    "url": "https://arynews.tv/china-endorses-pakistans-efforts-to-facilitate-us-iran-peace-talks",
-    "timestamp": "2026-05-04T16:14:35.430215+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_55a5ab65cc8d",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Islamabad Talks round 2: Pakistan awaits Iran response",
-    "translated_title": "伊斯兰堡第二轮会谈：巴基斯坦等待伊朗的回应",
-    "url": "https://arynews.tv/islamabad-talks-round-2-pakistan-awaits-iran-response",
-    "timestamp": "2026-05-04T16:14:52.278372+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_b71f7fc22d8a",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Pakistan Reaffirms Commitment to Hosting US-Iran Dialogue",
-    "translated_title": "巴基斯坦重申主办美伊对话的承诺",
-    "url": "https://arynews.tv/pakistan-reaffirms-commitment-to-hosting-us-iran-dialogue",
-    "timestamp": "2026-05-04T16:15:09.669898+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_bfab3bac456e",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Traffic plan rolled out, key roads closed in Islamabad",
-    "translated_title": "交通计划出台，伊斯兰堡主要道路关闭",
-    "url": "https://arynews.tv/traffic-plan-rolled-out-key-roads-closed-in-islamabad",
-    "timestamp": "2026-05-04T16:15:26.799968+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_2cc5ab05daa1",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Iran state TV denies reports of diplomatic delegation in Islamabad",
-    "translated_title": "伊朗国家电视台否认外交代表团驻伊斯兰堡的报道",
-    "url": "https://arynews.tv/iran-state-tv-denies-reports-of-diplomatic-delegation-in-islamabad",
-    "timestamp": "2026-05-04T16:15:44.319388+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "article_c6dbf40e6c2b",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Iran will not negotiate with US under shadow of threats: Ghalibaf",
-    "translated_title": "加利巴夫：伊朗不会在威胁阴影下与美国谈判",
-    "url": "https://arynews.tv/iran-will-not-negotiate-with-us-under-shadow-of-threats-ghalibaf",
-    "timestamp": "2026-05-04T16:16:01.988268+00:00",
-    "original_time": "2026-05-04T00:00:00+00:00"
   }
 ]
