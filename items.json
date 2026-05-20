@@ -1,5 +1,21 @@
 [
   {
+    "id": "tweet_ForeignOfficePk_5917243861819633159",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Warm Felicitations to the Government and people of the Republic of Cameroon on the occasion of their National Day.@diplocam_minrex@PakinNigeria",
+    "translated_text": "值此国庆之际，向喀麦隆共和国政府和人民表示热烈祝贺。@diplocam_minrex@PakinNigeria",
+    "images": [
+      "dee669a0abb351a1.svg",
+      "473a714cee691346.svg",
+      "316a4f6a8e584194.svg",
+      "0ba4e9077c84890c.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/5917243861819633159",
+    "timestamp": "2026-05-20T05:04:30.837504+00:00",
+    "original_time": "2026-05-20T02:30:15+00:00"
+  },
+  {
     "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
     "username": "MIshaqDar50",
@@ -9,316 +25,97 @@
       "6f0d9ba59d7121d6.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-05-20T00:05:37.908059+00:00",
+    "timestamp": "2026-05-20T05:04:44.840505+00:00",
     "original_time": "2026-05-19T17:22:35+00:00"
   },
   {
-    "id": "tweet_PakPMO_4054554404898046725",
+    "id": "tweet_PakPMO_-9197854987991709158",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif addressed the occasion of his visit to the Command and Staff College Quetta today.\n\nReaffirming Pakistan's resolve to defend its sovereignty and territorial integrity against all forms of adventurism, Prime Minister Muhammad Shehbaz Sharif",
     "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理今天在访问奎达指挥参谋学院时发表讲话。\n\n总理穆罕默德·谢赫巴兹·谢里夫重申巴基斯坦决心捍卫其主权和领土完整，反对一切形式的冒险主义",
-    "images": [
-      "6a91350fafc11e79.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/4054554404898046725",
-    "timestamp": "2026-05-20T00:06:05.425144+00:00",
+    "images": [],
+    "url": "https://x.com/PakPMO/status/-9197854987991709158",
+    "timestamp": "2026-05-20T05:05:13.287743+00:00",
     "original_time": "2026-05-19T19:01:35+00:00"
   },
   {
-    "id": "tweet_PakPMO_-6484561995874172998",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif chairs a meeting of the Apex Committee of National Action Plan in Quetta on 19 May 2026.",
-    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫于 2026 年 5 月 19 日在奎达主持国家行动计划最高委员会会议。",
-    "images": [
-      "55cf8c000a890a2e.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-6484561995874172998",
-    "timestamp": "2026-05-20T00:06:05.620872+00:00",
-    "original_time": "2026-05-19T14:38:28+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_273047444330872460",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Quetta: May 19, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif chaired the meeting of the Provincial Apex Committee of the National Action Plan in Quetta.\n\nIn the meeting, the Prime Minister was briefed on security in Balochistan, the progress of developmental projects, planning,",
-    "translated_text": "奎达：2026 年 5 月 19 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫在奎达主持了国家行动计划省最高委员会会议。\n\n会议上，总理听取了俾路支省安全、发展项目进展、规划、",
-    "images": [
-      "c25c568535a0f7bc.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/273047444330872460",
-    "timestamp": "2026-05-20T00:06:05.896802+00:00",
-    "original_time": "2026-05-19T14:37:52+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_4696408602379167669",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Prime Minister of Pakistan Muhammad Shehbaz Sharif visited Command & Staff College, Quetta and addressed the faculty and student officers (19 May 2026).",
-    "translated_text": "巴基斯坦总理穆罕默德·谢赫巴兹·谢里夫访问奎达指挥参谋学院并向教职员工和学生军官发表讲话（2026 年 5 月 19 日）。",
-    "images": [
-      "07fdd4f013bcdb36.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/4696408602379167669",
-    "timestamp": "2026-05-20T00:06:06.092727+00:00",
-    "original_time": "2026-05-19T13:23:51+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_3462443804067042903",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Quetta: 19 May 2026.\n\nPrime Minister of Pakistan Muhammad Shehbaz Sharif visited Command & Staff College, Quetta and addressed the faculty and student officers.\n\nThe Prime Minister lauded the professionalism, operational preparedness, and sacrifices of the Pakistan Armed Forces",
-    "translated_text": "奎达：2026 年 5 月 19 日。\n\n巴基斯坦总理穆罕默德·谢赫巴兹·谢里夫访问了奎达指挥参谋学院并向教职员工和学生军官发表讲话。\n\n总理赞扬巴基斯坦武装部队的专业精神、行动准备和牺牲",
-    "images": [
-      "2f1841513af83a55.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/3462443804067042903",
-    "timestamp": "2026-05-20T00:06:06.400073+00:00",
-    "original_time": "2026-05-19T13:20:26+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-7226045620380571137",
+    "id": "tweet_Tasnimnews_Fa_-5912750081667616264",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
-    "text": "Dahyeh Dahyeh, it's time for war...\n\nGlimpses of the presence just an hour ago of the devoted Iranian tribes, near the site of the martyrdom of the Leader of the Martyred Revolution; Keshvaredoost Street 1405/2/29",
-    "translated_text": "Dahyeh Dahyeh，战争的时间到了......\n\n一小时前，我们瞥见忠诚的伊朗部落出现在烈士革命领袖的殉难地点附近；凯什瓦雷杜斯特街 1405/2/29",
+    "text": "﷽          \n\nNothing came to mind but your image for us  \nNothing passed by but your alley for us                                                                     \n\nPeace be upon you, O Ali ibn Musa al-Rida (peace be upon him)#وقت_سلام",
+    "translated_text": "﷽          \n\n我们脑子里除了你的形象什么都没有想到  \n除了你的小巷，我们什么也没有经过                                                                     \n\n愿你安息，阿里·伊本·穆萨·阿尔-里达（愿他安息）#قЂжам",
     "images": [
-      "c56858dca67c12e8.svg"
+      "a65971a985ab4ade.jpg"
     ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-7226045620380571137",
-    "timestamp": "2026-05-20T00:06:48.273699+00:00",
-    "original_time": "2026-05-19T20:25:45+00:00"
+    "url": "https://x.com/Tasnimnews_Fa/status/-5912750081667616264",
+    "timestamp": "2026-05-20T05:05:57.454710+00:00",
+    "original_time": "2026-05-20T04:50:26+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_-4089777465075162669",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Russia's representative at the UN Security Council meeting: The US and Israel's military adventure against Iran is the root of the region's nuclear threats\n\nThe attacks carried out against the UAE's nuclear power plant are condemned and constitute an action that undermines",
-    "translated_text": "俄罗斯代表出席联合国安理会会议：美国和以色列针对伊朗的军事冒险是该地区核威胁的根源\n\n针对阿联酋核电站的袭击受到谴责，这是破坏阿联酋核电站的行为",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-4089777465075162669",
-    "timestamp": "2026-05-20T00:06:48.420175+00:00",
-    "original_time": "2026-05-19T20:20:41+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_7043451434563395423",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Persepolis Club's Complaint Against Esteghlal's Head Coach\n\n  Persepolis Official Media:\n\nPersepolis Club considers recent statements by Bakhtiari Zadeh \"utterly creative\" and outside the framework of professional principles, and emphasizes that these remarks are a clear example",
-    "translated_text": "波斯波利斯俱乐部对埃斯特拉尔主教练的投诉\n\n  波斯波利斯官方媒体：\n\n波斯波利斯俱乐部认为巴赫蒂亚里·扎德最近的言论“完全有创意”并且超出了专业原则的框架，并强调这些言论是一个明显的例子",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/7043451434563395423",
-    "timestamp": "2026-05-20T00:06:48.548583+00:00",
-    "original_time": "2026-05-19T19:21:19+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-3488492633770177779",
+    "id": "tweet_Tasnimnews_Fa_-6549531222052208339",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
-    "text": "Tutorial on Using Weapons in the Bojnord Public Gathering#حماسه_خیابان",
-    "translated_text": "在博琼德公共集会中使用武器的教程#Hamase_Khiabaan",
+    "text": "Presidents of China and Russia Begin Their Negotiations\n\nXi Jinping: The war against Iran must be stopped; negotiations are very important\n\nPutin: Relations between Russia and China help consolidate global stability",
+    "translated_text": "中俄两国元首开始谈判\n\n习近平：必须停止对伊朗的战争谈判非常重要\n\n普京：俄中关系有助于巩固全球稳定",
     "images": [
       "c56858dca67c12e8.svg",
-      "df619e7a6c0826a2.jpg"
+      "a98c4a52c7951574.jpg",
+      "dd46c52f28917dbd.jpg",
+      "1b6e818a9e1031a4.jpg"
     ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-3488492633770177779",
-    "timestamp": "2026-05-20T00:06:48.732201+00:00",
-    "original_time": "2026-05-19T19:00:32+00:00"
+    "url": "https://x.com/Tasnimnews_Fa/status/-6549531222052208339",
+    "timestamp": "2026-05-20T05:05:58.719098+00:00",
+    "original_time": "2026-05-20T04:34:01+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_3744551999187899745",
+    "id": "tweet_Tasnimnews_Fa_-2348986392714896176",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
-    "text": "Tehran Mayor: Public transportation is currently free\n\nThe one-urgency plan for making public vehicles free was approved today with 13 votes in the council, and the principle of this plan will be put to a vote next week.",
-    "translated_text": "德黑兰市长：公共交通目前免费\n\n免费公共车辆的一项紧急计划今天在理事会以13票通过，该计划的原则将于下周进行投票。",
+    "text": "Official Welcome Ceremony for Putin in Beijing",
+    "translated_text": "普京在北京举行官方欢迎仪式",
     "images": [
-      "5fc75484e4fb55f9.jpg"
+      "c56858dca67c12e8.svg",
+      "76a0555af83062f6.jpg",
+      "54d64158139f9e6a.jpg",
+      "028b9898110c46d9.jpg",
+      "bdccf7d0d205a2d3.jpg"
     ],
-    "url": "https://x.com/Tasnimnews_Fa/status/3744551999187899745",
-    "timestamp": "2026-05-20T00:06:48.990979+00:00",
-    "original_time": "2026-05-19T18:53:55+00:00"
+    "url": "https://x.com/Tasnimnews_Fa/status/-2348986392714896176",
+    "timestamp": "2026-05-20T05:06:00.270251+00:00",
+    "original_time": "2026-05-20T04:29:03+00:00"
   },
   {
-    "id": "tweet_Rahbarenghelab__-3716733551015175638",
-    "type": "tweet",
-    "username": "Rahbarenghelab_",
-    "text": "Undoubtedly, the continuation of Iran's great and influential power and the attainment of a more desirable level of it bears a direct relation to the issue of population.",
-    "translated_text": "毫无疑问，伊朗强大而有影响力的力量的延续并达到更理想的水平，与人口问题有直接关系。",
-    "images": [],
-    "url": "https://x.com/Rahbarenghelab_/status/-3716733551015175638",
-    "timestamp": "2026-05-20T00:06:51.230669+00:00",
-    "original_time": "2026-05-19T15:32:03+00:00"
-  },
-  {
-    "id": "tweet_Rahbarenghelab__-4798389204079901478",
-    "type": "tweet",
-    "username": "Rahbarenghelab_",
-    "text": "Regarding the issue of the necessity to increase the population, it is sometimes viewed from the perspective of compensating for the shortcomings of certain past policies; however, beyond that, through the resolute pursuit of a sound population growth policy, the Iranian nation",
-    "translated_text": "对于增加人口的必要性问题，有时是从弥补过去某些政策缺陷的角度来看待；然而，除此之外，通过坚决追求健全的人口增长政策，伊朗民族",
-    "images": [],
-    "url": "https://x.com/Rahbarenghelab_/status/-4798389204079901478",
-    "timestamp": "2026-05-20T00:06:51.364877+00:00",
-    "original_time": "2026-05-19T15:32:41+00:00"
-  },
-  {
-    "id": "tweet_Rahbarenghelab__5546009084128350230",
-    "type": "tweet",
-    "username": "Rahbarenghelab_",
-    "text": "The necessity of increasing the population has been one of the most important concerns of our martyred Leader, who emphasized it in many sessions, interactions, and public and private meetings, and it continues to be regarded as one of the most important strategic issues of the",
-    "translated_text": "增加人口的必要性一直是我们烈士最重要的关切之一，他在许多会议、互动、公开和私人会议中都强调了这一点，并且仍然被视为最重要的战略问题之一。",
-    "images": [],
-    "url": "https://x.com/Rahbarenghelab_/status/5546009084128350230",
-    "timestamp": "2026-05-20T00:06:51.519973+00:00",
-    "original_time": "2026-05-19T15:33:04+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_4878722272248996854",
+    "id": "tweet_Tasnimbrk_-4482555537869217022",
     "type": "tweet",
     "username": "Tasnimbrk",
-    "text": "The Leader of the Revolution: The necessity of increasing the population was one of the most important concerns of our martyred Leader, who emphasized it in many meetings, interactions, and both public and private encounters, and it continues to be regarded as one of the most",
-    "translated_text": "革命领袖：增加人口的必要性是我们烈士最关心的问题之一，他在许多会议、互动以及公开和私人会面中都强调了这一点，而且它仍然被视为最重要的问题之一。",
+    "text": "The death sentence of Elahe Hosseinnejad's killer has been carried out.",
+    "translated_text": "杀害埃拉赫·侯赛因内贾德的凶手的死刑已经执行。",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/4878722272248996854",
-    "timestamp": "2026-05-20T00:06:51.661055+00:00",
-    "original_time": "2026-05-19T15:45:14+00:00"
+    "url": "https://x.com/Tasnimbrk/status/-4482555537869217022",
+    "timestamp": "2026-05-20T05:06:01.242099+00:00",
+    "original_time": "2026-05-20T04:23:58+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_-8860814127745194833",
+    "id": "tweet_Tasnimbrk_-3922975911351814510",
     "type": "tweet",
     "username": "Tasnimbrk",
-    "text": "The Leader of the Revolution: Undoubtedly, the continuation of Iran's great and influential power and the attainment of a more desirable level of it, has a direct correlation with the issue of population.",
-    "translated_text": "革命领袖：毫无疑问，伊朗强大而有影响力的力量的延续以及达到更理想的水平，与人口问题有直接关系。",
+    "text": "Our Foreign Minister: Rest assured, a return to the battlefield will be accompanied by far greater surprises.\n\nMonths after the start of the war against Iran, the U.S. Congress acknowledged the destruction of dozens of aircraft worth billions of dollars.",
+    "translated_text": "我们的外交部长：放心，重返战场将会带来更大的惊喜。\n\n对伊朗战争开始几个月后，美国国会承认数十架价值数十亿美元的飞机被毁。",
     "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-8860814127745194833",
-    "timestamp": "2026-05-20T00:06:51.817515+00:00",
-    "original_time": "2026-05-19T15:44:45+00:00"
+    "url": "https://x.com/Tasnimbrk/status/-3922975911351814510",
+    "timestamp": "2026-05-20T05:06:01.814043+00:00",
+    "original_time": "2026-05-20T01:14:29+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_-7574013923609276533",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Leader of the Revolution: Among the invaluable achievements of the Sacred Defense and the great blessing of the unparalleled mission of the nation, which has become evident to all, is the rise of Iran to the level of a great and influential power.",
-    "translated_text": "革命领袖：神圣防御的宝贵成就和国家无与伦比的使命的巨大祝福，这是众所周知的，其中之一是伊朗崛起为一个具有影响力的大国。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-7574013923609276533",
-    "timestamp": "2026-05-20T00:06:51.965902+00:00",
-    "original_time": "2026-05-19T15:44:07+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_-7142638795302029085",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Leader of the Revolution: Therefore, the ever-increasing efforts of grassroots activists in the field of population and the promotion of a culture of childbearing can have a significant impact in realizing this bright future.",
-    "translated_text": "革命领袖：因此，基层积极分子在人口领域不断加大努力，推广生育文化，对于实现这一美好未来具有重大影响。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-7142638795302029085",
-    "timestamp": "2026-05-20T00:06:52.113209+00:00",
-    "original_time": "2026-05-19T15:43:38+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_-5859227484608366584",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Leader of the Revolution: The issue of the necessity to increase population is sometimes viewed from the perspective of compensating for the shortcomings of certain past policies; however, beyond that, by vigorously pursuing the correct policy of population growth, the Iranian",
-    "translated_text": "革命领袖：人口增长的必要性问题有时是从弥补过去某些政策的缺陷的角度来看待的；然而，除此之外，通过大力推行正确的人口增长政策，伊朗",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-5859227484608366584",
-    "timestamp": "2026-05-20T00:06:52.315523+00:00",
-    "original_time": "2026-05-19T15:41:06+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-6631907689808793905",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Supreme Leader's Response to the Letter from a Group of Grassroots Population Activists\n\nHis Eminence Ayatollah Seyyed Mojtaba Khamenei referred to the issue of population growth and its relation to the power and civilization of Islamic Iran, and emphasized the increasing efforts",
-    "translated_text": "最高领导人对基层人口活动人士来信的答复\n\n阿亚图拉·赛义德·莫杰塔巴·哈梅内伊阁下提到了人口增长问题及其与伊斯兰伊朗的力量和文明的关系，并强调了不断加大的努力",
-    "images": [
-      "35f48ba9acb832e8.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-6631907689808793905",
-    "timestamp": "2026-05-20T00:06:52.500748+00:00",
-    "original_time": "2026-05-19T15:39:10+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_-7700140589067331312",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Trump's Continued Contradictions Regarding Iran\n\nU.S. Terrorist Government Leader: We might have to deliver another major blow to them, but I'm not sure yet; you'll find out very soon",
-    "translated_text": "特朗普在伊朗问题上持续矛盾\n\n美国恐怖政府领导人：我们可能不得不对他们进行另一次重大打击，但我还不确定；你很快就会发现",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-7700140589067331312",
-    "timestamp": "2026-05-20T00:06:52.619330+00:00",
-    "original_time": "2026-05-19T15:28:42+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_2867447655235797938",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Putin arrived in China.",
-    "translated_text": "普京抵达中国。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/2867447655235797938",
-    "timestamp": "2026-05-20T00:06:52.738012+00:00",
-    "original_time": "2026-05-19T15:18:24+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_-6982932253216372696",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "US Anti-Iranian Sanctions Continue\n\nThe website of the US Department of the Treasury announced new sanctions related to Iran.",
-    "translated_text": "美国继续实施反伊朗制裁\n\n美国财政部网站宣布了与伊朗有关的新制裁措施。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/-6982932253216372696",
-    "timestamp": "2026-05-20T00:06:52.920160+00:00",
-    "original_time": "2026-05-19T14:54:13+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_1447774476019774703",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "UAE's Claim: We destroyed 6 drones in the past 48 hours\n\nThese drones were attempting to target vital UAE facilities",
-    "translated_text": "阿联酋声称：我们在过去48小时内摧毁了6架无人机\n\n这些无人机试图瞄准阿联酋的重要设施",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/1447774476019774703",
-    "timestamp": "2026-05-20T00:06:53.116028+00:00",
-    "original_time": "2026-05-19T15:16:05+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_6292694999922934482",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Entry of Iran's unofficial flags to the World Cup has been banned\n\nEngland's \"The Athletic\" website: FIFA is set to prevent the entry of Iran's unofficial flags into the 2026 World Cup stadiumshttp://tasnimnews.ir/3595189",
-    "translated_text": "伊朗非官方旗帜被禁止进入世界杯\n\n英格兰《竞技报》网站：国际足联将阻止伊朗非官方旗帜进入2026年世界杯赛场http://tasnimnews.ir/3595189",
-    "images": [
-      "3acbddee59314b94.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/6292694999922934482",
-    "timestamp": "2026-05-20T00:06:53.342970+00:00",
-    "original_time": "2026-05-19T13:43:18+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-5525136362142117672",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "40% Increase in Sexual Assault Reports in the Israeli Army\n\nAccording to statistics presented to the Knesset, 82% of victims are women and 18% are men\n\n70% of cases were committed by men against women, 3% by women against men, and 25% between individuals of the same sex",
-    "translated_text": "以色列军队中的性侵犯报告增加了 40%\n\n根据提交给议会的统计数据，82% 的受害者是女性，18% 是男性\n\n70% 的案件是男性针对女性实施的，3% 是女性针对男性实施的，25% 是同性之间实施的",
-    "images": [
-      "8674ff81afddea32.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-5525136362142117672",
-    "timestamp": "2026-05-20T00:06:53.569392+00:00",
-    "original_time": "2026-05-19T13:38:15+00:00"
-  },
-  {
-    "id": "tweet_araghchi_-65938543586539458",
+    "id": "tweet_araghchi_-1690876245862350238",
     "type": "tweet",
     "username": "araghchi",
     "text": "Months after initiation of war on Iran, US Congress acknowledges loss of dozens of aircraft worth billions.\n\nOur powerful Armed Forces are confirmed as 1st to strike down a touted F-35.\n\nWith lessons learned and knowledge we gained, return to war will feature many more surprises.",
     "translated_text": "对伊朗发动战争几个月后，美国国会承认损失了数十架价值数十亿美元的飞机。\n\n我们强大的武装部队被确认是第一支击落一架备受追捧的 F-35 的武装部队。\n\n凭借我们吸取的经验教训和获得的知识，重返战争将会带来更多惊喜。",
     "images": [],
-    "url": "https://x.com/araghchi/status/-65938543586539458",
-    "timestamp": "2026-05-20T00:07:44.247154+00:00",
+    "url": "https://x.com/araghchi/status/-1690876245862350238",
+    "timestamp": "2026-05-20T05:06:18.288813+00:00",
     "original_time": "2026-05-19T21:05:49+00:00"
   },
   {
@@ -331,200 +128,204 @@
       "6f770d73c25c5839.jpg"
     ],
     "url": "https://x.com/araghchi/status/0",
-    "timestamp": "2026-05-20T00:07:44.312209+00:00",
+    "timestamp": "2026-05-20T05:06:18.416601+00:00",
     "original_time": "2026-05-19T21:06:34+00:00"
   },
   {
-    "id": "tweet_CBSNews_6081420313592789486",
+    "id": "tweet_CBSNews_3475720157033043819",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Rep. Thomas Massie loses Kentucky’s House primary, the latest GOP incumbent to fall to a Trump-backed candidate.",
-    "translated_text": "众议员托马斯·马西 (Thomas Massie) 在肯塔基州众议院初选中失利，成为最新一位输给特朗普支持的候选人的共和党现任议员。",
+    "text": "Is the teen summer job a thing of the past?",
+    "translated_text": "青少年暑期打工已经成为过去吗？",
     "images": [
-      "2335cf52c86c573d.jpg"
+      "fe2c8df25b33543a.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/6081420313592789486",
-    "timestamp": "2026-05-20T00:09:03.270607+00:00",
-    "original_time": "2026-05-20T00:01:02+00:00"
+    "url": "https://x.com/CBSNews/status/3475720157033043819",
+    "timestamp": "2026-05-20T05:07:41.707223+00:00",
+    "original_time": "2026-05-20T05:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_9121063030960758254",
+    "id": "tweet_CBSNews_5608801707711018878",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "The IRS is permanently barred from pursuing claims against President Trump or his company based on prior tax returns, part of a controversial settlement agreement that the Justice Department struck to resolve a lawsuit brought by Trump.",
-    "translated_text": "美国国税局被永久禁止根据之前的纳税申报表对特朗普总统或其公司提出索赔，这是司法部为解决特朗普提起的诉讼而达成的一项有争议的和解协议的一部分。",
+    "text": "The canopy of a gas station in Detroit, Michigan blew over on Tuesday following a round of severe weather and damaging winds. There have been no reports of any injuries.",
+    "translated_text": "周二，在一轮恶劣天气和破坏性大风之后，密歇根州底特律的一个加油站的顶篷被吹倒。目前还没有任何人员受伤的报告。",
     "images": [
-      "62710d271641776c.jpg"
+      "28e4dac208575758.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/9121063030960758254",
-    "timestamp": "2026-05-20T00:09:03.435397+00:00",
-    "original_time": "2026-05-20T00:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/5608801707711018878",
+    "timestamp": "2026-05-20T05:07:42.028234+00:00",
+    "original_time": "2026-05-20T04:04:30+00:00"
   },
   {
-    "id": "tweet_CBSNews_7070370769734017330",
+    "id": "tweet_CBSNews_4618014952658398738",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "WATCH LIVE: CBS News is tracking key 2026 primary races across the country tonight — from Georgia, Kentucky, Pennsylvania and more.",
-    "translated_text": "观看直播：哥伦比亚广播公司新闻今晚将追踪全国各地 2026 年主要初选的情况——来自佐治亚州、肯塔基州、宾夕法尼亚州等地。",
+    "text": "U.S. intel assessment says military identified at least 10 mines in Strait of Hormuz",
+    "translated_text": "美国情报评估称军方在霍尔木兹海峡发现至少10处水雷",
     "images": [
-      "12ccb1aa7dcf8450.jpg"
+      "533717c22fb00813.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/7070370769734017330",
-    "timestamp": "2026-05-20T00:09:03.642851+00:00",
-    "original_time": "2026-05-19T23:59:38+00:00"
+    "url": "https://x.com/CBSNews/status/4618014952658398738",
+    "timestamp": "2026-05-20T05:07:42.305461+00:00",
+    "original_time": "2026-05-20T04:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_2141425783739546813",
+    "id": "tweet_CBSNews_4508167373126546934",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "CBS News projects Ed Gallrein wins the Republican House primary for Kentucky's 4th congressional district, defeating incumbent GOP Rep. Thomas Massie.",
-    "translated_text": "哥伦比亚广播公司新闻预计埃德·加莱因 (Ed Gallrein) 击败现任共和党众议员托马斯·马西 (Thomas Massie)，赢得肯塔基州第四国会选区的共和党众议院初选。",
+    "text": "Sergeant First Class Jose Serrano, a 27-year U.S. Army veteran, said his heart “started pumping super fast” when ICE released his wife, Deisy Rivera Ortega. She was detained at an immigration appointment in April and held for weeks. Officials say she has a deportation order. CBS",
+    "translated_text": "27 岁的美国陆军退伍军人何塞·塞拉诺 (Jose Serrano) 中士表示，当 ICE 释放他的妻子德西·里维拉·奥尔特加 (Deisy Rivera Ortega) 时，他的心脏“开始加速跳动”。她在四月份的一次移民预约中被拘留并被关押了数周。官员称她已收到驱逐令。哥伦比亚广播公司",
     "images": [
-      "0a1fc992d8afb39e.jpg"
+      "2bfd5e978970a437.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2141425783739546813",
-    "timestamp": "2026-05-20T00:09:03.811643+00:00",
-    "original_time": "2026-05-19T23:57:10+00:00"
+    "url": "https://x.com/CBSNews/status/4508167373126546934",
+    "timestamp": "2026-05-20T05:07:43.861287+00:00",
+    "original_time": "2026-05-20T03:35:02+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7940298533390521208",
+    "id": "tweet_CBSNews_-8492064323608971592",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Teen attackers in San Diego Islamic Center shooting were wallowing in hate, investigators say.",
-    "translated_text": "调查人员称，圣地亚哥伊斯兰中心枪击事件的青少年袭击者沉浸在仇恨之中。",
+    "text": "CBS News projects Mike Collins and Derek Dooley advance to a runoff in Georgia’s Republican U.S. Senate primary. The runoff is scheduled for June 16. The winner of that runoff will challenge incumbent Democratic Sen. Jon Ossoff in November.",
+    "translated_text": "哥伦比亚广播公司新闻预计迈克·柯林斯和德里克·杜利将进入佐治亚州共和党美国参议院初选的决选。决选定于 6 月 16 日举行。决选的获胜者将在 11 月挑战现任民主党参议员乔恩·奥索夫 (Jon Ossoff)。",
     "images": [
-      "8976b1dcf37a21cc.jpg"
+      "a0ec90af91729aec.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7940298533390521208",
-    "timestamp": "2026-05-20T00:09:03.985899+00:00",
-    "original_time": "2026-05-19T23:40:00+00:00"
+    "url": "https://x.com/CBSNews/status/-8492064323608971592",
+    "timestamp": "2026-05-20T05:07:44.740132+00:00",
+    "original_time": "2026-05-20T03:20:26+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_2511380707271973396",
+    "id": "tweet_CBSNews_-3630608664726068206",
     "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Acting Attorney General Todd Blanche fielded questions on President Trump’s newly-announced $1.8 billion fund to compensate people who claim that the government weaponized the legal system against them.",
-    "translated_text": "代理司法部长托德·布兰奇 (Todd Blanche) 回答了有关特朗普总统新宣布的 18 亿美元基金的问题，该基金旨在补偿那些声称政府将法律体系武器化以对付他们的人。",
-    "images": [
-      "f103c6b1d80b0572.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/2511380707271973396",
-    "timestamp": "2026-05-20T00:09:06.325736+00:00",
-    "original_time": "2026-05-19T22:48:18+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_-8007226793328834985",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Fast-moving wildfires have forced more than 30,000 people to evacuate across parts of Southern California as crews battle multiple blazes from the ground and air.@CBSMattGutmanreports from inside the burn zone.",
-    "translated_text": "快速蔓延的野火迫使南加州部分地区超过 30,000 人撤离，工作人员正在与地面和空中的多处大火进行搏斗。@CBSMattGutman 在燃烧区内报道。",
-    "images": [
-      "2ec29d73d5e36732.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/-8007226793328834985",
-    "timestamp": "2026-05-20T00:09:06.800692+00:00",
-    "original_time": "2026-05-19T22:45:03+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_7789481679063344394",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "WATCH: The CBS Evening News with@TonyDokoupilstarts now on CBS.",
-    "translated_text": "观看： @TonyDokoupil 的哥伦比亚广播公司晚间新闻现已在 CBS 上播出。",
+    "username": "CBSNews",
+    "text": "“I want to thank President Trump for his endorsement and his counsel as I navigated this campaign,” former Navy SEAL Ed Gallrein said after defeating Republican incumbent Thomas Massie for the Republican nomination in Kentucky’s 4th Congressional District.\n\nRep. Thomas Massie is",
+    "translated_text": "“我要感谢特朗普总统在我竞选过程中的支持和建议，”前海豹突击队员埃德·加莱因在肯塔基州第四国会选区击败共和党现任议员托马斯·马西后说道。\n\n众议员托马斯·马西 (Thomas Massie)",
     "images": [],
-    "url": "https://x.com/CBSEveningNews/status/7789481679063344394",
-    "timestamp": "2026-05-20T00:09:07.046984+00:00",
-    "original_time": "2026-05-19T22:33:50+00:00"
+    "url": "https://x.com/CBSNews/status/-3630608664726068206",
+    "timestamp": "2026-05-20T05:07:47.397444+00:00",
+    "original_time": "2026-05-20T01:50:30+00:00"
   },
   {
-    "id": "tweet_CBSNews_6270598587367468314",
+    "id": "tweet_CBSNews_1976019953681612582",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "A recent American intelligence assessment showed that U.S. forces identified at least 10 mines in the Strait of Hormuz. CBS News’@AaronBMacLeanhas the latest on the war in Iran.",
-    "translated_text": "美国最近的一份情报评估显示，美军在霍尔木兹海峡发现了至少10枚地雷。哥伦比亚广播公司新闻@AaronBMacLean 提供有关伊朗战争的最新消息。",
+    "text": "CBS News projects Doug Jones wins Alabama’s Democratic gubernatorial primary. He will face Republican nominee Tommy Tuberville in November.",
+    "translated_text": "哥伦比亚广播公司新闻预计道格·琼斯将赢得阿拉巴马州民主党州长初选。他将于 11 月面对共和党候选人汤米·图伯维尔 (Tommy Tuberville)。",
     "images": [
-      "079b69b46bb2c319.jpg"
+      "0a045d32dce1eeec.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/6270598587367468314",
-    "timestamp": "2026-05-20T00:09:07.455335+00:00",
-    "original_time": "2026-05-19T22:30:26+00:00"
+    "url": "https://x.com/CBSNews/status/1976019953681612582",
+    "timestamp": "2026-05-20T05:07:47.752685+00:00",
+    "original_time": "2026-05-20T01:48:48+00:00"
   },
   {
-    "id": "tweet_annaschecter_-4327719723920411361",
-    "type": "tweet",
-    "username": "annaschecter",
-    "text": "NEWS: FBI says it found 30 guns and a crossbow associated with the mosque shooters.",
-    "translated_text": "新闻：联邦调查局 (FBI) 表示，已发现与清真寺枪击者有关的 30 支枪和一把十字弓。",
-    "images": [],
-    "url": "https://x.com/annaschecter/status/-4327719723920411361",
-    "timestamp": "2026-05-20T00:09:07.586909+00:00",
-    "original_time": "2026-05-19T19:17:38+00:00"
-  },
-  {
-    "id": "tweet_Olivia_Gazis_-3752533182082879416",
-    "type": "tweet",
-    "username": "Olivia_Gazis",
-    "text": "In brief drop-by at a State Dept gaggle today, Secretary Rubio was asked if he was worried about Ebola. “Of course we are,” he said, adding “the lead is obviously going to be CDC and the World Health Organization, which was a little late to identify this thing, unfortunately.”",
-    "translated_text": "今天，在国务院一次短暂的聚会中，卢比奥国务卿被问到是否担心埃博拉病毒。 “当然，”他说，并补充道，“带头的显然是疾病预防控制中心和世界卫生组织，不幸的是，他们发现这个问题有点晚了。”",
-    "images": [],
-    "url": "https://x.com/Olivia_Gazis/status/-3752533182082879416",
-    "timestamp": "2026-05-20T00:09:07.718694+00:00",
-    "original_time": "2026-05-19T17:33:58+00:00"
-  },
-  {
-    "id": "tweet_edokeefe_6721937380151498751",
-    "type": "tweet",
-    "username": "edokeefe",
-    "text": "Another Tuesday night, somewhere in the country, rocking a purple tie as America Decides. Join us for live coverage of primaries in Alabama, Georgia, Idaho, Kentucky, Oregon and Pennsylvania. 8-10pm ET on@CBSNews24/7 and@paramountplus",
-    "translated_text": "又一个周二晚上，在这个国家的某个地方，随着美国的决定而摇摆着紫色领带。加入我们，实时报道阿拉巴马州、佐治亚州、爱达荷州、肯塔基州、俄勒冈州和宾夕法尼亚州的初选。东部时间晚上 8-10 点@CBSNews24/7 和@paramountplus",
-    "images": [
-      "21d76c4c9c9a4536.jpg"
-    ],
-    "url": "https://x.com/edokeefe/status/6721937380151498751",
-    "timestamp": "2026-05-20T00:09:08.162966+00:00",
-    "original_time": "2026-05-19T21:01:43+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-4489627951222659487",
+    "id": "tweet_CBSNews_-8778913452681485643",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "With new congressional district lines stacking up, CBS News contributor Kyle Kondik breaks down how redistricting efforts could impact tonight’s primary elections.",
-    "translated_text": "随着新的国会选区线不断涌现，哥伦比亚广播公司新闻撰稿人凯尔·康迪克详细分析了选区重新划分工作可能如何影响今晚的初选。",
+    "text": "CBS News projects Charles Booker wins Kentucky’s Democratic Senate primary.",
+    "translated_text": "哥伦比亚广播公司新闻预计查尔斯·布克将赢得肯塔基州民主党参议院初选。",
     "images": [
-      "619b8b75cb3082ed.jpg"
+      "9de419c96b6c8067.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4489627951222659487",
-    "timestamp": "2026-05-20T00:09:08.358289+00:00",
-    "original_time": "2026-05-19T22:26:56+00:00"
+    "url": "https://x.com/CBSNews/status/-8778913452681485643",
+    "timestamp": "2026-05-20T05:07:48.787597+00:00",
+    "original_time": "2026-05-20T01:44:24+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8519282971720664289",
+    "id": "tweet_CBSNews_3379764853660672571",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Several Luigi Mangione supporters are going viral this week after making hate-filled statements about murdered UnitedHealthcare CEO Brian Thompson, while wearing official New York City press passes outside of the courthouse. Now, Mayor Zohran Mamdani says they never should have",
-    "translated_text": "本周，路易吉·曼吉奥内 (Luigi Mangione) 的几位支持者在法院外佩戴纽约市官方新闻通行证，对联合医疗保健首席执行官布莱恩·汤普森 (Brian Thompson) 被谋杀发表了充满仇恨的言论，随后走红。现在，市长佐兰·马姆达尼 (Zohran Mamdani) 表示，他们永远不应该这样做",
+    "text": "CBS News’@aaronlarnavarroreports from Rep. Andy Barr’s watch party after the congressman won Tuesday night’s Kentucky Senate Republican primary, CBS News projects.\n\n“It’s clear that Barr is looking to nationalize this race.”",
+    "translated_text": "据哥伦比亚广播公司新闻报道，众议员安迪·巴尔在周二晚上的肯塔基州参议院共和党初选中获胜后，他在观看派对上进行了哥伦比亚广播公司新闻@aaronlarnavarro的报道。\n\n“很明显，巴尔正在寻求将这场竞选国有化。”",
     "images": [
-      "15291eb20fbdaf85.jpg"
+      "b4a93406f97bb3df.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8519282971720664289",
-    "timestamp": "2026-05-20T00:09:08.847989+00:00",
-    "original_time": "2026-05-19T22:23:28+00:00"
+    "url": "https://x.com/CBSNews/status/3379764853660672571",
+    "timestamp": "2026-05-20T05:07:49.747906+00:00",
+    "original_time": "2026-05-20T01:33:32+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_3869693984652610367",
+    "id": "tweet_CBSNews_1729685443155885572",
     "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "SCOOP: Federal authorities are examining whether Chinese companies deliberately restricted the world's production of storage containers for the shipping trade just before the pandemic began six years ago, sources told@CBSNews. \nSeveral Chinese executives have been indicted, two",
-    "translated_text": "独家新闻：消息人士告诉@CBSNews，联邦当局正在调查中国公司是否在六年前大流行开始之前故意限制世界范围内用于航运贸易的储存集装箱的生产。 \n多名中国高管被起诉，其中两人",
+    "username": "CBSNews",
+    "text": "CBS News projects Tommy Tuberville wins Alabama’s Republican gubernatorial primary.",
+    "translated_text": "哥伦比亚广播公司新闻预计汤米·图伯维尔将赢得阿拉巴马州共和党州长初选。",
     "images": [
-      "510ba67d15e7a60d.jpg"
+      "55909e920f507c1c.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/3869693984652610367",
-    "timestamp": "2026-05-20T00:09:29.015942+00:00",
-    "original_time": "2026-05-19T15:33:50+00:00"
+    "url": "https://x.com/CBSNews/status/1729685443155885572",
+    "timestamp": "2026-05-20T05:07:50.048858+00:00",
+    "original_time": "2026-05-20T01:27:26+00:00"
   },
   {
-    "id": "tweet_PaulaReidCNN_1362463226124103515",
+    "id": "tweet_finnygo_-5359917004414341647",
+    "type": "tweet",
+    "username": "finnygo",
+    "text": "Caught Sen Minority Leader Chuck Schumer after he left@amprogideas conference and asked him about President Trump’s endorsement of TX AG Ken Paxton over Sen. John Cornyn in the Texas GOP runoff.\n\nDoes he think Trump’s endorsement changes the dynamics in the Texas Senate race?",
+    "translated_text": "在参议员少数党领袖查克·舒默 (Chuck Schumer) 离开 @amprogideas 会议后，我采访了他，并向他询问特朗普总统在德克萨斯州共和党决选中支持德克萨斯州议员肯·帕克斯顿 (Ken Paxton) 而非参议员约翰·科宁 (John Cornyn) 的情况。\n\n他认为特朗普的支持会改变德克萨斯州参议院竞选的动态吗？",
+    "images": [
+      "9cc330e6335aa371.jpg"
+    ],
+    "url": "https://x.com/finnygo/status/-5359917004414341647",
+    "timestamp": "2026-05-20T05:07:50.994176+00:00",
+    "original_time": "2026-05-19T21:14:11+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-2528442149814060327",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Several states are scrambling to redraw congressional maps following a recent Supreme Court redistricting ruling on the Voting Rights Act, creating uncertainty in races already underway. CBS News chief legal correspondent@JanCBSexplains how Alabama, Louisiana and Tennessee are",
+    "translated_text": "在最高法院最近对投票权法案重新划分选区的裁决之后，几个州正在争先恐后地重新绘制国会地图，这给已经正在​​进行的竞选带来了不确定性。哥伦比亚广播公司新闻首席法律记者@JanCBS 解释阿拉巴马州、路易斯安那州和田纳西州的情况",
+    "images": [
+      "4b7fa6c680d0be49.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-2528442149814060327",
+    "timestamp": "2026-05-20T05:07:52.250484+00:00",
+    "original_time": "2026-05-20T01:15:56+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_5461898002917943700",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "What are the ramifications of the unprecedented mid-decade redistricting that has taken place so far this year ahead of November’s midterm elections?\n\nCBS News Executive Director of Elections & Surveys@SalvantoCBSand Sabato's Crystal Ball Managing Editor@kkondikbreak down the",
+    "translated_text": "今年在 11 月中期选举之前进行的史无前例的十年中期选区重划会产生哪些影响？\n\n哥伦比亚广播公司新闻选举与调查执行董事@SalvantoCBS 和 Sabato 的水晶球总编辑@kkondik 打破了",
+    "images": [
+      "47776432abefc6c3.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/5461898002917943700",
+    "timestamp": "2026-05-20T05:07:53.038303+00:00",
+    "original_time": "2026-05-20T01:10:08+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-1124257694265226212",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Redistricting seen as making elections more unfair; voters want more competitive districts, CBS News poll finds.",
+    "translated_text": "重新划分选区被视为使选举更加不公平；哥伦比亚广播公司新闻民意调查发现，选民希望选区更具竞争力。",
+    "images": [
+      "62130fa8f877b819.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1124257694265226212",
+    "timestamp": "2026-05-20T05:07:55.373601+00:00",
+    "original_time": "2026-05-19T23:20:00+00:00"
+  },
+  {
+    "id": "tweet_MarkMazzettiNYT_8103552697503430251",
+    "type": "tweet",
+    "username": "MarkMazzettiNYT",
+    "text": "NEW: The  regime change plan at the beginning of the Iran War called for installing Mahmoud Ahmadinejad, Iran's former hard line president known for accelerating the nuclear program and denying the Holocaust, as the country's new. leader.",
+    "translated_text": "新消息：伊朗战争开始时的政权更迭计划要求任命以加速核计划和否认大屠杀而闻名的伊朗前强硬派总统马哈茂德·艾哈迈迪内贾德为该国的新总统。领导者。",
+    "images": [
+      "27dfcb55a4c8070d.jpg"
+    ],
+    "url": "https://x.com/MarkMazzettiNYT/status/8103552697503430251",
+    "timestamp": "2026-05-20T05:08:15.577336+00:00",
+    "original_time": "2026-05-19T23:35:47+00:00"
+  },
+  {
+    "id": "tweet_PaulaReidCNN_-8362146494800095566",
     "type": "tweet",
     "username": "PaulaReidCNN",
     "text": "FIRST ON CNN: Longtime Trump ally and former admin official Michael Caputo files the first known claim to the controversial DOJ weaponization fund for people who believe they have been wrongly investigated by DOJ. The fund has not been formally set up, but he sent this letter",
@@ -532,12 +333,12 @@
     "images": [
       "8b6ad19aa65ee174.jpg"
     ],
-    "url": "https://x.com/PaulaReidCNN/status/1362463226124103515",
-    "timestamp": "2026-05-20T00:09:29.471703+00:00",
+    "url": "https://x.com/PaulaReidCNN/status/-8362146494800095566",
+    "timestamp": "2026-05-20T05:08:16.884940+00:00",
     "original_time": "2026-05-19T21:00:54+00:00"
   },
   {
-    "id": "tweet_seungminkim_-3941910499221330138",
+    "id": "tweet_seungminkim_3072855051601558969",
     "type": "tweet",
     "username": "seungminkim",
     "text": "We’re on the South Lawn for the annual congressional picnic. Among the members spotted: Steve Scalise, Joni Ernst, James Lankford, Virginia Foxx, Ted Budd, Brian Mast, Shri Thanedar",
@@ -545,12 +346,12 @@
     "images": [
       "65c20a6f6d46559a.jpg"
     ],
-    "url": "https://x.com/seungminkim/status/-3941910499221330138",
-    "timestamp": "2026-05-20T00:09:29.763819+00:00",
+    "url": "https://x.com/seungminkim/status/3072855051601558969",
+    "timestamp": "2026-05-20T05:08:17.703507+00:00",
     "original_time": "2026-05-19T23:23:04+00:00"
   },
   {
-    "id": "tweet_margbrennan_-3033009996236803750",
+    "id": "tweet_margbrennan_-5979311534317669264",
     "type": "tweet",
     "username": "margbrennan",
     "text": "President Ahmed al Sharaa former nom de guerre Abu Mohammed al Jolani received another cologne shipment from POTUS.",
@@ -558,91 +359,404 @@
     "images": [
       "4a7c68aba1e5e397.jpg"
     ],
-    "url": "https://x.com/margbrennan/status/-3033009996236803750",
-    "timestamp": "2026-05-20T00:09:30.105020+00:00",
+    "url": "https://x.com/margbrennan/status/-5979311534317669264",
+    "timestamp": "2026-05-20T05:08:19.160603+00:00",
     "original_time": "2026-05-19T22:51:04+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-4349630562296499400",
+    "id": "tweet_jamiedupree_-7558568090087060031",
     "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Trump celebrating Massie’s opponent win tonight.",
-    "translated_text": "特朗普今晚庆祝马西的对手获胜。",
+    "username": "jamiedupree",
+    "text": "3 days after Trump helped to defeat him in a GOP primary, Sen. Bill Cassidy R-LA returns the favor by voting with Democrats to end the Iran war.",
+    "translated_text": "特朗普在共和党初选中击败特朗普三天后，共和党参议员比尔·卡西迪 (Bill Cassidy R-LA) 投票支持民主党结束伊朗战争，以此作为回报。",
     "images": [
-      "9933b224d8618b8d.jpg"
+      "8f2e7de63f923ca7.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-4349630562296499400",
-    "timestamp": "2026-05-20T00:09:47.967896+00:00",
-    "original_time": "2026-05-20T00:01:03+00:00"
+    "url": "https://x.com/jamiedupree/status/-7558568090087060031",
+    "timestamp": "2026-05-20T05:08:19.479210+00:00",
+    "original_time": "2026-05-19T21:36:51+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-7463934408702075139",
+    "id": "tweet_KellieMeyerNews_1090781095669637755",
     "type": "tweet",
     "username": "KellieMeyerNews",
-    "text": "Trump’s WH team as Massie is defeated.",
-    "translated_text": "特朗普领导的马西白宫团队被击败。",
+    "text": "President Trump is set to attend the G7 summit in France next month, a White House official tells me@NewsNationFirst scooped by@MarcACaputo@axios",
+    "translated_text": "一位白宫官员告诉我，特朗普总统将于下个月参加法国七国集团峰会@NewsNationFirst 独家报道@MarcACaputo@axios",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-7463934408702075139",
-    "timestamp": "2026-05-20T00:09:48.102249+00:00",
-    "original_time": "2026-05-19T23:57:15+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/1090781095669637755",
+    "timestamp": "2026-05-20T05:08:38.686874+00:00",
+    "original_time": "2026-05-20T01:14:05+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-5703305794770125516",
+    "id": "tweet_seungminkim_3078947896958630329",
+    "type": "tweet",
+    "username": "seungminkim",
+    "text": "Chatted w@RepMikeLawler(wearing a Mr Salt hat) at the White House congressional picnic tonight. He says more than 5,000 people have already signed up to attend his event with Trump in his New York district on Friday",
+    "translated_text": "今晚在白宫国会野餐会上与@RepMikeLawler（戴着 Mr Salt 帽子）聊天。他说已经有超过 5000 人报名参加周五他在纽约地区与特朗普举行的活动",
+    "images": [],
+    "url": "https://x.com/seungminkim/status/3078947896958630329",
+    "timestamp": "2026-05-20T05:08:39.957259+00:00",
+    "original_time": "2026-05-20T00:59:03+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_1862917624234628613",
     "type": "tweet",
     "username": "KellieMeyerNews",
-    "text": "DDHQ projects Massie will lose his race for reelection.",
-    "translated_text": "DDHQ 预计马西将失去连任竞选。",
+    "text": "TRUMP TONIGHT MOMENTS AFTER MASSIE'S PROJECTED LOSS: \"We won the Massie thing. He was a bad guy. He deserved to lose.”\n\nHere was that clip caught by the CNN pool camera.",
+    "translated_text": "今晚，在马西预计落败后不久，特朗普表示：“我们赢得了马西的胜利。他是个坏人。他活该输。”\n\n这是 CNN 泳池摄像机拍摄到的片段。",
     "images": [
-      "97e7df3e4c2041cf.jpg"
+      "27809d4841a8753a.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-5703305794770125516",
-    "timestamp": "2026-05-20T00:09:48.533018+00:00",
-    "original_time": "2026-05-19T23:56:36+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/1862917624234628613",
+    "timestamp": "2026-05-20T05:08:41.330967+00:00",
+    "original_time": "2026-05-20T01:07:18+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-5068208025333716803",
+    "id": "tweet_KellieMeyerNews_256106767214674669",
     "type": "tweet",
     "username": "KellieMeyerNews",
-    "text": ".@RandPaulat the Congressional Picnic.",
-    "translated_text": ".@RandPaulat 国会野餐。",
+    "text": "When I yelled out to the senator to see if he could talk, he shook his head no.",
+    "translated_text": "当我向参议员大喊，看他能否说话时，他摇摇头说不能。",
     "images": [
       "6ec06b06b1090dde.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-5068208025333716803",
-    "timestamp": "2026-05-20T00:09:49.063889+00:00",
-    "original_time": "2026-05-19T23:44:45+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/256106767214674669",
+    "timestamp": "2026-05-20T05:08:42.349030+00:00",
+    "original_time": "2026-05-20T01:04:24+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-6683692436397720232",
+    "id": "tweet_NewsNation_4324422730835237117",
     "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "President Trump talks about China and says he got “a lot done” in his visit.",
-    "translated_text": "特朗普总统谈到了中国，并表示他在访问中“做了很多事情”。",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-6683692436397720232",
-    "timestamp": "2026-05-20T00:09:49.615600+00:00",
-    "original_time": "2026-05-19T23:40:03+00:00"
+    "username": "NewsNation",
+    "text": "Decision Desk HQ projects Tommy Tuberville wins Republican Alabama governor primary.\n\nMORE:https://tinyurl.com/2e2ue7xw",
+    "translated_text": "决策台总部预计汤米·图伯维尔 (Tommy Tuberville) 赢得共和党阿拉巴马州州长初选。\n\n更多：https://tinyurl.com/2e2ue7xw",
+    "images": [
+      "f41e12c5ed682f41.jpg"
+    ],
+    "url": "https://x.com/NewsNation/status/4324422730835237117",
+    "timestamp": "2026-05-20T05:08:43.731525+00:00",
+    "original_time": "2026-05-20T01:01:56+00:00"
   },
   {
-    "id": "tweet_realDonaldTrump_-5710688111320556464",
+    "id": "tweet_realDonaldTrump_-169678437196444628",
     "type": "tweet",
     "username": "realDonaldTrump",
     "text": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which Massie knows full well, so the",
     "translated_text": "可怕的国会议员托马斯·马西（Thomas Massie）早在我发现他是我们国家历史上最糟糕的国会议员之前，就在很多年前就对他进行了旧的认可。我支持艾德·加莱因（Ed Gallrein），一位真正的美国爱国者，马西对此非常了解，所以",
     "images": [],
-    "url": "https://x.com/realDonaldTrump/status/-5710688111320556464",
-    "timestamp": "2026-05-20T00:10:05.175778+00:00",
+    "url": "https://x.com/realDonaldTrump/status/-169678437196444628",
+    "timestamp": "2026-05-20T05:08:59.021272+00:00",
     "original_time": "2026-05-19T19:59:18+00:00"
   },
   {
-    "id": "article_3b24f456275c",
+    "id": "article_5ab476779985",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Nigeria says joint strikes with US kill 175 IS fighters",
-    "translated_title": "尼日利亚称与美国联合打击杀死175名“伊斯兰国”武装分子",
-    "url": "https://www.dawn.com/news/2001567/nigeria-says-joint-strikes-with-us-kill-175-is-fighters",
-    "timestamp": "2026-05-20T00:11:34.712727+00:00",
-    "original_time": "2026-05-19T23:48:34+05:00"
+    "title": "Lawyer’s licence suspended for using ‘foul’ language",
+    "translated_title": "律师因使用“粗俗”语言而被吊销执照",
+    "url": "https://www.dawn.com/news/2001600/lawyers-licence-suspended-for-using-foul-language",
+    "timestamp": "2026-05-20T05:09:53.760556+00:00",
+    "original_time": "2026-05-20T07:02:52+05:00"
+  },
+  {
+    "id": "article_e1766890f1ba",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Ronaldo, 41, to lead Portugal in his sixth World Cup",
+    "translated_title": "41岁的罗纳尔多带领葡萄牙第六次参加世界杯",
+    "url": "https://www.dawn.com/news/2001625/ronaldo-41-to-lead-portugal-in-his-sixth-world-cup",
+    "timestamp": "2026-05-20T05:10:03.875026+00:00",
+    "original_time": "2026-05-20T07:02:24+05:00"
+  },
+  {
+    "id": "article_a685179b4529",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Eight Pakistan Bar Council members oppose proposed rule change on council meetings",
+    "translated_title": "八名巴基斯坦律师协会成员反对拟议的理事会会议规则变更",
+    "url": "https://www.dawn.com/news/2001665/eight-pakistan-bar-council-members-oppose-proposed-rule-change-on-council-meetings",
+    "timestamp": "2026-05-20T05:10:29.348801+00:00",
+    "original_time": "2026-05-20T07:02:08+05:00"
+  },
+  {
+    "id": "article_9d6cd26e9317",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2001400/provinces-asked-to-raise-rs400bn-more-to-meet-imf-goals",
+    "timestamp": "2026-05-20T05:11:06.749066+00:00",
+    "original_time": "2026-05-20T05:11:06.749041+00:00"
+  },
+  {
+    "id": "article_011fd7a064ae",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Govt set to approve Rs3.5tr development plan",
+    "translated_title": "政府将批准 3.5tr 卢比的发展计划",
+    "url": "https://www.dawn.com/news/2001645/govt-set-to-approve-rs35tr-development-plan",
+    "timestamp": "2026-05-20T05:11:11.255251+00:00",
+    "original_time": "2026-05-20T07:02:17+05:00"
+  },
+  {
+    "id": "article_ee6f44d1a542",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Foreign investment plunges to $1.409bn",
+    "translated_title": "外国投资骤降至14.09亿美元",
+    "url": "https://www.dawn.com/news/2001646/foreign-investment-plunges-to-1409bn",
+    "timestamp": "2026-05-20T05:11:15.690199+00:00",
+    "original_time": "2026-05-20T07:02:17+05:00"
+  },
+  {
+    "id": "article_ae4d16a1dedc",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan can buy Russian oil",
+    "translated_title": "巴基斯坦可以购买俄罗斯石油",
+    "url": "https://www.dawn.com/news/2001641",
+    "timestamp": "2026-05-20T05:11:29.061968+00:00",
+    "original_time": "2026-05-20T07:02:17+05:00"
+  },
+  {
+    "id": "article_3f9a4cf4cbe0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Mayor Wahab inaugurates project to plant 100,000 saplings along Shahrah-i-Bhutto",
+    "translated_title": "瓦哈卜市长启动沿沙赫拉布托种植 10 万棵树苗的项目",
+    "url": "https://www.dawn.com/news/2001691/mayor-wahab-inaugurates-project-to-plant-100000-saplings-along-shahrah-i-bhutto",
+    "timestamp": "2026-05-20T05:11:44.041189+00:00",
+    "original_time": "2026-05-20T07:43:53+05:00"
+  },
+  {
+    "id": "article_6b65999887cc",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Buying returns, volume stays thin as tensions ease",
+    "translated_title": "随着紧张局势缓解，买入回报，成交量保持清淡",
+    "url": "https://www.dawn.com/news/2001640/buying-returns-volume-stays-thin-as-tensions-ease",
+    "timestamp": "2026-05-20T05:11:58.684074+00:00",
+    "original_time": "2026-05-20T07:02:17+05:00"
+  },
+  {
+    "id": "article_519ae5d0957f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Plea against three-month summer vacation dismissed in Punjab",
+    "translated_title": "旁遮普省驳回三个月暑假请求",
+    "url": "https://www.dawn.com/news/2001593/plea-against-three-month-summer-vacation-dismissed-in-punjab",
+    "timestamp": "2026-05-20T05:12:16.824690+00:00",
+    "original_time": "2026-05-20T07:02:42+05:00"
+  },
+  {
+    "id": "article_03c58679474f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "NA session adjourned again as quorum crisis persists",
+    "translated_title": "由于法定人数危机持续存在，国会会议再次休会",
+    "url": "https://www.dawn.com/news/2001672/na-session-adjourned-again-as-quorum-crisis-persists",
+    "timestamp": "2026-05-20T05:12:20.783221+00:00",
+    "original_time": "2026-05-20T07:11:36+05:00"
+  },
+  {
+    "id": "article_99442dc00441",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Border Military Police station attacked by militants in Dera Ghazi Khan",
+    "translated_title": "德拉加齐汗边境军事警察局遭到武装分子袭击",
+    "url": "https://www.dawn.com/news/2001595/border-military-police-station-attacked-by-militants-in-dera-ghazi-khan",
+    "timestamp": "2026-05-20T05:12:24.855792+00:00",
+    "original_time": "2026-05-20T07:02:42+05:00"
+  },
+  {
+    "id": "article_55b913cd3e5e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Higher Education Commission asked to curb drugs in educational institutions",
+    "translated_title": "高等教育委员会要求遏制教育机构内的毒品",
+    "url": "https://www.dawn.com/news/2001702/higher-education-commission-asked-to-curb-drugs-in-educational-institutions",
+    "timestamp": "2026-05-20T05:12:39.036981+00:00",
+    "original_time": "2026-05-20T07:59:26+05:00"
+  },
+  {
+    "id": "article_f2a2b1a05be0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PMD warns of glacial floods in northern regions",
+    "translated_title": "PMD警告北部地区出现冰川洪水",
+    "url": "https://www.dawn.com/news/2001664/pmd-warns-of-glacial-floods-in-northern-regions",
+    "timestamp": "2026-05-20T05:12:44.814243+00:00",
+    "original_time": "2026-05-20T07:02:08+05:00"
+  },
+  {
+    "id": "article_2b9bf3ea847f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Police get three-day remand of Pinky in 10 ‘old’ drug cases",
+    "translated_title": "警方在 10 起“旧”毒品案件中将 Pinky 还押三天",
+    "url": "https://www.dawn.com/news/2001694/police-get-three-day-remand-of-pinky-in-10-old-drug-cases",
+    "timestamp": "2026-05-20T05:13:09.538669+00:00",
+    "original_time": "2026-05-20T07:46:57+05:00"
+  },
+  {
+    "id": "article_8704a6049242",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2001676",
+    "timestamp": "2026-05-20T05:13:32.318237+00:00",
+    "original_time": "2026-05-20T05:13:32.318216+00:00"
+  },
+  {
+    "id": "article_799e9ee3b262",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Flour millers in twin cities accuse Punjab govt of discrimination",
+    "translated_title": "双城面粉厂指责旁遮普邦政府歧视",
+    "url": "https://www.dawn.com/news/2001591/flour-millers-in-twin-cities-accuse-punjab-govt-of-discrimination",
+    "timestamp": "2026-05-20T05:13:43.224771+00:00",
+    "original_time": "2026-05-20T07:02:42+05:00"
+  },
+  {
+    "id": "article_224b43c5c145",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Banned outfits, NGOs stopped from collecting hides on Eid in Mansehra",
+    "translated_title": "曼塞赫拉开斋节期间禁止服装、非政府组织收集皮革",
+    "url": "https://www.dawn.com/news/2001609/banned-outfits-ngos-stopped-from-collecting-hides-on-eid-in-mansehra",
+    "timestamp": "2026-05-20T05:13:49.895206+00:00",
+    "original_time": "2026-05-20T07:02:52+05:00"
+  },
+  {
+    "id": "article_68a7bcc12b5a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Neymar included in Brazil’s World Cup squad after injury struggles",
+    "translated_title": "内马尔在伤病困扰后入选巴西世界杯阵容",
+    "url": "https://www.dawn.com/news/2001614/neymar-included-in-brazils-world-cup-squad-after-injury-struggles",
+    "timestamp": "2026-05-20T05:14:21.461851+00:00",
+    "original_time": "2026-05-20T07:02:24+05:00"
+  },
+  {
+    "id": "article_e21335f6223a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "CM Maryam inaugurates Punjab Pavilion at Baku forum",
+    "translated_title": "CM Maryam 在巴库论坛上为旁遮普馆揭幕",
+    "url": "https://www.dawn.com/news/2001668/cm-maryam-inaugurates-punjab-pavilion-at-baku-forum",
+    "timestamp": "2026-05-20T05:14:25.247230+00:00",
+    "original_time": "2026-05-20T07:04:50+05:00"
+  },
+  {
+    "id": "article_e8c1f5e2e144",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Nato mulling role in Strait of Hormuz, says top commander",
+    "translated_title": "最高指挥官称北约正在考虑在霍尔木兹海峡发挥作用",
+    "url": "https://www.dawn.com/news/2001636/nato-mulling-role-in-strait-of-hormuz-says-top-commander",
+    "timestamp": "2026-05-20T05:14:29.242775+00:00",
+    "original_time": "2026-05-20T07:02:31+05:00"
+  },
+  {
+    "id": "article_22ad8156929f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "NA launches AI-enabled paperless system",
+    "translated_title": "NA推出人工智能无纸化系统",
+    "url": "https://www.dawn.com/news/2001661/na-launches-ai-enabled-paperless-system",
+    "timestamp": "2026-05-20T05:14:50.562667+00:00",
+    "original_time": "2026-05-20T07:02:08+05:00"
+  },
+  {
+    "id": "article_0e02c467927f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "‘Why don’t you take questions, Mr Modi?’",
+    "translated_title": "“莫迪先生，你为什么不回答问题呢？”",
+    "url": "https://www.dawn.com/news/2001637",
+    "timestamp": "2026-05-20T05:15:11.233801+00:00",
+    "original_time": "2026-05-20T07:02:31+05:00"
+  },
+  {
+    "id": "article_4ad0cab7ec6d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Resettlement plan sought for people before ML-1 execution",
+    "translated_title": "ML-1执行前寻求人员安置计划",
+    "url": "https://www.dawn.com/news/2001696",
+    "timestamp": "2026-05-20T05:15:16.732827+00:00",
+    "original_time": "2026-05-20T07:48:35+05:00"
+  },
+  {
+    "id": "article_c3a1c46fc6e3",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Plea filed in IHC against Bushra Bibi’s ‘solitary confinement’",
+    "translated_title": "针对 Bushra Bibi 的“单独监禁”向 IHC 提出抗辩",
+    "url": "https://www.dawn.com/news/2001670/plea-filed-in-ihc-against-bushra-bibis-solitary-confinement",
+    "timestamp": "2026-05-20T05:15:25.278207+00:00",
+    "original_time": "2026-05-20T07:06:59+05:00"
+  },
+  {
+    "id": "article_31104b8a8f56",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "No more politics, only social work: Jahangir Khan Tareen",
+    "translated_title": "不再有政治，只有社会工作：贾汉吉尔·汗·塔林",
+    "url": "https://www.dawn.com/news/2001666",
+    "timestamp": "2026-05-20T05:15:33.370799+00:00",
+    "original_time": "2026-05-20T07:02:08+05:00"
+  },
+  {
+    "id": "article_b37334538b69",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Transporters announce strike over attacks on trucks in Balochistan",
+    "translated_title": "俾路支省卡车袭击事件 运输商宣布罢工",
+    "url": "https://www.dawn.com/news/2001662/transporters-announce-strike-over-attacks-on-trucks-in-balochistan",
+    "timestamp": "2026-05-20T05:15:38.758229+00:00",
+    "original_time": "2026-05-20T07:02:08+05:00"
+  },
+  {
+    "id": "article_dc235d0711f4",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "AJK to sign MoU with Punjab for Safe City project within one month: IGP",
+    "translated_title": "AJK将在一个月内与旁遮普邦签署安全城市项目谅解备忘录：IGP",
+    "url": "https://www.dawn.com/news/2001704/ajk-to-sign-mou-with-punjab-for-safe-city-project-within-one-month-igp",
+    "timestamp": "2026-05-20T05:15:53.747612+00:00",
+    "original_time": "2026-05-20T08:00:13+05:00"
+  },
+  {
+    "id": "article_0c418b8edc96",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Trump’s Gaza board reports funding ‘gap’, urges quicker disbursement",
+    "translated_title": "特朗普的加沙委员会报告资金“缺口”，敦促加快支付",
+    "url": "https://www.dawn.com/news/2001630/trumps-gaza-board-reports-funding-gap-urges-quicker-disbursement",
+    "timestamp": "2026-05-20T05:16:04.842801+00:00",
+    "original_time": "2026-05-20T07:02:31+05:00"
+  },
+  {
+    "id": "article_40477f961de8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Sexual abuse by Israel",
+    "translated_title": "以色列的性虐待",
+    "url": "https://www.dawn.com/news/2001680",
+    "timestamp": "2026-05-20T05:16:19.555166+00:00",
+    "original_time": "2026-05-20T07:29:29+05:00"
+  },
+  {
+    "id": "article_13aea901fdda",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "21 killed as rains drench southern, central China",
+    "translated_title": "中国南部和中部地区暴雨造成21人死亡",
+    "url": "https://www.dawn.com/news/2001639/21-killed-as-rains-drench-southern-central-china",
+    "timestamp": "2026-05-20T05:16:23.291423+00:00",
+    "original_time": "2026-05-20T07:02:31+05:00"
   },
   {
     "id": "article_b0d13d143b04",
@@ -651,78 +765,118 @@
     "title": "Driver of vehicle involved in fatal hit-and-run on Karachi’s Sea View road remains at large",
     "translated_title": "卡拉奇海景公路上发生致命肇事逃逸事件的司机仍逍遥法外",
     "url": "https://www.dawn.com/news/2001565/driver-of-vehicle-involved-in-fatal-hit-and-run-on-karachis-sea-view-road-remains-at-large",
-    "timestamp": "2026-05-20T00:11:43.041586+00:00",
+    "timestamp": "2026-05-20T05:16:32.039081+00:00",
     "original_time": "2026-05-19T23:19:01+05:00"
   },
   {
-    "id": "article_82de800d7236",
+    "id": "article_f9197c02f7b9",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "In pictures: Iran stages mass weddings for couples ready for war 'sacrifice'",
-    "translated_title": "图片中：伊朗为准备战争“牺牲”的夫妇举办集体婚礼",
-    "url": "https://www.dawn.com/news/2001533/in-pictures-iran-stages-mass-weddings-for-couples-ready-for-war-sacrifice",
-    "timestamp": "2026-05-20T00:11:58.441972+00:00",
-    "original_time": "2026-05-19T18:27:25+05:00"
+    "title": "Moral failure",
+    "translated_title": "道德败坏",
+    "url": "https://www.dawn.com/news/2001679/moral-failure",
+    "timestamp": "2026-05-20T05:16:36.524551+00:00",
+    "original_time": "2026-05-20T07:27:40+05:00"
   },
   {
-    "id": "article_493d7260ce8f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "2 killed, 11 injured in rain-related incidents in KP: PDMA",
-    "translated_title": "KP：PDMA因降雨造成2人死亡、11人受伤",
-    "url": "https://www.dawn.com/news/2001524/2-killed-11-injured-in-rain-related-incidents-in-kp-pdma",
-    "timestamp": "2026-05-20T00:12:23.767031+00:00",
-    "original_time": "2026-05-19T18:11:07+05:00"
-  },
-  {
-    "id": "article_aa5ec767c713",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "CTD official killed by unidentified assailants in Turbat: police",
-    "translated_title": "CTD官员在图尔巴特被身份不明的袭击者杀害：警方",
-    "url": "https://www.dawn.com/news/2001511/ctd-official-killed-by-unidentified-assailants-in-turbat-police",
-    "timestamp": "2026-05-20T00:12:32.632153+00:00",
-    "original_time": "2026-05-19T17:13:23+05:00"
-  },
-  {
-    "id": "article_c1865592d2a1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan a net regional stabiliser contributing to peace in the region and beyond: PM Shehbaz",
-    "translated_title": "巴基斯坦总理谢赫巴兹：巴基斯坦是地区稳定者，有助于地区内外的和平",
-    "url": "https://www.dawn.com/news/2001538/pakistan-a-net-regional-stabiliser-contributing-to-peace-in-the-region-and-beyond-pm-shehbaz",
-    "timestamp": "2026-05-20T00:12:55.588463+00:00",
-    "original_time": "2026-05-19T20:46:40+05:00"
-  },
-  {
-    "id": "article_99002dd074bb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "AIIB to provide $320m loan for N-5 highway reconstruction project",
-    "translated_title": "亚投行将为N-5高速公路重建项目提供3.2亿美元贷款",
-    "url": "https://www.dawn.com/news/2001545/aiib-to-provide-320m-loan-for-n-5-highway-reconstruction-project",
-    "timestamp": "2026-05-20T00:12:59.572777+00:00",
-    "original_time": "2026-05-19T20:06:44+05:00"
-  },
-  {
-    "id": "article_ded85ac96b9e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "5 booked for allegedly gang-raping girl in Sindh's Ghotki",
-    "translated_title": "5人因涉嫌在信德省Ghotki轮奸女孩而被立案",
-    "url": "https://www.dawn.com/news/2001543/5-booked-for-allegedly-gang-raping-girl-in-sindhs-ghotki",
-    "timestamp": "2026-05-20T00:13:13.033064+00:00",
-    "original_time": "2026-05-19T20:56:25+05:00"
-  },
-  {
-    "id": "article_5642d03d8558",
+    "id": "article_53a7e116c3c6",
     "type": "article",
     "source": "www.dawn.com",
     "title": "www.dawn.com",
     "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2001296/pm-shehbaz-reviews-rs15tr-psdp-directs-more-funds-for-well-performing-ministries",
-    "timestamp": "2026-05-20T00:13:56.154129+00:00",
-    "original_time": "2026-05-20T00:13:56.154098+00:00"
+    "url": "https://www.dawn.com/news/2001653",
+    "timestamp": "2026-05-20T05:17:04.048416+00:00",
+    "original_time": "2026-05-20T05:17:04.048388+00:00"
+  },
+  {
+    "id": "article_7db61f2a1f39",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Fear grips KP's Dattakhel amid possibility of operation",
+    "translated_title": "KP 的 Dattakhel 对手术的可能性感到恐惧",
+    "url": "https://www.dawn.com/news/2001611/fear-grips-kps-dattakhel-amid-possibility-of-operation",
+    "timestamp": "2026-05-20T05:17:13.894877+00:00",
+    "original_time": "2026-05-20T07:02:52+05:00"
+  },
+  {
+    "id": "article_e487ef79bffa",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "COMMENT: Trust the signals, but  verify the policy",
+    "translated_title": "评论：相信信号，但验证政策",
+    "url": "https://www.dawn.com/news/2001632",
+    "timestamp": "2026-05-20T05:17:18.312992+00:00",
+    "original_time": "2026-05-20T07:02:31+05:00"
+  },
+  {
+    "id": "article_e24c86107194",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Biogas will not be used to fuel buses on Red Line corridor, Sindh Assembly told",
+    "translated_title": "信德省议会告诉红线走廊，沼气将不会用于为巴士提供燃料",
+    "url": "https://www.dawn.com/news/2001692/biogas-will-not-be-used-to-fuel-buses-on-red-line-corridor-sindh-assembly-told",
+    "timestamp": "2026-05-20T05:17:42.545377+00:00",
+    "original_time": "2026-05-20T07:45:07+05:00"
+  },
+  {
+    "id": "article_98dc69ad4f7f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2000809/beating-india-in-pro-league-matches-could-start-revival-of-pakistan-hockey",
+    "timestamp": "2026-05-20T05:18:27.195524+00:00",
+    "original_time": "2026-05-20T05:18:27.195500+00:00"
+  },
+  {
+    "id": "article_fc65d805161b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Gold worth Rs30m, cash looted from four  jewellery shops in Gulistan-i-Jauhar",
+    "translated_title": "Gulistan-i-Jauhar 的四家珠宝店价值 3000 万卢比的黄金和现金被抢劫",
+    "url": "https://www.dawn.com/news/2001689/gold-worth-rs30m-cash-looted-from-four-jewellery-shops-in-gulistan-i-jauhar",
+    "timestamp": "2026-05-20T05:18:30.746279+00:00",
+    "original_time": "2026-05-20T07:42:54+05:00"
+  },
+  {
+    "id": "article_e8e1184c036b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Late amendments to review petitions permitted at advanced stage: FCC",
+    "translated_title": "后期阶段允许对审查申请进行最新修订：FCC",
+    "url": "https://www.dawn.com/news/2001710/late-amendments-to-review-petitions-permitted-at-advanced-stage-fcc",
+    "timestamp": "2026-05-20T05:18:34.476352+00:00",
+    "original_time": "2026-05-20T08:08:18+05:00"
+  },
+  {
+    "id": "article_bfcd25ce0b0e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Migrant outflow declines in recent years due to visa restrictions: report",
+    "translated_title": "由于签证限制，近年来移民外流有所下降：报告",
+    "url": "https://www.dawn.com/news/2001597/migrant-outflow-declines-in-recent-years-due-to-visa-restrictions-report",
+    "timestamp": "2026-05-20T05:18:38.569243+00:00",
+    "original_time": "2026-05-20T07:02:42+05:00"
+  },
+  {
+    "id": "article_fc8130d73524",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PPP leaders say ‘premature’ to comment on 28th Amendment",
+    "translated_title": "PPP领导人表示对第28修正案发表评论“为时过早”",
+    "url": "https://www.dawn.com/news/2001671/ppp-leaders-say-premature-to-comment-on-28th-amendment",
+    "timestamp": "2026-05-20T05:18:45.614903+00:00",
+    "original_time": "2026-05-20T07:10:30+05:00"
+  },
+  {
+    "id": "article_3b24f456275c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Nigeria says joint strikes with US kill 175 IS fighters",
+    "translated_title": "尼日利亚称与美国联合打击杀死175名“伊斯兰国”武装分子",
+    "url": "https://www.dawn.com/news/2001567/nigeria-says-joint-strikes-with-us-kill-175-is-fighters",
+    "timestamp": "2026-05-20T05:18:48.952018+00:00",
+    "original_time": "2026-05-19T23:48:34+05:00"
   },
   {
     "id": "article_dfbc9ea7ad60",
@@ -731,137 +885,37 @@
     "title": "Govt invites expressions of interest for sale of three major Discos",
     "translated_title": "政府邀请出售三大迪斯科舞厅的意向书",
     "url": "https://www.dawn.com/news/2001552/govt-invites-expressions-of-interest-for-sale-of-three-major-discos",
-    "timestamp": "2026-05-20T00:14:37.559264+00:00",
+    "timestamp": "2026-05-20T05:18:57.855969+00:00",
     "original_time": "2026-05-19T22:16:46+05:00"
   },
   {
-    "id": "article_181378d6a16f",
+    "id": "article_66bd9890880d",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2001361/after-escaping-iran-war-haitis-nazon-awaits-world-cup-dream",
-    "timestamp": "2026-05-20T00:15:04.434267+00:00",
-    "original_time": "2026-05-20T00:15:04.434234+00:00"
+    "title": "India rest Jasprit Bumrah for one-off Test against Afghanistan",
+    "translated_title": "印度让贾斯普里特·布姆拉休息，参加对阿富汗的一次性测试",
+    "url": "https://www.dawn.com/news/2001626/india-rest-jasprit-bumrah-for-one-off-test-against-afghanistan",
+    "timestamp": "2026-05-20T05:19:02.214335+00:00",
+    "original_time": "2026-05-20T07:02:24+05:00"
   },
   {
-    "id": "article_50bcb23c8e49",
+    "id": "article_fefd1f10c778",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Taijul puts Bangladesh on brink of Test series win over Pakistan",
-    "translated_title": "泰朱尔让孟加拉国在测试系列赛中战胜巴基斯坦",
-    "url": "https://www.dawn.com/news/2001532/taijul-puts-bangladesh-on-brink-of-test-series-win-over-pakistan",
-    "timestamp": "2026-05-20T00:15:40.816961+00:00",
-    "original_time": "2026-05-19T18:25:40+05:00"
+    "title": "Iran warns of new fronts as Trump doubles down",
+    "translated_title": "特朗普加倍努力，伊朗警告新战线",
+    "url": "https://www.dawn.com/news/2001654/iran-warns-of-new-fronts-as-trump-doubles-down",
+    "timestamp": "2026-05-20T05:19:05.950819+00:00",
+    "original_time": "2026-05-20T07:01:56+05:00"
   },
   {
-    "id": "article_1323410aac84",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP CM Afridi, Imran Khan’s sisters stopped from meeting former premier at Adiala Jail",
-    "translated_title": "KP CM Afridi 和伊姆兰·汗的姐妹们阻止在阿迪亚拉监狱会见前总理",
-    "url": "https://www.dawn.com/news/2001530/kp-cm-afridi-imran-khans-sisters-stopped-from-meeting-former-premier-at-adiala-jail",
-    "timestamp": "2026-05-20T00:16:05.260256+00:00",
-    "original_time": "2026-05-19T19:08:25+05:00"
-  },
-  {
-    "id": "article_961eb33c3ef8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "TTAP, PTI announces countrywide protests on Friday against Imran's imprisonment, rising inflation",
-    "translated_title": "TTAP、PTI 宣布周五全国范围内抗议伊姆兰被监禁和通货膨胀上升",
-    "url": "https://www.dawn.com/news/2001523/ttap-pti-announces-countrywide-protests-on-friday-against-imrans-imprisonment-rising-inflation",
-    "timestamp": "2026-05-20T00:16:12.031916+00:00",
-    "original_time": "2026-05-19T17:52:10+05:00"
-  },
-  {
-    "id": "article_fa8c256c9c16",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2001427",
-    "timestamp": "2026-05-20T00:16:55.516609+00:00",
-    "original_time": "2026-05-20T00:16:55.516576+00:00"
-  },
-  {
-    "id": "article_b810c70808b5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PAA extends airspace ban on Indian aircraft until June 24",
-    "translated_title": "PAA将对印度飞机的空域禁令延长至6月24日",
-    "url": "https://www.dawn.com/news/2001527/paa-extends-airspace-ban-on-indian-aircraft-until-june-24",
-    "timestamp": "2026-05-20T00:17:20.922672+00:00",
-    "original_time": "2026-05-19T18:17:03+05:00"
-  },
-  {
-    "id": "article_2a9f062a7dd0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2001320/hec-shifts-to-fully-online-degree-attestation-system-senate-body-informed",
-    "timestamp": "2026-05-20T00:17:58.050990+00:00",
-    "original_time": "2026-05-20T00:17:58.050965+00:00"
-  },
-  {
-    "id": "article_b4bc428b8b39",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2001417/maryam-says-cities-resilience-relies-on-people-centred-uplift",
-    "timestamp": "2026-05-20T00:18:53.660352+00:00",
-    "original_time": "2026-05-20T00:18:53.660322+00:00"
-  },
-  {
-    "id": "article_e3fdf6717784",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2000812/aurangzeb-calls-panda-bond-issuance-transformational-step",
-    "timestamp": "2026-05-20T00:19:25.619673+00:00",
-    "original_time": "2026-05-20T00:19:25.619640+00:00"
-  },
-  {
-    "id": "article_576325b85132",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2001337/treasury-lawmakers-express-concern-over-appointment-of-non-locals-in-kp-health-dept",
-    "timestamp": "2026-05-20T00:19:55.431595+00:00",
-    "original_time": "2026-05-20T00:19:55.431562+00:00"
-  },
-  {
-    "id": "article_a3f99656eaa7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "FIA suspends two officers, registers case over incident in Karachi's Sarafa Bazaar",
-    "translated_title": "国际汽联因卡拉奇萨拉法集市事件对两名官员停职并立案",
-    "url": "https://www.dawn.com/news/2001539/fia-suspends-two-officers-registers-case-over-incident-in-karachis-sarafa-bazaar",
-    "timestamp": "2026-05-20T00:20:22.787671+00:00",
-    "original_time": "2026-05-19T19:41:17+05:00"
-  },
-  {
-    "id": "article_07bbefb9e334",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Security forces kill 22 terrorists in North Waziristan operation: ISPR",
-    "translated_title": "ISPR：安全部队在北瓦济里斯坦行动中击毙22名恐怖分子",
-    "url": "https://www.dawn.com/news/2001537/security-forces-kill-22-terrorists-in-north-waziristan-operation-ispr",
-    "timestamp": "2026-05-20T00:20:47.698470+00:00",
-    "original_time": "2026-05-19T19:03:05+05:00"
-  },
-  {
-    "id": "article_2d5d8653effe",
+    "id": "article_281e47eba0dd",
     "type": "article",
     "source": "arynews.tv",
-    "title": "Interior Minister, US envoy discuss security for Islamabad talks",
-    "translated_title": "内政部长与美国特使讨论伊斯兰堡会谈的安全问题",
-    "url": "https://arynews.tv/interior-minister-us-envoy-discuss-security-for-islamabad-talks",
-    "timestamp": "2026-05-20T00:21:11.195825+00:00",
+    "title": "Donald Trump repeats that Iran’s ‘entire Navy is at bottom of Sea’",
+    "translated_title": "唐纳德·特朗普重申伊朗“整个海军都在海底”",
+    "url": "https://arynews.tv/donald-trump-repeats-that-irans-entire-navy-is-at-bottom-of-sea",
+    "timestamp": "2026-05-20T05:19:30.408986+00:00",
     "original_time": "2026-05-20T00:00:00+00:00"
   },
   {
@@ -871,37 +925,7 @@
     "title": "Islamabad Talks round 2: Pakistan awaits Iran response",
     "translated_title": "伊斯兰堡第二轮会谈：巴基斯坦等待伊朗的回应",
     "url": "https://arynews.tv/islamabad-talks-round-2-pakistan-awaits-iran-response",
-    "timestamp": "2026-05-20T00:21:29.213173+00:00",
-    "original_time": "2026-05-20T00:00:00+00:00"
-  },
-  {
-    "id": "article_064b783065fe",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "JD Vance Visit to Pakistan Postponed",
-    "translated_title": "JD万斯对巴基斯坦的访问推迟",
-    "url": "https://arynews.tv/jd-vance-visit-to-pakistan-postponed",
-    "timestamp": "2026-05-20T00:21:47.270275+00:00",
-    "original_time": "2026-05-20T00:00:00+00:00"
-  },
-  {
-    "id": "article_b71f7fc22d8a",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Pakistan Reaffirms Commitment to Hosting US-Iran Dialogue",
-    "translated_title": "巴基斯坦重申主办美伊对话的承诺",
-    "url": "https://arynews.tv/pakistan-reaffirms-commitment-to-hosting-us-iran-dialogue",
-    "timestamp": "2026-05-20T00:22:05.287835+00:00",
-    "original_time": "2026-05-20T00:00:00+00:00"
-  },
-  {
-    "id": "article_ffbfe9ae5f73",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "China endorses Pakistan’s efforts to facilitate US–Iran peace talks",
-    "translated_title": "中方支持巴基斯坦为推动美伊和谈所做的努力",
-    "url": "https://arynews.tv/china-endorses-pakistans-efforts-to-facilitate-us-iran-peace-talks",
-    "timestamp": "2026-05-20T00:22:23.155335+00:00",
+    "timestamp": "2026-05-20T05:19:48.807311+00:00",
     "original_time": "2026-05-20T00:00:00+00:00"
   },
   {
@@ -911,7 +935,17 @@
     "title": "Traffic plan rolled out, key roads closed in Islamabad",
     "translated_title": "交通计划出台，伊斯兰堡主要道路关闭",
     "url": "https://arynews.tv/traffic-plan-rolled-out-key-roads-closed-in-islamabad",
-    "timestamp": "2026-05-20T00:22:41.304880+00:00",
+    "timestamp": "2026-05-20T05:20:06.817766+00:00",
+    "original_time": "2026-05-20T00:00:00+00:00"
+  },
+  {
+    "id": "article_b71f7fc22d8a",
+    "type": "article",
+    "source": "arynews.tv",
+    "title": "Pakistan Reaffirms Commitment to Hosting US-Iran Dialogue",
+    "translated_title": "巴基斯坦重申主办美伊对话的承诺",
+    "url": "https://arynews.tv/pakistan-reaffirms-commitment-to-hosting-us-iran-dialogue",
+    "timestamp": "2026-05-20T05:20:24.690422+00:00",
     "original_time": "2026-05-20T00:00:00+00:00"
   },
   {
@@ -921,27 +955,17 @@
     "title": "Donald Trump says Iran is ‘going to negotiate’ or face ‘problems’",
     "translated_title": "唐纳德·特朗普表示伊朗将“进行谈判”或面临“问题”",
     "url": "https://arynews.tv/donald-trump-says-iran-is-going-to-negotiate-or-face-problems",
-    "timestamp": "2026-05-20T00:22:58.885991+00:00",
+    "timestamp": "2026-05-20T05:20:42.877776+00:00",
     "original_time": "2026-05-20T00:00:00+00:00"
   },
   {
-    "id": "article_c6dbf40e6c2b",
+    "id": "article_ffbfe9ae5f73",
     "type": "article",
     "source": "arynews.tv",
-    "title": "Iran will not negotiate with US under shadow of threats: Ghalibaf",
-    "translated_title": "加利巴夫：伊朗不会在威胁阴影下与美国谈判",
-    "url": "https://arynews.tv/iran-will-not-negotiate-with-us-under-shadow-of-threats-ghalibaf",
-    "timestamp": "2026-05-20T00:23:16.558027+00:00",
-    "original_time": "2026-05-20T00:00:00+00:00"
-  },
-  {
-    "id": "article_281e47eba0dd",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Donald Trump repeats that Iran’s ‘entire Navy is at bottom of Sea’",
-    "translated_title": "唐纳德·特朗普重申伊朗“整个海军都在海底”",
-    "url": "https://arynews.tv/donald-trump-repeats-that-irans-entire-navy-is-at-bottom-of-sea",
-    "timestamp": "2026-05-20T00:23:38.835491+00:00",
+    "title": "China endorses Pakistan’s efforts to facilitate US–Iran peace talks",
+    "translated_title": "中方支持巴基斯坦为推动美伊和谈所做的努力",
+    "url": "https://arynews.tv/china-endorses-pakistans-efforts-to-facilitate-us-iran-peace-talks",
+    "timestamp": "2026-05-20T05:21:05.220689+00:00",
     "original_time": "2026-05-20T00:00:00+00:00"
   },
   {
@@ -951,7 +975,37 @@
     "title": "Iran state TV denies reports of diplomatic delegation in Islamabad",
     "translated_title": "伊朗国家电视台否认外交代表团驻伊斯兰堡的报道",
     "url": "https://arynews.tv/iran-state-tv-denies-reports-of-diplomatic-delegation-in-islamabad",
-    "timestamp": "2026-05-20T00:23:57.516675+00:00",
+    "timestamp": "2026-05-20T05:21:23.004601+00:00",
+    "original_time": "2026-05-20T00:00:00+00:00"
+  },
+  {
+    "id": "article_2d5d8653effe",
+    "type": "article",
+    "source": "arynews.tv",
+    "title": "Interior Minister, US envoy discuss security for Islamabad talks",
+    "translated_title": "内政部长与美国特使讨论伊斯兰堡会谈的安全问题",
+    "url": "https://arynews.tv/interior-minister-us-envoy-discuss-security-for-islamabad-talks",
+    "timestamp": "2026-05-20T05:21:40.604216+00:00",
+    "original_time": "2026-05-20T00:00:00+00:00"
+  },
+  {
+    "id": "article_c6dbf40e6c2b",
+    "type": "article",
+    "source": "arynews.tv",
+    "title": "Iran will not negotiate with US under shadow of threats: Ghalibaf",
+    "translated_title": "加利巴夫：伊朗不会在威胁阴影下与美国谈判",
+    "url": "https://arynews.tv/iran-will-not-negotiate-with-us-under-shadow-of-threats-ghalibaf",
+    "timestamp": "2026-05-20T05:21:58.334240+00:00",
+    "original_time": "2026-05-20T00:00:00+00:00"
+  },
+  {
+    "id": "article_064b783065fe",
+    "type": "article",
+    "source": "arynews.tv",
+    "title": "JD Vance Visit to Pakistan Postponed",
+    "translated_title": "JD万斯对巴基斯坦的访问推迟",
+    "url": "https://arynews.tv/jd-vance-visit-to-pakistan-postponed",
+    "timestamp": "2026-05-20T05:22:15.935080+00:00",
     "original_time": "2026-05-20T00:00:00+00:00"
   }
 ]
