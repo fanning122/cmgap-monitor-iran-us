@@ -1,6 +1,39 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-4741845791582346306",
+    "id": "tweet_ForeignOfficePk_-5472063481393091119",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Pakistanextends warmest felicitations to the government and people of Argentinaon their National Day.\n\nFeliz Dia Nacional@SantiagoCafiero@ArgentinaMFA@PakinArgentina",
+    "translated_text": "巴基斯坦向阿根廷政府和人民致以国庆节最热烈的祝贺。\n\n国庆节快乐@SantiagoCafiero@ArgentinaMFA@PakinArgentina",
+    "images": [
+      "dee669a0abb351a1.svg",
+      "31d4dc27bcf68679.svg",
+      "910dd9a75ccde98d.svg",
+      "473a714cee691346.svg",
+      "f1c5bdeac33222f4.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-5472063481393091119",
+    "timestamp": "2026-05-25T05:19:53.466362+00:00",
+    "original_time": "2026-05-25T03:32:21+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_3076998444797232801",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Pakistanextends its heartiest felicitations to the Government and people of the Hashemite Kingdom of Jordanon the joyous occasion of Eid al-Istiklaal/Independence Day!\n\nHappy independence Day, Jordan!@ForeignMinistry@PakinJordan",
+    "translated_text": "值此开斋节/独立日的欢乐时刻，巴基斯坦向约旦哈希姆王国政府和人民致以最诚挚的祝贺！\n\n独立日快乐，约旦！@ForeignMinistry@PakinJordan",
+    "images": [
+      "dee669a0abb351a1.svg",
+      "8ae770f3eb30362c.svg",
+      "473a714cee691346.svg",
+      "11fd35aaae0157c7.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/3076998444797232801",
+    "timestamp": "2026-05-25T05:19:54.210732+00:00",
+    "original_time": "2026-05-25T03:22:01+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_7786146768564964338",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Joint Statement by Foreign Ministers of the Group of Eight Arab-Islamic States",
@@ -16,689 +49,268 @@
       "1d7695f51048fca1.svg",
       "c85bacd78fb1e36d.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-4741845791582346306",
-    "timestamp": "2026-05-25T00:09:57.599669+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/7786146768564964338",
+    "timestamp": "2026-05-25T05:19:54.823347+00:00",
     "original_time": "2026-05-24T18:08:01+00:00"
   },
   {
-    "id": "tweet_MIshaqDar50_2156732004407601571",
-    "type": "tweet",
-    "username": "MIshaqDar50",
-    "text": "Co-chaired today the 2nd China-Pakistan Political Parties Forum and the 4th Meeting of the CPEC Political Parties Joint Consultation Mechanism with Minister H. E. Liu Haixing of the IDCPC, in Beijing. \n\nI was joined by Federal Minister Planning, brother Ahsan Iqbal",
-    "translated_text": "今天在北京与中巴合作部部长刘海星共同主持第二届中巴政党论坛暨中巴经济走廊政党联合磋商机制第四次会议。 \n\n联邦规划部长阿赫桑·伊克巴尔的兄弟也加入了我的行列",
-    "images": [
-      "1d8ddb0d94f24ebc.jpg",
-      "ff771ebb88626424.jpg"
-    ],
-    "url": "https://x.com/MIshaqDar50/status/2156732004407601571",
-    "timestamp": "2026-05-25T00:09:58.042728+00:00",
-    "original_time": "2026-05-24T14:49:00+00:00"
-  },
-  {
-    "id": "tweet_ForeignOfficePk_7830039534766737472",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister/ Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50delivered welcome remarks at the Pakistan–China B2B Investment Conference in Hangzhou, led by Hon’ble Prime Minister Muhammad Shehbaz Sharif@CMShehbazand joined by the Governor of Zhejiang Province,",
-    "translated_text": "副总理/外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50在杭州举行的巴中 B2B 投资会议上致欢迎辞，会议由总理穆罕默德·谢赫巴兹·谢里夫@CMShehbazand 主持，浙江省省长也参加了会议，",
-    "images": [
-      "4ca3147b00a8a090.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/7830039534766737472",
-    "timestamp": "2026-05-25T00:09:58.357958+00:00",
-    "original_time": "2026-05-24T14:34:26+00:00"
-  },
-  {
-    "id": "tweet_MIshaqDar50_-3848420295863772269",
-    "type": "tweet",
-    "username": "MIshaqDar50",
-    "text": "Held a productive meeting in Beijing with Minister Liu Haixing of the International Department of the Communist Party of China Central Committee (IDCPC), while leading the Pakistan Muslim League (N) delegation.\n\nAlso was signed an MoU between the Communist Party of China (CPC)",
-    "translated_text": "率领巴基斯坦穆斯林联盟代表团在北京与中共中央对外联络部部长刘海星举行富有成果的会晤。\n\n中国共产党（CPC）还签署了一份谅解备忘录",
-    "images": [
-      "769e23d2f44967f7.jpg",
-      "90d81a1bc7e11e99.jpg",
-      "aa0e8b1d69ea1d99.jpg"
-    ],
-    "url": "https://x.com/MIshaqDar50/status/-3848420295863772269",
-    "timestamp": "2026-05-25T00:09:58.866370+00:00",
-    "original_time": "2026-05-24T14:00:40+00:00"
-  },
-  {
-    "id": "tweet_MIshaqDar50_0",
-    "type": "tweet",
-    "username": "MIshaqDar50",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "65b75ef443b04370.jpg"
-    ],
-    "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-05-25T00:10:11.165480+00:00",
-    "original_time": "2026-05-24T16:12:49+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_-7847110457443169380",
+    "id": "tweet_PakPMO_-8188496771924029857",
     "type": "tweet",
     "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif and Governor Zhejiang Province Mr. Liu Jie witnessing the signing of MoUs and Agreements of cooperation between Pakistani and Chinese companies worth USD 1.22 billion at the Pakistan China Business Conference held in Hangzhou on 24 May 2026.",
-    "translated_text": "2026年5月24日，巴基斯坦总理谢赫巴兹·谢里夫和浙江省省长刘杰在杭州举行的巴中商务会议上见证了巴基斯坦与中国企业签署价值12.2亿美元的谅解备忘录和合作协议。",
+    "text": "Prime Minister Muhammad Shehbaz Sharif and Chairman Alibaba Group Mr. Joe Tsai witnessing the signing ceremony of the establishment of a comprehensive strategic framework between Government of Pakistan and Alibaba Group, that aims to accelerate Pakistan’s digital transformation",
+    "translated_text": "巴基斯坦总理谢里夫和阿里巴巴集团董事长蔡崇信见证巴基斯坦政府与阿里巴巴集团建立全面战略框架的签字仪式，旨在加速巴基斯坦数字化转型",
     "images": [
-      "6957732ba2d7d6e1.jpg",
-      "7228a70b75fa7794.jpg"
+      "c7def99724efe26e.jpg",
+      "d588c046a0ae7d63.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-7847110457443169380",
-    "timestamp": "2026-05-25T00:10:38.830988+00:00",
-    "original_time": "2026-05-24T16:11:36+00:00"
+    "url": "https://x.com/PakPMO/status/-8188496771924029857",
+    "timestamp": "2026-05-25T05:20:37.529971+00:00",
+    "original_time": "2026-05-25T00:30:18+00:00"
   },
   {
-    "id": "tweet_PakPMO_-5037091380056593207",
+    "id": "tweet_PakPMO_5999853640572188730",
     "type": "tweet",
     "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif addresses Pakistan China Business Conference on Information Tecnology & Telecom, Battery Energy Storage System (BESS) and Agriculture held in Hangzhou. 24 May, 2026.",
-    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理在杭州举行的巴中信息技术与电信、电池储能系统（BESS）和农业商务会议上发表讲话。 2026 年 5 月 24 日。",
+    "text": "Prime Minister Muhammad Shehbaz Sharif witnessing the MoUs and agreements exchange between Alibaba and Pakistan. Hangzhou, 24 May 2026.",
+    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理见证阿里巴巴与巴基斯坦签署谅解备忘录和协议。杭州，2026 年 5 月 24 日。",
     "images": [
-      "0bd4bd526550522e.jpg",
-      "288dbf716b37964c.jpg",
-      "3f42c3501632a64d.jpg",
-      "6fcb0f209c566cc4.jpg"
+      "8cdc9f71c3ff9000.jpg",
+      "40df4eac0f9b589b.jpg",
+      "a715333ca79d966e.jpg",
+      "2a1784213aacc4d3.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-5037091380056593207",
-    "timestamp": "2026-05-25T00:10:39.497078+00:00",
-    "original_time": "2026-05-24T16:10:18+00:00"
+    "url": "https://x.com/PakPMO/status/5999853640572188730",
+    "timestamp": "2026-05-25T05:20:38.786706+00:00",
+    "original_time": "2026-05-25T00:28:45+00:00"
   },
   {
-    "id": "tweet_PakPMO_7834205296490697915",
+    "id": "tweet_PakPMO_5769554487379328620",
     "type": "tweet",
     "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif attends Pakistan China Business Conference on Information Tecnology & Telecom, Battery Energy Storage System (BESS) and Agriculture held in Hangzhou. 24 May, 2026.",
-    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理出席在杭州举行的巴中信息技术与电信、电池储能系统（BESS）和农业商务会议。 2026 年 5 月 24 日。",
+    "text": "Prime Minister Muhammad Shehbaz Sharif and Chairman Alibaba Group Mr. Joe Tsai deliver their remarks at Alibaba Headquarters, Hangzhou. 24 May 2026.",
+    "translated_text": "巴基斯坦总理穆罕默德·谢赫巴兹·谢里夫和阿里巴巴集团董事长蔡崇信在杭州阿里巴巴总部发表讲话。 2026 年 5 月 24 日。",
     "images": [
-      "7e7ecdf163e9bde9.jpg",
-      "efdd5cc4f6c5ce67.jpg"
+      "5f1188755db8ddb9.jpg",
+      "a0b227a6b0f6eaa8.jpg",
+      "d221273998c86770.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/7834205296490697915",
-    "timestamp": "2026-05-25T00:10:39.984203+00:00",
-    "original_time": "2026-05-24T16:08:48+00:00"
+    "url": "https://x.com/PakPMO/status/5769554487379328620",
+    "timestamp": "2026-05-25T05:20:39.945189+00:00",
+    "original_time": "2026-05-25T00:26:50+00:00"
   },
   {
-    "id": "tweet_PakPMO_-2407832807991431748",
+    "id": "tweet_PakPMO_2383925109251528174",
     "type": "tweet",
     "username": "PakPMO",
-    "text": "Governor Zhejiang Province Mr. Liu Jie receiving Prime Minister Muhammad Shehbaz Sharif upon his arrival to attend the Pakistan China Business Conference on Information Technology & Telecom, Battery Energy Storage System (BESS) and Agriculture held in Hangzhou on 24 May 2026.",
-    "translated_text": "2026年5月24日，浙江省省长刘杰接见总理穆罕默德·谢赫巴兹·谢里夫出席在杭州举行的巴中信息技术和电信、电池储能系统（BESS）和农业商务会议。",
+    "text": "Chairman Alibaba Group, Mr. Joe Tsai welcomes Prime Minister Muhammad Shehbaz Sharif at Alibaba Headquarters, Hangzhou. 24 May 2026.",
+    "translated_text": "阿里巴巴集团董事局主席蔡崇信先生在杭州阿里巴巴总部欢迎穆罕默德·谢赫巴兹·谢里夫总理。 2026 年 5 月 24 日。",
     "images": [
-      "2e049af30df62840.jpg"
+      "1e2c4c04a6c75285.jpg",
+      "fd3d0b327efa99c5.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-2407832807991431748",
-    "timestamp": "2026-05-25T00:10:40.320449+00:00",
-    "original_time": "2026-05-24T16:08:37+00:00"
+    "url": "https://x.com/PakPMO/status/2383925109251528174",
+    "timestamp": "2026-05-25T05:20:40.276688+00:00",
+    "original_time": "2026-05-25T00:25:16+00:00"
   },
   {
-    "id": "tweet_PakPMO_-6200975570408038268",
+    "id": "tweet_PakPMO_-1003573356391685769",
     "type": "tweet",
     "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif participated in the Pakistan-China Business Conference held in Hangzhou. During the conference, companies from Pakistan and China signed agreements and memorandums of understanding worth more than $7 billion to promote cooperation and",
-    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理出席在杭州举行的巴中商务会议。会议期间，巴基斯坦和中国企业签署了价值超过70亿美元的协议和谅解备忘录，以促进合作和发展",
+    "text": "Hangzhou: 24 May 2026.\n\nPrime Minister Muhammad Shehbaz Sharif visited the headquarters of Alibaba Group in Hangzhou today, where he was warmly received by Chairman Joe Tsai. Senior ministers and officials of the Government of Pakistan and top executives of Alibaba Group were",
+    "translated_text": "杭州：2026 年 5 月 24 日。\n\n穆罕默德·谢赫巴兹·谢里夫总理今天参观了位于杭州的阿里巴巴集团总部，并受到蔡崇信董事长的热情接待。巴基斯坦政府高级部长和官员以及阿里巴巴集团高管出席",
     "images": [
-      "71e2cc52d2214ed0.jpg"
+      "e6d3880d22a61270.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-6200975570408038268",
-    "timestamp": "2026-05-25T00:10:40.668379+00:00",
-    "original_time": "2026-05-24T15:37:55+00:00"
+    "url": "https://x.com/PakPMO/status/-1003573356391685769",
+    "timestamp": "2026-05-25T05:20:41.508897+00:00",
+    "original_time": "2026-05-25T00:21:23+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_-6408484190705175238",
+    "id": "tweet_Tasnimnews_Fa_9188515913158621411",
+    "type": "tweet",
+    "username": "Tasnimnews_Fa",
+    "text": "﷽          \n\nNothing came to mind but your image for us  \nNothing passed by but your alley for us                                                                     \n\nPeace be upon you, O Ali ibn Musa al-Ridha (peace be upon him)#وقت_سلام",
+    "translated_text": "﷽          \n\n我们脑子里除了你的形象什么都没有想到  \n除了你的小巷，我们什么也没有经过                                                                     \n\n愿你安息，阿里·伊本·穆萨·阿尔-里达（O Ali ibn Musa al-Ridha）（愿安息在他身上）#قЂЂ_সা",
+    "images": [
+      "81f855f4b66ad8d3.jpg"
+    ],
+    "url": "https://x.com/Tasnimnews_Fa/status/9188515913158621411",
+    "timestamp": "2026-05-25T05:21:26.302516+00:00",
+    "original_time": "2026-05-25T04:52:36+00:00"
+  },
+  {
+    "id": "tweet_Tasnimnews_Fa_-5171292949678503427",
+    "type": "tweet",
+    "username": "Tasnimnews_Fa",
+    "text": "Brent crude oil started the week with a 4 percent negative gap",
+    "translated_text": "布伦特原油本周初出现 4% 的负缺口",
+    "images": [
+      "328d539f852794ad.jpg"
+    ],
+    "url": "https://x.com/Tasnimnews_Fa/status/-5171292949678503427",
+    "timestamp": "2026-05-25T05:21:26.905009+00:00",
+    "original_time": "2026-05-25T00:50:17+00:00"
+  },
+  {
+    "id": "tweet_Tasnimnews_Fa_7899837562058794156",
+    "type": "tweet",
+    "username": "Tasnimnews_Fa",
+    "text": "Devastating Fire at an Industrial Factory in California\n\nA \"shelter in place\" order has been issued for nearby residents; police have blocked off surrounding streets and asked drivers to use alternate routes",
+    "translated_text": "加利福尼亚州一家工业工厂发生毁灭性火灾\n\n已向附近居民发出“就地避难”令；警方封锁了周围的街道，并要求司机使用替代路线",
+    "images": [
+      "c56858dca67c12e8.svg",
+      "a8ff73342af8bbe0.jpg"
+    ],
+    "url": "https://x.com/Tasnimnews_Fa/status/7899837562058794156",
+    "timestamp": "2026-05-25T05:21:27.969750+00:00",
+    "original_time": "2026-05-25T00:48:59+00:00"
+  },
+  {
+    "id": "tweet_Tasnimnews_Fa_-3589822907405134465",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
     "text": "An informed source to Tasnim: Iran harbors no optimism toward America, and the exchange of messages through the Pakistani intermediary is continually conducted with persistent suspicion toward the U.S. government.\n\nTo this point, no final agreement has been reached, and",
     "translated_text": "塔斯尼姆消息人士透露：伊朗对美国不抱乐观态度，通过巴基斯坦中间人交换信息不断地对美国政府抱有怀疑。\n\n截至目前，双方尚未达成最终协议，",
     "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/-6408484190705175238",
-    "timestamp": "2026-05-25T00:11:23.746876+00:00",
+    "url": "https://x.com/Tasnimnews_Fa/status/-3589822907405134465",
+    "timestamp": "2026-05-25T05:21:28.113613+00:00",
     "original_time": "2026-05-24T20:49:53+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_-1036168414555483810",
+    "id": "tweet_Tasnimnews_Fa_-3209689888987937278",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
     "text": "But even if an initial agreement is reached, it does not mean a change in Iran's perspective toward America or assurance of this government's fulfillment of its commitments.\n\nAmericans have a very bad track record in negotiations, which reinforces and solidifies the suspicions.",
     "translated_text": "但即使达成初步协议，也不意味着伊朗对美国的看法发生改变，也不意味着伊朗政府会履行其承诺。\n\n美国人在谈判中的记录非常糟糕，这加深了人们的怀疑。",
     "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/-1036168414555483810",
-    "timestamp": "2026-05-25T00:11:25.082936+00:00",
+    "url": "https://x.com/Tasnimnews_Fa/status/-3209689888987937278",
+    "timestamp": "2026-05-25T05:21:28.246751+00:00",
     "original_time": "2026-05-24T20:49:53+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_-6950265969995211643",
+    "id": "tweet_Tasnimnews_Fa_-1474161955291290263",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
     "text": "Therefore, even if an agreement is reached, Iran will monitor the actions of the United States throughout the process following the announcement of the agreement, and in the event that the United States breaches its commitments at that stage, Iran will retain its leverage to",
     "translated_text": "因此，即使达成协议，伊朗也会在协议公布后全程监控美国的行动，如果美国在现阶段违反承诺，伊朗将保留影响力",
     "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/-6950265969995211643",
-    "timestamp": "2026-05-25T00:11:26.348718+00:00",
+    "url": "https://x.com/Tasnimnews_Fa/status/-1474161955291290263",
+    "timestamp": "2026-05-25T05:21:28.378333+00:00",
     "original_time": "2026-05-24T20:49:54+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_5991362526046921360",
+    "id": "tweet_Tasnimnews_Fa_-8746670396489505826",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
     "text": "Israeli media report on the text of the agreement is false\n\nAn Israeli media outlet (i24) has written that \"American officials say Iran will not receive any facilities regarding the release of frozen funds until it begins the transfer of its enriched uranium reserves.\"",
     "translated_text": "以色列媒体关于协议文本的报道不实\n\n以色列媒体 (i24) 撰文称，“美国官员表示，在伊朗开始转移其浓缩铀储备之前，伊朗不会获得任何有关释放冻结资金的便利。”",
     "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/5991362526046921360",
-    "timestamp": "2026-05-25T00:11:27.679815+00:00",
+    "url": "https://x.com/Tasnimnews_Fa/status/-8746670396489505826",
+    "timestamp": "2026-05-25T05:21:28.524480+00:00",
     "original_time": "2026-05-24T20:29:12+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_3525530147849797471",
+    "id": "tweet_Tasnimnews_Fa_-2997792633772951821",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
     "text": "While the initial agreement must focus on the topic of \"ending the war\"\n\nBased on the framework announced by Iran, if the release of frozen assets does not occur, one of our country's red lines will not be observed, and no agreement will be reached.",
     "translated_text": "而最初的协议必须围绕“结束战争”的主题\n\n根据伊朗公布的框架，如果不释放冻结资产，我国的一条红线就不会被遵守，也不会达成任何协议。",
     "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/3525530147849797471",
-    "timestamp": "2026-05-25T00:11:29.100774+00:00",
+    "url": "https://x.com/Tasnimnews_Fa/status/-2997792633772951821",
+    "timestamp": "2026-05-25T05:21:28.678026+00:00",
     "original_time": "2026-05-24T20:29:15+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_-522553878968833719",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "As previously mentioned, the subject of the memorandum of understanding has not yet been finalized up to this point for several reasons, including the United States' obstruction in the release of Iran's assets in this very first step, and there is a possibility of disagreement.",
-    "translated_text": "如前所述，由于美国在第一步释放伊朗资产方面的阻挠等原因，谅解备忘录的主题至今尚未最终确定，存在出现分歧的可能性。",
-    "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/-522553878968833719",
-    "timestamp": "2026-05-25T00:11:29.701828+00:00",
-    "original_time": "2026-05-24T20:29:16+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-8078710193606497498",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Al Jazeera: The U.S. Army's ammunition shortage is one of the reasons Trump is seeking an agreement with Iran\n\nAlthough the consumption of weaponry such as Tomahawk missiles is a serious issue; the reduction in reserves of air defense systems represents an even more severe",
-    "translated_text": "半岛电视台：美军弹药短缺是特朗普寻求与伊朗达成协议的原因之一\n\n虽然战斧导弹等武器装备的消耗是一个严重的问题；防空系统储备的减少意味着更加严重的情况",
-    "images": [
-      "6ff887204ce04fb1.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-8078710193606497498",
-    "timestamp": "2026-05-25T00:11:30.470921+00:00",
-    "original_time": "2026-05-24T20:09:10+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_307759680499806182",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Trump's Continued War-Mongering Posts on Social Media\n\n  The president of the terrorist American government has once again published a post with a warlike theme on social media",
-    "translated_text": "特朗普继续在社交媒体上发布煽动战争的帖子\n\n  美国恐怖政府总统再次在社交媒体上发表好战主题的帖子",
-    "images": [
-      "64b79938d3a9e539.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/307759680499806182",
-    "timestamp": "2026-05-25T00:11:30.807811+00:00",
-    "original_time": "2026-05-24T20:07:06+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_4323735799157220091",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Sheikh Naim Qassem: Resistance is the product of the leadership of the \"Sayyid of the Martyrs of the Ummah,\" Sayyid Hassan Nasrallah\n\n  Everyone who had a share in the resistance is a partner in the resistance itself and in the freedom and victory achieved.",
-    "translated_text": "谢赫·纳伊姆·卡西姆：抵抗是“乌玛烈士赛义德”领导的产物，赛义德·哈桑·纳斯拉拉\n\n  每个参与抵抗的人都是抵抗本身以及所取得的自由和胜利的伙伴。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/4323735799157220091",
-    "timestamp": "2026-05-25T00:11:33.006131+00:00",
-    "original_time": "2026-05-24T15:46:45+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_2191390933815553155",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Netanyahu's Talks with Trump Regarding Iran\n\nThe Prime Minister of the Zionist regime claimed that any final agreement with Iran must completely eliminate the country's \"nuclear threat.\"",
-    "translated_text": "内塔尼亚胡与特朗普就伊朗问题进行会谈\n\n犹太复国主义政权总理声称，与伊朗的任何最终协议都必须彻底消除该国的“核威胁”。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/2191390933815553155",
-    "timestamp": "2026-05-25T00:11:34.157437+00:00",
-    "original_time": "2026-05-24T15:01:15+00:00"
-  },
-  {
-    "id": "tweet_Tasnimbrk_2561069882065505787",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "The Secretary-General of Hezbollah in Lebanon will deliver an important speech today, Sunday, coinciding with the anniversary of the \"Holiday of Resistance and Liberation.\"\n\nThis speech will begin at exactly 18:30 (local time).",
-    "translated_text": "黎巴嫩真主党秘书长将于今天周日发表重要讲话，恰逢“抵抗与解放节日”周年纪念日。\n\n本次演讲将于当地时间 18:30 准时开始。",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/2561069882065505787",
-    "timestamp": "2026-05-25T00:11:36.207735+00:00",
-    "original_time": "2026-05-24T14:43:23+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_1522847805665561324",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Iran's First Women's Gymnastics Medal After the Revolution\n\nIn the adult synchronized trampoline pairs competition, the team of \"Yalda Hassan-Shokati\" and \"Shaghayegh Cheraghi\" secured the Asian runner-up title and the silver medal of this event.",
-    "translated_text": "伊朗革命后第一枚女子体操奖牌\n\n在成人双人同步蹦床比赛中，“Yalda Hassan-Shokati”和“Shaghayegh Cheraghi”队获得亚洲亚军，并获得本次赛事的银牌。",
-    "images": [
-      "10d5e97a190c3cfe.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/1522847805665561324",
-    "timestamp": "2026-05-25T00:11:37.826839+00:00",
-    "original_time": "2026-05-24T14:42:24+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_7246338705831950516",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Yemen's Ansarullah Leader: Trump's statements are part of a psychological war aimed at Iranophobia\n\nThe right path is to stand firm against the enemies' false propaganda with the patience and dignified faith\n\nExtensive media campaigns affiliated with the Zionists are also moving",
-    "translated_text": "也门安萨鲁拉领导人：特朗普的言论是针对伊朗恐惧症的心理战的一部分\n\n正确的道路是以耐心和庄严的信念坚决反对敌人的虚假宣传\n\n与犹太复国主义者有关的广泛媒体宣传活动也正在发生",
-    "images": [
-      "06460793f15b7d6b.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/7246338705831950516",
-    "timestamp": "2026-05-25T00:11:39.275336+00:00",
-    "original_time": "2026-05-24T14:22:36+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_5902681698064301408",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Prosecutor General of the Country: The victory of the Iranian nation is the result of the blessing of the blood of the martyred leader of the revolution\n\nWe must be ready in all arenas; unity and the presence of the people are among the effective factors that hold importance",
-    "translated_text": "国家总检察长：伊朗民族的胜利是革命烈士领袖鲜血祝福的结果\n\n我们必须在各个领域做好准备；人民的团结和存在是重要的有效因素之一",
-    "images": [
-      "c56858dca67c12e8.svg",
-      "007960926d18e03f.jpg",
-      "335130c481924874.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/5902681698064301408",
-    "timestamp": "2026-05-25T00:11:40.488530+00:00",
-    "original_time": "2026-05-24T14:21:19+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_5412830138204257208",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Head of Tehran City Council: We are also prepared for military confrontation and war\n\nThe readiness of the Iranian nation against enemies is such that it leads to greater power and greater ability to confront\n\nReadiness means we must not have any kind of leniency or negligence",
-    "translated_text": "德黑兰市议会主席：我们也做好了军事对抗和战争的准备\n\n伊朗民族对敌人的准备程度如此之高，以至于它会带来更大的力量和更强的对抗能力\n\n准备意味着我们不能有任何宽大或疏忽",
-    "images": [
-      "c56858dca67c12e8.svg",
-      "2a45165dcf4ac55f.jpg",
-      "d8603156b4498c0c.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/5412830138204257208",
-    "timestamp": "2026-05-25T00:11:41.936612+00:00",
-    "original_time": "2026-05-24T14:10:39+00:00"
-  },
-  {
-    "id": "tweet_Gharibabadi_9058531085918814948",
-    "type": "tweet",
-    "username": "Gharibabadi",
-    "text": "During my trip to Oman at the head of a diplomatic and legal delegation to Oman, I met with H.E. Badr bin Hamad bin Hamoud Al-Busaidi, Minister of Foreign Affairs of Oman, and delivered to him the verbal message of Dr. Abbas Araghchi, Minister of Foreign Affairs of our country.",
-    "translated_text": "在我作为阿曼外交和法律代表团团长访问阿曼期间，我会见了阿曼阁下。阿曼外交部长巴德尔·本·哈马德·本·哈穆德·布赛迪向他转达了我国外交部长阿巴斯·阿拉格奇博士的口信。",
-    "images": [
-      "ab3aaed9982e76a1.jpg",
-      "846317146ba90477.jpg",
-      "ad158c3397b1c8ba.jpg"
-    ],
-    "url": "https://x.com/Gharibabadi/status/9058531085918814948",
-    "timestamp": "2026-05-25T00:12:11.473824+00:00",
-    "original_time": "2026-05-24T14:51:03+00:00"
-  },
-  {
-    "id": "tweet_Gharibabadi_-4251458211703252333",
-    "type": "tweet",
-    "username": "Gharibabadi",
-    "text": "An investigative report based on official data from the Israeli regime's tax authority shows that from October 2023 to October 2025, military-related goods originating from dozens of countries have been imported into the occupied territories; the bulk of the value of these",
-    "translated_text": "一份基于以色列政权税务机关官方数据的调查报告显示，2023年10月至2025年10月，来自数十个国家的军事相关货物被进口到被占领土；这些价值的大部分",
-    "images": [],
-    "url": "https://x.com/Gharibabadi/status/-4251458211703252333",
-    "timestamp": "2026-05-25T00:12:11.678790+00:00",
-    "original_time": "2026-05-24T13:27:05+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_SPOX_8568695893887715527",
-    "type": "tweet",
-    "username": "IRIMFA_SPOX",
-    "text": "«God has closed the path to defeat for us.»  \nThe third of Khordad commemorates the great epic of the Iranian people in the liberation of#Khorramshahrand stands as a symbol of the steadfastness and resilience of Iranians in defending the honor and territorial integrity of Iran.",
-    "translated_text": "“上帝已经为我们关闭了失败之路。”  \n霍达德的第三个纪念伊朗人民解放#Khorramshahrand的伟大史诗，象征着伊朗人捍卫伊朗荣誉和领土完整的坚定和坚韧。",
-    "images": [
-      "a8820dc26c574656.jpg"
-    ],
-    "url": "https://x.com/IRIMFA_SPOX/status/8568695893887715527",
-    "timestamp": "2026-05-25T00:12:12.025701+00:00",
-    "original_time": "2026-05-24T12:38:32+00:00"
-  },
-  {
-    "id": "tweet_AJENews_0",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "5f4610a83689d639.jpg",
-      "9b20f961c2ada6de.svg"
-    ],
-    "url": "https://x.com/AJENews/status/0",
-    "timestamp": "2026-05-25T00:12:42.138945+00:00",
-    "original_time": "2026-05-24T14:09:12+00:00"
-  },
-  {
-    "id": "tweet_AJENews_1089974627680621621",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Hezbollah claims responsibility for 28 separate operations on Sunday, targeting Israeli troops and positions operating within southern LebanonLIVE updates:https://aje.news/auncy3?update=4598817…",
-    "translated_text": "突发新闻：真主党声称对周日的 28 起独立行动负责，目标是在黎巴嫩南部活动的以色列军队和阵地实时更新：https://aje.news/auncy3?update=4598817…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "7f93c4a3479151c9.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/1089974627680621621",
-    "timestamp": "2026-05-25T00:12:43.109268+00:00",
-    "original_time": "2026-05-24T22:30:25+00:00"
-  },
-  {
-    "id": "tweet_AJENews_6491650988482374612",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: US slams failure to reach Nuclear Non-Proliferation Treaty consensus, cites 'Iran’s continued noncompliance'LIVE updates:https://aje.news/auncy3?update=4598804…",
-    "translated_text": "突发新闻：美国猛烈抨击未能达成《核不扩散条约》共识，并援引“伊朗持续不遵守”实时更新：https://aje.news/auncy3?update=4598804…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "3385aad990d47159.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6491650988482374612",
-    "timestamp": "2026-05-25T00:12:44.190470+00:00",
-    "original_time": "2026-05-24T22:15:28+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-4265782832375969583",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Three Palestinian fishermen wounded by Israeli gunfire off Gaza's coastLIVE updates:https://aje.news/auncy3?update=4598765…",
-    "translated_text": "突发新闻：三名巴勒斯坦渔民在加沙海岸被以色列炮火打伤实时更新：https://aje.news/auncy3?update=4598765…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "769affa6f7369be8.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4265782832375969583",
-    "timestamp": "2026-05-25T00:12:44.986590+00:00",
-    "original_time": "2026-05-24T21:45:26+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-4485178637440688821",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israel carries out double tap strike on building in southern Lebanon's al-Duwayr, causing civilian casualties, state media saysLIVE updates:https://aje.news/auncy3?update=4598755…",
-    "translated_text": "突发新闻：官方媒体称，以色列对黎巴嫩南部杜维尔的建筑物进行了两次轻击，造成平民伤亡。实时更新：https://aje.news/auncy3?update=4598755…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "124a24c7bb008637.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4485178637440688821",
-    "timestamp": "2026-05-25T00:12:46.632837+00:00",
-    "original_time": "2026-05-24T21:30:43+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-9076870611160038404",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israeli forces launch interceptors at aerial targets in northern IsraelLIVE updates:https://aje.news/auncy3?update=4598528…",
-    "translated_text": "突发新闻：以色列军队向以色列北部的空中目标发射拦截弹实时更新：https://aje.news/auncy3?update=4598528…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "06187c4c9ca414a0.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-9076870611160038404",
-    "timestamp": "2026-05-25T00:12:48.967837+00:00",
-    "original_time": "2026-05-24T17:30:29+00:00"
-  },
-  {
-    "id": "tweet_AJENews_5329105598572657475",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Hezbollah chief urges Lebanese government to 'decriminalise the resistance' amid Israel talksLIVE updates:https://aje.news/auncy3?update=4598513…",
-    "translated_text": "突发新闻：真主党主席敦促黎巴嫩政府在以色列会谈中“将抵抗合法化”实时更新：https://aje.news/auncy3?update=4598513…",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/5329105598572657475",
-    "timestamp": "2026-05-25T00:12:49.156956+00:00",
-    "original_time": "2026-05-24T16:55:37+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-1666189176467067138",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Hezbollah chief Naim Qassem has again urged Lebanese authorities to abandon direct talks with Israel, ahead of a fourth round of discussions scheduled to take place in Washington early next month, AFP reports.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：据法新社报道，真主党领导人纳伊姆·卡西姆在定于下月初在华盛顿举行的第四轮讨论之前再次敦促黎巴嫩当局放弃与以色列的直接谈判。",
-    "images": [
-      "7f1a451786c84548.svg",
-      "a7f1de9ddad20baf.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-1666189176467067138",
-    "timestamp": "2026-05-25T00:12:50.428445+00:00",
-    "original_time": "2026-05-24T16:51:11+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-6243099664410295199",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israeli air strikes on Lebanon have killed 3,151 since March 2, Lebanese Health Ministry reportsLIVE updates:https://aje.news/auncy3?update=4598421…",
-    "translated_text": "突发新闻：黎巴嫩卫生部报告实时更新，自 3 月 2 日以来，以色列对黎巴嫩的空袭已造成 3,151 人死亡：https://aje.news/auncy3?update=4598421...",
-    "images": [
-      "7f1a451786c84548.svg",
-      "b17df286a6c0e8ac.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-6243099664410295199",
-    "timestamp": "2026-05-25T00:12:52.465472+00:00",
-    "original_time": "2026-05-24T16:10:31+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-5100473451610339592",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israeli air strikes kill 2, injure 1 in southern LebanonLIVE updates:https://aje.news/auncy3?update=4598400…",
-    "translated_text": "突发：以色列空袭黎巴嫩南部 2 人死亡、1 人受伤实时更新：https://aje.news/auncy3?update=4598400…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "65d147b57ea3b7d0.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-5100473451610339592",
-    "timestamp": "2026-05-25T00:12:53.247515+00:00",
-    "original_time": "2026-05-24T15:50:31+00:00"
-  },
-  {
-    "id": "tweet_AJENews_6814453969183628044",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Accepting Iran's control of Hormuz is 'least costly' option for US, says military adviser to Iran's supreme leaderLIVE updates:https://aje.news/auncy3?update=4598264…",
-    "translated_text": "突发新闻：伊朗最高领导人军事顾问表示，接受伊朗对霍尔木兹的控制对美国来说是“成本最低”的选择实时更新：https://aje.news/auncy3?update=4598264…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "c0917bf923fd57a7.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6814453969183628044",
-    "timestamp": "2026-05-25T00:12:54.241223+00:00",
-    "original_time": "2026-05-24T15:15:34+00:00"
-  },
-  {
-    "id": "tweet_AJENews_786384896173409037",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Netanyahu says Trump agreed that any deal with Iran must remove nuclear 'danger'LIVE updates:https://aje.news/auncy3?update=4598344…",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "7f1a451786c84548.svg",
-      "1dccd31949c56d7f.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/786384896173409037",
-    "timestamp": "2026-05-25T00:12:55.450080+00:00",
-    "original_time": "2026-05-24T14:59:30+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_-3698344965054698816",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "A monument honoring America's fallen heroes is growing along a trail just south of West Point Academy. The towering memorial is made up of stones that bear the names of those who made the ultimate sacrifice.",
-    "translated_text": "一座纪念美国阵亡英雄的纪念碑正在西点军校南边的一条小路上拔地而起。这座高耸的纪念碑由刻有最终牺牲者名字的石头组成。",
-    "images": [],
-    "url": "https://x.com/CBSEveningNews/status/-3698344965054698816",
-    "timestamp": "2026-05-25T00:13:39.768248+00:00",
-    "original_time": "2026-05-24T23:54:14+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_853433664428523558",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "It’s an expensive start to the summer travel season with everything from gas to groceries costing you more this year. Families stocking up for Memorial Day barbecues this weekend are feeling the heat, and many Americans will be forced to make some tough choices. CBS News’",
-    "translated_text": "夏季旅游旺季的开端价格昂贵，从汽油到杂货，今年的各种费用都会更高。本周末为阵亡将士纪念日烧烤准备的家庭正感受到炎热，许多美国人将被迫做出一些艰难的选择。哥伦比亚广播公司新闻",
-    "images": [
-      "bfcb8650ee97e614.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/853433664428523558",
-    "timestamp": "2026-05-25T00:13:41.152281+00:00",
-    "original_time": "2026-05-24T23:33:42+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_8060365596065292551",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Police say the suspected gunman in Saturday’s shooting at the White House was identified as 21-year-old Nasire Best. Court records show Best tried to gain entry to the White House last July, and was sent to a psychiatric ward for mental health issues. CBS News’@NatalieABrand",
-    "translated_text": "警方称，周六白宫枪击案的嫌疑枪手已被确认为 21 岁的纳西尔·贝斯特 (Nasire Best)。法庭记录显示，贝斯特去年七月试图进入白宫，但因精神健康问题被送往精神病房。哥伦比亚广播公司新闻@NatalieABrand",
-    "images": [
-      "014247882a9dc646.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/8060365596065292551",
-    "timestamp": "2026-05-25T00:13:42.171482+00:00",
-    "original_time": "2026-05-24T23:30:35+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_-9070253586340558942",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "U.S. and Iranian negotiators have agreed to broad principles of a deal, but President Trump cautions the White House will not be rushing into signing any agreement. CBS News’@ImtiazTyabreports.",
-    "translated_text": "美国和伊朗谈判代表已就协议的广泛原则达成一致，但特朗普总统警告称，白宫不会急于签署任何协议。哥伦比亚广播公司新闻@ImtiazTyabreports。",
-    "images": [
-      "5792fb249917f807.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/-9070253586340558942",
-    "timestamp": "2026-05-25T00:13:43.644786+00:00",
-    "original_time": "2026-05-24T23:21:12+00:00"
-  },
-  {
-    "id": "tweet_AndrewKozakTV_-1590292975017064852",
-    "type": "tweet",
-    "username": "AndrewKozakTV",
-    "text": "TORNADO or LANDSPOUT? Some scary video out of Texas from this weekend, where overnight storms produced landspouts… not tornadoes—@andrewkozaktvexplains the difference and has a look at your Memorial Day forecast on tonight’s@CBSEveningNews",
-    "translated_text": "龙卷风还是陆地喷发？本周末来自德克萨斯州的一些可怕视频，夜间风暴产生了陆龙卷……而不是龙卷风——@andrewkozaktv 解释了其中的差异，并在今晚的@CBSEveningNews 上查看阵亡将士纪念日天气预报",
-    "images": [
-      "ca1449ed6731ca9b.jpg"
-    ],
-    "url": "https://x.com/AndrewKozakTV/status/-1590292975017064852",
-    "timestamp": "2026-05-25T00:13:44.694974+00:00",
-    "original_time": "2026-05-24T23:12:56+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-3890535367496882407",
+    "id": "tweet_CBSNews_3664612522970264397",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Police video showed the dramatic rescue of an infant from a car trapped in floodwaters in southern Texas.",
-    "translated_text": "警方的视频显示，在德克萨斯州南部，一名婴儿从被困在洪水中的汽车中被救出。",
+    "text": "A man walking along a busy freeway in Dallas, Texas was safely removed on Thursday after police used a drone to track his movements, according to the Dallas Police Department. Police said officers quickly reached the area and safely removed him from the freeway before he was",
+    "translated_text": "据达拉斯警察局称，一名男子在德克萨斯州达拉斯一条繁忙的高速公路上行走，周四警方使用无人机追踪他的行踪后被安全带走。警方表示，警察很快就到达了该地区，并在他被送往高速公路之前将他安全地带离了高速公路。",
     "images": [
-      "9d1223af7e5892c6.jpg"
+      "fa526bed4cfb8e7e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3890535367496882407",
-    "timestamp": "2026-05-25T00:13:47.007884+00:00",
-    "original_time": "2026-05-24T18:00:01+00:00"
+    "url": "https://x.com/CBSNews/status/3664612522970264397",
+    "timestamp": "2026-05-25T05:23:01.633892+00:00",
+    "original_time": "2026-05-25T04:04:35+00:00"
   },
   {
-    "id": "tweet_FaceTheNation_4583454684000547684",
+    "id": "tweet_CBSNews_-1735659125212918512",
     "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "FULL INTERVIEW: Dr. Deborah Birx, who helped coordinate the international response to the 2014 Ebola outbreak, joins “Face the Nation” to discuss the latest on the current outbreak.",
-    "translated_text": "完整采访：曾帮助协调国际社会应对 2014 年埃博拉疫情的 Deborah Birx 博士加入“面对国家”节目，讨论当前疫情的最新情况。",
+    "username": "CBSNews",
+    "text": "John McWhorter on being \"strange\" and reconstructing Fats Waller's long-forgotten Broadway musical",
+    "translated_text": "约翰·麦克沃特 (John McWhorter) 谈“奇怪”并重建法茨·沃勒 (Fats Waller) 长期被遗忘的百老汇音乐剧",
+    "images": [
+      "4bf75b6cd663c697.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1735659125212918512",
+    "timestamp": "2026-05-25T05:23:03.088529+00:00",
+    "original_time": "2026-05-25T04:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSEveningNews_-6492047297146083180",
+    "type": "tweet",
+    "username": "CBSEveningNews",
+    "text": "A woman paragliding over the Austrian Alps survived a terrifying midair collision after a small plane sliced through the paraglider's canopy, sending her spinning out of control.",
+    "translated_text": "一名女子在奥地利阿尔卑斯山滑翔伞时遭遇了可怕的空中碰撞，一架小型飞机切穿了滑翔伞的顶篷，导致她失控旋转，幸免于难。",
+    "images": [
+      "e3e1f95b188d880e.jpg"
+    ],
+    "url": "https://x.com/CBSEveningNews/status/-6492047297146083180",
+    "timestamp": "2026-05-25T05:23:04.372716+00:00",
+    "original_time": "2026-05-25T01:45:53+00:00"
+  },
+  {
+    "id": "tweet_CBSEveningNews_-2419916939302850221",
+    "type": "tweet",
+    "username": "CBSEveningNews",
+    "text": "Thousands of motorcyclists took part in “Rolling to Remember,” the annual ride from the Pentagon to the National Mall on Sunday. Riders aim to raise awareness for those lost to war as well as veterans issues.",
+    "translated_text": "周日，数千名摩托车手参加了从五角大楼到国家广场的一年一度的“Rolling to Remember”活动。骑手们的目的是提高人们对战争死难者以及退伍军人问题的认识。",
+    "images": [
+      "a9388955e679907a.jpg"
+    ],
+    "url": "https://x.com/CBSEveningNews/status/-2419916939302850221",
+    "timestamp": "2026-05-25T05:23:05.668842+00:00",
+    "original_time": "2026-05-25T02:55:55+00:00"
+  },
+  {
+    "id": "tweet_CBSEveningNews_7476872953935625096",
+    "type": "tweet",
+    "username": "CBSEveningNews",
+    "text": "New tributes honored NASCAR driver Kyle Busch after his sudden death from severe pneumonia that progressed into sepsis, according to a statement released Saturday by his family.",
+    "translated_text": "纳斯卡车手凯尔·布希 (Kyle Busch) 因严重肺炎并发展为败血症突然死亡，根据他的家人周六发表的一份声明，新的悼念仪式向他致敬。",
+    "images": [
+      "9cfce02acc9eb9ab.jpg"
+    ],
+    "url": "https://x.com/CBSEveningNews/status/7476872953935625096",
+    "timestamp": "2026-05-25T05:23:07.767603+00:00",
+    "original_time": "2026-05-25T02:57:19+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-6788995340489020380",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A bounce house was blown away by strong winds in Dade County, Florida over the weekend as severe storms move through the area.",
+    "translated_text": "周末，佛罗里达州戴德县的一座弹力屋被强风吹走，因为强风暴穿过该地区。",
     "images": [],
-    "url": "https://x.com/FaceTheNation/status/4583454684000547684",
-    "timestamp": "2026-05-25T00:13:47.209413+00:00",
-    "original_time": "2026-05-24T17:55:40+00:00"
+    "url": "https://x.com/CBSNews/status/-6788995340489020380",
+    "timestamp": "2026-05-25T05:23:10.636135+00:00",
+    "original_time": "2026-05-24T23:26:39+00:00"
   },
   {
-    "id": "tweet_FaceTheNation_8421055435835159485",
+    "id": "tweet_CBSNews_3382618292192563959",
     "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "When asked whether having acting heads of the CDC and the FDA would hinder any response to an outbreak in the U.S., Dr. Deborah Birx is confident in the U.S. government's potential response, citing “a very deep bench in many of these agencies.”\n\nShe goes on to say, “I think this",
-    "translated_text": "当被问及疾病预防控制中心和食品和药物管理局的代理负责人是否会阻碍对美国疫情的任何反应时，黛博拉·伯克斯博士对美国政府的潜在反应充满信心，并指出“这些机构中许多机构都有非常深厚的替补”。\n\n她接着说：“我认为这",
+    "username": "CBSNews",
+    "text": "The alleged gunman in Saturday's shooting had previous run-ins with Secret Service, court documents say.",
+    "translated_text": "法庭文件称，周六枪击事件中的枪手此前曾与特勤局发生过冲突。",
     "images": [
-      "bf827d5dfc3d5bcf.jpg"
+      "d6c6bd89004fec4f.jpg"
     ],
-    "url": "https://x.com/FaceTheNation/status/8421055435835159485",
-    "timestamp": "2026-05-25T00:13:47.531736+00:00",
-    "original_time": "2026-05-24T17:51:34+00:00"
+    "url": "https://x.com/CBSNews/status/3382618292192563959",
+    "timestamp": "2026-05-25T05:23:11.892013+00:00",
+    "original_time": "2026-05-24T23:00:00+00:00"
   },
   {
-    "id": "tweet_FaceTheNation_-7457210864005854546",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "“This country is a great place. It's not politics,” Lt. Col. William Swenson, U.S Army (Ret.) said he’s optimistic about the future of the United States amid a turbulent political climate.\n\n“Ultimately, we continue forward as a country, continually imperfect, continually evolving",
-    "translated_text": "“这个国家是个好地方。这不是政治，”美国陆军退役中校威廉·斯文森表示，在动荡的政治气候下，他对美国的未来持乐观态度。\n\n“最终，我们作为一个国家继续前进，不断不完美，不断发展",
-    "images": [
-      "32edcf37bd6666d1.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-7457210864005854546",
-    "timestamp": "2026-05-25T00:13:47.841478+00:00",
-    "original_time": "2026-05-24T17:49:36+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-1767591379666005241",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "Reflecting on the Afghanistan war, America’s longest conflict that cost the lives of nearly 2,500 U.S. service members, Lt. Col. William Swenson, U.S Army (Ret.), said “there was loss of life because we believed in the mission, and ultimately, as service members, that's what we",
-    "translated_text": "美国陆军退役中校威廉·斯文森 (William Swenson) 在回顾阿富汗战争这一美国历时最长的冲突、导致近 2,500 名美国军人丧生时表示，“之所以有人丧生，是因为我们相信使命，而最终，作为军人，这就是我们的使命。”",
-    "images": [
-      "c175ea2aaca99452.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-1767591379666005241",
-    "timestamp": "2026-05-25T00:13:48.170175+00:00",
-    "original_time": "2026-05-24T17:47:41+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-5643527445868186265",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "Medal of Honor recipient Command Sgt. Maj. Matthew Williams, U.S Army (Ret.), says “it’s a privilege” to receive the award “because not everybody gets the opportunity to put this medal on.”\n\n“Well over 50% of the medals that have been awarded have been awarded posthumously,”",
-    "translated_text": "荣誉勋章获得者指挥中士。美国陆军退役少校马修·威廉姆斯表示，获得该奖项“是一种荣幸”，“因为并不是每个人都有机会佩戴这枚奖章”。\n\n“超过 50% 的奖章是在死后颁发的，”",
-    "images": [
-      "643c083e6762e5e4.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-5643527445868186265",
-    "timestamp": "2026-05-25T00:13:52.148901+00:00",
-    "original_time": "2026-05-24T17:46:05+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_7463170759391074875",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "“We're ambassadors to those whose stories were not told,” Medal of Honor recipient Lt. Col. William Swenson, U.S. Army (Ret.), said, describing the duty bestowed upon the award’s recipients to carry on the legacy and stories of those who died in the U.S. military and represent",
-    "translated_text": "“我们是那些故事未被讲述的人的大使，”荣誉勋章获得者、美国陆军退役中校威廉·斯文森 (William Swenson) 说道。",
-    "images": [
-      "dcdd2f0ecba7c362.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/7463170759391074875",
-    "timestamp": "2026-05-25T00:13:53.346054+00:00",
-    "original_time": "2026-05-24T17:44:44+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_6179079271689209821",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "Asked about the Trump Justice Department’s $1.8 million “anti-weaponization” fund, the Trump administration’s top economic adviser Kevin Hassett argues, “The previous administration and the Obama administration weaponized government against President Trump, and what he wants to",
-    "translated_text": "当被问及特朗普司法部 180 万美元的“反武器化”基金时，特朗普政府首席经济顾问凯文·哈塞特表示，“上届政府和奥巴马政府将政府武器化，以对抗特朗普总统，以及他想要做什么”",
-    "images": [
-      "1afbd011f8e702a2.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/6179079271689209821",
-    "timestamp": "2026-05-25T00:13:54.700138+00:00",
-    "original_time": "2026-05-24T17:23:32+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_8947176169269040016",
+    "id": "tweet_JenniferJJacobs_-1647452015488281605",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Scoop via@CBSNews: U.S. intelligence shows that Iran's supreme leader is effectively holed up in an undisclosed location with little access to the outside world and is only reached by a labyrinth of couriers, according to U.S. officials with knowledge of the matter.",
@@ -706,71 +318,78 @@
     "images": [
       "01971c8b8e68c711.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/8947176169269040016",
-    "timestamp": "2026-05-25T00:14:46.548206+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/-1647452015488281605",
+    "timestamp": "2026-05-25T05:23:12.111138+00:00",
     "original_time": "2026-05-24T21:56:16+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-739198911034145137",
+    "id": "tweet_CBSNews_-1826249779631132834",
     "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "BREAKING: US believes Iran's supreme leader has approved the broad template for draft deal with Iran. Iran has agreed in principle that in exchange for the US lifting blockade, Iran will agree in principle to dispose of highly enriched uranium. This draft has to make its way",
-    "translated_text": "突发新闻：美国认为伊朗最高领导人已批准与伊朗达成的协议草案的总体模板。伊朗原则上同意，作为美国解除封锁的交换条件，伊朗将原则上同意处置高浓缩铀。这份草案必须通过",
-    "images": [],
-    "url": "https://x.com/JenniferJJacobs/status/-739198911034145137",
-    "timestamp": "2026-05-25T00:14:46.720096+00:00",
-    "original_time": "2026-05-24T14:47:48+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_567323463878031601",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "US officials want Strait of Hormuz open with no tolls, sr admin official says. There will be coordination with Gulf countries to ensure ships can pass safely.",
-    "translated_text": "高级行政官员表示，美国官员希望霍尔木兹海峡免费开放。将与海湾国家进行协调，以确保船舶能够安全通过。",
-    "images": [],
-    "url": "https://x.com/JenniferJJacobs/status/567323463878031601",
-    "timestamp": "2026-05-25T00:14:46.886263+00:00",
-    "original_time": "2026-05-24T15:10:19+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_2042855913080594675",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "On Iran's frozen assets, Iran has not yet made a request for a specific dollar amount, a senior US official says. \nUS intends to allow sanctions relief commensurate with Iran's delivery of what the Trump admin is asking for. \"No dust, no dollars,\" the official said. Negotiations",
-    "translated_text": "一位美国高级官员表示，关于伊朗被冻结的资产，伊朗尚未提出具体的美元金额要求。 \n美国打算允许伊朗根据特朗普政府的要求而减轻制裁。 “没有灰尘，就没有美元，”这位官员说。谈判",
-    "images": [],
-    "url": "https://x.com/JenniferJJacobs/status/2042855913080594675",
-    "timestamp": "2026-05-25T00:14:47.112961+00:00",
-    "original_time": "2026-05-24T15:05:35+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-6630414961298740663",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "Trump is asking for more entries into Abraham Accords as part of this latest round of Iran negotiations. \"I would like to thank, thus far, all of the countries of the Middle East for their support and cooperation, which will be further enhanced and strengthened by their joining",
-    "translated_text": "作为最新一轮伊朗谈判的一部分，特朗普要求更多人加入《亚伯拉罕协议》。 “我要感谢迄今为止所有中东国家的支持与合作，这些支持与合作将通过他们的加入而得到进一步加强和加强。",
+    "username": "CBSNews",
+    "text": "NASCAR star Kyle Busch died from severe pneumonia that progressed into sepsis, according to a statement released Saturday by his family. What is sepsis, how is it diagnosed and how can it be treated? CBS News' Dr. LaPook explains.",
+    "translated_text": "纳斯卡明星凯尔·布希的家人周六发表声明称，他死于严重肺炎，并发展为败血症。什么是脓毒症，如何诊断以及如何治疗？哥伦比亚广播公司新闻的拉普克博士解释道。",
     "images": [
-      "d553fd114a8a52bf.jpg"
+      "7b5233427d90d588.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-6630414961298740663",
-    "timestamp": "2026-05-25T00:14:47.389824+00:00",
-    "original_time": "2026-05-24T15:00:09+00:00"
+    "url": "https://x.com/CBSNews/status/-1826249779631132834",
+    "timestamp": "2026-05-25T05:23:13.194882+00:00",
+    "original_time": "2026-05-24T22:24:18+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-8431728593249917043",
+    "id": "tweet_CBSNews_-2582176464267270053",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Iran's supreme leader is holed up in an undisclosed location with little access to the world, U.S. intel shows.",
+    "translated_text": "美国情报显示，伊朗最高领导人躲藏在一个秘密地点，几乎无法与外界接触。",
+    "images": [
+      "01971c8b8e68c711.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-2582176464267270053",
+    "timestamp": "2026-05-25T05:23:14.370354+00:00",
+    "original_time": "2026-05-24T22:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3960416568145380175",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "President Trump said Sunday morning that negotiations between the U.S. and Iran are \"proceeding in an orderly and constructive manner,\" but said he has told representatives \"not to rush into a deal\" and \"that time is on our side.\"\n\nHe wrote on Truth Social that the U.S. blockade",
+    "translated_text": "特朗普总统周日上午表示，美国和伊朗之间的谈判正在“以有序和建设性的方式进行”，但他表示，他已告诉代表们“不要急于达成协议”，“时间站在我们这边”。\n\n他在《Truth Social》上写道，美国的封锁",
+    "images": [
+      "ec9ea42187a6722b.jpg",
+      "5b7e7f2cb4b5fdeb.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3960416568145380175",
+    "timestamp": "2026-05-25T05:23:15.773169+00:00",
+    "original_time": "2026-05-24T21:50:28+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1798609978834341637",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "CBS News reporter@aaronlarnavarrowas preparing for a live shot as gunshots rang out outside the White House on Saturday.\n\nThe gunman was killed after authorities say he pulled out a revolver and fired off several shots in the direction of a U.S. Secret Service booth. Secret",
+    "translated_text": "周六，当白宫外响起枪声时，哥伦比亚广播公司新闻记者@aaronlarnavarrow正在准备现场射击。\n\n当局称，枪手掏出一把左轮手枪，朝美国特勤局的一个亭子方向开了几枪，随后被击毙。秘密",
+    "images": [
+      "05a27f94bc7ef8d0.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1798609978834341637",
+    "timestamp": "2026-05-25T05:23:16.938421+00:00",
+    "original_time": "2026-05-24T21:29:30+00:00"
+  },
+  {
+    "id": "tweet_JenniferJJacobs_3928221278785034620",
     "type": "tweet",
     "username": "JenniferJJacobs",
-    "text": "NEW: Trump and Netanyahu spoke about Iran negotiations. Trump said he's insisting on dismantling the Iranian nuclear program and removing the enriched uranium from its territory, and that he won't sign a final agreement without these conditions. The prime minister said Israel",
-    "translated_text": "新消息：特朗普和内塔尼亚胡谈到了伊朗谈判。特朗普表示，他坚持废除伊朗核计划，并将浓缩铀从其领土上移走，如果没有这些条件，他不会签署最终协议。以色列总理表示",
+    "text": "Rubio at Taj Mahal. With the Village People",
+    "translated_text": "卢比奥在泰姬陵。与村里人一起",
     "images": [
-      "88f1c951fc2b98a5.jpg"
+      "3cf8ae1df1b741f5.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-8431728593249917043",
-    "timestamp": "2026-05-25T00:14:47.638003+00:00",
-    "original_time": "2026-05-24T13:23:00+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/3928221278785034620",
+    "timestamp": "2026-05-25T05:23:33.593645+00:00",
+    "original_time": "2026-05-25T05:06:27+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-5972713144429312395",
+    "id": "tweet_KellieMeyerNews_115572589169966228",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "TRUMP TODAY says the Iran deal isn’t “fully negotiated yet.”",
@@ -778,259 +397,8 @@
     "images": [
       "f5c5dce2676aba86.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-5972713144429312395",
-    "timestamp": "2026-05-25T00:15:02.049362+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/115572589169966228",
+    "timestamp": "2026-05-25T05:23:48.315328+00:00",
     "original_time": "2026-05-24T18:19:32+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-25011421648559236",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Our live report outside of the White House last night after law enforcement sources confirmed to me and@lelandvittertthat a man walked up to the entrance of the White House perimeter at 17th and Penn, pulled out a gun and fired three shots before USSS returned fire. The suspect",
-    "translated_text": "昨晚，执法部门消息人士向我和@lelandvitertt 证实，一名男子走到 17 街和宾夕法尼亚州的白宫外围入口处，掏出枪并开了三枪，然后美国海军陆战队还击。嫌疑人",
-    "images": [
-      "717591c6026d37d0.jpg"
-    ],
-    "url": "https://x.com/KellieMeyerNews/status/-25011421648559236",
-    "timestamp": "2026-05-25T00:15:03.366732+00:00",
-    "original_time": "2026-05-24T14:43:14+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-796295903873780189",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Sunday moment of perfect zen from my church of cbs Sunday morning",
-    "translated_text": "周日早上我的哥伦比亚广播公司教堂的完美禅宗时刻",
-    "images": [
-      "b797d78dfaeaec9c.jpg"
-    ],
-    "url": "https://x.com/KellieMeyerNews/status/-796295903873780189",
-    "timestamp": "2026-05-25T00:15:03.909701+00:00",
-    "original_time": "2026-05-24T14:32:42+00:00"
-  },
-  {
-    "id": "tweet_PenguinSix_-222798355845057381",
-    "type": "tweet",
-    "username": "PenguinSix",
-    "text": "White House History shop and the Irish embassy show signs of the Secret Service shootout last night near the White House.",
-    "translated_text": "白宫历史商店和爱尔兰大使馆展示了昨晚白宫附近特勤局枪战的迹象。",
-    "images": [
-      "e1f999552f88b87e.jpg",
-      "399c18049b4301eb.jpg",
-      "09107488999da5cc.jpg"
-    ],
-    "url": "https://x.com/PenguinSix/status/-222798355845057381",
-    "timestamp": "2026-05-25T00:15:04.335706+00:00",
-    "original_time": "2026-05-24T14:07:12+00:00"
-  },
-  {
-    "id": "article_d171b8dac7c0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2002240/pm-shehbaz-says-pakistan-taking-measures-on-a-priority-basis-to-increase-foreign-investment",
-    "timestamp": "2026-05-25T00:17:08.849108+00:00",
-    "original_time": "2026-05-25T00:17:08.849068+00:00"
-  },
-  {
-    "id": "article_910635bbed1e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PTI confirms Barrister Gohar, Sohail Afridi's meeting with Naqvi; says discussion focused on terrorism in KP",
-    "translated_title": "PTI 证实 Gohar 大律师、Sohail Afridi 与 Naqvi 会面；说开伯尔省的讨论重点是恐怖主义",
-    "url": "https://www.dawn.com/news/2002796/pti-confirms-barrister-gohar-sohail-afridis-meeting-with-naqvi-says-discussion-focused-on-terrorism-in-kp",
-    "timestamp": "2026-05-25T00:17:42.539203+00:00",
-    "original_time": "2026-05-25T00:09:07+05:00"
-  },
-  {
-    "id": "article_356a0a792c7f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "'Heinous crime against humanity': Condemnations pour in after suicide bombing in Quetta",
-    "translated_title": "“令人发指的反人类罪”：奎达自杀式爆炸事件后谴责如潮",
-    "url": "https://www.dawn.com/news/2002781/heinous-crime-against-humanity-condemnations-pour-in-after-suicide-bombing-in-quetta",
-    "timestamp": "2026-05-25T00:18:18.039645+00:00",
-    "original_time": "2026-05-24T20:54:54+05:00"
-  },
-  {
-    "id": "article_73ae9d623385",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2002290/us-releases-second-batch-of-government-declassified-ufo-files",
-    "timestamp": "2026-05-25T00:18:42.583468+00:00",
-    "original_time": "2026-05-25T00:18:42.583434+00:00"
-  },
-  {
-    "id": "article_e21e1ab8d30d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Gwadar University VC, pro-vice chancellor return home 10 days after they were reported missing",
-    "translated_title": "瓜达尔大学副校长、副校长被报告失踪10天后回国",
-    "url": "https://www.dawn.com/news/2002789/gwadar-university-vc-pro-vice-chancellor-return-home-10-days-after-they-were-reported-missing",
-    "timestamp": "2026-05-25T00:19:06.639151+00:00",
-    "original_time": "2026-05-24T22:38:31+05:00"
-  },
-  {
-    "id": "article_65db62aeb428",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan, 7 other nations condemn Israeli minister's 'appalling' actions against Gaza aid flotilla activists",
-    "translated_title": "巴基斯坦和其他7个国家谴责以色列部长针对加沙援助船队活动人士的“令人震惊”的行为",
-    "url": "https://www.dawn.com/news/2002805/pakistan-7-other-nations-condemn-israeli-ministers-appalling-actions-against-gaza-aid-flotilla-activists",
-    "timestamp": "2026-05-25T00:19:29.958021+00:00",
-    "original_time": "2026-05-25T00:40:06+05:00"
-  },
-  {
-    "id": "article_64851c0682f7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2002786/china-launches-three-crew-space-flight-as-part-of-moon-ambitions",
-    "timestamp": "2026-05-25T00:20:13.007455+00:00",
-    "original_time": "2026-05-25T00:20:13.007388+00:00"
-  },
-  {
-    "id": "article_f4a0fb527520",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2002146/nespak-faces-multi-billion-rupee-scrutiny",
-    "timestamp": "2026-05-25T00:21:57.206189+00:00",
-    "original_time": "2026-05-25T00:21:57.206130+00:00"
-  },
-  {
-    "id": "article_ea1308b51855",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "What we know about the possible US-Iran deal",
-    "translated_title": "我们对可能达成的美伊协议的了解",
-    "url": "https://www.dawn.com/news/2002774/what-we-know-about-the-possible-us-iran-deal",
-    "timestamp": "2026-05-25T00:23:23.869596+00:00",
-    "original_time": "2026-05-24T18:11:21+05:00"
-  },
-  {
-    "id": "article_53b4ceadb664",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2002729/gunman-killed-by-us-secret-service-after-opening-fire-near-white-house",
-    "timestamp": "2026-05-25T00:23:41.065719+00:00",
-    "original_time": "2026-05-25T00:23:41.065675+00:00"
-  },
-  {
-    "id": "article_ce17bbcec58c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2001439/ram-pyari-mahal-reopens-after-renovation",
-    "timestamp": "2026-05-25T00:24:36.605795+00:00",
-    "original_time": "2026-05-25T00:24:36.605759+00:00"
-  },
-  {
-    "id": "article_064b783065fe",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "JD Vance Visit to Pakistan Postponed",
-    "translated_title": "JD万斯对巴基斯坦的访问推迟",
-    "url": "https://arynews.tv/jd-vance-visit-to-pakistan-postponed",
-    "timestamp": "2026-05-25T00:25:13.775004+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_2cc5ab05daa1",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Iran state TV denies reports of diplomatic delegation in Islamabad",
-    "translated_title": "伊朗国家电视台否认外交代表团驻伊斯兰堡的报道",
-    "url": "https://arynews.tv/iran-state-tv-denies-reports-of-diplomatic-delegation-in-islamabad",
-    "timestamp": "2026-05-25T00:25:32.772733+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_ffbfe9ae5f73",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "China endorses Pakistan’s efforts to facilitate US–Iran peace talks",
-    "translated_title": "中方支持巴基斯坦为推动美伊和谈所做的努力",
-    "url": "https://arynews.tv/china-endorses-pakistans-efforts-to-facilitate-us-iran-peace-talks",
-    "timestamp": "2026-05-25T00:25:51.040683+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_b71f7fc22d8a",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Pakistan Reaffirms Commitment to Hosting US-Iran Dialogue",
-    "translated_title": "巴基斯坦重申主办美伊对话的承诺",
-    "url": "https://arynews.tv/pakistan-reaffirms-commitment-to-hosting-us-iran-dialogue",
-    "timestamp": "2026-05-25T00:26:08.444471+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_bfab3bac456e",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Traffic plan rolled out, key roads closed in Islamabad",
-    "translated_title": "交通计划出台，伊斯兰堡主要道路关闭",
-    "url": "https://arynews.tv/traffic-plan-rolled-out-key-roads-closed-in-islamabad",
-    "timestamp": "2026-05-25T00:26:26.503599+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_99efbfe3dd76",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Donald Trump says Iran is ‘going to negotiate’ or face ‘problems’",
-    "translated_title": "唐纳德·特朗普表示伊朗将“进行谈判”或面临“问题”",
-    "url": "https://arynews.tv/donald-trump-says-iran-is-going-to-negotiate-or-face-problems",
-    "timestamp": "2026-05-25T00:26:45.655365+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_2d5d8653effe",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Interior Minister, US envoy discuss security for Islamabad talks",
-    "translated_title": "内政部长与美国特使讨论伊斯兰堡会谈的安全问题",
-    "url": "https://arynews.tv/interior-minister-us-envoy-discuss-security-for-islamabad-talks",
-    "timestamp": "2026-05-25T00:27:04.023980+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_c6dbf40e6c2b",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Iran will not negotiate with US under shadow of threats: Ghalibaf",
-    "translated_title": "加利巴夫：伊朗不会在威胁阴影下与美国谈判",
-    "url": "https://arynews.tv/iran-will-not-negotiate-with-us-under-shadow-of-threats-ghalibaf",
-    "timestamp": "2026-05-25T00:27:23.316274+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_281e47eba0dd",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Donald Trump repeats that Iran’s ‘entire Navy is at bottom of Sea’",
-    "translated_title": "唐纳德·特朗普重申伊朗“整个海军都已沉入海底”",
-    "url": "https://arynews.tv/donald-trump-repeats-that-irans-entire-navy-is-at-bottom-of-sea",
-    "timestamp": "2026-05-25T00:27:43.340733+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "article_55a5ab65cc8d",
-    "type": "article",
-    "source": "arynews.tv",
-    "title": "Islamabad Talks round 2: Pakistan awaits Iran response",
-    "translated_title": "伊斯兰堡第二轮会谈：巴基斯坦等待伊朗的回应",
-    "url": "https://arynews.tv/islamabad-talks-round-2-pakistan-awaits-iran-response",
-    "timestamp": "2026-05-25T00:28:02.495180+00:00",
-    "original_time": "2026-05-25T00:00:00+00:00"
   }
 ]
