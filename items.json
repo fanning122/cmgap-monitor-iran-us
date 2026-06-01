@@ -1,6 +1,19 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_7566222699019014627",
+    "id": "tweet_ForeignOfficePk_2576375974028728894",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister / Foreign Minister,  Senator Mohammad Ishaq Dar@MIshaqDar50spoke with the Foreign Minister of Iran, Seyed Abbas Araghchi@Araghchito discuss the current regional situation and developments of mutual interest.\n\nFM Araghchi expressed serious concern over",
+    "translated_text": "副总理/外交部长、参议员穆罕默德·伊沙克·达尔@MIshaqDar50与伊朗外交部长赛义德·阿巴斯·阿拉格奇@Araghchito讨论了当前的地区局势和共同关心的事态发展。\n\nFM Aragchi 表示严重关切",
+    "images": [
+      "636a4f419523674a.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/2576375974028728894",
+    "timestamp": "2026-06-01T20:18:20.370475+00:00",
+    "original_time": "2026-06-01T16:00:53+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-2171191519669219633",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MishaqDar50received a telephone call from Egypt’s Foreign Minister, Badr Abdelatty.\n\nThe two leaders discussed the latest developments in the region. They emphasized the need for sustained diplomatic engagement",
@@ -8,12 +21,12 @@
     "images": [
       "e5ecbe978c938726.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/7566222699019014627",
-    "timestamp": "2026-06-01T15:56:38.311980+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-2171191519669219633",
+    "timestamp": "2026-06-01T20:18:21.933986+00:00",
     "original_time": "2026-06-01T15:34:05+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-6872891889108815407",
+    "id": "tweet_ForeignOfficePk_3929821726098318733",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Joint Communique' Eighth Round of the Pakistan-European Union Strategic Dialogue, 1 June, 2026",
@@ -31,12 +44,12 @@
       "3da6e5ba457ad301.jpg",
       "22078775ba777726.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-6872891889108815407",
-    "timestamp": "2026-06-01T15:56:39.184602+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/3929821726098318733",
+    "timestamp": "2026-06-01T20:18:23.634464+00:00",
     "original_time": "2026-06-01T13:30:25+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-3561067892562186271",
+    "id": "tweet_ForeignOfficePk_-2726144108706743237",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Pakistan-EU Strategic Dialogue Reaffirms Commitment to Enhanced Partnership and Cooperation",
@@ -53,12 +66,12 @@
       "1d7695f51048fca1.svg",
       "8f2b126dbf6bb6d9.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-3561067892562186271",
-    "timestamp": "2026-06-01T15:56:39.536168+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-2726144108706743237",
+    "timestamp": "2026-06-01T20:18:24.353463+00:00",
     "original_time": "2026-06-01T13:09:05+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-7590965842571587562",
+    "id": "tweet_ForeignOfficePk_3206268874460133884",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50and EU HR/VP Ms. Kaja Kallas@kajakallasco-chaired the 8th Pakistan-EU Strategic Dialogue in Islamabad today.\n\nThe two sides held comprehensive discussions on Pakistan-EU relations including trade and",
@@ -69,28 +82,26 @@
       "ce0e28e91c5e438f.jpg",
       "9415dde163378474.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-7590965842571587562",
-    "timestamp": "2026-06-01T15:56:40.391692+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/3206268874460133884",
+    "timestamp": "2026-06-01T20:18:25.928946+00:00",
     "original_time": "2026-06-01T09:48:23+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_4461461092008577354",
+    "id": "tweet_kajakallas_4030036917769061843",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50met with the EU HR/VP Ms. Kaja Kallas@kajakallas, today in Islamabad. \n\nDuring the meeting, both sides acknowledged the positive trajectory of Pakistan-EU ties and agreed to further strengthen the",
-    "translated_text": "副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 今天在伊斯兰堡会见了欧盟人力资源/副总裁 Kaja Kallas@kajakallas 女士。 \n\n会议期间，双方认可巴基斯坦与欧盟关系的积极发展轨迹，并同意进一步加强",
+    "username": "kajakallas",
+    "text": "Pakistan is a major regional power and an important partner for the EU.\n\nToday in Islamabad, I met with Prime Minister@CMShehbazand Deputy PM and Foreign Minister@MIshaqDar50for talks on further strengthening EU–Pakistan ties. I also met Chief of Defence Forces Syed Asim",
+    "translated_text": "巴基斯坦是地区重要大国，也是欧盟的重要合作伙伴。\n\n今天在伊斯兰堡，我会见了总理@CMShehbazand 副总理兼外交部长@MIshaqDar50，就进一步加强欧盟与巴基斯坦的关系进行了会谈。我还会见了国防部长赛义德·阿西姆",
     "images": [
-      "bb71bef2f1b2d840.jpg",
-      "d0fd4f76f8ad6e0c.jpg",
-      "39dbc8fe569c9506.jpg",
-      "0dd6d85c95e3e845.jpg"
+      "655b8ca2ff628ca5.jpg",
+      "7b125509b07a9230.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/4461461092008577354",
-    "timestamp": "2026-06-01T15:56:41.045423+00:00",
-    "original_time": "2026-06-01T08:34:22+00:00"
+    "url": "https://x.com/kajakallas/status/4030036917769061843",
+    "timestamp": "2026-06-01T20:18:42.424269+00:00",
+    "original_time": "2026-06-01T17:33:58+00:00"
   },
   {
-    "id": "tweet_PakPMO_-3616477042422253526",
+    "id": "tweet_PakPMO_-6967419107007911132",
     "type": "tweet",
     "username": "PakPMO",
     "text": "European Union’s High Representative for Foreign Affairs and Security Policy and Vice-President of the European Commission H.E. Ms. Kaja Kallas called on Prime Minister Muhammad Shehbaz Sharif in Islamabad on 1 June 2026.",
@@ -100,12 +111,12 @@
       "d6cbbe70fea945d2.jpg",
       "9c968bff350dac9c.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-3616477042422253526",
-    "timestamp": "2026-06-01T15:57:34.215001+00:00",
+    "url": "https://x.com/PakPMO/status/-6967419107007911132",
+    "timestamp": "2026-06-01T20:19:10.841005+00:00",
     "original_time": "2026-06-01T14:54:25+00:00"
   },
   {
-    "id": "tweet_PakPMO_462515121460092335",
+    "id": "tweet_PakPMO_-3695168853438459197",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad: June 1, 2026.\n\nH.E. Ms. Kaja Kallas, European Union’s High Representative for Foreign Affairs and Security Policy and Vice-President of the European Commission, called on Prime Minister Muhammad Shehbaz Sharif, at the Prime Minister House today.\n\nDeputy Prime Minister",
@@ -113,12 +124,12 @@
     "images": [
       "e78b99a092f41821.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/462515121460092335",
-    "timestamp": "2026-06-01T15:57:34.605399+00:00",
+    "url": "https://x.com/PakPMO/status/-3695168853438459197",
+    "timestamp": "2026-06-01T20:19:11.154836+00:00",
     "original_time": "2026-06-01T14:47:05+00:00"
   },
   {
-    "id": "tweet_PakPMO_8769534337140217556",
+    "id": "tweet_PakPMO_9033067608943828428",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad, 1 June 2026\n\nA delegation of senior leadership from Chambers of Commerce and Industry across the country met with Prime Minister Muhammad Shehbaz Sharif today in Islamabad. The delegation presented recommendations to the Prime Minister regarding the upcoming budget and",
@@ -126,12 +137,12 @@
     "images": [
       "b95826bb06cc3ad3.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/8769534337140217556",
-    "timestamp": "2026-06-01T15:57:35.067023+00:00",
+    "url": "https://x.com/PakPMO/status/9033067608943828428",
+    "timestamp": "2026-06-01T20:19:12.476463+00:00",
     "original_time": "2026-06-01T13:39:05+00:00"
   },
   {
-    "id": "tweet_PakPMO_8909434629361807128",
+    "id": "tweet_PakPMO_-5366237579334599498",
     "type": "tweet",
     "username": "PakPMO",
     "text": "A delegation of senior leadership of chambers of commerce called on Prime Minister Muhammad Shehbaz Sharif in Islamabad on 1 June 2026.",
@@ -141,12 +152,12 @@
       "ee09d47a313d2c95.jpg",
       "25ad8c71e63f846c.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/8909434629361807128",
-    "timestamp": "2026-06-01T15:57:35.456468+00:00",
+    "url": "https://x.com/PakPMO/status/-5366237579334599498",
+    "timestamp": "2026-06-01T20:19:13.910665+00:00",
     "original_time": "2026-06-01T13:38:36+00:00"
   },
   {
-    "id": "tweet_PakPMO_1048889366086999330",
+    "id": "tweet_PakPMO_2883560339689452039",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif chairs a review meeting regarding the agreements and MoUs signed during his recent visit to China, in Islamabad on 1 June 2026.",
@@ -156,56 +167,101 @@
       "dca9bd40a467813b.jpg",
       "bb34671cc820e2b9.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/1048889366086999330",
-    "timestamp": "2026-06-01T15:57:35.712793+00:00",
+    "url": "https://x.com/PakPMO/status/2883560339689452039",
+    "timestamp": "2026-06-01T20:19:15.296783+00:00",
     "original_time": "2026-06-01T12:31:51+00:00"
   },
   {
-    "id": "tweet_araghchi_4534853150915117998",
+    "id": "tweet_CBSNews_-1850977243928357525",
     "type": "tweet",
-    "username": "araghchi",
-    "text": "For Urgent Attention:\n\nA ceasefire between Iran and the United States constitutes, without any ambiguity, a comprehensive ceasefire across all fronts, including Lebanon.\n\nAny violation of this ceasefire on one front shall be considered a violation of it across all fronts.\n\nThe",
-    "translated_text": "紧急注意：\n\n伊朗和美国之间的停火毫无疑问是包括黎巴嫩在内的所有战线的全面停火。\n\n任何在一条战线上违反停火的行为都应被视为在所有战线上违反停火。\n\n这",
-    "images": [],
-    "url": "https://x.com/araghchi/status/4534853150915117998",
-    "timestamp": "2026-06-01T15:58:34.607599+00:00",
-    "original_time": "2026-06-01T11:41:14+00:00"
+    "username": "CBSNews",
+    "text": "Elon Musk is on track to become the world’s first trillionaire as SpaceX prepares for its highly anticipated IPO. CBS News’@jolingkentexplains.",
+    "translated_text": "随着 SpaceX 为其备受期待的 IPO 做准备，埃隆·马斯克 (Elon Musk) 有望成为世界上第一位万亿富翁。哥伦比亚广播公司新闻@jolingkentexplains。",
+    "images": [
+      "b73a894f2739774a.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1850977243928357525",
+    "timestamp": "2026-06-01T20:22:32.146072+00:00",
+    "original_time": "2026-06-01T20:18:32+00:00"
   },
   {
-    "id": "tweet_araghchi_2490978084349416599",
+    "id": "tweet_CBSNews_-1822269270343021719",
     "type": "tweet",
-    "username": "araghchi",
-    "text": "For immediate attention:\n\nThe ceasefire between Iran and the US is unequivocally a ceasefire on all fronts, including in Lebanon. \n\nIts violation on one front is a violation of the ceasefire on all fronts. \n\nThe US and Israel are responsible for the consequences of any violation.",
-    "translated_text": "立即引起注意：\n\n伊朗和美国之间的停火毫无疑问是包括黎巴嫩在内的所有战线的停火。 \n\n它在一方面违反停火协议就是在所有方面违反停火协议。 \n\n美国和以色列应对任何违规行为的后果负责。",
-    "images": [],
-    "url": "https://x.com/araghchi/status/2490978084349416599",
-    "timestamp": "2026-06-01T15:58:34.727157+00:00",
-    "original_time": "2026-06-01T11:04:38+00:00"
+    "username": "CBSNews",
+    "text": "Remains found in a New Mexico national forest have been identified as those of Melissa Casias, a worker at the Los Alamos National Laboratory who disappeared last year, authorities announced over the weekend.",
+    "translated_text": "当局周末宣布，在新墨西哥州国家森林中发现的遗骸已被确认为去年失踪的洛斯阿拉莫斯国家实验室工作人员梅丽莎·卡西亚斯的遗骸。",
+    "images": [
+      "5bf5b86f7c5bf6b3.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1822269270343021719",
+    "timestamp": "2026-06-01T20:22:32.467462+00:00",
+    "original_time": "2026-06-01T20:00:00+00:00"
   },
   {
-    "id": "tweet_mb_ghalibaf_5581900728727129600",
+    "id": "tweet_CBSNews_8464765022838374853",
     "type": "tweet",
-    "username": "mb_ghalibaf",
-    "text": "The naval blockade and escalation of war crimes in Lebanon by the genocidal Zionist regime are clear evidence of U.S. noncompliance with the ceasefire.\n\nEvery choice has a price, and the bill comes due. It will all fall into place.",
-    "translated_text": "种族灭绝的犹太复国主义政权在黎巴嫩的海上封锁和战争罪行的升级是美国不遵守停火的明确证据。\n\n每一种选择都有代价，而代价终将到来。一切都会水到渠成。",
-    "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/5581900728727129600",
-    "timestamp": "2026-06-01T15:59:01.903542+00:00",
-    "original_time": "2026-06-01T08:44:37+00:00"
+    "username": "CBSNews",
+    "text": "Ukraine's President Volodymyr Zelenskyy told@FaceTheNationin an exclusive interview that his government has evidence that Russia is abducting Ukrainian children and training them to fight against fellow Ukrainians.\n\nIt is an allegation that may constitute a war crime, according",
+    "translated_text": "乌克兰总统弗拉基米尔·泽伦斯基在一次独家采访中告诉@FaceTheNation，他的政府有证据表明俄罗斯正在绑架乌克兰儿童并训练他们与乌克兰同胞作战。\n\n据报道，这一指控可能构成战争罪",
+    "images": [
+      "f61f99a9a0c09b2b.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8464765022838374853",
+    "timestamp": "2026-06-01T20:22:33.969335+00:00",
+    "original_time": "2026-06-01T19:49:12+00:00"
   },
   {
-    "id": "tweet_CBSNews_6716079212352420284",
+    "id": "tweet_CBSNews_8681139479855862997",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Read more:",
+    "translated_text": "阅读更多：",
+    "images": [
+      "35ecc96ac2ab187a.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8681139479855862997",
+    "timestamp": "2026-06-01T20:22:34.259428+00:00",
+    "original_time": "2026-06-01T19:50:47+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_8675706739728803921",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "BREAKING: The Justice Department says it will stop work on its \"anti-weaponization fund\" after a judge's ruling.",
+    "translated_text": "突发新闻：司法部表示，在法官做出裁决后，将停止“反武器化基金”的建设。",
+    "images": [
+      "d033eda6c955e7f4.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8675706739728803921",
+    "timestamp": "2026-06-01T20:22:35.463027+00:00",
+    "original_time": "2026-06-01T19:50:33+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3041560654769136233",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A United plane had to turn around mid-flight because of a passenger’s suspicious bluetooth device name.\n\nIt was about an hour and a half into flight from Newark to Palma de Mallorca, Spain that the plane had to turn around due to a possible security threat – a device named a",
+    "translated_text": "由于一名乘客的蓝牙设备名称可疑，一架美联航飞机不得不在飞行途中掉头。\n\n从纽瓦克飞往西班牙马略卡岛帕尔马的航班大约一个半小时后，由于可能存在安全威胁（一种名为“a”的设备），飞机不得不掉头。",
+    "images": [
+      "9e8815104e79bcdf.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3041560654769136233",
+    "timestamp": "2026-06-01T20:22:36.929525+00:00",
+    "original_time": "2026-06-01T19:41:02+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3262339128267144912",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Israeli troops have captured a strategic mountain topped with a Crusader-built castle in southern Lebanon in the deepest incursion into the country in more than a quarter-century, the military said Sunday. The capture of Beaufort castle came after days of airstrikes and intense",
     "translated_text": "军方周日表示，以色列军队占领了黎巴嫩南部一座战略山峰，山上有一座十字军建造的城堡，这是四分之一个多世纪以来对该国最深入的入侵。经过数天的空袭和激烈的战斗后，博福特城堡被占领",
     "images": [],
-    "url": "https://x.com/CBSNews/status/6716079212352420284",
-    "timestamp": "2026-06-01T15:59:58.954804+00:00",
+    "url": "https://x.com/CBSNews/status/3262339128267144912",
+    "timestamp": "2026-06-01T20:22:39.461664+00:00",
     "original_time": "2026-06-01T15:59:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4148848655724666332",
+    "id": "tweet_CBSNews_-3807168232637368952",
     "type": "tweet",
     "username": "CBSNews",
     "text": "An Iranian woman who now lives in the U.S. told CBS News that she feared for the safety of her family members in Iran when President Trump threatened in April that \"a whole civilization will die tonight\" as Washington sought to make a deal with Tehran.",
@@ -213,12 +269,12 @@
     "images": [
       "7e7cff4ab89627db.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4148848655724666332",
-    "timestamp": "2026-06-01T15:59:59.140394+00:00",
+    "url": "https://x.com/CBSNews/status/-3807168232637368952",
+    "timestamp": "2026-06-01T20:22:40.630323+00:00",
     "original_time": "2026-06-01T15:50:57+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6490936814235443028",
+    "id": "tweet_CBSNews_1461932114959205437",
     "type": "tweet",
     "username": "CBSNews",
     "text": "U.S. officials sought help from Russia during President Trump's first term to secure the release of journalist Austin Tice.",
@@ -226,12 +282,12 @@
     "images": [
       "9dff957a8e186d7a.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-6490936814235443028",
-    "timestamp": "2026-06-01T15:59:59.307293+00:00",
+    "url": "https://x.com/CBSNews/status/1461932114959205437",
+    "timestamp": "2026-06-01T20:22:41.884613+00:00",
     "original_time": "2026-06-01T15:49:38+00:00"
   },
   {
-    "id": "tweet_CBSNews_3851265242063685926",
+    "id": "tweet_CBSNews_-4407393320693411973",
     "type": "tweet",
     "username": "CBSNews",
     "text": "One of Poland's strangest tourist attractions is back: The 666 bus to Hel is doomed no more, and rolling again.",
@@ -239,12 +295,12 @@
     "images": [
       "71e48852d5bb6f30.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/3851265242063685926",
-    "timestamp": "2026-06-01T15:59:59.879565+00:00",
+    "url": "https://x.com/CBSNews/status/-4407393320693411973",
+    "timestamp": "2026-06-01T20:22:42.284920+00:00",
     "original_time": "2026-06-01T15:46:49+00:00"
   },
   {
-    "id": "tweet_CBSNews_4184519537619905310",
+    "id": "tweet_CBSNews_-1011281589944080971",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Americans' financial literacy slumps to a 10-year low, new study finds.",
@@ -252,103 +308,75 @@
     "images": [
       "823c32375f63ee6b.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4184519537619905310",
-    "timestamp": "2026-06-01T16:00:00.276548+00:00",
+    "url": "https://x.com/CBSNews/status/-1011281589944080971",
+    "timestamp": "2026-06-01T20:22:43.008604+00:00",
     "original_time": "2026-06-01T14:53:10+00:00"
   },
   {
-    "id": "tweet_CBSNews_5431799344202807606",
+    "id": "tweet_CBSNews_-7163708491083545323",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "EXCLUSIVE: DHS is developing a plan that would allow for quick asylum rejections without interviews, internal documents show.",
-    "translated_text": "独家报道：内部文件显示，国土安全部正在制定一项计划，允许在不接受面谈的情况下快速拒绝庇护。",
+    "text": "Iran will suspend talks with the U.S. and open \"other fronts\" in the war, Iranian state media say.",
+    "translated_text": "伊朗官方媒体称，伊朗将暂停与美国的谈判，并在战争中开辟“其他战线”。",
     "images": [
-      "5a7d9272d47160e2.jpg"
+      "66fff33c43f4c51e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/5431799344202807606",
-    "timestamp": "2026-06-01T16:00:02.524382+00:00",
-    "original_time": "2026-06-01T11:00:06+00:00"
+    "url": "https://x.com/CBSNews/status/-7163708491083545323",
+    "timestamp": "2026-06-01T20:22:43.317608+00:00",
+    "original_time": "2026-06-01T14:51:22+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8815881722897829134",
+    "id": "tweet_CBSNews_-8555276701243738517",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Iran's foreign ministry said Monday that the United States has continued to violate the ceasefire, after U.S. strikes on a southern port triggered a brief military flare-up.",
-    "translated_text": "伊朗外交部周一表示，在美国袭击南部港口引发短暂的军事冲突后，美国继续违反停火协议。",
+    "text": "Barry Diller's People Inc. is offering to buy the rest of MGM Resorts after acquiring a 26.1% stake in the Las Vegas casino and resort operator, valuing the business at more than $18 billion.",
+    "translated_text": "Barry Diller's People Inc. 在收购了拉斯维加斯赌场和度假村运营商米高梅度假村 26.1% 的股份后，提出收购米高梅度假村的其余股份，该业务估值超过 180 亿美元。",
     "images": [
-      "cedd63962546d63a.jpg"
+      "4de882fbddefab77.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8815881722897829134",
-    "timestamp": "2026-06-01T16:00:02.753177+00:00",
-    "original_time": "2026-06-01T10:30:00+00:00"
+    "url": "https://x.com/CBSNews/status/-8555276701243738517",
+    "timestamp": "2026-06-01T20:22:43.610650+00:00",
+    "original_time": "2026-06-01T14:50:23+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2451079481093726236",
+    "id": "tweet_JenniferJJacobs_-2851700635467016895",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "To call Washington a \"swamp\" is a metaphor, but also the literal truth. So, when planning began for the Lincoln Memorial in the early 1910s, builders faced a real sinking problem. Their solution led to one of Washington's best-kept secrets, hidden for over a century … until now.",
-    "translated_text": "称华盛顿为“沼泽”是一个比喻，但也是事实。因此，当 1910 年代初期开始规划林肯纪念堂时，建筑商面临着真正的下沉问题。他们的解决方案导致了华盛顿保守得最好的秘密之一，这个秘密被隐藏了一个多世纪……直到现在。",
+    "username": "JenniferJJacobs",
+    "text": "Trump on his talks today with Netanyahu and Hezbollah:",
+    "translated_text": "特朗普在今天与内塔尼亚胡和真主党的会谈中表示：",
     "images": [
-      "478bfa54e9aee9e0.jpg"
+      "1d7afcde46d71565.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2451079481093726236",
-    "timestamp": "2026-06-01T16:00:03.033512+00:00",
-    "original_time": "2026-06-01T10:00:00+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/-2851700635467016895",
+    "timestamp": "2026-06-01T20:23:20.464052+00:00",
+    "original_time": "2026-06-01T17:32:47+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7831502113932351369",
+    "id": "tweet_HibaNasr_-4681519654490294625",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "It's been said that she was uncomfortable in front of a camera, but Marilyn Monroe was one of the most photographed women of the 20th century. And now, in a world where it seems everyone is fighting for attention, her influence and her legacy stand taller than ever.",
-    "translated_text": "有人说她在镜头前感到不舒服，但玛丽莲·梦露却是 20 世纪上镜次数最多的女性之一。现在，在一个似乎每个人都在争取关注的世界里，她的影响力和她的遗产比以往任何时候都更加重要。",
-    "images": [
-      "1cb8f98b2de6d865.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-7831502113932351369",
-    "timestamp": "2026-06-01T16:00:03.241978+00:00",
-    "original_time": "2026-06-01T08:00:00+00:00"
+    "username": "HibaNasr",
+    "text": "U.S. officials have been informed, through official Lebanese diplomatic channels, that Hezbollah has accepted the U.S. proposal and is prepared to commit to refraining from targeting Israel, in exchange for a reciprocal commitment not to target Beirut’s southern suburbs. This is",
+    "translated_text": "美国官员通过黎巴嫩官方外交渠道获悉，真主党已接受美国的提议，并准备承诺不以以色列为目标，以换取不以贝鲁特南部郊区为目标的相互承诺。这是",
+    "images": [],
+    "url": "https://x.com/HibaNasr/status/-4681519654490294625",
+    "timestamp": "2026-06-01T20:23:21.625992+00:00",
+    "original_time": "2026-06-01T16:47:22+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8628499873175908247",
+    "id": "tweet_CNBC_3698568899962411698",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "While most libraries prefer that readers use their quiet voices, we just visited a library in Copenhagen where talking is actually encouraged.",
-    "translated_text": "虽然大多数图书馆更喜欢读者使用安静的声音，但我们刚刚参观了哥本哈根的一家图书馆，那里实际上鼓励读者说话。",
+    "username": "CNBC",
+    "text": "Trump tells CNBC: 'I don't care' if Iran negotiations are over",
+    "translated_text": "特朗普告诉 CNBC：“我不在乎”伊朗谈判是否结束",
     "images": [
-      "1bb4fe53863b2a42.jpg"
+      "65be82cb44fe4c8a.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8628499873175908247",
-    "timestamp": "2026-06-01T16:00:03.448225+00:00",
-    "original_time": "2026-06-01T06:00:00+00:00"
+    "url": "https://x.com/CNBC/status/3698568899962411698",
+    "timestamp": "2026-06-01T20:23:21.906283+00:00",
+    "original_time": "2026-06-01T17:04:24+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2817948770883955302",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Some health officials are telling medical professionals to stop prescribing certain peptides.\n\nCBS News medical correspondent Dr. Céline Gounder breaks down what exactly peptides are and why some doctors are concerned about how they're being used.",
-    "translated_text": "一些卫生官员告诉医疗专业人员停止开某些肽的处方。\n\n哥伦比亚广播公司新闻医学记者 Céline Gounder 博士详细分析了肽到底是什么，以及为什么一些医生担心它们的使用方式。",
-    "images": [
-      "00d0e724250c29b9.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-2817948770883955302",
-    "timestamp": "2026-06-01T16:00:03.676480+00:00",
-    "original_time": "2026-06-01T04:05:18+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-7639670568070349529",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Jill Biden on life in, and after, the White House",
-    "translated_text": "吉尔·拜登谈入主白宫及入主白宫后的生活",
-    "images": [
-      "0c7f3eb34e0820b3.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-7639670568070349529",
-    "timestamp": "2026-06-01T16:00:03.863980+00:00",
-    "original_time": "2026-06-01T04:00:00+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-7374749193244309349",
+    "id": "tweet_JenniferJJacobs_5097843225251697531",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "New: U.S. officials sought help from Russia during Trump's first term to secure the release of journalist Austin Tice@CBSNews",
@@ -356,23 +384,23 @@
     "images": [
       "9dff957a8e186d7a.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-7374749193244309349",
-    "timestamp": "2026-06-01T16:00:24.506652+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/5097843225251697531",
+    "timestamp": "2026-06-01T20:23:23.079169+00:00",
     "original_time": "2026-06-01T15:38:35+00:00"
   },
   {
-    "id": "tweet_lauren_peller_9052243758216540331",
+    "id": "tweet_lauren_peller_6810032427695877740",
     "type": "tweet",
     "username": "lauren_peller",
     "text": "NEWS: President Donald Trump is meeting with Speaker Mike Johnson this morning at the White House on the anti-weaponization fund, according to multiple sources familiar with the matter. Reporting w/@KFaulders",
-    "translated_text": "新闻：据多位知情人士透露，唐纳德·特朗普总统今天上午在白宫会见众议院议长迈克·约翰逊，讨论反武器化基金问题。 向@KFaulders 进行报告",
+    "translated_text": "新闻：据多位知情人士透露，唐纳德·特朗普总统今天上午将在白宫会见众议院议长迈克·约翰逊，讨论反武器化基金问题。 向@KFaulders 进行报告",
     "images": [],
-    "url": "https://x.com/lauren_peller/status/9052243758216540331",
-    "timestamp": "2026-06-01T16:00:24.954289+00:00",
+    "url": "https://x.com/lauren_peller/status/6810032427695877740",
+    "timestamp": "2026-06-01T20:23:23.753841+00:00",
     "original_time": "2026-06-01T15:14:48+00:00"
   },
   {
-    "id": "tweet_TreyYingst_4704843486286783111",
+    "id": "tweet_TreyYingst_-2655385049577112977",
     "type": "tweet",
     "username": "TreyYingst",
     "text": "Hezbollah rockets and drones are raining down on northern Israel.",
@@ -380,106 +408,19 @@
     "images": [
       "e997ed2a0a62a75c.jpg"
     ],
-    "url": "https://x.com/TreyYingst/status/4704843486286783111",
-    "timestamp": "2026-06-01T16:00:25.177806+00:00",
+    "url": "https://x.com/TreyYingst/status/-2655385049577112977",
+    "timestamp": "2026-06-01T20:23:24.075053+00:00",
     "original_time": "2026-06-01T13:31:31+00:00"
   },
   {
-    "id": "tweet_camiloreports_1061595473615442951",
-    "type": "tweet",
-    "username": "camiloreports",
-    "text": "CBS News Exclusive: Internal government documents show the Trump administration is developing a plan that would allow U.S. immigration officials to quickly reject some asylum applications without interviewing the applicants.",
-    "translated_text": "哥伦比亚广播公司新闻独家报道：政府内部文件显示，特朗普政府正在制定一项计划，允许美国移民官员在不采访申请人的情况下迅速拒绝一些庇护申请。",
-    "images": [
-      "5a7d9272d47160e2.jpg"
-    ],
-    "url": "https://x.com/camiloreports/status/1061595473615442951",
-    "timestamp": "2026-06-01T16:00:25.466369+00:00",
-    "original_time": "2026-06-01T12:11:51+00:00"
-  },
-  {
-    "id": "tweet_CENTCOM_-5693264824977663351",
-    "type": "tweet",
-    "username": "CENTCOM",
-    "text": "Last night at 11 p.m. ET, U.S. forces successfully intercepted two Iranian ballistic missiles targeting American forces based in Kuwait. These missiles were immediately defeated and no American personnel were harmed. \n\nU.S. Central Command remains vigilant and will continue to",
-    "translated_text": "昨晚 11 点美国东部时间，美军成功拦截了两枚针对驻科威特美军的伊朗弹道导弹。这些导弹立即被击落，没有美国人员受伤。 \n\n美国中央司令部保持警惕并将继续",
-    "images": [],
-    "url": "https://x.com/CENTCOM/status/-5693264824977663351",
-    "timestamp": "2026-06-01T16:00:25.614606+00:00",
-    "original_time": "2026-06-01T12:08:07+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-1160804378179294844",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "Trump on the push and pull he's hearing \"that I should move faster, or move slower, or go to war, or not go to war\" with Iran",
-    "translated_text": "特朗普在推拉中听到“我应该行动得更快，或者更慢，或者与伊朗开战，或者不开战”",
-    "images": [
-      "bd6c7406a7f980e4.jpg"
-    ],
-    "url": "https://x.com/JenniferJJacobs/status/-1160804378179294844",
-    "timestamp": "2026-06-01T16:00:25.957159+00:00",
-    "original_time": "2026-06-01T11:00:19+00:00"
-  },
-  {
-    "id": "article_901ef7b4878e",
+    "id": "article_5827007f6b1c",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Aleema terms reports of Imran's meeting with ex-army chief 'totally fake'",
-    "translated_title": "阿利玛称伊姆兰与前陆军参谋长会面的报道“完全是假的”",
-    "url": "https://www.dawn.com/news/2004319/aleema-terms-reports-of-imrans-meeting-with-ex-army-chief-totally-fake",
-    "timestamp": "2026-06-01T16:01:47.366688+00:00",
-    "original_time": "2026-06-01T10:12:30+05:00"
-  },
-  {
-    "id": "article_0894a6a42a07",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "US-based Coinbase offers trading using Indian rupee",
-    "translated_title": "美国 Coinbase 提供印度卢比交易",
-    "url": "https://www.dawn.com/news/2004335/us-based-coinbase-offers-trading-using-indian-rupee",
-    "timestamp": "2026-06-01T16:03:12.025664+00:00",
-    "original_time": "2026-06-01T10:55:24+05:00"
-  },
-  {
-    "id": "article_0b343bbc279b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "South Air plans flight operations in DI Khan, Chitral",
-    "translated_title": "南方航空计划在吉德拉尔 DI Khan 运营航班",
-    "url": "https://www.dawn.com/news/2004350/south-air-plans-flight-operations-in-di-khan-chitral",
-    "timestamp": "2026-06-01T16:03:42.460006+00:00",
-    "original_time": "2026-06-01T13:07:08+05:00"
-  },
-  {
-    "id": "article_a5a64606e78c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Myanmar president holds trade and security talks with India's Modi",
-    "translated_title": "缅甸总统与印度莫迪举行贸易和安全会谈",
-    "url": "https://www.dawn.com/news/2004383/myanmar-president-holds-trade-and-security-talks-with-indias-modi",
-    "timestamp": "2026-06-01T16:03:56.844173+00:00",
-    "original_time": "2026-06-01T17:08:26+05:00"
-  },
-  {
-    "id": "article_a92d840782a2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "E-challans come into force for lane violations on Karachi's Sharea Faisal",
-    "translated_title": "电子查兰对卡拉奇 Sharea Faisal 的车道违规行为生效",
-    "url": "https://www.dawn.com/news/2004343/e-challans-come-into-force-for-lane-violations-on-karachis-sharea-faisal",
-    "timestamp": "2026-06-01T16:04:17.318120+00:00",
-    "original_time": "2026-06-01T12:09:55+05:00"
-  },
-  {
-    "id": "article_06b452c347e6",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Kostyuk compounds French Open chaos by crushing Swiatek, Zverev cruises",
-    "translated_title": "科斯秋克击败了斯瓦泰克、兹维列夫巡航，加剧了法网的混乱",
-    "url": "https://www.dawn.com/news/2004312/kostyuk-compounds-french-open-chaos-by-crushing-swiatek-zverev-cruises",
-    "timestamp": "2026-06-01T16:04:21.274979+00:00",
-    "original_time": "2026-06-01T09:05:37+05:00"
+    "title": "PM Shehbaz assures businessmen, industrialists of measures to boost industrial growth in upcoming budget",
+    "translated_title": "谢巴兹总理向商人和实业家保证在即将到来的预算中采取措施促进工业增长",
+    "url": "https://www.dawn.com/news/2004414/pm-shehbaz-assures-businessmen-industrialists-of-measures-to-boost-industrial-growth-in-upcoming-budget",
+    "timestamp": "2026-06-01T20:25:42.752399+00:00",
+    "original_time": "2026-06-01T22:00:22+05:00"
   },
   {
     "id": "article_9e0de2f9a00a",
@@ -488,48 +429,8 @@
     "title": "PMD forecasts rain, thunderstorms in upper parts of country from June 2-5",
     "translated_title": "PMD预计6月2日至5日期间该国北部地区将有降雨和雷暴",
     "url": "https://www.dawn.com/news/2004379/pmd-forecasts-rain-thunderstorms-in-upper-parts-of-country-from-june-2-5",
-    "timestamp": "2026-06-01T16:04:38.965260+00:00",
+    "timestamp": "2026-06-01T20:26:09.468142+00:00",
     "original_time": "2026-06-01T16:51:27+05:00"
-  },
-  {
-    "id": "article_3bf0a2925b0d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Israel attorney general warns of country's democratic backsliding",
-    "translated_title": "以色列总检察长警告该国民主倒退",
-    "url": "https://www.dawn.com/news/2004370/israel-attorney-general-warns-of-countrys-democratic-backsliding",
-    "timestamp": "2026-06-01T16:05:29.899295+00:00",
-    "original_time": "2026-06-01T15:11:48+05:00"
-  },
-  {
-    "id": "article_07ab134f5066",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "NCCIA challenges SC verdict ordering IHC to decide Imaan, Hadi's sentence suspension in 2 weeks",
-    "translated_title": "NCCIA 对 SC 的裁决提出质疑，该裁决要求 IHC 在两周内决定伊曼和哈迪的缓刑",
-    "url": "https://www.dawn.com/news/2004347/nccia-challenges-sc-verdict-ordering-ihc-to-decide-imaan-hadis-sentence-suspension-in-2-weeks",
-    "timestamp": "2026-06-01T16:05:33.401451+00:00",
-    "original_time": "2026-06-01T12:45:48+05:00"
-  },
-  {
-    "id": "article_9a8553590428",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Nvidia launches Windows laptop chip in consumer PC push",
-    "translated_title": "Nvidia推出Windows笔记本电脑芯片进军消费PC市场",
-    "url": "https://www.dawn.com/news/2004331/nvidia-launches-windows-laptop-chip-in-consumer-pc-push",
-    "timestamp": "2026-06-01T16:06:08.255084+00:00",
-    "original_time": "2026-06-01T11:08:11+05:00"
-  },
-  {
-    "id": "article_b1f0d9fe155a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "4pc growth target set for FY2026–27 as macroeconomic framework sent to economic council for approval",
-    "translated_title": "为 2026-27 财年设定 4% 的增长目标，宏观经济框架已送交经济理事会批准",
-    "url": "https://www.dawn.com/news/2004391/4pc-growth-target-set-for-fy2026-27-as-macroeconomic-framework-sent-to-economic-council-for-approval",
-    "timestamp": "2026-06-01T16:06:50.875834+00:00",
-    "original_time": "2026-06-01T17:56:19+05:00"
   },
   {
     "id": "article_ebda20102231",
@@ -538,8 +439,48 @@
     "title": "Survey finds generational gap in attitudes to AI romance",
     "translated_title": "调查发现对人工智能爱情的态度存在代沟",
     "url": "https://www.dawn.com/news/2004404/survey-finds-generational-gap-in-attitudes-to-ai-romance",
-    "timestamp": "2026-06-01T16:07:18.358256+00:00",
+    "timestamp": "2026-06-01T20:26:19.508091+00:00",
     "original_time": "2026-06-01T19:24:20+05:00"
+  },
+  {
+    "id": "article_0fdff9d5a063",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2003538/cm-maryam-underwent-major-surgery-at-lahore-hospital-punjab-minister",
+    "timestamp": "2026-06-01T20:27:09.430081+00:00",
+    "original_time": "2026-06-01T20:27:09.430043+00:00"
+  },
+  {
+    "id": "article_e59f3e1a0b8c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "ECP directs interior ministry, Islamabad commissioner to provide pending delimitation documents in 3 days",
+    "translated_title": "ECP指示内政部和伊斯兰堡专员在3天内提供待定的划界文件",
+    "url": "https://www.dawn.com/news/2004413/ecp-directs-interior-ministry-islamabad-commissioner-to-provide-pending-delimitation-documents-in-3-days",
+    "timestamp": "2026-06-01T20:27:51.174468+00:00",
+    "original_time": "2026-06-01T21:23:35+05:00"
+  },
+  {
+    "id": "article_a5a64606e78c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Myanmar president holds trade and security talks with India's Modi",
+    "translated_title": "缅甸总统与印度莫迪举行贸易和安全会谈",
+    "url": "https://www.dawn.com/news/2004383/myanmar-president-holds-trade-and-security-talks-with-indias-modi",
+    "timestamp": "2026-06-01T20:28:32.663811+00:00",
+    "original_time": "2026-06-01T17:08:26+05:00"
+  },
+  {
+    "id": "article_7a465b5be372",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PML-N supremo Nawaz Sharif to visit Gilgit-Baltistan ahead of June 7 polls",
+    "translated_title": "PML-N 最高领导人纳瓦兹·谢里夫将在 6 月 7 日投票前访问吉尔吉特-巴尔蒂斯坦",
+    "url": "https://www.dawn.com/news/2004429/pml-n-supremo-nawaz-sharif-to-visit-gilgit-baltistan-ahead-of-june-7-polls",
+    "timestamp": "2026-06-01T20:28:42.034142+00:00",
+    "original_time": "2026-06-01T23:30:22+05:00"
   },
   {
     "id": "article_e815c70b2995",
@@ -548,28 +489,38 @@
     "title": "The malnourished children of 2018 are teenagers now. Why?",
     "translated_title": "2018年营养不良的儿童现在已经是青少年了。为什么？",
     "url": "https://www.dawn.com/news/2004365/the-malnourished-children-of-2018-are-teenagers-now-why",
-    "timestamp": "2026-06-01T16:07:37.602431+00:00",
+    "timestamp": "2026-06-01T20:29:03.140253+00:00",
     "original_time": "2026-06-01T15:46:16+05:00"
   },
   {
-    "id": "article_0911b0c4ba6d",
+    "id": "article_e3ea9b0f0915",
     "type": "article",
     "source": "www.dawn.com",
     "title": "www.dawn.com",
     "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2004168/pakistans-resolute-response-during-may-2025-conflict-debunked-notion-of-space-for-war-in-south-asia-military-official",
-    "timestamp": "2026-06-01T16:08:07.851251+00:00",
-    "original_time": "2026-06-01T16:08:07.851211+00:00"
+    "url": "https://www.dawn.com/news/2004193/punjab-minister-seeks-proposals-on-fee-structures-staff-shortages-at-sports-complexes-in-rawalpindi",
+    "timestamp": "2026-06-01T20:29:32.206685+00:00",
+    "original_time": "2026-06-01T20:29:32.206647+00:00"
   },
   {
-    "id": "article_64f319fb83c0",
+    "id": "article_f52bf9ee84fc",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Tehran responds with air base attack after US strikes Iranian military sites",
-    "translated_title": "美国袭击伊朗军事基地后，德黑兰以空军基地袭击作为回应",
-    "url": "https://www.dawn.com/news/2004320/tehran-responds-with-air-base-attack-after-us-strikes-iranian-military-sites",
-    "timestamp": "2026-06-01T16:08:15.554812+00:00",
-    "original_time": "2026-06-01T09:46:45+05:00"
+    "title": "Seven missing after tourist jeep falls into ravine en route to GB’s Fairy Meadows",
+    "translated_title": "旅游吉普车在前往英国仙女草甸的途中坠入峡谷，七人失踪",
+    "url": "https://www.dawn.com/news/2004412/seven-missing-after-tourist-jeep-falls-into-ravine-en-route-to-gbs-fairy-meadows",
+    "timestamp": "2026-06-01T20:30:24.531219+00:00",
+    "original_time": "2026-06-01T21:04:17+05:00"
+  },
+  {
+    "id": "article_1e89156091da",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2004243/could-indias-gen-z-rebellion-begin-with-cockroaches",
+    "timestamp": "2026-06-01T20:31:14.123313+00:00",
+    "original_time": "2026-06-01T20:31:14.123276+00:00"
   },
   {
     "id": "article_0ac94acaf087",
@@ -578,38 +529,48 @@
     "title": "Malaysia bars under-16s from signing up for social media",
     "translated_title": "马来西亚禁止16岁以下青少年注册社交媒体",
     "url": "https://www.dawn.com/news/2004358/malaysia-bars-under-16s-from-signing-up-for-social-media",
-    "timestamp": "2026-06-01T16:08:53.213382+00:00",
+    "timestamp": "2026-06-01T20:31:32.000313+00:00",
     "original_time": "2026-06-01T13:27:11+05:00"
   },
   {
-    "id": "article_4fd6f2531e44",
+    "id": "article_3bf0a2925b0d",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Pakistan Olympic Association seeks performance-based grants under new sports policy",
-    "translated_title": "巴基斯坦奥林匹克协会根据新的体育政策寻求基于表现的资助",
-    "url": "https://www.dawn.com/news/2004310/pakistan-olympic-association-seeks-performance-based-grants-under-new-sports-policy",
-    "timestamp": "2026-06-01T16:08:57.393834+00:00",
-    "original_time": "2026-06-01T09:04:18+05:00"
+    "title": "Israel attorney general warns of country's democratic backsliding",
+    "translated_title": "以色列总检察长警告该国民主倒退",
+    "url": "https://www.dawn.com/news/2004370/israel-attorney-general-warns-of-countrys-democratic-backsliding",
+    "timestamp": "2026-06-01T20:32:20.057977+00:00",
+    "original_time": "2026-06-01T15:11:48+05:00"
   },
   {
-    "id": "article_d032d9f99185",
+    "id": "article_b1f0d9fe155a",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Vingegaard wins Giro d’Italia to complete Grand Tour set",
-    "translated_title": "文格加德赢得环意自行车赛冠军，完成大环赛",
-    "url": "https://www.dawn.com/news/2004311/vingegaard-wins-giro-ditalia-to-complete-grand-tour-set",
-    "timestamp": "2026-06-01T16:09:22.157364+00:00",
-    "original_time": "2026-06-01T09:04:55+05:00"
+    "title": "4pc growth target set for FY2026–27 as macroeconomic framework sent to economic council for approval",
+    "translated_title": "为 2026-27 财年设定 4% 的增长目标，宏观经济框架已送交经济理事会批准",
+    "url": "https://www.dawn.com/news/2004391/4pc-growth-target-set-for-fy2026-27-as-macroeconomic-framework-sent-to-economic-council-for-approval",
+    "timestamp": "2026-06-01T20:33:06.472290+00:00",
+    "original_time": "2026-06-01T17:56:19+05:00"
   },
   {
-    "id": "article_b18473f84a78",
+    "id": "article_43c68141820c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "'In everybody’s interest': EU's top diplomat says bloc seeks stability in region",
+    "translated_title": "“符合每个人的利益”：欧盟最高外交官表示欧盟寻求地区稳定",
+    "url": "https://www.dawn.com/news/2004423/in-everybodys-interest-eus-top-diplomat-says-bloc-seeks-stability-in-region",
+    "timestamp": "2026-06-01T20:33:11.001271+00:00",
+    "original_time": "2026-06-01T23:00:21+05:00"
+  },
+  {
+    "id": "article_e2730e9eab5d",
     "type": "article",
     "source": "www.dawn.com",
     "title": "www.dawn.com",
     "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2004156/punjab-approves-deployment-of-6000-police-personnel-in-gb-for-election",
-    "timestamp": "2026-06-01T16:09:55.098421+00:00",
-    "original_time": "2026-06-01T16:09:55.098387+00:00"
+    "url": "https://www.dawn.com/news/2004235/us-house-proposal-seeks-unprecedented-military-integration-with-israel",
+    "timestamp": "2026-06-01T20:33:30.242325+00:00",
+    "original_time": "2026-06-01T20:33:30.242291+00:00"
   },
   {
     "id": "article_1f223187b146",
@@ -618,47 +579,7 @@
     "title": "GB's rights should be protected under any new constitutional amendment, says Bilawal at election rally",
     "translated_title": "比拉瓦尔在选举集会上表示，任何新宪法修正案都应保护英国的权利",
     "url": "https://www.dawn.com/news/2004374/gbs-rights-should-be-protected-under-any-new-constitutional-amendment-says-bilawal-at-election-rally",
-    "timestamp": "2026-06-01T16:10:02.070864+00:00",
+    "timestamp": "2026-06-01T20:33:45.745401+00:00",
     "original_time": "2026-06-01T15:43:22+05:00"
-  },
-  {
-    "id": "article_af16a11dbe75",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2004291/nab-initiates-probe-into-illegal-marriage-halls-approved-by-sindh-building-control-authority",
-    "timestamp": "2026-06-01T16:10:46.200288+00:00",
-    "original_time": "2026-06-01T16:10:46.200252+00:00"
-  },
-  {
-    "id": "article_605ccb1960db",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Washington's policy toward Iran — what comes next?",
-    "translated_title": "华盛顿对伊朗的政策——接下来会发生什么？",
-    "url": "https://www.dawn.com/news/2004342/washingtons-policy-toward-iran-what-comes-next",
-    "timestamp": "2026-06-01T16:10:50.399594+00:00",
-    "original_time": "2026-06-01T11:48:02+05:00"
-  },
-  {
-    "id": "article_3aa872aab9ca",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PM reaffirms EU ties, thanks Kallas for support for Gulf peace efforts",
-    "translated_title": "总理重申欧盟关系，感谢卡拉斯对海湾和平努力的支持",
-    "url": "https://www.dawn.com/news/2004340/pm-reaffirms-eu-ties-thanks-kallas-for-support-for-gulf-peace-efforts",
-    "timestamp": "2026-06-01T16:10:57.523644+00:00",
-    "original_time": "2026-06-01T11:37:48+05:00"
-  },
-  {
-    "id": "article_29de87470d57",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2002371/indian-duo-die-on-mount-everest",
-    "timestamp": "2026-06-01T16:11:21.835892+00:00",
-    "original_time": "2026-06-01T16:11:21.835860+00:00"
   }
 ]
