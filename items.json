@@ -1,17 +1,19 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_3413002891867256355",
+    "id": "tweet_ForeignOfficePk_-1214235080025119942",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Allegations against Pakistan and International Financial Assistance to Afghanistan",
     "translated_text": "发言人@TahirAndrabi 每周举行新闻发布会关于针对巴基斯坦的指控和对阿富汗的国际经济援助",
-    "images": [],
-    "url": "https://x.com/ForeignOfficePk/status/3413002891867256355",
-    "timestamp": "2026-06-04T20:06:01.246782+00:00",
+    "images": [
+      "a4090ae4826567bb.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-1214235080025119942",
+    "timestamp": "2026-06-04T22:21:20.385206+00:00",
     "original_time": "2026-06-04T17:05:21+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-7025456440949860020",
+    "id": "tweet_ForeignOfficePk_-7530128480633844835",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Inadvertent LOC crossing by a National from Azad Kashmir",
@@ -19,12 +21,12 @@
     "images": [
       "20384db96dcc08e9.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-7025456440949860020",
-    "timestamp": "2026-06-04T20:06:02.234864+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-7530128480633844835",
+    "timestamp": "2026-06-04T22:21:20.644675+00:00",
     "original_time": "2026-06-04T14:49:47+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_4615315982062031154",
+    "id": "tweet_ForeignOfficePk_1924296866331743324",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Human Rights Situation in Indian Illegally Occupied Jammu & Kashmir",
@@ -32,12 +34,12 @@
     "images": [
       "ab33b9b901756967.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/4615315982062031154",
-    "timestamp": "2026-06-04T20:06:03.349184+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/1924296866331743324",
+    "timestamp": "2026-06-04T22:21:20.907168+00:00",
     "original_time": "2026-06-04T14:42:13+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-5527471734057707640",
+    "id": "tweet_ForeignOfficePk_-2672035524902073717",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Afghanistan related queries",
@@ -47,12 +49,12 @@
       "be886dae7e4ed277.jpg",
       "e6a3a67dae3b3120.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-5527471734057707640",
-    "timestamp": "2026-06-04T20:06:04.142110+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-2672035524902073717",
+    "timestamp": "2026-06-04T22:21:21.347632+00:00",
     "original_time": "2026-06-04T14:32:31+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-4956906437408534472",
+    "id": "tweet_ForeignOfficePk_-1931181502897620328",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Abraham Accord —’s Position",
@@ -61,12 +63,26 @@
       "dee669a0abb351a1.svg",
       "695a2dc7125f73f2.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-4956906437408534472",
-    "timestamp": "2026-06-04T20:06:04.718308+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-1931181502897620328",
+    "timestamp": "2026-06-04T22:21:21.704272+00:00",
     "original_time": "2026-06-04T14:06:21+00:00"
   },
   {
-    "id": "tweet_DPM_PK_-654271155866669561",
+    "id": "tweet_ForeignOfficePk_7952263818635213857",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Fake News of Intel-sharing with the US;Advocacy for ending violence against Lebanon and US-brokered Lebanon-Israel Ceasefire",
+    "translated_text": "发言人@TahirAndrabi 每周新闻发布会关于与美国共享情报的假新闻；倡导结束针对黎巴嫩的暴力以及美国斡旋的黎巴嫩-以色列停火",
+    "images": [
+      "dee669a0abb351a1.svg",
+      "ce7ba0bc9c7436b1.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/7952263818635213857",
+    "timestamp": "2026-06-04T22:21:22.402100+00:00",
+    "original_time": "2026-06-04T13:54:45+00:00"
+  },
+  {
+    "id": "tweet_DPM_PK_-1359890632151774012",
     "type": "tweet",
     "username": "DPM_PK",
     "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50chaired a meeting today to review the Fuel Subsidy Scheme. He took stock of the relief being provided to public transport operators, motorcycle owners, and farmers to mitigate the impact of higher",
@@ -77,8 +93,8 @@
       "0d0cc4f8066a68b0.jpg",
       "a3defd8fdd9ffdb5.jpg"
     ],
-    "url": "https://x.com/DPM_PK/status/-654271155866669561",
-    "timestamp": "2026-06-04T20:06:23.643512+00:00",
+    "url": "https://x.com/DPM_PK/status/-1359890632151774012",
+    "timestamp": "2026-06-04T22:21:37.076433+00:00",
     "original_time": "2026-06-04T17:26:44+00:00"
   },
   {
@@ -91,11 +107,11 @@
       "0f5103566d848ff6.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-06-04T20:06:23.706590+00:00",
+    "timestamp": "2026-06-04T22:21:37.157869+00:00",
     "original_time": "2026-06-04T16:10:34+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_391605156124831250",
+    "id": "tweet_ForeignOfficePk_4868463230533946790",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50met with a delegation from the National Defence College of Sri Lanka at the Ministry of Foreign Affairs. The delegation is visiting Pakistan as part of a foreign study tour and received a briefing on",
@@ -106,12 +122,12 @@
       "a3e01c395c44af7b.jpg",
       "73f03f36dd5eafac.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/391605156124831250",
-    "timestamp": "2026-06-04T20:06:24.692043+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/4868463230533946790",
+    "timestamp": "2026-06-04T22:21:37.652656+00:00",
     "original_time": "2026-06-04T10:38:35+00:00"
   },
   {
-    "id": "tweet_PakPMO_-7955977465748980240",
+    "id": "tweet_PakPMO_-1229496057601328966",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif addresses at a ceremony  celebrating 250th Independence anniversary of the United States of America (4 June, 2026).",
@@ -121,12 +137,12 @@
       "9535f8e2d1d1aeb1.jpg",
       "2377a7aec510b9b7.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-7955977465748980240",
-    "timestamp": "2026-06-04T20:06:54.814629+00:00",
+    "url": "https://x.com/PakPMO/status/-1229496057601328966",
+    "timestamp": "2026-06-04T22:22:08.630856+00:00",
     "original_time": "2026-06-04T17:45:32+00:00"
   },
   {
-    "id": "tweet_PakPMO_-822784941423558762",
+    "id": "tweet_PakPMO_-8211382065324013991",
     "type": "tweet",
     "username": "PakPMO",
     "text": "A high-powered Saudi business delegation, led by His Highness Prince Mansour bin Mohammad Al Saud, Chairman Saudi-Pak Joint Business Council, calls on Prime Minister Muhammad Shehbaz Sharif (4 June, 2026).",
@@ -137,12 +153,12 @@
       "1f4fda1bfa0134cb.jpg",
       "8ced91b3e01e344c.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-822784941423558762",
-    "timestamp": "2026-06-04T20:06:56.082660+00:00",
+    "url": "https://x.com/PakPMO/status/-8211382065324013991",
+    "timestamp": "2026-06-04T22:22:09.194926+00:00",
     "original_time": "2026-06-04T17:23:23+00:00"
   },
   {
-    "id": "tweet_PakPMO_-6111344929271974354",
+    "id": "tweet_PakPMO_-4584810041916550456",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad : 4 June , 2026.\n\nA high-powered Saudi business delegation, led by His Highness Prince Mansour bin Mohammad Al Saud, Chairman Saudi-Pak Joint Business Council, called on the Prime Minister at the Prime Minister House earlier today. \n\nThe Prime Minister was assisted by",
@@ -150,12 +166,12 @@
     "images": [
       "d2978ba0d5c127e4.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-6111344929271974354",
-    "timestamp": "2026-06-04T20:06:57.162997+00:00",
+    "url": "https://x.com/PakPMO/status/-4584810041916550456",
+    "timestamp": "2026-06-04T22:22:09.451098+00:00",
     "original_time": "2026-06-04T17:23:20+00:00"
   },
   {
-    "id": "tweet_PakPMO_-1864243894848467128",
+    "id": "tweet_PakPMO_-4508780599310698405",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad: June 4, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif chaired a review meeting on the ongoing reforms in the FBR.\n\nThe meeting took a detailed review of the ongoing measures to establish the tax system on modern lines and increase tax collections. The meeting presented",
@@ -163,12 +179,12 @@
     "images": [
       "d3fc60f23bbaf204.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-1864243894848467128",
-    "timestamp": "2026-06-04T20:06:58.144237+00:00",
+    "url": "https://x.com/PakPMO/status/-4508780599310698405",
+    "timestamp": "2026-06-04T22:22:09.708460+00:00",
     "original_time": "2026-06-04T13:24:00+00:00"
   },
   {
-    "id": "tweet_PakPMO_9169866641709273078",
+    "id": "tweet_PakPMO_896323486182207101",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif chairs a review meeting on reforms in the Federal Board of Revenue (4 June, 2026).",
@@ -177,12 +193,12 @@
       "783b2a5fdb5ac7db.jpg",
       "32ff7e1327e818a9.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/9169866641709273078",
-    "timestamp": "2026-06-04T20:06:58.845707+00:00",
+    "url": "https://x.com/PakPMO/status/896323486182207101",
+    "timestamp": "2026-06-04T22:22:10.083046+00:00",
     "original_time": "2026-06-04T13:22:53+00:00"
   },
   {
-    "id": "tweet_IRIMFA_SPOX_-8816554245477476772",
+    "id": "tweet_IRIMFA_SPOX_-6672455277951135569",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "On the anniversary of the celestial ascension of#Imam_Khomeini(may his soul rest in peace), the founder of the Islamic Republic of Iran, greetings and salutations.\n\nOn the anniversary of the passing of His Holiness Imam Khomeini (may his soul rest in peace), the founder of the",
@@ -190,64 +206,77 @@
     "images": [
       "85e40f2e09b24b7f.jpg"
     ],
-    "url": "https://x.com/IRIMFA_SPOX/status/-8816554245477476772",
-    "timestamp": "2026-06-04T20:08:49.783465+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/-6672455277951135569",
+    "timestamp": "2026-06-04T22:23:27.754625+00:00",
     "original_time": "2026-06-04T13:38:19+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2425491582705667881",
+    "id": "tweet_CBSNews_8360062432898778270",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Meta is rolling out an Instagram subscription service for $3.99 a month, called Instagram Plus.",
-    "translated_text": "Meta 推出了 Instagram 订阅服务，名为 Instagram Plus，每月价格为 3.99 美元。",
+    "text": "Ranking member of the House Judiciary Committee Rep. Jamie Raskin (D-MD) says \"there are several Republican members on the House side who are very troubled by\" President Trump's $1.8 million \"anti-weaponization\" fund and believes Congress should vote to reject it.\n\n\"We don't need",
+    "translated_text": "众议院司法委员会高级成员众议员杰米·拉斯金（D-MD）表示，“众议院有几位共和党议员对特朗普总统的 180 万美元“反武器化”基金感到非常不安，并认为国会应该投票否决该基金。\n\n“我们不需要",
     "images": [
-      "82e89dce05f8bb22.jpg"
+      "f8682bee8a0687c9.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2425491582705667881",
-    "timestamp": "2026-06-04T20:10:05.889934+00:00",
-    "original_time": "2026-06-04T20:10:00+00:00"
+    "url": "https://x.com/CBSNews/status/8360062432898778270",
+    "timestamp": "2026-06-04T22:24:52.392853+00:00",
+    "original_time": "2026-06-04T21:57:39+00:00"
   },
   {
-    "id": "tweet_CBSNews_-387317904361699989",
+    "id": "tweet_CBSNews_3576576209795540305",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "The U.S. minted 736,000 new millionaires last year, bringing the total number of Americans with such wealth to a record 8.7 million.",
-    "translated_text": "去年，美国新增了 73.6 万名百万富翁，使美国拥有百万富翁的总人数达到创纪录的 870 万。",
+    "text": "President Trump says Bill Pulte's appointment as director of national intelligence won't be permanent.",
+    "translated_text": "特朗普总统表示，比尔·普尔特被任命为国家情报总监不会是永久性的。",
     "images": [
-      "443ead38d05d3c19.jpg"
+      "f46ca53f8198fd9f.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-387317904361699989",
-    "timestamp": "2026-06-04T20:10:06.399184+00:00",
-    "original_time": "2026-06-04T19:50:00+00:00"
+    "url": "https://x.com/CBSNews/status/3576576209795540305",
+    "timestamp": "2026-06-04T22:24:52.868557+00:00",
+    "original_time": "2026-06-04T21:54:09+00:00"
   },
   {
-    "id": "tweet_CBSNews_6369443764724981395",
+    "id": "tweet_CBSNews_-7824966174652211106",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Wall Street investors betting that the U.S. and Iran are nearing an agreement to end the war as stocks soar.",
-    "translated_text": "随着股市飙升，华尔街投资者押注美国和伊朗即将达成协议以结束战争。",
+    "text": "President Trump told reporters Thursday that Bill Pulte, his controversial pick for acting director of national intelligence, won't be nominated to the role permanently, and the administration is interviewing other candidates to fill the role in the long term.\n\nTrump said Pulte",
+    "translated_text": "特朗普总统周四告诉记者，他备受争议的代理国家情报总监比尔·普尔特(Bill Pulte)不会被永久提名担任该职位，政府正在面试其他候选人以长期填补这一职位。\n\n特朗普称普尔特",
     "images": [
-      "457adfe97480354f.jpg"
+      "b6e41142532ea176.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/6369443764724981395",
-    "timestamp": "2026-06-04T20:10:07.232724+00:00",
-    "original_time": "2026-06-04T19:30:00+00:00"
+    "url": "https://x.com/CBSNews/status/-7824966174652211106",
+    "timestamp": "2026-06-04T22:24:54.256873+00:00",
+    "original_time": "2026-06-04T21:36:52+00:00"
   },
   {
-    "id": "tweet_CBSNews_7643638678893471316",
+    "id": "tweet_CBSNews_-601566845266616490",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump to announce $700 million investment in coal plants and California export terminal.",
-    "translated_text": "特朗普总统宣布投资 7 亿美元用于燃煤电厂和加州出口码头。",
+    "text": "The House rejected a war powers resolution on Thursday to constrain President Trump in Lebanon after Democratic leaders came out against it.",
+    "translated_text": "在民主党领导人公开反对后，众议院周四拒绝了一项限制特朗普总统在黎巴嫩的战争权力决议。",
     "images": [
-      "0b051669bcefc7cc.jpg"
+      "0fdb4b8192fd6cb1.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/7643638678893471316",
-    "timestamp": "2026-06-04T20:10:07.927851+00:00",
-    "original_time": "2026-06-04T19:15:00+00:00"
+    "url": "https://x.com/CBSNews/status/-601566845266616490",
+    "timestamp": "2026-06-04T22:24:54.525733+00:00",
+    "original_time": "2026-06-04T21:20:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_776587221380235605",
+    "id": "tweet_CBSNews_-7265818306260142827",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A 20-year-old Auburn University student has gone missing while on a family trip to Japan. The parents of James \"Weston\" Higginbotham say he may have gone for a hike alone, and he was last seen on surveillance footage at Kyoto train station.#japan#alabama#collegestudent#news",
+    "translated_text": "一名 20 岁的奥本大学学生在全家去日本旅行时失踪。詹姆斯·“韦斯顿”·希金波坦姆的父母表示，他可能独自去远足，最后一次在京都火车站的监控录像中看到他。#japan#alabama#collegestudent#news",
+    "images": [
+      "53c1a19597d7b7dd.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-7265818306260142827",
+    "timestamp": "2026-06-04T22:24:55.567265+00:00",
+    "original_time": "2026-06-04T21:09:28+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_6747791082709022294",
     "type": "tweet",
     "username": "CBSNews",
     "text": "California voters were still eagerly awaiting results in key primary elections on Thursday, including in the gubernatorial and Los Angeles mayoral races.",
@@ -255,12 +284,12 @@
     "images": [
       "4e4dec6305925618.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/776587221380235605",
-    "timestamp": "2026-06-04T20:10:09.631620+00:00",
+    "url": "https://x.com/CBSNews/status/6747791082709022294",
+    "timestamp": "2026-06-04T22:24:57.874103+00:00",
     "original_time": "2026-06-04T19:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_7996936317443712826",
+    "id": "tweet_CBSNews_6897017177742104684",
     "type": "tweet",
     "username": "CBSNews",
     "text": "The aurora borealis could be visible in the U.S. after solar flares burst from the sun toward Earth this week.",
@@ -268,88 +297,123 @@
     "images": [
       "a2c16fe18eea5490.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/7996936317443712826",
-    "timestamp": "2026-06-04T20:10:10.001729+00:00",
+    "url": "https://x.com/CBSNews/status/6897017177742104684",
+    "timestamp": "2026-06-04T22:24:58.088472+00:00",
     "original_time": "2026-06-04T18:45:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_0",
+    "id": "tweet_CBSNews_-3901223942063822192",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "",
-    "translated_text": "",
+    "text": "The Colorado Court of Appeals reversed the criminally negligent homicide convictions for the former paramedics in the death of Elijah McClain.",
+    "translated_text": "科罗拉多州上诉法院推翻了对伊利亚·麦克莱恩死亡事件中前护理人员的过失杀人罪定罪。",
     "images": [
-      "f3411d6ffec462ba.jpg"
+      "1305b81c34addd28.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/0",
-    "timestamp": "2026-06-04T20:10:12.082783+00:00",
-    "original_time": "2026-06-04T15:46:49+00:00"
+    "url": "https://x.com/CBSNews/status/-3901223942063822192",
+    "timestamp": "2026-06-04T22:24:58.348734+00:00",
+    "original_time": "2026-06-04T18:30:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3646761072311909952",
+    "id": "tweet_CBSNews_7811950405110070314",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "New police body-cam video shows U.K. teen Henry Nowak's arrest after he'd been fatally stabbed in an argument. He pleaded with officers that he couldn't breathe while he was being handcuffed, saying he'd been stabbed, to which one officer replied, \"I don't think you have, mate.\"",
-    "translated_text": "新的警方随身摄像机视频显示，英国青少年亨利·诺瓦克在一次争吵中被刺伤后被捕。他向警察恳求说，他被戴上手铐时无法呼吸，并说自己被刺伤了，一名警察回答说：“我不认为你有，伙计。”",
+    "text": "Iran says there's been no progress in talks with the U.S. after tit-for-tat strikes, as Hezbollah rejects new Israel-Lebanon ceasefire.",
+    "translated_text": "伊朗表示，在针锋相对的袭击后，与美国的谈判没有取得任何进展，因为真主党拒绝以色列和黎巴嫩新的停火协议。",
     "images": [
-      "a62591dca073b0e0.jpg"
+      "9b1a34587003dd07.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3646761072311909952",
-    "timestamp": "2026-06-04T20:10:12.820226+00:00",
-    "original_time": "2026-06-04T15:38:02+00:00"
+    "url": "https://x.com/CBSNews/status/7811950405110070314",
+    "timestamp": "2026-06-04T22:24:59.195651+00:00",
+    "original_time": "2026-06-04T18:19:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1991280303027740974",
+    "id": "tweet_CBSNews_8163789652649390974",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "A JetBlue pilot reported a close call while landing at Fort Lauderdale-Hollywood International Airport after spotting a smaller plane flying erratically nearby, according to air traffic control audio. A few moments later, the air traffic controller coordinating traffic in the",
-    "translated_text": "据空中交通管制音频显示，一名捷蓝航空飞行员在降落在劳德代尔堡好莱坞国际机场时发现附近有一架较小的飞机不规则飞行，报告了一次险情。几分钟后，空中交通管制员正在协调机场内的交通。",
+    "text": "Trump, a native New Yorker and self-described Knicks fan, said he was invited to attend a Knicks playoff game by the team's owner James Dolan, who has donated to Mr. Trump's political campaigns.",
+    "translated_text": "特朗普是土生土长的纽约人，自称尼克斯队球迷，他表示球队老板詹姆斯·多兰邀请他观看尼克斯队的季后赛，多兰曾为特朗普的政治竞选活动捐款。",
     "images": [
-      "93b50e7494185ff5.jpg"
+      "37220f10f7b2f668.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-1991280303027740974",
-    "timestamp": "2026-06-04T20:10:13.815354+00:00",
-    "original_time": "2026-06-04T15:35:36+00:00"
+    "url": "https://x.com/CBSNews/status/8163789652649390974",
+    "timestamp": "2026-06-04T22:24:59.477641+00:00",
+    "original_time": "2026-06-04T18:17:57+00:00"
   },
   {
-    "id": "tweet_CBSNews_2812712321224418921",
+    "id": "tweet_CBSNews_-822439152214541002",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "BREAKING: Federal authorities bust a $30 million fraud ring involving children's behavioral health services, officials say.",
-    "translated_text": "突发新闻：官员称，联邦当局捣毁了一起涉及儿童行为健康服务的价值 3000 万美元的诈骗团伙。",
+    "text": "EXCLUSIVE: President Trump's name must be removed from the Kennedy Center by June 12, a memo to the center's staff says.",
+    "translated_text": "独家报道：一份发给肯尼迪中心工作人员的备忘录称，特朗普总统的名字必须在 6 月 12 日之前从肯尼迪中心删除。",
     "images": [
-      "63f6b74e200016ed.jpg"
+      "12713dc145bd8825.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2812712321224418921",
-    "timestamp": "2026-06-04T20:10:13.999084+00:00",
-    "original_time": "2026-06-04T15:30:44+00:00"
+    "url": "https://x.com/CBSNews/status/-822439152214541002",
+    "timestamp": "2026-06-04T22:25:00.101373+00:00",
+    "original_time": "2026-06-04T18:15:02+00:00"
   },
   {
-    "id": "tweet_CBSNews_1352370392630221342",
+    "id": "tweet_CBSNews_805724073716094616",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Former Trump national security adviser John Bolton plans to plead guilty in classified documents case, sources says.",
-    "translated_text": "消息人士称，特朗普前国家安全顾问约翰·博尔顿计划在机密文件案中认罪。",
+    "text": "The flesh-eating New World screwworm has been found in Texas, with the parasite infecting at least one animal – a 3-week-old calf, according to the USDA.\n\nThe screwworm fly usually infests livestock and other warm-blooded animals – including, in rare cases, people – by laying its",
+    "translated_text": "据美国农业部称，在德克萨斯州发现了食肉新世界螺旋虫，这种寄生虫感染了至少一只动物——一只三周大的小牛。\n\n螺旋蝇通常通过产卵来感染牲畜和其他温血动物，在极少数情况下也包括人。",
     "images": [
-      "d1f1136e9576cf67.jpg"
+      "8032c9fb9ae15a20.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1352370392630221342",
-    "timestamp": "2026-06-04T20:10:14.183007+00:00",
-    "original_time": "2026-06-04T15:22:19+00:00"
+    "url": "https://x.com/CBSNews/status/805724073716094616",
+    "timestamp": "2026-06-04T22:25:00.406819+00:00",
+    "original_time": "2026-06-04T17:51:13+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-8586548113186144447",
+    "id": "tweet_CBSNews_-3175530838440341827",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Video shows U.S. authorities interdicting a boat carrying 240 migrants from Haiti.\n\nCustoms and Border Patrol Commissioner Rodney Scott, who shared the footage on social media, said \"the overcrowded vessel was taking on water and in danger of sinking,\" and that the U.S. Coast",
+    "translated_text": "视频显示，美国当局拦截了一艘载有 240 名海地移民的船只。\n\n海关和边境巡逻专员罗德尼·斯科特在社交媒体上分享了这段视频，他表示“这艘过度拥挤的船只正在进水，有沉没的危险”，美国海岸",
+    "images": [
+      "15c403be4bf43121.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-3175530838440341827",
+    "timestamp": "2026-06-04T22:25:03.342324+00:00",
+    "original_time": "2026-06-04T17:10:22+00:00"
+  },
+  {
+    "id": "tweet_LisaDNews_-8727465560494929469",
+    "type": "tweet",
+    "username": "LisaDNews",
+    "text": "PULTE - TEMPORARY.   Confirmed, per source familiar, the White House has communicated to Congress that Bill Pulte will not be nominated as a permanent DNI.\n\nNot clear this will assuage Democrats' problems with him even serving in the acting role.  But the few Republicans I spoke",
+    "translated_text": "PULTE - 临时的。   据知情人士透露，白宫已向国会通报，比尔·普尔特不会被提名为永久国家情报总监。\n\n尚不清楚这是否会缓解民主党对他的问题，即使是担任代理角色。  但我发言的少数共和党人",
+    "images": [],
+    "url": "https://x.com/LisaDNews/status/-8727465560494929469",
+    "timestamp": "2026-06-04T22:25:28.782162+00:00",
+    "original_time": "2026-06-04T20:19:34+00:00"
+  },
+  {
+    "id": "tweet_DJJudd_-1130157227764440158",
+    "type": "tweet",
+    "username": "DJJudd",
+    "text": "Trump says he didn't observe any cognitive decline from Biden during their 2024 WH meeting.\n\n\"No, not really—he was the same guy I’ve been watching for a long time. I mean, you could go back 40 years…it wasn't like he was sharp as a tack, but no, it's the same guy.”",
+    "translated_text": "特朗普表示，他在 2024 年白宫会议期间没有观察到拜登有任何认知能力下降。\n\n“不，不是真的——他就是我关注了很长时间的那个人。我的意思是，你可以回到 40 年前……他并不像大头针一样锋利，但不，这是同一个人。”",
+    "images": [],
+    "url": "https://x.com/DJJudd/status/-1130157227764440158",
+    "timestamp": "2026-06-04T22:25:29.731996+00:00",
+    "original_time": "2026-06-04T20:35:54+00:00"
+  },
+  {
+    "id": "tweet_JenniferJJacobs_-440728427453314990",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "John Bolton, former national security adviser to President Trump, is planning to plead guilty to one count of retaining classified national security information and will agree to pay a $2.25 million fine, according to two sources with direct knowledge of the matter.@CBSNews",
     "translated_text": "据两位直接了解此事的消息人士透露，特朗普总统前国家安全顾问约翰·博尔顿计划承认一项保留机密国家安全信息的罪名，并同意支付 225 万美元的罚款。@CBSNews",
     "images": [],
-    "url": "https://x.com/JenniferJJacobs/status/-8586548113186144447",
-    "timestamp": "2026-06-04T20:10:29.549506+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/-440728427453314990",
+    "timestamp": "2026-06-04T22:25:29.896130+00:00",
     "original_time": "2026-06-04T19:41:50+00:00"
   },
   {
-    "id": "tweet_edokeefe_3757611639159013974",
+    "id": "tweet_edokeefe_-2135278111845108325",
     "type": "tweet",
     "username": "edokeefe",
     "text": "NEW: Trump's name must come off the Kennedy Center by June 12",
@@ -357,12 +421,12 @@
     "images": [
       "12713dc145bd8825.jpg"
     ],
-    "url": "https://x.com/edokeefe/status/3757611639159013974",
-    "timestamp": "2026-06-04T20:10:30.298323+00:00",
+    "url": "https://x.com/edokeefe/status/-2135278111845108325",
+    "timestamp": "2026-06-04T22:25:30.056347+00:00",
     "original_time": "2026-06-04T18:03:50+00:00"
   },
   {
-    "id": "tweet_TulsiGabbard_6233818653672135742",
+    "id": "tweet_TulsiGabbard_-8697914886650029826",
     "type": "tweet",
     "username": "TulsiGabbard",
     "text": "My husband Abraham was diagnosed with a very rare sacral chordoma. The surgery to remove bone and surrounding tissue lasted almost seven hours and was successful.  He had a rough night and is in a lot of pain but is finally home resting. Now recovery begins.  We’re so grateful",
@@ -370,12 +434,12 @@
     "images": [
       "1cf2e40fe76f1b8b.svg"
     ],
-    "url": "https://x.com/TulsiGabbard/status/6233818653672135742",
-    "timestamp": "2026-06-04T20:10:30.565710+00:00",
+    "url": "https://x.com/TulsiGabbard/status/-8697914886650029826",
+    "timestamp": "2026-06-04T22:25:30.338364+00:00",
     "original_time": "2026-06-04T14:01:50+00:00"
   },
   {
-    "id": "tweet_ddiamond_7481886567033492326",
+    "id": "tweet_ddiamond_-2716744505715183695",
     "type": "tweet",
     "username": "ddiamond",
     "text": "For years, Trump took a hair-loss drug — Propecia (finasteride).\n\nNow it’s no longer on his medical reports. \n\nI asked the White House if Trump still uses it, and officials said they’re not obligated to disclose all his medications.",
@@ -383,56 +447,100 @@
     "images": [
       "1cc2fe144abeda4c.jpg"
     ],
-    "url": "https://x.com/ddiamond/status/7481886567033492326",
-    "timestamp": "2026-06-04T20:10:30.772612+00:00",
+    "url": "https://x.com/ddiamond/status/-2716744505715183695",
+    "timestamp": "2026-06-04T22:25:30.667520+00:00",
     "original_time": "2026-06-04T10:55:23+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_347461525136459077",
+    "id": "tweet_JenniferJJacobs_5498207370650670331",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Trump at 3 pm today will announce $700 million for 13 current coal plants plus two new ones, sources told@saraecook@RichardEscobedoand me. He's using Defense Production Act.@CBSNews",
     "translated_text": "消息人士告诉@saraecook@RichardEscobedo 和我，特朗普今天下午 3 点将宣布拨款 7 亿美元，用于建设 13 座现有燃煤电厂以及两座新电厂。他正在使用《国防生产法》。@CBSNews",
     "images": [],
-    "url": "https://x.com/JenniferJJacobs/status/347461525136459077",
-    "timestamp": "2026-06-04T20:10:31.653780+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/5498207370650670331",
+    "timestamp": "2026-06-04T22:25:30.828521+00:00",
     "original_time": "2026-06-04T12:22:04+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-3000200716576539998",
+    "id": "tweet_KellieMeyerNews_7996579379055783296",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "As press was moving out of the Oval Office reporter@fran_chambersasked about the nomination of Todd Blanche for AG:\n\nTrump said, “Todd is very popular and doing great”\n\nPer pool note.",
+    "translated_text": "当媒体离开椭圆形办公室时，记者 @fran_chambers 询问托德·布兰奇 (Todd Blanche) 的 AG 提名：\n\n特朗普表示：“托德非常受欢迎，而且表现出色”\n\n每池注释。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/7996579379055783296",
+    "timestamp": "2026-06-04T22:25:47.228796+00:00",
+    "original_time": "2026-06-04T20:59:36+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-2658566783927748160",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "President Trump says he plans to attend the Knicks game, “could be Monday.”",
+    "translated_text": "特朗普总统表示，他计划观看尼克斯队的比赛，“可能是周一”。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/-2658566783927748160",
+    "timestamp": "2026-06-04T22:25:48.377741+00:00",
+    "original_time": "2026-06-04T20:35:06+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-6306341255531097646",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "President Trump is asked if he detected cognitive decline when he met with former President Joe Biden after the 2024 election. \n\nTrump says, “no not really. He was the same guy…Never the sharpest guy. It wasn’t like he was sharp as a tack. No, he was the same guy.”",
+    "translated_text": "特朗普总统被问及 2024 年大选后与前总统乔·拜登会面时是否发现认知能力下降。 \n\n特朗普说：“不，不是真的。他是同一个人……从来都不是最敏锐的人。他并不像大头钉一样敏锐。不，他是同一个人。”",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/-6306341255531097646",
+    "timestamp": "2026-06-04T22:25:50.002712+00:00",
+    "original_time": "2026-06-04T20:19:49+00:00"
+  },
+  {
+    "id": "tweet_KristenhCNN_-7020727910199261935",
+    "type": "tweet",
+    "username": "KristenhCNN",
+    "text": "President Trump waved off questions about Bill Pulte’s qualifications to be acting DNI, arguing it wasn’t necessary to have an extensive national security background.\n“I wasn’t greatly experienced in national security and I think I’ve done a really great job with it,” Trump told",
+    "translated_text": "特朗普总统对比尔·普尔特担任国家情报总监的资格问题不予理睬，认为没有必要拥有广泛的国家安全背景。\n特朗普告诉记者：“我在国家安全方面没有太多经验，但我认为我在这方面做得非常出色。”",
+    "images": [],
+    "url": "https://x.com/KristenhCNN/status/-7020727910199261935",
+    "timestamp": "2026-06-04T22:25:50.816776+00:00",
+    "original_time": "2026-06-04T20:11:23+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-8040684092487622840",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "NEW: President Trump tells reporters in the Oval Office that his pick to lead national intelligence will only be there for a “short time.”  “He’s not gonna be permanent. I don’t think he’d wanna be permanent” Trump says of Bill Pulte his pick for Acting Director of National",
     "translated_text": "新消息：特朗普总统在椭圆形办公室告诉记者，他选择领导国家情报部门的时间只会持续“很短一段时间”。  “他不会成为永久性的。我认为他不想成为永久性的”特朗普在谈到他挑选的国家代理主任比尔·普尔特时说道",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-3000200716576539998",
-    "timestamp": "2026-06-04T20:10:47.123988+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-8040684092487622840",
+    "timestamp": "2026-06-04T22:25:51.007004+00:00",
     "original_time": "2026-06-04T20:05:06+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_2459740983343590617",
+    "id": "tweet_KellieMeyerNews_-2614369033285222427",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "“I think it would be great if they met. Get it done,” Trump says of Zelenskyy writing an open letter to Putin about meeting.",
     "translated_text": "“我认为如果他们能见面那就太好了。把事情办好，”特朗普在谈到泽伦斯基向普京写的关于会面的公开信时说道。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/2459740983343590617",
-    "timestamp": "2026-06-04T20:10:48.317066+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-2614369033285222427",
+    "timestamp": "2026-06-04T22:25:51.186065+00:00",
     "original_time": "2026-06-04T19:59:36+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_5326057634640908173",
+    "id": "tweet_KellieMeyerNews_363664138218762654",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "President Trump calls the Lincoln Memorial reflecting pool a “swimming pool on steroids” saying that it “won’t leak.”",
     "translated_text": "特朗普总统称林肯纪念堂倒影池为“打了类固醇的游泳池”，并称其“不会泄漏”。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/5326057634640908173",
-    "timestamp": "2026-06-04T20:10:48.677748+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/363664138218762654",
+    "timestamp": "2026-06-04T22:25:51.393495+00:00",
     "original_time": "2026-06-04T19:37:23+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-7177232396290799152",
+    "id": "tweet_KellieMeyerNews_-5026381076372864038",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "NOW: President Trump in the Oval Office frames this move as bringing down energy costs and cost of living as he faces criticism over rising costs for Americans.",
@@ -440,23 +548,23 @@
     "images": [
       "c7ccb25ad2619a4a.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-7177232396290799152",
-    "timestamp": "2026-06-04T20:10:49.159850+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-5026381076372864038",
+    "timestamp": "2026-06-04T22:25:51.664256+00:00",
     "original_time": "2026-06-04T19:31:58+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_4777204026331840977",
+    "id": "tweet_KellieMeyerNews_2224444064707602209",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "President Trump is playing a live video of the Lincoln Memorial reflecting pool filling up for reporters in the Oval Office.",
     "translated_text": "特朗普总统正在椭圆形办公室向记者播放林肯纪念堂倒影池的现场视频。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/4777204026331840977",
-    "timestamp": "2026-06-04T20:10:49.952463+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/2224444064707602209",
+    "timestamp": "2026-06-04T22:25:51.832103+00:00",
     "original_time": "2026-06-04T19:23:52+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_4262999215193107163",
+    "id": "tweet_KellieMeyerNews_-5090456865737245365",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "There are major concerns around the climate, but beyond that critics question the need for a move like this right now.\n \nRenewable energy has produced more electricity than coal for the first time on record in 2025, according to the World Economic Forum. \n \nIncreases in solar and",
@@ -465,21 +573,366 @@
       "c7ccb25ad2619a4a.jpg",
       "4d475b67dff4a12a.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/4262999215193107163",
-    "timestamp": "2026-06-04T20:10:50.732197+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-5090456865737245365",
+    "timestamp": "2026-06-04T22:25:52.081274+00:00",
     "original_time": "2026-06-04T19:21:52+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_5099621551967351667",
+    "id": "tweet_geonews_urdu_-6669152398841709347",
     "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "SOON: President Trump’s coal announcements. He is set to announce around $700 million in federal funding for the coal industry. The energy source has been in decline for nearly two decades. Our report on@NewsNationwith@NicholeBerlie",
-    "translated_text": "即将到来：特朗普总统的煤炭公告。他将宣布为煤炭行业提供约 7 亿美元的联邦资金。近二十年来，能源一直在减少。我们对@NewsNation 和@NicholeBerlie 的报道",
+    "username": "geonews_urdu",
+    "text": "ایران اور روس کے درمیان جوہری شعبے میں تعاون کیلئے 25 ارب ڈالر کا معاہدہ",
+    "translated_text": "伊朗与俄罗斯签署价值250亿美元的核领域合作协议",
     "images": [
-      "0e73ba7390fa26f2.jpg"
+      "a0efcdaff90651d0.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/5099621551967351667",
-    "timestamp": "2026-06-04T20:10:51.534217+00:00",
-    "original_time": "2026-06-04T18:53:59+00:00"
+    "url": "https://x.com/geonews_urdu/status/-6669152398841709347",
+    "timestamp": "2026-06-04T22:26:42.790849+00:00",
+    "original_time": "2026-06-04T22:16:38+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-444063329052867020",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The wait is over for national football fans; the Pakistan team has finally achieved success on the football field after 961 days",
+    "translated_text": "国足球迷的等待已经结束了；巴基斯坦队时隔961天终于在足球场上取得成功",
+    "images": [
+      "028aab4f33b369aa.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-444063329052867020",
+    "timestamp": "2026-06-04T22:26:43.902619+00:00",
+    "original_time": "2026-06-04T21:38:55+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_803445088164281308",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Russian President's Response to Indian Journalist's Question on Pakistan",
+    "translated_text": "俄罗斯总统回应印度记者有关巴基斯坦的问题",
+    "images": [
+      "f28980347219bd9c.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/803445088164281308",
+    "timestamp": "2026-06-04T22:26:44.427111+00:00",
+    "original_time": "2026-06-04T21:27:18+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4796244799043192621",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Despite the announcement of a ceasefire, Israel's attacks on Lebanon could not be stopped",
+    "translated_text": "尽管宣布停火，以色列对黎巴嫩的袭击却无法停止",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/4796244799043192621",
+    "timestamp": "2026-06-04T22:26:45.157473+00:00",
+    "original_time": "2026-06-04T21:26:20+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-2221988979963375584",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "America will no longer wage war against Iran.",
+    "translated_text": "美国将不再对伊朗发动战争。",
+    "images": [
+      "dd1fd5022a633ba1.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-2221988979963375584",
+    "timestamp": "2026-06-04T22:26:45.865812+00:00",
+    "original_time": "2026-06-04T20:52:56+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-8661526587955373654",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Electricity has been made costlier by one rupee and 19 paisas per unit for Karachi including the entire country",
+    "translated_text": "卡拉奇（包括整个国家）的电费每度上涨 1 卢比和 19 派萨",
+    "images": [
+      "99c0f56da4c063a8.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8661526587955373654",
+    "timestamp": "2026-06-04T22:26:46.375755+00:00",
+    "original_time": "2026-06-04T20:34:52+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-1223359838355196732",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The relationship between Pakistan and the United States spans eight decades, Prime Minister Muhammad Shehbaz Sharif",
+    "translated_text": "巴基斯坦总理穆罕默德·谢赫巴兹·谢里夫表示，巴基斯坦和美国的关系跨越了八年",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/-1223359838355196732",
+    "timestamp": "2026-06-04T22:26:48.862940+00:00",
+    "original_time": "2026-06-04T18:21:27+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1037469190843746456",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Natalie Baker's Address at the Event Commemorating the 250th Anniversary of American Independence in Islamabad",
+    "translated_text": "娜塔莉·贝克在伊斯兰堡纪念美国独立 250 周年活动上的讲话",
+    "images": [
+      "b276046714b5e362.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/1037469190843746456",
+    "timestamp": "2026-06-04T22:26:49.718826+00:00",
+    "original_time": "2026-06-04T18:21:07+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_9203985622941769857",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "What’s behind the allegations of rigging in Gilgit-Baltistan?",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦的操纵指控背后的原因是什么？",
+    "images": [
+      "70756a99ee01faea.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/9203985622941769857",
+    "timestamp": "2026-06-04T22:26:50.156636+00:00",
+    "original_time": "2026-06-04T18:18:00+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-5526792972891779206",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Who needs a political engineer in Azad Kashmir?",
+    "translated_text": "谁需要自由克什米尔的政治工程师？",
+    "images": [
+      "965d66861933c7dd.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-5526792972891779206",
+    "timestamp": "2026-06-04T22:26:51.312167+00:00",
+    "original_time": "2026-06-04T18:17:33+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-1221403079419487772",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Who is the obstacle in the meeting with Imran Khan?",
+    "translated_text": "谁是与伊姆兰·汗会面的障碍？",
+    "images": [
+      "32cf079b1e237a7c.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-1221403079419487772",
+    "timestamp": "2026-06-04T22:26:53.157604+00:00",
+    "original_time": "2026-06-04T18:17:27+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4201904452319918114",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Will the government's credibility be maintained after PTI's senators and members exit the National Assembly?",
+    "translated_text": "PTI参议员和议员退出国民议会后，政府的信誉还能维持吗？",
+    "images": [
+      "089df3f023c69af3.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/4201904452319918114",
+    "timestamp": "2026-06-04T22:26:53.766994+00:00",
+    "original_time": "2026-06-04T18:17:22+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-7273512727977243208",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Are PTI Gilgit-Baltistan contesting the elections or not?  \nMalik Amir Dogar has revealed",
+    "translated_text": "PTI 吉尔吉特-巴尔蒂斯坦是否参加选举？  \n马利克·阿米尔·多加尔透露",
+    "images": [
+      "c9fe03d7b5d8855d.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7273512727977243208",
+    "timestamp": "2026-06-04T22:26:54.524003+00:00",
+    "original_time": "2026-06-04T18:17:17+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-5349340416565304058",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Motorway Case; Praise for Pakistan's Justice System on Global Level from Elon Musk",
+    "translated_text": "高速公路案例；埃隆·马斯克对巴基斯坦全球司法系统的赞扬",
+    "images": [
+      "669ab3f91db06552.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-5349340416565304058",
+    "timestamp": "2026-06-04T22:26:59.620543+00:00",
+    "original_time": "2026-06-04T11:11:10+00:00"
+  },
+  {
+    "id": "article_b76394141616",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz calls export-led growth top priority, urges NTC to facilitate investors",
+    "translated_title": "谢巴兹总理称出口导向型增长为首要任务，敦促国家贸易委员会为投资者提供便利",
+    "url": "https://www.dawn.com/news/2005209/pm-shehbaz-calls-export-led-growth-top-priority-urges-ntc-to-facilitate-investors",
+    "timestamp": "2026-06-04T22:28:24.173500+00:00",
+    "original_time": "2026-06-04T22:41:59+05:00"
+  },
+  {
+    "id": "article_89e0f6ea566b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Democrats seek Senate Republican support to limit Trump’s war powers",
+    "translated_title": "民主党寻求参议院共和党人的支持以限制特朗普的战争权力",
+    "url": "https://www.dawn.com/news/2005214/democrats-seek-senate-republican-support-to-limit-trumps-war-powers",
+    "timestamp": "2026-06-04T22:29:51.165027+00:00",
+    "original_time": "2026-06-04T23:37:55+05:00"
+  },
+  {
+    "id": "article_3e4ff7407c08",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2004972/6-dead-as-dust-storm-rain-batter-shaheed-benazirabad",
+    "timestamp": "2026-06-04T22:30:11.960416+00:00",
+    "original_time": "2026-06-04T22:30:11.960376+00:00"
+  },
+  {
+    "id": "article_ae7f69dc5e72",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan upstage Australia for 2-1 ODI series win",
+    "translated_title": "巴基斯坦队以2-1击败澳大利亚队赢得ODI系列赛",
+    "url": "https://www.dawn.com/news/2005169/pakistan-upstage-australia-for-2-1-odi-series-win",
+    "timestamp": "2026-06-04T22:31:27.838961+00:00",
+    "original_time": "2026-06-04T16:48:52+05:00"
+  },
+  {
+    "id": "article_f99c1bb5d1d8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2004950/ogdcl-makes-significant-oil-gas-discovery-in-sindhs-sanghar-district",
+    "timestamp": "2026-06-04T22:31:48.504804+00:00",
+    "original_time": "2026-06-04T22:31:48.504780+00:00"
+  },
+  {
+    "id": "article_860cae2c0268",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz directs launch of pilot for proposed automated tax collection system in Islamabad",
+    "translated_title": "谢赫巴兹总理指示在伊斯兰堡启动拟议的自动税收系统试点",
+    "url": "https://www.dawn.com/news/2005199/pm-shehbaz-directs-launch-of-pilot-for-proposed-automated-tax-collection-system-in-islamabad",
+    "timestamp": "2026-06-04T22:32:17.018522+00:00",
+    "original_time": "2026-06-04T19:56:52+05:00"
+  },
+  {
+    "id": "article_c2bc3852fac1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz hails Islamabad’s ‘true and special relationship’ with Washington at event marking US 250th anniversary",
+    "translated_title": "谢赫巴兹总理在纪念美国建国 250 周年的活动中赞扬伊斯兰堡与华盛顿的“真实而特殊的关系”",
+    "url": "https://www.dawn.com/news/2005211/pm-shehbaz-hails-islamabads-true-and-special-relationship-with-washington-at-event-marking-us-250th-anniversary",
+    "timestamp": "2026-06-04T22:32:26.240600+00:00",
+    "original_time": "2026-06-04T22:29:26+05:00"
+  },
+  {
+    "id": "article_8110cb012c1c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Noor Mukadam case: SC dismisses Zahir Jaffer's review plea, upholds death sentence",
+    "translated_title": "努尔·穆卡丹案：最高法院驳回查希尔·贾弗的复核请求，维持死刑",
+    "url": "https://www.dawn.com/news/2005168/noor-mukadam-case-sc-dismisses-zahir-jaffers-review-plea-upholds-death-sentence",
+    "timestamp": "2026-06-04T22:32:43.433934+00:00",
+    "original_time": "2026-06-04T16:13:24+05:00"
+  },
+  {
+    "id": "article_09d4553e1b37",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/1984584/tracking-ihl-violations-in-the-us-israel-war-on-iran",
+    "timestamp": "2026-06-04T22:33:05.300065+00:00",
+    "original_time": "2026-06-04T22:33:05.300036+00:00"
+  },
+  {
+    "id": "article_c09dee7cc5b0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "India sees 'perfect complimentarity' with Venezuela in energy trade amid Gulf crisis",
+    "translated_title": "印度认为海湾危机期间与委内瑞拉在能源贸易方面“完美互补”",
+    "url": "https://www.dawn.com/news/2005170/india-sees-perfect-complimentarity-with-venezuela-in-energy-trade-amid-gulf-crisis",
+    "timestamp": "2026-06-04T22:33:18.298658+00:00",
+    "original_time": "2026-06-04T16:28:32+05:00"
+  },
+  {
+    "id": "article_f24bb96fbfcd",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Nvidia CEO mounts charm push in South Korea with TV talk show, baseball appearances",
+    "translated_title": "英伟达首席执行官通过电视脱口秀和棒球比赛在韩国提升魅力",
+    "url": "https://www.dawn.com/news/2005165/nvidia-ceo-mounts-charm-push-in-south-korea-with-tv-talk-show-baseball-appearances",
+    "timestamp": "2026-06-04T22:33:24.536010+00:00",
+    "original_time": "2026-06-04T16:04:48+05:00"
+  },
+  {
+    "id": "article_c80358b1879d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "SHC orders protection for newlywed Jacobabad couple after angry relatives torch village",
+    "translated_title": "愤怒的亲戚火烧村庄后，SHC 下令保护新婚的雅各布巴德夫妇",
+    "url": "https://www.dawn.com/news/2005182/shc-orders-protection-for-newlywed-jacobabad-couple-after-angry-relatives-torch-village",
+    "timestamp": "2026-06-04T22:33:47.591130+00:00",
+    "original_time": "2026-06-04T17:57:47+05:00"
+  },
+  {
+    "id": "article_8d9f6e55a1c3",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "At Ghizer rally, Bilawal urges voters to give PPP ‘heavy mandate’ to safeguard region’s rights",
+    "translated_title": "在吉泽集会上，比拉瓦尔敦促选民给予人民党“重大授权”以维护地区权利",
+    "url": "https://www.dawn.com/news/2005196/at-ghizer-rally-bilawal-urges-voters-to-give-ppp-heavy-mandate-to-safeguard-regions-rights",
+    "timestamp": "2026-06-04T22:34:37.236709+00:00",
+    "original_time": "2026-06-04T19:30:29+05:00"
+  },
+  {
+    "id": "article_22958d125a4a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005033/lawyers-cant-be-suspended-for-arguing-cases-during-strike-fcc",
+    "timestamp": "2026-06-04T22:35:06.146202+00:00",
+    "original_time": "2026-06-04T22:35:06.146178+00:00"
+  },
+  {
+    "id": "article_79dd50724a05",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PTI leaders once again barred from meeting Imran Khan at Adiala jail",
+    "translated_title": "PTI 领导人再次被禁止在阿迪亚拉监狱会见伊姆兰·汗",
+    "url": "https://www.dawn.com/news/2005201/pti-leaders-once-again-barred-from-meeting-imran-khan-at-adiala-jail",
+    "timestamp": "2026-06-04T22:35:25.759692+00:00",
+    "original_time": "2026-06-04T20:37:10+05:00"
+  },
+  {
+    "id": "article_23e14df7ec2b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Security forces kill 4 terrorists in separate KP operations: ISPR",
+    "translated_title": "ISPR：安全部队在金伯利进程单独行动中击毙 4 名恐怖分子",
+    "url": "https://www.dawn.com/news/2005207/security-forces-kill-4-terrorists-in-separate-kp-operations-ispr",
+    "timestamp": "2026-06-04T22:35:29.483655+00:00",
+    "original_time": "2026-06-04T21:26:20+05:00"
+  },
+  {
+    "id": "article_e8d5929db4b7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Vast astronaut mission kicks off commercial race to replace ISS",
+    "translated_title": "大规模宇航员任务启动取代国际空间站的商业竞赛",
+    "url": "https://www.dawn.com/news/2005177/vast-astronaut-mission-kicks-off-commercial-race-to-replace-iss",
+    "timestamp": "2026-06-04T22:36:06.421590+00:00",
+    "original_time": "2026-06-04T17:21:36+05:00"
+  },
+  {
+    "id": "article_b5e9af76a1e4",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Inquiry uncovers over 500 suspicious degrees, financial irregularities at KP's Gomal University",
+    "translated_title": "调查发现 KP 戈马尔大学 500 多个可疑学位和财务违规行为",
+    "url": "https://www.dawn.com/news/2005202/inquiry-uncovers-over-500-suspicious-degrees-financial-irregularities-at-kps-gomal-university",
+    "timestamp": "2026-06-04T22:36:22.468526+00:00",
+    "original_time": "2026-06-04T22:08:00+05:00"
   }
 ]
