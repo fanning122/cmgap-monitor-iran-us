@@ -1,20 +1,84 @@
 [
   {
+    "id": "tweet_mb_ghalibaf_-2422923563981414518",
+    "type": "tweet",
+    "username": "mb_ghalibaf",
+    "text": "1/ They are neither committed to a ceasefire nor believe in dialogue, and by demonstrating through the naval blockade and violation of agreements regarding Lebanon that they only understand the language of power.",
+    "translated_text": "1/他们既不致力于停火，也不相信对话，并通过海上封锁和违反有关黎巴嫩的协议来表明他们只听懂强权的语言。",
+    "images": [],
+    "url": "https://x.com/mb_ghalibaf/status/-2422923563981414518",
+    "timestamp": "2026-06-07T16:17:32.526357+00:00",
+    "original_time": "2026-06-07T16:02:13+00:00"
+  },
+  {
+    "id": "tweet_mb_ghalibaf_-4560184973679745519",
+    "type": "tweet",
+    "username": "mb_ghalibaf",
+    "text": "2/ The naval blockade against the Iranian nation and America's green light today to the Zionist regime turn American and regime bases and assets in the region into legitimate targets. The hand of our armed forces is open, as always.",
+    "translated_text": "2/ 对伊朗国家的海上封锁以及美国今天向犹太复国主义政权开绿灯，使美国及其政权在该地区的基地和资产成为合法目标。我们武装部队的手一如既往地张开。",
+    "images": [],
+    "url": "https://x.com/mb_ghalibaf/status/-4560184973679745519",
+    "timestamp": "2026-06-07T16:17:33.160482+00:00",
+    "original_time": "2026-06-07T16:02:13+00:00"
+  },
+  {
     "id": "tweet_AJENews_0",
     "type": "tweet",
     "username": "AJENews",
     "text": "",
     "translated_text": "",
     "images": [
-      "5ca7b040d51787e5.jpg",
+      "24e420b18f148ef8.jpg",
       "9b20f961c2ada6de.svg"
     ],
     "url": "https://x.com/AJENews/status/0",
-    "timestamp": "2026-06-07T14:55:00.256957+00:00",
+    "timestamp": "2026-06-07T16:17:48.003979+00:00",
     "original_time": "2026-06-07T13:10:16+00:00"
   },
   {
-    "id": "tweet_AJENews_-4464282494333157931",
+    "id": "tweet_AJENews_-2317922642786290258",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Israeli drone strike kills at least four Palestinians in Gaza CityLIVE updates:https://aje.news/cz9tir?update=4634246…",
+    "translated_text": "突发事件：以色列无人机袭击导致加沙城至少四名巴勒斯坦人死亡实时更新：https://aje.news/cz9tir?update=4634246…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "b2f651a0dd52a1fc.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-2317922642786290258",
+    "timestamp": "2026-06-07T16:17:48.362031+00:00",
+    "original_time": "2026-06-07T15:15:54+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-8406331360248510321",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Ukraine's President Volodymyr Zelenskyy said he was in Britain for bilateral talks with PM Keir Starmer, as well as an E3-plus-Ukraine format with Starmer, French President Emmanuel Macron and Germany Chancellor Friedrich Merz.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：乌克兰总统弗拉基米尔·泽连斯基表示，他正在英国与总理基尔·斯塔默进行双边会谈，并与斯塔默、法国总统埃马纽埃尔·马克龙和德国总理弗里德里希·梅尔茨进行 E3 加乌克兰的形式。更多信息请访问 http://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "939c4e02c6977b87.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-8406331360248510321",
+    "timestamp": "2026-06-07T16:17:49.034111+00:00",
+    "original_time": "2026-06-07T15:15:14+00:00"
+  },
+  {
+    "id": "tweet_AJENews_4627606765355490161",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Iranian lawmaker Ebrahim Rezaei has said in a social media post that Tehran will give a 'painful response' to Israel’s attack against Lebanon's Beirut.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：伊朗议员易卜拉欣·雷扎伊在社交媒体帖子中表示，德黑兰将对以色列袭击黎巴嫩贝鲁特做出“痛苦的回应”。更多信息请访问http://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "83f586e293a2e26f.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/4627606765355490161",
+    "timestamp": "2026-06-07T16:17:49.443638+00:00",
+    "original_time": "2026-06-07T14:58:40+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-2354597263175536256",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Iran will 'deliver painful response' after Israeli attack on Beirut, warns Iranian lawmakerLIVE updates:https://aje.news/cz9tir?update=4634186…",
@@ -23,54 +87,53 @@
       "7f1a451786c84548.svg",
       "b274814507e42769.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-4464282494333157931",
-    "timestamp": "2026-06-07T14:55:00.966164+00:00",
+    "url": "https://x.com/AJENews/status/-2354597263175536256",
+    "timestamp": "2026-06-07T16:17:50.045070+00:00",
     "original_time": "2026-06-07T14:54:31+00:00"
   },
   {
-    "id": "tweet_AJENews_8262091962590413073",
+    "id": "tweet_AJENews_7887806836095438905",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump calls for more ‘surgical’ strikes on LebanonLIVE updates:https://aje.news/cz9tir?update=4634160…",
-    "translated_text": "突发新闻：特朗普呼吁对黎巴嫩进行更多“外科手术式”打击实时更新：https://aje.news/cz9tir?update=4634160…",
+    "text": "BREAKING: Teenager wounded by Israeli gunfire in Balata camp in the occupied West BankLIVE updates:https://aje.news/cz9tir?update=4633578…",
+    "translated_text": "突发新闻：在被占领的约旦河西岸巴拉塔营地，一名青少年被以色列枪杀。实时更新：https://aje.news/cz9tir?update=4633578…",
     "images": [
       "7f1a451786c84548.svg",
-      "45fb5247de797c74.jpg"
+      "5df88e527e35a791.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8262091962590413073",
-    "timestamp": "2026-06-07T14:55:01.518816+00:00",
-    "original_time": "2026-06-07T14:34:49+00:00"
+    "url": "https://x.com/AJENews/status/7887806836095438905",
+    "timestamp": "2026-06-07T16:17:52.435583+00:00",
+    "original_time": "2026-06-07T12:15:40+00:00"
   },
   {
-    "id": "tweet_AJENews_5936358861745576055",
+    "id": "tweet_AJENews_-2510679425529323566",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: OPEC+ raises July oil output quota as Strait of Hormuz crisis bitesLIVE updates:https://aje.news/cz9tir?update=4633974…",
-    "translated_text": "更新：随着霍尔木兹海峡危机的爆发，欧佩克+提高了 7 月石油产量配额实时更新：https://aje.news/cz9tir?update=4633974…",
+    "text": "BREAKING: Israeli attacks kill 9 people across GazaLIVE updates:https://aje.news/cz9tir?update=4633673…",
+    "translated_text": "突发事件：以色列袭击导致加沙地带 9 人死亡 LIVE 更新：https://aje.news/cz9tir?update=4633673…",
     "images": [
       "7f1a451786c84548.svg",
-      "28eeefb47aab5032.jpg"
+      "b7bc1cbaf7244691.jpg"
     ],
-    "url": "https://x.com/AJENews/status/5936358861745576055",
-    "timestamp": "2026-06-07T14:55:02.305549+00:00",
-    "original_time": "2026-06-07T14:20:22+00:00"
+    "url": "https://x.com/AJENews/status/-2510679425529323566",
+    "timestamp": "2026-06-07T16:17:53.042388+00:00",
+    "original_time": "2026-06-07T11:55:28+00:00"
   },
   {
-    "id": "tweet_AJENews_-1107714594348137541",
+    "id": "tweet_AJENews_2530287686657851541",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel’s war on Lebanon kills at least 3,613 since March 2LIVE updates:https://aje.news/cz9tir?update=4634070…",
-    "translated_text": "突发新闻：自 3 月 2 日以来，以色列对黎巴嫩的战争造成至少 3,613 人死亡实时更新：https://aje.news/cz9tir?update=4634070...",
+    "text": "BREAKING: Death toll in Israel's war on Gaza rises to at least 72,971LIVE updates:https://aje.news/cz9tir?update=4633504…",
+    "translated_text": "突发新闻：以色列加沙战争的死亡人数上升至至少 72,971 实时更新：https://aje.news/cz9tir?update=4633504…",
     "images": [
-      "7f1a451786c84548.svg",
-      "0c2a8b1798d89fd7.jpg"
+      "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-1107714594348137541",
-    "timestamp": "2026-06-07T14:55:02.983618+00:00",
-    "original_time": "2026-06-07T14:16:08+00:00"
+    "url": "https://x.com/AJENews/status/2530287686657851541",
+    "timestamp": "2026-06-07T16:17:53.325016+00:00",
+    "original_time": "2026-06-07T11:50:17+00:00"
   },
   {
-    "id": "tweet_AJENews_-7445456760906800036",
+    "id": "tweet_AJENews_-3002269923329752969",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: At least five killed and a dozen wounded in Israeli attack on police post in southern GazaLIVE updates:https://aje.news/cz9tir?update=4633620…",
@@ -79,12 +142,12 @@
       "7f1a451786c84548.svg",
       "0df6c3e89a702fc5.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-7445456760906800036",
-    "timestamp": "2026-06-07T14:55:06.398149+00:00",
+    "url": "https://x.com/AJENews/status/-3002269923329752969",
+    "timestamp": "2026-06-07T16:17:53.692536+00:00",
     "original_time": "2026-06-07T11:40:50+00:00"
   },
   {
-    "id": "tweet_AJENews_7411570864139177973",
+    "id": "tweet_AJENews_4452843196155704057",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Israel announces forced evacuation orders for Tyre city, southern LebanonLIVE updates:https://aje.news/cz9tir?update=4633527…",
@@ -93,25 +156,26 @@
       "7f1a451786c84548.svg",
       "5066079fb7b619df.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7411570864139177973",
-    "timestamp": "2026-06-07T14:55:07.514434+00:00",
+    "url": "https://x.com/AJENews/status/4452843196155704057",
+    "timestamp": "2026-06-07T16:17:54.224325+00:00",
     "original_time": "2026-06-07T10:55:34+00:00"
   },
   {
-    "id": "tweet_AJENews_3473243325013878162",
+    "id": "tweet_AJENews_2328300156360042232",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Israeli warplanes carry out attacks in southern Lebanon killing one personLIVE updates:https://aje.news/cz9tir?update=4633228…",
     "translated_text": "突发事件：以色列战机在黎巴嫩南部发动袭击，造成一人死亡实时更新：https://aje.news/cz9tir?update=4633228…",
     "images": [
-      "7f1a451786c84548.svg"
+      "7f1a451786c84548.svg",
+      "0cb97d0df08f2d5e.jpg"
     ],
-    "url": "https://x.com/AJENews/status/3473243325013878162",
-    "timestamp": "2026-06-07T14:55:08.135710+00:00",
+    "url": "https://x.com/AJENews/status/2328300156360042232",
+    "timestamp": "2026-06-07T16:17:54.796257+00:00",
     "original_time": "2026-06-07T10:30:23+00:00"
   },
   {
-    "id": "tweet_AJENews_4105716590182505917",
+    "id": "tweet_AJENews_-505157483396692254",
     "type": "tweet",
     "username": "AJENews",
     "text": "Iran’s ambassador to Mexico, Abolfazl Pasandideh, expressed concern over the reported denial of US visas to 15 members of Iran’s 2026 World Cup delegation and called on FIFA to help ensure the team’s full participation in the tournament.",
@@ -119,12 +183,12 @@
     "images": [
       "13ccdfdda16a2f93.jpg"
     ],
-    "url": "https://x.com/AJENews/status/4105716590182505917",
-    "timestamp": "2026-06-07T14:55:08.375609+00:00",
+    "url": "https://x.com/AJENews/status/-505157483396692254",
+    "timestamp": "2026-06-07T16:17:54.965570+00:00",
     "original_time": "2026-06-07T09:57:02+00:00"
   },
   {
-    "id": "tweet_AJENews_1372787167655023754",
+    "id": "tweet_AJENews_7426670052266895192",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Palestinian Islamic Jihad commends shooting attacks in Israel as 'a natural consequence of criminal policies'LIVE updates:https://aje.news/cz9tir?update=4633417…",
@@ -133,54 +197,38 @@
       "7f1a451786c84548.svg",
       "2216dfbcc1a10a28.jpg"
     ],
-    "url": "https://x.com/AJENews/status/1372787167655023754",
-    "timestamp": "2026-06-07T14:55:09.878868+00:00",
+    "url": "https://x.com/AJENews/status/7426670052266895192",
+    "timestamp": "2026-06-07T16:17:55.511616+00:00",
     "original_time": "2026-06-07T09:50:27+00:00"
   },
   {
-    "id": "tweet_AJENews_418584322935341648",
+    "id": "tweet_CBSNews_-5877193143321268387",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "President Volodymyr Zelenskyy says Russia carried out an “extremely vile” attack near Ukraine’s Chornobyl nuclear plant, claiming a Russian Shahed drone struck a building at the Centralised Spent Fuel Storage Facility.More onhttp://Aljazeera.com",
-    "translated_text": "总统弗拉基米尔·泽连斯基表示，俄罗斯在乌克兰切尔诺贝利核电站附近发动了一次“极其卑鄙”的袭击，并声称一架俄罗斯沙希德无人机击中了集中乏燃料储存设施的一座建筑物。更多信息请访问http://Aljazeera.com",
+    "username": "CBSNews",
+    "text": "Approved 20 years ago as a diabetes treatment, GLP-1 drugs have been found to help patients reduce weight, changing the lives of more than 30 million people in the U.S. But there also have been troubling side effects reported.",
+    "translated_text": "GLP-1 药物于 20 年前被批准作为糖尿病治疗药物，被发现可以帮助患者减轻体重，改变了美国超过 3000 万人的生活，但也有报道称存在令人不安的副作用。",
     "images": [
-      "7f1a451786c84548.svg",
-      "06172dc9c1bf59bd.jpg"
+      "bede56489d1a8573.jpg"
     ],
-    "url": "https://x.com/AJENews/status/418584322935341648",
-    "timestamp": "2026-06-07T14:55:11.219431+00:00",
-    "original_time": "2026-06-07T09:43:05+00:00"
+    "url": "https://x.com/CBSNews/status/-5877193143321268387",
+    "timestamp": "2026-06-07T16:18:51.030611+00:00",
+    "original_time": "2026-06-07T16:00:01+00:00"
   },
   {
-    "id": "tweet_AJENews_3539805943193147583",
+    "id": "tweet_CBSNews_-5946062872208554546",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Hamas praises shooting attacks in central Israel as ‘heroic’, says 'resistance' against Israeli 'crimes' will continueLIVE updates:https://aje.news/cz9tir?update=4633389…",
-    "translated_text": "突发新闻：哈马斯称赞以色列中部的枪击袭击是“英勇的”，表示将继续“抵抗”以色列的“罪行”实时更新：https://aje.news/cz9tir?update=4633389…",
+    "username": "CBSNews",
+    "text": "With the unemployment rate for young workers about twice as high as the national average, \"Sunday Morning\" talks with recent graduates from across the country about how AI is affecting both their prospects and the hiring process itself.",
+    "translated_text": "由于年轻工人的失业率约为全国平均水平的两倍，《周日早晨》与来自全国各地的应届毕业生讨论了人工智能如何影响他们的前景和招聘过程本身。",
     "images": [
-      "7f1a451786c84548.svg",
-      "629bf077de489429.jpg"
+      "de976784b1620fd3.jpg"
     ],
-    "url": "https://x.com/AJENews/status/3539805943193147583",
-    "timestamp": "2026-06-07T14:55:12.620617+00:00",
-    "original_time": "2026-06-07T09:30:09+00:00"
+    "url": "https://x.com/CBSNews/status/-5946062872208554546",
+    "timestamp": "2026-06-07T16:18:51.195052+00:00",
+    "original_time": "2026-06-07T15:00:00+00:00"
   },
   {
-    "id": "tweet_AJENews_-4494805230158884855",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Two wounded in shooting attack are in serious condition, Israeli medics sayLIVE updates:https://aje.news/cz9tir?update=4633342…",
-    "translated_text": "突发：以色列医务人员表示，枪击事件中的两名伤者情况严重，实时更新：https://aje.news/cz9tir?update=4633342…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "0e4ed454991c9525.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4494805230158884855",
-    "timestamp": "2026-06-07T14:55:13.284689+00:00",
-    "original_time": "2026-06-07T09:20:24+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_7293581656043914466",
+    "id": "tweet_CBSNews_7289652328466121185",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A Palestinian man with Israeli citizenship went on a shooting rampage in several towns in central Israel on Sunday, killing one person and wounding five others, according to Israeli police. The attacker was killed by police.",
@@ -188,12 +236,12 @@
     "images": [
       "0a8116d02a95990d.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/7293581656043914466",
-    "timestamp": "2026-06-07T14:56:06.124928+00:00",
+    "url": "https://x.com/CBSNews/status/7289652328466121185",
+    "timestamp": "2026-06-07T16:18:51.416257+00:00",
     "original_time": "2026-06-07T14:15:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_2101566709847635282",
+    "id": "tweet_CBSNews_7307194906046357737",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Prediction markets offer the lure of fast money. Young men say they like their odds.",
@@ -201,12 +249,12 @@
     "images": [
       "789169ebf9517ba7.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2101566709847635282",
-    "timestamp": "2026-06-07T14:56:06.327116+00:00",
+    "url": "https://x.com/CBSNews/status/7307194906046357737",
+    "timestamp": "2026-06-07T16:18:51.641997+00:00",
     "original_time": "2026-06-07T13:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_508482822712131590",
+    "id": "tweet_CBSNews_7129505725897024091",
     "type": "tweet",
     "username": "CBSNews",
     "text": "5 taken to the hospital after strong winds at NCAA tournament in West Virginia",
@@ -214,38 +262,12 @@
     "images": [
       "6670d0eb76eb6472.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/508482822712131590",
-    "timestamp": "2026-06-07T14:56:06.906024+00:00",
+    "url": "https://x.com/CBSNews/status/7129505725897024091",
+    "timestamp": "2026-06-07T16:18:51.829482+00:00",
     "original_time": "2026-06-07T12:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8052995145379161356",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Second Facebook privacy settlement payment is coming soon. Here's what to know.",
-    "translated_text": "第二次 Facebook 隐私和解付款即将到来。以下是需要了解的内容。",
-    "images": [
-      "117305b56b588b15.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8052995145379161356",
-    "timestamp": "2026-06-07T14:56:07.137873+00:00",
-    "original_time": "2026-06-07T10:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-4464329530571703972",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A veteran didn't think much of her forgetfulness, until her arm started to shake: \"A life-changing disease\"",
-    "translated_text": "一位退伍军人并没有太在意她的健忘，直到她的手臂开始颤抖：“一种改变生活的疾病”",
-    "images": [
-      "cb501d7d01f28ca3.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-4464329530571703972",
-    "timestamp": "2026-06-07T14:56:07.363051+00:00",
-    "original_time": "2026-06-07T08:00:00+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_2496465536355925889",
+    "id": "tweet_KellieMeyerNews_7806218986983441133",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "WATCH:",
@@ -253,12 +275,12 @@
     "images": [
       "0412b0945d295be7.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/2496465536355925889",
-    "timestamp": "2026-06-07T14:56:41.939743+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/7806218986983441133",
+    "timestamp": "2026-06-07T16:19:22.234370+00:00",
     "original_time": "2026-06-07T13:56:55+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_7935268874740107310",
+    "id": "tweet_KellieMeyerNews_-7697319430746391721",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "The Lincoln Memorial Reflecting pool filling up with water this weekend.",
@@ -266,12 +288,12 @@
     "images": [
       "0ddb04fac1387842.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/7935268874740107310",
-    "timestamp": "2026-06-07T14:56:42.298759+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-7697319430746391721",
+    "timestamp": "2026-06-07T16:19:22.511790+00:00",
     "original_time": "2026-06-07T13:55:03+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_2137723806418082863",
+    "id": "tweet_KellieMeyerNews_589788157725772651",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "One week from today- the UFC fight on the White House South Lawn.",
@@ -279,12 +301,12 @@
     "images": [
       "cc906f37188a79a7.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/2137723806418082863",
-    "timestamp": "2026-06-07T14:56:42.949432+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/589788157725772651",
+    "timestamp": "2026-06-07T16:19:22.804843+00:00",
     "original_time": "2026-06-07T13:38:41+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-8217473658793141890",
+    "id": "tweet_KellieMeyerNews_-7672169515661364968",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Before we took off from our last event in Singapore last Saturday, Sec.@PeteHegsethspoke with the press. \n\nI asked the first question about his speech. I asked if he would say he was taking a softer tone on China than last year. Last year he said a Chinese attack on Taiwan",
@@ -292,8 +314,410 @@
     "images": [
       "c5f2fec024f9fa39.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-8217473658793141890",
-    "timestamp": "2026-06-07T14:56:44.103363+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-7672169515661364968",
+    "timestamp": "2026-06-07T16:19:23.208222+00:00",
     "original_time": "2026-06-07T13:19:54+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_7058380167460866147",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Chief Election Commissioner of Gilgit-Baltistan has directed all ROs of constituencies to issue verified Form 45",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦首席选举专员已指示所有选区选举主任签发经过验证的表格 45",
+    "images": [
+      "4e12516d65ab444f.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/7058380167460866147",
+    "timestamp": "2026-06-07T16:20:05.137553+00:00",
+    "original_time": "2026-06-07T16:04:24+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4466593111310293937",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "In Gilgit-Baltistan, Form 45 is not being provided to the People's Party, PPP Secretary General",
+    "translated_text": "在吉尔吉特-巴尔蒂斯坦，人民党秘书长没有向人民党提供表格 45",
+    "images": [
+      "33cd482f47d0ed69.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/4466593111310293937",
+    "timestamp": "2026-06-07T16:20:05.560285+00:00",
+    "original_time": "2026-06-07T15:56:22+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_2262896080835254418",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "In 15 out of 53 polling stations in JBA 4 Nagar 1, the unofficial preliminary result  \nMohammad Ali Akhtar of the People's Party secures first place with 1997 votes, Ayub Wazir of the Islamic Movement secures second place with 1723 votes",
+    "translated_text": "JBA 4 Nagar 1 53 个投票站中的 15 个投票站的非官方初步结果  \n人民党的穆罕默德·阿里·阿赫塔尔以 1997 票获得第一，伊斯兰运动的阿尤布·瓦齐尔以 1723 票获得第二",
+    "images": [
+      "445c2d6f25961dfa.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/2262896080835254418",
+    "timestamp": "2026-06-07T16:20:06.083473+00:00",
+    "original_time": "2026-06-07T15:34:03+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_9159704709856551511",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "I have requested the Election Commissioner that the election has already taken place, now issue Form 45 to us, Qamar Zaman Kaira",
+    "translated_text": "我已请求选举专员选举已经举行，现在向我们 Qamar Zaman Kaira 发出表格 45",
+    "images": [
+      "55013e6f980ea898.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/9159704709856551511",
+    "timestamp": "2026-06-07T16:20:06.573601+00:00",
+    "original_time": "2026-06-07T15:28:18+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5952642057597553793",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Elections held in a peaceful environment across Gilgit-Baltistan, Chief Election Commissioner",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦首席选举专员在和平的环境中举行了选举",
+    "images": [
+      "8e1525994b8ec6fb.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5952642057597553793",
+    "timestamp": "2026-06-07T16:20:07.087979+00:00",
+    "original_time": "2026-06-07T15:26:30+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4407995013341653889",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Those who have a federal government keep winning elections in Gilgit-Baltistan; Shehzad Iqbal's analysis",
+    "translated_text": "那些拥有联邦政府的人不断赢得吉尔吉特-巴尔蒂斯坦的选举；谢赫扎德·伊克巴尔的分析",
+    "images": [
+      "5b7fc5893ac8be49.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/4407995013341653889",
+    "timestamp": "2026-06-07T16:20:07.703619+00:00",
+    "original_time": "2026-06-07T15:14:16+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_6037618566233066856",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The election results in Gilgit-Baltistan and Azad Kashmir are always those that suit the federal government, says Sohail Warraich.",
+    "translated_text": "索海尔·瓦莱奇说，吉尔吉特-巴尔蒂斯坦和自由克什米尔的选举结果总是适合联邦政府的。",
+    "images": [
+      "98002a71eea34180.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/6037618566233066856",
+    "timestamp": "2026-06-07T16:20:10.154218+00:00",
+    "original_time": "2026-06-07T13:22:04+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-2557284260778527414",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Polling has ended in the general elections of Gilgit-Baltistan. What was the situation like throughout the day? Find out in this report.",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦大选投票已经结束。一整天的情况怎么样？在这份报告中找出答案。",
+    "images": [
+      "0f507e951c59303a.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-2557284260778527414",
+    "timestamp": "2026-06-07T16:20:10.800548+00:00",
+    "original_time": "2026-06-07T13:00:49+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-2674478107597217490",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "\"I don't know when the minds of people like Fلک شبیر will come out from women's clothes,\" Hina Parvez's reaction to the singer's statement",
+    "translated_text": "“我不知道什么时候像 Fuck ٩ٌр 这样的人的思想才会从女装中走出来，”希娜·帕尔韦斯 (Hina Parvez) 对歌手声明的反应",
+    "images": [
+      "5b8ecb4df57667b8.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-2674478107597217490",
+    "timestamp": "2026-06-07T16:20:11.318051+00:00",
+    "original_time": "2026-06-07T12:53:35+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-1818705732776777938",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Elections in Gilgit-Baltistan.... Latest Situation in Constituency GBA-7",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦选举...GBA-7 选区最新情况",
+    "images": [
+      "0fa7b25ecb95412e.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-1818705732776777938",
+    "timestamp": "2026-06-07T16:20:11.698151+00:00",
+    "original_time": "2026-06-07T12:50:41+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5419261258734615447",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Polling has ended in the general elections of Gilgit-Baltistan, counting process underway",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦大选投票已结束，计票过程正在进行中",
+    "images": [
+      "3fd657463fe3c7f4.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5419261258734615447",
+    "timestamp": "2026-06-07T16:20:12.223852+00:00",
+    "original_time": "2026-06-07T12:48:46+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_9148509856632318980",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Elections in Gilgit-Baltistan... Latest Situation",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦选举...最新情况",
+    "images": [
+      "2f18f61bef58b1ec.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/9148509856632318980",
+    "timestamp": "2026-06-07T16:20:12.582579+00:00",
+    "original_time": "2026-06-07T12:45:47+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_507822471120280411",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The election remained peaceful overall, with higher women's turnout than men, Chief Election Commissioner",
+    "translated_text": "首席选举专员表示，选举总体上保持和平，女性投票率高于男性",
+    "images": [
+      "230546a6adb6d4ed.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/507822471120280411",
+    "timestamp": "2026-06-07T16:20:13.201102+00:00",
+    "original_time": "2026-06-07T12:38:18+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_7671733100215458307",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Polling for elections to the Gilgit-Baltistan Assembly has ended",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦议会选举投票已经结束",
+    "images": [
+      "c2201f0ecb93e9bf.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/7671733100215458307",
+    "timestamp": "2026-06-07T16:20:13.382745+00:00",
+    "original_time": "2026-06-07T12:14:04+00:00"
+  },
+  {
+    "id": "article_1385f0781b96",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Israel's permanent state of war comes with economic, social costs",
+    "translated_title": "以色列的永久战争状态带来了经济和社会成本",
+    "url": "https://www.dawn.com/news/2005853/israels-permanent-state-of-war-comes-with-economic-social-costs",
+    "timestamp": "2026-06-07T16:21:31.997784+00:00",
+    "original_time": "2026-06-07T14:29:25+05:00"
+  },
+  {
+    "id": "article_cc2f1a8c6662",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005762/israeli-strike-kills-three-soldiers-in-south-lebanon",
+    "timestamp": "2026-06-07T16:22:24.207779+00:00",
+    "original_time": "2026-06-07T16:22:24.207715+00:00"
+  },
+  {
+    "id": "article_22646c265cc2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Bilawal says will meet PM Shehbaz over AJK situation, issues to be resolved through talks",
+    "translated_title": "比拉瓦尔表示将就 AJK 局势与总理谢巴兹会面，问题将通过会谈解决",
+    "url": "https://www.dawn.com/news/2005870/bilawal-says-will-meet-pm-shehbaz-over-ajk-situation-issues-to-be-resolved-through-talks",
+    "timestamp": "2026-06-07T16:22:27.870639+00:00",
+    "original_time": "2026-06-07T16:52:14+05:00"
+  },
+  {
+    "id": "article_f6ca1920facc",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Balochistan CM announces civil award to be conferred on man who helped female doctor after acid attack",
+    "translated_title": "俾路支省CM宣布民事奖将授予在酸袭击后帮助女医生的男子",
+    "url": "https://www.dawn.com/news/2005865/balochistan-cm-announces-civil-award-to-be-conferred-on-man-who-helped-female-doctor-after-acid-attack",
+    "timestamp": "2026-06-07T16:22:44.800566+00:00",
+    "original_time": "2026-06-07T19:45:42+05:00"
+  },
+  {
+    "id": "article_afca97be9c56",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "FIA arrests 2 in Lahore over 'illegal' currency exchange, another 2 for copyright violations",
+    "translated_title": "国际汽联在拉合尔逮捕了 2 名涉嫌“非法”货币兑换的人，另有 2 人因侵犯版权而被捕",
+    "url": "https://www.dawn.com/news/2005849/fia-arrests-2-in-lahore-over-illegal-currency-exchange-another-2-for-copyright-violations",
+    "timestamp": "2026-06-07T16:22:48.347503+00:00",
+    "original_time": "2026-06-07T12:52:42+05:00"
+  },
+  {
+    "id": "article_d18f12d951ef",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Peshawar-Torkham Highway reopens after protests against recent 'targeted attack'",
+    "translated_title": "白沙瓦-托克汉姆高速公路在抗议最近的“有针对性的袭击”后重新开放",
+    "url": "https://www.dawn.com/news/2005858/peshawar-torkham-highway-reopens-after-protests-against-recent-targeted-attack",
+    "timestamp": "2026-06-07T16:23:02.429342+00:00",
+    "original_time": "2026-06-07T16:04:15+05:00"
+  },
+  {
+    "id": "article_c09dee7cc5b0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005170/india-sees-perfect-complimentarity-with-venezuela-in-energy-trade-amid-gulf-crisis",
+    "timestamp": "2026-06-07T16:23:25.656543+00:00",
+    "original_time": "2026-06-07T16:23:25.656502+00:00"
+  },
+  {
+    "id": "article_76a830e745ae",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005546/gul-ahmed-announces-230m-data-centre",
+    "timestamp": "2026-06-07T16:24:08.158192+00:00",
+    "original_time": "2026-06-07T16:24:08.158158+00:00"
+  },
+  {
+    "id": "article_484ed8b3759b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005730/90pc-tb-patients-in-pakistan-afghanistan-suffer-from-depression-study",
+    "timestamp": "2026-06-07T16:25:10.350289+00:00",
+    "original_time": "2026-06-07T16:25:10.350242+00:00"
+  },
+  {
+    "id": "article_898c97a4bccb",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005046/us-house-passes-resolution-calling-for-end-to-war-on-iran-rebuking-trump",
+    "timestamp": "2026-06-07T16:25:52.500000+00:00",
+    "original_time": "2026-06-07T16:25:52.499965+00:00"
+  },
+  {
+    "id": "article_b2aa81660d2a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "One killed, 5 wounded in Israel shooting attacks; suspect dead",
+    "translated_title": "以色列枪击事件造成1人死亡、5人受伤；嫌疑人死亡",
+    "url": "https://www.dawn.com/news/2005859/one-killed-5-wounded-in-israel-shooting-attacks-suspect-dead",
+    "timestamp": "2026-06-07T16:26:02.255991+00:00",
+    "original_time": "2026-06-07T15:10:34+05:00"
+  },
+  {
+    "id": "article_c43a3ef4fd04",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005733/phc-strikes-down-recommendation-to-invalidate-pakistan-post-recruitment",
+    "timestamp": "2026-06-07T16:26:35.703993+00:00",
+    "original_time": "2026-06-07T16:26:35.703957+00:00"
+  },
+  {
+    "id": "article_fa34e5855e04",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "North Korea nuclear programme 'absolutely non-negotiable': Kim Jong Un's sister",
+    "translated_title": "金正恩胞妹：朝鲜核计划“绝对没有谈判余地”",
+    "url": "https://www.dawn.com/news/2005845/north-korea-nuclear-programme-absolutely-non-negotiable-kim-jong-uns-sister",
+    "timestamp": "2026-06-07T16:26:48.753628+00:00",
+    "original_time": "2026-06-07T11:30:42+05:00"
+  },
+  {
+    "id": "article_c1e3d0d677bc",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Constitutional amendment not a concession to be wrested, says AJK SC on presidential reference",
+    "translated_title": "AJK SC 在总统参考意见中表示，宪法修正案不是要争取的让步",
+    "url": "https://www.dawn.com/news/2005860/constitutional-amendment-not-a-concession-to-be-wrested-says-ajk-sc-on-presidential-reference",
+    "timestamp": "2026-06-07T16:27:04.996081+00:00",
+    "original_time": "2026-06-07T17:29:14+05:00"
+  },
+  {
+    "id": "article_f02e149189e1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005712/three-ahmadis-injured-in-chiniot-attack",
+    "timestamp": "2026-06-07T16:27:34.345163+00:00",
+    "original_time": "2026-06-07T16:27:34.345132+00:00"
+  },
+  {
+    "id": "article_98bee114045e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "White House AI policy adviser Krishnan to leave position",
+    "translated_title": "白宫人工智能政策顾问克里希南离职",
+    "url": "https://www.dawn.com/news/2005854/white-house-ai-policy-adviser-krishnan-to-leave-position",
+    "timestamp": "2026-06-07T16:27:57.094845+00:00",
+    "original_time": "2026-06-07T14:01:40+05:00"
+  },
+  {
+    "id": "article_e7a8fa55a6de",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005160/engineered-for-the-future-built-for-pakistans-summers-the-t4-standard-and-the-voxin-promise",
+    "timestamp": "2026-06-07T16:28:16.429100+00:00",
+    "original_time": "2026-06-07T16:28:16.429067+00:00"
+  },
+  {
+    "id": "article_6a360402c4c0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005743/shc-reserves-verdict-on-fate-of-historic-karachi-cotton-exchange-building",
+    "timestamp": "2026-06-07T16:28:56.679944+00:00",
+    "original_time": "2026-06-07T16:28:56.679913+00:00"
+  },
+  {
+    "id": "article_89200dae11d3",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Muslim rights group CAIR sues Virginia schools over student suspensions",
+    "translated_title": "穆斯林权利组织 CAIR 起诉弗吉尼亚州学校停课",
+    "url": "https://www.dawn.com/news/2005851/muslim-rights-group-cair-sues-virginia-schools-over-student-suspensions",
+    "timestamp": "2026-06-07T16:29:04.797051+00:00",
+    "original_time": "2026-06-07T13:34:37+05:00"
+  },
+  {
+    "id": "article_21766f0b693d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005583/budget-2026-27-ecc-expands-bureaucrats-stipend-okays-rs40bn-grants",
+    "timestamp": "2026-06-07T16:29:49.121493+00:00",
+    "original_time": "2026-06-07T16:29:49.121458+00:00"
+  },
+  {
+    "id": "article_2998e46f5b7a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005618/us-iran-exchange-strikes-in-gulf-in-latest-flare-up",
+    "timestamp": "2026-06-07T16:30:15.635656+00:00",
+    "original_time": "2026-06-07T16:30:15.635620+00:00"
+  },
+  {
+    "id": "article_f7c7b13e18c8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "World Cup fever muted in Iran under shadow of war, hardship",
+    "translated_title": "伊朗世界杯热潮因战争和苦难的阴影而消退",
+    "url": "https://www.dawn.com/news/2005850/world-cup-fever-muted-in-iran-under-shadow-of-war-hardship",
+    "timestamp": "2026-06-07T16:30:25.026703+00:00",
+    "original_time": "2026-06-07T12:35:43+05:00"
   }
 ]
