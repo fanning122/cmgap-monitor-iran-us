@@ -1,6 +1,19 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-8093763116924598933",
+    "id": "tweet_ForeignOfficePk_6699381430007958974",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50spoke this evening with Swiss Foreign Minister Ignazio Cassis@IgnazioCassis.\n\nThe two leaders exchanged views on the regional situation and welcomed the encouraging progress toward an understanding",
+    "translated_text": "副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 今晚与瑞士外交部长 Ignazio Cassis@IgnazioCassis 进行了交谈。\n\n两国领导人就地区局势交换了意见，并对在谅解方面取得的令人鼓舞的进展表示欢迎",
+    "images": [
+      "2851cea987e9eaf0.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/6699381430007958974",
+    "timestamp": "2026-06-12T16:17:23.931621+00:00",
+    "original_time": "2026-06-12T16:07:36+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-5584172886228610301",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Pakistanextends its Heartiest felicitations to the Government and people of Russian Federationon the occasion of the Russia Day.@mfa_russia@PakinRussia@RusEmbPakistan",
@@ -11,12 +24,12 @@
       "473a714cee691346.svg",
       "e265f658dc714d35.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-8093763116924598933",
-    "timestamp": "2026-06-12T12:19:33.558769+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-5584172886228610301",
+    "timestamp": "2026-06-12T16:17:25.639680+00:00",
     "original_time": "2026-06-12T10:00:28+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-6897322445666533496",
+    "id": "tweet_ForeignOfficePk_3812994981076740985",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister / Foreign Minister Senator Muhammad Ishaq Dar@MIshaqdar50spoke today with EU High Representative/Vice President Kaja Kallas@kajakallason recent developments regarding United States–Iran understanding. \n\nBoth sides welcomed the progress achieved through",
@@ -24,50 +37,88 @@
     "images": [
       "8f6037b819ce48eb.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-6897322445666533496",
-    "timestamp": "2026-06-12T12:19:34.268305+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/3812994981076740985",
+    "timestamp": "2026-06-12T16:17:26.957696+00:00",
     "original_time": "2026-06-12T09:18:41+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-3626394648324634212",
+    "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Pakistanextends its Heartiest felicitations to the Government and people of the Republic of Philippineson their Independence Day.\n\nHappy Independence day, Philippines!@DFAPHL@PakinPhl",
-    "translated_text": "巴基斯坦在独立日之际向菲律宾共和国政府和人民致以最诚挚的祝贺。\n\n菲律宾独立日快乐！@DFAPHL@PakinPhl",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
     "images": [
-      "dee669a0abb351a1.svg",
-      "745a97736f21a51f.svg",
-      "473a714cee691346.svg",
-      "f62f4dfce0508dd0.jpg"
+      "6563a2848bd30cd7.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-3626394648324634212",
-    "timestamp": "2026-06-12T12:19:34.500809+00:00",
-    "original_time": "2026-06-12T03:34:03+00:00"
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-06-12T16:17:41.393283+00:00",
+    "original_time": "2026-06-12T15:57:15+00:00"
   },
   {
-    "id": "tweet_CMShehbaz_-1217715825888595035",
+    "id": "tweet_CMShehbaz_-8794918790801992266",
+    "type": "tweet",
+    "username": "CMShehbaz",
+    "text": "Amid ongoing intense mediation efforts by Pakistan, we are fully aware of incessant misinformation campaign being waged by those who want to sabotage the peace deal. Setting aside the noise, we can confirm that a final, agreed upon text of the peace deal has been reached and",
+    "translated_text": "在巴基斯坦持续进行的紧张调解努力中，我们充分意识到那些想要破坏和平协议的人不断发起虚假信息运动。撇开噪音不谈，我们可以确认已经达成了最终的、商定的和平协议文本，并且",
+    "images": [],
+    "url": "https://x.com/CMShehbaz/status/-8794918790801992266",
+    "timestamp": "2026-06-12T16:17:56.285426+00:00",
+    "original_time": "2026-06-12T16:13:03+00:00"
+  },
+  {
+    "id": "tweet_CMShehbaz_973711723968323831",
     "type": "tweet",
     "username": "CMShehbaz",
     "text": "Praise be to Allah, this budget has been prepared with great diligence and sincerity, and the welfare and prosperity of Pakistan's great nation has been given utmost priority.",
-    "translated_text": "感谢真主，这份预算是经过非常勤奋和真诚的准备的，巴基斯坦这个伟大国家的福祉和繁荣得到了最优先的考虑。",
+    "translated_text": "感谢真主，这份预算是经过极大的勤奋和诚意制定的，巴基斯坦这个伟大国家的福祉和繁荣得到了最优先的考虑。",
     "images": [],
-    "url": "https://x.com/CMShehbaz/status/-1217715825888595035",
-    "timestamp": "2026-06-12T12:20:02.832737+00:00",
+    "url": "https://x.com/CMShehbaz/status/973711723968323831",
+    "timestamp": "2026-06-12T16:17:57.572147+00:00",
     "original_time": "2026-06-12T09:05:43+00:00"
   },
   {
-    "id": "tweet_PakPMO_-8679266081040042871",
+    "id": "tweet_PakPMO_7653823577719715836",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Islamabad, 12 June 2026\n\nPrime Minister Muhammad Shehbaz Sharif's statement regarding the federal budget.\n\nI express my boundless gratitude to Almighty Allah, through whose grace and mercy, and with the prayers of the nation, we have achieved economic stability, and by virtue of",
+    "translated_text": "伊斯兰堡，2026 年 6 月 12 日\n\n总理穆罕默德·谢赫巴兹·谢里夫关于联邦预算的声明。\n\n我对全能的真主表示无限的感谢，通过他的恩典和仁慈，在全国人民的祈祷下，我们实现了经济稳定，并凭借",
+    "images": [
+      "71c0f0c483d86a29.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/7653823577719715836",
+    "timestamp": "2026-06-12T16:18:13.443765+00:00",
+    "original_time": "2026-06-12T14:16:37+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-4548882736549487087",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif, while addressing a special meeting of the federal cabinet held today at the Parliament House, said that despite facing all challenges, the economy is stable today; with the third budget of the current government, the wheel of the economy",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫今天在议会大厦举行的联邦内阁特别会议上发表讲话时表示，尽管面临各种挑战，但今天的经济仍然稳定；随着本届政府的第三次预算，经济的车轮",
+    "images": [
+      "ee9f44e5761173d3.jpg",
+      "62a1f2767f8a961c.jpg",
+      "78919c20d78b320c.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-4548882736549487087",
+    "timestamp": "2026-06-12T16:18:14.281580+00:00",
+    "original_time": "2026-06-12T14:03:41+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_8809116458199171019",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif signed the budget document after the federal cabinet approved the budget for the fiscal year 2026-27 in the Parliament House.",
     "translated_text": "联邦内阁在议会大厦批准2026-27财年预算后，总理穆罕默德·谢赫巴兹·谢里夫签署了预算文件。",
-    "images": [],
-    "url": "https://x.com/PakPMO/status/-8679266081040042871",
-    "timestamp": "2026-06-12T12:20:20.392048+00:00",
+    "images": [
+      "cbdbb712e3bca124.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/8809116458199171019",
+    "timestamp": "2026-06-12T16:18:15.036992+00:00",
     "original_time": "2026-06-12T11:52:03+00:00"
   },
   {
-    "id": "tweet_PakPMO_-7380136216746554032",
+    "id": "tweet_PakPMO_2090965458677844250",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif signing Annual Budget 2026-27 documents after its approval by the Federal Cabinet meeting at Parliament House Islamabad on 12 June 2026.",
@@ -76,12 +127,12 @@
       "3fc597d7d16b2c0a.jpg",
       "16a756b6238c29b1.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-7380136216746554032",
-    "timestamp": "2026-06-12T12:20:21.600844+00:00",
+    "url": "https://x.com/PakPMO/status/2090965458677844250",
+    "timestamp": "2026-06-12T16:18:15.410868+00:00",
     "original_time": "2026-06-12T11:42:58+00:00"
   },
   {
-    "id": "tweet_PakPMO_323696255210721306",
+    "id": "tweet_PakPMO_-1332654138930548211",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad: June 12, 2026\n\nA delegation of the Muttahida Qaumi Movement met with Prime Minister Muhammad Shehbaz Sharif\n\nThe delegation was led by Dr. Khalid Maqbool Siddiqui, Convener of the Muttahida Qaumi Movement and Federal Minister for Education and Professional Training.",
@@ -89,63 +140,76 @@
     "images": [
       "abedecb3cee3328f.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/323696255210721306",
-    "timestamp": "2026-06-12T12:20:24.099171+00:00",
+    "url": "https://x.com/PakPMO/status/-1332654138930548211",
+    "timestamp": "2026-06-12T16:18:17.645069+00:00",
     "original_time": "2026-06-12T09:29:00+00:00"
   },
   {
-    "id": "tweet_PakPMO_-7352232831989736439",
+    "id": "tweet_araghchi_19229957067896100",
     "type": "tweet",
-    "username": "PakPMO",
-    "text": "A delegation of MQM met Prime Minister of Pakistan Muhammad Shehbaz Sharif.  Islamabad June 12، 2026",
-    "translated_text": "MQM代表团会见了巴基斯坦总理穆罕默德·谢赫巴兹·谢里夫。  伊斯兰堡 2026 年 6 月 12 日",
-    "images": [
-      "06d44d94ff4d565d.jpg",
-      "2a37fae565e293de.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-7352232831989736439",
-    "timestamp": "2026-06-12T12:20:24.932274+00:00",
-    "original_time": "2026-06-12T09:28:58+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_5187277250030958588",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "National Assembly Budget Session",
-    "translated_text": "国会预算会议",
+    "username": "araghchi",
+    "text": "The Islamabad Memorandum of Understanding has never been closer. Pending its finalization, the media should refrain from entering speculation about its content. \n\nIn line with our responsible and transparent approach, all details will be shared with the public in due course.",
+    "translated_text": "伊斯兰堡谅解备忘录从未如此接近。在最终确定之前，媒体不应对其内容进行猜测。 \n\n根据我们负责任和透明的做法，所有细节都将在适当的时候与公众分享。",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/5187277250030958588",
-    "timestamp": "2026-06-12T12:20:55.730837+00:00",
-    "original_time": "2026-06-12T12:14:13+00:00"
+    "url": "https://x.com/araghchi/status/19229957067896100",
+    "timestamp": "2026-06-12T16:18:33.521516+00:00",
+    "original_time": "2026-06-12T14:52:40+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2443345248331913901",
+    "id": "tweet_PakTVGlobal_-4970104436586227289",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Juventus have named Giovanni Carnevali as their new CEO and general manager following Damien Comolli’s departure after a disappointing season, with Carnevali pledging to strengthen the club’s domestic and international standing.#Juventus#GiovanniCarnevali#DamienComolli",
-    "translated_text": "达米安·科莫利在经历了一个令人失望的赛季后离职后，尤文图斯任命乔瓦尼·卡内瓦利为新任首席执行官兼总经理，卡内瓦利承诺加强俱乐部的国内和国际地位。#Juventus#GiovanniCarnevali#DamienComolli",
+    "text": "National Assembly holds Budget Session",
+    "translated_text": "国会召开预算会议",
     "images": [
-      "8ecbaf345a8f8159.jpg"
+      "8a78983df2d92a2b.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2443345248331913901",
-    "timestamp": "2026-06-12T12:20:56.338167+00:00",
-    "original_time": "2026-06-12T12:09:01+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-4970104436586227289",
+    "timestamp": "2026-06-12T16:18:49.300330+00:00",
+    "original_time": "2026-06-12T12:34:21+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_5511150321072789279",
+    "id": "tweet_PakTVGlobal_2699151958021239509",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "The International Labour Organization has adopted a first-of-its-kind agreement to extend labour protections to digital platform workers worldwide, including those in delivery and ride-hailing services.#ILO#GigEconomy#DigitalLabor#LabourRights#PakistanTV",
-    "translated_text": "国际劳工组织通过了一项史无前例的协议，向全球数字平台工作人员提供劳动保护，包括送货和叫车服务领域的工作人员。#ILO#GigEconomy#DigitalLabor#LabourRights#PakistanTV",
+    "text": "US Vice President JD Vance, on X, said, \"Seeing a lot of fake information about a potential deal. Iran is not receiving any cash, and no funds are being released as part of any agreement. Any arrangement is structured to prioritize the security interests of the United States and",
+    "translated_text": "美国副总统万斯在 X 节目中表示，“看到了很多有关潜在协议的虚假信息。伊朗没有收到任何现金，也没有作为任何协议的一部分发放任何资金。任何安排都是为了优先考虑美国和伊朗的安全利益",
     "images": [
-      "8ad9e3d7f10b4cf9.jpg"
+      "05752a97b1389b5c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/5511150321072789279",
-    "timestamp": "2026-06-12T12:20:57.336446+00:00",
-    "original_time": "2026-06-12T12:07:16+00:00"
+    "url": "https://x.com/PakTVGlobal/status/2699151958021239509",
+    "timestamp": "2026-06-12T16:18:50.725999+00:00",
+    "original_time": "2026-06-12T16:15:09+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-232935706318049114",
+    "id": "tweet_PakTVGlobal_6345885834866076258",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Wimbledon has announced a 20% increase in prize money to £64.2m, with singles champions set to earn £3.6m and first-round losers receiving £80,000. A total of more than £6m has been allocated for qualifying, marking a 25% rise, as overall prize funds increase by £10.7m amid",
+    "translated_text": "温布尔登宣布奖金增加20%至6420万英镑，单打冠军将获得360万英镑，首轮落败者将获得8万英镑。预选赛拨款总额超过 600 万英镑，增长了 25%，总奖金增加了 1,070 万英镑。",
+    "images": [
+      "4d03880dbb9be14b.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/6345885834866076258",
+    "timestamp": "2026-06-12T16:18:52.131548+00:00",
+    "original_time": "2026-06-12T16:14:32+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_6932499529196861787",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGIranian Foreign Minister Abbas Araghchi, in a post on X, said that the “Islamabad Memorandum of Understanding” is closer than ever to completion and cautioned media outlets against speculation regarding its details. He added that the full contents of the agreement will",
+    "translated_text": "#BREAKING伊朗外交部长阿巴斯·阿拉格奇 (Abbas Araghchi) 在 X 上发帖表示，《伊斯兰堡谅解备忘录》比以往任何时候都更接近完成，并警告媒体不要对其细节进行猜测。他补充说，该协议的全部内容将",
+    "images": [
+      "17b30589f179ccd0.jpg",
+      "6d6e933409ebfb48.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/6932499529196861787",
+    "timestamp": "2026-06-12T16:18:54.466613+00:00",
+    "original_time": "2026-06-12T15:49:12+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-4253955030218300567",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Prime Minister Shehbaz Sharif signs the Annual Budget 2026-27 documents after its approval by the Federal Cabinet. Finance minister Muhammad Aurangzeb to present the budget today in the National Assembly.@CMShehbaz@PakPMO@MoIB_Official@Financegovpk#PMShehbazSharif",
@@ -156,12 +220,12 @@
       "1e6905110a095b75.jpg",
       "238f37e005df0687.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-232935706318049114",
-    "timestamp": "2026-06-12T12:20:58.173023+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-4253955030218300567",
+    "timestamp": "2026-06-12T16:18:57.469705+00:00",
     "original_time": "2026-06-12T11:58:42+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_1686711186953577987",
+    "id": "tweet_PakTVGlobal_6915248584030935284",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Prime Minister Muhammad Shehbaz Sharif signs the Annual Budget 2026–27 documents after approval by the Federal Cabinet at Parliament House, Islamabad on 12 June 2026.@CMShehbaz@PakPMO@MoIB_Official@Financegovpk#PMShehbazSharif#FederalBudget2026#CabinetApproval",
@@ -169,142 +233,142 @@
     "images": [
       "62c26d8e5e9470e3.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/1686711186953577987",
-    "timestamp": "2026-06-12T12:20:59.011705+00:00",
+    "url": "https://x.com/PakTVGlobal/status/6915248584030935284",
+    "timestamp": "2026-06-12T16:18:58.298000+00:00",
     "original_time": "2026-06-12T11:51:56+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-8705366961788127777",
+    "id": "tweet_PakTVGlobal_7280236684330136100",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Federal budget expected with relief measures like salary and pension increases under consideration despite regional tensions and global economic challenges. -Ali Andaz (Pakistan TV Correspondent)#PakistanBudget#SalaryIncrease#PensionHike#EconomicPolicy#PakistanTV",
-    "translated_text": "尽管地区紧张局势和全球经济挑战，但联邦预算预计会考虑增加工资和养老金等救济措施。 -阿里·安达兹（巴基斯坦电视台记者）#巴基斯坦预算#加薪#PensionHike#经济政策#PakistanTV",
+    "text": "Prime Minister Muhammad Shehbaz Sharif signs the Annual Budget 2026–27 documents following approval by the Federal Cabinet at Parliament House, Islamabad.@CMShehbaz@PakPMO@MoIB_Official@Financegovpk#PMShehbazSharif#FederalBudget2026#CabinetApproval#FiscalYear2026_27",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫在伊斯兰堡议会大厦获得联邦内阁批准后签署了 2026-27 年度预算文件。@CMShehbaz@PakPMO@MoIB_Official@Financegovpk#PMShehbazSharif#FederalBudget2026#CabinetApproval#FiscalYear2026_27",
     "images": [
-      "121a7780aa132f22.jpg"
+      "a86a7e0608394db4.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-8705366961788127777",
-    "timestamp": "2026-06-12T12:21:01.662251+00:00",
-    "original_time": "2026-06-12T10:52:46+00:00"
+    "url": "https://x.com/PakTVGlobal/status/7280236684330136100",
+    "timestamp": "2026-06-12T16:18:59.766962+00:00",
+    "original_time": "2026-06-12T11:49:43+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2142797114171922729",
+    "id": "tweet_PakTVGlobal_906239731840348234",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Manipur has effectively slipped out of India’s control, with independence movements and a civil war-like situation continuing in the region as a new wave of unrest has emerged in the state.#ManipurUpdate#IndiaNews#RegionalTensions#SecuritySituation#PakistanTV",
-    "translated_text": "曼尼普尔邦实际上已脱离印度的控制，该地区出现了新一波的骚乱，独立运动和类似内战的局势仍在继续。#ManipurUpdate#IndiaNews#RegionalTensions#SecuritySituation#PakistanTV",
+    "text": "PM Sharif signs Annual Budget 2026–27 after Federal Cabinet approval in Islamabad#PMShehbazSharif#FederalBudget2026#CabinetApproval#FiscalYear2026_27#PakistanTV",
+    "translated_text": "伊斯兰堡联邦内阁批准后，总理谢里夫签署 2026-27 年度预算#PMShehbazSharif#FederalBudget2026#CabinetApproval#FiscalYear2026_27#PakistanTV",
     "images": [
-      "31d95b712b257cf3.jpg"
+      "bdc29a4d20d65e01.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-2142797114171922729",
-    "timestamp": "2026-06-12T12:21:02.626823+00:00",
-    "original_time": "2026-06-12T10:48:12+00:00"
+    "url": "https://x.com/PakTVGlobal/status/906239731840348234",
+    "timestamp": "2026-06-12T16:19:00.831150+00:00",
+    "original_time": "2026-06-12T11:44:26+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4059341026851986028",
+    "id": "tweet_PakTVGlobal_4530294179370904584",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Residents across Azad Kashmir reject protest call issued by the banned Joint Public Action Committee, with normal life continuing in various districts, including Kotli.@nailashuja#AJKStability#KotliUpdate#PublicRejectsProtest#NormalLifeContinues#PakistanTV",
-    "translated_text": "阿扎德克什米尔各地的居民拒绝被禁止的联合公共行动委员会发出的抗议呼吁，包括 Kotli 在内的各个地区的正常生活仍在继续。@nailashuja#AJKStability#KotliUpdate#PublicRejectsProtest#NormalLifeContinues#PakistanTV",
+    "text": "Abdul Jaleel, economist calls for tax and monetary reforms, investment growth, and stronger focus on agriculture and social sectors amid economic and environmental challenges.#EconomicReforms#AgricultureSector#SocialSector#PakistanTV",
+    "translated_text": "经济学家阿卜杜勒·贾里尔呼吁在经济和环境挑战中进行税收和货币改革、投资增长以及更加关注农业和社会部门。#EconomicReforms#AgricultureSector#SocialSector#PakistanTV",
     "images": [
-      "7782e229f576a25a.jpg"
+      "9743e99b7631e2d2.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-4059341026851986028",
-    "timestamp": "2026-06-12T12:21:03.874308+00:00",
-    "original_time": "2026-06-12T10:45:00+00:00"
+    "url": "https://x.com/PakTVGlobal/status/4530294179370904584",
+    "timestamp": "2026-06-12T16:19:01.927610+00:00",
+    "original_time": "2026-06-12T11:26:56+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_1391403415049332290",
+    "id": "tweet_PakTVGlobal_-5234340381930974203",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Protest call by banned Joint Action Committee rejected across Azad Kashmir; normal life continues as markets, schools, and traffic remain fully operational.@nailashuja#AJKPeacefulResponse#ProtestCallFails#NormalLifeContinues#LawAndOrderAJK#PakistanTV",
-    "translated_text": "被禁止的联合行动委员会的抗议呼吁在克什米尔各地遭到拒绝；随着市场、学校和交通保持全面运转，正常生活仍在继续。@nailashuja#AJKPeacefulResponse#ProtestCallFails#NormalLifeContinues#LawAndOrderAJK#PakistanTV",
+    "text": "PM Sharif says great challenges were faced in preparing budget 2026-2027.@CMShehbaz@PakPMO@MoIB_Official@Financegovpk#PMShehbazSharif#FederalBudget2026#Budget2026_27#PakistanEconomy#PakistanTV",
+    "translated_text": "谢里夫总理表示，准备 2026-2027 年预算面临巨大挑战。@CMShehbaz@PakPMO@MoIB_Official@Financegovpk#PMShehbazSharif#FederalBudget2026#Budget2026_27#PakistanEconomy#PakistanTV",
     "images": [
-      "753c368d54751694.jpg"
+      "4d0c302e93c40659.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/1391403415049332290",
-    "timestamp": "2026-06-12T12:21:04.887237+00:00",
-    "original_time": "2026-06-12T10:41:57+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-5234340381930974203",
+    "timestamp": "2026-06-12T16:19:03.144970+00:00",
+    "original_time": "2026-06-12T11:23:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_5892022447452512980",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "US Embassy releases video featuring updates on recent U.S.–Pakistan engagement and cooperation.@usembislamabad#USEmbassy#PakistanUSRelations#Diplomacy#BilateralCooperation#PakistanTV",
-    "translated_text": "美国大使馆发布视频，介绍近期美国与巴基斯坦接触与合作的最新情况。@usembislamabad#USEembassy#PakistanUSRelations#Diplomacy#BilingualCooperative#PakistanTV",
-    "images": [
-      "6f32d873fa2579a9.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/5892022447452512980",
-    "timestamp": "2026-06-12T12:21:05.659731+00:00",
-    "original_time": "2026-06-12T10:34:54+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-6607731720103490807",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Federal cabinet meeting begins under the chairmanship of Prime Minister Shehbaz Sharif.#PMShehbazSharif#FederalCabinet#PakistanGovernment#PakistanTV",
-    "translated_text": "联邦内阁会议在总理谢赫巴兹·谢里夫的主持下开始。#PMShehbazSharif#FederalCabinet#PakistanGovernment#PakistanTV",
-    "images": [
-      "58c54e2e08d34c2d.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6607731720103490807",
-    "timestamp": "2026-06-12T12:21:06.175068+00:00",
-    "original_time": "2026-06-12T10:34:49+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_8810763592667160434",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "New Zealand’s legendary batter Kane Williamson has confirmed his immediate retirement from international cricket, bringing an end to a 16-year career. The Black Caps’ most prolific all-format run scorer featured in 378 matches and leaves the game widely regarded as one of the",
-    "translated_text": "新西兰传奇击球手凯恩·威廉姆森 (Kane Williamson) 确认立即从国际板球界退役，结束 16 年的职业生涯。黑帽队最多产的全能跑动得分手，参加了 378 场比赛，使这项运动被广泛认为是最出色的比赛之一",
-    "images": [
-      "c5aa6ac74a5f343e.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8810763592667160434",
-    "timestamp": "2026-06-12T12:21:07.520193+00:00",
-    "original_time": "2026-06-12T10:32:48+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-2260151099119099904",
+    "id": "tweet_CBSNews_8387192915466004278",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "The Supreme Court declined a request from Alabama to move forward with a scheduled execution using nitrogen hypoxia, with Justices Clarence Thomas, Samuel Alito and Neil Gorsuch dissenting.",
-    "translated_text": "最高法院拒绝了阿拉巴马州提出的利用氮气缺氧进行预定处决的请求，克拉伦斯·托马斯、塞缪尔·阿利托和尼尔·戈萨奇法官表示反对。",
+    "text": "At least one person is dead and others have been injured in a shooting in Midland, Texas, on Friday morning, according to Mayor Lori Blong, who said there were 11 known victims.\n\nShe said the suspect was \"contained,\" but did not provide details.",
+    "translated_text": "德克萨斯州米德兰市市长洛里·布隆 (Lori Blong) 表示，周五上午发生的枪击事件造成至少 1 人死亡、多人受伤，已知有 11 名受害者。\n\n她说嫌疑人已被“控制住”，但没有提供细节。",
     "images": [
-      "6bc5853b628f0246.jpg"
+      "4492bc26a832d3c2.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2260151099119099904",
-    "timestamp": "2026-06-12T12:24:00.519452+00:00",
-    "original_time": "2026-06-12T12:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/8387192915466004278",
+    "timestamp": "2026-06-12T16:21:04.970394+00:00",
+    "original_time": "2026-06-12T16:14:40+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4695572915903539931",
+    "id": "tweet_CBSNews_-8423916102545285188",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Luis Angel Lopez Valdez was killed in Veracruz just days after armed assailants abducted journalist Roxana Guzman from her home.",
-    "translated_text": "路易斯·安杰尔·洛佩兹·瓦尔迪兹在韦拉克鲁斯州被杀，几天前武装袭击者从家中绑架了记者罗克萨娜·古兹曼。",
+    "text": "Follow along here for more on this developing story:",
+    "translated_text": "请跟随此处了解有关这个发展故事的更多信息：",
     "images": [
-      "5847ad2bf4357d39.jpg"
+      "25cf19bbe57e9e8e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4695572915903539931",
-    "timestamp": "2026-06-12T12:24:00.694890+00:00",
-    "original_time": "2026-06-12T11:30:00+00:00"
+    "url": "https://x.com/CBSNews/status/-8423916102545285188",
+    "timestamp": "2026-06-12T16:21:05.879165+00:00",
+    "original_time": "2026-06-12T16:14:40+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8616015628364758039",
+    "id": "tweet_CBSNews_-7979850650148428465",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "British artist David Hockney, considered one of the most influential and defining figures in contemporary art, has died aged 88, his publicist announced Friday.",
-    "translated_text": "英国艺术家大卫·霍克尼 (David Hockney) 被认为是当代艺术中最具影响力和决定性的人物之一，他的公关人员周五宣布去世，享年 88 岁。",
+    "text": "Twelve U.S. Air Force Thunderbirds soared over Washington, D.C. and the White House on Friday during a rehearsal flyover ahead of Sunday’s UFC event.",
+    "translated_text": "周五，12 架美国空军雷鸟战机在周日 UFC 赛事前的彩排中飞越华盛顿特区和白宫上空。",
     "images": [
-      "7e02d86b7686eac5.jpg"
+      "6b93b89033115ac7.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8616015628364758039",
-    "timestamp": "2026-06-12T12:24:00.893695+00:00",
-    "original_time": "2026-06-12T11:03:51+00:00"
+    "url": "https://x.com/CBSNews/status/-7979850650148428465",
+    "timestamp": "2026-06-12T16:21:07.422542+00:00",
+    "original_time": "2026-06-12T16:07:37+00:00"
   },
   {
-    "id": "tweet_CBSNews_9038964780063992752",
+    "id": "tweet_CBSNews_-6093173738696847240",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "DEVELOPING: Police are responding to an active shooter in Midland, Texas, on Friday morning, according to the city's police chief, and officials say multiple people have been sent to local and regional hospitals.",
+    "translated_text": "事态发展：据得克萨斯州米德兰市警察局长称，周五上午，警方正在对一名活跃枪手做出反应，官员们表示，多人已被送往当地和地区医院。",
+    "images": [
+      "25cf19bbe57e9e8e.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-6093173738696847240",
+    "timestamp": "2026-06-12T16:21:08.812050+00:00",
+    "original_time": "2026-06-12T15:51:51+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1255510710279944710",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "It is the first generic animal drug approved for use against the flesh-eating parasite.",
+    "translated_text": "它是第一个被批准用于对抗食肉寄生虫的动物仿制药。",
+    "images": [
+      "011c849eb5a41bd0.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1255510710279944710",
+    "timestamp": "2026-06-12T16:21:09.073330+00:00",
+    "original_time": "2026-06-12T15:21:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1699776352854108053",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Researchers have found video of a deep-sea goblin shark in its natural environment via a remote, baited camera in the Pacific Ocean's Tonga Trench — the second-deepest point on Earth.",
+    "translated_text": "研究人员通过在太平洋汤加海沟（地球第二深点）的远程诱饵摄像机发现了一条深海妖鲨在其自然环境中的视频。",
+    "images": [
+      "d06167f0de2604a3.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1699776352854108053",
+    "timestamp": "2026-06-12T16:21:10.631720+00:00",
+    "original_time": "2026-06-12T15:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_4854466340277099239",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Thailand's Princess Bajrakitiyabha Mahidol, a lawyer and the eldest of King Maha Vajiralongkorn's children, has died at 47, the Bureau of the Royal Household said.",
@@ -312,12 +376,12 @@
     "images": [
       "8c533d24b253869d.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/9038964780063992752",
-    "timestamp": "2026-06-12T12:24:01.076659+00:00",
+    "url": "https://x.com/CBSNews/status/4854466340277099239",
+    "timestamp": "2026-06-12T16:21:12.929459+00:00",
     "original_time": "2026-06-12T11:00:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4849674093280680726",
+    "id": "tweet_CBSNews_3681444923415433652",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Iran said Friday it had not yet reached a final conclusion on a deal to end the war with the U.S. despite President Trump announcing an agreement would be signed soon.",
@@ -325,164 +389,340 @@
     "images": [
       "873527cc33f04b49.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4849674093280680726",
-    "timestamp": "2026-06-12T12:24:01.261341+00:00",
+    "url": "https://x.com/CBSNews/status/3681444923415433652",
+    "timestamp": "2026-06-12T16:21:13.209401+00:00",
     "original_time": "2026-06-12T10:32:12+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1982383502328303861",
+    "id": "tweet_CBSNews_6157847793312758175",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Proposed data center near Nashville Zoo sparks heavy pushback.",
-    "translated_text": "纳什维尔动物园附近拟议的数据中心遭到强烈反对。",
+    "text": "China has arrested an American citizen for alleged espionage, the country's government confirmed, identifying the man as a political analyst for a policy think tank focused on neighboring Myanmar.",
+    "translated_text": "中国政府证实，中国以涉嫌间谍罪逮捕了一名美国公民，并确认该男子是一家专注于邻国缅甸的政策智囊团的政治分析师。",
     "images": [
-      "2b6a95eefeb69e9a.jpg"
+      "4b37a2c644e50e93.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-1982383502328303861",
-    "timestamp": "2026-06-12T12:24:03.939670+00:00",
-    "original_time": "2026-06-12T00:50:00+00:00"
+    "url": "https://x.com/CBSNews/status/6157847793312758175",
+    "timestamp": "2026-06-12T16:21:13.457535+00:00",
+    "original_time": "2026-06-12T10:31:06+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_8757474817217136350",
+    "id": "tweet_CBSNews_-9131589065848223134",
     "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "\"جس سے شکوہ ہے وہی منانے کی کوشش کر رہا ہے تو۔۔۔۔\"\nدیکھئے شہزاد اقبال کا تبصرہ#BudgetWithGeo",
-    "translated_text": "“怀疑的人就是试图说服的人。”\n请参阅 Shahzad Iqbal 的评论#BudgetWithGeo",
+    "username": "CBSNews",
+    "text": "World's largest whale graveyard discovered by sub at bottom of ocean: \"Completely unexpected.\"",
+    "translated_text": "潜艇在海底发现了世界上最大的鲸鱼墓地：“完全出乎意料”。",
+    "images": [
+      "e68c7a238430c2a6.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-9131589065848223134",
+    "timestamp": "2026-06-12T16:21:14.939770+00:00",
+    "original_time": "2026-06-12T09:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-7060200936869902213",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "America's birth rate has plunged. Are smartphones to blame?",
+    "translated_text": "美国的出生率大幅下降。智能手机是罪魁祸首吗？",
+    "images": [
+      "4a41455eca4ed2f2.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-7060200936869902213",
+    "timestamp": "2026-06-12T16:21:15.925315+00:00",
+    "original_time": "2026-06-12T08:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_848246273421567406",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Wholesale prices see biggest spike since 2022 as energy costs climb.",
+    "translated_text": "随着能源成本攀升，批发价格出现 2022 年以来最大涨幅。",
+    "images": [
+      "e5a9911732c974cc.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/848246273421567406",
+    "timestamp": "2026-06-12T16:21:16.623777+00:00",
+    "original_time": "2026-06-12T07:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_8066434439778981215",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "CBS News poll finds most Americans believe extraterrestrial life exists – and some think it's already here.",
+    "translated_text": "哥伦比亚广播公司新闻民意调查发现，大多数美国人相信外星生命存在，有些人认为它已经存在。",
+    "images": [
+      "f676a9d4b1fb4212.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8066434439778981215",
+    "timestamp": "2026-06-12T16:21:17.224808+00:00",
+    "original_time": "2026-06-12T06:00:00+00:00"
+  },
+  {
+    "id": "tweet_margbrennan_-8956431017419723863",
+    "type": "tweet",
+    "username": "margbrennan",
+    "text": "As of this morning the European location and exact date of a deal sign off between VP Vance and Iran's leadership remain in flux. Here is what we know:\n\nU.S.-Iran memorandum of understanding likely to be signed next week - CBS News",
+    "translated_text": "截至今天上午，副总统万斯和伊朗领导人之间签署协议的欧洲地点和确切日期仍然在变化。这是我们所知道的：\n\n美国与伊朗可能将于下周签署谅解备忘录 - 哥伦比亚广播公司新闻",
+    "images": [
+      "b1673630fd158ecf.jpg"
+    ],
+    "url": "https://x.com/margbrennan/status/-8956431017419723863",
+    "timestamp": "2026-06-12T16:22:01.868814+00:00",
+    "original_time": "2026-06-12T13:24:34+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_7279445376548943085",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Elon Musk has become the first person to cross the trillionaire threshold, at least on paper, after SpaceX priced its blockbuster initial public offering at $135 a share.",
+    "translated_text": "在 SpaceX 将其轰动一时的首次公开募股定价为每股 135 美元后，埃隆·马斯克 (Elon Musk) 成为第一个跨过万亿富翁门槛的人，至少在纸面上是这样。",
+    "images": [
+      "6617f478765a7d5d.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/7279445376548943085",
+    "timestamp": "2026-06-12T16:22:02.168406+00:00",
+    "original_time": "2026-06-12T13:25:00+00:00"
+  },
+  {
+    "id": "tweet_aishahhasnie_-8071146621533862446",
+    "type": "tweet",
+    "username": "aishahhasnie",
+    "text": "From WH official on Iran deal:\n\n1. Nuclear material will be destroyed and removed\n2. Nuclear program will be dismantled\n3. None of their money released until they perform\n4. Strait of Hormuz will be open\n5. No Iran funding of terrorist groups\n\nOfficial adds: \"This is what they",
+    "translated_text": "白宫官员关于伊朗协议的消息：\n\n1. 核材料将被销毁和清除\n2. 核计划将被废除\n3. 在他们履行职责之前，他们的钱不会被释放\n4.霍尔木兹海峡将开放\n5. 伊朗不资助恐怖组织\n\n官员补充道：“这就是他们",
     "images": [],
-    "url": "https://x.com/geonews_urdu/status/8757474817217136350",
-    "timestamp": "2026-06-12T12:25:21.412065+00:00",
-    "original_time": "2026-06-12T12:24:41+00:00"
+    "url": "https://x.com/aishahhasnie/status/-8071146621533862446",
+    "timestamp": "2026-06-12T16:22:03.287063+00:00",
+    "original_time": "2026-06-12T13:28:54+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_2337258415169673145",
+    "id": "tweet_CBSMornings_9058731539088978442",
     "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "قومی اسمبلی کا بجٹ اجلاس تاخیر کا شکار۔۔۔۔\nنائب وزیراعظم و وزیر خارجہ اسحاق ڈار کی بلاول بھٹو زرداری سے ملاقات#BudgetWithGeo",
-    "translated_text": "国民议会预算会议被推迟。\n副总理兼外交部长伊沙克·达尔会见比拉瓦尔·布托·扎尔达里 #BudgetWithGeo",
+    "username": "CBSMornings",
+    "text": "“I can’t think of a better way to honor America’s 250th birthday than by giving those who have sacrificed so much a way to make their lives better”: Meta is giving free Ray-Ban Meta smart glasses to every legally blind veteran in the U.S., Meta president@DinaPowellMcCand@UFC",
+    "translated_text": "“我想不出比为那些做出巨大牺牲的人们提供一种让他们的生活更美好的方式来纪念美国 250 岁生日更好的方式了”：Meta 正在向美国每一位法定失明退伍军人免费赠送雷朋 Meta 智能眼镜，Meta 总裁@DinaPowellMcCand@UFC",
     "images": [
-      "5519b1d7a61be32c.jpg"
+      "462db84a2e637e21.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/2337258415169673145",
-    "timestamp": "2026-06-12T12:25:22.916541+00:00",
-    "original_time": "2026-06-12T12:22:34+00:00"
+    "url": "https://x.com/CBSMornings/status/9058731539088978442",
+    "timestamp": "2026-06-12T16:22:04.828759+00:00",
+    "original_time": "2026-06-12T13:10:41+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_7162796232175859233",
+    "id": "tweet_WhiteHouse_-7015427605762430778",
     "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Will the Pakistan People's Party participate in the budget session? Watch the conversation of PPP leader Aijaz Jakhrani#BudgetWithGeo",
-    "translated_text": "巴基斯坦人民党是否会参加预算会议？观看 PPP 领导人 Aijaz Jakhrani 的对话#BudgetWithGeo",
+    "username": "WhiteHouse",
+    "text": "\"The terms that Iran leaked out to the Fake News have NOTHING to do with the terms that were agreed to, in writing...\" - President Donald J. Trump",
+    "translated_text": "“伊朗向假新闻泄露的条款与书面同意的条款无关……”——唐纳德·J·特朗普总统",
     "images": [
-      "aed7e4a0421304c7.jpg"
+      "3e2adecbeafbfbf0.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/7162796232175859233",
-    "timestamp": "2026-06-12T12:25:23.239623+00:00",
-    "original_time": "2026-06-12T12:03:22+00:00"
+    "url": "https://x.com/WhiteHouse/status/-7015427605762430778",
+    "timestamp": "2026-06-12T16:22:05.103713+00:00",
+    "original_time": "2026-06-12T13:44:09+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2815775686822490655",
+    "id": "tweet_KellieMeyerNews_1937797373714577772",
     "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The National Assembly's budget session is facing delays... What is the current situation in the Parliament House at this time?",
-    "translated_text": "国会预算会议面临延期……此时国会大厦的情况如何？",
-    "images": [
-      "64985456cea398cc.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-2815775686822490655",
-    "timestamp": "2026-06-12T12:25:23.651259+00:00",
-    "original_time": "2026-06-12T11:55:43+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_6183860724459816986",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Pakistan People's Party decides to boycott budget session",
-    "translated_text": "巴基斯坦人民党决定抵制预算会议",
-    "images": [
-      "f79780201f21d104.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/6183860724459816986",
-    "timestamp": "2026-06-12T12:25:24.157177+00:00",
-    "original_time": "2026-06-12T11:34:27+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3296373556743175909",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Meeting between US and Iran delegations in Geneva possible: Iranian Foreign Ministry sources",
-    "translated_text": "美国和伊朗代表团可能在日内瓦举行会议：伊朗外交部消息人士",
-    "images": [
-      "aa7ef1bada6405a4.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-3296373556743175909",
-    "timestamp": "2026-06-12T12:25:26.612187+00:00",
-    "original_time": "2026-06-12T10:49:01+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3592256810195712584",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Federal Health Minister Mustafa Kamal has demanded the abolition of tax on women's sanitary products in the upcoming budget.#BudgetWithGeo",
-    "translated_text": "联邦卫生部长穆斯塔法·卡迈勒要求在即将到来的预算中取消对女性卫生用品征税。#BudgetWithGeo",
+    "username": "KellieMeyerNews",
+    "text": "A WILDCARD FOR SUNDAY’S UFC FIGHT: WEATHER\n\nTemperatures will be in the mid 90s with a chance of thunderstorms. \n\nA WH Official tells me “Standard contingency plans for weather are in place to ensure the safety of the President and all patrons.”\n\n“Ticketed guests will receive all",
+    "translated_text": "周日 UFC 比赛的通配符：天气\n\n气温将在 90 多度左右，可能会有雷暴。 \n\n一位白宫官员告诉我，“标准的天气应急计划已经到位，以确保总统和所有顾客的安全。”\n\n“持票宾客将获得所有",
     "images": [],
-    "url": "https://x.com/geonews_urdu/status/-3592256810195712584",
-    "timestamp": "2026-06-12T12:25:27.048361+00:00",
-    "original_time": "2026-06-12T10:31:20+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/1937797373714577772",
+    "timestamp": "2026-06-12T16:22:22.913297+00:00",
+    "original_time": "2026-06-12T16:08:27+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8861390912704875048",
+    "id": "tweet_KellieMeyerNews_-8464215641020611194",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "WHAT IS IN THE DEAL: per senior administration official to me@NewsNationThe highly enriched uranium will be destroyed. \n\nLong-term commitment that Iran cannot procure a nuclear weapon.\n \nMeaningful inspection process.\n \nIran cannot fund terrorism. \n \nThe Hormuz Strait will",
+    "translated_text": "交易内容：高级政府官员对我@NewsNation表示，高浓缩铀将被销毁。 \n\n长期承诺伊朗不能采购核武器。\n \n有意义的检查过程。\n \n伊朗不能资助恐怖主义。 \n \n霍尔木兹海峡将",
+    "images": [
+      "a0a5567fd8c5b81a.svg"
+    ],
+    "url": "https://x.com/KellieMeyerNews/status/-8464215641020611194",
+    "timestamp": "2026-06-12T16:22:23.877061+00:00",
+    "original_time": "2026-06-12T14:38:05+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_1276286408266912050",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "No IRAN deal yet but “very close” a senior Trump administration official tells me. \n\nI am told the White House feels “confident that we will be signing this in the next few days.”",
+    "translated_text": "特朗普政府高级官员告诉我，尚未与伊朗达成协议，但“非常接近”。 \n\n我被告知白宫“有信心我们将在未来几天内签署该协议”。",
+    "images": [
+      "a0a5567fd8c5b81a.svg"
+    ],
+    "url": "https://x.com/KellieMeyerNews/status/1276286408266912050",
+    "timestamp": "2026-06-12T16:22:24.872232+00:00",
+    "original_time": "2026-06-12T14:36:43+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-8325642983883357088",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "“Today, the Department of War is publishing the third release of declassified and historical Unidentified Anomalous Phenomena (UAP) files as part of the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE). The collection continues to be housed on",
+    "translated_text": "“今天，战争部正在发布第三次解密的历史性不明异常现象 (UAP) 文件，作为 UAP 遭遇总统启封和报告系统 (PURSUE) 的一部分。该收藏继续存放在",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/-8325642983883357088",
+    "timestamp": "2026-06-12T16:22:26.241456+00:00",
+    "original_time": "2026-06-12T12:57:41+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-7865213778095265306",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "The budget has been prepared with great hard work and sincerity, Prime Minister Shehbaz Sharif",
-    "translated_text": "谢赫巴兹·谢里夫总理表示，预算的编制经过了巨大的努力和诚意",
-    "images": [
-      "517d6f964cb30b18.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-8861390912704875048",
-    "timestamp": "2026-06-12T12:25:28.085065+00:00",
-    "original_time": "2026-06-12T10:24:48+00:00"
+    "text": "\"لیوی کے مسائل پر تحفظات ہیں۔۔۔\"\nسید حفیظ الدین کا مؤقف#BudgetWithGeo",
+    "translated_text": "“对征税问题有保留。”\nSyed Hafeezuddin 的立场#BudgetWithGeo",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/-7865213778095265306",
+    "timestamp": "2026-06-12T16:23:11.111732+00:00",
+    "original_time": "2026-06-12T16:11:46+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-7160726634007547615",
+    "id": "tweet_geonews_urdu_5321537080877060312",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "The federal cabinet has approved the budget documents.",
-    "translated_text": "联邦内阁已批准预算文件。",
+    "text": "\"In no case will these poor friends make a budget\"\nSalman Akram Raja#BudgetWithGeo",
+    "translated_text": "“无论如何，这些可怜的朋友都不会做预算”\n萨尔曼·阿克拉姆·拉贾#BudgetWithGeo",
     "images": [
-      "dec1615af177fc69.jpg"
+      "06816c5a594e9ec9.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-7160726634007547615",
-    "timestamp": "2026-06-12T12:25:29.066310+00:00",
-    "original_time": "2026-06-12T10:18:42+00:00"
+    "url": "https://x.com/geonews_urdu/status/5321537080877060312",
+    "timestamp": "2026-06-12T16:23:11.931252+00:00",
+    "original_time": "2026-06-12T16:11:40+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_4906228699958565804",
+    "id": "tweet_geonews_urdu_-4270660474754086151",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Decision to Introduce Law Against AI Cloning and Deepfakes in Punjab",
-    "translated_text": "决定在旁遮普邦引入反对人工智能克隆和深度伪造的法律",
+    "text": "\"جہاز کہاں سے خریدا گیا تھا اور کس اسمبلی نے اس کی منظوری دی تھی؟\"\nعمیر خان نیازی#BudgetWithGeo",
+    "translated_text": "“这艘船是在哪里购买的？哪个议会批准了它？”\n乌迈尔·汗·尼亚齐 #BudgetWithGeo",
     "images": [
-      "3fc10fd643f43bc8.jpg"
+      "7f2cc0849d59cd6b.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/4906228699958565804",
-    "timestamp": "2026-06-12T12:25:29.603283+00:00",
-    "original_time": "2026-06-12T10:14:50+00:00"
+    "url": "https://x.com/geonews_urdu/status/-4270660474754086151",
+    "timestamp": "2026-06-12T16:23:13.588996+00:00",
+    "original_time": "2026-06-12T16:11:34+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2337841964769654523",
+    "id": "tweet_geonews_urdu_5934210010665797497",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Details of major and priority projects for the upcoming financial year have emerged#BudgetWithGeo",
-    "translated_text": "即将到来的财政年度的主要和优先项目的详细信息已经公布#BudgetWithGeo",
+    "text": "\"جو رعایت دینے کی کوشش کی گئی ہے اسے سراہا جانا چاہیے\"\n اعجاز الحق#BudgetWithGeo",
+    "translated_text": "“已经做出的让步应该受到赞赏。”\n 埃贾祖尔·哈克#BudgetWithGeo",
     "images": [
-      "dad497f49cf22c04.jpg"
+      "ffd53d6951f64612.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2337841964769654523",
-    "timestamp": "2026-06-12T12:25:30.476235+00:00",
-    "original_time": "2026-06-12T10:11:30+00:00"
+    "url": "https://x.com/geonews_urdu/status/5934210010665797497",
+    "timestamp": "2026-06-12T16:23:16.063092+00:00",
+    "original_time": "2026-06-12T16:11:28+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_5280058391708629614",
+    "id": "tweet_geonews_urdu_5629300024529438882",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "\"اگر عوام کو اس بجٹ سے کچھ ملے گا تو ضرور تعریف کریں گے\"\nندیم افضل چن#BudgetWithGeo",
+    "translated_text": "“如果人们从这个预算中得到一些东西，他们肯定会感激的。”\n纳迪姆·阿夫扎尔·陈 #BudgetWithGeo",
+    "images": [
+      "cf2e387e9ca40d0c.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5629300024529438882",
+    "timestamp": "2026-06-12T16:23:18.195148+00:00",
+    "original_time": "2026-06-12T16:11:22+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_6903659777274195497",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The federal government has allocated 365 billion for the improvement of transportation infrastructure in the 2026-2027 development program, says the Finance Minister#BudgetWithGeo",
+    "translated_text": "财政部长表示，联邦政府在 2026-2027 年发展计划中拨款 3650 亿美元用于改善交通基础设施#BudgetWithGeo",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/6903659777274195497",
+    "timestamp": "2026-06-12T16:23:21.528779+00:00",
+    "original_time": "2026-06-12T14:52:47+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1789493677967064263",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Rs25.1 billion allocated for health projects, Finance Minister  \nRs46 billion allocated for higher education sector, Finance Minister#BudgetWithGeo",
+    "translated_text": "财政部长：251亿卢比用于卫生项目  \n财政部长#BudgetWithGeo 拨款 460 亿卢比用于高等教育部门",
+    "images": [
+      "9bb67d43fe3fc7db.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/1789493677967064263",
+    "timestamp": "2026-06-12T16:23:22.213595+00:00",
+    "original_time": "2026-06-12T14:52:30+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-6473834416908022670",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "This budget is for relief, public welfare, and reducing the burden on the salaried class; it will bring the benefits of economic stability to the common man: Prime Minister",
+    "translated_text": "这个预算是用于救济、公益、减轻工薪阶层负担的；总理：这将为普通人带来经济稳定的好处",
+    "images": [
+      "5334ea1b12d196ba.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-6473834416908022670",
+    "timestamp": "2026-06-12T16:23:22.683921+00:00",
+    "original_time": "2026-06-12T14:40:12+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5766126153156054538",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Proposal to Introduce Fixed Tax System for Small Shopkeepers#BudgetWithGeo",
+    "translated_text": "为小店主引入固定税收制度的提案#BudgetWithGeo",
+    "images": [
+      "3db4e3af7d2b755a.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5766126153156054538",
+    "timestamp": "2026-06-12T16:23:23.704663+00:00",
+    "original_time": "2026-06-12T14:35:02+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-6026922789471930301",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Tax exemption on essentials for women's health!\nFamily planning measures!\nFinance Minister Muhammad Aurangzeb's budget speech#BudgetWithGeo",
+    "translated_text": "女性健康必需品免税！\n计划生育措施！\n财政部长穆罕默德·奥朗则布的预算演讲#BudgetWithGeo",
+    "images": [
+      "6727b9226baed064.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-6026922789471930301",
+    "timestamp": "2026-06-12T16:23:24.250675+00:00",
+    "original_time": "2026-06-12T14:34:54+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-3846509477119821163",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Relief for the Banking Sector!  \nReduction in Withholding Tax on International Transactions of Credit, Debit Cards  \nFinance Minister Muhammad Aurangzeb's Budget Speech#BudgetWithGeo",
+    "translated_text": "银行业纾困！  \n信用卡、借记卡国际交易预扣税的减少  \n财政部长穆罕默德·奥朗则布的预算演讲#BudgetWithGeo",
+    "images": [
+      "84876124e01da059.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-3846509477119821163",
+    "timestamp": "2026-06-12T16:23:25.349103+00:00",
+    "original_time": "2026-06-12T14:34:41+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-7183350275130007711",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Is your Facebook working properly? Comment",
+    "translated_text": "您的 Facebook 运行正常吗？评论",
+    "images": [
+      "b1a2075f79e4f569.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7183350275130007711",
+    "timestamp": "2026-06-12T16:23:26.330710+00:00",
+    "original_time": "2026-06-12T14:05:49+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-2310938756952428586",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Pakistan Lags Behind Many Countries in Exports, Need for Key Decisions#BudgetWithGeo",
@@ -490,255 +730,52 @@
     "images": [
       "dbf0e5343286d4a0.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/5280058391708629614",
-    "timestamp": "2026-06-12T12:25:30.791221+00:00",
+    "url": "https://x.com/geonews_urdu/status/-2310938756952428586",
+    "timestamp": "2026-06-12T16:23:30.881720+00:00",
     "original_time": "2026-06-12T10:11:07+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-4141348671787502459",
+    "id": "tweet_geonews_urdu_6487413589622379324",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Budget 2026-27...\nWhat are the business community's reservations?\nWhat proposals has the FPCCI presented to the government?#BudgetWithGeo",
-    "translated_text": "2026-27 预算...\n企业界对此有何保留？\nFPCCI 向政府提出了哪些建议？#BudgetWithGeo",
+    "text": "The spectacular start to the 2026 Football World Cup...\n\nWhich players and teams are former captain of the Pakistan football team Saddam Hussein's favorites?",
+    "translated_text": "2026 年足球世界杯的精彩开局……\n\n巴基斯坦足球队前队长萨达姆·侯赛因最喜欢哪些球员和球队？",
     "images": [
-      "9267729dde1523d2.jpg"
+      "71d49c90fed32ae4.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-4141348671787502459",
-    "timestamp": "2026-06-12T12:25:32.059722+00:00",
-    "original_time": "2026-06-12T10:10:52+00:00"
+    "url": "https://x.com/geonews_urdu/status/6487413589622379324",
+    "timestamp": "2026-06-12T16:23:35.945446+00:00",
+    "original_time": "2026-06-12T06:48:57+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_7320781226816084383",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Pakistan's total population exceeds 252 million, with more males than females",
-    "translated_text": "巴基斯坦总人口超过2.52亿，男性多于女性",
-    "images": [
-      "0be135e687338305.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/7320781226816084383",
-    "timestamp": "2026-06-12T12:25:37.307009+00:00",
-    "original_time": "2026-06-12T05:00:11+00:00"
-  },
-  {
-    "id": "article_d345a4f1197f",
+    "id": "article_21e6e113c058",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "A year after deadly Air India crash, families await answers",
-    "translated_title": "印度航空致命空难一年后，家人等待答案",
-    "url": "https://www.dawn.com/news/2007273/a-year-after-deadly-air-india-crash-families-await-answers",
-    "timestamp": "2026-06-12T12:27:36.870689+00:00",
-    "original_time": "2026-06-12T12:39:17+05:00"
+    "title": "Budget FY26-27: What relief measures has the government announced for next year?",
+    "translated_title": "2026-27 财年预算：政府宣布了明年哪些救济措施？",
+    "url": "https://www.dawn.com/news/2007344/budget-fy26-27-what-relief-measures-has-the-government-announced-for-next-year",
+    "timestamp": "2026-06-12T16:24:32.765904+00:00",
+    "original_time": "2026-06-12T20:30:37+05:00"
   },
   {
-    "id": "article_42f53d49be17",
+    "id": "article_2f332c53b2bb",
     "type": "article",
     "source": "www.dawn.com",
     "title": "www.dawn.com",
     "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007210",
-    "timestamp": "2026-06-12T12:27:54.494061+00:00",
-    "original_time": "2026-06-12T12:27:54.494026+00:00"
+    "url": "https://www.dawn.com/news/2006369/india-nears-completion-of-strategic-himalayan-tunnel-near-china-border",
+    "timestamp": "2026-06-12T16:24:58.010043+00:00",
+    "original_time": "2026-06-12T16:24:58.009945+00:00"
   },
   {
-    "id": "article_5fe3dfa57237",
+    "id": "article_2f8f6b650c03",
     "type": "article",
     "source": "www.dawn.com",
     "title": "www.dawn.com",
     "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2006227/pff-unveils-plan-to-revive-domestic-football",
-    "timestamp": "2026-06-12T12:28:16.467715+00:00",
-    "original_time": "2026-06-12T12:28:16.467678+00:00"
-  },
-  {
-    "id": "article_381ca0fab7c8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Finance minister presents FY2026-27 budget in NA amid loud protests by opposition",
-    "translated_title": "在反对派的强烈抗议下，财政部长在北美提出了 2026-27 财年预算",
-    "url": "https://www.dawn.com/news/2007283/finance-minister-presents-fy2026-27-budget-in-na-amid-loud-protests-by-opposition",
-    "timestamp": "2026-06-12T12:28:26.098150+00:00",
-    "original_time": "2026-06-12T13:46:22+05:00"
-  },
-  {
-    "id": "article_9d34734ff723",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan's young population could power its economy. The Economic Survey shows why it won't",
-    "translated_title": "巴基斯坦的年轻人口可以为其经济提供动力。经济调查显示了为什么不会",
-    "url": "https://www.dawn.com/news/2007253/pakistans-young-population-could-power-its-economy-the-economic-survey-shows-why-it-wont",
-    "timestamp": "2026-06-12T12:28:35.441447+00:00",
-    "original_time": "2026-06-12T09:41:56+05:00"
-  },
-  {
-    "id": "article_8e207e4aa61e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "False alarm at Pentagon triggers lockdown",
-    "translated_title": "五角大楼误报引发封锁",
-    "url": "https://www.dawn.com/news/2007212/false-alarm-at-pentagon-triggers-lockdown",
-    "timestamp": "2026-06-12T12:28:53.966960+00:00",
-    "original_time": "2026-06-12T05:43:38+05:00"
-  },
-  {
-    "id": "article_9112ddbe56de",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan experiences back-to-back ‘warmest years’",
-    "translated_title": "巴基斯坦连续经历“最温暖的年份”",
-    "url": "https://www.dawn.com/news/2007224",
-    "timestamp": "2026-06-12T12:29:06.801003+00:00",
-    "original_time": "2026-06-12T05:58:57+05:00"
-  },
-  {
-    "id": "article_8a12e802d5ba",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007149/lutkenhaus-confirms-emergence-at-oslo-diamond-league",
-    "timestamp": "2026-06-12T12:29:26.555339+00:00",
-    "original_time": "2026-06-12T12:29:26.555305+00:00"
-  },
-  {
-    "id": "article_5924f690b4ca",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "‘Racist thuggery’ slammed after second night of Northern Ireland unrest",
-    "translated_title": "北爱尔兰骚乱第二天晚上后猛烈抨击“种族主义暴行”",
-    "url": "https://www.dawn.com/news/2007215/racist-thuggery-slammed-after-second-night-of-northern-ireland-unrest",
-    "timestamp": "2026-06-12T12:29:43.906010+00:00",
-    "original_time": "2026-06-12T05:43:38+05:00"
-  },
-  {
-    "id": "article_d926a7aabd19",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PM Shehbaz stresses importance of 'strong security' ahead of budget presentation",
-    "translated_title": "谢赫巴兹总理在预算公布前强调“强有力的安全”的重要性",
-    "url": "https://www.dawn.com/news/2007306/pm-shehbaz-stresses-importance-of-strong-security-ahead-of-budget-presentation",
-    "timestamp": "2026-06-12T12:29:59.070339+00:00",
-    "original_time": "2026-06-12T16:02:36+05:00"
-  },
-  {
-    "id": "article_f47a96731d00",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2006492",
-    "timestamp": "2026-06-12T12:30:21.115478+00:00",
-    "original_time": "2026-06-12T12:30:21.115438+00:00"
-  },
-  {
-    "id": "article_4fa2938893a8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "ECONOMIC SURVEY 2026-27: Poverty surges 7pc, pushing 27m people into financial distress",
-    "translated_title": "2026-27 年经济调查：贫困率激增 7%，使 2700 万人陷入财务困境",
-    "url": "https://www.dawn.com/news/2007204",
-    "timestamp": "2026-06-12T12:30:24.744655+00:00",
-    "original_time": "2026-06-12T05:43:44+05:00"
-  },
-  {
-    "id": "article_fae48cf0d1de",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Bangladesh, India to coordinate patrols on border, share intelligence amid migrant tensions",
-    "translated_title": "孟加拉国和印度将协调边境巡逻并在移民紧张局势中共享情报",
-    "url": "https://www.dawn.com/news/2007264/bangladesh-india-to-coordinate-patrols-on-border-share-intelligence-amid-migrant-tensions",
-    "timestamp": "2026-06-12T12:30:28.472687+00:00",
-    "original_time": "2026-06-12T11:45:17+05:00"
-  },
-  {
-    "id": "article_ee0b26f581af",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "World’s first gig work treaty heads towards ILO approval",
-    "translated_title": "世界首个零工工作条约即将获得国际劳工组织批准",
-    "url": "https://www.dawn.com/news/2007217/worlds-first-gig-work-treaty-heads-towards-ilo-approval",
-    "timestamp": "2026-06-12T12:30:39.776978+00:00",
-    "original_time": "2026-06-12T05:43:38+05:00"
-  },
-  {
-    "id": "article_f176c0a57d20",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "JAAC protesters in AJK's Poonch district disperse on fears of major crackdown",
-    "translated_title": "AJK Poonch 区的 JAAC 抗议者因担心遭到大规模镇压而驱散",
-    "url": "https://www.dawn.com/news/2007259/jaac-protesters-in-ajks-poonch-district-disperse-on-fears-of-major-crackdown",
-    "timestamp": "2026-06-12T12:30:45.909019+00:00",
-    "original_time": "2026-06-12T11:27:07+05:00"
-  },
-  {
-    "id": "article_82c127a95d59",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Supreme Judicial Council to amend code of conduct for judges",
-    "translated_title": "最高司法委员会修改法官行为守则",
-    "url": "https://www.dawn.com/news/2007206/supreme-judicial-council-to-amend-code-of-conduct-for-judges",
-    "timestamp": "2026-06-12T12:30:51.973664+00:00",
-    "original_time": "2026-06-12T05:43:44+05:00"
-  },
-  {
-    "id": "article_556f0c1ee950",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "President Zardari approves bill, 'fulfilling all legal formalities' for PIA's privatisation",
-    "translated_title": "扎尔达里总统批准法案，为PIA私有化“履行所有法律手续”",
-    "url": "https://www.dawn.com/news/2007262/president-zardari-approves-bill-fulfilling-all-legal-formalities-for-pias-privatisation",
-    "timestamp": "2026-06-12T12:31:09.377942+00:00",
-    "original_time": "2026-06-12T12:07:57+05:00"
-  },
-  {
-    "id": "article_4b69f3dfbcf9",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2006551/fragile-ground",
-    "timestamp": "2026-06-12T12:31:36.127307+00:00",
-    "original_time": "2026-06-12T12:31:36.127277+00:00"
-  },
-  {
-    "id": "article_280900a78b3e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "ECONOMIC SURVEY 2025-26: Provinces’ development freeze to persist beyond next fiscal year",
-    "translated_title": "2025-26 年经济调查：各省的发展冻结将持续到下一财年之后",
-    "url": "https://www.dawn.com/news/2007230",
-    "timestamp": "2026-06-12T12:31:48.450574+00:00",
-    "original_time": "2026-06-12T05:58:56+05:00"
-  },
-  {
-    "id": "article_63d9930a218c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Man convicted in France after pit bull killed pregnant girlfriend",
-    "translated_title": "斗牛犬杀死怀孕女友后法国男子被定罪",
-    "url": "https://www.dawn.com/news/2007214/man-convicted-in-france-after-pit-bull-killed-pregnant-girlfriend",
-    "timestamp": "2026-06-12T12:31:52.206460+00:00",
-    "original_time": "2026-06-12T05:43:38+05:00"
-  },
-  {
-    "id": "article_0c9e31f9f704",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2006234/stokes-atkinson-under-probe-for-nightclub-incident",
-    "timestamp": "2026-06-12T12:32:22.074757+00:00",
-    "original_time": "2026-06-12T12:32:22.074723+00:00"
-  },
-  {
-    "id": "article_a493b43f04fa",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Indigenous energy sources overtake thermal power",
-    "translated_title": "本土能源超越火力发电",
-    "url": "https://www.dawn.com/news/2007211",
-    "timestamp": "2026-06-12T12:32:29.631921+00:00",
-    "original_time": "2026-06-12T05:43:43+05:00"
+    "url": "https://www.dawn.com/news/2007203/pakistan-institute-of-medical-sciences-denies-imrans-transfer-rumours",
+    "timestamp": "2026-06-12T16:25:14.661554+00:00",
+    "original_time": "2026-06-12T16:25:14.661517+00:00"
   },
   {
     "id": "article_aaaa34112782",
@@ -747,38 +784,58 @@
     "title": "Pakistan secures top position at international military drill competition in UK: ISPR",
     "translated_title": "ISPR：巴基斯坦在英国国际军事演习比赛中获得第一名",
     "url": "https://www.dawn.com/news/2007266/pakistan-secures-top-position-at-international-military-drill-competition-in-uk-ispr",
-    "timestamp": "2026-06-12T12:32:45.589891+00:00",
+    "timestamp": "2026-06-12T16:25:19.596276+00:00",
     "original_time": "2026-06-12T11:55:09+05:00"
   },
   {
-    "id": "article_04e37ef65576",
+    "id": "article_02575a336e60",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "British defence minister quits, says Starmer not spending enough",
-    "translated_title": "英国国防部长辞职，称斯塔默支出不足",
-    "url": "https://www.dawn.com/news/2007220/british-defence-minister-quits-says-starmer-not-spending-enough",
-    "timestamp": "2026-06-12T12:32:49.314656+00:00",
-    "original_time": "2026-06-12T05:43:38+05:00"
+    "title": "AJK administration hopeful remaining JAAC protesters will disperse peacefully",
+    "translated_title": "AJK 政府希望剩余的 JAAC 抗议者能够和平解散",
+    "url": "https://www.dawn.com/news/2007259/ajk-administration-hopeful-remaining-jaac-protesters-will-disperse-peacefully",
+    "timestamp": "2026-06-12T16:25:32.166740+00:00",
+    "original_time": "2026-06-12T11:27:07+05:00"
   },
   {
-    "id": "article_92708f6b2a27",
+    "id": "article_fae48cf0d1de",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Trump unveils ‘great’ Iran deal, signing expected in Europe",
-    "translated_title": "特朗普公布了“伟大的”伊朗协议，预计将在欧洲签署",
-    "url": "https://www.dawn.com/news/2007227/trump-unveils-great-iran-deal-signing-expected-in-europe",
-    "timestamp": "2026-06-12T12:32:53.748175+00:00",
-    "original_time": "2026-06-12T05:58:56+05:00"
+    "title": "Bangladesh, India to coordinate patrols on border, share intelligence amid migrant tensions",
+    "translated_title": "孟加拉国和印度将协调边境巡逻并在移民紧张局势中共享情报",
+    "url": "https://www.dawn.com/news/2007264/bangladesh-india-to-coordinate-patrols-on-border-share-intelligence-amid-migrant-tensions",
+    "timestamp": "2026-06-12T16:25:42.912277+00:00",
+    "original_time": "2026-06-12T11:45:17+05:00"
   },
   {
-    "id": "article_8fc3c8c1aa72",
+    "id": "article_3c8caa65fd07",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "PTI’s Gohar Ali Khan summoned over Imran’s social media activity",
-    "translated_title": "PTI 的 Gohar Ali Khan 因伊姆兰的社交媒体活动而被传唤",
-    "url": "https://www.dawn.com/news/2007201/ptis-gohar-ali-khan-summoned-over-imrans-social-media-activity",
-    "timestamp": "2026-06-12T12:33:09.859685+00:00",
-    "original_time": "2026-06-12T05:43:44+05:00"
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2007280/11-arrested-in-karachi-for-slogans-flags-supporting-mqm-founder-altaf-hussain",
+    "timestamp": "2026-06-12T16:26:02.349566+00:00",
+    "original_time": "2026-06-12T16:26:02.349529+00:00"
+  },
+  {
+    "id": "article_795903220c9d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Budget FY26-27: How much tax will you pay? Use the Dawn Income Tax Calculator to find out",
+    "translated_title": "2026-27 财年预算：您将缴纳多少税？使用黎明所得税计算器找出答案",
+    "url": "https://www.dawn.com/news/2007322/budget-fy26-27-how-much-tax-will-you-pay-use-the-dawn-income-tax-calculator-to-find-out",
+    "timestamp": "2026-06-12T16:26:19.726142+00:00",
+    "original_time": "2026-06-12T18:14:19+05:00"
+  },
+  {
+    "id": "article_50c9b9a49a60",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2006521/bulls-toss-index-above-170000-milestone",
+    "timestamp": "2026-06-12T16:26:58.316733+00:00",
+    "original_time": "2026-06-12T16:26:58.316697+00:00"
   },
   {
     "id": "article_5b5747ff6bcf",
@@ -787,68 +844,38 @@
     "title": "2 policemen martyred in separate 'targeted attacks' in Bannu",
     "translated_title": "班努两名警察在不同的“针对性袭击”中丧生",
     "url": "https://www.dawn.com/news/2007254/2-policemen-martyred-in-separate-targeted-attacks-in-bannu",
-    "timestamp": "2026-06-12T12:33:47.066958+00:00",
+    "timestamp": "2026-06-12T16:27:12.022615+00:00",
     "original_time": "2026-06-12T09:40:35+05:00"
   },
   {
-    "id": "article_82ab0dacc1b5",
+    "id": "article_5722e3c40d24",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "How Pakistan stabilised its way into poverty in 21 graphs",
+    "translated_title": "21张图表显示巴基斯坦如何稳定陷入贫困",
+    "url": "https://www.dawn.com/news/2007337/how-pakistan-stabilised-its-way-into-poverty-in-21-graphs",
+    "timestamp": "2026-06-12T16:27:16.353831+00:00",
+    "original_time": "2026-06-12T20:25:31+05:00"
+  },
+  {
+    "id": "article_556f0c1ee950",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "President Zardari approves bill, 'fulfilling all legal formalities' for PIA's privatisation",
+    "translated_title": "扎尔达里总统批准法案，为PIA私有化“履行所有法律手续”",
+    "url": "https://www.dawn.com/news/2007262/president-zardari-approves-bill-fulfilling-all-legal-formalities-for-pias-privatisation",
+    "timestamp": "2026-06-12T16:27:24.588082+00:00",
+    "original_time": "2026-06-12T12:07:57+05:00"
+  },
+  {
+    "id": "article_3649ebf8fc10",
     "type": "article",
     "source": "www.dawn.com",
     "title": "www.dawn.com",
     "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2006555/centre-vs-provinces",
-    "timestamp": "2026-06-12T12:34:13.283271+00:00",
-    "original_time": "2026-06-12T12:34:13.283237+00:00"
-  },
-  {
-    "id": "article_dd8eaf9ac991",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PTI leaders asked to silence colleagues ‘airing dirty laundry’",
-    "translated_title": "PTI 领导人要求让同事们保持沉默",
-    "url": "https://www.dawn.com/news/2007226/pti-leaders-asked-to-silence-colleagues-airing-dirty-laundry",
-    "timestamp": "2026-06-12T12:34:17.381255+00:00",
-    "original_time": "2026-06-12T05:58:57+05:00"
-  },
-  {
-    "id": "article_d938f8308014",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Balochistan strike halted after dialogue",
-    "translated_title": "俾路支省罢工在对话后停止",
-    "url": "https://www.dawn.com/news/2007205/balochistan-strike-halted-after-dialogue",
-    "timestamp": "2026-06-12T12:34:41.780622+00:00",
-    "original_time": "2026-06-12T05:43:44+05:00"
-  },
-  {
-    "id": "article_88f197d7a211",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "MQM-P delegation calls on PM Shehbaz ahead of budget; party leader says Rs20bn allocation sought for Karachi projects",
-    "translated_title": "MQM-P 代表团呼吁总理谢巴兹提前提出预算；该党领导人表示为卡拉奇项目寻求200亿卢比拨款",
-    "url": "https://www.dawn.com/news/2007301/mqm-p-delegation-calls-on-pm-shehbaz-ahead-of-budget-party-leader-says-rs20bn-allocation-sought-for-karachi-projects",
-    "timestamp": "2026-06-12T12:34:45.306334+00:00",
-    "original_time": "2026-06-12T15:29:07+05:00"
-  },
-  {
-    "id": "article_92e4640804a8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Former senator Taj Afridi dies in M-1 motorway crash",
-    "translated_title": "前参议员泰姬·阿夫里迪 (Taj Afridi) 在 M-1 高速公路事故中丧生",
-    "url": "https://www.dawn.com/news/2007313/former-senator-taj-afridi-dies-in-m-1-motorway-crash",
-    "timestamp": "2026-06-12T12:35:02.397147+00:00",
-    "original_time": "2026-06-12T16:55:29+05:00"
-  },
-  {
-    "id": "article_2f8f6b650c03",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan Institute of Medical Sciences denies Imran’s transfer rumours",
-    "translated_title": "巴基斯坦医学科学研究所否认伊姆兰转会传闻",
-    "url": "https://www.dawn.com/news/2007203/pakistan-institute-of-medical-sciences-denies-imrans-transfer-rumours",
-    "timestamp": "2026-06-12T12:35:11.459581+00:00",
-    "original_time": "2026-06-12T05:43:44+05:00"
+    "url": "https://www.dawn.com/news/2006506/after-anthropic-openai-files-for-ipo-as-ai-giants-head-to-market",
+    "timestamp": "2026-06-12T16:28:07.365604+00:00",
+    "original_time": "2026-06-12T16:28:07.365568+00:00"
   },
   {
     "id": "article_ce433c1d9847",
@@ -857,27 +884,127 @@
     "title": "SpaceX IPO makes Elon Musk the world's first trillionaire",
     "translated_title": "SpaceX 首次公开募股使埃隆·马斯克成为世界上第一位万亿富翁",
     "url": "https://www.dawn.com/news/2007278/spacex-ipo-makes-elon-musk-the-worlds-first-trillionaire",
-    "timestamp": "2026-06-12T12:35:15.553101+00:00",
+    "timestamp": "2026-06-12T16:28:37.289802+00:00",
     "original_time": "2026-06-12T14:06:19+05:00"
   },
   {
-    "id": "article_e3fe91cf7685",
+    "id": "article_d926a7aabd19",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz stresses importance of 'strong security' ahead of budget presentation",
+    "translated_title": "谢巴兹总理在预算公布前强调“强有力的安全”的重要性",
+    "url": "https://www.dawn.com/news/2007306/pm-shehbaz-stresses-importance-of-strong-security-ahead-of-budget-presentation",
+    "timestamp": "2026-06-12T16:29:13.258321+00:00",
+    "original_time": "2026-06-12T16:02:36+05:00"
+  },
+  {
+    "id": "article_80301d311684",
     "type": "article",
     "source": "www.dawn.com",
     "title": "www.dawn.com",
     "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007228",
-    "timestamp": "2026-06-12T12:35:46.309614+00:00",
-    "original_time": "2026-06-12T12:35:46.309582+00:00"
+    "url": "https://www.dawn.com/news/2007159/aitchison-college-dedicates-classroom-to-indian-punjab-ex-cm-harcharan-brar",
+    "timestamp": "2026-06-12T16:29:59.158631+00:00",
+    "original_time": "2026-06-12T16:29:59.158598+00:00"
   },
   {
-    "id": "article_3c8caa65fd07",
+    "id": "article_dd8eaf9ac991",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "11 arrested in Karachi for slogans, flags supporting MQM founder Altaf Hussain",
-    "translated_title": "11 人因支持 MQM 创始人 Altaf Hussain 的口号和旗帜而在卡拉奇被捕",
-    "url": "https://www.dawn.com/news/2007280/11-arrested-in-karachi-for-slogans-flags-supporting-mqm-founder-altaf-hussain",
-    "timestamp": "2026-06-12T12:36:00.695144+00:00",
-    "original_time": "2026-06-12T14:09:24+05:00"
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2007226/pti-leaders-asked-to-silence-colleagues-airing-dirty-laundry",
+    "timestamp": "2026-06-12T16:30:44.553208+00:00",
+    "original_time": "2026-06-12T16:30:44.553173+00:00"
+  },
+  {
+    "id": "article_9d7c588fcd59",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Supreme Court to lift austerity measures from June 15",
+    "translated_title": "最高法院将从 6 月 15 日起取消紧缩措施",
+    "url": "https://www.dawn.com/news/2007324/supreme-court-to-lift-austerity-measures-from-june-15",
+    "timestamp": "2026-06-12T16:31:22.376491+00:00",
+    "original_time": "2026-06-12T19:37:13+05:00"
+  },
+  {
+    "id": "article_88f197d7a211",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2007301/mqm-p-delegation-calls-on-pm-shehbaz-ahead-of-budget-party-leader-says-rs20bn-allocation-sought-for-karachi-projects",
+    "timestamp": "2026-06-12T16:31:46.385316+00:00",
+    "original_time": "2026-06-12T16:31:46.385284+00:00"
+  },
+  {
+    "id": "article_9d34734ff723",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan's young population could power its economy. The Economic Survey shows why it won't",
+    "translated_title": "巴基斯坦的年轻人口可以为其经济提供动力。经济调查显示了为什么不会",
+    "url": "https://www.dawn.com/news/2007253/pakistans-young-population-could-power-its-economy-the-economic-survey-shows-why-it-wont",
+    "timestamp": "2026-06-12T16:31:53.598070+00:00",
+    "original_time": "2026-06-12T09:41:56+05:00"
+  },
+  {
+    "id": "article_896c3aca39a0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Govt unveils Rs18.8tr budget for FY2026-27; GDP growth targeted at 4pc",
+    "translated_title": "政府公布 2026-27 财年 18.8tr 卢比的预算； GDP增长目标为4%",
+    "url": "https://www.dawn.com/news/2007283/govt-unveils-rs188tr-budget-for-fy2026-27-gdp-growth-targeted-at-4pc",
+    "timestamp": "2026-06-12T16:32:33.044387+00:00",
+    "original_time": "2026-06-12T13:46:22+05:00"
+  },
+  {
+    "id": "article_92e4640804a8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Former senator Taj Afridi dies in M-1 motorway crash",
+    "translated_title": "前参议员泰姬·阿夫里迪 (Taj Afridi) 在 M-1 高速公路事故中丧生",
+    "url": "https://www.dawn.com/news/2007313/former-senator-taj-afridi-dies-in-m-1-motorway-crash",
+    "timestamp": "2026-06-12T16:32:52.468879+00:00",
+    "original_time": "2026-06-12T16:55:29+05:00"
+  },
+  {
+    "id": "article_d345a4f1197f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "A year after deadly Air India crash, families await answers",
+    "translated_title": "印度航空致命空难一年后，家人等待答案",
+    "url": "https://www.dawn.com/news/2007273/a-year-after-deadly-air-india-crash-families-await-answers",
+    "timestamp": "2026-06-12T16:33:17.464247+00:00",
+    "original_time": "2026-06-12T12:39:17+05:00"
+  },
+  {
+    "id": "article_dad7fde03a0a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2005810/irans-world-cup-squad-heads-to-mexico-as-us-visa-row-erupts",
+    "timestamp": "2026-06-12T16:33:39.655269+00:00",
+    "original_time": "2026-06-12T16:33:39.655233+00:00"
+  },
+  {
+    "id": "article_74cdb2c13f37",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Why SQD-Mini LED is the display breakthrough we’ve been waiting for?",
+    "translated_title": "为什么SQD-Mini LED是我们一直在等待的显示突破？",
+    "url": "https://www.dawn.com/news/2007311/why-sqd-mini-led-is-the-display-breakthrough-weve-been-waiting-for",
+    "timestamp": "2026-06-12T16:33:43.137667+00:00",
+    "original_time": "2026-06-12T19:59:23+05:00"
+  },
+  {
+    "id": "article_c6c1657299b5",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Meta's social networks down for thousands of users",
+    "translated_title": "Meta 的社交网络因数千名用户而瘫痪",
+    "url": "https://www.dawn.com/news/2007342/metas-social-networks-down-for-thousands-of-users",
+    "timestamp": "2026-06-12T16:33:46.724099+00:00",
+    "original_time": "2026-06-12T20:28:55+05:00"
   }
 ]
