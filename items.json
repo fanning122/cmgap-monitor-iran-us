@@ -1,6 +1,19 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_8708740740787965024",
+    "id": "tweet_ForeignOfficePk_615526362847238379",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50held a telephone conversation today with the Foreign Minister of the Kingdom of Saudi Arabia, Prince Faisal bin Farhan@faisalbinfarhan.\n\nThey welcomed the US–Iran negotiations in their final stage,",
+    "translated_text": "副首相兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50今天与沙特阿拉伯王国外交部长费萨尔·本·法尔汉亲王@faisalbinfarhan进行了电话交谈。\n\n他们对美伊谈判进入最后阶段表示欢迎",
+    "images": [
+      "1d5ca3e77b935853.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/615526362847238379",
+    "timestamp": "2026-06-13T15:00:24.575559+00:00",
+    "original_time": "2026-06-13T13:57:31+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_1422460865544543896",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "DPM/FM Senator Mohammad Ishaq Dar@MIshaqDar50spoke today with Swiss Foreign Minister Ignazio Cassis@IgnazioCassis.\n\nWelcoming the encouraging progress towards an understanding between the United States and Iran, they expressed hope that ongoing efforts would soon contribute to",
@@ -8,12 +21,12 @@
     "images": [
       "13abce401f724968.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/8708740740787965024",
-    "timestamp": "2026-06-13T12:25:18.073855+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/1422460865544543896",
+    "timestamp": "2026-06-13T15:00:24.744718+00:00",
     "original_time": "2026-06-13T09:20:49+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_6607386308262155414",
+    "id": "tweet_ForeignOfficePk_7330951277634386260",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50spoke late last night with the Foreign Minister of Egypt, Badr Abdelatty.\n\nThe two leaders discussed the latest developments in the regional situation and welcomed the positive momentum in ongoing",
@@ -21,34 +34,34 @@
     "images": [
       "47cfd9ea70342340.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/6607386308262155414",
-    "timestamp": "2026-06-13T12:25:18.297425+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/7330951277634386260",
+    "timestamp": "2026-06-13T15:00:24.911740+00:00",
     "original_time": "2026-06-13T05:31:27+00:00"
   },
   {
-    "id": "tweet_MIshaqDar50_-4065787000677494568",
+    "id": "tweet_MIshaqDar50_3717894725596478429",
     "type": "tweet",
     "username": "MIshaqDar50",
     "text": "As the#FIFAWorldCup2026 commences in Mexico, the United States and Canada, Pakistan takes pride in playing its part in this global celebration of sport.\n\nThe official match ball, the Adidas Trionda, crafted in Sialkot through the skill, precision and craftsmanship of Pakistani",
     "translated_text": "随着 2026 年国际足联世界杯在墨西哥、美国和加拿大拉开帷幕，巴基斯坦为能在这一全球体育庆典中发挥自己的作用而感到自豪。\n\n官方比赛用球 Adidas Trionda 在锡亚尔科特通过巴基斯坦人的技术、精度和工艺制作而成",
     "images": [],
-    "url": "https://x.com/MIshaqDar50/status/-4065787000677494568",
-    "timestamp": "2026-06-13T12:25:33.223213+00:00",
+    "url": "https://x.com/MIshaqDar50/status/3717894725596478429",
+    "timestamp": "2026-06-13T15:00:38.250684+00:00",
     "original_time": "2026-06-13T11:42:52+00:00"
   },
   {
-    "id": "tweet_CMShehbaz_-6115814774650152275",
+    "id": "tweet_CMShehbaz_1898532668654927641",
     "type": "tweet",
     "username": "CMShehbaz",
     "text": "We are closer to a peace deal than ever before. With finalisation likely expected in the next 24 hours, Pakistan is preparing for the electronic signing of the peace deal immediately after, followed by technical level talks next week. \n\nWe would like to thank United States of",
     "translated_text": "我们比以往任何时候都更接近达成和平协议。预计最终确定将在未来 24 小时内完成，巴基斯坦正在准备随后立即以电子方式签署和平协议，随后在下周举行技术层面的会谈。 \n\n我们要感谢美国",
     "images": [],
-    "url": "https://x.com/CMShehbaz/status/-6115814774650152275",
-    "timestamp": "2026-06-13T12:25:33.534341+00:00",
+    "url": "https://x.com/CMShehbaz/status/1898532668654927641",
+    "timestamp": "2026-06-13T15:00:38.381281+00:00",
     "original_time": "2026-06-13T11:00:02+00:00"
   },
   {
-    "id": "tweet_DPM_PK_-919478650776197179",
+    "id": "tweet_DPM_PK_-5846553071890039339",
     "type": "tweet",
     "username": "DPM_PK",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50today chaired a meeting of the Cabinet Committee on Privatization (CCoP).\n\nThe Committee reviewed progress on steps required to complete the first closing of the divestment of Pakistan International",
@@ -59,12 +72,12 @@
       "a7aae94e55e8a608.jpg",
       "39b14d7115cf24d5.jpg"
     ],
-    "url": "https://x.com/DPM_PK/status/-919478650776197179",
-    "timestamp": "2026-06-13T12:25:33.910683+00:00",
+    "url": "https://x.com/DPM_PK/status/-5846553071890039339",
+    "timestamp": "2026-06-13T15:00:38.698032+00:00",
     "original_time": "2026-06-13T09:48:50+00:00"
   },
   {
-    "id": "tweet_dawn_com_-8674503249489590893",
+    "id": "tweet_dawn_com_3958378025201454232",
     "type": "tweet",
     "username": "dawn_com",
     "text": "Dar, Egypt FM express hope for 'early and constructive outcome' of ongoing US-Iran talks\n\nFollow our live coverage of US-Israeli war on Iran:https://dawn.com/live/iran-israel-war…",
@@ -72,23 +85,49 @@
     "images": [
       "12b4f3c364316520.jpg"
     ],
-    "url": "https://x.com/dawn_com/status/-8674503249489590893",
-    "timestamp": "2026-06-13T12:25:34.378059+00:00",
+    "url": "https://x.com/dawn_com/status/3958378025201454232",
+    "timestamp": "2026-06-13T15:00:39.072215+00:00",
     "original_time": "2026-06-13T07:01:58+00:00"
   },
   {
-    "id": "tweet_PakPMO_7413766411676897923",
+    "id": "tweet_CMShehbaz_5516990657423944464",
+    "type": "tweet",
+    "username": "CMShehbaz",
+    "text": "During my warm and cordial telephone conversation this evening with my brother, H.E. Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, Prime Minister and Foreign Minister of the State of Qatar, I conveyed my profound appreciation for Qatar’s steadfast support for Pakistan’s",
+    "translated_text": "今天晚上，我与我的兄弟 H.E. 进行了热情友好的电话交谈。卡塔尔国首相兼外交部长谢赫·穆罕默德·本·阿卜杜拉赫曼·本·贾西姆·阿勒萨尼，我对卡塔尔对巴基斯坦的坚定支持表示深切赞赏",
+    "images": [],
+    "url": "https://x.com/CMShehbaz/status/5516990657423944464",
+    "timestamp": "2026-06-13T15:00:55.171303+00:00",
+    "original_time": "2026-06-13T14:10:56+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_3380820864975802622",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "ISLAMABAD: 13 June 2026.\n\nPrime Minister Muhammad Shehbaz Sharif receives telephone call from the Prime Minister & Foreign Minister of Qatar.\n\nPrime Minister Muhammad Shehbaz Sharif received a telephone call from His Excellency Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani,",
+    "translated_text": "伊斯兰堡：2026 年 6 月 13 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫接到卡塔尔首相兼外交部长的电话。\n\n穆罕默德·谢赫巴兹·谢里夫总理接到谢赫·穆罕默德·本·阿卜杜拉赫曼·本·贾西姆·阿勒萨尼阁下的电话，",
+    "images": [
+      "a1d924a2ab5d4f6c.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/3380820864975802622",
+    "timestamp": "2026-06-13T15:01:10.323205+00:00",
+    "original_time": "2026-06-13T13:55:25+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_4074460992453454889",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad, 13 June 2026.\n\nPrime Minister Muhammad Shehbaz Sharif held meetings with members of the National Assembly at Parliament House.\n\nNational Assembly members Abrar Shah, Saima Khalid, Shahida Rehman, Jamal Shah Kakar, and Khurram Shehzad, Sardar Yaqoob Khan Nasir, Major",
     "translated_text": "伊斯兰堡，2026 年 6 月 13 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫在议会大厦与国民议会成员举行会议。\n\n国民议会成员 Abrar Shah、Saima Khalid、Shahida Rehman、Jamal Shah Kakar 和 Khurram Shehzad、Sardar Yaqoob Khan Nasir、Major",
-    "images": [],
-    "url": "https://x.com/PakPMO/status/7413766411676897923",
-    "timestamp": "2026-06-13T12:26:06.683588+00:00",
+    "images": [
+      "652933ed189a7f76.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/4074460992453454889",
+    "timestamp": "2026-06-13T15:01:10.500422+00:00",
     "original_time": "2026-06-13T12:00:46+00:00"
   },
   {
-    "id": "tweet_PakPMO_2806801417605574180",
+    "id": "tweet_PakPMO_4092222899655934525",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif, while addressing the National Assembly session, reiterated his resolve that he is ready to engage in dialogue with the opposition for the promotion of the Constitution, law, and democracy. The Prime Minister said that our security forces",
@@ -96,12 +135,12 @@
     "images": [
       "57441f40046d09de.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/2806801417605574180",
-    "timestamp": "2026-06-13T12:26:06.994997+00:00",
+    "url": "https://x.com/PakPMO/status/4092222899655934525",
+    "timestamp": "2026-06-13T15:01:10.822948+00:00",
     "original_time": "2026-06-13T09:36:32+00:00"
   },
   {
-    "id": "tweet_PakPMO_958808831197804422",
+    "id": "tweet_PakPMO_8010080769242626869",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif addressing the Budget Session of the National Assembly in Islamabad on 13 June 2026.",
@@ -112,12 +151,156 @@
       "bb8c311fd7eca39f.jpg",
       "30ff78fce54135ea.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/958808831197804422",
-    "timestamp": "2026-06-13T12:26:07.270860+00:00",
+    "url": "https://x.com/PakPMO/status/8010080769242626869",
+    "timestamp": "2026-06-13T15:01:11.145507+00:00",
     "original_time": "2026-06-13T09:36:29+00:00"
   },
   {
-    "id": "tweet_mb_ghalibaf_-1090358583707944261",
+    "id": "tweet_PakTVGlobal_6210171850345367936",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "From the skilled hands of Sialkot to football’s grandest stage, Pakistan once again powers the FIFA World Cup with the official match ball ‘Trionda’. \n\nPakistan TV’s exclusive documentary ‘Made in Pakistan: Sialkot to FIFA’ showcases how Sialkot continues to lead global sports",
+    "translated_text": "从锡亚尔科特的熟练之手到足球最盛大的舞台，巴基斯坦再次以官方比赛用球“Trionda”为国际足联世界杯提供动力。 \n\n巴基斯坦电视台独家纪录片《巴基斯坦制造：锡亚尔科特到国际足联》展示了锡亚尔科特如何继续引领全球体育运动",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/6210171850345367936",
+    "timestamp": "2026-06-13T15:01:43.734920+00:00",
+    "original_time": "2026-06-13T12:37:00+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-3031199821175988938",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Talking exclusively to Pakistan TV for its documentary, 'Made in Pakistan: Sialkot to FIFA', CEO Forward Sports, Khawaja Masood, highlighted Sialkot’s remarkable contribution to global football, noting that Pakistan has once again produced the official FIFA World Cup ball for the",
+    "translated_text": "Forward Sports 首席执行官 Khawaja Masood 在接受巴基斯坦电视台纪录片《巴基斯坦制造：锡亚尔科特到国际足联》独家采访时强调了锡亚尔科特对全球足球的杰出贡献，并指出巴基斯坦再次为国际足联生产了世界杯官方用球。",
+    "images": [
+      "e21d4d5ea2a9e413.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3031199821175988938",
+    "timestamp": "2026-06-13T15:01:44.185068+00:00",
+    "original_time": "2026-06-13T14:30:48+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1816994056987771615",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGUS President Donald Trump shares a screenshot of Prime Minister Shehbaz Sharif’s X Post on Truth Social, which highlights the possibility of a US–Iran deal#USIranDeal#Trump#PMShehbazSharif#USPolitics#Diplomacy#PakistanTV",
+    "translated_text": "#BREAKINGUS 总统唐纳德·特朗普分享了总理谢巴兹·谢里夫在 Truth Social 上发表的 X 帖子的屏幕截图，该帖子强调了美国与伊朗达成协议的可能性#USIranDeal#Trump#PMShehbazSharif#USPolitics#Diplomacy#PakistanTV",
+    "images": [
+      "7774b9aa4c9b4b1c.jpg",
+      "54bb414554bac556.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1816994056987771615",
+    "timestamp": "2026-06-13T15:01:44.927449+00:00",
+    "original_time": "2026-06-13T14:28:04+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2695864581534334580",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Talking exclusively to Pakistan TV for its documentary, 'Made in Pakistan: Sialkot to FIFA', former cricket captain and star player Shahid Afridi said the FIFA World Cup is a moment of great pride for every Pakistani, as the official match ball has once again been manufactured in",
+    "translated_text": "前板球队长兼明星球员沙希德·阿夫里迪在巴基斯坦电视台的纪录片《巴基斯坦制造：从锡亚尔科特到国际足联》中接受独家采访时表示，国际足联世界杯对每个巴基斯坦人来说都是一个值得骄傲的时刻，因为官方比赛用球再次在巴基斯坦制造。",
+    "images": [
+      "06f0e847214cb204.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2695864581534334580",
+    "timestamp": "2026-06-13T15:01:45.387146+00:00",
+    "original_time": "2026-06-13T14:21:05+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3358000734422854652",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Talking exclusively to Pakistan TV for its documentary, ‘Made in Pakistan: Sialkot to FIFA', British High Commissioner Jane Marriott says Pakistan has already made its mark on the FIFA World Cup through Sialkot’s world-class craftsmanship, with match balls used in iconic moments",
+    "translated_text": "英国高级专员简·马里奥特在接受巴基斯坦电视台纪录片《巴基斯坦制造：锡亚尔科特到国际足联》采访时表示，巴基斯坦已经通过锡亚尔科特的世界级工艺在国际足联世界杯上留下了印记，在标志性时刻使用了比赛用球",
+    "images": [
+      "9360a8df39b4a7c2.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/3358000734422854652",
+    "timestamp": "2026-06-13T15:01:47.924782+00:00",
+    "original_time": "2026-06-13T13:14:45+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-8881746003799389930",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Talking exclusively to Pakistan TV for its documentary, ‘Made in Pakistan: Sialkot to FIFA’, seasoned politician from Sialkot, Defence Minister Khawaja Asif said it is a matter of great pride that Sialkot represents Pakistan on the global stage. He lauded the city’s",
+    "translated_text": "来自锡亚尔科特的经验丰富的政治家、国防部长哈瓦贾·阿西夫在其纪录片《巴基斯坦制造：锡亚尔科特到国际足联》中接受巴基斯坦电视台独家采访时表示，锡亚尔科特在全球舞台上代表巴基斯坦感到非常自豪。他称赞这座城市",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-8881746003799389930",
+    "timestamp": "2026-06-13T15:01:48.436959+00:00",
+    "original_time": "2026-06-13T12:58:05+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1690970471351828550",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iran's former supreme leader Ali Khamenei will be laid to rest in Mashhad on July 9 following months of delay caused by the conflict. Funeral ceremonies begin in Tehran on July 4 before proceeding to Qom and Mashhad.#AliKhamenei#Iran#Tehran#Mashhad#PakistanTV",
+    "translated_text": "伊朗前最高领导人阿里·哈梅内伊的安葬仪式因冲突而延迟数月，将于 7 月 9 日在马什哈德安息。葬礼将于 7 月 4 日在德黑兰开始，然后前往库姆和马什哈德。#AliKhamenei#Iran#Tehran#Mashhad#PakistanTV",
+    "images": [
+      "9ab0d1e80146c0b7.png",
+      "aec8e15b5ff3d928.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1690970471351828550",
+    "timestamp": "2026-06-13T15:01:48.951788+00:00",
+    "original_time": "2026-06-13T12:18:21+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1836153600057524086",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Five personnel of the Indian Air Force were killed when a Russian-made Antonov An-32 transport aircraft crashed while landing at an air force station in Assam’s Jorhat region during a routine sortie. The air force confirmed that crash site management and initial investigations",
+    "translated_text": "印度空军一架俄制安东诺夫 An-32 运输机在例行出动中降落在阿萨姆邦乔尔哈特地区的一个空军基地时坠毁，造成 5 名印度空军人员死亡。空军证实坠机现场管理和初步调查",
+    "images": [
+      "cd9359203d394b25.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1836153600057524086",
+    "timestamp": "2026-06-13T15:01:49.574708+00:00",
+    "original_time": "2026-06-13T11:56:51+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1801648215950208749",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The Bangladesh Cricket Board has called for a thorough investigation after Test cricketer Nayeem Hasan alleged he was assaulted by police in Chattogram, with officers removed from duty pending inquiry.#BangladeshCricket#NayeemHasan#BCB#CricketNews#PakistanTV",
+    "translated_text": "孟加拉国板球委员会呼吁进行彻底调查，因为测试板球运动员纳伊姆·哈桑声称他在吉大港遭到警察袭击，警察已被停职等待调查。#BangladeshCricket#NayeemHasan#BCB#CricketNews#PakistanTV",
+    "images": [
+      "909e418df14df648.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1801648215950208749",
+    "timestamp": "2026-06-13T15:01:50.142522+00:00",
+    "original_time": "2026-06-13T11:52:09+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-2048000135925505567",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGPrime Minister Shehbaz Sharif said Pakistan is closer than ever to a peace deal, with finalisation expected within 24 hours, followed by electronic signing and technical-level talks next week, expressing gratitude to the United States, Iran, and regional partners for",
+    "translated_text": "#BREAKING总理谢巴兹·谢里夫表示，巴基斯坦比以往任何时候都更接近达成和平协议，预计将在 24 小时内敲定，随后下周将进行电子签名和技术层面的会谈，并对美国、伊朗和地区合作伙伴表示感谢",
+    "images": [
+      "c285163164677974.jpg",
+      "10dbc22ca6dc619f.jpg",
+      "94a8df5df4dabc9e.jpg",
+      "a48e3d8c94631143.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-2048000135925505567",
+    "timestamp": "2026-06-13T15:01:51.002316+00:00",
+    "original_time": "2026-06-13T11:28:30+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-3824104745629207614",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Prime Minister Shehbaz Sharif has expressed confidence as negotiations on a proposed peace deal reach a decisive stage, with finalisation expected within the next 24 hours. Preparations are underway for electronic signing of the agreement, followed by technical-level talks",
+    "translated_text": "谢赫巴兹·谢里夫总理对拟议和平协议的谈判进入决定性阶段表示充满信心，预计将在未来 24 小时内敲定。电子签署协议的准备工作正在进行中，随后将进行技术层面的会谈",
+    "images": [
+      "2846476bf8a90b19.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3824104745629207614",
+    "timestamp": "2026-06-13T15:01:51.628940+00:00",
+    "original_time": "2026-06-13T11:20:13+00:00"
+  },
+  {
+    "id": "tweet_mb_ghalibaf_5288248264605955066",
     "type": "tweet",
     "username": "mb_ghalibaf",
     "text": "One year has passed since the start of the first round of criminal attacks by the Israeli and American regimes on our eternal home, Iran; they murdered innocent children and refrained from no crime or cruelty.\n\nInspired by the heroic and oppressed martyrs of the 12-Day War, we",
@@ -125,243 +308,212 @@
     "images": [
       "5917b171091bcb3b.jpg"
     ],
-    "url": "https://x.com/mb_ghalibaf/status/-1090358583707944261",
-    "timestamp": "2026-06-13T12:27:34.470965+00:00",
+    "url": "https://x.com/mb_ghalibaf/status/5288248264605955066",
+    "timestamp": "2026-06-13T15:03:45.854465+00:00",
     "original_time": "2026-06-13T10:16:22+00:00"
   },
   {
-    "id": "tweet_AJENews_4169585793254847718",
+    "id": "tweet_AJENews_158630954428675833",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: Israel says a suspicious aerial target has fallen where its troops are operating inside southern LebanonLIVE updates:https://aje.news/1n1bb7?update=4654529…",
-    "translated_text": "更新：以色列表示，其部队在黎巴嫩南部行动的地方有一个可疑的空中目标落下实时更新：https://aje.news/1n1bb7?update=4654529…",
+    "text": "BREAKING: UK PM Keir Starmer told NATO Secretary General Mark Rutte that the UK will publish its defence investment plan ahead of the alliance's upcoming summit in Ankara, reports Reuters.More onhttp://aljazeera.com",
+    "translated_text": "突发新闻：据路透社报道，英国首相凯尔·斯塔默告诉北约秘书长马克·吕特，英国将在北约即将于安卡拉举行的峰会之前公布其国防投资计划。更多信息请访问 http://aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "beb996574e999cc6.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/158630954428675833",
+    "timestamp": "2026-06-13T15:04:01.388764+00:00",
+    "original_time": "2026-06-13T15:00:11+00:00"
+  },
+  {
+    "id": "tweet_AJENews_4469487526874240513",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Lebanon death toll rises to 3,756 due to ongoing Israeli attacks since March 2: Health MinistryLIVE updates:https://aje.news/1n1bb7?update=4654734…",
+    "translated_text": "突发新闻：由于 3 月 2 日以来以色列持续发动袭击，黎巴嫩死亡人数上升至 3,756 人：卫生部实时更新：https://aje.news/1n1bb7?update=4654734…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "09c5b87301c83c64.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/4469487526874240513",
+    "timestamp": "2026-06-13T15:04:01.795522+00:00",
+    "original_time": "2026-06-13T14:53:28+00:00"
+  },
+  {
+    "id": "tweet_AJENews_4967824270358792984",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Lebanon death toll rises to 3,756 due to ongoing Israeli attacks since March 2: Health ministryLIVE updates:https://aje.news/1n1bb7?update=4654734…",
+    "translated_text": "突发新闻：由于 3 月 2 日以来以色列持续发动袭击，黎巴嫩死亡人数上升至 3,756 人：卫生部实时更新：https://aje.news/1n1bb7?update=4654734...",
+    "images": [
+      "7f1a451786c84548.svg",
+      "1ea3d05d46e5dbc9.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/4967824270358792984",
+    "timestamp": "2026-06-13T15:04:02.313001+00:00",
+    "original_time": "2026-06-13T14:40:28+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-2835746315802882934",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Israeli forces in the occupied West Bank shoot and injure Palestinian man with disabilitiesLIVE updates:https://aje.news/1n1bb7?update=4654601…",
+    "translated_text": "突发事件：以色列军队在被占领的约旦河西岸开枪打伤巴勒斯坦残疾男子实时更新：https://aje.news/1n1bb7?update=4654601…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "53b3450f48512b8f.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-2835746315802882934",
+    "timestamp": "2026-06-13T15:04:02.830601+00:00",
+    "original_time": "2026-06-13T13:45:18+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-6198646122421373305",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: US-Iran deal will not be signed tomorrow: Iran's Foreign MinistryLIVE updates:https://aje.news/1n1bb7?update=4654652…",
+    "translated_text": "突发：美伊协议明天不会签署：伊朗外交部实时更新：https://aje.news/1n1bb7?update=4654652…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "b84e20c3c751ab2b.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-6198646122421373305",
+    "timestamp": "2026-06-13T15:04:03.186612+00:00",
+    "original_time": "2026-06-13T13:30:24+00:00"
+  },
+  {
+    "id": "tweet_AJENews_4975510730797555039",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Israel says that its air force has intercepted an aerial target coming from LebanonLIVE updates:https://aje.news/1n1bb7?update=4653786…",
+    "translated_text": "突发：以色列表示其空军拦截了来自黎巴嫩的空中目标实时更新：https://aje.news/1n1bb7?update=4653786…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/4169585793254847718",
-    "timestamp": "2026-06-13T12:27:49.397844+00:00",
-    "original_time": "2026-06-13T11:55:30+00:00"
+    "url": "https://x.com/AJENews/status/4975510730797555039",
+    "timestamp": "2026-06-13T15:04:05.750982+00:00",
+    "original_time": "2026-06-13T06:25:37+00:00"
   },
   {
-    "id": "tweet_AJENews_7406122949229835732",
+    "id": "tweet_AJENews_-1363824806251401064",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel activates air raid siren alert for MargaliotLIVE updates:https://aje.news/1n1bb7?update=4654515…",
-    "translated_text": "突发新闻：以色列针对 MargaliotLIVE 更新激活空袭警报：https://aje.news/1n1bb7?update=4654515…",
+    "text": "BREAKING: Israel issues forced displacement orders to 20 Lebanese towns and villagesLIVE updates:https://aje.news/1n1bb7?update=4653762…",
+    "translated_text": "突发新闻：以色列向 20 个黎巴嫩城镇和村庄发出强制流离失所令实时更新：https://aje.news/1n1bb7?update=4653762…",
     "images": [
       "7f1a451786c84548.svg",
-      "e67f0fcf2e363112.jpg"
+      "20193ec9124bcdbe.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7406122949229835732",
-    "timestamp": "2026-06-13T12:27:49.706399+00:00",
-    "original_time": "2026-06-13T11:40:24+00:00"
+    "url": "https://x.com/AJENews/status/-1363824806251401064",
+    "timestamp": "2026-06-13T15:04:06.166745+00:00",
+    "original_time": "2026-06-13T06:20:26+00:00"
   },
   {
-    "id": "tweet_AJENews_-3197610510381226818",
+    "id": "tweet_AJENews_-133847705691687434",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Pakistan's prime minister says a deal between the US and Iran is likely to be finalised in next 24 hoursLIVE updates:https://aje.news/1n1bb7?update=4654402…",
-    "translated_text": "突发新闻：巴基斯坦总理表示，美国和伊朗之间的协议可能会在未来 24 小时内敲定 实时更新：https://aje.news/1n1bb7?update=4654402...",
+    "text": "BREAKING: The Israeli Army has issued a forced evacuation warning for residents of 20 villages and towns in southern Lebanon.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：以色列军队向黎巴嫩南部 20 个村庄和城镇的居民发出强制疏散警告。更多信息请访问 http://Aljazeera.com",
     "images": [
       "7f1a451786c84548.svg",
-      "0816f8d0bbc12ced.jpg"
+      "bb3555533dc5278b.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-3197610510381226818",
-    "timestamp": "2026-06-13T12:27:50.931364+00:00",
-    "original_time": "2026-06-13T11:20:24+00:00"
+    "url": "https://x.com/AJENews/status/-133847705691687434",
+    "timestamp": "2026-06-13T15:04:06.733309+00:00",
+    "original_time": "2026-06-13T06:19:47+00:00"
   },
   {
-    "id": "tweet_AJENews_-8097649694996770147",
+    "id": "tweet_AJENews_4388118151993860802",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel issues further forced displacement orders for more Lebanese towns and villagesLIVE updates:https://aje.news/1n1bb7?update=4654364…",
-    "translated_text": "突发新闻：以色列向更多黎巴嫩城镇和村庄发出进一步的强迫流离失所令实时更新：https://aje.news/1n1bb7?update=4654364…",
+    "text": "BREAKING: Israel kills one in southern LebanonLIVE updates:https://aje.news/1n1bb7?update=4653698…",
+    "translated_text": "突发新闻：以色列在黎巴嫩南部杀死了一名现场更新：https://aje.news/1n1bb7?update=4653698…",
     "images": [
       "7f1a451786c84548.svg",
-      "88c9cf48ae24d087.jpg"
+      "74982f18a6ffc511.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-8097649694996770147",
-    "timestamp": "2026-06-13T12:27:53.244687+00:00",
-    "original_time": "2026-06-13T11:05:21+00:00"
+    "url": "https://x.com/AJENews/status/4388118151993860802",
+    "timestamp": "2026-06-13T15:04:07.232974+00:00",
+    "original_time": "2026-06-13T05:55:05+00:00"
   },
   {
-    "id": "tweet_AJENews_-5632519552805928864",
+    "id": "tweet_AJENews_-7392754937175223928",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Funeral of Iran's Ali Khamenei to be held in JulyLIVE updates:https://aje.news/1n1bb7?update=4654301…",
-    "translated_text": "突发新闻：伊朗阿里·哈梅内伊的葬礼将于七月举行实时更新：https://aje.news/1n1bb7?update=4654301…",
+    "text": "BREAKING: Israel activates warning sirens due to hostile aircraft in northLIVE updates:https://aje.news/1n1bb7?update=4653681…",
+    "translated_text": "突发事件：以色列因北部敌对飞机而拉响警报实时更新：https://aje.news/1n1bb7?update=4653681…",
     "images": [
       "7f1a451786c84548.svg",
-      "76bf5f11362f7856.jpg"
+      "8551fb53e12cfb21.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-5632519552805928864",
-    "timestamp": "2026-06-13T12:27:53.681170+00:00",
-    "original_time": "2026-06-13T10:47:46+00:00"
+    "url": "https://x.com/AJENews/status/-7392754937175223928",
+    "timestamp": "2026-06-13T15:04:07.768773+00:00",
+    "original_time": "2026-06-13T05:49:42+00:00"
   },
   {
-    "id": "tweet_AJENews_8675454535898038909",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: US says it downed multiple Iranian drones targeting ships in Hormuz StraitLIVE updates:https://aje.news/1n1bb7?update=4653099…",
-    "translated_text": "突发新闻：美国表示击落了多架针对霍尔木兹海峡船只的伊朗无人机实时更新：https://aje.news/1n1bb7?update=4653099…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "b685562dcb521654.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/8675454535898038909",
-    "timestamp": "2026-06-13T12:27:56.261247+00:00",
-    "original_time": "2026-06-13T01:55:24+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_3610095997131987943",
+    "id": "tweet_CBSNews_-6729790734679832054",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Tickets to the 2026 FIFA Men's World Cup may be scarce and very expensive, but there are several ways soccer fans can watch all 104 matches scheduled across the United States, Mexico and Canada in the tournament that started Thursday.",
-    "translated_text": "2026 年 FIFA 男子世界杯的门票可能非常稀缺且非常昂贵，但球迷可以通过多种方式观看周四开始的比赛中美国、墨西哥和加拿大安排的所有 104 场比赛。",
+    "text": "The advent of artificial intelligence is giving a new shine to a liberal arts education, which career experts say nurtures the skills valued by employers as AI increasingly changes the workplace.",
+    "translated_text": "人工智能的出现给文科教育带来了新的光彩，职业专家表示，随着人工智能日益改变工作场所，文科教育可以培养雇主重视的技能。",
     "images": [
-      "35249e226e25c1b7.jpg"
+      "b2d2ea758330323e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/3610095997131987943",
-    "timestamp": "2026-06-13T12:28:37.334950+00:00",
-    "original_time": "2026-06-13T12:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/-6729790734679832054",
+    "timestamp": "2026-06-13T15:04:50.589395+00:00",
+    "original_time": "2026-06-13T15:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_4470564735141909232",
+    "id": "tweet_CBSNews_97221093603118998",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "A surveillance camera captured the sound of dogs barking, helping authorities determine when Angela Prichard's estranged husband arrived at the location to wait for her.",
-    "translated_text": "监控摄像头捕捉到狗叫的声音，帮助当局确定安吉拉·普里查德分居的丈夫何时到达该地点等她。",
+    "text": "President Trump's name started to come off the facade of the Kennedy Center early Saturday morning under the cover of a large white tarp. A federal judge ordered Trump's name to be removed because only Congress has the power to rename the living memorial to President John F.",
+    "translated_text": "周六一大早，特朗普总统的名字就开始从肯尼迪中心的外墙上掉下来，覆盖着一块巨大的白色防水布。一名联邦法官下令删除特朗普的名字，因为只有国会有权将约翰·肯尼迪总统的活人纪念碑重新命名。",
     "images": [
-      "e53d2bc6860611da.jpg"
+      "d71424d76ebbe8c7.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4470564735141909232",
-    "timestamp": "2026-06-13T12:28:37.492862+00:00",
-    "original_time": "2026-06-13T11:45:00+00:00"
+    "url": "https://x.com/CBSNews/status/97221093603118998",
+    "timestamp": "2026-06-13T15:04:51.077810+00:00",
+    "original_time": "2026-06-13T14:06:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_2888563104181413456",
+    "id": "tweet_CBSNews_1577712042568808636",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "A U.S. military veteran is desperately urging ICE to release his wife, who is facing deportation: \"It rips my heart apart.\"",
-    "translated_text": "一名美国退伍军人拼命敦促 ICE 释放他面临驱逐出境的妻子：“这让我心碎。”",
+    "text": "An Australian lifeguard helped rescue a woman who was critically injured by a white shark while swimming off a popular Sydney beach on Saturday.",
+    "translated_text": "周六，一名澳大利亚救生员帮助营救了一名在悉尼热门海滩游泳时被白鲨重伤的妇女。",
     "images": [
-      "6959d4facb5eed18.jpg"
+      "647392fc5333d666.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2888563104181413456",
-    "timestamp": "2026-06-13T12:28:37.639877+00:00",
-    "original_time": "2026-06-13T11:21:00+00:00"
+    "url": "https://x.com/CBSNews/status/1577712042568808636",
+    "timestamp": "2026-06-13T15:04:51.244931+00:00",
+    "original_time": "2026-06-13T13:50:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_6378424822049723767",
+    "id": "tweet_CBSNews_8090367418873639029",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Before Juan Hernandez became a welder at SpaceX, he had never heard of the company.\n\nBut just over 10 years later, that leap of faith is paying off following the company's $75 billion initial public offering.",
-    "translated_text": "在胡安·埃尔南德斯 (Juan Hernandez) 成为 SpaceX 的焊工之前，他从未听说过这家公司。\n\n但仅仅 10 多年后，随着该公司 750 亿美元的首次公开募股，这种信念的飞跃得到了回报。",
+    "text": "A mom's Stage IV cancer had no symptoms. An innovative surgery saved her life.",
+    "translated_text": "一位母亲的第四期癌症没有任何症状。一项创新手术挽救了她的生命。",
     "images": [
-      "c517676e8a6893d6.jpg"
+      "2ee9737c84e29de3.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/6378424822049723767",
-    "timestamp": "2026-06-13T12:28:37.810951+00:00",
-    "original_time": "2026-06-13T11:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/8090367418873639029",
+    "timestamp": "2026-06-13T15:04:51.444715+00:00",
+    "original_time": "2026-06-13T13:00:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6192401940523075068",
+    "id": "tweet_CBSNews_6814463866450008816",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "The U.S. Men's National Team kicked off its 2026 FIFA World Cup campaign Friday on home turf at SoFi Stadium in Inglewood, California with a dominant 4-1 win over Paraguay.",
-    "translated_text": "美国男足周五在加利福尼亚州英格尔伍德索菲体育场的主场以 4-1 战胜巴拉圭队拉开了 2026 年 FIFA 世界杯征程的序幕。",
+    "text": "After months of back and forth, a peace deal between the U.S. and Iran is as little as one day away, according to Pakistani Prime Minister Shehbaz Sharif.\n\n\"We are closer to a peace deal than ever before,\" Sharif said Saturday on X.",
+    "translated_text": "巴基斯坦总理谢赫巴兹·谢里夫表示，经过几个月的反复，美国和伊朗之间的和平协议只剩下一天的时间。\n\n谢里夫周六在 X 号上表示：“我们比以往任何时候都更接近达成和平协议。”",
     "images": [
-      "137a9d644215f1e0.jpg"
+      "b9e5895be4d11cde.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-6192401940523075068",
-    "timestamp": "2026-06-13T12:28:37.968973+00:00",
-    "original_time": "2026-06-13T10:45:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-7111822617882855800",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "BREAKING: The U.S. military has killed the alleged leader of Venezuela-based gang Tren de Aragua, President Trump announced Friday.\n\nThe president said on Truth Social that U.S. Southern Command carried out a \"swift and lethal kinetic strike\" to \"successfully execute\" Hector",
-    "translated_text": "突发新闻：特朗普总统周五宣布，美国军方已击毙了委内瑞拉黑帮特伦·德·阿拉瓜的据称头目。\n\n总统在《真相社会》上表示，美国南方司令部实施了“迅速而致命的动能打击”，“成功处决”了赫克托",
-    "images": [
-      "5fa6dd7c1982f989.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-7111822617882855800",
-    "timestamp": "2026-06-13T12:28:40.195502+00:00",
-    "original_time": "2026-06-13T02:11:06+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_7979226469196090524",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "\"My heart broke\": Retired U.S. military veteran Wilmer Trujillo tells CBS News'@camiloreportshis wife was detained by ICE on Wednesday during a check-in appointment in Dallas, and is facing deportation.\n\nIn a statement to CBS News, the Department of Homeland Security said",
-    "translated_text": "“我的心都碎了”：美国退役退伍军人 Wilmer Trujillo 告诉 CBS News 的 @camiloreportshi，她的妻子周三在达拉斯办理报到手续时被 ICE 拘留，面临被驱逐出境。\n\n美国国土安全部在给哥伦比亚广播公司新闻的一份声明中表示",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/7979226469196090524",
-    "timestamp": "2026-06-13T12:28:41.593224+00:00",
-    "original_time": "2026-06-13T02:05:05+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-5047800611629667728",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Read more:",
-    "translated_text": "阅读更多：",
-    "images": [
-      "f04d38475d66cf63.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-5047800611629667728",
-    "timestamp": "2026-06-13T12:28:41.768311+00:00",
-    "original_time": "2026-06-13T02:05:12+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-383323259510807484",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "An American citizen who served in the U.S. Army and the Texas National Guard for roughly 20 years is desperately urging federal immigration officials to release his wife, who is facing deportation to her native Honduras.\n\n\"I love this country, and for this country to rip apart my",
-    "translated_text": "一名在美国陆军和德克萨斯州国民警卫队服役约 20 年的美国公民迫切敦促联邦移民官员释放他的妻子，她正面临被驱逐回祖国洪都拉斯的危险。\n\n“我爱这个国家，也爱这个国家撕裂我的",
-    "images": [
-      "207700e6bb936e55.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-383323259510807484",
-    "timestamp": "2026-06-13T12:28:42.155527+00:00",
-    "original_time": "2026-06-13T01:46:36+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_1259040668550437718",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "BREAKING: President Trump says the U.S. killed the alleged leader of a Venezuela-based gang, Tren de Aragua, in an airstrike.",
-    "translated_text": "突发新闻：特朗普总统表示，美国在一次空袭中击毙了委内瑞拉黑帮的据称头目特伦·德·阿拉瓜。",
-    "images": [
-      "594ac1cccf6291c4.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1259040668550437718",
-    "timestamp": "2026-06-13T12:28:42.420760+00:00",
-    "original_time": "2026-06-13T01:37:20+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-4422627812594351840",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Construction crews prepared to remove President Trump’s name from the Kennedy Center on Friday.\n\nAn appeals court rejected an emergency request from the Justice Department to let President Trump's name remain on the Kennedy Center's signage, leaving in place a Friday deadline for",
-    "translated_text": "周五，施工人员准备将特朗普总统的名字从肯尼迪中心删除。\n\n上诉法院驳回了司法部关于让特朗普总统的名字保留在肯尼迪中心标牌上的紧急请求，并保留了周五的最后期限",
-    "images": [
-      "c6cb57e47fcc0f59.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-4422627812594351840",
-    "timestamp": "2026-06-13T12:28:42.986365+00:00",
-    "original_time": "2026-06-13T01:34:52+00:00"
-  },
-  {
-    "id": "tweet_CENTCOM_-3951274847658232206",
-    "type": "tweet",
-    "username": "CENTCOM",
-    "text": "Iran launched multiple one-way attack drones in an attempt to strike commercial ships transiting the Strait of Hormuz. U.S. forces have downed all of them in recent hours as traffic flow through the strait continues unimpeded. The international trade corridor remains open for",
-    "translated_text": "伊朗发射了多架单向攻击无人机，试图袭击经过霍尔木兹海峡的商船。由于海峡上的交通继续畅通无阻，美军在最近几个小时内击落了所有这些飞机。国际贸易走廊继续开放",
-    "images": [],
-    "url": "https://x.com/CENTCOM/status/-3951274847658232206",
-    "timestamp": "2026-06-13T12:29:17.639232+00:00",
-    "original_time": "2026-06-13T01:31:52+00:00"
+    "url": "https://x.com/CBSNews/status/6814463866450008816",
+    "timestamp": "2026-06-13T15:04:51.846856+00:00",
+    "original_time": "2026-06-13T12:33:01+00:00"
   }
 ]
