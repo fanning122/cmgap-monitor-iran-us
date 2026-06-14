@@ -1,16 +1,5 @@
 [
   {
-    "id": "tweet_MIshaqDar50_201805332706699764",
-    "type": "tweet",
-    "username": "MIshaqDar50",
-    "text": "Our heartfelt condolences to His Majesty King Maha Vajiralongkorn, the Thai Royal Family, and the people of the Kingdom of Thailand on the passing of Her Royal Highness Princess Bajrakitiyabha Narendira Debyavati.\n\nHer Royal Highness will be remembered for her dedicated service",
-    "translated_text": "我们对巴吉蒂亚芭·纳伦迪拉·德比亚瓦蒂公主殿下的去世向玛哈·哇集拉隆功国王陛下、泰国王室和泰王国人民表示衷心哀悼。\n\n殿下将因她的奉献服务而被人们铭记",
-    "images": [],
-    "url": "https://x.com/MIshaqDar50/status/201805332706699764",
-    "timestamp": "2026-06-14T20:17:13.555226+00:00",
-    "original_time": "2026-06-14T10:08:56+00:00"
-  },
-  {
     "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
     "username": "MIshaqDar50",
@@ -20,11 +9,22 @@
       "0d393af1c5c5487a.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-06-14T20:17:28.297338+00:00",
+    "timestamp": "2026-06-14T22:09:22.418617+00:00",
     "original_time": "2026-06-14T15:49:39+00:00"
   },
   {
-    "id": "tweet_IRIMFA_6353095465172768085",
+    "id": "tweet_CMShehbaz_-2489921610578456007",
+    "type": "tweet",
+    "username": "CMShehbaz",
+    "text": "Following intensive talks, we are pleased to announce that the Peace Deal between the United States of America and Islamic Republic of Iran has been REACHED. Both sides have declared the immediate and permanent termination of military operations on all fronts, including in",
+    "translated_text": "经过密集会谈，我们很高兴地宣布，美利坚合众国和伊朗伊斯兰共和国之间已经达成和平协议。双方已宣布立即永久终止所有战线的军事行动，包括在",
+    "images": [],
+    "url": "https://x.com/CMShehbaz/status/-2489921610578456007",
+    "timestamp": "2026-06-14T22:09:35.828243+00:00",
+    "original_time": "2026-06-14T21:15:34+00:00"
+  },
+  {
+    "id": "tweet_IRIMFA_3584944944282490130",
     "type": "tweet",
     "username": "IRIMFA",
     "text": "Statement by the Ministry of Foreign Affairs on the Continuation of Crimes by the Zionist Regime in the Attack on#DahiehBeirut\n\n...This terrorist crime constitutes a blatant violation of Lebanon’s national sovereignty and territorial integrity, as well as a flagrant breach of",
@@ -32,12 +32,12 @@
     "images": [
       "858e8567b8c56572.jpg"
     ],
-    "url": "https://x.com/IRIMFA/status/6353095465172768085",
-    "timestamp": "2026-06-14T20:19:03.884509+00:00",
+    "url": "https://x.com/IRIMFA/status/3584944944282490130",
+    "timestamp": "2026-06-14T22:11:04.989661+00:00",
     "original_time": "2026-06-14T19:46:38+00:00"
   },
   {
-    "id": "tweet_IRIMFA_SPOX_-8770767204457466897",
+    "id": "tweet_IRIMFA_SPOX_-6631733923559070554",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "The Hamadan Sacred Defense Museum is a manifestation of the \"oppression,\" \"resilience,\" and \"power\" of a nation that stood firm for eight years against the brutal invasion of Saddam's regime, backed by America and many Western and regional countries.\n\nWhat carried Iran through",
@@ -46,214 +46,267 @@
       "5bc8c548261d495e.jpg",
       "5158197ff8a1a8fd.jpg"
     ],
-    "url": "https://x.com/IRIMFA_SPOX/status/-8770767204457466897",
-    "timestamp": "2026-06-14T20:19:04.103767+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/-6631733923559070554",
+    "timestamp": "2026-06-14T22:11:06.725492+00:00",
     "original_time": "2026-06-14T10:25:23+00:00"
   },
   {
-    "id": "tweet_IRIMFA_SPOX_1939930782680642051",
-    "type": "tweet",
-    "username": "IRIMFA_SPOX",
-    "text": "Visiting the tomb of Ibn Sina in Hamadan is a source of pride for every Iranian; a thinker whose death occurred a thousand years ago, yet his name remains alive in the world's scientific and medical memory.\n\nCivilizations can be measured by the humans they produce. Iran, in an",
-    "translated_text": "参观哈马丹的伊本·西纳墓是每个伊朗人的骄傲。一位思想家去世一千年前，但他的名字仍然活在世界科学和医学记忆中。\n\n文明可以通过它们所产生的人类来衡量。伊朗，在",
-    "images": [
-      "a1ff253c2f3038d9.jpg",
-      "af8050a04507773f.jpg"
-    ],
-    "url": "https://x.com/IRIMFA_SPOX/status/1939930782680642051",
-    "timestamp": "2026-06-14T20:19:04.328300+00:00",
-    "original_time": "2026-06-14T09:10:34+00:00"
-  },
-  {
-    "id": "tweet_mb_ghalibaf_-5284540264694279809",
+    "id": "tweet_mb_ghalibaf_1379645480836130084",
     "type": "tweet",
     "username": "mb_ghalibaf",
     "text": "They can never catch any part of the pillars of resistance alone and isolated; the valiant struggles of Lebanon's brave fighters and the powerful diplomacy of the Islamic Republic of Iran guarantee the sovereignty and territorial integrity of dear Lebanon and will dismantle the",
     "translated_text": "他们永远无法孤立地抓住抵抗支柱的任何部分；黎巴嫩勇敢战士的英勇斗争和伊朗伊斯兰共和国强有力的外交保证了亲爱的黎巴嫩的主权和领土完整，并将瓦解黎巴嫩的主权和领土完整。",
     "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/-5284540264694279809",
-    "timestamp": "2026-06-14T20:19:17.456731+00:00",
+    "url": "https://x.com/mb_ghalibaf/status/1379645480836130084",
+    "timestamp": "2026-06-14T22:11:22.070955+00:00",
     "original_time": "2026-06-14T18:57:42+00:00"
   },
   {
-    "id": "tweet_mb_ghalibaf_-5211153101364520306",
+    "id": "tweet_mb_ghalibaf_5287598095027552317",
     "type": "tweet",
     "username": "mb_ghalibaf",
     "text": "The Zionists' incursion into Dahiyeh has once again shown that America either lacks the will to fulfill its commitments or the ability to do so. By giving the green light to the regime, you cannot gain concessions. The game of bad cop and good cop is outdated.  \nIf you lack the",
     "translated_text": "犹太复国主义者入侵达希耶再次表明美国要么缺乏履行承诺的意愿，要么缺乏履行承诺的能力。通过给政权开绿灯，你无法获得让步。坏警察和好警察的游戏已经过时了。  \n如果您缺少",
     "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/-5211153101364520306",
-    "timestamp": "2026-06-14T20:19:17.602417+00:00",
+    "url": "https://x.com/mb_ghalibaf/status/5287598095027552317",
+    "timestamp": "2026-06-14T22:11:22.795447+00:00",
     "original_time": "2026-06-14T12:33:00+00:00"
   },
   {
-    "id": "tweet_AJENews_-8696246566815797552",
+    "id": "tweet_AJENews_-402458356109037134",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iran condemns Israeli attack on Beirut suburbs, warns US bears responsibilityLIVE updates:https://aje.news/y3hc1w?update=4658971…",
-    "translated_text": "突发：伊朗谴责以色列对贝鲁特郊区的袭击，警告美国承担责任实时更新：https://aje.news/y3hc1w?update=4658971…",
+    "text": "BREAKING: US President Donald Trump says he authorised the removal of the US naval blockadeLIVE updates:https://aje.news/y3hc1w?update=4659476…",
+    "translated_text": "突发新闻：美国总统唐纳德·特朗普表示，他授权取消美国海上封锁实时更新：https://aje.news/y3hc1w?update=4659476…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-8696246566815797552",
-    "timestamp": "2026-06-14T20:19:31.947716+00:00",
-    "original_time": "2026-06-14T20:00:49+00:00"
+    "url": "https://x.com/AJENews/status/-402458356109037134",
+    "timestamp": "2026-06-14T22:11:39.068879+00:00",
+    "original_time": "2026-06-14T21:39:31+00:00"
   },
   {
-    "id": "tweet_AJENews_-6244298413077302241",
+    "id": "tweet_AJENews_-2762394962460856081",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel kills at least one person in southern Lebanon's DoueirLIVE updates:https://aje.news/y3hc1w?update=4659038…",
-    "translated_text": "突发新闻：以色列在黎巴嫩南部的 DoueirLIVE 地区杀害了至少一人 实时更新：https://aje.news/y3hc1w?update=4659038…",
+    "text": "BREAKING: US-Iran agrees to 'immediate and permanent' halt of military operations on all fronts, including in Lebanon, Pakistan prime minister saysLIVE updates:https://aje.news/y3hc1w?update=4659434…",
+    "translated_text": "突发：巴基斯坦总理表示，美国和伊朗同意“立即且永久”停止在包括黎巴嫩在内的所有战线上的军事行动实时更新：https://aje.news/y3hc1w?update=4659434…",
     "images": [
       "7f1a451786c84548.svg",
-      "d9c69b69efdfaf2e.jpg"
+      "9a3dd4643ebb2e97.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-6244298413077302241",
-    "timestamp": "2026-06-14T20:19:32.501793+00:00",
-    "original_time": "2026-06-14T19:50:30+00:00"
+    "url": "https://x.com/AJENews/status/-2762394962460856081",
+    "timestamp": "2026-06-14T22:11:40.464955+00:00",
+    "original_time": "2026-06-14T21:29:48+00:00"
   },
   {
-    "id": "tweet_AJENews_4009678620097769109",
+    "id": "tweet_AJENews_-406917071182379938",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: Israel says two soldiers wounded in southern LebanonLIVE updates:https://aje.news/y3hc1w?update=4658870…",
-    "translated_text": "更新：以色列称两名士兵在黎巴嫩南部受伤实时更新：https://aje.news/y3hc1w?update=4658870...",
+    "text": "BREAKING: Pakistan announces US-Iran deal in placeLIVE updates:https://aje.news/y3hc1w?update=4659418…",
+    "translated_text": "突发新闻：巴基斯坦宣布美国与伊朗达成协议实时更新：https://aje.news/y3hc1w?update=4659418…",
     "images": [
       "7f1a451786c84548.svg",
-      "1a9e21903bc0e590.jpg"
+      "5e7a110c18dc5005.jpg"
     ],
-    "url": "https://x.com/AJENews/status/4009678620097769109",
-    "timestamp": "2026-06-14T20:19:33.275583+00:00",
-    "original_time": "2026-06-14T19:09:49+00:00"
+    "url": "https://x.com/AJENews/status/-406917071182379938",
+    "timestamp": "2026-06-14T22:11:41.475625+00:00",
+    "original_time": "2026-06-14T21:21:13+00:00"
   },
   {
-    "id": "tweet_AJENews_8011363755727289721",
+    "id": "tweet_AJENews_2826937661243059209",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: UN's chief slams Israel's Beirut attack at 'crucial moment'LIVE updates:https://aje.news/y3hc1w?update=4658762…",
-    "translated_text": "更新：联合国秘书长在“关键时刻”猛烈抨击以色列贝鲁特袭击实时更新：https://aje.news/y3hc1w?update=4658762…",
+    "text": "BREAKING: Trump says he plans to announce US agreement with Iran 'imminently'LIVE updates:https://aje.news/y3hc1w?update=4659395…",
+    "translated_text": "突发新闻：特朗普表示，他计划“立即”宣布美国与伊朗达成协议实时更新：https://aje.news/y3hc1w?update=4659395…",
     "images": [
       "7f1a451786c84548.svg",
-      "e0e4c94102f6a88d.jpg"
+      "acb107c491175031.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8011363755727289721",
-    "timestamp": "2026-06-14T20:19:33.744615+00:00",
-    "original_time": "2026-06-14T19:00:26+00:00"
+    "url": "https://x.com/AJENews/status/2826937661243059209",
+    "timestamp": "2026-06-14T22:11:42.370128+00:00",
+    "original_time": "2026-06-14T21:17:49+00:00"
   },
   {
-    "id": "tweet_AJENews_3746427081508814767",
+    "id": "tweet_AJENews_2181591188898984936",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Twelve people were killed when a plane crashed in Missouri, according to the highway patrol in the US state.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：据美国密苏里州高速公路巡逻队称，一架飞机在密苏里州坠毁，造成 12 人死亡。更多信息请访问 http://aljazeera.com",
+    "text": "BREAKING: Trump says the Strait of Hormuz 'opening for business very shortly' and the deal with Tehran will  be a 'wall against Iran ever having a nuclear weapon'LIVE updates:https://aje.news/y3hc1w?update=4659286…",
+    "translated_text": "突发新闻：特朗普表示霍尔木兹海峡“很快就会开放”，与德黑兰的协议将成为“阻止伊朗拥有核武器的墙”实时更新：https://aje.news/y3hc1w?update=4659286…",
     "images": [
       "7f1a451786c84548.svg",
-      "9a161a360b72bcd0.jpg"
+      "038c79bc520ab03b.jpg"
     ],
-    "url": "https://x.com/AJENews/status/3746427081508814767",
-    "timestamp": "2026-06-14T20:19:34.176329+00:00",
-    "original_time": "2026-06-14T18:34:10+00:00"
+    "url": "https://x.com/AJENews/status/2181591188898984936",
+    "timestamp": "2026-06-14T22:11:42.871320+00:00",
+    "original_time": "2026-06-14T21:07:46+00:00"
   },
   {
-    "id": "tweet_AJENews_-2692491431625919836",
+    "id": "tweet_AJENews_-3527405019730555618",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: Palestinian prisoner dies in Israeli prison prison after years of 'systematic torture' and medical neglectLIVE updates:https://aje.news/y3hc1w?update=4658236…",
-    "translated_text": "更新：巴勒斯坦囚犯在遭受多年“系统性酷刑”和医疗忽视后在以色列监狱中死亡实时更新：https://aje.news/y3hc1w?update=4658236…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "479e2d7487ea8f8e.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-2692491431625919836",
-    "timestamp": "2026-06-14T20:19:36.461754+00:00",
-    "original_time": "2026-06-14T15:00:23+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-2452087728604545414",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Trump says Beirut attack by Israel today 'should not have happened'LIVE updates:https://aje.news/y3hc1w?update=4658348…",
-    "translated_text": "突发新闻：特朗普表示以色列今天对贝鲁特的袭击“不应该发生”实时更新：https://aje.news/y3hc1w?update=4658348…",
+    "text": "BREAKING: Israel reports several aerial targets falling in Israel and LebanonLIVE updates:https://aje.news/y3hc1w?update=4658614…",
+    "translated_text": "突发：以色列报告多个空中目标落在以色列和黎巴嫩实时更新：https://aje.news/y3hc1w?update=4658614…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-2452087728604545414",
-    "timestamp": "2026-06-14T20:19:36.676498+00:00",
-    "original_time": "2026-06-14T14:56:41+00:00"
+    "url": "https://x.com/AJENews/status/-3527405019730555618",
+    "timestamp": "2026-06-14T22:11:45.941930+00:00",
+    "original_time": "2026-06-14T17:04:37+00:00"
   },
   {
-    "id": "tweet_AJENews_6469659516146593480",
+    "id": "tweet_AJENews_3525691566250954737",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: US ambassador to the UN says Trump still pushing for Iran deal todayLIVE updates:https://aje.news/y3hc1w?update=4658298…",
-    "translated_text": "突发新闻：美国驻联合国大使表示特朗普今天仍在推动伊朗协议实时更新：https://aje.news/y3hc1w?update=4658298…",
+    "text": "BREAKING: Swiss police fired tear gas after protesters opposed to the G7 summit in neighboring France targeted United Nations buildings in Geneva, reports Reuters.More onhttp://aljazeera.com",
+    "translated_text": "突发事件：据路透社报道，在反对邻国法国七国集团峰会的抗议者瞄准日内瓦联合国大楼后，瑞士警方发射了催泪瓦斯。更多信息请访问 http://aljazeera.com",
     "images": [
       "7f1a451786c84548.svg",
-      "03d495be0127a13b.jpg"
+      "3fb2da1dfebcf85f.jpg"
     ],
-    "url": "https://x.com/AJENews/status/6469659516146593480",
-    "timestamp": "2026-06-14T20:19:37.282868+00:00",
-    "original_time": "2026-06-14T14:50:39+00:00"
+    "url": "https://x.com/AJENews/status/3525691566250954737",
+    "timestamp": "2026-06-14T22:11:49.891276+00:00",
+    "original_time": "2026-06-14T17:03:08+00:00"
   },
   {
-    "id": "tweet_AJENews_7836900503475392249",
+    "id": "tweet_AJENews_8690447879572335477",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: At least six people were killed after two helicopters collided mid-air and crashed in Rio de Janeiro, Brazilian firefighters said in a statement.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：巴西消防员在一份声明中表示，两架直升机在里约热内卢空中相撞并坠毁，造成至少六人死亡。更多信息请访问 http://aljazeera.com",
+    "text": "BREAKING: Trump blames Israel for 'a few hours' of delay in US-Iran deal signingLIVE updates:https://aje.news/y3hc1w?update=4658553…",
+    "translated_text": "突发新闻：特朗普指责以色列导致美伊协议签署延迟“几个小时”实时更新：https://aje.news/y3hc1w?update=4658553…",
     "images": [
       "7f1a451786c84548.svg",
-      "598cd9d80128cae9.jpg"
+      "874ff9a8557b9b5d.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7836900503475392249",
-    "timestamp": "2026-06-14T20:19:38.128838+00:00",
-    "original_time": "2026-06-14T14:42:40+00:00"
+    "url": "https://x.com/AJENews/status/8690447879572335477",
+    "timestamp": "2026-06-14T22:11:50.506287+00:00",
+    "original_time": "2026-06-14T16:45:58+00:00"
   },
   {
-    "id": "tweet_AJENews_6237379385299373942",
+    "id": "tweet_AJENews_6165567269079293331",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israeli army says preparing for potential attack in coming hoursLIVE updates:https://aje.news/y3hc1w?update=4658288…",
-    "translated_text": "突发：以色列军队表示为未来几个小时内的潜在袭击做好准备实时更新：https://aje.news/y3hc1w?update=4658288…",
+    "text": "BREAKING: Trump says will ask Iran not to attack Israel in response to Beirut strikesLIVE updates:https://aje.news/y3hc1w?update=4658563…",
+    "translated_text": "突发新闻：特朗普表示将要求伊朗不要攻击以色列，以回应贝鲁特的袭击实时更新：https://aje.news/y3hc1w?update=4658563…",
     "images": [
       "7f1a451786c84548.svg",
-      "279e388fd867aee9.jpg"
+      "aea0c2d2d2bd7fbc.jpg"
     ],
-    "url": "https://x.com/AJENews/status/6237379385299373942",
-    "timestamp": "2026-06-14T20:19:38.711223+00:00",
-    "original_time": "2026-06-14T14:40:00+00:00"
+    "url": "https://x.com/AJENews/status/6165567269079293331",
+    "timestamp": "2026-06-14T22:11:51.937100+00:00",
+    "original_time": "2026-06-14T16:42:29+00:00"
   },
   {
-    "id": "tweet_AJENews_6831694019658811465",
+    "id": "tweet_AJENews_3957632965842572613",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Four Palestinians killed by Israeli attack near Gaza hospitalLIVE updates:https://aje.news/y3hc1w?update=4658190…",
-    "translated_text": "突发新闻：四名巴勒斯坦人在加沙医院附近被以色列袭击身亡实时更新：https://aje.news/y3hc1w?update=4658190…",
+    "text": "UPDATE: Israel says it killed senior Hezbollah commander in Lebanon strikeLIVE updates:https://aje.news/y3hc1w?update=4658451…",
+    "translated_text": "更新：以色列称其在黎巴嫩袭击中杀死了真主党高级指挥官实时更新：https://aje.news/y3hc1w?update=4658451…",
     "images": [
       "7f1a451786c84548.svg",
-      "c8b7be2c305241df.jpg"
+      "84ddb675962e631c.jpg"
     ],
-    "url": "https://x.com/AJENews/status/6831694019658811465",
-    "timestamp": "2026-06-14T20:19:38.962881+00:00",
-    "original_time": "2026-06-14T13:40:32+00:00"
+    "url": "https://x.com/AJENews/status/3957632965842572613",
+    "timestamp": "2026-06-14T22:11:52.785465+00:00",
+    "original_time": "2026-06-14T16:34:28+00:00"
   },
   {
-    "id": "tweet_AJENews_6351325799633244283",
+    "id": "tweet_AJENews_-3985568368177313282",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: President Trump to meet Egypt’s leader el-Sisi at G7 summit to talk ‘geopolitical crises’LIVE updates:https://aje.news/y3hc1w?update=4658031…",
-    "translated_text": "突发新闻：特朗普总统将在七国集团峰会上会见埃及领导人塞西，讨论“地缘政治危机”实时更新：https://aje.news/y3hc1w?update=4658031...",
+    "text": "BREAKING: Iranian official says 'strong response coming' over Israel's attacks on BeirutLIVE updates:https://aje.news/y3hc1w?update=4658531…",
+    "translated_text": "突发新闻：伊朗官员表示，以色列对贝鲁特的袭击将做出“强烈反应”实时更新：https://aje.news/y3hc1w?update=4658531…",
     "images": [
       "7f1a451786c84548.svg",
-      "7bea0738438bd8ea.jpg"
+      "6e38fe009a1aea9d.jpg"
     ],
-    "url": "https://x.com/AJENews/status/6351325799633244283",
-    "timestamp": "2026-06-14T20:19:39.129989+00:00",
-    "original_time": "2026-06-14T13:20:22+00:00"
+    "url": "https://x.com/AJENews/status/-3985568368177313282",
+    "timestamp": "2026-06-14T22:11:53.535090+00:00",
+    "original_time": "2026-06-14T16:33:35+00:00"
   },
   {
-    "id": "tweet_CBSNews_-5221144338277829153",
+    "id": "tweet_AJENews_-3505679397290019798",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Iran's president says 'very good relations' with neighbouring countries despite attacksLIVE updates:https://aje.news/y3hc1w?update=4658477…",
+    "translated_text": "突发新闻：伊朗总统表示，尽管遭受袭击，但与邻国“关系非常好”实时更新：https://aje.news/y3hc1w?update=4658477…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "ee34b70cd8d99c77.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-3505679397290019798",
+    "timestamp": "2026-06-14T22:11:54.079657+00:00",
+    "original_time": "2026-06-14T16:30:35+00:00"
+  },
+  {
+    "id": "tweet_AJENews_5732987942148658951",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Israeli army says it struck Hezbollah command centre in southern BeirutLIVE updates:https://aje.news/y3hc1w?update=4657798…",
+    "translated_text": "更新：以色列军队称袭击了贝鲁特南部的真主党指挥中心实时更新：https://aje.news/y3hc1w?update=4657798…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "8850b60ca2d2a662.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/5732987942148658951",
+    "timestamp": "2026-06-14T22:11:56.620428+00:00",
+    "original_time": "2026-06-14T11:10:27+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3125207509834936703",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "BREAKING: A U.S.-Iran deal \"is now complete\" and the U.S. blockade on the Strait of Hormuz is ending, President Trump says.\n\nThe two sides are expected to meet for a signing ceremony on Friday, June 19, in Switzerland, Pakistani Prime Minister Shehbaz Sharif said.",
+    "translated_text": "突发新闻：特朗普总统表示，美国与伊朗的协议“现已完成”，美国对霍尔木兹海峡的封锁即将结束。\n\n巴基斯坦总理谢赫巴兹·谢里夫表示，双方预计将于 6 月 19 日星期五在瑞士举行签字仪式。",
+    "images": [
+      "41bf15ff8005fe21.jpg",
+      "d86fae486d1113c2.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3125207509834936703",
+    "timestamp": "2026-06-14T22:13:30.291324+00:00",
+    "original_time": "2026-06-14T22:11:21+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3593769118201793139",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Sen. Mark Warner says he hopes Senate can confirm Trump's DNI pick \"this week\"",
+    "translated_text": "参议员马克·沃纳表示，他希望参议院“本周”能够确认特朗普的国家情报总监人选",
+    "images": [
+      "537c7747e1f55202.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3593769118201793139",
+    "timestamp": "2026-06-14T22:13:30.606270+00:00",
+    "original_time": "2026-06-14T22:00:01+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-8426310338314891284",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "BREAKING: The U.S. and Iran have reached a deal that declares \"the immediate and permanent termination of military operations on all fronts,\" President Trump and Pakistani Prime Minister Shehbaz Sharif said Sunday.",
+    "translated_text": "突发新闻：美国总统特朗普和巴基斯坦总理谢赫巴兹·谢里夫周日表示，美国和伊朗已达成一项协议，宣布“立即永久终止各条战线的军事行动”。",
+    "images": [
+      "b7e423085ddc8764.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-8426310338314891284",
+    "timestamp": "2026-06-14T22:13:31.590837+00:00",
+    "original_time": "2026-06-14T21:53:54+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1584781501005568656",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "NEW: President Trump says deal with Iran is possible \"in a matter of hours\"",
+    "translated_text": "新消息：特朗普总统表示“数小时内”可能与伊朗达成协议",
+    "images": [
+      "1526925e25a21b46.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1584781501005568656",
+    "timestamp": "2026-06-14T22:13:32.368111+00:00",
+    "original_time": "2026-06-14T20:56:20+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-95217248189835035",
     "type": "tweet",
     "username": "CBSNews",
     "text": "An organic baby formula is being voluntarily recalled after three infants who were fed the product were hospitalized with infant botulism, according to a notice from the Food and Drug Administration.",
@@ -261,12 +314,12 @@
     "images": [
       "be47d03487aefbd6.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-5221144338277829153",
-    "timestamp": "2026-06-14T20:20:27.179897+00:00",
+    "url": "https://x.com/CBSNews/status/-95217248189835035",
+    "timestamp": "2026-06-14T22:13:32.639228+00:00",
     "original_time": "2026-06-14T20:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6274785921794101697",
+    "id": "tweet_CBSNews_-58233064096441050",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy each spoke by phone with U.S. President Donald Trump on Sunday, as Trump marked his 80th birthday and the war in Ukraine remained a flashpoint ahead of this week's G7 summit.",
@@ -274,62 +327,64 @@
     "images": [
       "9ebc163029798dee.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-6274785921794101697",
-    "timestamp": "2026-06-14T20:20:27.418154+00:00",
+    "url": "https://x.com/CBSNews/status/-58233064096441050",
+    "timestamp": "2026-06-14T22:13:32.917305+00:00",
     "original_time": "2026-06-14T19:15:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_7651535537362823128",
+    "id": "tweet_FaceTheNation_3428630996236339769",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Twelve people aboard a plane, including the pilot, were killed after the aircraft crashed in Missouri, according to authorities.",
-    "translated_text": "据当局称，飞机在密苏里州坠毁后，包括飞行员在内的机上十二人丧生。",
+    "username": "FaceTheNation",
+    "text": "Sen. Mark Kelly (D-AZ), who sits on the Senate Armed Services Committee, says “of course we have a munitions problem” when asked about the state of U.S. stockpiles, adding, “I think it's widely understood that when you attack over 10,000 targets from the air with cruise missiles",
+    "translated_text": "参议院军事委员会成员、民主党参议员马克·凯利 (D-AZ) 在被问及美国库存状况时表示，“我们当然有弹药问题”，并补充道，“我认为人们普遍认为，当用巡航导弹从空中攻击 10,000 多个目标时",
     "images": [
-      "d0a8c43dc49c9221.jpg"
+      "db31f553f1b2a085.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/7651535537362823128",
-    "timestamp": "2026-06-14T20:20:27.600161+00:00",
-    "original_time": "2026-06-14T18:46:29+00:00"
+    "url": "https://x.com/FaceTheNation/status/3428630996236339769",
+    "timestamp": "2026-06-14T22:13:36.067248+00:00",
+    "original_time": "2026-06-14T16:13:19+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7934739795613218067",
+    "id": "tweet_FaceTheNation_-9075298819971716513",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Voters in Switzerland have cast their final ballots on Sunday on an initiative championed by the top right-wing party to cap the rich Alpine country's population at 10 million. Early results showed Swiss voters were leaning against it.",
-    "translated_text": "周日，瑞士选民对一项由顶级右翼政党倡导的倡议进行了最后投票，该倡议旨在将这个富裕的阿尔卑斯山国家的人口限制在 1000 万以内。早期结果显示瑞士选民倾向于反对。",
+    "username": "FaceTheNation",
+    "text": "After the U.S. killed the alleged leader of Venezuela-based gang Tren de Aragua,@margbrennanasked Defense Sec. Hegseth whether Americans should expect the U.S. to stay militarily involved in Venezuela and other countries in Latin America like Ecuador and Guatemala.\n\n“Yes, they",
+    "translated_text": "在美国击毙委内瑞拉帮派 Tren de Aragua 的据称领导人后，@margbrennanas 向国防部长提问。赫格斯询问美国人是否应该期望美国继续对委内瑞拉以及厄瓜多尔和危地马拉等拉丁美洲其他国家进行军事介入。\n\n“是的，他们",
     "images": [
-      "924a6065ec4b5841.jpg"
+      "b018d60f634668a8.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7934739795613218067",
-    "timestamp": "2026-06-14T20:20:27.854054+00:00",
-    "original_time": "2026-06-14T18:00:01+00:00"
+    "url": "https://x.com/FaceTheNation/status/-9075298819971716513",
+    "timestamp": "2026-06-14T22:13:37.391405+00:00",
+    "original_time": "2026-06-14T16:09:56+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3634400053205421222",
+    "id": "tweet_FaceTheNation_4071091019973688355",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Vice President JD Vance and his wife, Usha, are expecting their fourth child. They talk about family; his book, \"Communion: Finding My Way Back to Faith\"; and his future.",
-    "translated_text": "副总统 JD 万斯和他的妻子乌莎即将迎来他们的第四个孩子。他们谈论家庭；他的书《圣餐：寻找回归信仰的路》；和他的未来。",
+    "username": "FaceTheNation",
+    "text": "Sen. Mark Kelly (D-AZ) says President Trump’s nomination of Jay Clayton for Director of National Intelligence is much better than his previous pick, Bill Pulte, who he says is unqualified for the role.\n\n“If you made a list of the one million most-qualified Americans for this",
+    "translated_text": "亚利桑那州民主党参议员马克·凯利 (Mark Kelly) 表示，特朗普总统提名杰伊·克莱顿 (Jay Clayton) 担任国家情报总监，比他之前提名的比尔·普尔特 (Bill Pulte) 好得多，他认为比尔·普尔特不具备担任这一职位的资格。\n\n“如果你列出一百万最有资格从事这项工作的美国人的名单",
     "images": [
-      "12b7ad95b8aeabf1.jpg"
+      "7201b6cf96eae973.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3634400053205421222",
-    "timestamp": "2026-06-14T20:20:28.051303+00:00",
-    "original_time": "2026-06-14T17:30:00+00:00"
+    "url": "https://x.com/FaceTheNation/status/4071091019973688355",
+    "timestamp": "2026-06-14T22:13:37.994601+00:00",
+    "original_time": "2026-06-14T16:06:25+00:00"
   },
   {
-    "id": "tweet_FaceTheNation_8995426836817716315",
+    "id": "tweet_FaceTheNation_3072327432387267142",
     "type": "tweet",
     "username": "FaceTheNation",
     "text": "When asked about a potential U.S.-Iran deal to remove and down blend Iran’s stock of highly enriched nuclear uranium, Defense Secretary Pete Hegseth tells@margbrennanthe U.S. would “handle it as we need to,” but adds that inspectors from the International Atomic Energy Agency",
     "translated_text": "当被问及美国与伊朗可能达成一项移除和混合伊朗高浓缩核铀库存的协议时，国防部长皮特·赫格斯告诉@margbrennan，美国将“按照我们需要的方式处理它”，但他补充说，国际原子能机构的视察员",
-    "images": [],
-    "url": "https://x.com/FaceTheNation/status/8995426836817716315",
-    "timestamp": "2026-06-14T20:20:31.248399+00:00",
+    "images": [
+      "72f95771f4a4b09f.jpg"
+    ],
+    "url": "https://x.com/FaceTheNation/status/3072327432387267142",
+    "timestamp": "2026-06-14T22:13:39.491262+00:00",
     "original_time": "2026-06-14T16:05:10+00:00"
   },
   {
-    "id": "tweet_FaceTheNation_1122841894370488396",
+    "id": "tweet_FaceTheNation_6874975065350284947",
     "type": "tweet",
     "username": "FaceTheNation",
     "text": "“I do agree with what the president said about standing down,” Sen. Mark Kelly (D-AZ) says after President Trump condemned the Israeli attack on Beirut, Lebanon, and demanded there be no more attacks as negotiations continue.",
@@ -337,12 +392,12 @@
     "images": [
       "4e4f4aa98295a95c.jpg"
     ],
-    "url": "https://x.com/FaceTheNation/status/1122841894370488396",
-    "timestamp": "2026-06-14T20:20:31.420431+00:00",
+    "url": "https://x.com/FaceTheNation/status/6874975065350284947",
+    "timestamp": "2026-06-14T22:13:40.879990+00:00",
     "original_time": "2026-06-14T16:05:05+00:00"
   },
   {
-    "id": "tweet_FaceTheNation_-6506742365902057621",
+    "id": "tweet_FaceTheNation_6979000235896369707",
     "type": "tweet",
     "username": "FaceTheNation",
     "text": ".@margbrennan: “As I understand it, the first part of this deal would involve the clearing and reopening of the Strait of Hormuz. How quickly will the U.S. blockade on Iran end? How quickly will they be able to sell their oil?”\n\nDefense Sec. Pete Hegseth: “Immediately.”\n\nHegseth",
@@ -350,289 +405,201 @@
     "images": [
       "343198f22bae9c08.jpg"
     ],
-    "url": "https://x.com/FaceTheNation/status/-6506742365902057621",
-    "timestamp": "2026-06-14T20:20:32.856134+00:00",
+    "url": "https://x.com/FaceTheNation/status/6979000235896369707",
+    "timestamp": "2026-06-14T22:13:42.131933+00:00",
     "original_time": "2026-06-14T16:00:09+00:00"
   },
   {
-    "id": "tweet_FaceTheNation_-2415026253869269944",
+    "id": "tweet_KellieMeyerNews_9125011441139085304",
     "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "The United States is “open to co-production wherever we can” of Patriot anti-ballistic missiles with U.S. allies, says Defense Secretary Pete Hegseth, who claims “there is not” a significant depletion of U.S. munition stockpiles. \n\nWhen asked specifically whether the U.S. would",
-    "translated_text": "美国国防部长皮特·赫格塞斯表示，美国“愿意在任何可能的情况下与美国盟友共同生产爱国者反弹道导弹”，他声称美国弹药库存“没有”大幅消耗。 \n\n当被具体问到美国是否会",
+    "username": "KellieMeyerNews",
+    "text": "Trump says the deal with Iran is complete.",
+    "translated_text": "特朗普表示与伊朗的协议已经完成。",
     "images": [
-      "3188b4ef42722fba.jpg"
+      "a0a5567fd8c5b81a.svg",
+      "32c931d02af35b9c.jpg"
     ],
-    "url": "https://x.com/FaceTheNation/status/-2415026253869269944",
-    "timestamp": "2026-06-14T20:20:33.036588+00:00",
-    "original_time": "2026-06-14T15:57:41+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/9125011441139085304",
+    "timestamp": "2026-06-14T22:14:16.560275+00:00",
+    "original_time": "2026-06-14T21:46:20+00:00"
   },
   {
-    "id": "tweet_FaceTheNation_-2157510373272309327",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "The Trump administration “will make sure the military option” remains for the U.S. during the 60 days of negotiations with Iran after a memorandum of understanding is signed, Defense Secretary Pete Hegseth says. He tells@margbrennanthe U.S. military posture in the region “will",
-    "translated_text": "国防部长皮特·赫格斯表示，在签署谅解备忘录后，特朗普政府“将确保美国在与伊朗进行为期 60 天的谈判期间保留军事选择”。他告诉@margbrennan，美国在该地区的军事态势“将",
-    "images": [
-      "b1af2dbb89442c81.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-2157510373272309327",
-    "timestamp": "2026-06-14T20:20:33.301041+00:00",
-    "original_time": "2026-06-14T15:55:30+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_3450757990051653166",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "Defense Secretary Pete Hegseth says the memorandum of understanding between the U.S. and Iran is “on track” to be signed on Sunday, telling@margbrennan, “It’s not a matter of if, it’s a matter of when.”\n\nHegseth says the Trump administration is “attuned” to the strikes between",
-    "translated_text": "国防部长皮特·赫格塞斯 (Pete Hegseth) 表示，美国和伊朗之间的谅解备忘录“有望”于周日签署，他告诉@margbrennan，“这不是是否的问题，而是何时的问题。”\n\n赫格斯表示，特朗普政府“适应”了之间的罢工",
-    "images": [
-      "5874302493744ce0.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/3450757990051653166",
-    "timestamp": "2026-06-14T20:20:33.498072+00:00",
-    "original_time": "2026-06-14T15:50:21+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-8913520809082886032",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "“We’re already doing things I can’t talk about on this program to ensure that safe passage happens as quickly as possible,” says Defense Secretary Pete Hegseth when asked how he plans to reopen the Strait of Hormuz “immediately” if a deal between the U.S. and Iran is reached.",
-    "translated_text": "当被问及如果美国和伊朗达成协议，他计划如何“立即”重新开放霍尔木兹海峡时，国防部长皮特·赫格斯表示：“我们已经在这个计划上做一些我不能谈论的事情，以确保尽快实现安全通行。”",
-    "images": [
-      "4c234d2fa9d436f6.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-8913520809082886032",
-    "timestamp": "2026-06-14T20:20:33.746288+00:00",
-    "original_time": "2026-06-14T15:49:04+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_2679237308548112950",
+    "id": "tweet_geonews_urdu_-1190331830026186352",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "گھر بنانے کے لیے بہت سے بری فلمز کیں، جان ریمبو",
-    "translated_text": "约翰·兰博 拍了太多烂片才成家",
+    "text": "Agreement Reached Between America and Iran, Confirmed by President Trump",
+    "translated_text": "特朗普总统确认美国与伊朗达成的协议",
     "images": [],
-    "url": "https://x.com/geonews_urdu/status/2679237308548112950",
-    "timestamp": "2026-06-14T20:21:52.580072+00:00",
-    "original_time": "2026-06-14T20:19:23+00:00"
+    "url": "https://x.com/geonews_urdu/status/-1190331830026186352",
+    "timestamp": "2026-06-14T22:14:59.497953+00:00",
+    "original_time": "2026-06-14T22:10:10+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-6392371261238879416",
+    "id": "tweet_geonews_urdu_-7403064838943958086",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "صدر ٹرمپ کی ڈانٹ کے باوجود بھی اسرائیلی وزیر اعظم کیوں حملے نہیں روک رہیں؟@SaleemKhanSafi",
-    "translated_text": "尽管特朗普总统斥责，以色列总理为何不停止袭击？ @SaleemKhanSafi",
+    "text": "The official signing ceremony of the peace agreement will take place in Switzerland on 19 June, Shahbaz Sharif",
+    "translated_text": "沙赫巴兹·谢里夫表示，和平协议的正式签署仪式将于 6 月 19 日在瑞士举行",
     "images": [
-      "e59569dc4ca1f7b5.jpg"
+      "1309e7e02bbcfffb.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-6392371261238879416",
-    "timestamp": "2026-06-14T20:21:53.579608+00:00",
-    "original_time": "2026-06-14T20:16:11+00:00"
+    "url": "https://x.com/geonews_urdu/status/-7403064838943958086",
+    "timestamp": "2026-06-14T22:15:00.471813+00:00",
+    "original_time": "2026-06-14T21:58:22+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_7010906868184902924",
+    "id": "tweet_geonews_urdu_-2753513693085533349",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "اسرائیل اور بھارت کی قربت  کیا پاکستان کے لیے خطرہ ہے؟@SaleemKhanSafi",
-    "translated_text": "以色列和印度的亲密关系对巴基斯坦构成威胁吗？ @SaleemKhanSafi",
+    "text": "An agreement has been finalized between America and Iran, Shahbaz Sharif",
+    "translated_text": "沙赫巴兹·谢里夫：美国和伊朗之间已敲定一项协议",
     "images": [
-      "fb69f9830dc74d31.jpg"
+      "1a0215d8a7f00042.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/7010906868184902924",
-    "timestamp": "2026-06-14T20:21:54.578156+00:00",
-    "original_time": "2026-06-14T20:15:16+00:00"
+    "url": "https://x.com/geonews_urdu/status/-2753513693085533349",
+    "timestamp": "2026-06-14T22:15:01.449199+00:00",
+    "original_time": "2026-06-14T21:54:33+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2757740920743420706",
+    "id": "tweet_geonews_urdu_-8234189941611736482",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "پاکستان کے ثالثی کردار کا پاکستان کو کیا فائدہ ہوا ہے؟@SaleemKhanSafi",
-    "translated_text": "巴基斯坦的调解作用如何使巴基斯坦受益？ @SaleemKhanSafi",
+    "text": "America has agreed to a deal with Iran, Wall Street Journal",
+    "translated_text": "据《华尔街日报》报道，美国已同意与伊朗达成协议",
+    "images": [
+      "ef7413c799a44585.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8234189941611736482",
+    "timestamp": "2026-06-14T22:15:02.889423+00:00",
+    "original_time": "2026-06-14T21:46:18+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_846327572703486025",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Russian President Putin telephones US President Trump, Russian media",
+    "translated_text": "俄罗斯总统普京致电美国总统特朗普、俄罗斯媒体",
+    "images": [
+      "3fe8cbc1a62f8fd5.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/846327572703486025",
+    "timestamp": "2026-06-14T22:15:03.806430+00:00",
+    "original_time": "2026-06-14T21:37:38+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-5453361890078371075",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "What benefit has Pakistan gained from its role as a mediator?@SaleemKhanSafi",
+    "translated_text": "巴基斯坦从调解者的角色中获得了什么好处？@SaleemKhanSafi",
     "images": [
       "5bae56796545d4a7.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2757740920743420706",
-    "timestamp": "2026-06-14T20:21:55.453492+00:00",
+    "url": "https://x.com/geonews_urdu/status/-5453361890078371075",
+    "timestamp": "2026-06-14T22:15:07.287380+00:00",
     "original_time": "2026-06-14T20:15:10+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-1826277688192241492",
+    "id": "tweet_geonews_urdu_-7775210797627619279",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "ایران جوہری ہتھیار بنانے کا کوئی ارادہ نہیں رکھتا، مشاہد حسین سید@SaleemKhanSafi",
-    "translated_text": "伊朗无意发展核武器，Mashahid Hussain Syed @SaleemKhanSafi",
-    "images": [
-      "3a94d606da46620f.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-1826277688192241492",
-    "timestamp": "2026-06-14T20:21:56.316483+00:00",
+    "text": "Iran has no intention of making nuclear weapons, Musahid Hussain Sayyid@SaleemKhanSafi",
+    "translated_text": "伊朗无意制造核武器，Musahid Hussain Sayyid@SaleemKhanSafi",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/-7775210797627619279",
+    "timestamp": "2026-06-14T22:15:08.524396+00:00",
     "original_time": "2026-06-14T20:15:02+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-255414630852346598",
+    "id": "tweet_geonews_urdu_-6018354793927909289",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "اب خلیجی ممالک کا امریکا پر اعتماد نہیں رہا ، مشاہد حسین سید@SaleemKhanSafi",
-    "translated_text": "海湾国家不再信任美国，Mushahid Hussain Syed @SaleemKhanSafi",
+    "text": "Gulf countries no longer trust America, Mashahid Hussain Syed@SaleemKhanSafi",
+    "translated_text": "海湾国家不再信任美国，Mashahid Hussain Syed@SaleemKhanSafi",
     "images": [
       "32a01efe33dfc7cb.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-255414630852346598",
-    "timestamp": "2026-06-14T20:21:57.477697+00:00",
+    "url": "https://x.com/geonews_urdu/status/-6018354793927909289",
+    "timestamp": "2026-06-14T22:15:10.608400+00:00",
     "original_time": "2026-06-14T20:14:33+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-4885312344479692879",
+    "id": "tweet_geonews_urdu_7823728198650974641",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "کیا ریمبو بچپن سے اداکار بنا چاہتے تھے؟",
-    "translated_text": "兰博从小就想当演员吗？",
+    "text": "Is Israel trying to sabotage the ceasefire deal?@SaleemKhanSafi",
+    "translated_text": "以色列是否试图破坏停火协议？@SaleemKhanSafi",
     "images": [
-      "f16ae2390f85e1bc.jpg"
+      "5079e4ae2fde63c7.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-4885312344479692879",
-    "timestamp": "2026-06-14T20:22:00.589367+00:00",
-    "original_time": "2026-06-14T20:08:38+00:00"
+    "url": "https://x.com/geonews_urdu/status/7823728198650974641",
+    "timestamp": "2026-06-14T22:15:11.857606+00:00",
+    "original_time": "2026-06-14T20:14:21+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8309082487613889460",
+    "id": "tweet_geonews_urdu_1344011147518253185",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "ہسنا منع ہیں میں رمبو کی شاعرانہ انٹری!\nبچپن میں ریمبو کیسے تھے؟",
-    "translated_text": "兰博在哈斯纳穆尼海的诗意进入！\n兰博小时候是什么样的？",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/-8309082487613889460",
-    "timestamp": "2026-06-14T20:22:01.893098+00:00",
-    "original_time": "2026-06-14T20:08:33+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_458506790839261523",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Victims of the Baldia Factory incident and labor organizations have demanded the reopening of the case",
-    "translated_text": "巴尔迪亚工厂事件受害者和劳工组织要求重新审理此案",
+    "text": "There is no possibility of war now, both parties can no longer afford war, Musahid Hussain Sayed@SaleemKhanSafi",
+    "translated_text": "现在没有战争的可能性，双方都无法再承受战争，Musahid Hussain Sayed@SaleemKhanSafi",
     "images": [
-      "47694db7b6cb67fc.jpg"
+      "e3bedd4daba80e3b.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/458506790839261523",
-    "timestamp": "2026-06-14T20:22:02.496068+00:00",
-    "original_time": "2026-06-14T19:34:56+00:00"
+    "url": "https://x.com/geonews_urdu/status/1344011147518253185",
+    "timestamp": "2026-06-14T22:15:12.946578+00:00",
+    "original_time": "2026-06-14T20:13:55+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_3885423774840678020",
+    "id": "tweet_geonews_urdu_6066352886491527605",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Over 100 British MPs demand cancellation of Israeli real estate event in London",
-    "translated_text": "100多名英国议员要求取消在伦敦举行的以色列房地产活动",
+    "text": "Why the closure of the Strait of Hormuz despite the ceasefire, and what is the reason for the delay in the agreement?  \nSee what Mashahid Hussain Syed revealed?@SaleemKhanSafi",
+    "translated_text": "为什么在停火的情况下仍关闭霍尔木兹海峡？协议延迟的原因是什么？  \n看看马沙希德·侯赛因·赛义德透露了什么？@SaleemKhanSafi",
     "images": [
-      "91a1d784cb6993b8.jpg"
+      "d99f0f5e02cf1764.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/3885423774840678020",
-    "timestamp": "2026-06-14T20:22:03.016179+00:00",
-    "original_time": "2026-06-14T19:04:32+00:00"
+    "url": "https://x.com/geonews_urdu/status/6066352886491527605",
+    "timestamp": "2026-06-14T22:15:14.012335+00:00",
+    "original_time": "2026-06-14T20:13:44+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-5293583715763330329",
+    "id": "tweet_geonews_urdu_1769404369348668483",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "What is the secret to Mian Farooq Nazir's health?",
-    "translated_text": "米安·法鲁克·纳齐尔 (Mian Farooq Nazir) 健康的秘诀是什么？",
+    "text": "What incident occurred during the shooting with Rambo?",
+    "translated_text": "拍摄《第一滴血》时发生了什么事件？",
     "images": [
-      "b519ab0923e17b8b.jpg"
+      "5cb604d672942839.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-5293583715763330329",
-    "timestamp": "2026-06-14T20:22:03.506935+00:00",
-    "original_time": "2026-06-14T19:00:32+00:00"
+    "url": "https://x.com/geonews_urdu/status/1769404369348668483",
+    "timestamp": "2026-06-14T22:15:15.404880+00:00",
+    "original_time": "2026-06-14T20:09:26+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_4123561407707062538",
+    "id": "tweet_geonews_urdu_-8637582410712381915",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "What feelings do Mian Farooq Nazir's friends hold for him?",
-    "translated_text": "米安·法鲁克·纳齐尔 (Mian Farooq Nazir) 的朋友们对他有何感情？",
+    "text": "Tabish played a 2.5-second affair with Rambo",
+    "translated_text": "塔比什与兰博进行了一段2.5秒的恋情",
     "images": [
-      "e3c28caf9c271e6f.jpg"
+      "d62032667354e5f4.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/4123561407707062538",
-    "timestamp": "2026-06-14T20:22:03.991823+00:00",
-    "original_time": "2026-06-14T18:58:39+00:00"
+    "url": "https://x.com/geonews_urdu/status/-8637582410712381915",
+    "timestamp": "2026-06-14T22:15:15.871745+00:00",
+    "original_time": "2026-06-14T20:09:21+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_8871331326630767892",
+    "id": "tweet_geonews_urdu_-1825074652080999186",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "General elections will be held on 27 July as per schedule: Election Commission spokesperson  \nAzad Jammu and Kashmir",
-    "translated_text": "选举委员会发言人：大选将于 7 月 27 日按计划举行  \n自由查谟和克什米尔",
+    "text": "What do Tabish and Rambo like about Sindh?",
+    "translated_text": "塔比什和兰博喜欢信德省的什么？",
     "images": [
-      "a40ce62f2f1b18c9.jpg"
+      "11c28be4ba069c45.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/8871331326630767892",
-    "timestamp": "2026-06-14T20:22:04.531630+00:00",
-    "original_time": "2026-06-14T18:26:34+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-2700100929555602147",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Tax collection has increased by 11 percent in the current financial year compared to last year, of which 10 percent increase is due to nominal growth; has enforcement merely remained at one percent?  \nFBR Chairman Rashid Mahmud Langriyal's response",
-    "translated_text": "与去年相比，本财年税收增加了11%，其中10%的增加是由于名义增长；执行力度仅仅维持在百分之一吗？  \nFBR主席拉希德·马哈茂德·兰格里亚尔的回应",
-    "images": [
-      "d4ef4ef0c4fa9c39.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-2700100929555602147",
-    "timestamp": "2026-06-14T20:22:05.079206+00:00",
-    "original_time": "2026-06-14T18:17:59+00:00"
-  },
-  {
-    "id": "article_e06c7134708c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007655/khameneis-funeral-to-begin-on-july-4",
-    "timestamp": "2026-06-14T20:24:35.189097+00:00",
-    "original_time": "2026-06-14T20:24:35.189061+00:00"
-  },
-  {
-    "id": "article_21e6e113c058",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007344/budget-fy26-27-what-relief-measures-has-the-government-announced-for-next-year",
-    "timestamp": "2026-06-14T20:25:00.340414+00:00",
-    "original_time": "2026-06-14T20:25:00.340205+00:00"
-  },
-  {
-    "id": "article_2d8a94b248fd",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "At least 7 killed, 33 injured in rain-related incidents across KP in a day",
-    "translated_title": "KP全境一天内因降雨造成至少7人死亡、33人受伤",
-    "url": "https://www.dawn.com/news/2007786/at-least-7-killed-33-injured-in-rain-related-incidents-across-kp-in-a-day",
-    "timestamp": "2026-06-14T20:25:08.128323+00:00",
-    "original_time": "2026-06-14T16:56:33+05:00"
-  },
-  {
-    "id": "article_f0b4f13dfab1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007389/budget-2026-27-hecs-recurring-grant-kept-unchanged-despite-demand-for-significant-increase",
-    "timestamp": "2026-06-14T20:25:29.043962+00:00",
-    "original_time": "2026-06-14T20:25:29.043929+00:00"
-  },
-  {
-    "id": "article_6f942519cdba",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007454/property-tax-halved-for-filers-to-revive-realty-sector",
-    "timestamp": "2026-06-14T20:26:13.166702+00:00",
-    "original_time": "2026-06-14T20:26:13.166667+00:00"
+    "url": "https://x.com/geonews_urdu/status/-1825074652080999186",
+    "timestamp": "2026-06-14T22:15:16.887214+00:00",
+    "original_time": "2026-06-14T20:09:18+00:00"
   },
   {
     "id": "article_66885e4159e5",
@@ -641,108 +608,48 @@
     "title": "FIA foils alleged attempt to travel abroad using fake NOC in Multan",
     "translated_title": "国际汽联在木尔坦挫败了涉嫌使用假国家奥委会出国旅行的企图",
     "url": "https://www.dawn.com/news/2007804/fia-foils-alleged-attempt-to-travel-abroad-using-fake-noc-in-multan",
-    "timestamp": "2026-06-14T20:26:27.008644+00:00",
+    "timestamp": "2026-06-14T22:16:50.352752+00:00",
     "original_time": "2026-06-14T19:19:16+05:00"
   },
   {
-    "id": "article_2b66d6e319b3",
+    "id": "article_2d8a94b248fd",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "FIFA World Cup bus set alight as chaotic celebrations erupt in NYC's Manhattan after Knicks win",
-    "translated_title": "尼克斯队获胜后，纽约曼哈顿爆发混乱庆祝活动，世界杯巴士被点燃",
-    "url": "https://www.dawn.com/news/2007778/fifa-world-cup-bus-set-alight-as-chaotic-celebrations-erupt-in-nycs-manhattan-after-knicks-win",
-    "timestamp": "2026-06-14T20:26:32.761010+00:00",
-    "original_time": "2026-06-14T14:37:22+05:00"
+    "title": "At least 7 killed, 33 injured in rain-related incidents across KP in a day",
+    "translated_title": "KP全境一天内因降雨造成至少7人死亡、33人受伤",
+    "url": "https://www.dawn.com/news/2007786/at-least-7-killed-33-injured-in-rain-related-incidents-across-kp-in-a-day",
+    "timestamp": "2026-06-14T22:17:36.392499+00:00",
+    "original_time": "2026-06-14T16:56:33+05:00"
+  },
+  {
+    "id": "article_01ade4f8e9ec",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2006857/any-attempt-to-block-water-will-have-far-reaching-consequences-warns-fo-after-indian-ministers-remarks",
+    "timestamp": "2026-06-14T22:18:17.066732+00:00",
+    "original_time": "2026-06-14T22:18:17.066699+00:00"
+  },
+  {
+    "id": "article_e10a380507d2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2007514",
+    "timestamp": "2026-06-14T22:19:49.170595+00:00",
+    "original_time": "2026-06-14T22:19:49.170569+00:00"
   },
   {
     "id": "article_5b4d74dfc5ca",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "A US-Iran deal to stop the war is imminent. Here's what we know about its contents so far",
-    "translated_title": "美国与伊朗即将达成停止战争的协议。这是迄今为止我们所了解的内容",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
     "url": "https://www.dawn.com/news/2007794/a-us-iran-deal-to-stop-the-war-is-imminent-heres-what-we-know-about-its-contents-so-far",
-    "timestamp": "2026-06-14T20:26:35.491868+00:00",
-    "original_time": "2026-06-14T19:12:43+05:00"
-  },
-  {
-    "id": "article_4a196feefcbc",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007374/finmin-aurangzeb-says-govt-committed-to-reducing-tax-burden-by-widening-tax-net",
-    "timestamp": "2026-06-14T20:26:52.224943+00:00",
-    "original_time": "2026-06-14T20:26:52.224911+00:00"
-  },
-  {
-    "id": "article_9b2a644a59b8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "India rout Pakistan at women's T20 World Cup",
-    "translated_title": "印度在女子T20世界杯上击败巴基斯坦",
-    "url": "https://www.dawn.com/news/2007818/india-rout-pakistan-at-womens-t20-world-cup",
-    "timestamp": "2026-06-14T20:27:01.867835+00:00",
-    "original_time": "2026-06-14T23:12:32+05:00"
-  },
-  {
-    "id": "article_76f86382c003",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007188/a-difficult-story",
-    "timestamp": "2026-06-14T20:27:21.596482+00:00",
-    "original_time": "2026-06-14T20:27:21.596449+00:00"
-  },
-  {
-    "id": "article_5ebccd7d1c8e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007052",
-    "timestamp": "2026-06-14T20:28:01.943610+00:00",
-    "original_time": "2026-06-14T20:28:01.943575+00:00"
-  },
-  {
-    "id": "article_9df75960ae67",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Switzerland votes on proposal to cap population at 10m",
-    "translated_title": "瑞士就人口上限提案进行投票",
-    "url": "https://www.dawn.com/news/2007775/switzerland-votes-on-proposal-to-cap-population-at-10m",
-    "timestamp": "2026-06-14T20:28:17.610454+00:00",
-    "original_time": "2026-06-14T13:35:22+05:00"
-  },
-  {
-    "id": "article_afdba991719f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Germany hammer World Cup debutants Curacao after early scare",
-    "translated_title": "德国队在早期恐慌后重振世界杯首次亮相库拉索岛",
-    "url": "https://www.dawn.com/news/2007821/germany-hammer-world-cup-debutants-curacao-after-early-scare",
-    "timestamp": "2026-06-14T20:28:28.191646+00:00",
-    "original_time": "2026-06-15T00:18:15+05:00"
-  },
-  {
-    "id": "article_5e278cfb3c05",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Punjab expands Liquid Tree project to tackle urban pollution",
-    "translated_title": "旁遮普邦扩大液体树项目以解决城市污染",
-    "url": "https://www.dawn.com/news/2007783/punjab-expands-liquid-tree-project-to-tackle-urban-pollution",
-    "timestamp": "2026-06-14T20:28:32.366400+00:00",
-    "original_time": "2026-06-14T15:32:39+05:00"
-  },
-  {
-    "id": "article_92708f6b2a27",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007227/trump-unveils-great-iran-deal-signing-expected-in-europe",
-    "timestamp": "2026-06-14T20:29:10.473846+00:00",
-    "original_time": "2026-06-14T20:29:10.473815+00:00"
+    "timestamp": "2026-06-14T22:20:32.784769+00:00",
+    "original_time": "2026-06-14T22:20:32.784745+00:00"
   },
   {
     "id": "article_cca25f166375",
@@ -751,28 +658,18 @@
     "title": "UK intercepts Russian shadow fleet vessel in Channel: defence ministry",
     "translated_title": "英国在英吉利海峡拦截俄罗斯影子舰队：国防部",
     "url": "https://www.dawn.com/news/2007796/uk-intercepts-russian-shadow-fleet-vessel-in-channel-defence-ministry",
-    "timestamp": "2026-06-14T20:30:17.786866+00:00",
+    "timestamp": "2026-06-14T22:20:40.601773+00:00",
     "original_time": "2026-06-14T17:51:36+05:00"
   },
   {
-    "id": "article_804d54db9725",
+    "id": "article_afdba991719f",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Fafen calls for overhaul of KP Right to Information Act",
-    "translated_title": "法芬呼吁彻底修改《KP信息权法》",
-    "url": "https://www.dawn.com/news/2007799/fafen-calls-for-overhaul-of-kp-right-to-information-act",
-    "timestamp": "2026-06-14T20:30:26.306731+00:00",
-    "original_time": "2026-06-14T18:39:32+05:00"
-  },
-  {
-    "id": "article_9d558846d3fb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2006917/weather-pattern-el-nino-has-begun-says-us-agency-noaa",
-    "timestamp": "2026-06-14T20:31:21.296046+00:00",
-    "original_time": "2026-06-14T20:31:21.296014+00:00"
+    "title": "Germany hammer World Cup debutants Curacao after early scare",
+    "translated_title": "德国队在早期恐慌后重振世界杯首次亮相库拉索岛",
+    "url": "https://www.dawn.com/news/2007821/germany-hammer-world-cup-debutants-curacao-after-early-scare",
+    "timestamp": "2026-06-14T22:21:06.340439+00:00",
+    "original_time": "2026-06-15T00:18:15+05:00"
   },
   {
     "id": "article_5957e832c21d",
@@ -781,7 +678,47 @@
     "title": "Tarar calls for end to differences over AJKLA refugee seats via democratic means",
     "translated_title": "塔拉尔呼吁通过民主手段结束关于 AJKLA 难民席位的分歧",
     "url": "https://www.dawn.com/news/2007805/tarar-calls-for-end-to-differences-over-ajkla-refugee-seats-via-democratic-means",
-    "timestamp": "2026-06-14T20:31:29.702233+00:00",
+    "timestamp": "2026-06-14T22:21:42.662639+00:00",
     "original_time": "2026-06-14T19:34:32+05:00"
+  },
+  {
+    "id": "article_ce8e3f5bc817",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2007634/bajaur-police-broker-ceasefire-between-rival-tribes",
+    "timestamp": "2026-06-14T22:22:20.927705+00:00",
+    "original_time": "2026-06-14T22:22:20.927682+00:00"
+  },
+  {
+    "id": "article_804d54db9725",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Fafen calls for overhaul of KP Right to Information Act",
+    "translated_title": "法芬呼吁彻底修改《KP信息权法》",
+    "url": "https://www.dawn.com/news/2007799/fafen-calls-for-overhaul-of-kp-right-to-information-act",
+    "timestamp": "2026-06-14T22:22:32.680629+00:00",
+    "original_time": "2026-06-14T18:39:32+05:00"
+  },
+  {
+    "id": "article_5e278cfb3c05",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Punjab expands Liquid Tree project to tackle urban pollution",
+    "translated_title": "旁遮普邦扩大液体树项目以解决城市污染",
+    "url": "https://www.dawn.com/news/2007783/punjab-expands-liquid-tree-project-to-tackle-urban-pollution",
+    "timestamp": "2026-06-14T22:22:43.880493+00:00",
+    "original_time": "2026-06-14T15:32:39+05:00"
+  },
+  {
+    "id": "article_9b2a644a59b8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "India rout Pakistan at women's T20 World Cup",
+    "translated_title": "印度在女子T20世界杯上击败巴基斯坦",
+    "url": "https://www.dawn.com/news/2007818/india-rout-pakistan-at-womens-t20-world-cup",
+    "timestamp": "2026-06-14T22:24:15.178843+00:00",
+    "original_time": "2026-06-14T23:12:32+05:00"
   }
 ]
