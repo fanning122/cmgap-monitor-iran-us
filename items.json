@@ -1,94 +1,126 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-1208998997142407181",
+    "id": "tweet_ForeignOfficePk_-3441883838749896015",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "PR No. 145/2026\n\nSeminar on \"Transboundary Water Resources:\nA Weaponised Global Common\" in Brussels\n18 June 2026",
+    "translated_text": "公告编号 145/2026\n\n“跨界水资源：\n布鲁塞尔的“武器化全球共同点”\n2026 年 6 月 18 日",
+    "images": [
+      "88f40ae084ace679.svg",
+      "6927007c5e94b687.svg",
+      "1d7695f51048fca1.svg",
+      "f4ccd53e8e85dfe7.jpg",
+      "4225467abcf4d50c.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-3441883838749896015",
+    "timestamp": "2026-06-18T16:31:11.519275+00:00",
+    "original_time": "2026-06-18T15:41:27+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_3266737443492281249",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister / Foreign Minister Senator Muhammad Ishaq Dar@MIshaqDar50spoke this afternoon with Egyptian Foreign Minister Badr Abdelatty.\n\nThe Egyptian Foreign Minister congratulated Pakistan on the signing of Memorandum of Understanding between the United States and",
+    "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50 今天下午与埃及外交部长巴德尔·阿卜杜拉蒂进行了交谈。\n\n埃及外长祝贺巴基斯坦签署美国和巴基斯坦谅解备忘录",
+    "images": [
+      "1bdbfbc2f3bd125c.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/3266737443492281249",
+    "timestamp": "2026-06-18T16:31:12.603538+00:00",
+    "original_time": "2026-06-18T15:02:13+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_6383075238973260590",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Keynote Address by Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar at the Brussels Conference on \"Transboundary Water Resources: A Weaponised Global Common\"\n18 June, 2026",
+    "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔在布鲁塞尔会议上发表题为“跨界水资源：武器化的全球共同点”的主题演讲\n2026 年 6 月 18 日",
+    "images": [
+      "17a976a49287766f.jpg",
+      "d65e4167d9420551.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/6383075238973260590",
+    "timestamp": "2026-06-18T16:31:14.060117+00:00",
+    "original_time": "2026-06-18T13:00:02+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_5739643491348561704",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar delivered a keynote address via recorded video message at the seminar, “Transboundary Water Resources: A Weaponised Global Common,” organized by the Embassy of Pakistan in Brussels and the Centre for European",
+    "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔在由巴基斯坦驻布鲁塞尔大使馆和欧洲中心组织的“跨界水资源：武器化的全球共同点”研讨会上通过录制的视频信息发表了主旨演讲。",
+    "images": [],
+    "url": "https://x.com/ForeignOfficePk/status/5739643491348561704",
+    "timestamp": "2026-06-18T16:31:14.907483+00:00",
+    "original_time": "2026-06-18T12:33:45+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_4668565655133023192",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister/Foreign Minister, Senator Mohammad Ishaq Dar@MIshaqDar50delivered a keynote address via a recorded video message at the Seminar “Transboundary Water Resources: A Weaponised Global Common”, organized by the Embassy of Pakistan in Brussels@PakinBrussels,",
+    "translated_text": "副总理兼外交部长、参议员 Mohammad Ishaq Dar@MIshaqDar50 在巴基斯坦驻布鲁塞尔大使馆举办的“跨界水资源：武器化的全球共同点”研讨会上通过录制的视频发表了主旨演讲@PakinBrussels，",
+    "images": [
+      "c7e33c2a1f518fe2.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/4668565655133023192",
+    "timestamp": "2026-06-18T16:31:15.940037+00:00",
+    "original_time": "2026-06-18T12:29:26+00:00"
+  },
+  {
+    "id": "tweet_MIshaqDar50_0",
+    "type": "tweet",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
+    "images": [
+      "e2451ce441a8fbbf.jpg"
+    ],
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-06-18T16:31:30.904360+00:00",
+    "original_time": "2026-06-18T15:51:48+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_1545888435746014555",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50received a call from the Foreign Minister of Türkiye, Hakan Fidan@HakanFidan.\n\nFM Hakan Fidan congratulated Pakistan on the historic signing of the Islamabad Memorandum of Understanding between the",
-    "translated_text": "副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 接到了土耳其外交部长 Hakan Fidan@HakanFidan 的电话。\n\n哈坎·菲丹 (Hakan Fidan) 外长祝贺巴基斯坦与巴基斯坦之间历史性地签署伊斯兰堡谅解备忘录",
+    "translated_text": "副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 接到了土耳其外交部长 Hakan Fidan@HakanFidan 的电话。\n\n哈坎·菲丹外长祝贺巴基斯坦与巴基斯坦之间历史性地签署伊斯兰堡谅解备忘录",
     "images": [
       "1a2eca741971d4d7.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-1208998997142407181",
-    "timestamp": "2026-06-18T12:26:09.160958+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/1545888435746014555",
+    "timestamp": "2026-06-18T16:31:33.149801+00:00",
     "original_time": "2026-06-18T10:51:04+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_1407358073222317161",
+    "id": "tweet_PakPMO_2648461747971693240",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50received a call from the Foreign Minister of Bahrain, Dr. Abdullatif bin Rashid Al Zayani.\n\nThe Bahraini FM congratulated DPM/FM on the signing of the Islamabad Memorandum of Understanding between the",
-    "translated_text": "副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 接到巴林外交部长 Abdullatif bin Rashid Al Zayani 博士的电话。\n\n巴林外长祝贺副总理兼外长签署伊斯兰堡谅解备忘录",
+    "username": "PakPMO",
+    "text": "Islamabad :18 June 2026.\n\nPrime Minister Muhammad Shehbaz Sharif received a telephone call from His Excellency Dr. Masoud Pezeshkian, President of the Islamic Republic of Iran, this afternoon, that lasted over thirty minutes.\n\nThis was the first contact between the two leaders",
+    "translated_text": "伊斯兰堡：2026 年 6 月 18 日。\n\n今天下午，穆罕默德·谢赫巴兹·谢里夫总理接到伊朗伊斯兰共和国总统马苏德·佩泽什基安博士阁下的电话，通话持续了三十多分钟。\n\n这是两国领导人的首次接触",
     "images": [
-      "336f05033782b7cb.jpg"
+      "dc087c6294fe5aaf.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/1407358073222317161",
-    "timestamp": "2026-06-18T12:26:10.270370+00:00",
-    "original_time": "2026-06-18T10:18:25+00:00"
+    "url": "https://x.com/PakPMO/status/2648461747971693240",
+    "timestamp": "2026-06-18T16:32:01.461200+00:00",
+    "original_time": "2026-06-18T13:42:35+00:00"
   },
   {
-    "id": "tweet_MIshaqDar50_-8222370390336287610",
-    "type": "tweet",
-    "username": "MIshaqDar50",
-    "text": "Islamabad :18 June 2026\n\nPrime Minister of Pakistan Muhammad Shehbaz Sharif signed the Islamabad Memorandum of Understanding (Islamabad MoU)، as mediator.\n \nThe Islamabad MOU has been signed by President of USA Donald J. Trump and Iranian President Masoud Pazeshkian.",
-    "translated_text": "伊斯兰堡 : 2026 年 6 月 18 日\n\n巴基斯坦总理穆罕默德·谢赫巴兹·谢里夫作为调解人签署了《伊斯兰堡谅解备忘录》(Islamabad MoU)。\n \n伊斯兰堡谅解备忘录已由美国总统唐纳德·J·特朗普和伊朗总统马苏德·帕泽什基安签署。",
-    "images": [
-      "61d5819571df9a44.jpg"
-    ],
-    "url": "https://x.com/MIshaqDar50/status/-8222370390336287610",
-    "timestamp": "2026-06-18T12:26:11.612087+00:00",
-    "original_time": "2026-06-18T08:03:52+00:00"
-  },
-  {
-    "id": "tweet_ForeignOfficePk_4320808836497293521",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50spoke last night with Canadian Foreign Minister Anita Anand@AnitaAnandMP.\n\nFM Anita Anand commended Pakistan’s constructive role in supporting diplomatic engagement and mediation efforts between the",
-    "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50 昨晚与加拿大外交部长安妮塔·阿南德@AnitaAnandMP 进行了交谈。\n\n外长阿尼塔·阿南德赞扬巴基斯坦在支持两国之间的外交接触和调解努力方面发挥的建设性作用",
-    "images": [
-      "c27d970f4390011d.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/4320808836497293521",
-    "timestamp": "2026-06-18T12:26:12.167853+00:00",
-    "original_time": "2026-06-18T05:01:43+00:00"
-  },
-  {
-    "id": "tweet_PakistanUN_NY_-8524025927356635128",
-    "type": "tweet",
-    "username": "PakistanUN_NY",
-    "text": "#PakistanAtUNHumanitarian Action is a Duty, Not an Act of Generosity: Pakistan\n\n- Our Press Release",
-    "translated_text": "#PakistanAtUN人道主义行动是一项义务，而不是慷慨行为：巴基斯坦\n\n- 我们的新闻稿",
-    "images": [
-      "7b5fa24fb4da2edc.jpg",
-      "f4635273d9fea7d2.jpg"
-    ],
-    "url": "https://x.com/PakistanUN_NY/status/-8524025927356635128",
-    "timestamp": "2026-06-18T12:26:13.345595+00:00",
-    "original_time": "2026-06-18T02:14:49+00:00"
-  },
-  {
-    "id": "tweet_CMShehbaz_2881361885308564063",
-    "type": "tweet",
-    "username": "CMShehbaz",
-    "text": "I am honoured to announce that the historic ‘Islamabad Memorandum of Understanding’ has been electronically signed today between the United States of America and the Islamic Republic of Iran. The Memorandum has been signed by honourable Presidents of both the countries and also",
-    "translated_text": "我很荣幸地宣布，美利坚合众国和伊朗伊斯兰共和国今天以电子方式签署了历史性的“伊斯兰堡谅解备忘录”。该备忘录已由两国尊敬的总统签署",
-    "images": [],
-    "url": "https://x.com/CMShehbaz/status/2881361885308564063",
-    "timestamp": "2026-06-18T12:26:28.875333+00:00",
-    "original_time": "2026-06-18T00:27:27+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_627124655558202657",
+    "id": "tweet_PakPMO_3937045743997503464",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad :18 June 2026.\n\nPrime Minister of Pakistan Muhammad Shehbaz Sharif signed the Islamabad Memorandum of Understanding (Islamabad MoU)، as mediator.\n\n The Islamabad MOU has been signed by President of USA Donald J. Trump and Iranian President Masoud Pezeshkian.",
     "translated_text": "伊斯兰堡：2026 年 6 月 18 日。\n\n巴基斯坦总理穆罕默德·谢赫巴兹·谢里夫作为调解人签署了《伊斯兰堡谅解备忘录》(Islamabad MoU)。\n\n 伊斯兰堡谅解备忘录已由美国总统唐纳德·J·特朗普和伊朗总统马苏德·佩泽什基安签署。",
-    "images": [],
-    "url": "https://x.com/PakPMO/status/627124655558202657",
-    "timestamp": "2026-06-18T12:27:00.375235+00:00",
+    "images": [
+      "563442bea1cf4c3f.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/3937045743997503464",
+    "timestamp": "2026-06-18T16:32:02.532056+00:00",
     "original_time": "2026-06-18T07:59:10+00:00"
   },
   {
-    "id": "tweet_PakPMO_581973054092778348",
+    "id": "tweet_PakPMO_4569176978378874131",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad: June 18, 2026.\n\nPrime Minister of Pakistan Muhammad Shehbaz Sharif signed the Islamabad Memorandum of Understanding as a guarantor.\n\nSignatures of US President Donald Trump and Iran's President Masoud Pezeshkian are present on the Islamabad Memorandum of Understanding.",
@@ -97,12 +129,169 @@
       "fe1d1c94c2a8c2df.jpg",
       "a3309b9e632575ba.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/581973054092778348",
-    "timestamp": "2026-06-18T12:27:01.035829+00:00",
+    "url": "https://x.com/PakPMO/status/4569176978378874131",
+    "timestamp": "2026-06-18T16:32:03.873587+00:00",
     "original_time": "2026-06-18T07:54:35+00:00"
   },
   {
-    "id": "tweet_IRIMFA_-4236455254580763309",
+    "id": "tweet_PakTVGlobal_-3221387407320650474",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "US Vice President JD Vance says the US has allowed more than a dozen ships through its naval blockade of Iran’s ports after Washington and Tehran signed a memorandum of understanding, signaling implementation of early commitments under the agreement.#USIran#JDVance",
+    "translated_text": "美国副总统 JD 万斯表示，在华盛顿和德黑兰签署谅解备忘录后，美国已允许十几艘船只通过对伊朗港口的海上封锁，这表明美国履行了协议中的早期承诺。#USIran#JDVance",
+    "images": [
+      "d89205b054364cf0.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3221387407320650474",
+    "timestamp": "2026-06-18T16:32:33.159853+00:00",
+    "original_time": "2026-06-18T16:09:39+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2223370336145381947",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "US Vice President JD Vance, speaking at a White House briefing, said US operations destroyed a substantial number of Iranian missiles and noted that Iran’s struggling economy gives Tehran a strong incentive to uphold the agreement. He said Washington believes Iran is honoring its",
+    "translated_text": "美国副总统万斯在白宫新闻发布会上表示，美国的行动摧毁了大量伊朗导弹，并指出伊朗陷入困境的经济给了德黑兰维护该协议的强大动力。他说华盛顿相信伊朗正在履行其承诺",
+    "images": [
+      "940624b0e15313a5.jpg",
+      "f92ce3c1a4cf78df.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2223370336145381947",
+    "timestamp": "2026-06-18T16:32:34.396611+00:00",
+    "original_time": "2026-06-18T15:54:41+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2585019295897476737",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "US Vice President JD Vance, speaking at a White House briefing, said any economic benefits for Iran will depend on its future conduct and compliance with the agreement. He described the deal as potentially transformative for the Middle East and said that Iran’s nuclear weapons",
+    "translated_text": "美国副总统万斯在白宫新闻发布会上表示，伊朗的任何经济利益将取决于其未来的行为和对协议的遵守情况。他称该协议可能会给中东带来变革，并表示伊朗的核武器",
+    "images": [
+      "6a56b4c1a07a819d.jpg",
+      "c8ced998542383ec.jpg",
+      "e1b583b34c877862.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2585019295897476737",
+    "timestamp": "2026-06-18T16:32:35.654193+00:00",
+    "original_time": "2026-06-18T15:41:39+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_7342838062955247475",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "US Vice President JD Vance Speaks at White House Briefing",
+    "translated_text": "美国副总统万斯在白宫新闻发布会上发表讲话",
+    "images": [
+      "75ddc604cecd10ad.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/7342838062955247475",
+    "timestamp": "2026-06-18T16:32:36.846241+00:00",
+    "original_time": "2026-06-18T15:37:44+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1222417328323312328",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "US Vice President JD Vance, speaking at a White House briefing, said the United States is “not giving a cent” to Iran and stressed that Tehran recognizes Washington’s leverage. He added that the agreement with Iran serves America's national interests and is designed to advance",
+    "translated_text": "美国副总统万斯在白宫新闻发布会上表示，美国“不会给伊朗一分钱”，并强调德黑兰承认华盛顿的影响力。他补充说，与伊朗的协议符合美国的国家利益，旨在推动",
+    "images": [
+      "44feff0600841fb9.jpg",
+      "8c899ebd6cc93a09.jpg",
+      "57031d5c7e643dde.jpg",
+      "a876d8b8086f2414.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1222417328323312328",
+    "timestamp": "2026-06-18T16:32:38.127387+00:00",
+    "original_time": "2026-06-18T15:35:32+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-5445731461921896656",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Prime minister and Foreign of Qatar and Foreign Minister of Saudi Arabia reviewed regional developments, including the US-Iran agreement, and reaffirmed support for dialogue, diplomacy, and efforts aimed at strengthening regional peace, security, and stability.#Qatar",
+    "translated_text": "卡塔尔首相兼外交部长和沙特阿拉伯外交部长回顾了地区事态发展，包括美伊协议，并重申支持对话、外交以及旨在加强地区和平、安全与稳定的努力。#卡塔尔",
+    "images": [
+      "b13f280d06bd72aa.png",
+      "2ccc3c1446628929.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-5445731461921896656",
+    "timestamp": "2026-06-18T16:32:41.605792+00:00",
+    "original_time": "2026-06-18T13:11:23+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1930231319056603442",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan’s cricket icon Shahid Afridi visited the United Nations in New York at the invitation of Ambassador Asim Iftikhar Ahmad, where he was briefed on global peace, security, and multilateral cooperation.\n\nDisclaimer: This video is intended for informational and editorial use",
+    "translated_text": "巴基斯坦板球偶像沙希德·阿夫里迪应阿西姆·伊夫蒂哈尔·艾哈迈德大使的邀请访问了纽约联合国，并听取了有关全球和平、安全和多边合作的情况介绍。\n\n免责声明：该视频仅供参考和编辑用途",
+    "images": [
+      "8c4f947befe37b1c.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1930231319056603442",
+    "timestamp": "2026-06-18T16:32:42.992757+00:00",
+    "original_time": "2026-06-18T13:08:35+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1900079059361997143",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Spain’s King Felipe VI is set to meet Mexican President Claudia Sheinbaum on June 25 during his World Cup visit, marking another step in the improving diplomatic ties between the two countries.#SpainMexico#DiplomaticRelations#KingFelipeVI#ClaudiaSheinbaum#PakistanTV",
+    "translated_text": "西班牙国王费利佩六世将于 6 月 25 日在世界杯期间会见墨西哥总统克劳迪娅·谢因鲍姆，这标志着改善两国外交关系又迈出了一步。#SpainMexico#DiplomaticRelations#KingFelipeVI#ClaudiaSheinbaum#PakistanTV",
+    "images": [
+      "81afbce96655101c.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1900079059361997143",
+    "timestamp": "2026-06-18T16:32:44.668468+00:00",
+    "original_time": "2026-06-18T13:00:30+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-4162395967759330910",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Deputy PM Ishaq Dar says shared waters are pathways for peace and peaceful coexistence must not be taken for granted. He emphasized that shared resources require cooperative management and reaffirmed Pakistan’s commitment to the UN Charter. He also stated that India unilaterally",
+    "translated_text": "副总理伊沙克·达尔表示，共享水域是和平之路，和平共处不能被视为理所当然。他强调，共享资源需要合作管理，并重申巴基斯坦对《联合国宪章》的承诺。他还表示，印度单方面",
+    "images": [
+      "05dee5aa4b8885b6.jpg",
+      "e49e9e9178360cf4.jpg",
+      "407711732a69b4c1.jpg",
+      "a0e036421bc7df66.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-4162395967759330910",
+    "timestamp": "2026-06-18T16:32:45.576306+00:00",
+    "original_time": "2026-06-18T12:57:39+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_7939182404566966538",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Speaking live from Switzerland, Pakistan TV head Adil Shahzeb says Pakistan’s sustained diplomatic efforts under Prime Minister Shehbaz Sharif and Field Marshal Asim Munir have culminated in the electronic signing of a long-awaited Islamabad MOU between the United States and",
+    "translated_text": "巴基斯坦电视台台长阿迪尔·沙赫泽布在瑞士现场发表讲话说，巴基斯坦在总理谢巴兹·谢里夫和陆军元帅阿西姆·穆尼尔的领导下持续不断的外交努力最终导致美国和巴基斯坦之间以电子方式签署了期待已久的伊斯兰堡谅解备忘录。",
+    "images": [
+      "d7c265a6aee92569.jpg",
+      "d3714dce10420c8e.jpg",
+      "d687e2441ee3a501.jpg",
+      "ffb283e2f44dec96.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/7939182404566966538",
+    "timestamp": "2026-06-18T16:32:47.457796+00:00",
+    "original_time": "2026-06-18T12:33:01+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-476773843979824121",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Speaking live from Switzerland, Pakistan TV head Adil Shahzeb highlights that Pakistan’s leadership, particularly Prime Minister Shehbaz Sharif and Field Marshal Asim Munir, played a decisive role through months of tireless, behind-the-scenes diplomacy, ultimately bringing the",
+    "translated_text": "巴基斯坦电视台负责人阿迪尔·沙赫泽布在瑞士现场发表讲话，强调巴基斯坦的领导层，特别是总理谢赫巴兹·谢里夫和陆军元帅阿西姆·穆尼尔，通过数月不知疲倦的幕后外交发挥了决定性作用，最终使",
+    "images": [
+      "5d50745ab7df21e6.jpg",
+      "889635e217b6f82b.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-476773843979824121",
+    "timestamp": "2026-06-18T16:32:48.151413+00:00",
+    "original_time": "2026-06-18T12:31:46+00:00"
+  },
+  {
+    "id": "tweet_IRIMFA_-759933503449481302",
     "type": "tweet",
     "username": "IRIMFA",
     "text": "Ismail Baghaei, spokesperson for the Ministry of Foreign Affairs:\n\nOur missiles absolutely do not like anyone talking about them.\n\nIranian missiles are solely for firing, not for negotiation...",
@@ -110,273 +299,710 @@
     "images": [
       "36d39fab3c5cac3c.jpg"
     ],
-    "url": "https://x.com/IRIMFA/status/-4236455254580763309",
-    "timestamp": "2026-06-18T12:28:17.242382+00:00",
+    "url": "https://x.com/IRIMFA/status/-759933503449481302",
+    "timestamp": "2026-06-18T16:33:39.499349+00:00",
     "original_time": "2026-06-18T06:45:56+00:00"
   },
   {
-    "id": "tweet_AJENews_-6488348981194617120",
+    "id": "tweet_AJENews_-857823030667822975",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iran's Araghchi speaks with Kuwaiti counterpart on US-Iran MoULIVE updates:https://aje.news/xsbi1c?update=4675354…",
+    "text": "UPDATE: White House sends text of interim US-Iran agreement to CongressLIVE updates:https://aje.news/xsbi1c?update=4676274…",
+    "translated_text": "更新：白宫向国会发送美国-伊朗临时协议文本更新：https://aje.news/xsbi1c?update=4676274…",
+    "images": [
+      "7f1a451786c84548.svg"
+    ],
+    "url": "https://x.com/AJENews/status/-857823030667822975",
+    "timestamp": "2026-06-18T16:34:08.367677+00:00",
+    "original_time": "2026-06-18T16:28:47+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-5876595233685984416",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Vance confident US sanctions on Iran can be liftedLIVE updates:https://aje.news/xsbi1c?update=4676022…",
+    "translated_text": "更新：万斯相信美国可以取消对伊朗的制裁实时更新：https://aje.news/xsbi1c?update=4676022…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "9538f15b7a7fc2c5.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-5876595233685984416",
+    "timestamp": "2026-06-18T16:34:09.349101+00:00",
+    "original_time": "2026-06-18T16:19:39+00:00"
+  },
+  {
+    "id": "tweet_AJENews_0",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "",
+    "translated_text": "",
+    "images": [
+      "0c00817cbe348399.jpg",
+      "9b20f961c2ada6de.svg"
+    ],
+    "url": "https://x.com/AJENews/status/0",
+    "timestamp": "2026-06-18T16:34:09.601762+00:00",
+    "original_time": "2026-06-18T16:12:23+00:00"
+  },
+  {
+    "id": "tweet_AJENews_3493847248653351088",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Vance confident that US sanctions on Iran can be liftedLIVE updates:https://aje.news/xsbi1c?update=4676022…",
+    "translated_text": "更新：万斯有信心美国可以取消对伊朗的制裁实时更新：https://aje.news/xsbi1c?update=4676022…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "198a3b7da4b92f9a.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/3493847248653351088",
+    "timestamp": "2026-06-18T16:34:10.767164+00:00",
+    "original_time": "2026-06-18T16:12:13+00:00"
+  },
+  {
+    "id": "tweet_AJENews_1110115476345140240",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Kuwait says all force majeure issued during war liftedLIVE updates:https://aje.news/xsbi1c?update=4676086…",
+    "translated_text": "更新：科威特表示战争期间发布的所有不可抗力均已解除实时更新：https://aje.news/xsbi1c?update=4676086...",
+    "images": [
+      "7f1a451786c84548.svg",
+      "e9c95cb7703564ee.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/1110115476345140240",
+    "timestamp": "2026-06-18T16:34:11.421580+00:00",
+    "original_time": "2026-06-18T15:53:12+00:00"
+  },
+  {
+    "id": "tweet_AJENews_7344648996467590258",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: US-Iran 60-day negotiating period begins today: VanceLIVE updates:https://aje.news/xsbi1c?update=4676025…",
+    "translated_text": "更新：美国-伊朗 60 天谈判期今天开始：VanceLIVE 更新：https://aje.news/xsbi1c?update=4676025…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "ad849bae6ad31d30.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/7344648996467590258",
+    "timestamp": "2026-06-18T16:34:12.347231+00:00",
+    "original_time": "2026-06-18T15:45:36+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-1141575336135741589",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Iranian President Pezeshkian shares signed US-Iran agreement on X, calling it ‘a historic document’LIVE updates:https://aje.news/xsbi1c?update=4675279…",
+    "translated_text": "突发新闻：伊朗总统佩泽什基安在 X 上签署了美伊协议，称其为“历史性文件”实时更新：https://aje.news/xsbi1c?update=4675279…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "6e24378f69046e35.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-1141575336135741589",
+    "timestamp": "2026-06-18T16:34:15.574304+00:00",
+    "original_time": "2026-06-18T11:13:37+00:00"
+  },
+  {
+    "id": "tweet_AJENews_6468383167505688",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: French-flagged LNG tanker crosses Hormuz from Qatar as commercial shipping begins movingLIVE updates:https://aje.news/xsbi1c?update=4675098…",
+    "translated_text": "突发新闻：随着商业航运开始移动，悬挂法国国旗的液化天然气油轮从卡塔尔穿越霍尔木兹实时更新：https://aje.news/xsbi1c?update=4675098…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "7a76668fe1e265be.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/6468383167505688",
+    "timestamp": "2026-06-18T16:34:16.493130+00:00",
+    "original_time": "2026-06-18T11:10:24+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-2493330512200008528",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "Pentagon chief Pete Hesgeth has slammed his NATO allies at a roundtable meeting over defence spending and what he says was a failure to provide US forces access to bases in Europe to launch attacks on Iran. \n\nHesgeth also announced a review of the US military presence in Europe.",
+    "translated_text": "五角大楼负责人皮特·赫斯盖斯在一次圆桌会议上就国防开支问题猛烈抨击了他的北约盟友，并表示未能为美军提供进入欧洲基地对伊朗发动袭击的机会。 \n\n赫斯盖斯还宣布对美国在欧洲的军事存在进行审查。",
+    "images": [
+      "8e20b1ad39cbee8a.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-2493330512200008528",
+    "timestamp": "2026-06-18T16:34:17.314173+00:00",
+    "original_time": "2026-06-18T10:25:10+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-9091357533758051726",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "Correction: Pete Hegseth’s surname is misspelled in this video.",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/-6488348981194617120",
-    "timestamp": "2026-06-18T12:28:44.969096+00:00",
-    "original_time": "2026-06-18T12:20:22+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-6396541171677055978",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Pakistani, Turkish FMs express hope for ‘lasting peace in the region’LIVE updates:https://aje.news/xsbi1c?update=4675348…",
-    "translated_text": "突发新闻：巴基斯坦和土耳其外长表达了“该地区持久和平”的希望实时更新：https://aje.news/xsbi1c?update=4675348…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "f8df8db180b13371.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-6396541171677055978",
-    "timestamp": "2026-06-18T12:28:45.477519+00:00",
-    "original_time": "2026-06-18T12:10:29+00:00"
-  },
-  {
-    "id": "tweet_AJENews_2845699844533065704",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: EU policy chief responds to Israel's move to sever contact; says two-state solution with Palestine the only way for Middle East peaceLIVE updates:https://aje.news/xsbi1c?update=4675160…",
-    "translated_text": "突发新闻：欧盟政策负责人对以色列断绝联系的举动做出回应；表示与巴勒斯坦的两国解决方案是中东和平的唯一途径实时更新：https://aje.news/xsbi1c?update=4675160…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "4b8f9255de2deb5f.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/2845699844533065704",
-    "timestamp": "2026-06-18T12:28:46.550479+00:00",
-    "original_time": "2026-06-18T11:51:49+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-8342351748371410404",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran’s FM Abbas Araghchi, in a phone call with his Kuwaiti counterpart, emphasised the need for dialogue with Gulf countries to resolve existing \"misunderstandings\", according to Reuters.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：据路透社报道，伊朗外长阿巴斯·阿拉格奇在与科威特外长的电话中强调，需要与海湾国家进行对话，以解决现有的“误解”。更多信息请访问http://aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "8668ae656c939062.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-8342351748371410404",
-    "timestamp": "2026-06-18T12:28:47.875981+00:00",
-    "original_time": "2026-06-18T11:46:31+00:00"
-  },
-  {
-    "id": "tweet_AJENews_8946220712435987795",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: No final decision on Switzerland trip, Iranian diplomatic sources tell Al JazeeraLIVE updates:https://aje.news/xsbi1c?update=4675110…",
-    "translated_text": "突发新闻：伊朗外交消息人士告诉半岛电视台最新消息：瑞士之行尚未做出最终决定：https://aje.news/xsbi1c?update=4675110…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "f9af317d24ec68e7.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/8946220712435987795",
-    "timestamp": "2026-06-18T12:28:48.624906+00:00",
-    "original_time": "2026-06-18T11:40:57+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-6425618258418188139",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: China calls for 'pragmatic negotiations' between US and Iran as 60-day negotiating period beginsLIVE updates:https://aje.news/xsbi1c?update=4674638…",
-    "translated_text": "突发新闻：随着 60 天谈判期的开始，中国呼吁美国和伊朗进行“务实谈判”实时更新：https://aje.news/xsbi1c?update=4674638…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "2b061cb8158f9ee6.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-6425618258418188139",
-    "timestamp": "2026-06-18T12:28:51.506447+00:00",
-    "original_time": "2026-06-18T09:00:33+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-7545173395946478330",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israel's FM says cutting off contact with EU foreign policy chief Kaja KallasLIVE updates:https://aje.news/xsbi1c?update=4674776…",
-    "translated_text": "突发新闻：以色列外长表示切断与欧盟外交政策负责人卡贾·卡拉斯的联系实时更新：https://aje.news/xsbi1c?update=4674776…",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/-7545173395946478330",
-    "timestamp": "2026-06-18T12:28:52.250607+00:00",
-    "original_time": "2026-06-18T08:55:20+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-7808436430500046006",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Israeli FM Gideon Saar said that he was severing “all contact” with EU foreign policy chief Kaja Kallas over remarks he said were recently attributed to her comparing Israel to apartheid-era South Africa, Reuters reports.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：据路透社报道，以色列外长吉迪恩·萨尔 (Gideon Saar) 表示，他将切断与欧盟外交政策负责人卡贾·卡拉斯 (Kaja Kallas) 的“所有联系”，因为卡贾·卡拉斯最近发表的言论归因于她将以色列与种族隔离时代的南非进行了比较。更多信息请访问http://aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "4bc22164b98a202d.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-7808436430500046006",
-    "timestamp": "2026-06-18T12:28:53.192986+00:00",
-    "original_time": "2026-06-18T08:43:19+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-4699458325018347600",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Minister Amichai Chikli says Israel unlikely to pull out troops from southern Lebanon: 'we'll know how to say no to the United States'LIVE updates:https://aje.news/xsbi1c?update=4674610…",
-    "translated_text": "突发新闻：阿米猜·奇克利部长表示以色列不太可能从黎巴嫩南部撤军：“我们会知道如何对美国说不”实时更新：https://aje.news/xsbi1c?update=4674610…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "53ea209d2c7b4ce8.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4699458325018347600",
-    "timestamp": "2026-06-18T12:28:53.662219+00:00",
-    "original_time": "2026-06-18T08:30:54+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-4558329528550860439",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Shipping data shows that three Saudi-flagged supertankers carrying a total of 6 million barrels of crude oil sailed through the Strait of Hormuz on Thursday, according to Reuters.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：据路透社报道，航运数据显示，周四，三艘悬挂沙特国旗的超级油轮共载有 600 万桶原油穿过霍尔木兹海峡。更多信息请访问 http://aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "2e734e75f3897a58.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4558329528550860439",
-    "timestamp": "2026-06-18T12:28:54.644409+00:00",
-    "original_time": "2026-06-18T08:27:54+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-3932415953944236761",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: IAEA chief welcomes US-Iran interim deal, says 'technical work' must now beginLIVE updates:https://aje.news/xsbi1c?update=4674652…",
-    "translated_text": "突发新闻：国际原子能机构主席欢迎美国与伊朗的临时协议，表示“技术工作”现在必须开始实时更新：https://aje.news/xsbi1c?update=4674652…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "755e4d88e6825887.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-3932415953944236761",
-    "timestamp": "2026-06-18T12:28:55.825625+00:00",
-    "original_time": "2026-06-18T08:10:41+00:00"
-  },
-  {
-    "id": "tweet_AJENews_1166294382248459756",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran war live: Israel continues Lebanon attacks after US and Iran sign deal. US officials had said US-Iran deal would include an end to the war in Lebanon.LIVE updates:https://aje.news/xsbi1c",
-    "translated_text": "突发：伊朗战争现场：美国和伊朗签署协议后，以色列继续袭击黎巴嫩。美国官员表示，美伊协议将包括结束黎巴嫩战争。实时更新：https://aje.news/xsbi1c",
-    "images": [
-      "7f1a451786c84548.svg",
-      "48caeb830654b00d.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/1166294382248459756",
-    "timestamp": "2026-06-18T12:28:56.214187+00:00",
-    "original_time": "2026-06-18T07:52:29+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6363526254072439676",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "The forest has been under threat for years and the tree had been rumored to have died in the past — only to have a conservation group confirm it was still alive.\n\nThat is no longer the case.",
-    "translated_text": "这片森林多年来一直受到威胁，有传言说这棵树过去已经死了——直到一个保护组织证实它还活着。\n\n现在情况已不再如此。",
-    "images": [
-      "c4efead42fc4e224.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-6363526254072439676",
-    "timestamp": "2026-06-18T12:29:45.612357+00:00",
-    "original_time": "2026-06-18T12:15:01+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-4470267561667573995",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Live Updates: More tankers are transiting the Strait of Hormuz after 111 days of gridlock, but Iran and the U.S. still have much to discuss.",
-    "translated_text": "实时更新：在经历了 111 天的僵局之后，更多的油轮正在通过霍尔木兹海峡，但伊朗和美国仍有很多问题需要讨论。",
-    "images": [
-      "fdd959d40b8903af.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-4470267561667573995",
-    "timestamp": "2026-06-18T12:29:46.111110+00:00",
-    "original_time": "2026-06-18T11:57:20+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_3874176785611308146",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Confirmed tornadoes were reported in Illinois and Iowa Wednesday as severe weather brought the risk of thunderstorms and prompted a flurry of tornado warnings for a large swath of the Midwest .",
-    "translated_text": "周三，伊利诺伊州和爱荷华州确认出现龙卷风，恶劣天气带来雷暴风险，并引发中西部大片地区发布一系列龙卷风警报。",
-    "images": [
-      "d8ce435ac384c715.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/3874176785611308146",
-    "timestamp": "2026-06-18T12:29:47.171683+00:00",
-    "original_time": "2026-06-18T11:56:20+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-2051379884111258302",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "\"The most famous judge in America, for a while,\" on highs and lows of a Trump trial",
-    "translated_text": "“一段时间内美国最著名的法官”谈特朗普审判的高潮和低谷",
-    "images": [
-      "63a727c723816a9f.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-2051379884111258302",
-    "timestamp": "2026-06-18T12:29:47.334537+00:00",
-    "original_time": "2026-06-18T10:00:00+00:00"
-  },
-  {
-    "id": "tweet_DanLamothe_-3150143178760732829",
-    "type": "tweet",
-    "username": "DanLamothe",
-    "text": "The third recipient tomorrow (posthumous) will be Col. John Ripley, officials familiar with the issue say. He's widely considered within the Marine Corps to be a legend.\n\nDuring the Vietnam War, he hung from beneath a bridge, successfully rigging and blowing it with explosives.",
-    "translated_text": "知情官员称，明天（死后）的第三位获奖者将是约翰·里普利上校。他在海军陆战队内被广泛认为是一个传奇人物。\n\n越南战争期间，他悬挂在一座桥下，成功地用炸药安装并炸毁了桥。",
     "images": [],
-    "url": "https://x.com/DanLamothe/status/-3150143178760732829",
-    "timestamp": "2026-06-18T12:30:23.694780+00:00",
-    "original_time": "2026-06-18T03:02:33+00:00"
+    "url": "https://x.com/AJENews/status/-9091357533758051726",
+    "timestamp": "2026-06-18T16:34:17.655206+00:00",
+    "original_time": "2026-06-18T10:54:45+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_4776453211653987671",
+    "id": "tweet_AJENews_1233118223517807585",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: US ready to restart military action, reimpose blockade if Iran doesn't meet deal commitments, says US defence secretaryLIVE updates:https://aje.news/xsbi1c?update=4674958…",
+    "translated_text": "突发新闻：美国国防部长表示，如果伊朗不履行协议承诺，美国准备重启军事行动，重新实施封锁实时更新：https://aje.news/xsbi1c?update=4674958…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "b6b6b8d50633aa09.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/1233118223517807585",
+    "timestamp": "2026-06-18T16:34:18.507037+00:00",
+    "original_time": "2026-06-18T10:22:58+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-4789120855469417615",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: EU foreign policy chief Kaja Kallas has said the European Union is always committed to maintaining a constructive relationship with Israel.More onhttp://aljazeera.com",
+    "translated_text": "突发新闻：欧盟外交政策负责人卡贾·卡拉斯表示，欧盟始终致力于与以色列保持建设性关系。更多信息请访问http://aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "b512dcaedfc1fad9.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-4789120855469417615",
+    "timestamp": "2026-06-18T16:34:19.565626+00:00",
+    "original_time": "2026-06-18T10:19:18+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_3975319343942312505",
     "type": "tweet",
     "username": "KellieMeyerNews",
-    "text": "NEW: Senior defense officials tell me tonight that President Trump will be awarding the nations highest honor, the Medal of Honor, to Major Nicholas Dockery tomorrow at the White House for his heroic action in 2012 defending his platoon against a large Taliban ambush in",
-    "translated_text": "新消息：高级国防官员今晚告诉我，特朗普总统将于明天在白宫向尼古拉斯·道克瑞少校授予国家最高荣誉——荣誉勋章，以表彰他在 2012 年保卫自己的排免受塔利班大规模伏击的英勇行动。",
+    "text": "Vance says the 60-day clock starts \"today.\"",
+    "translated_text": "万斯说 60 天的时钟从“今天”开始。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/4776453211653987671",
-    "timestamp": "2026-06-18T12:30:24.445139+00:00",
-    "original_time": "2026-06-18T02:52:13+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/3975319343942312505",
+    "timestamp": "2026-06-18T16:36:03.204573+00:00",
+    "original_time": "2026-06-18T15:31:46+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-8082145825356580470",
+    "id": "tweet_KellieMeyerNews_-8154582768811930753",
     "type": "tweet",
     "username": "KellieMeyerNews",
-    "text": "NEW: A White House official confirms to me@NewsNationthat the Trump administration has \"been in touch\" with the@nyknicksand looks forward to hosting the team at the White House. \n\nThe date is to be determined, per the official.\n\nKnicks owner James Dolan confirmed Wednesday",
-    "translated_text": "新消息：一位白宫官员向我@NewsNation 证实，特朗普政府已与@nyknicks“保持联系”，并期待在白宫接待该团队。 \n\n据官员称，具体日期有待确定。\n\n尼克斯队老板詹姆斯·多兰周三证实",
+    "text": "NOW: Vance begins briefing. \n\nHe says the \"fruits\" of the peace deal are already seen. \n\n12.5 million barrels of oil went through the Strait of Hormuz, he says.",
+    "translated_text": "现在：万斯开始通报情况。 \n\n他说，和平协议的“成果”已经显现。 \n\n他说，有 1250 万桶石油通过霍尔木兹海峡。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-8082145825356580470",
-    "timestamp": "2026-06-18T12:30:24.946056+00:00",
-    "original_time": "2026-06-18T02:07:35+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/-8154582768811930753",
+    "timestamp": "2026-06-18T16:36:04.632635+00:00",
+    "original_time": "2026-06-18T15:26:22+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_3476293558418197367",
+    "id": "tweet_USArmy_5208001908212947570",
     "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Wiles shares photo of Trump signing MOU at Versailles and calling the G7 a “huge success.”\n\n“President Trump signed the MOU with Iranians while he was at dinner. While the next 60 days will present challenges as important details are worked out, signing was a great step forward",
-    "translated_text": "怀尔斯分享了特朗普在凡尔赛宫签署谅解备忘录的照片，并称七国集团是“巨大的成功”。\n\n“特朗普总统在晚餐时与伊朗人签署了谅解备忘录。虽然未来 60 天随着重要细节的制定将面临挑战，但签署是向前迈出的一大步",
+    "username": "USArmy",
+    "text": "Breaking News: Join us as we honor true American heroes.\n\nToday, the@WhiteHousewill award the Medal of Honor to Maj. Nicholas Dockery, U.S. Army, retired; Maj. James Capers Jr., U.S. Marine Corps, retired; and Col. John W. Ripley, U.S. Marine Corps, posthumously, at 4 p.m. EDT.",
+    "translated_text": "突发新闻：加入我们，纪念真正的美国英雄。\n\n今天，@白宫将向退役美国陆军尼古拉斯·道克里少校颁发荣誉勋章；小詹姆斯·卡珀斯 (James Capers Jr.) 少校，美国海军陆战队，退役；下午 4 点，追悼美国海军陆战队约翰·W·里普利 (John W. Ripley) 上校。美东时间。",
     "images": [
-      "07c15ee564e3ff94.jpg",
-      "badeb4d55d090614.jpg"
+      "41164c4b445699d3.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/3476293558418197367",
-    "timestamp": "2026-06-18T12:30:25.718148+00:00",
-    "original_time": "2026-06-18T01:11:53+00:00"
+    "url": "https://x.com/USArmy/status/5208001908212947570",
+    "timestamp": "2026-06-18T16:36:05.417010+00:00",
+    "original_time": "2026-06-18T14:51:53+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-6941569361598985221",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "SOON:@VPbriefs reporters in the White House briefing room after President Trump signed the US Iran Memorandum of Understanding last night in France.",
+    "translated_text": "很快：特朗普总统昨晚在法国签署了美国与伊朗的谅解备忘录后，@VPbriefs 在白宫新闻发布室向记者提问。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/-6941569361598985221",
+    "timestamp": "2026-06-18T16:36:05.839569+00:00",
+    "original_time": "2026-06-18T15:11:22+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_9070859315486899732",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "This quote in@axiosthis morning reflects what I was told by a source close to the White House. \n\nThis basically saying that Republicans should be happy Vance is helping bring the war to an end.",
+    "translated_text": "今天早上 @axios 中的这句话反映了一位接近白宫的消息人士告诉我的情况。 \n\n这基本上是说共和党人应该为万斯帮助结束战争感到高兴。",
+    "images": [
+      "b747c19b912dd271.jpg"
+    ],
+    "url": "https://x.com/KellieMeyerNews/status/9070859315486899732",
+    "timestamp": "2026-06-18T16:36:06.829412+00:00",
+    "original_time": "2026-06-18T15:05:50+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-5167387231407752932",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "In her letter, Emine Erdoğan, the wife of Turkish President Recep Tayyip Erdoğan, wrote that she was saddened by your poor health and surgery. May Allah Almighty grant you complete health. The First Lady of Turkey prayed for the health of the Chief Minister of Punjab and",
+    "translated_text": "土耳其总统雷杰普·塔伊普·埃尔多安的妻子埃米内·埃尔多安在信中写道，她对您糟糕的健康状况和手术感到难过。愿全能的真主赐予您完全的健康。土耳其第一夫人为旁遮普邦首席部长的健康祈祷",
+    "images": [
+      "36b3b1db67a4f135.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-5167387231407752932",
+    "timestamp": "2026-06-18T16:36:51.453892+00:00",
+    "original_time": "2026-06-18T16:20:25+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4868591155406791433",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "حکومت کی جانب سے پی ٹی آئی کو مذاکرات کی پیشکش روایتی نوعیت کی دکھائی دیتی ہے کیونکہ عملی پالیسی میں کوئی بڑی تبدیلی نظر نہیں آتی، اور گلگت بلتستان و آزاد کشمیر کے سیاسی معاملات بھی اسی تسلسل کی عکاسی کرتے ہیں، شہزاد اقبال@ShahzadIqbalGEO",
+    "translated_text": "政府与 PTI 进行会谈的提议似乎是常规的，因为实际政策没有重大变化，吉尔吉特-巴尔蒂斯坦和阿扎德克什米尔的政治事务也反映了同样的连续性，Shahzad Iqbal @ShahzadIqbalGEO",
+    "images": [
+      "8bac0bb551f502ce.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/4868591155406791433",
+    "timestamp": "2026-06-18T16:36:53.436241+00:00",
+    "original_time": "2026-06-18T16:19:10+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-5753851464208645561",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "ایران کو خطے میں اپنی پالیسی پر نظرِ ثانی کرتے ہوئے حاصل ہونے والی سفارتی کامیابیوں کو مزید آگے بڑھانا چاہیے اور خطے کے ممالک خصوصاً عرب ممالک کے ساتھ اپنے تعلقات کو مزید مضبوط بنانا چاہیے، شہزاد اقبال@ShahzadIqbalGEO",
+    "translated_text": "伊朗应该修改其在该地区的政策，并在其外交成就的基础上加强与该地区国家，特别是阿拉伯国家的关系，Shahzad Iqbal @ShahzadIqbalGEO",
+    "images": [
+      "b7ad02f84d2975ab.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-5753851464208645561",
+    "timestamp": "2026-06-18T16:36:55.374253+00:00",
+    "original_time": "2026-06-18T16:18:16+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-2542921750384915275",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Signing of the agreement between American President Trump and Iranian President Masoud Pezeshkian",
+    "translated_text": "美国总统特朗普与伊朗总统马苏德·佩泽什基安签署协议",
+    "images": [
+      "6992dee8b40fd562.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-2542921750384915275",
+    "timestamp": "2026-06-18T16:36:56.855701+00:00",
+    "original_time": "2026-06-18T16:10:00+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-7799763956053755477",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Ukraine has launched the largest drone attack to date on Russia's capital Moscow since the start of the war.",
+    "translated_text": "乌克兰对俄罗斯首都莫斯科发动了自战争开始以来最大规模的无人机袭击。",
+    "images": [
+      "60baafe00606d879.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7799763956053755477",
+    "timestamp": "2026-06-18T16:36:57.398764+00:00",
+    "original_time": "2026-06-18T16:09:41+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-4540800455905871331",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "سینیئر اسپورٹس صحافی قمر احمد کراچی میں انتقال کرگئے",
+    "translated_text": "资深体育记者卡马尔·艾哈迈德在卡拉奇去世",
+    "images": [
+      "7dfa6b92db98fd45.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-4540800455905871331",
+    "timestamp": "2026-06-18T16:37:00.550816+00:00",
+    "original_time": "2026-06-18T16:06:18+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_8083138075693916739",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "US President gives a stern response to critics of his Iran-related policy",
+    "translated_text": "美国总统对其伊朗相关政策的批评作出严厉回应",
+    "images": [
+      "7a97861cfed4afd2.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/8083138075693916739",
+    "timestamp": "2026-06-18T16:37:01.529470+00:00",
+    "original_time": "2026-06-18T16:06:04+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1336696703992771421",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The government and PTI have both talked about negotiations multiple times, however, in the current circumstances, the prospects of any meaningful progress are limited, Irshad Bhatti@IrshadBhatti336",
+    "translated_text": "政府和 PTI 均多次讨论谈判，但在目前情况下，取得任何有意义进展的前景有限，Irshad Bhatti@IrshadBhatti336",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/1336696703992771421",
+    "timestamp": "2026-06-18T16:37:02.917890+00:00",
+    "original_time": "2026-06-18T15:35:09+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_6854534469167922329",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The next sixty days will be extremely important for the future of the agreement between Iran and America, while Pakistan has played a historic diplomatic role in this process and Iran has also advanced its strategy with patience and forbearance, Irshad Bhatti@IrshadBhatti336",
+    "translated_text": "接下来的六十天对于伊朗和美国之间协议的未来极其重要，而巴基斯坦在此过程中发挥了历史性的外交作用，伊朗也以耐心和克制推进其战略，Irshad Bhatti@IrshadBhatti336",
+    "images": [
+      "e5bacc0d5de64617.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/6854534469167922329",
+    "timestamp": "2026-06-18T16:37:04.083499+00:00",
+    "original_time": "2026-06-18T15:34:31+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_208487172309886267",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The government is not currently facing any immediate political pressure from the opposition for negotiations, so meaningful contacts with the opposition leadership are needed for serious progress, Mazhar Abbas@MazharAbbasGEO",
+    "translated_text": "政府目前没有面临反对派要求谈判的任何直接政治压力，因此需要与反对派领导层进行有意义的接触才能取得重大进展，Mazhar Abbas@MazharAbbasGEO",
+    "images": [
+      "fdb22d865357843e.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/208487172309886267",
+    "timestamp": "2026-06-18T16:37:05.178254+00:00",
+    "original_time": "2026-06-18T15:34:02+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-748180746881594798",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Iran, despite its weak position, withstood pressure for several months, which demonstrates its resilience, while the softening of the US stance regarding Iran's missile program and Pakistan facilitating contact between such two parties is a significant diplomatic development,",
+    "translated_text": "伊朗尽管地位较弱，但仍顶住了几个月的压力，这显示了其韧性，而美国对伊朗导弹计划的立场软化以及巴基斯坦为两国之间的接触提供了便利，这是一个重大的外交进展，",
+    "images": [
+      "3219ffdf0cb0b616.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-748180746881594798",
+    "timestamp": "2026-06-18T16:37:06.957661+00:00",
+    "original_time": "2026-06-18T15:33:33+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-4645848186908277886",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Political issues cannot be resolved without dialogue, and the current political stalemate is detrimental to all parties. Therefore, unconditional negotiations are essential because dialogue alone opens political pathways. Mahmal Sarfraz@Mehmal",
+    "translated_text": "政治问题必须通过对话才能解决，当前的政治僵局对各方都不利。因此，无条件谈判至关重要，因为只有对话才能开辟政治道路。迈迈勒·萨弗拉兹@Mehmal",
+    "images": [
+      "f44c078a7fbdc2c1.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-4645848186908277886",
+    "timestamp": "2026-06-18T16:37:07.828303+00:00",
+    "original_time": "2026-06-18T15:33:07+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-4536864314455931552",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Despite the United States and Israel dominating the Iran war, they have not achieved all their objectives, while this conflict has challenged American hegemony, and now the important question is whether Israel will reconsider its aggressive policies in the region or not, Mahmal",
+    "translated_text": "尽管美国和以色列在伊朗战争中占据主导地位，但他们并没有实现全部目标，而这场冲突挑战了美国的霸权，现在重要的问题是以色列是否会重新考虑其在该地区的侵略政策，Mahmal",
+    "images": [
+      "90936fe1c0296ada.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-4536864314455931552",
+    "timestamp": "2026-06-18T16:37:08.877879+00:00",
+    "original_time": "2026-06-18T15:32:28+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5989819916278947820",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Through diplomacy, results were achieved that could not be attained through war, Mohammad Bagher Ghalibaf",
+    "translated_text": "通过外交取得了通过战争无法取得的成果，穆罕默德·巴格尔·加利巴夫",
+    "images": [
+      "594b650b0b773e31.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5989819916278947820",
+    "timestamp": "2026-06-18T16:37:13.915832+00:00",
+    "original_time": "2026-06-18T09:12:35+00:00"
+  },
+  {
+    "id": "article_481b3db7d020",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Israeli FM says he is severing 'all contact' with EU foreign policy chief",
+    "translated_title": "以色列外长表示他将切断与欧盟外交政策负责人的“所有联系”",
+    "url": "https://www.dawn.com/news/2008871/israeli-fm-says-he-is-severing-all-contact-with-eu-foreign-policy-chief",
+    "timestamp": "2026-06-18T16:38:57.124768+00:00",
+    "original_time": "2026-06-18T18:05:45+05:00"
+  },
+  {
+    "id": "article_bdf74a3af299",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "ADB approves $700m loan for Pakistan's insurance sector",
+    "translated_title": "亚行批准向巴基斯坦保险业提供7亿美元贷款",
+    "url": "https://www.dawn.com/news/2008839/adb-approves-700m-loan-for-pakistans-insurance-sector",
+    "timestamp": "2026-06-18T16:39:01.650760+00:00",
+    "original_time": "2026-06-18T12:34:58+05:00"
+  },
+  {
+    "id": "article_9cbbd0874f66",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Oil falls further on Mideast deal, but Fed outlook knocks equities",
+    "translated_title": "中东协议导致油价进一步下跌，但美联储前景打压股市",
+    "url": "https://www.dawn.com/news/2008870/oil-falls-further-on-mideast-deal-but-fed-outlook-knocks-equities",
+    "timestamp": "2026-06-18T16:39:11.544287+00:00",
+    "original_time": "2026-06-18T16:05:39+05:00"
+  },
+  {
+    "id": "article_fca7b5bf1f4f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "'Landmark' Islamabad MoU to 'go a long way' in rebuilding Iran, PM Shehbaz tells Pezeshkian",
+    "translated_title": "总理谢赫巴兹告诉佩泽什基安，“具有里程碑意义的”伊斯兰堡谅解备忘录将在重建伊朗方面“大有帮助”",
+    "url": "https://www.dawn.com/news/2008902/landmark-islamabad-mou-to-go-a-long-way-in-rebuilding-iran-pm-shehbaz-tells-pezeshkian",
+    "timestamp": "2026-06-18T16:39:20.514660+00:00",
+    "original_time": "2026-06-18T20:23:52+05:00"
+  },
+  {
+    "id": "article_6406a0338d66",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "What the US-Iran deal means for West Asian security and Pakistan",
+    "translated_title": "美伊协议对西亚安全和巴基斯坦意味着什么",
+    "url": "https://www.dawn.com/news/2008890/what-the-us-iran-deal-means-for-west-asian-security-and-pakistan",
+    "timestamp": "2026-06-18T16:39:35.094642+00:00",
+    "original_time": "2026-06-18T18:16:41+05:00"
+  },
+  {
+    "id": "article_e228718b5e31",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2007889/connolly-ton-sets-up-consolation-win-for-australia-against-bangladesh",
+    "timestamp": "2026-06-18T16:39:52.792178+00:00",
+    "original_time": "2026-06-18T16:39:52.792144+00:00"
+  },
+  {
+    "id": "article_1db448c232a8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "£190m corruption case: IHC orders Imran, Bushra's meeting with legal counsel within 7 days",
+    "translated_title": "价值 1.9 亿英镑的腐败案：IHC 命令伊姆兰、布什拉在 7 天内与法律顾问会面",
+    "url": "https://www.dawn.com/news/2008846/ps190m-corruption-case-ihc-orders-imran-bushras-meeting-with-legal-counsel-within-7-days",
+    "timestamp": "2026-06-18T16:40:02.365176+00:00",
+    "original_time": "2026-06-18T13:22:51+05:00"
+  },
+  {
+    "id": "article_3533c7278401",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008861/pm-shehbaz-directs-immediate-fuel-price-relief-as-global-oil-prices-fall-petroleum-minister",
+    "timestamp": "2026-06-18T16:40:39.832992+00:00",
+    "original_time": "2026-06-18T16:40:39.832961+00:00"
+  },
+  {
+    "id": "article_5cfe961c2917",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008495/dancing-girls-bare-torso-restored-in-indian-textbook-after-backlash",
+    "timestamp": "2026-06-18T16:41:26.128567+00:00",
+    "original_time": "2026-06-18T16:41:26.128529+00:00"
+  },
+  {
+    "id": "article_20434b190a70",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Hegseth hails defence progress by Nato allies, says some must 'do more'",
+    "translated_title": "赫格斯赞扬北约盟国的国防进展，称一些国家必须“做得更多”",
+    "url": "https://www.dawn.com/news/2008848/hegseth-hails-defence-progress-by-nato-allies-says-some-must-do-more",
+    "timestamp": "2026-06-18T16:41:34.134200+00:00",
+    "original_time": "2026-06-18T13:46:03+05:00"
+  },
+  {
+    "id": "article_43668fe81701",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "5 jailed PTI leaders urge opposition to 'engage constructively' with PM on 'Charter of Pakistan'",
+    "translated_title": "5 名被监禁的 PTI 领导人敦促反对派与总理就“巴基斯坦宪章”进行“建设性接触”",
+    "url": "https://www.dawn.com/news/2008845/5-jailed-pti-leaders-urge-opposition-to-engage-constructively-with-pm-on-charter-of-pakistan",
+    "timestamp": "2026-06-18T16:41:37.719729+00:00",
+    "original_time": "2026-06-18T13:48:19+05:00"
+  },
+  {
+    "id": "article_14fff60490b8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Hotly anticipated video game Grand Theft Auto VI presales to begin June 25",
+    "translated_title": "备受期待的视频游戏 Grand Theft Auto VI 预售将于 6 月 25 日开始",
+    "url": "https://www.dawn.com/news/2008900/hotly-anticipated-video-game-grand-theft-auto-vi-presales-to-begin-june-25",
+    "timestamp": "2026-06-18T16:41:41.300779+00:00",
+    "original_time": "2026-06-18T19:35:25+05:00"
+  },
+  {
+    "id": "article_aaaea45c27de",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "History made, records broken and a legend humbled: A day to remember at the FIFA World Cup",
+    "translated_title": "创造历史、打破记录、让传奇黯然失色：国际足联世界杯上值得铭记的一天",
+    "url": "https://www.dawn.com/news/2008821/history-made-records-broken-and-a-legend-humbled-a-day-to-remember-at-the-fifa-world-cup",
+    "timestamp": "2026-06-18T16:41:50.817487+00:00",
+    "original_time": "2026-06-18T10:43:22+05:00"
+  },
+  {
+    "id": "article_a1a95942ed2c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "BYD delegation meets Aurangzeb, emphasises Pakistan’s potential as market for new energy vehicles",
+    "translated_title": "比亚迪代表团会见奥朗则布，强调巴基斯坦作为新能源汽车市场的潜力",
+    "url": "https://www.dawn.com/news/2008841/byd-delegation-meets-aurangzeb-emphasises-pakistans-potential-as-market-for-new-energy-vehicles",
+    "timestamp": "2026-06-18T16:41:56.187423+00:00",
+    "original_time": "2026-06-18T13:03:27+05:00"
+  },
+  {
+    "id": "article_1cf5c1fdca7c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "SC orders Adiala superintendent, other officials to submit replies on denial of access to Imran",
+    "translated_title": "SC 命令阿迪亚拉主管和其他官员就拒绝伊姆兰探访作出答复",
+    "url": "https://www.dawn.com/news/2008883/sc-orders-adiala-superintendent-other-officials-to-submit-replies-on-denial-of-access-to-imran",
+    "timestamp": "2026-06-18T16:41:59.620255+00:00",
+    "original_time": "2026-06-18T19:06:19+05:00"
+  },
+  {
+    "id": "article_a9937c0f32c1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "One Homes appoints Kobi Karp and Jolie for landmark Lahore West development",
+    "translated_title": "One Homes 任命 Kobi Karp 和 Jolie 负责具有里程碑意义的拉合尔西部开发项目",
+    "url": "https://www.dawn.com/news/2008840/one-homes-appoints-kobi-karp-and-jolie-for-landmark-lahore-west-development",
+    "timestamp": "2026-06-18T16:42:23.897968+00:00",
+    "original_time": "2026-06-18T12:33:45+05:00"
+  },
+  {
+    "id": "article_7527e8693da4",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan assails 17 Indian projects on Indus waterways, calls them ‘tools for hydro-hegemony’",
+    "translated_title": "巴基斯坦攻击印度河水道上的17个印度项目，称其为“水霸权工具”",
+    "url": "https://www.dawn.com/news/2008889/pakistan-assails-17-indian-projects-on-indus-waterways-calls-them-tools-for-hydro-hegemony",
+    "timestamp": "2026-06-18T16:42:41.315821+00:00",
+    "original_time": "2026-06-18T18:00:04+05:00"
+  },
+  {
+    "id": "article_822276269a37",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008205/trump-and-netanyahu-on-collision-course-over-iran-deal",
+    "timestamp": "2026-06-18T16:43:46.262956+00:00",
+    "original_time": "2026-06-18T16:43:46.262925+00:00"
+  },
+  {
+    "id": "article_256d437f5d45",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Ukraine sets Moscow refinery ablaze in biggest attack in years",
+    "translated_title": "乌克兰纵火莫斯科炼油厂 遭遇多年来最严重袭击",
+    "url": "https://www.dawn.com/news/2008917/ukraine-sets-moscow-refinery-ablaze-in-biggest-attack-in-years",
+    "timestamp": "2026-06-18T16:43:59.390181+00:00",
+    "original_time": "2026-06-18T21:24:03+05:00"
+  },
+  {
+    "id": "article_2a8d2763d85c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008268/us-air-force-b-52-bomber-crashes-in-california-killing-all-8-crew-aboard",
+    "timestamp": "2026-06-18T16:44:19.387348+00:00",
+    "original_time": "2026-06-18T16:44:19.387317+00:00"
+  },
+  {
+    "id": "article_552d16c16b98",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008608/us-iran-deal-a-political-nightmare-for-netanyahu-analysts-say",
+    "timestamp": "2026-06-18T16:44:52.651178+00:00",
+    "original_time": "2026-06-18T16:44:52.651148+00:00"
+  },
+  {
+    "id": "article_eb27a85c3438",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "LHC bars Punjab govt from further action against Ewing Hall after takeover controversy",
+    "translated_title": "大型强子对撞机禁止旁遮普邦政府在收购争议后对尤因霍尔采取进一步行动",
+    "url": "https://www.dawn.com/news/2008854/lhc-bars-punjab-govt-from-further-action-against-ewing-hall-after-takeover-controversy",
+    "timestamp": "2026-06-18T16:44:58.382603+00:00",
+    "original_time": "2026-06-18T14:11:04+05:00"
+  },
+  {
+    "id": "article_8dc738254354",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "FY2026-27 budget: Senate seeks increase of income tax exemption threshold, reduction in electricity tariffs",
+    "translated_title": "2026-27财年预算：参议院寻求提高所得税免税门槛、降低电价",
+    "url": "https://www.dawn.com/news/2008863/fy2026-27-budget-senate-seeks-increase-of-income-tax-exemption-threshold-reduction-in-electricity-tariffs",
+    "timestamp": "2026-06-18T16:45:13.878069+00:00",
+    "original_time": "2026-06-18T17:40:31+05:00"
+  },
+  {
+    "id": "article_0b481fe32561",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Centre committed not to ask for further 'sacrifices' after freeze on provinces' development funds: Bilawal",
+    "translated_title": "中央承诺在冻结各省发展资金后不会要求进一步的“牺牲”：比拉瓦尔",
+    "url": "https://www.dawn.com/news/2008864/centre-committed-not-to-ask-for-further-sacrifices-after-freeze-on-provinces-development-funds-bilawal",
+    "timestamp": "2026-06-18T16:45:23.849570+00:00",
+    "original_time": "2026-06-18T15:09:34+05:00"
+  },
+  {
+    "id": "article_900cb25cc9b3",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "'Every year the heat is increasing': India learns to live with hotter summers",
+    "translated_title": "“气温每年都在增加”：印度学会如何忍受更炎热的夏季",
+    "url": "https://www.dawn.com/news/2008835/every-year-the-heat-is-increasing-india-learns-to-live-with-hotter-summers",
+    "timestamp": "2026-06-18T16:45:43.523875+00:00",
+    "original_time": "2026-06-18T12:15:31+05:00"
+  },
+  {
+    "id": "article_d46a7cfb20ec",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Modi reports US-India trade progress after Trump meeting",
+    "translated_title": "莫迪在特朗普会晤后报告美印贸易进展",
+    "url": "https://www.dawn.com/news/2008828/modi-reports-us-india-trade-progress-after-trump-meeting",
+    "timestamp": "2026-06-18T16:45:47.112637+00:00",
+    "original_time": "2026-06-18T10:54:17+05:00"
+  },
+  {
+    "id": "article_ee736ebf4e26",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008443/israel-strips-palestinians-of-control-over-holy-site-in-hebron",
+    "timestamp": "2026-06-18T16:46:16.387839+00:00",
+    "original_time": "2026-06-18T16:46:16.387808+00:00"
+  },
+  {
+    "id": "article_e84e6a96f93b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Muharram gatherings, processions to be digitally monitored through drones in Islamabad",
+    "translated_title": "伊斯兰堡的穆斯林集会和游行将通过无人机进行数字监控",
+    "url": "https://www.dawn.com/news/2008837/muharram-gatherings-processions-to-be-digitally-monitored-through-drones-in-islamabad",
+    "timestamp": "2026-06-18T16:46:58.942482+00:00",
+    "original_time": "2026-06-18T13:00:09+05:00"
+  },
+  {
+    "id": "article_e9318ab4af69",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Trump says Apple to partner with Intel on US chip design, production",
+    "translated_title": "特朗普称苹果将与英特尔合作进行美国芯片设计和生产",
+    "url": "https://www.dawn.com/news/2008829/trump-says-apple-to-partner-with-intel-on-us-chip-design-production",
+    "timestamp": "2026-06-18T16:47:02.627437+00:00",
+    "original_time": "2026-06-18T11:16:52+05:00"
+  },
+  {
+    "id": "article_1e5eeb043d6b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "UAE sets minimum social media age at 15, mandates age checks",
+    "translated_title": "阿联酋将社交媒体最低年龄定为 15 岁，并强制进行年龄检查",
+    "url": "https://www.dawn.com/news/2008862/uae-sets-minimum-social-media-age-at-15-mandates-age-checks",
+    "timestamp": "2026-06-18T16:47:24.429211+00:00",
+    "original_time": "2026-06-18T15:13:15+05:00"
   }
 ]
