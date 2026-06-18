@@ -1,764 +1,679 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_5430718442132716836",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50held a telephone conversation with Turkish Foreign Minister Hakan Fidan.\n\nThe two leaders welcomed the recent understandings reached between the United States and Iran and exchanged views on the",
-    "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50与土耳其外交部长哈坎·菲丹进行了电话交谈。\n\n两国领导人对美国和伊朗最近达成的谅解表示欢迎，并就伊朗核问题交换了意见。",
-    "images": [
-      "416eead74612ba5e.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/5430718442132716836",
-    "timestamp": "2026-06-17T23:24:06.040337+00:00",
-    "original_time": "2026-06-17T15:45:31+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_-6094486394289223159",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "The outgoing Ambassador of Italy to Pakistan, H.E Ms. Marilina Armellin paid a farewell call on Prime Minister Muhammad Shehbaz Sharif at the Prime Minister’s Office today. Appreciating the Ambassador’s contributions in strengthening Pakistan-Italy relations during her tenure،",
-    "translated_text": "即将离任的意大利驻巴基斯坦大使马里利娜·阿梅林女士今天在总理府辞行拜会总理穆罕默德·谢赫巴兹·谢里夫。赞赏大使在任职期间为加强巴意关系做出的贡献",
-    "images": [
-      "6f915be69b039903.jpg",
-      "8033fc8172249be7.jpg",
-      "65c650add60983dd.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-6094486394289223159",
-    "timestamp": "2026-06-17T23:24:48.314666+00:00",
-    "original_time": "2026-06-17T16:33:08+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_-115628221669279014",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "PMO Islamabad: 17 June 2026\n\nPrime Minister Muhammad Shehbaz Sharif met with Chairman of Pakistan People's Party Bilawal Bhutto Zardari today in Islamabad. Senator Sherry Rehman and Member of National Assembly Syed Naveed Qamar were also present with the Chairman of Pakistan",
-    "translated_text": "伊斯兰堡项目办：2026 年 6 月 17 日\n\n总理穆罕默德·谢赫巴兹·谢里夫今天在伊斯兰堡会见了巴基斯坦人民党主席比拉瓦尔·布托·扎尔达里。参议员雪莉·雷赫曼 (Sherry Rehman) 和国民议会议员赛义德·纳维德·卡马尔 (Syed Naveed Qamar) 也陪同巴基斯坦主席",
-    "images": [
-      "a08f099f47878a2b.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-115628221669279014",
-    "timestamp": "2026-06-17T23:24:48.486825+00:00",
-    "original_time": "2026-06-17T15:05:24+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_4171089579541962309",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Chairman Pakistan People's Party Bilawal Bhutto Zardari called on Prime Minister Muhammad Shehbaz Sharif in Islamabad on 17 June 2026.",
-    "translated_text": "巴基斯坦人民党主席比拉瓦尔·布托·扎尔达里于 2026 年 6 月 17 日在伊斯兰堡拜会总理穆罕默德·谢赫巴兹·谢里夫。",
-    "images": [
-      "cfce8eb0b587591c.jpg",
-      "3c7730c9855c8edb.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/4171089579541962309",
-    "timestamp": "2026-06-17T23:24:48.762007+00:00",
-    "original_time": "2026-06-17T15:05:09+00:00"
-  },
-  {
-    "id": "tweet_mb_ghalibaf_3079938337905919036",
-    "type": "tweet",
-    "username": "mb_ghalibaf",
-    "text": "Iran’s commitment to win-win cooperation underpinned by comprehensive strategic partnership with China is resolute.\n\nIn my meeting with the Iran Chamber of Commerce, I emphasized: We are determined to translate our strategic consensus under the GDI into pragmatic outcomes.",
-    "translated_text": "伊朗坚定地致力于与中国建立全面战略伙伴关系，实现合作共赢。\n\n我在会见伊朗商会时强调：我们决心将GDI战略共识转化为务实成果。",
-    "images": [
-      "66c765c23146df1b.svg",
-      "473a714cee691346.svg",
-      "6a3f73ddc7c7e99b.svg",
-      "09dd81f731ca0ae3.jpg",
-      "71ab19f73d7a0cc8.jpg",
-      "e010650c4bd56b51.jpg",
-      "d91df0baa5dc5f21.jpg"
-    ],
-    "url": "https://x.com/mb_ghalibaf/status/3079938337905919036",
-    "timestamp": "2026-06-17T23:26:13.145815+00:00",
-    "original_time": "2026-06-17T15:45:55+00:00"
-  },
-  {
-    "id": "tweet_AJENews_2718889695736504234",
+    "id": "tweet_AJENews_3974425228592242081",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: The White House just confirmed President Donald Trump has signed the 'peace deal' to end the war with Iran. Iran's foreign ministry says the Presidents from both countries signed it electronically and it is now in effect.\n\nAl Jazeera’s Mike Hanna joins live from the",
-    "translated_text": "突发新闻：白宫刚刚确认唐纳德·特朗普总统已签署“和平协议”以结束与伊朗的战争。伊朗外交部表示，两国总统已通过电子方式签署该协议，现已生效。\n\n半岛电视台的迈克·汉纳 (Mike Hanna) 参加现场直播",
-    "images": [],
-    "url": "https://x.com/AJENews/status/2718889695736504234",
-    "timestamp": "2026-06-17T23:26:28.520949+00:00",
-    "original_time": "2026-06-17T22:59:46+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-1316446514521558681",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: White House confirms US-Iran MoU signed by TrumpLIVE updates:https://aje.news/7dtsci?update=4673604…",
-    "translated_text": "更新：白宫确认特朗普签署的美伊谅解备忘录实时更新：https://aje.news/7dtsci?update=4673604…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "305c7d8b3431eabc.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-1316446514521558681",
-    "timestamp": "2026-06-17T23:26:29.169410+00:00",
-    "original_time": "2026-06-17T22:42:57+00:00"
-  },
-  {
-    "id": "tweet_AJENews_1182137801854623506",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: US and Iran electronically sign MoU to lift naval blockadeLIVE updates:https://aje.news/7dtsci?update=4673588…",
-    "translated_text": "突发：美国和伊朗以电子方式签署谅解备忘录以解除海上封锁实时更新：https://aje.news/7dtsci?update=4673588…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "5e07a3a1962efc99.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/1182137801854623506",
-    "timestamp": "2026-06-17T23:26:29.570223+00:00",
-    "original_time": "2026-06-17T22:17:25+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-7077372581957727135",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran confirms MoU has been signed by both sides electronicallyLIVE updates:https://aje.news/7dtsci?update=4673349…",
-    "translated_text": "突发新闻：伊朗确认双方已以电子方式签署谅解备忘录实时更新：https://aje.news/7dtsci?update=4673349…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "a3d176d18a7f08ee.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-7077372581957727135",
-    "timestamp": "2026-06-17T23:26:29.925380+00:00",
-    "original_time": "2026-06-17T21:31:56+00:00"
-  },
-  {
-    "id": "tweet_AJENews_6549836486502139913",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran keeps 'finger on the trigger': Chief negotiator GhalibafLIVE updates:https://aje.news/7dtsci?update=4673056…",
-    "translated_text": "突发新闻：伊朗一直“扣动扳机”：首席谈判代表 GhalibafLIVE 更新：https://aje.news/7dtsci?update=4673056…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "87af0aa60840e23e.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6549836486502139913",
-    "timestamp": "2026-06-17T23:26:30.559665+00:00",
-    "original_time": "2026-06-17T20:30:20+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-1859394833595938961",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Trump on Minab girls' school attack: 'Nobody did that on purpose'LIVE updates:https://aje.news/7dtsci?update=4671966…",
-    "translated_text": "突发事件：特朗普就米纳布女子学校袭击事件表示：“没有人是故意的”实时更新：https://aje.news/7dtsci?update=4671966…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "6433b9b86f3bc340.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-1859394833595938961",
-    "timestamp": "2026-06-17T23:26:32.939121+00:00",
-    "original_time": "2026-06-17T16:59:39+00:00"
-  },
-  {
-    "id": "tweet_AJENews_6955313348374575996",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Trump claims 84-85 percent of Iran's missiles 'knocked out'LIVE updates:https://aje.news/7dtsci?update=4671947…",
-    "translated_text": "突发新闻：特朗普声称 84-85% 的伊朗导弹“被击毁”实时更新：https://aje.news/7dtsci?update=4671947…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "a82e2f6110ce01ee.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6955313348374575996",
-    "timestamp": "2026-06-17T23:26:33.532955+00:00",
-    "original_time": "2026-06-17T16:54:06+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-7046522264655923249",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Trump says he thinks Israeli leaders 'happy' about dealLIVE updates:https://aje.news/7dtsci?update=4671862…",
-    "translated_text": "突发新闻：特朗普表示，他认为以色列领导人对 dealLIVE 更新感到“高兴”：https://aje.news/7dtsci?update=4671862…",
+    "text": "BREAKING: Israel military says one soldier killed, five wounded in southern LebanonLIVE updates:https://aje.news/xsbi1c?update=4674134…",
+    "translated_text": "突发：以色列军方称黎巴嫩南部一名士兵死亡，五人受伤实时更新：https://aje.news/xsbi1c?update=4674134…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-7046522264655923249",
-    "timestamp": "2026-06-17T23:26:33.984576+00:00",
-    "original_time": "2026-06-17T16:49:11+00:00"
+    "url": "https://x.com/AJENews/status/3974425228592242081",
+    "timestamp": "2026-06-18T03:56:12.806544+00:00",
+    "original_time": "2026-06-18T03:07:00+00:00"
   },
   {
-    "id": "tweet_AJENews_485555941461626884",
+    "id": "tweet_AJENews_-3137628968709728076",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump says 'if people want to invest, they can invest' in IranLIVE updates:https://aje.news/7dtsci?update=4671913…",
-    "translated_text": "突发：特朗普表示“如果人们想投资，他们就可以投资”伊朗实时更新：https://aje.news/7dtsci?update=4671913…",
+    "text": "BREAKING: Oil prices slip after US, Iran presidents sign interim dealLIVE updates:https://aje.news/xsbi1c?update=4673998…",
+    "translated_text": "突发新闻：美国和伊朗总统签署临时协议后油价下跌实时更新：https://aje.news/xsbi1c?update=4673998…",
     "images": [
       "7f1a451786c84548.svg",
-      "b2065781ef51f0fc.jpg"
+      "a72e94ea4919b4aa.jpg"
     ],
-    "url": "https://x.com/AJENews/status/485555941461626884",
-    "timestamp": "2026-06-17T23:26:34.320649+00:00",
-    "original_time": "2026-06-17T16:48:41+00:00"
+    "url": "https://x.com/AJENews/status/-3137628968709728076",
+    "timestamp": "2026-06-18T03:56:13.610099+00:00",
+    "original_time": "2026-06-18T02:30:18+00:00"
   },
   {
-    "id": "tweet_AJENews_-7825848171951756800",
+    "id": "tweet_AJENews_-2508619059504319134",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump says UAE was 'dropping bombs'; thanks Pakistan, Qatar for mediationLIVE updates:https://aje.news/7dtsci?update=4671829…",
-    "translated_text": "突发新闻：特朗普称阿联酋正在“投掷炸弹”；感谢巴基斯坦、卡塔尔的调解实时更新：https://aje.news/7dtsci?update=4671829…",
+    "text": "BREAKING: Iranian negotiator Mohammad Bagher Ghalibaf says diplomacy delivered results that military action did not, and suggested Israel’s strike on Beirut to derail the 'peace deal' sparked Trump into action.",
+    "translated_text": "突发新闻：伊朗谈判代表穆罕默德·巴格尔·加利巴夫表示，外交取得了军事行动无法取得的成果，并暗示以色列对贝鲁特的袭击破坏了“和平协议”，引发了特朗普采取行动。",
     "images": [
-      "7f1a451786c84548.svg",
-      "953291613639c9f5.jpg"
+      "6721042251010624.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-7825848171951756800",
-    "timestamp": "2026-06-17T23:26:34.858101+00:00",
-    "original_time": "2026-06-17T16:42:10+00:00"
+    "url": "https://x.com/AJENews/status/-2508619059504319134",
+    "timestamp": "2026-06-18T03:56:13.915127+00:00",
+    "original_time": "2026-06-18T02:06:18+00:00"
   },
   {
-    "id": "tweet_AJENews_2344328034707019089",
+    "id": "tweet_AJENews_5663930212318212062",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: President Trump says the 'peace deal' with Iran will be signed “shortly, tomorrow, maybe the next day,” but stressed that the agreement is not final and that he could resume the war if he is unsatisfied.More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：特朗普总统表示，与伊朗的“和平协议”将“很快、明天、也许后天”签署，但强调该协议不是最终协议，如果他不满意，他可以恢复战争。更多信息请访问 http://aljazeera.com",
+    "text": "US President Donald Trump and Iranian President Masoud Pezeshkian have reportedly signed a \"peace deal\" to end the war between the two countries. \n\nNegotiating teams are expected in Geneva to further the agreement on Friday. \n\nAl Jazeera's Mike Hanna has the details.",
+    "translated_text": "据报道，美国总统唐纳德·特朗普和伊朗总统马苏德·佩泽什基安签署了一项“和平协议”，以结束两国之间的战争。 \n\n预计谈判小组将于周五在日内瓦进一步达成协议。 \n\n半岛电视台的迈克·汉纳 (Mike Hanna) 提供了详细信息。",
     "images": [
-      "7f1a451786c84548.svg",
-      "346f53f606bc1d54.jpg"
+      "e749e7d1d5c6d8a8.jpg"
     ],
-    "url": "https://x.com/AJENews/status/2344328034707019089",
-    "timestamp": "2026-06-17T23:26:35.334803+00:00",
-    "original_time": "2026-06-17T16:42:00+00:00"
+    "url": "https://x.com/AJENews/status/5663930212318212062",
+    "timestamp": "2026-06-18T03:56:14.278433+00:00",
+    "original_time": "2026-06-18T02:05:59+00:00"
   },
   {
-    "id": "tweet_AJENews_-5963751946258594973",
+    "id": "tweet_AJENews_5404909944339863091",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: US not investing in Iran reconstruction but neighbours 'could help out': TrumpLIVE updates:https://aje.news/7dtsci?update=4671812…",
-    "translated_text": "突发新闻：美国不投资伊朗重建，但邻国“可以提供帮助”：特朗普现场更新：https://aje.news/7dtsci?update=4671812…",
+    "text": "BREAKING: 11 Iranian ships have sailed through US naval blockade since MoU finalisation, state media saysLIVE updates:https://aje.news/xsbi1c?update=4673985…",
+    "translated_text": "突发新闻：官方媒体称，自谅解备忘录敲定以来，已有 11 艘伊朗船只穿越了美国的海上封锁。实时更新：https://aje.news/xsbi1c?update=4673985…",
     "images": [
       "7f1a451786c84548.svg",
-      "5bc0af45eca6d33b.jpg"
+      "132faae0b3740f4e.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-5963751946258594973",
-    "timestamp": "2026-06-17T23:26:35.688826+00:00",
-    "original_time": "2026-06-17T16:30:44+00:00"
+    "url": "https://x.com/AJENews/status/5404909944339863091",
+    "timestamp": "2026-06-18T03:56:14.810262+00:00",
+    "original_time": "2026-06-18T02:00:21+00:00"
   },
   {
-    "id": "tweet_AJENews_2506394001932920978",
+    "id": "tweet_AJENews_-3207055245938266699",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel 'could behave better' in Lebanon: TrumpLIVE updates:https://aje.news/7dtsci?update=4671803…",
-    "translated_text": "突发：以色列在黎巴嫩“可以表现得更好”：特朗普现场更新：https://aje.news/7dtsci?update=4671803…",
+    "text": "The MoU with Iran will be signed “within 48 hours,\" Trump has said. “It’s in final form,” the president told reporters before departing the G7 meeting. \n\nWhen asked for the exact location of the event, he said, “We haven’t determined yet.”",
+    "translated_text": "特朗普表示，与伊朗的谅解备忘录将“在 48 小时内”签署。 “这是最终形式，”总统在离开七国集团会议之前告诉记者。 \n\n当被问及活动的具体地点时，他说：“我们还没有确定。”",
+    "images": [
+      "2653c26999769b32.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-3207055245938266699",
+    "timestamp": "2026-06-18T03:56:17.169078+00:00",
+    "original_time": "2026-06-17T19:49:22+00:00"
+  },
+  {
+    "id": "tweet_AJENews_2032163419103685762",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "Brazilian President Luiz Inacio Lula da Silva says Donald Trump has the right to a preference but should “stay out” of Brazil's elections this year, after Trump described the country as “a little rough” and “dangerous politically”.More onhttp://aljazeera.com",
+    "translated_text": "巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦 (Luiz Inacio Lula da Silva) 表示，唐纳德·特朗普 (Donald Trump) 有权获得优先权，但在特朗普形容巴西“有点粗鲁”和“政治上危险”后，他应该“远离”今年的巴西选举。更多信息http://aljazeera.com",
     "images": [
       "7f1a451786c84548.svg",
-      "4a8771bd27ee3a32.jpg"
+      "86794144a754c64c.jpg"
     ],
-    "url": "https://x.com/AJENews/status/2506394001932920978",
-    "timestamp": "2026-06-17T23:26:36.287325+00:00",
-    "original_time": "2026-06-17T16:24:48+00:00"
+    "url": "https://x.com/AJENews/status/2032163419103685762",
+    "timestamp": "2026-06-18T03:56:17.455026+00:00",
+    "original_time": "2026-06-17T19:22:28+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_2239918632403171832",
+    "id": "tweet_AJENews_-6871645764569073591",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Trump says 60-day MoU not a 'hard' deadlineLIVE updates:https://aje.news/7dtsci?update=4672729…",
+    "translated_text": "更新：特朗普表示 60 天的谅解备忘录不是一个“硬”期限实时更新：https://aje.news/7dtsci?update=4672729…",
+    "images": [
+      "7f1a451786c84548.svg"
+    ],
+    "url": "https://x.com/AJENews/status/-6871645764569073591",
+    "timestamp": "2026-06-18T03:56:17.644706+00:00",
+    "original_time": "2026-06-17T19:20:41+00:00"
+  },
+  {
+    "id": "tweet_AJENews_6117883294038600968",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: US military forces to remain in the Gulf for 'a while': TrumpLIVE updates:https://aje.news/7dtsci?update=4672680…",
+    "translated_text": "突发新闻：美国军队将在海湾地区停留“一段时间”：特朗普现场更新：https://aje.news/7dtsci?update=4672680…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "d823d7818a00bada.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/6117883294038600968",
+    "timestamp": "2026-06-18T03:56:17.925568+00:00",
+    "original_time": "2026-06-17T19:16:22+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-2583324408807708457",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Trump says MoU will be signed within 48 hoursLIVE updates:https://aje.news/7dtsci?update=4672666…",
+    "translated_text": "突发新闻：特朗普表示将在 48 小时内签署谅解备忘录实时更新：https://aje.news/7dtsci?update=4672666...",
+    "images": [
+      "7f1a451786c84548.svg",
+      "703a303f4062f8b3.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-2583324408807708457",
+    "timestamp": "2026-06-18T03:56:18.657027+00:00",
+    "original_time": "2026-06-17T19:13:06+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-1359641290032525173",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Death toll from Israeli attacks in Lebanon rises to 3,884LIVE updates:https://aje.news/7dtsci?update=4672473…",
+    "translated_text": "更新：以色列在黎巴嫩袭击造成的死亡人数上升至 3,884 人实时更新：https://aje.news/7dtsci?update=4672473…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "1cf8ef0ddb4f69b8.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-1359641290032525173",
+    "timestamp": "2026-06-18T03:56:19.546301+00:00",
+    "original_time": "2026-06-17T18:55:27+00:00"
+  },
+  {
+    "id": "tweet_AJENews_7622722919990795404",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "Iran and the US released details of a memorandum of understanding that would end military operations, including in Lebanon, launch talks on a final deal, and see the US lift its naval blockade. \n\nIran would also ensure free passage for commercial vessels in the Strait of Hormuz.",
+    "translated_text": "伊朗和美国公布了一份谅解备忘录的细节，该备忘录将结束包括在黎巴嫩的军事行动，启动最终协议谈判，并让美国解除海上封锁。 \n\n伊朗还将确保商船在霍尔木兹海峡自由通行。",
+    "images": [
+      "887110d13c9b6657.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/7622722919990795404",
+    "timestamp": "2026-06-18T03:56:19.850473+00:00",
+    "original_time": "2026-06-17T18:06:16+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-2449726892939938807",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Iran could gain access to a $300bn reconstruction fund and resume oil exports under the new deal, with all sanctions lifted if a final agreement is reached within 60 days, US officials said in the released text of the agreement.More onhttp://aljazeera.com",
+    "translated_text": "突发新闻：美国官员在公布的协议文本中表示，如果在 60 天内达成最终协议，伊朗可以获得 3000 亿美元的重建基金并恢复石油出口，并取消所有制裁。",
+    "images": [
+      "7f1a451786c84548.svg",
+      "23c311ee869cc5cf.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-2449726892939938807",
+    "timestamp": "2026-06-18T03:56:20.472603+00:00",
+    "original_time": "2026-06-17T18:00:47+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-3695947998059345754",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "President Trump signed the Iran Memorandum of Understanding (MOU) while attending a dinner at the Palace of Versailles on Wednesday evening. President Trump emphasized the U.S.-Iran agreement is not a final deal, and he warned the U.S. could resume bombing Iran \"if they don't",
+    "translated_text": "周三晚上，特朗普总统在凡尔赛宫出席晚宴时签署了伊朗谅解备忘录（MOU）。特朗普总统强调美伊协议并不是最终协议，他警告说，“如果伊朗不这样做，美国可能会恢复轰炸伊朗”",
+    "images": [
+      "9e1fa7cf0976b5f5.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-3695947998059345754",
+    "timestamp": "2026-06-18T03:57:35.040517+00:00",
+    "original_time": "2026-06-18T03:53:26+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-1164774666776912861",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Tornadoes reported in Illinois, Iowa as severe weather roils Midwest",
+    "translated_text": "恶劣天气席卷中西部，伊利诺伊州和爱荷华州报告龙卷风",
+    "images": [
+      "d8ce435ac384c715.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1164774666776912861",
+    "timestamp": "2026-06-18T03:57:35.783419+00:00",
+    "original_time": "2026-06-18T03:38:41+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-5747988097144777557",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The United Kingdom is the latest country to announce plans to ban children under 16 from using social media apps. So how’s a similar ban in Australia going, 6 months in?\n\nSouth Australia Premier Peter Malinauskas, who introduced the law, shares how it's impacting teens in the",
+    "translated_text": "英国是最新一个宣布计划禁止 16 岁以下儿童使用社交媒体应用程序的国家。那么 6 个月后，澳大利亚的类似禁令进展如何了？\n\n提出该法律的南澳大利亚州州长 Peter Malinauskas 分享了该法律对青少年的影响",
+    "images": [
+      "a14f11b607c00f3d.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-5747988097144777557",
+    "timestamp": "2026-06-18T03:57:37.167620+00:00",
+    "original_time": "2026-06-18T03:32:43+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_817397754033744472",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "When Tyler Brodsky took his two young daughters into an empty women's restroom at a gas station during a road trip from Florida back home to Oklahoma, he wasn't expecting a visit from the police.\n\nBrodsky recorded the now-viral moment a man demanded he leave the restroom because",
+    "translated_text": "当泰勒·布罗德斯基（Tyler Brodsky）从佛罗里达州返回俄克拉荷马州的途中，带着两个年幼的女儿进入加油站一个空荡荡的女厕所时，他没想到警察会来。\n\n布罗茨基记录了一名男子要求他离开洗手间的瞬间，这一瞬间已经被疯传，因为",
+    "images": [
+      "89edb83d9a13fa43.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/817397754033744472",
+    "timestamp": "2026-06-18T03:57:38.334891+00:00",
+    "original_time": "2026-06-18T03:10:33+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-423965565809303571",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The New York Knicks are planning to visit the White House, owner James Dolan said Wednesday, marking a first for an NBA Finals winner during President Trump's time in office.https://cbsn.ws/4ewFORy",
+    "translated_text": "纽约尼克斯队老板詹姆斯·多兰周三表示，纽约尼克斯队正计划访问白宫，这是特朗普总统任职期间 NBA 总决赛冠军的首次访问。https://cbsn.ws/4ewFORy",
+    "images": [
+      "de1e9b3a24e1896e.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-423965565809303571",
+    "timestamp": "2026-06-18T03:57:39.087096+00:00",
+    "original_time": "2026-06-18T02:14:33+00:00"
+  },
+  {
+    "id": "tweet_CBSEveningNews_-3890998402747740427",
     "type": "tweet",
     "username": "CBSEveningNews",
-    "text": "Edwards Air Force Base has released the names of the eight people killed in a B-52 Stratofortress bomber crash on Monday.https://cbsn.ws/4uGGn18",
-    "translated_text": "爱德华兹空军基地公布了周一 B-52 同温层堡垒轰炸机坠毁事件中丧生的 8 人姓名。https://cbsn.ws/4uGGn18",
-    "images": [
-      "5a25a7137b163b94.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/2239918632403171832",
-    "timestamp": "2026-06-17T23:27:33.164449+00:00",
-    "original_time": "2026-06-17T23:25:11+00:00"
+    "text": "At least eight people were injured in a dangerous police chase through Los Angeles that ended when officers rammed and pinned a suspected carjacker’s vehicle in a crowded McDonald’s drive thru.",
+    "translated_text": "警方在洛杉矶进行了一场危险的追捕行动，造成至少八人受伤，最终警察在拥挤的麦当劳得来速餐厅内冲撞并压住了一名劫车嫌疑人的车辆。",
+    "images": [],
+    "url": "https://x.com/CBSEveningNews/status/-3890998402747740427",
+    "timestamp": "2026-06-18T03:57:42.436558+00:00",
+    "original_time": "2026-06-17T23:00:37+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_5290777125817366362",
+    "id": "tweet_CBSNews_-2361233337696410345",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Gilgo Beach serial killer Rex Heuermann spoke briefly before he was sentenced to life in prison without the possibility of parole on Wednesday.\n\n\"There are no words I can say. I am responsible for what was said in this room today,\" Heuermann told Judge Timothy Mazzei, who then",
+    "translated_text": "吉尔戈海滩连环杀手雷克斯·霍伊尔曼在周三被判处终身监禁且不得假释之前，发表了简短的讲话。\n\n休尔曼对蒂莫西·马泽法官说：“我无话可说。我对今天在这个房间里所说的话负责。”",
+    "images": [
+      "e0669f31f717502b.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-2361233337696410345",
+    "timestamp": "2026-06-18T03:57:43.710296+00:00",
+    "original_time": "2026-06-17T23:00:49+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_6633333214188124458",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Oil prices remain below $80 a barrel despite continued uncertainty in the Middle East. Arjun Murti, partner at Veriten and author of the Super-Spiked newsletter, says a reopening of the Strait of Hormuz has reduced the risk of a “worst-case scenario” that could have sent oil",
+    "translated_text": "尽管中东局势持续存在不确定性，但油价仍低于每桶 80 美元。 Veriten 合伙人、《Super-Spiked》时事通讯作者阿尔琼·穆尔蒂 (Arjun Murti) 表示，霍尔木兹海峡的重新开放降低了出现“最坏情况”的风险，这种情况可能会导致石油运输中断。",
+    "images": [
+      "50dbb583de80b1db.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/6633333214188124458",
+    "timestamp": "2026-06-18T03:57:45.035782+00:00",
+    "original_time": "2026-06-17T22:53:53+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-5258294502398289468",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Undercover deputies from the Kent County Sheriff’s Office arrested a man in Michigan during a sting operation involving an alleged scam to defraud an elderly woman out of $700,000.\n\nThe sheriff’s department was originally alerted to the alleged scam when a coin shop owner",
+    "translated_text": "肯特县治安官办公室的卧底警员在密歇根州的一次诱捕行动中逮捕了一名男子，该男子涉嫌诈骗一名老年妇女 70 万美元。\n\n警长部门最初收到有关涉嫌诈骗的警报时，一名硬币店老板",
+    "images": [
+      "61491fecaf31d407.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-5258294502398289468",
+    "timestamp": "2026-06-18T03:57:45.605389+00:00",
+    "original_time": "2026-06-17T22:46:21+00:00"
+  },
+  {
+    "id": "tweet_CBSEveningNews_4586440335190992983",
     "type": "tweet",
     "username": "CBSEveningNews",
-    "text": "A record crowd is expected to attend the long-awaited New York Knicks’ championship parade in lower Manhattan on Thursday. The NYPD is deploying more than 10,000 officers to control the one million fans expected to attend.",
-    "translated_text": "周四在曼哈顿下城举行的期待已久的纽约尼克斯队冠军游行预计将迎来创纪录的人数。纽约警察局正在部署 10,000 多名警员来控制预计参加的 100 万球迷。",
+    "text": "WATCH: The CBS Evening News with@TonyDokoupilstarts now on CBS.",
+    "translated_text": "观看： @TonyDokoupil 的哥伦比亚广播公司晚间新闻现已在 CBS 上播出。",
     "images": [
-      "3077e14e3125c3d3.jpg"
+      "4faf7ea343b41cf7.jpg"
     ],
-    "url": "https://x.com/CBSEveningNews/status/5290777125817366362",
-    "timestamp": "2026-06-17T23:27:33.625539+00:00",
-    "original_time": "2026-06-17T23:26:52+00:00"
+    "url": "https://x.com/CBSEveningNews/status/4586440335190992983",
+    "timestamp": "2026-06-18T03:57:46.656729+00:00",
+    "original_time": "2026-06-17T22:34:09+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_8308873914188697186",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "The Lincoln Memorial Reflecting Pool in Washington, D.C. got a fresh makeover ahead of summer. But despite millions spent on renovations and efforts to control algae, the iconic pool has once again turned green.",
-    "translated_text": "华盛顿特区的林肯纪念堂倒影池在夏季到来之前进行了全新改造。尽管花费了数百万美元进行翻修和控制藻类，这个标志性的泳池还是再次变绿了。",
-    "images": [
-      "4cf2f1ab118c9e38.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/8308873914188697186",
-    "timestamp": "2026-06-17T23:27:34.056361+00:00",
-    "original_time": "2026-06-17T23:19:47+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_-6978854592619017434",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "These four K9’s from the NYPD counterterrorism unit were showered with love and tennis balls as they headed into retirement.",
-    "translated_text": "这四名来自纽约警察局反恐部门的 K9 在即将退休时充满了爱和网球。",
-    "images": [
-      "513c5b8da6ad8f14.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/-6978854592619017434",
-    "timestamp": "2026-06-17T23:27:34.475461+00:00",
-    "original_time": "2026-06-17T23:17:01+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_7695364823826406035",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "One person is in critical condition after a carriage horse was spooked and ran off in New York City. Officials say the horse was not injured.",
-    "translated_text": "纽约市一匹拉车的马受惊逃跑，一人情况危急。官员称，这匹马没有受伤。",
-    "images": [
-      "b223a54f9807c5d5.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/7695364823826406035",
-    "timestamp": "2026-06-17T23:27:35.127711+00:00",
-    "original_time": "2026-06-17T23:08:22+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-2596758976527776004",
+    "id": "tweet_CBSNews_4895477587373189352",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump defended the agreement reached by the U.S. and Iran  at a press conference to close out the G7 summit in France.",
-    "translated_text": "特朗普总统在法国七国集团峰会闭幕新闻发布会上捍卫了美国和伊朗达成的协议。",
+    "text": "U.S.-Iran deal latest: More Israeli strikes in Lebanon, confusion over Strait of Hormuz ahead of signing.",
+    "translated_text": "美国与伊朗最新协议：以色列对黎巴嫩发动更多袭击，签署前对霍尔木兹海峡的混乱。",
     "images": [
-      "65fab7e71c91bd9c.jpg"
+      "d3796fb09c55722e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2596758976527776004",
-    "timestamp": "2026-06-17T23:27:37.326043+00:00",
-    "original_time": "2026-06-17T19:40:00+00:00"
+    "url": "https://x.com/CBSNews/status/4895477587373189352",
+    "timestamp": "2026-06-18T03:57:46.943490+00:00",
+    "original_time": "2026-06-17T21:40:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_7147190529705907296",
+    "id": "tweet_CBSNews_5887878009789633267",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Lawmakers in Georgia's House of Representatives say they are holding off on redrawing Georgia's legislative maps during Wednesday's special legislative session.",
-    "translated_text": "佐治亚州众议院议员表示，他们将在周三的特别立法会议期间推迟重新绘制佐治亚州的立法地图。",
+    "text": "In Makerfield, England, an election for a single national parliamentary seat could have far-reaching consequences. The Labour candidate, Andy Burnham, is hoping for a return to Parliament in order to challenge the U.K. Prime Minister Keir Starmer for the party's leadership.",
+    "translated_text": "在英国梅克菲尔德，单一国家议会席位的选举可能会产生深远的影响。工党候选人安迪·伯纳姆(Andy Burnham)希望重返议会，以挑战英国首相凯尔·斯塔默(Keir Starmer)的党魁地位。",
     "images": [
-      "c869fe336a8c8101.jpg"
+      "5549846488c77226.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/7147190529705907296",
-    "timestamp": "2026-06-17T23:27:37.532712+00:00",
-    "original_time": "2026-06-17T19:20:01+00:00"
+    "url": "https://x.com/CBSNews/status/5887878009789633267",
+    "timestamp": "2026-06-18T03:57:47.596594+00:00",
+    "original_time": "2026-06-17T21:34:07+00:00"
   },
   {
-    "id": "tweet_CBSNews_2561472561006528816",
+    "id": "tweet_CBSNews_2952571045393662339",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Social Security recipients face looming benefit cuts. Can the program be saved?",
-    "translated_text": "社会保障受益人面临迫在眉睫的福利削减。程序可以保存吗？",
+    "text": "President Trump thanked Chinese President Xi Jinping and Russian President Vladimir Putin for remaining “very neutral” during the conflict with Iran, saying both leaders could have made it “much more difficult” for the U.S.\n\nTrump was asked about Iran’s access to reconstruction",
+    "translated_text": "特朗普总统感谢中国国家主席习近平和俄罗斯总统普京在与伊朗的冲突中保持“非常中立”，并表示两位领导人本可以让美国的处境“更加困难”。\n\n特朗普被问及伊朗能否参与重建",
     "images": [
-      "522b6afb6f6d9875.jpg"
+      "8b3016933027d3fd.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2561472561006528816",
-    "timestamp": "2026-06-17T23:27:37.732127+00:00",
-    "original_time": "2026-06-17T19:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/2952571045393662339",
+    "timestamp": "2026-06-18T03:57:49.916781+00:00",
+    "original_time": "2026-06-17T17:01:46+00:00"
   },
   {
-    "id": "tweet_CBSNews_8920799159938793842",
+    "id": "tweet_DanLamothe_-7089442703892091334",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Streamer IShowSpeed's YouTube live chat notified him that he was sitting next to the Mayor of New York, Zohran Mamdani, during Saturday's World Cup match between Brazil and Morocco in New Jersey. Speed introduced himself to both Mayor Mamdani and Mayor of East Rutherford, New",
-    "translated_text": "流媒体 IShowSpeed 的 YouTube 实时聊天通知他，周六在新泽西州举行的巴西和摩洛哥世界杯比赛期间，他坐在纽约市市长佐兰·马姆达尼 (Zohran Mamdani) 旁边。斯皮德向马姆达尼市长和新东卢瑟福市市长做了自我介绍",
-    "images": [
-      "d7a815dcb3111bfb.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/8920799159938793842",
-    "timestamp": "2026-06-17T23:27:38.562783+00:00",
-    "original_time": "2026-06-17T18:48:40+00:00"
+    "username": "DanLamothe",
+    "text": "The third recipient tomorrow (posthumous) will be Col. John Ripley, officials familiar with the issue say. He's widely considered within the Marine Corps to be a legend.\n\nDuring the Vietnam War, he hung from beneath a bridge, successfully rigging and blowing it with explosives.",
+    "translated_text": "知情官员称，明天（死后）的第三位获奖者将是约翰·里普利上校。他在海军陆战队内被广泛认为是一个传奇人物。\n\n越南战争期间，他悬挂在一座桥下，成功地用炸药安装并炸毁了桥。",
+    "images": [],
+    "url": "https://x.com/DanLamothe/status/-7089442703892091334",
+    "timestamp": "2026-06-18T03:58:51.769292+00:00",
+    "original_time": "2026-06-18T03:02:33+00:00"
   },
   {
-    "id": "tweet_CBSNews_1041474447242452895",
+    "id": "tweet_KellieMeyerNews_3126772440946122636",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Edwards Air Force Base has released the names of the eight people killed in a B-52 Stratofortress bomber crash on Monday.",
-    "translated_text": "爱德华兹空军基地周一公布了 B-52 同温层堡垒轰炸机坠毁事件中八名遇难者的姓名。",
-    "images": [
-      "590c0d5799ba8586.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1041474447242452895",
-    "timestamp": "2026-06-17T23:27:38.756109+00:00",
-    "original_time": "2026-06-17T18:40:00+00:00"
+    "username": "KellieMeyerNews",
+    "text": "NEW: Senior defense officials tell me tonight that President Trump will be awarding the nations highest honor, the Medal of Honor, to Major Nicholas Dockery tomorrow at the White House for his heroic action in 2012 defending his platoon against a large Taliban ambush in",
+    "translated_text": "新消息：高级国防官员今晚告诉我，特朗普总统明天将在白宫向尼古拉斯·道克里少校授予国家最高荣誉——荣誉勋章，以表彰他在 2012 年保卫自己的排免受塔利班大规模伏击的英勇行动。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/3126772440946122636",
+    "timestamp": "2026-06-18T03:58:52.352974+00:00",
+    "original_time": "2026-06-18T02:52:13+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7432981281056780795",
+    "id": "tweet_KellieMeyerNews_3850147621590806774",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Read what's inside the U.S.-Iran memorandum of understanding, according to senior U.S. officials.",
-    "translated_text": "美国高级官员表示，请阅读美国与伊朗谅解备忘录的内容。",
-    "images": [
-      "bb8ee29e7d3b16b1.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-7432981281056780795",
-    "timestamp": "2026-06-17T23:27:38.944314+00:00",
-    "original_time": "2026-06-17T18:22:01+00:00"
+    "username": "KellieMeyerNews",
+    "text": "NEW: A White House official confirms to me@NewsNationthat the Trump administration has \"been in touch\" with the@nyknicksand looks forward to hosting the team at the White House. \n\nThe date is to be determined, per the official.\n\nKnicks owner James Dolan confirmed Wednesday",
+    "translated_text": "新消息：一位白宫官员向我@NewsNation 证实，特朗普政府已与@nyknicks“保持联系”，并期待在白宫接待该团队。 \n\n据官员称，具体日期有待确定。\n\n尼克斯队老板詹姆斯·多兰周三证实",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/3850147621590806774",
+    "timestamp": "2026-06-18T03:58:53.621012+00:00",
+    "original_time": "2026-06-18T02:07:35+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2010436672372433120",
+    "id": "tweet_KellieMeyerNews_-5392025156150170229",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "The Federal Reserve on Wednesday left its benchmark interest rate unchanged, citing resurgent inflation driven by higher energy prices stemming from the Iran war.@TheKellyOGradyhas more from the New York Stock Exchange.https://cbsn.ws/44ewv3V",
-    "translated_text": "美联储周三维持基准利率不变，理由是伊朗战争导致能源价格上涨，导致通胀回升。@TheKellyOGrady 有来自纽约证券交易所的更多信息。https://cbsn.ws/44ewv3V",
+    "username": "KellieMeyerNews",
+    "text": "Wiles shares photo of Trump signing MOU at Versailles and calling the G7 a “huge success.”\n\n“President Trump signed the MOU with Iranians while he was at dinner. While the next 60 days will present challenges as important details are worked out, signing was a great step forward",
+    "translated_text": "怀尔斯分享了特朗普在凡尔赛宫签署谅解备忘录的照片，并称七国集团是“巨大的成功”。\n\n“特朗普总统在晚餐时与伊朗人签署了谅解备忘录。虽然未来 60 天随着重要细节的制定将面临挑战，但签署是向前迈出的一大步",
     "images": [
-      "72f95bc34e955ceb.jpg"
+      "07c15ee564e3ff94.jpg",
+      "badeb4d55d090614.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2010436672372433120",
-    "timestamp": "2026-06-17T23:27:39.465800+00:00",
-    "original_time": "2026-06-17T18:09:29+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/-5392025156150170229",
+    "timestamp": "2026-06-18T03:58:55.266241+00:00",
+    "original_time": "2026-06-18T01:11:53+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_1178705495848195911",
+    "id": "tweet_KellieMeyerNews_-5865107907705746480",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "NEW: A source close to the White House responding to this congressional Republican tonight tells me: \n\n\"This unnamed congressional Republican has some real audacity to try to strip the President of his agency to undermine and derail his peace deal.\"\n\nThe source also adds that",
+    "translated_text": "新消息：一位接近白宫的消息人士今晚回应这位国会共和党人告诉我： \n\n“这位不愿透露姓名的国会共和党人确实有胆量试图剥夺总统的代理权，以破坏和破坏他的和平协议。”\n\n消息人士还补充说",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/-5865107907705746480",
+    "timestamp": "2026-06-18T03:58:56.637123+00:00",
+    "original_time": "2026-06-17T23:57:36+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_7345152431099005779",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "NEW: Congressional Republicans are already placing the blame on Vice President JD Vance for a \"terrible\" deal with Iran.\n\nOne congressional Republican tells me: “Conservatives on the Hill are stunned that Vance would erase all of Trump’s military victories in such a terrible",
     "translated_text": "新消息：国会共和党人已经将与伊朗达成的“糟糕”协议归咎于副总统万斯。\n\n一位国会共和党人告诉我：“山上的保守派人士对万斯会在如此可怕的一场战争中抹去特朗普所有的军事胜利感到震惊。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/1178705495848195911",
-    "timestamp": "2026-06-17T23:28:12.699013+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/7345152431099005779",
+    "timestamp": "2026-06-18T03:58:57.910207+00:00",
     "original_time": "2026-06-17T23:25:27+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_4322517090475514349",
+    "id": "tweet_KellieMeyerNews_-1108042124700788427",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "The White House confirms the president signed the MOU while at Versailles, per pooler@KannoYoungs",
     "translated_text": "据 pooler@KannoYoungs 报道，白宫确认总统在凡尔赛宫签署了谅解备忘录",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/4322517090475514349",
-    "timestamp": "2026-06-17T23:28:13.213286+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-1108042124700788427",
+    "timestamp": "2026-06-18T03:58:58.330407+00:00",
     "original_time": "2026-06-17T22:23:31+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-1210092152984853692",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "When I asked what the difference was a U.S. official tells me: “On Sunday, the MOU was signed digitally by Vice President Vance and Speaker Ghalibaf and witnessed by President Trump. Now, it has been signed by President Trump and President Pezeshkian.”",
-    "translated_text": "当我问有什么区别时，一位美国官员告诉我：“周日，该谅解备忘录由副总统万斯和议长加利巴夫以数字方式签署，并由特朗普总统见证。现在，它已由特朗普总统和佩泽什基安总统签署。”",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-1210092152984853692",
-    "timestamp": "2026-06-17T23:28:13.610455+00:00",
-    "original_time": "2026-06-17T22:15:34+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-8374351547976135049",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "But a senior U.S. official on Monday did say that the President signed the agreement Sunday too.",
-    "translated_text": "但一位美国高级官员周一确实表示，总统也在周日签署了该协议。",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-8374351547976135049",
-    "timestamp": "2026-06-17T23:28:14.042612+00:00",
-    "original_time": "2026-06-17T22:20:34+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-1736298546134786138",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "This was from a call with senior U.S. officials on Monday.",
-    "translated_text": "这是周一与美国高级官员的通话。",
-    "images": [
-      "1d7695f51048fca1.svg"
-    ],
-    "url": "https://x.com/KellieMeyerNews/status/-1736298546134786138",
-    "timestamp": "2026-06-17T23:28:14.336413+00:00",
-    "original_time": "2026-06-17T21:43:08+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-256748469826143208",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "NOTE: Officials have not answered yet what the difference is between what was digitally signed tonight from what was digitally signed on Sunday.",
-    "translated_text": "注意：官方尚未回答今晚数字签名与周日数字签名之间有什么区别。",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-256748469826143208",
-    "timestamp": "2026-06-17T23:28:14.678705+00:00",
-    "original_time": "2026-06-17T21:42:13+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-2467075605377712164",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "BREAKING: A U.S. official tells me@NewsNationthat the U.S. and Iran Memorandum of Understanding was signed tonight remotely. \n\nThere will still be a formal signing of the MOU, I'm told.",
-    "translated_text": "突发新闻：一位美国官员告诉我@NewsNation，美国和伊朗的谅解备忘录今晚已远程签署。 \n\n据我所知，谅解备忘录仍将正式签署。",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-2467075605377712164",
-    "timestamp": "2026-06-17T23:28:15.171631+00:00",
-    "original_time": "2026-06-17T21:37:07+00:00"
-  },
-  {
-    "id": "tweet_alexanderbolton_-909987832679302273",
-    "type": "tweet",
-    "username": "alexanderbolton",
-    "text": "Sen. Ted Cruz (R-Texas) says Trump is getting \"poor advice\" on Iran deal.\n\n\"History teaches that giving billions of dollars to theocratic lunatics who want to murder us is not a good idea. I think the president is receiving some very poor advice on this deal,\" Cruz says.",
-    "translated_text": "德克萨斯州共和党参议员特德·克鲁兹表示，特朗普在伊朗协议问题上得到了“糟糕的建议”。\n\n“历史告诉我们，向想要谋杀我们的神权疯子提供数十亿美元并不是一个好主意。我认为总统在这项协议上收到了一些非常糟糕的建议，”克鲁兹说。",
-    "images": [],
-    "url": "https://x.com/alexanderbolton/status/-909987832679302273",
-    "timestamp": "2026-06-17T23:28:15.599953+00:00",
-    "original_time": "2026-06-17T19:26:00+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_6058566871647303673",
+    "id": "tweet_KellieMeyerNews_-5040027749604511656",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "On a call with journalists today, US officials went through the U.S. and Iran MOU line by line.   “This is fundamentally an agreement that allows us to open the Straits of Hormuz immediately, commits the Iranians to destroying the nuclear dust, and then gives us a dial where,",
     "translated_text": "在今天与记者的通话中，美国官员逐条详细介绍了美国和伊朗的谅解备忘录。   “从根本上来说，这是一项协议，它允许我们立即开放霍尔木兹海峡，让伊朗人承诺销毁核尘埃，然后给我们一个指示，",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/6058566871647303673",
-    "timestamp": "2026-06-17T23:28:15.949078+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-5040027749604511656",
+    "timestamp": "2026-06-18T03:59:00.547910+00:00",
     "original_time": "2026-06-17T17:40:09+00:00"
   },
   {
-    "id": "tweet_TocRadio_-6911575331839400581",
+    "id": "tweet_TocRadio_-159995083651287569",
     "type": "tweet",
     "username": "TocRadio",
     "text": "Trump ends his press conference by jokingly putting Vance on the hot seat — says if the Iran deal \"works out, I'm going to take the credit. If it doesn't work out, I'm blaming JD. You better be careful, JD, he's going to turn his plane around and get the hell out of here.\"",
     "translated_text": "特朗普在新闻发布会结束时，开玩笑地把万斯置于尴尬的境地——他说，如果伊朗协议“成功，我就会把功劳揽在自己身上。如果没有成功，我就会责怪 JD。你最好小心点，JD，他会掉头离开这里。”",
     "images": [],
-    "url": "https://x.com/TocRadio/status/-6911575331839400581",
-    "timestamp": "2026-06-17T23:28:16.326945+00:00",
+    "url": "https://x.com/TocRadio/status/-159995083651287569",
+    "timestamp": "2026-06-18T03:59:00.760290+00:00",
     "original_time": "2026-06-17T17:09:54+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_8172541930559008928",
+    "id": "tweet_KellieMeyerNews_492492642939956756",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "President Trump says he might stay around for the signing of the MOU but he also says since it’s just the MOU he may not.",
     "translated_text": "特朗普总统表示，他可能会留下来签署谅解备忘录，但他也表示，由于这只是谅解备忘录，他可能不会留下来。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/8172541930559008928",
-    "timestamp": "2026-06-17T23:28:16.603334+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/492492642939956756",
+    "timestamp": "2026-06-18T03:59:00.964285+00:00",
     "original_time": "2026-06-17T17:09:30+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-3792395899085871384",
+    "id": "tweet_geonews_urdu_-5779825788184690252",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "فیفا ورلڈکپ : انگلینڈ نے کروشیا کو 2 کے مقابلے میں 4 گول سے شکست دے دی",
-    "translated_text": "世界杯：英格兰4比2击败克罗地亚",
+    "text": "US and Iranian Presidents have electronically signed the Islamabad Memorandum of Understanding, confirmed as a third party: Prime Minister",
+    "translated_text": "美国和伊朗总统已以电子方式签署《伊斯兰堡谅解备忘录》，并确认为第三方：总理",
     "images": [
-      "b1dd08e4ff1aeb56.jpg"
+      "ec5a2f4386c5d98a.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-3792395899085871384",
-    "timestamp": "2026-06-17T23:28:56.742887+00:00",
-    "original_time": "2026-06-17T23:14:58+00:00"
+    "url": "https://x.com/geonews_urdu/status/-5779825788184690252",
+    "timestamp": "2026-06-18T03:59:43.100955+00:00",
+    "original_time": "2026-06-18T02:42:35+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2484655134416978256",
+    "id": "tweet_geonews_urdu_-3761889275927317790",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Trump signed a memorandum of understanding with Iran, White House confirms",
-    "translated_text": "白宫证实特朗普与伊朗签署谅解备忘录",
+    "text": "6 AM Headlines - 18 June 2026",
+    "translated_text": "早上 6 点头条新闻 - 2026 年 6 月 18 日",
     "images": [
-      "46370071c200e25e.jpg"
+      "fd46bd8814d64b25.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2484655134416978256",
-    "timestamp": "2026-06-17T23:28:57.155929+00:00",
-    "original_time": "2026-06-17T23:01:21+00:00"
+    "url": "https://x.com/geonews_urdu/status/-3761889275927317790",
+    "timestamp": "2026-06-18T03:59:44.343147+00:00",
+    "original_time": "2026-06-18T02:22:23+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-1488264843495012202",
+    "id": "tweet_geonews_urdu_5954015671612605234",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Tension in the region has been eliminated, Prime Minister Shehbaz Sharif",
-    "translated_text": "总理谢赫巴兹·谢里夫表示，该地区的紧张局势已经消除",
+    "text": "A new world record has been set for one-day fan attendance at the FIFA World Cup 2026",
+    "translated_text": "2026 年 FIFA 世界杯单日观众人数创下新的世界纪录",
     "images": [
-      "8005795d01b30ea1.jpg"
+      "76b7ef00cfdd2d9c.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-1488264843495012202",
-    "timestamp": "2026-06-17T23:28:57.558667+00:00",
-    "original_time": "2026-06-17T22:47:41+00:00"
+    "url": "https://x.com/geonews_urdu/status/5954015671612605234",
+    "timestamp": "2026-06-18T03:59:44.973352+00:00",
+    "original_time": "2026-06-18T02:20:30+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_8692029580480490226",
+    "id": "tweet_geonews_urdu_8831634510756759360",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Final text of memorandum of understanding with America settled, confirmed by Iran",
-    "translated_text": "与美国达成的谅解备忘录最终文本已得到伊朗确认",
+    "text": "FIFA World Cup: Goal in the final moments of the match, Ghana defeats Panama 0-1",
+    "translated_text": "世界杯：比赛最后时刻进球 加纳0-1战胜巴拿马",
     "images": [
-      "19b34e44be7ce41c.jpg"
+      "6b321b8f6667efe3.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/8692029580480490226",
-    "timestamp": "2026-06-17T23:28:58.047603+00:00",
-    "original_time": "2026-06-17T22:45:13+00:00"
+    "url": "https://x.com/geonews_urdu/status/8831634510756759360",
+    "timestamp": "2026-06-18T03:59:46.804312+00:00",
+    "original_time": "2026-06-18T01:52:04+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-4925586804677713450",
+    "id": "tweet_geonews_urdu_5751248259882336080",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "US-Iran deal to be signed on Friday",
-    "translated_text": "美伊协议将于周五签署",
+    "text": "Trump signed an Iran-US memorandum of understanding during dinner with French President Macron",
+    "translated_text": "特朗普在与法国总统马克龙共进晚餐时签署了伊朗-美国谅解备忘录",
     "images": [
-      "27805f07e3e1a246.jpg"
+      "8dea78a31b4545f7.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-4925586804677713450",
-    "timestamp": "2026-06-17T23:28:58.539528+00:00",
-    "original_time": "2026-06-17T22:26:55+00:00"
+    "url": "https://x.com/geonews_urdu/status/5751248259882336080",
+    "timestamp": "2026-06-18T03:59:47.317461+00:00",
+    "original_time": "2026-06-18T01:40:52+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_6120648936708088416",
+    "id": "tweet_geonews_urdu_-4742191524987522131",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Trump's Praise for Pakistan and Qatar",
-    "translated_text": "特朗普对巴基斯坦和卡塔尔的赞扬",
+    "text": "Why is the Iranian government considering the memorandum of understanding with Trump as its success, and why do Iranian officials appear more confident than before? See important details",
+    "translated_text": "为什么伊朗政府认为与特朗普的谅解备忘录是成功的，为什么伊朗官员显得比以前更加自信？查看重要细节",
     "images": [
-      "da10863ef399a276.jpg"
+      "41938fc0bc1d2582.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/6120648936708088416",
-    "timestamp": "2026-06-17T23:28:59.005422+00:00",
-    "original_time": "2026-06-17T21:52:53+00:00"
+    "url": "https://x.com/geonews_urdu/status/-4742191524987522131",
+    "timestamp": "2026-06-18T03:59:50.649425+00:00",
+    "original_time": "2026-06-17T21:18:57+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8924127319707294677",
+    "id": "tweet_geonews_urdu_2893635517724415004",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Up to May this year, 278,536 Pakistanis went abroad for employment purposes",
-    "translated_text": "截至今年5月，巴基斯坦出国就业人数为278,536人",
-    "images": [
-      "7b3c8db342cb5885.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-8924127319707294677",
-    "timestamp": "2026-06-17T23:29:01.468899+00:00",
-    "original_time": "2026-06-17T17:55:02+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_5759601450410210379",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Why did Nawaz Sharif advise negotiations in Azad Kashmir?",
-    "translated_text": "纳瓦兹·谢里夫为何建议在克什米尔进行谈判？",
+    "text": "Supreme Court's Important Decision Regarding a Woman's Right to Divorce. The law cannot force any relationship to continue forcibly. The purpose of both religion and law is not to make marriage an intolerable or inescapable bond. See the text of the decision.",
+    "translated_text": "最高法院关于妇女离婚权的重要判决。法律不能强迫任何关系强行继续下去。宗教和法律的目的并不是让婚姻成为一种无法忍受或不可避免的纽带。参见决定文本。",
     "images": [],
-    "url": "https://x.com/geonews_urdu/status/5759601450410210379",
-    "timestamp": "2026-06-17T23:29:01.723358+00:00",
-    "original_time": "2026-06-17T17:49:16+00:00"
+    "url": "https://x.com/geonews_urdu/status/2893635517724415004",
+    "timestamp": "2026-06-18T03:59:51.136037+00:00",
+    "original_time": "2026-06-17T21:18:13+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-1922831071002883155",
+    "id": "tweet_geonews_urdu_3306428426185511753",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Why did Jamaat-e-Islami announce protests for Friday?",
-    "translated_text": "伊斯兰大会党为何宣布周五举行抗议活动？",
+    "text": "After the murder of 9-year-old Haniya Ahmad at the hands of a CCD official in Chakwal, CCD once again in the line of questioning. Post-mortem report reveals 11 marks of bullets and wounds on the body. Questions are being raised: Why didn't the CCD official target the tires? Why",
+    "translated_text": "9 岁的哈尼娅·艾哈迈德 (Haniya Ahmad) 在 Chakwal 被 CCD 官员谋杀后，CCD 再次接受讯问。验尸报告显示，尸体上有 11 处子弹痕迹和伤口。有人提出疑问：CCD官方为何不针对轮胎？为什么",
     "images": [
-      "2c1fced43f1c9483.jpg"
+      "450e8db221e0f9f5.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-1922831071002883155",
-    "timestamp": "2026-06-17T23:29:02.194375+00:00",
-    "original_time": "2026-06-17T17:49:00+00:00"
+    "url": "https://x.com/geonews_urdu/status/3306428426185511753",
+    "timestamp": "2026-06-18T03:59:52.132565+00:00",
+    "original_time": "2026-06-17T21:17:29+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-1542810935020605005",
+    "id": "tweet_geonews_urdu_-4452643623255748288",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "How can the economy become strong without political stability?",
-    "translated_text": "没有政治稳定，经济怎能强大？",
+    "text": "Sindh government's increase in minimum wage from 40 to 43 thousand rupees is an important step for the working class: Sharjeel Memon",
+    "translated_text": "信德省政府将最低工资从 40 卢比提高到 4.3 万卢比，对工人阶级来说是重要的一步：Sharjeel Memon",
     "images": [
-      "b77ef421b9e42a0f.jpg"
+      "2d3d32fe086cf6ed.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-1542810935020605005",
-    "timestamp": "2026-06-17T23:29:02.617678+00:00",
-    "original_time": "2026-06-17T17:48:54+00:00"
+    "url": "https://x.com/geonews_urdu/status/-4452643623255748288",
+    "timestamp": "2026-06-18T03:59:52.650273+00:00",
+    "original_time": "2026-06-17T21:16:13+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-6344387476425504451",
+    "id": "tweet_geonews_urdu_-2712496318565031707",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Why did Tehreek-e-Insaf's protest against the government fail?",
-    "translated_text": "为什么正义运动对政府的抗议失败了？",
+    "text": "Is Cristiano Ronaldo the oldest player to participate in the FIFA World Cup?",
+    "translated_text": "克里斯蒂亚诺·罗纳尔多是参加世界杯最年长的球员吗？",
     "images": [
-      "b6d9c330cb66182a.jpg"
+      "c4f363ac5cd75a63.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-6344387476425504451",
-    "timestamp": "2026-06-17T23:29:03.147007+00:00",
-    "original_time": "2026-06-17T17:48:45+00:00"
+    "url": "https://x.com/geonews_urdu/status/-2712496318565031707",
+    "timestamp": "2026-06-18T03:59:52.955004+00:00",
+    "original_time": "2026-06-17T20:38:26+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8145818100041239760",
+    "id": "tweet_geonews_urdu_-6414785009055853134",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "What are the challenges in forming a government in Gilgit-Baltistan?",
-    "translated_text": "在吉尔吉特-巴尔蒂斯坦组建政府面临哪些挑战？",
+    "text": "Before signing the deal, Trump issues new threat to Iran, declaring renewed bombing in case of deal violation and failure to fully comply with the agreement. The 14 points of the deal have also come to light, offering Iran nothing but relief. What is the potential $300 billion",
+    "translated_text": "在签署协议之前，特朗普对伊朗发出了新的威胁，宣布如果伊朗违反协议或不完全遵守协议，将重新进行轰炸。协议的 14 点也已曝光，这让伊朗只能松一口气。 3000亿美元的潜力是多少",
     "images": [
-      "ed036310e9de7923.jpg"
+      "d3a5e0b1e2b03f2f.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-8145818100041239760",
-    "timestamp": "2026-06-17T23:29:03.573959+00:00",
-    "original_time": "2026-06-17T17:48:38+00:00"
+    "url": "https://x.com/geonews_urdu/status/-6414785009055853134",
+    "timestamp": "2026-06-18T03:59:53.287701+00:00",
+    "original_time": "2026-06-17T20:36:07+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-589952991918739715",
+    "id": "tweet_geonews_urdu_-9214201369850890632",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "This budget is for a specific class and they represent them, Shafqatullah Jan",
-    "translated_text": "这个预算是针对特定阶层的，他们代表了他们，Shafqatullah Jan",
+    "text": "FIFA World Cup: Ronaldo's magic didn't work, Portugal and Congo's match ended 1-1 in a draw",
+    "translated_text": "世界杯：C罗魔法没发挥作用 葡萄牙与刚果1-1战平",
     "images": [
-      "6f829fe6f21938c6.jpg"
+      "ed1a25797815120e.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-589952991918739715",
-    "timestamp": "2026-06-17T23:29:03.852368+00:00",
-    "original_time": "2026-06-17T17:45:54+00:00"
+    "url": "https://x.com/geonews_urdu/status/-9214201369850890632",
+    "timestamp": "2026-06-18T03:59:53.590924+00:00",
+    "original_time": "2026-06-17T20:29:56+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_2167184332287055908",
+    "id": "tweet_geonews_urdu_6388024177562851942",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Why have the complaints and grievances of the People's Party regarding the budget increased?",
-    "translated_text": "为什么人民党对预算案的抱怨和不满越来越多？",
+    "text": "Iran to develop an administrative system in collaboration with Oman for the Strait of Hormuz",
+    "translated_text": "伊朗将与阿曼合作开发霍尔木兹海峡管理系统",
     "images": [
-      "eca0b71ec7a70d80.jpg"
+      "1da6472d83ba9b0b.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/2167184332287055908",
-    "timestamp": "2026-06-17T23:29:04.277356+00:00",
-    "original_time": "2026-06-17T17:44:27+00:00"
+    "url": "https://x.com/geonews_urdu/status/6388024177562851942",
+    "timestamp": "2026-06-18T03:59:53.932694+00:00",
+    "original_time": "2026-06-17T20:09:04+00:00"
   },
   {
-    "id": "article_49df97382415",
+    "id": "tweet_geonews_urdu_-7330246222032225602",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Bilawal's meeting with the Prime Minister, discussion regarding budget including political and national affairs",
+    "translated_text": "比拉瓦尔与总理会面，讨论包括政治和国家事务在内的预算",
+    "images": [
+      "db66ed4759de4c0f.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7330246222032225602",
+    "timestamp": "2026-06-18T03:59:54.217998+00:00",
+    "original_time": "2026-06-17T18:45:13+00:00"
+  },
+  {
+    "id": "article_a012bc79a686",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "PAA extends airspace ban on Indian aircraft until July 24",
-    "translated_title": "PAA将对印度飞机的空域禁令延长至7月24日",
-    "url": "https://www.dawn.com/news/2008630/paa-extends-airspace-ban-on-indian-aircraft-until-july-24",
-    "timestamp": "2026-06-17T23:30:39.752912+00:00",
-    "original_time": "2026-06-17T22:36:04+05:00"
+    "title": "Words that wound",
+    "translated_title": "伤人的话",
+    "url": "https://www.dawn.com/news/2008720",
+    "timestamp": "2026-06-18T04:01:28.207313+00:00",
+    "original_time": "2026-06-18T06:29:24+05:00"
   },
   {
-    "id": "article_b935ace7afd6",
+    "id": "article_3b3d37b743e4",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Autopsy report of nine-year-old girl killed in Chakwal CCD shooting reveals multiple bullet wounds",
-    "translated_title": "Chakwal CCD 枪击事件中丧生的 9 岁女孩尸检报告显示有多处枪伤",
-    "url": "https://www.dawn.com/news/2008638/autopsy-report-of-nine-year-old-girl-killed-in-chakwal-ccd-shooting-reveals-multiple-bullet-wounds",
-    "timestamp": "2026-06-17T23:30:57.211147+00:00",
-    "original_time": "2026-06-17T23:22:42+05:00"
-  },
-  {
-    "id": "article_d94a876969ff",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008537/china-calls-for-more-global-south-voices-to-be-heard-at-united-nations",
-    "timestamp": "2026-06-17T23:31:43.464776+00:00",
-    "original_time": "2026-06-17T23:31:43.464578+00:00"
-  },
-  {
-    "id": "article_282ab7136f68",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Nawaz urges AJK to end protests, sit-ins and engage in meaningful dialogue with govt",
-    "translated_title": "纳瓦兹敦促 AJK 结束抗议、静坐并与政府进行有意义的对话",
-    "url": "https://www.dawn.com/news/2008589/nawaz-urges-ajk-to-end-protests-sit-ins-and-engage-in-meaningful-dialogue-with-govt",
-    "timestamp": "2026-06-17T23:32:01.861119+00:00",
-    "original_time": "2026-06-17T20:19:57+05:00"
+    "title": "Suparco puts 130 glacial lakes on danger watch",
+    "translated_title": "Suparco将130个冰川湖置于危险观察状态",
+    "url": "https://www.dawn.com/news/2008714/suparco-puts-130-glacial-lakes-on-danger-watch",
+    "timestamp": "2026-06-18T04:02:17.023079+00:00",
+    "original_time": "2026-06-18T07:23:03+05:00"
   },
   {
     "id": "article_0cc4fd51dd2c",
     "type": "article",
     "source": "www.dawn.com",
     "title": "Ghana's Partey loses bid to enter Canada for World Cup",
-    "translated_title": "加纳队的帕蒂失去了进入加拿大参加世界杯的资格",
+    "translated_title": "加纳队帕蒂未能进入加拿大参加世界杯",
     "url": "https://www.dawn.com/news/2008646/ghanas-partey-loses-bid-to-enter-canada-for-world-cup",
-    "timestamp": "2026-06-17T23:32:05.413892+00:00",
+    "timestamp": "2026-06-18T04:02:20.458020+00:00",
     "original_time": "2026-06-18T00:50:47+05:00"
+  },
+  {
+    "id": "article_21e6e204c2e1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008437/henry-nicholls-replaces-williamson-for-second-england-test",
+    "timestamp": "2026-06-18T04:02:45.979757+00:00",
+    "original_time": "2026-06-18T04:02:45.979725+00:00"
   },
   {
     "id": "article_466a3dfa33f7",
@@ -767,158 +682,88 @@
     "title": "What happens when the Strait of Hormuz reopens?",
     "translated_title": "霍尔木兹海峡重新开放后会发生什么？",
     "url": "https://www.dawn.com/news/2008641/what-happens-when-the-strait-of-hormuz-reopens",
-    "timestamp": "2026-06-17T23:32:16.076574+00:00",
+    "timestamp": "2026-06-18T04:02:56.500283+00:00",
     "original_time": "2026-06-17T23:49:25+05:00"
   },
   {
-    "id": "article_da62c34de782",
+    "id": "article_9042c40d59ff",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "PPP lawmaker calls for separate South Punjab province in Senate",
-    "translated_title": "PPP议员呼吁参议院将南旁遮普省独立",
-    "url": "https://www.dawn.com/news/2008601/ppp-lawmaker-calls-for-separate-south-punjab-province-in-senate",
-    "timestamp": "2026-06-17T23:32:25.648457+00:00",
-    "original_time": "2026-06-17T21:19:04+05:00"
+    "title": "Current account posts $459m surplus in May",
+    "translated_title": "5 月份经常账户盈余 4.59 亿美元",
+    "url": "https://www.dawn.com/news/2008684/current-account-posts-459m-surplus-in-may",
+    "timestamp": "2026-06-18T04:03:00.739143+00:00",
+    "original_time": "2026-06-18T07:37:45+05:00"
   },
   {
-    "id": "article_07eb1d9021cc",
+    "id": "article_b935ace7afd6",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008489",
-    "timestamp": "2026-06-17T23:33:04.591532+00:00",
-    "original_time": "2026-06-17T23:33:04.591503+00:00"
+    "title": "Autopsy report of nine-year-old girl killed in Chakwal CCD shooting reveals multiple bullet wounds",
+    "translated_title": "Chakwal CCD 枪击事件中丧生的 9 岁女孩尸检报告显示有多处枪伤",
+    "url": "https://www.dawn.com/news/2008638/autopsy-report-of-nine-year-old-girl-killed-in-chakwal-ccd-shooting-reveals-multiple-bullet-wounds",
+    "timestamp": "2026-06-18T04:03:04.181200+00:00",
+    "original_time": "2026-06-17T23:22:42+05:00"
   },
   {
-    "id": "article_a27aef8f29c8",
+    "id": "article_e6689b74a509",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Congo Ebola response strained a month after WHO declares international emergency",
-    "translated_title": "世界卫生组织宣布国际紧急状态一个月后，刚果埃博拉应对措施紧张",
-    "url": "https://www.dawn.com/news/2008618/congo-ebola-response-strained-a-month-after-who-declares-international-emergency",
-    "timestamp": "2026-06-17T23:33:22.701010+00:00",
-    "original_time": "2026-06-17T22:09:41+05:00"
+    "title": "Stocks manage modest gains in volatile session",
+    "translated_title": "股市在动荡的交易中小幅上涨",
+    "url": "https://www.dawn.com/news/2008680/stocks-manage-modest-gains-in-volatile-session",
+    "timestamp": "2026-06-18T04:03:16.627668+00:00",
+    "original_time": "2026-06-18T07:37:45+05:00"
   },
   {
-    "id": "article_e228718b5e31",
+    "id": "article_2185cf354ca7",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007889/connolly-ton-sets-up-consolation-win-for-australia-against-bangladesh",
-    "timestamp": "2026-06-17T23:33:48.746920+00:00",
-    "original_time": "2026-06-17T23:33:48.746889+00:00"
+    "title": "Bilawal agrees to join budget debate after meeting with PM Shehbaz",
+    "translated_title": "比拉瓦尔同意在与总理谢巴兹会面后参加预算辩论",
+    "url": "https://www.dawn.com/news/2008715/bilawal-agrees-to-join-budget-debate-after-meeting-with-pm-shehbaz",
+    "timestamp": "2026-06-18T04:03:23.596173+00:00",
+    "original_time": "2026-06-18T07:16:11+05:00"
   },
   {
-    "id": "article_f138b2974400",
+    "id": "article_a384a47a2734",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "US official unveils 14-point Iran agreement to halt conflict and reopen Strait of Hormuz",
-    "translated_title": "美国官员公布14点伊朗协议，以停止冲突并重新开放霍尔木兹海峡",
-    "url": "https://www.dawn.com/news/2008644/us-official-unveils-14-point-iran-agreement-to-halt-conflict-and-reopen-strait-of-hormuz",
-    "timestamp": "2026-06-17T23:33:54.000954+00:00",
-    "original_time": "2026-06-18T00:26:15+05:00"
+    "title": "Gujrat Municipal Corporation ex-CO booked in third graft case",
+    "translated_title": "古吉拉特邦市政公司前CO在第三起贪污案中被立案",
+    "url": "https://www.dawn.com/news/2008759/gujrat-municipal-corporation-ex-co-booked-in-third-graft-case",
+    "timestamp": "2026-06-18T04:03:36.381780+00:00",
+    "original_time": "2026-06-18T08:16:47+05:00"
   },
   {
-    "id": "article_45630f3d8d76",
+    "id": "article_a8d543c2bc73",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Ronaldo fails to shine as DR Congo earn historic World Cup point",
-    "translated_title": "刚果民主共和国获得历史性世界杯积分，罗纳尔多未能大放异彩",
-    "url": "https://www.dawn.com/news/2008645/ronaldo-fails-to-shine-as-dr-congo-earn-historic-world-cup-point",
-    "timestamp": "2026-06-17T23:34:13.398967+00:00",
-    "original_time": "2026-06-18T00:33:39+05:00"
+    "title": "PM Shehbaz says US, Iran have signed deal electronically; Iran to 'instantly' reopen Hormuz, US to 'immediately' lift blockade",
+    "translated_title": "谢赫巴兹总理表示，美国和伊朗已通过电子方式签署协议；伊朗“立即”重新开放霍尔木兹，美国“立即”解除封锁",
+    "url": "https://www.dawn.com/news/2008730/pm-shehbaz-says-us-iran-have-signed-deal-electronically-iran-to-instantly-reopen-hormuz-us-to-immediately-lift-blockade",
+    "timestamp": "2026-06-18T04:03:41.004084+00:00",
+    "original_time": "2026-06-18T06:54:26+05:00"
   },
   {
-    "id": "article_552d16c16b98",
+    "id": "article_0b75c9937285",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "US-Iran deal a ‘political nightmare’ for Netanyahu, analysts say",
-    "translated_title": "分析人士称，美伊协议对内塔尼亚胡来说是“政治噩梦”",
-    "url": "https://www.dawn.com/news/2008608/us-iran-deal-a-political-nightmare-for-netanyahu-analysts-say",
-    "timestamp": "2026-06-17T23:34:24.875557+00:00",
-    "original_time": "2026-06-17T22:13:03+05:00"
+    "title": "FCC lays down safeguards to protect women’s inheritance rights",
+    "translated_title": "FCC 制定保护妇女继承权的保障措施",
+    "url": "https://www.dawn.com/news/2008674/fcc-lays-down-safeguards-to-protect-womens-inheritance-rights",
+    "timestamp": "2026-06-18T04:03:45.308347+00:00",
+    "original_time": "2026-06-18T07:37:29+05:00"
   },
   {
-    "id": "article_a3761b012ef3",
+    "id": "article_5b105ca77824",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007924/first-aircraft-dismantling-project-launched-in-southern-china",
-    "timestamp": "2026-06-17T23:34:47.486703+00:00",
-    "original_time": "2026-06-17T23:34:47.486673+00:00"
-  },
-  {
-    "id": "article_7f97921bcc66",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008010/pm-shehbaz-says-pakistan-to-host-signing-ceremony-of-us-iran-agreement-in-geneva",
-    "timestamp": "2026-06-17T23:35:30.306765+00:00",
-    "original_time": "2026-06-17T23:35:30.306732+00:00"
-  },
-  {
-    "id": "article_4a5381c701f3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PM Shehbaz decides to transform govt's monitoring mechanism through real-time digital oversight",
-    "translated_title": "总理谢巴兹决定通过实时数字监督转变政府的监督机制",
-    "url": "https://www.dawn.com/news/2008574/pm-shehbaz-decides-to-transform-govts-monitoring-mechanism-through-real-time-digital-oversight",
-    "timestamp": "2026-06-17T23:35:42.069080+00:00",
-    "original_time": "2026-06-17T18:08:53+05:00"
-  },
-  {
-    "id": "article_26dd371ad14a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008427/karachi-road-fatalities-fell-by-30pc-in-six-months-due-to-e-ticketing-dig-pir-muhammad-shah",
-    "timestamp": "2026-06-17T23:36:03.130601+00:00",
-    "original_time": "2026-06-17T23:36:03.130569+00:00"
-  },
-  {
-    "id": "article_be76ab058989",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2007993/pakistans-quarter-century-ponzi-scheme-and-the-exit-that-has-no-architecture",
-    "timestamp": "2026-06-17T23:36:37.459860+00:00",
-    "original_time": "2026-06-17T23:36:37.459823+00:00"
-  },
-  {
-    "id": "article_da37fb259d3a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008550/pentagon-restores-name-of-us-pacific-command-drops-indo",
-    "timestamp": "2026-06-17T23:36:58.442893+00:00",
-    "original_time": "2026-06-17T23:36:58.442862+00:00"
-  },
-  {
-    "id": "article_ac7922d3ec89",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008399/four-bodies-recovered-in-bannu",
-    "timestamp": "2026-06-17T23:37:45.721777+00:00",
-    "original_time": "2026-06-17T23:37:45.721742+00:00"
-  },
-  {
-    "id": "article_636a6cf60226",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008441/erling-haaland-nets-first-world-cup-goals-in-norways-4-1-win-over-iraq",
-    "timestamp": "2026-06-17T23:38:16.507190+00:00",
-    "original_time": "2026-06-17T23:38:16.507158+00:00"
+    "title": "BUDGET 2026-27: Development takes back seat in Sindh",
+    "translated_title": "2026-27 年预算：信德省的发展退居二线",
+    "url": "https://www.dawn.com/news/2008686",
+    "timestamp": "2026-06-18T04:03:49.692912+00:00",
+    "original_time": "2026-06-18T07:37:45+05:00"
   },
   {
     "id": "article_922685fdfb43",
@@ -927,8 +772,318 @@
     "title": "Kane scores twice as England beat Croatia to launch World Cup charge",
     "translated_title": "凯恩梅开二度，英格兰击败克罗地亚冲进世界杯",
     "url": "https://www.dawn.com/news/2008687/kane-scores-twice-as-england-beat-croatia-to-launch-world-cup-charge",
-    "timestamp": "2026-06-17T23:38:25.303975+00:00",
+    "timestamp": "2026-06-18T04:03:55.031590+00:00",
     "original_time": "2026-06-18T03:24:34+05:00"
+  },
+  {
+    "id": "article_9b27f9082464",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Travellers stranded as landslides block Kara­koram Highway",
+    "translated_title": "喀喇昆仑公路山体滑坡封锁 旅客受困",
+    "url": "https://www.dawn.com/news/2008688/travellers-stranded-as-landslides-block-karakoram-highway",
+    "timestamp": "2026-06-18T04:04:06.727013+00:00",
+    "original_time": "2026-06-18T07:37:37+05:00"
+  },
+  {
+    "id": "article_155bdd7efc31",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PUNJAB BUDGET 2026-27: Punjab to set up ‘FBR-like’ revenue authority, says minister",
+    "translated_title": "2026-27 年旁遮普邦预算：部长表示，旁遮普邦将设立“类似 FBR”的税收机构",
+    "url": "https://www.dawn.com/news/2008765",
+    "timestamp": "2026-06-18T04:04:17.933439+00:00",
+    "original_time": "2026-06-18T08:23:47+05:00"
+  },
+  {
+    "id": "article_4b6219f4b8c5",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "2m retailers to be brought under tax net, says minister",
+    "translated_title": "部长表示，200万家零售商将被纳入税网",
+    "url": "https://www.dawn.com/news/2008683/2m-retailers-to-be-brought-under-tax-net-says-minister",
+    "timestamp": "2026-06-18T04:04:38.319609+00:00",
+    "original_time": "2026-06-18T07:37:45+05:00"
+  },
+  {
+    "id": "article_45630f3d8d76",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Ronaldo fails to shine as DR Congo earn historic World Cup point",
+    "translated_title": "刚果民主共和国获得历史性世界杯积分，罗纳尔多未能大放异彩",
+    "url": "https://www.dawn.com/news/2008645/ronaldo-fails-to-shine-as-dr-congo-earn-historic-world-cup-point",
+    "timestamp": "2026-06-18T04:04:44.389340+00:00",
+    "original_time": "2026-06-18T00:33:39+05:00"
+  },
+  {
+    "id": "article_bcf7e0183ee1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Policies without budget",
+    "translated_title": "无预算的政策",
+    "url": "https://www.dawn.com/news/2008724",
+    "timestamp": "2026-06-18T04:04:49.694979+00:00",
+    "original_time": "2026-06-18T06:38:30+05:00"
+  },
+  {
+    "id": "article_7992f68e7b9c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Move afoot to change Al-Aqsa’s status",
+    "translated_title": "努力改变阿克萨清真寺的地位",
+    "url": "https://www.dawn.com/news/2008678/move-afoot-to-change-al-aqsas-status",
+    "timestamp": "2026-06-18T04:04:53.991858+00:00",
+    "original_time": "2026-06-18T07:37:29+05:00"
+  },
+  {
+    "id": "article_17378546a56d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "SINDH BUDGET 2026-27: Sindh unveils Rs3.56tr budget with Rs36.9bn deficit",
+    "translated_title": "信德省 2026-27 年预算：信德省公布 3.56 卢比的预算，赤字 369 亿卢比",
+    "url": "https://www.dawn.com/news/2008710",
+    "timestamp": "2026-06-18T04:05:04.336730+00:00",
+    "original_time": "2026-06-18T07:29:47+05:00"
+  },
+  {
+    "id": "article_a6816ae24181",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008509/russian-artist-critical-of-putin-shot-dead-in-poland",
+    "timestamp": "2026-06-18T04:05:23.302989+00:00",
+    "original_time": "2026-06-18T04:05:23.302915+00:00"
+  },
+  {
+    "id": "article_7ab25d9add05",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Balochistan unveils Rs206bn ADP",
+    "translated_title": "俾路支省公布2060亿卢比的ADP",
+    "url": "https://www.dawn.com/news/2008685",
+    "timestamp": "2026-06-18T04:05:30.427729+00:00",
+    "original_time": "2026-06-18T07:37:45+05:00"
+  },
+  {
+    "id": "article_ec1dcefc1b2b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Afghan govt staff abandon smartphones",
+    "translated_title": "阿富汗政府工作人员放弃智能手机",
+    "url": "https://www.dawn.com/news/2008707/afghan-govt-staff-abandon-smartphones",
+    "timestamp": "2026-06-18T04:05:39.494703+00:00",
+    "original_time": "2026-06-18T07:38:13+05:00"
+  },
+  {
+    "id": "article_49df97382415",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PAA extends airspace ban on Indian aircraft until July 24",
+    "translated_title": "PAA将对印度飞机的空域禁令延长至7月24日",
+    "url": "https://www.dawn.com/news/2008630/paa-extends-airspace-ban-on-indian-aircraft-until-july-24",
+    "timestamp": "2026-06-18T04:05:43.451787+00:00",
+    "original_time": "2026-06-17T22:36:04+05:00"
+  },
+  {
+    "id": "article_56ca1d16da99",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Balochistan rolls out Rs1.09tr surplus budget",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2008696/balochistan-rolls-out-rs109tr-surplus-budget",
+    "timestamp": "2026-06-18T04:05:56.238473+00:00",
+    "original_time": "2026-06-18T07:37:37+05:00"
+  },
+  {
+    "id": "article_f138b2974400",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "US official unveils 14-point Iran agreement to halt conflict and reopen Strait of Hormuz",
+    "translated_title": "美国官员公布14点伊朗协议，以停止冲突并重新开放霍尔木兹海峡",
+    "url": "https://www.dawn.com/news/2008644/us-official-unveils-14-point-iran-agreement-to-halt-conflict-and-reopen-strait-of-hormuz",
+    "timestamp": "2026-06-18T04:06:01.899162+00:00",
+    "original_time": "2026-06-18T00:26:15+05:00"
+  },
+  {
+    "id": "article_a47727b0e9dd",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "SINDH BUDGET 2026-27: Sindh gets Rs6.1bn for agriculture, livestock uplift",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2008648",
+    "timestamp": "2026-06-18T04:06:08.778366+00:00",
+    "original_time": "2026-06-18T07:38:25+05:00"
+  },
+  {
+    "id": "article_c9e684a17231",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Balo­ch­istan employees announce indefinite shutdown after police crackdown",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2008690/balochistan-employees-announce-indefinite-shutdown-after-police-crackdown",
+    "timestamp": "2026-06-18T04:06:12.660938+00:00",
+    "original_time": "2026-06-18T07:37:37+05:00"
+  },
+  {
+    "id": "article_0ac3df523e5e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "After the war",
+    "translated_title": "战后",
+    "url": "https://www.dawn.com/news/2008723",
+    "timestamp": "2026-06-18T04:06:30.060734+00:00",
+    "original_time": "2026-06-18T06:36:39+05:00"
+  },
+  {
+    "id": "article_11a178be00cd",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "BUDGET 2026-27: Budget debate nearly devolves into fisticuffs",
+    "translated_title": "2026-27 年预算：预算辩论几乎演变成互殴",
+    "url": "https://www.dawn.com/news/2008679",
+    "timestamp": "2026-06-18T04:06:37.116497+00:00",
+    "original_time": "2026-06-18T07:32:42+05:00"
+  },
+  {
+    "id": "article_38082af3df2e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2007912/2026-27-budget-measured-support-for-the-psx",
+    "timestamp": "2026-06-18T04:07:05.598728+00:00",
+    "original_time": "2026-06-18T04:07:05.598697+00:00"
+  },
+  {
+    "id": "article_b96699834ed0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008544/pm-shehbaz-terms-federal-budget-people-friendly-hopes-it-will-promote-an-export-oriented-economy",
+    "timestamp": "2026-06-18T04:07:25.084907+00:00",
+    "original_time": "2026-06-18T04:07:25.084877+00:00"
+  },
+  {
+    "id": "article_174e02221d8b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "LHC terms stone-crushing sector public health emergency",
+    "translated_title": "大型强子对撞机将碎石行业称为突发公共卫生事件",
+    "url": "https://www.dawn.com/news/2008758/lhc-terms-stone-crushing-sector-public-health-emergency",
+    "timestamp": "2026-06-18T04:07:34.529036+00:00",
+    "original_time": "2026-06-18T08:15:26+05:00"
+  },
+  {
+    "id": "article_6637a2f341f9",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Foreign loan inflows surge to $12.1bn",
+    "translated_title": "外国贷款流入激增至 121 亿美元",
+    "url": "https://www.dawn.com/news/2008682/foreign-loan-inflows-surge-to-121bn",
+    "timestamp": "2026-06-18T04:07:55.074682+00:00",
+    "original_time": "2026-06-18T07:37:45+05:00"
+  },
+  {
+    "id": "article_9c441b9acbd2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Rs108.1bn earmarked for Karachi uplift schemes, says Sindh govt",
+    "translated_title": "信德省政府表示，将拨出 1081 亿卢比用于卡拉奇的提升计划",
+    "url": "https://www.dawn.com/news/2008657/rs1081bn-earmarked-for-karachi-uplift-schemes-says-sindh-govt",
+    "timestamp": "2026-06-18T04:08:07.151979+00:00",
+    "original_time": "2026-06-18T07:38:25+05:00"
+  },
+  {
+    "id": "article_da62c34de782",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PPP lawmaker calls for separate South Punjab province in Senate",
+    "translated_title": "PPP议员呼吁参议院将南旁遮普省独立",
+    "url": "https://www.dawn.com/news/2008601/ppp-lawmaker-calls-for-separate-south-punjab-province-in-senate",
+    "timestamp": "2026-06-18T04:08:23.150922+00:00",
+    "original_time": "2026-06-17T21:19:04+05:00"
+  },
+  {
+    "id": "article_443552378bc7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "SINDH BUDGET 2026-27: All opposition parties boycott PA session amid noisy protest",
+    "translated_title": "信德省 2026-27 年度预算：所有反对党在喧闹的抗议中抵制巴勒斯坦权力机构会议",
+    "url": "https://www.dawn.com/news/2008658",
+    "timestamp": "2026-06-18T04:08:27.085145+00:00",
+    "original_time": "2026-06-18T07:38:25+05:00"
+  },
+  {
+    "id": "article_552d16c16b98",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "US-Iran deal a ‘political nightmare’ for Netanyahu, analysts say",
+    "translated_title": "分析人士称，美伊协议对内塔尼亚胡来说是“政治噩梦”",
+    "url": "https://www.dawn.com/news/2008608/us-iran-deal-a-political-nightmare-for-netanyahu-analysts-say",
+    "timestamp": "2026-06-18T04:08:30.968100+00:00",
+    "original_time": "2026-06-17T22:13:03+05:00"
+  },
+  {
+    "id": "article_9086209890b6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Freedom of expression ‘shrinking dangerously’: UN",
+    "translated_title": "联合国：言论自由“危险地萎缩”",
+    "url": "https://www.dawn.com/news/2008708/freedom-of-expression-shrinking-dangerously-un",
+    "timestamp": "2026-06-18T04:08:42.326282+00:00",
+    "original_time": "2026-06-18T07:38:13+05:00"
+  },
+  {
+    "id": "article_4d2c107d4ef8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "SC to hear pleas on Imran’s access to lawyers, family today",
+    "translated_title": "SC今天将听取有关伊姆兰会见律师和家人的请求",
+    "url": "https://www.dawn.com/news/2008677/sc-to-hear-pleas-on-imrans-access-to-lawyers-family-today",
+    "timestamp": "2026-06-18T04:08:46.392971+00:00",
+    "original_time": "2026-06-18T07:37:29+05:00"
+  },
+  {
+    "id": "article_d5fb85872cba",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008653/fuuast-teachers-seek-audit-of-varsity-affairs-as-exam-boycott-continues",
+    "timestamp": "2026-06-18T04:09:18.649043+00:00",
+    "original_time": "2026-06-18T04:09:18.649005+00:00"
+  },
+  {
+    "id": "article_b761a71f8fb6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Only 117 papers filed as AJK poll deadline nears",
+    "translated_title": "AJK 民意调查截止日期临近，仅提交了 117 篇论文",
+    "url": "https://www.dawn.com/news/2008689/only-117-papers-filed-as-ajk-poll-deadline-nears",
+    "timestamp": "2026-06-18T04:09:32.882226+00:00",
+    "original_time": "2026-06-18T07:37:37+05:00"
+  },
+  {
+    "id": "article_b6004c6002aa",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Ginners foresee downward spiral in cotton sector",
+    "translated_title": "轧棉厂预计棉花行业将呈螺旋式下降",
+    "url": "https://www.dawn.com/news/2008757/ginners-foresee-downward-spiral-in-cotton-sector",
+    "timestamp": "2026-06-18T04:09:55.248638+00:00",
+    "original_time": "2026-06-18T08:13:54+05:00"
+  },
+  {
+    "id": "article_9d2455e9b0a2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Rs210.5bn set aside for law and order, policing",
+    "translated_title": "拨出 2105 亿卢比用于法律和秩序、治安",
+    "url": "https://www.dawn.com/news/2008655",
+    "timestamp": "2026-06-18T04:10:02.459539+00:00",
+    "original_time": "2026-06-18T07:38:25+05:00"
   },
   {
     "id": "article_3935d216c22d",
@@ -937,27 +1092,27 @@
     "title": "TTAP rejects PTI claims of no prior notice for 10,000-strong demonstration outside Adiala jail",
     "translated_title": "TTAP 驳回 PTI 声称阿迪亚拉监狱外 1 万人示威未事先通知的说法",
     "url": "https://www.dawn.com/news/2008602/ttap-rejects-pti-claims-of-no-prior-notice-for-10000-strong-demonstration-outside-adiala-jail",
-    "timestamp": "2026-06-17T23:38:44.860634+00:00",
+    "timestamp": "2026-06-18T04:10:11.687690+00:00",
     "original_time": "2026-06-17T21:41:23+05:00"
   },
   {
-    "id": "article_4840176954f9",
+    "id": "article_0946e6e8f233",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008291/us-military-to-build-war-ready-stockpile-in-australia-documents-show",
-    "timestamp": "2026-06-17T23:39:15.667429+00:00",
-    "original_time": "2026-06-17T23:39:15.667388+00:00"
+    "title": "1,293 functional public toilets in Punjab, LHC told",
+    "translated_title": "LHC 告诉旁遮普邦有 1,293 个可用的公共厕所",
+    "url": "https://www.dawn.com/news/2008760/1293-functional-public-toilets-in-punjab-lhc-told",
+    "timestamp": "2026-06-18T04:10:19.764964+00:00",
+    "original_time": "2026-06-18T08:17:20+05:00"
   },
   {
-    "id": "article_7fa87ac3e62d",
+    "id": "article_a27aef8f29c8",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Imaan, Hadi seek early hearing of appeal against IHC decision in social media posts case",
-    "translated_title": "伊曼和哈迪寻求尽早就 IHC 在社交媒体帖子案件中的决定提出上诉",
-    "url": "https://www.dawn.com/news/2008571/imaan-hadi-seek-early-hearing-of-appeal-against-ihc-decision-in-social-media-posts-case",
-    "timestamp": "2026-06-17T23:39:29.033699+00:00",
-    "original_time": "2026-06-17T18:40:08+05:00"
+    "title": "Congo Ebola response strained a month after WHO declares international emergency",
+    "translated_title": "世界卫生组织宣布国际紧急状态一个月后，刚果埃博拉应对措施紧张",
+    "url": "https://www.dawn.com/news/2008618/congo-ebola-response-strained-a-month-after-who-declares-international-emergency",
+    "timestamp": "2026-06-18T04:10:23.673464+00:00",
+    "original_time": "2026-06-17T22:09:41+05:00"
   }
 ]
