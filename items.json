@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_6641921863316298286",
+    "id": "tweet_ForeignOfficePk_-8233497804932044374",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50departed Islamabad for Cairo, Egypt, to participate in the 4th Meeting of the R-4 Foreign Ministers of Pakistan, Saudi Arabia, Türkiye, and Egypt.\n\nOn the sidelines of the meeting, the DPM/FM will",
@@ -10,12 +10,12 @@
       "663e268ead12fe44.jpg",
       "b9c61f98f53635c0.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/6641921863316298286",
-    "timestamp": "2026-06-20T11:18:13.079800+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-8233497804932044374",
+    "timestamp": "2026-06-20T14:01:40.220708+00:00",
     "original_time": "2026-06-20T07:54:04+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-4067532012251287486",
+    "id": "tweet_ForeignOfficePk_9026625945523281955",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister / Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50received a telephone call from the Foreign Minister of Uzbekistan, Bakhtiyor Saidov@FM_Saidov. \n\nFM Saidov felicitated, on behalf of his President and himself, DPM/FM on the signing of the Islamabad",
@@ -23,392 +23,349 @@
     "images": [
       "c18b4bac7515d572.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-4067532012251287486",
-    "timestamp": "2026-06-20T11:18:13.864584+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/9026625945523281955",
+    "timestamp": "2026-06-20T14:01:40.635727+00:00",
     "original_time": "2026-06-20T07:48:46+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5385172695100700624",
+    "id": "tweet_PakTVGlobal_-6140076298430532579",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "President Asif Ali Zardari and Prime Minister Shehbaz Sharif have strongly condemned the IED blast in Bannu district, expressing deep grief over the loss of innocent lives and extending condolences to the bereaved families. Both leaders reaffirmed Pakistan’s resolve to defeat",
-    "translated_text": "总统扎尔达里和总理谢里夫强烈谴责班努区简易爆炸装置爆炸事件，对无辜生命的逝去表示深切哀悼，并向遇难者家属表示慰问。两位领导人重申巴基斯坦击败巴基斯坦的决心",
-    "images": [
-      "f5253cfba080c7dd.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-5385172695100700624",
-    "timestamp": "2026-06-20T11:19:26.714830+00:00",
-    "original_time": "2026-06-20T10:49:56+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_138176246274692314",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "US President Donald Trump signs the mechanical panel of a Qatar-gifted Boeing 747 being prepared for integration into the Air Force One fleet during a visit to Joint Base Andrews in Maryland.\n\nDisclaimer: This video is intended for informational and editorial use only. All",
-    "translated_text": "美国总统唐纳德·特朗普在访问马里兰州安德鲁斯联合基地期间，在卡塔尔赠送的一架波音 747 飞机的机械面板上签字，该飞机正准备融入空军一号机队。\n\n免责声明：该视频仅供参考和编辑用途。全部",
-    "images": [
-      "47d678cc8a398ba7.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/138176246274692314",
-    "timestamp": "2026-06-20T11:19:27.906821+00:00",
-    "original_time": "2026-06-20T10:41:46+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-7970577117036400470",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "UN High Commissioner for Human Rights Volker Turk has expressed regret over the European Union’s new migration rules, which allow expanded detention powers and the creation of “return hubs” outside the bloc.#EUMigrationPact#HumanRights#VolkerTurk#MigrationPolicy#PakistanTV",
-    "translated_text": "联合国人权事务高级专员沃尔克·特克对欧盟新的移民规则表示遗憾，该规则允许扩大拘留权力并在欧盟之外设立“返回中心”。#EUMigrationPact#HumanRights#VolkerTurk#MigrationPolicy#PakistanTV",
-    "images": [
-      "817365bdefb874c7.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-7970577117036400470",
-    "timestamp": "2026-06-20T11:19:29.074517+00:00",
-    "original_time": "2026-06-20T10:38:13+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_8105684939244571933",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The Wellington Hurricanes produced a dominant display in the Super Rugby final, thrashing the Waikato Chiefs 60-5 to claim their first title in 10 years. The home side capitalised on strong conditions, scoring four first-half tries to take a commanding 29-0 lead before sealing a",
-    "translated_text": "惠灵顿飓风队在超级橄榄球决赛中表现出色，以 60-5 击败怀卡托酋长队，夺得 10 年来的首个冠军。主队利用强大的条件，上半场连进四球，以 29-0 领先，最终锁定胜局。",
-    "images": [
-      "97d6b85eb5a439c8.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8105684939244571933",
-    "timestamp": "2026-06-20T11:19:29.998214+00:00",
-    "original_time": "2026-06-20T10:08:25+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_313126793194897545",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The UN special envoy for Myanmar has called for the immediate release of Aung San Suu Kyi, as the opposition icon spent her 81st birthday under detention inside the military-controlled nation.#Myanmar#AungSanSuuKyi#UnitedNations#HumanRights#PakistanTv",
-    "translated_text": "联合国缅甸特使呼吁立即释放昂山素季，因为这位反对派偶像在军方控制的国家内被拘留度过了 81 岁生日。#Myanmar#AungSanSuuKyi#UnitedNations#HumanRights#PakistanTv",
-    "images": [
-      "f3d4506a41327b13.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/313126793194897545",
-    "timestamp": "2026-06-20T11:19:32.668668+00:00",
-    "original_time": "2026-06-20T04:25:40+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-6010097525001335760",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The US State Department on Friday slammed Cuban economic reforms announced the previous day as \"superficial smoke signals.\"#USStateDepartment#Cuba#EconomicReforms#InternationalRelations#PakistanTv",
-    "translated_text": "美国国务院周五猛烈抨击前一天宣布的古巴经济改革，称其为“肤浅的烟雾信号”。#USStateDepartment#Cuba#EconomicReforms#InternationalRelations#PakistanTv",
-    "images": [
-      "735561967c3f9dcd.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6010097525001335760",
-    "timestamp": "2026-06-20T11:19:33.915267+00:00",
-    "original_time": "2026-06-20T04:12:28+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-1119722064800683035",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "US President Donald Trump has unveiled a replacement Air Force One aircraft gifted by Qatar, which he dubbed a \"flying White House.\"#AlexanderIsak#Sweden#WorldCup2026#FootballNews#PakistanTv",
-    "translated_text": "美国总统唐纳德·特朗普揭晓了卡塔尔赠送的一架替代空军一号飞机，他将其称为“飞行的白宫”。#AlexanderIsak#Sweden#WorldCup2026#FootballNews#PakistanTv",
-    "images": [
-      "7fa4b2a3c4ebd8bc.png",
-      "3d5102640f96a9c4.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-1119722064800683035",
-    "timestamp": "2026-06-20T11:19:35.066547+00:00",
-    "original_time": "2026-06-20T04:10:37+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-7952067791789176723",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Authorities in El Salvador seized over six tons of cocaine being transported in the Pacific Ocean, Salvadoran President Nayib Bukele.#ElSalvador#DrugBust#CocaineSeizure#NayibBukele#PakistanTv",
-    "translated_text": "萨尔瓦多总统纳伊布·布克莱 (Nayib Bukele) 表示，萨尔瓦多当局查获了超过六吨在太平洋运输的可卡因。#ElSalvador#DrugBust#CocaineSeizure#NayibBukele#PakistanTv",
-    "images": [
-      "c08f6f075aedbc17.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-7952067791789176723",
-    "timestamp": "2026-06-20T11:19:36.360730+00:00",
-    "original_time": "2026-06-20T04:06:21+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_6892823872419835139",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Striker Alexander Isak will get \"stronger and stronger\" and is smiling again, Sweden coach Graham Potter said Friday in a World Cup warning to defences.#AlexanderIsak#Sweden#FIFAWorldCup#WorldCup2026#PakistanTv",
-    "translated_text": "瑞典队主教练格雷厄姆·波特周五在世界杯防守警告中表示，前锋亚历山大·伊萨克将变得“越来越强大”，并再次微笑。#AlexanderIsak#Sweden#FIFAWorldCup#WorldCup2026#PakistanTv",
-    "images": [
-      "7fa4b2a3c4ebd8bc.png",
-      "34f4d8ba68b17684.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/6892823872419835139",
-    "timestamp": "2026-06-20T11:19:37.537769+00:00",
-    "original_time": "2026-06-20T04:02:26+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_6636681143641818632",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Australia coach Tony Popovic blamed a lethargic first half display for his team's World Cup Group D defeat against the United States.#Australia#TonyPopovic#FIFAWorldCup#Socceroos#PakistanTv",
-    "translated_text": "澳大利亚队主教练托尼·波波维奇将世界杯 D 组输给美国队的原因归咎于上半场表现不佳。#Australia#TonyPopovic#FIFAWorldCup#Socceroos#PakistanTv",
-    "images": [
-      "fa8901c4ee9f14b3.png",
-      "64f6748b9b6febc7.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/6636681143641818632",
-    "timestamp": "2026-06-20T11:19:38.331858+00:00",
-    "original_time": "2026-06-20T03:51:58+00:00"
-  },
-  {
-    "id": "tweet_Gharibabadi_8511841583273234929",
-    "type": "tweet",
-    "username": "Gharibabadi",
-    "text": "On World Refugee Day and the 75th anniversary of the 1951 Convention, this question remains: Why, despite decades of commitments and promises, does the number of displaced people in the world increase every year? As long as the great powers do not abandon war, intervention, and",
-    "translated_text": "在世界难民日和 1951 年《公约》签署 75 周年之际，这个问题仍然存在：尽管做出了数十年的承诺和承诺，为什么世界上流离失所的人数每年都在增加？只要大国不放弃战争、干涉、",
+    "text": "A tropical rainforest in the heart of an airport?\nAt Hamad International Airport’s Orchard, more than 300 trees and 25,000 plants transform a transit hub into a space for relaxation and well-being. Designed with sustainability in mind, the LEED Gold-certified concourse uses 30%",
+    "translated_text": "机场中心的热带雨林？\n在哈马德国际机场的果园里，有 300 多棵树和 25,000 株植物将交通枢纽变成了休闲和健康的空间。 LEED 金级认证的大厅在设计时考虑到了可持续发展，使用了 30% 的空间",
     "images": [],
-    "url": "https://x.com/Gharibabadi/status/8511841583273234929",
-    "timestamp": "2026-06-20T11:20:27.732083+00:00",
-    "original_time": "2026-06-20T04:18:05+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-6140076298430532579",
+    "timestamp": "2026-06-20T14:02:52.363171+00:00",
+    "original_time": "2026-06-20T14:01:42+00:00"
   },
   {
-    "id": "tweet_AJENews_-797246834084828547",
+    "id": "tweet_PakTVGlobal_-9072466319368909211",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Brazil has disabled its mobile emergency alert system after a suspected cyberattack triggered false overnight warnings across multiple regions. Authorities say federal police are investigating the breach while efforts are underway to restore the system securely.#Brazil",
+    "translated_text": "在一次可疑的网络攻击引发多个地区虚假的夜间警报后，巴西已禁用其移动紧急警报系统。当局表示，联邦警察正在调查此次违规事件，同时正在努力安全地恢复系统。#巴西",
+    "images": [
+      "9ce88045979d47fd.png",
+      "bb6359f149747397.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-9072466319368909211",
+    "timestamp": "2026-06-20T14:02:53.700134+00:00",
+    "original_time": "2026-06-20T13:45:02+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2715164621704400524",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iraq says its oil production could return to pre-war levels within one to two months as exports recover following the reopening of the Strait of Hormuz. The gradual rebound offers relief to energy markets shaken by months of conflict and disrupted shipments.#Iraq#OilProduction",
+    "translated_text": "伊拉克表示，随着霍尔木兹海峡重新开放后出口恢复，其石油产量可能在一到两个月内恢复到战前水平。逐步反弹缓解了因数月冲突和运输中断而动摇的能源市场。#Iraq#OilProduction",
+    "images": [
+      "1afa06ea5e9514f6.png",
+      "d8ae162c4e2cdf36.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2715164621704400524",
+    "timestamp": "2026-06-20T14:02:55.294431+00:00",
+    "original_time": "2026-06-20T13:43:32+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_4877454263687227000",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Headlines 6PM | Witkoff heads to Switzerland for US-Iran nuclear talks | Iran urges US to ensure Israel adheres to MoU | 28 more killed despite Israel, Hezbollah agree to Lebanon ceasefire | DPM leaves for Cairo to attend R-4 foreign ministers’ meeting.#USIranTalks",
+    "translated_text": "下午 6 点头条 |威特科夫前往瑞士参加美伊核谈判伊朗敦促美国确保以色列遵守谅解备忘录尽管以色列和真主党同意黎巴嫩停火，仍有28人丧生|副总理前往开罗参加 R-4 外长会议。#USIranTalks",
+    "images": [
+      "b2a8dff4cd8bfdbc.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/4877454263687227000",
+    "timestamp": "2026-06-20T14:02:57.588590+00:00",
+    "original_time": "2026-06-20T13:16:02+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_4421797901749380592",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar departs for Cairo to participate in the 4th meeting of the R-4 foreign ministers comprising Pakistan, Saudi Arabia, Turkiye, and Egypt. During the visit, he is scheduled to hold bilateral meetings with his",
+    "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔启程前往开罗参加由巴基斯坦、沙特阿拉伯、土耳其和埃及组成的 R-4 外长第四次会议。访问期间，他将与外长举行双边会见。",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/4421797901749380592",
+    "timestamp": "2026-06-20T14:03:01.107889+00:00",
+    "original_time": "2026-06-20T09:17:34+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-9028731968547653804",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Deputy Prime Minister Ishaq Dar received a telephone call from Uzbek Foreign Minister Bakhtiyor Saidov, who felicitated him on the signing of the Islamabad Memorandum of Understanding. He lauded the leadership of Prime Minister Shehbaz Sharif, Chief of Defence Forces Field",
+    "translated_text": "副总理伊沙克·达尔接到乌兹别克斯坦外交部长巴赫蒂约尔·赛多夫的电话，后者对伊斯兰堡谅解备忘录的签署表示祝贺。他赞扬总理谢赫巴兹·谢里夫、国防军参谋长的领导",
+    "images": [
+      "e5787ea19878b26d.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-9028731968547653804",
+    "timestamp": "2026-06-20T14:03:04.072560+00:00",
+    "original_time": "2026-06-20T09:12:22+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_8775684781116112212",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "US Special Envoy Steve Witkoff heads to Switzerland as Washington and Tehran seek to revive technical negotiations. Media reports say both sides are working to get discussions back on track after an initial peace agreement paved the way for further diplomatic engagement.",
+    "translated_text": "美国特使史蒂夫·威特科夫前往瑞士，华盛顿和德黑兰寻求重启技术谈判。媒体报道称，在初步和平协议为进一步外交接触铺平道路后，双方正在努力让讨论重回正轨。",
+    "images": [
+      "8aadd254d2a65405.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/8775684781116112212",
+    "timestamp": "2026-06-20T14:03:05.076620+00:00",
+    "original_time": "2026-06-20T08:59:22+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1164887692267704435",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Sixty-five years after its last opera, Greece's Ancient Theatre of Epidaurus revives \"Medea\", originally starring Maria Callas. Italian soprano Anna Pirozzi leads this sold-out production, opening the 2026 Athens Epidaurus Festival. With careful attention to original costumes and",
+    "translated_text": "距上一部歌剧六十五年后，希腊埃皮达鲁斯古剧院重演了最初由玛丽亚·卡拉斯主演的《美狄亚》。意大利女高音安娜·皮罗齐 (Anna Pirozzi) 领衔制作了这部售罄的作品，为 2026 年雅典埃皮达鲁斯音乐节拉开帷幕。注重原创服装和",
+    "images": [
+      "68414bc799ef3a60.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1164887692267704435",
+    "timestamp": "2026-06-20T14:03:05.478885+00:00",
+    "original_time": "2026-06-20T08:01:17+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-426188479232514760",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Bolivian President Rodrigo Paz has declared a state of emergency across the country, which had been gripped by more than six weeks of protests and road blockades. He made the announcement in a televised speech.#Bolivia#StateOfEmergency#BoliviaProtests#LatinAmerica",
+    "translated_text": "玻利维亚总统罗德里戈·帕斯宣布全国进入紧急状态，该国已经经历了六周多的抗议和道路封锁。他在电视讲话中宣布了这一消息。#Bolivia#StateOfEmergency#BoliviaProtests#LatinAmerica",
+    "images": [
+      "70170256fcef5327.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-426188479232514760",
+    "timestamp": "2026-06-20T14:03:05.875760+00:00",
+    "original_time": "2026-06-20T07:43:32+00:00"
+  },
+  {
+    "id": "tweet_AJENews_8244366844846886471",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Hezbollah MP says group has 'full right' to confront Israeli attacksLIVE updates:https://aje.news/o3j66i?update=4681422…",
-    "translated_text": "突发新闻：真主党议员表示该组织拥有“完全权利”对抗以色列的袭击实时更新：https://aje.news/o3j66i?update=4681422…",
+    "text": "UPDATE: Talks to end the war on Iran are possible on Sunday, Vance saysLIVE updates:https://aje.news/o3j66i?update=4681789…",
+    "translated_text": "更新：万斯表示，周日有可能举行结束伊朗战争的会谈实时更新：https://aje.news/o3j66i?update=4681789…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-797246834084828547",
-    "timestamp": "2026-06-20T11:20:57.262714+00:00",
-    "original_time": "2026-06-20T11:00:35+00:00"
+    "url": "https://x.com/AJENews/status/8244366844846886471",
+    "timestamp": "2026-06-20T14:04:48.937418+00:00",
+    "original_time": "2026-06-20T13:32:49+00:00"
   },
   {
-    "id": "tweet_AJENews_-4976027152168255206",
+    "id": "tweet_AJENews_-4683763045917928597",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel continues to breach Gaza ceasefire: Media officeLIVE updates:https://aje.news/o3j66i?update=4681349…",
-    "translated_text": "突发：以色列继续违反加沙停火：媒体办公室实时更新：https://aje.news/o3j66i?update=4681349…",
+    "text": "BREAKING: Iran says Strait of Hormuz closed over deadly Israeli attacks on LebanonLIVE updates:https://aje.news/o3j66i?update=4681796…",
+    "translated_text": "突发新闻：伊朗表示霍尔木兹海峡因以色列对黎巴嫩的致命袭击而关闭实时更新：https://aje.news/o3j66i?update=4681796…",
     "images": [
       "7f1a451786c84548.svg",
-      "5f8fb08016aa2c66.jpg"
+      "43316f8cab043c72.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-4976027152168255206",
-    "timestamp": "2026-06-20T11:20:57.645138+00:00",
-    "original_time": "2026-06-20T10:45:25+00:00"
+    "url": "https://x.com/AJENews/status/-4683763045917928597",
+    "timestamp": "2026-06-20T14:04:49.900215+00:00",
+    "original_time": "2026-06-20T13:22:34+00:00"
   },
   {
-    "id": "tweet_AJENews_2844933994274357112",
+    "id": "tweet_AJENews_-6320802034369902247",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel kills 16 people in southern Lebanon's Nabatieh district alone: Civil DefenceLIVE updates:https://aje.news/o3j66i?update=4681451…",
-    "translated_text": "突发事件：以色列仅在黎巴嫩南部的 Nabatieh 地区就杀害了 16 人：民防实时更新：https://aje.news/o3j66i?update=4681451…",
+    "text": "BREAKING: US Vice President JD Vance says he expects to go to Switzerland for Iran talks 'in ⁠the next couple of days'LIVE updates:https://aje.news/o3j66i?update=4681774…",
+    "translated_text": "突发新闻：美国副总统 JD 万斯表示，他预计将在“未来几天”前往瑞士参加伊朗会谈 实时更新：https://aje.news/o3j66i?update=4681774…",
     "images": [
       "7f1a451786c84548.svg",
-      "656ca9477cfe6c7d.jpg"
+      "9336b4b3e56dbfd5.jpg"
     ],
-    "url": "https://x.com/AJENews/status/2844933994274357112",
-    "timestamp": "2026-06-20T11:20:58.566243+00:00",
-    "original_time": "2026-06-20T10:42:52+00:00"
+    "url": "https://x.com/AJENews/status/-6320802034369902247",
+    "timestamp": "2026-06-20T14:04:50.811680+00:00",
+    "original_time": "2026-06-20T13:18:00+00:00"
   },
   {
-    "id": "tweet_AJENews_-7038256859760074101",
+    "id": "tweet_AJENews_-8283568216345609160",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: Israeli attacks kill 12 across Lebanon despite ceasefireLIVE updates:https://aje.news/o3j66i?update=4681344…",
-    "translated_text": "更新：尽管停火，以色列袭击仍导致黎巴嫩各地 12 人死亡实时更新：https://aje.news/o3j66i?update=4681344…",
+    "text": "BREAKING: Lebanese officials say Israeli attacks have killed at least 32 people since dawn, including women and children.LIVE updates:https://aje.news/o3j66i?update=4681725…",
+    "translated_text": "突发新闻：黎巴嫩官员称，自黎明以来，以色列的袭击已造成至少 32 人死亡，其中包括妇女和儿童。实时更新：https://aje.news/o3j66i?update=4681725...",
     "images": [
       "7f1a451786c84548.svg",
-      "9f2525438c144f39.jpg"
+      "e152a5147a31b667.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-7038256859760074101",
-    "timestamp": "2026-06-20T11:20:59.236911+00:00",
-    "original_time": "2026-06-20T09:25:27+00:00"
+    "url": "https://x.com/AJENews/status/-8283568216345609160",
+    "timestamp": "2026-06-20T14:04:52.107985+00:00",
+    "original_time": "2026-06-20T13:10:20+00:00"
   },
   {
-    "id": "tweet_AJENews_8858164621284683009",
+    "id": "tweet_AJENews_-3025899463896081055",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel 'will be caught in the flood' of Gaza: Iran commanderLIVE updates:https://aje.news/o3j66i?update=4681156…",
-    "translated_text": "突发：以色列“将陷入加沙洪水”：伊朗指挥官实时更新：https://aje.news/o3j66i?update=4681156…",
+    "text": "BREAKING: Switzerland confirms US-Iran talks continue at BurgenstockLIVE updates:https://aje.news/o3j66i?update=4681596…",
+    "translated_text": "突发新闻：瑞士确认美国与伊朗的谈判仍在 BurgenstockLIVE 更新：https://aje.news/o3j66i?update=4681596…",
     "images": [
       "7f1a451786c84548.svg",
-      "9d6d05145b6a12af.jpg"
+      "cbf2da15a4643d35.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8858164621284683009",
-    "timestamp": "2026-06-20T11:20:59.727376+00:00",
-    "original_time": "2026-06-20T08:45:24+00:00"
+    "url": "https://x.com/AJENews/status/-3025899463896081055",
+    "timestamp": "2026-06-20T14:04:52.741284+00:00",
+    "original_time": "2026-06-20T12:37:29+00:00"
   },
   {
-    "id": "tweet_CBSNews_-5426535676521671980",
+    "id": "tweet_AJENews_-3953337303559794908",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "President Trump's efforts to spruce up the Lincoln Memorial Reflecting Pool faced a snag this week, with algae turning the water a fluorescent green hue while rips appeared in an \"American Flag Blue\" surface handpicked by the president.",
-    "translated_text": "特朗普总统美化林肯纪念堂倒影池的努力本周遇到了障碍，藻类使水变成荧光绿色，而总统亲自挑选的“美国国旗蓝”表面出现了裂痕。",
+    "username": "AJENews",
+    "text": "BREAKING: Hezbollah says it is committed to truce, but promises to confront Israeli army expansionLIVE updates:https://aje.news/o3j66i?update=4681537…",
+    "translated_text": "突发新闻：真主党表示致力于停战，但承诺对抗以色列军队扩张实时更新：https://aje.news/o3j66i?update=4681537…",
     "images": [
-      "9b691d21c9b6db50.jpg"
+      "7f1a451786c84548.svg",
+      "57dd1504478fa9f9.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-5426535676521671980",
-    "timestamp": "2026-06-20T11:21:45.066399+00:00",
-    "original_time": "2026-06-20T11:00:00+00:00"
+    "url": "https://x.com/AJENews/status/-3953337303559794908",
+    "timestamp": "2026-06-20T14:04:53.496552+00:00",
+    "original_time": "2026-06-20T12:30:33+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4970066547632584083",
+    "id": "tweet_AJENews_6546328295249274241",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Lebanese state media reported at least seven people were killed by Israeli strikes overnight Saturday, hours after three diplomats briefed on the matter told CBS News that Israel and Hezbollah had reached a ceasefire agreement to end the fighting.",
-    "translated_text": "黎巴嫩官方媒体报道称，周六夜间至少有七人在以色列的袭击中丧生，几小时前，三名了解此事的外交官告诉哥伦比亚广播公司新闻，以色列和真主党已达成停火协议以结束战斗。",
+    "username": "AJENews",
+    "text": "BREAKING: Bolivia's President Rodrigo Paz has declared a state of emergency, escalating a blockade crisis that has ground the country's economy to a halt over the past 50 days.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：玻利维亚总统罗德里戈·帕斯宣布进入紧急状态，封锁危机升级，该危机在过去 50 天内使该国经济陷入停滞。更多信息请访问 http://Aljazeera.com",
     "images": [
-      "89dae9fd72c023b5.jpg"
+      "7f1a451786c84548.svg",
+      "ff95da58f7cce070.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4970066547632584083",
-    "timestamp": "2026-06-20T11:21:45.230941+00:00",
-    "original_time": "2026-06-20T10:30:00+00:00"
+    "url": "https://x.com/AJENews/status/6546328295249274241",
+    "timestamp": "2026-06-20T14:04:56.858623+00:00",
+    "original_time": "2026-06-20T06:02:39+00:00"
   },
   {
-    "id": "tweet_CBSNews_4366084027433807151",
+    "id": "tweet_AJENews_7487965761358011814",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Injured climber trapped alone on Mount Everest for days reveals how an avalanche saved his life.",
-    "translated_text": "受伤的登山者独自被困在珠穆朗玛峰几天，揭示了雪崩如何救了他的命。",
+    "username": "AJENews",
+    "text": "BREAKING: At least four Palestinians killed in Israeli attack on Gaza CityLIVE updates:https://aje.news/o3j66i?update=4680832…",
+    "translated_text": "突发新闻：至少四名巴勒斯坦人在以色列对加沙城的袭击中丧生实时更新：https://aje.news/o3j66i?update=4680832…",
     "images": [
-      "0e8012d873f2ac31.jpg"
+      "7f1a451786c84548.svg",
+      "bd564654d72881f9.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4366084027433807151",
-    "timestamp": "2026-06-20T11:21:45.401483+00:00",
-    "original_time": "2026-06-20T10:00:01+00:00"
+    "url": "https://x.com/AJENews/status/7487965761358011814",
+    "timestamp": "2026-06-20T14:04:57.385505+00:00",
+    "original_time": "2026-06-20T06:00:43+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7732421077993364617",
+    "id": "tweet_AJENews_5629789616019147161",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING:  At least five people have been killed in an Israeli airstrike on south Lebanon, despite the ceasefire agreed on Friday.LIVE updates:https://aje.news/o3j66i",
+    "translated_text": "突发新闻：尽管周五达成停火协议，但以色列对黎巴嫩南部的空袭至少造成五人死亡。实时更新：https://aje.news/o3j66i",
+    "images": [
+      "7f1a451786c84548.svg",
+      "dfd93739def9eb1b.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/5629789616019147161",
+    "timestamp": "2026-06-20T14:04:58.876452+00:00",
+    "original_time": "2026-06-20T05:30:42+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-1078484454036475727",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Death toll in Israeli attack on Gaza City building rises to threeLIVE updates:https://aje.news/o3j66i?update=4680488…",
+    "translated_text": "突发：以色列袭击加沙城大楼的死亡人数上升至三人实时更新：https://aje.news/o3j66i?update=4680488…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "864e450663e25aec.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-1078484454036475727",
+    "timestamp": "2026-06-20T14:04:59.997501+00:00",
+    "original_time": "2026-06-20T02:16:44+00:00"
+  },
+  {
+    "id": "tweet_WhiteHouse_-4228230232297849126",
+    "type": "tweet",
+    "username": "WhiteHouse",
+    "text": "THE NEW AIR FORCE ONE UNLOCKED.",
+    "translated_text": "全新空军一号已解锁。",
+    "images": [
+      "555acad9347888d2.svg",
+      "19452399dd901e4b.svg",
+      "12bfa62308442772.jpg",
+      "b9ddd1cb9708088f.jpg",
+      "a2904bad22b51ee6.jpg",
+      "2a7b1bd81802fd80.jpg"
+    ],
+    "url": "https://x.com/WhiteHouse/status/-4228230232297849126",
+    "timestamp": "2026-06-20T14:05:16.113315+00:00",
+    "original_time": "2026-06-20T13:45:21+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_8988144487866042178",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "From Chalamet to Messi, prediction markets are betting on celebrities to boost their brands.",
-    "translated_text": "从查拉梅到梅西，预测市场都押注于名人来提升他们的品牌。",
+    "text": "In 2022, at the age of 14, Dylan, of Kansas City, Missouri, was diagnosed with Stage 4 kidney cancer. Doctors gave him just eight months to live. However, he is alive today thanks to Dr. Mary Austin, who did a lot more than treat his cancer — she became his friend.",
+    "translated_text": "2022 年，14 岁时，密苏里州堪萨斯城的迪伦被诊断出患有第四期肾癌。医生认为他只剩下八个月的生命。然而，他今天还活着，要感谢玛丽·奥斯汀医生，她所做的不仅仅是治疗他的癌症，她还成为了他的朋友。",
+    "images": [
+      "02cd47d97bf7d976.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8988144487866042178",
+    "timestamp": "2026-06-20T14:05:43.469418+00:00",
+    "original_time": "2026-06-20T14:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1394972685986680584",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A company owned by a Trump donor won a $1.7 million no-bid cleaning contract for the Reflecting Pool, records show.",
+    "translated_text": "记录显示，特朗普捐助者拥有的一家公司赢得了价值 170 万美元的倒影池清洁合同。",
+    "images": [
+      "4b36063645e1796d.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1394972685986680584",
+    "timestamp": "2026-06-20T14:05:45.008242+00:00",
+    "original_time": "2026-06-20T13:45:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-3482809261594835381",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Prediction markets are betting big that celebrity endorsements will help attract more users — releasing a slew of celebrity advertisements featuring famous athletes as it seeks to capitalize on the hype around the NBA Finals and the FIFA World Cup.",
+    "translated_text": "预测市场押注名人代言将有助于吸引更多用户——发布了大量以著名运动员为主角的名人广告，试图利用 NBA 总决赛和 FIFA 世界杯的炒作。",
     "images": [
       "7d988731e4cc41bd.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7732421077993364617",
-    "timestamp": "2026-06-20T11:21:46.080227+00:00",
-    "original_time": "2026-06-20T09:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/-3482809261594835381",
+    "timestamp": "2026-06-20T14:05:46.174626+00:00",
+    "original_time": "2026-06-20T13:21:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3549106853527909766",
+    "id": "tweet_CBSNews_7350861045893862522",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "British actress accused of trying to smuggle $208 million worth of meth into Australia in charcoal bags.",
-    "translated_text": "英国女演员被指控试图用木炭袋将价值 2.08 亿美元的冰毒走私到澳大利亚。",
+    "text": "Italy's Prime Minister Giorgia Meloni said Friday she was left \"stunned\" by President Trump reportedly telling an Italian network that she had \"wanted a picture with me so badly\" at the G7 summit earlier in the week, and that he only said yes because he \"felt sorry for her.\"",
+    "translated_text": "意大利总理乔治亚·梅洛尼周五表示，她对特朗普总统在本周早些时候的七国集团峰会上告诉意大利网络的报道感到“震惊”，她“非常想与我合影”，而特朗普只是因为“为她感到难过”才答应了。",
     "images": [
-      "552a403e1c5cafbf.jpg"
+      "2d0d0f0c8c232477.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3549106853527909766",
-    "timestamp": "2026-06-20T11:21:46.599302+00:00",
-    "original_time": "2026-06-20T08:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/7350861045893862522",
+    "timestamp": "2026-06-20T14:05:47.772939+00:00",
+    "original_time": "2026-06-20T13:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3588360280462678546",
+    "id": "tweet_CBSNews_-1591793027199298797",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Mayor accused of faking her kidnapping in $2 million embezzlement scheme in Mexico.",
-    "translated_text": "市长被指控在墨西哥挪用 200 万美元的计划中伪造绑架事件。",
+    "text": "James Burrows, the co-creator of \"Cheers\" and prolific television director who worked on hits including \"Will & Grace,\" \"Frasier\" and \"The Mary Tyler Moore Show,\" has died. He was 85 years old.",
+    "translated_text": "《干杯》的联合创作者、多产电视导演詹姆斯·伯罗斯去世，他曾制作过《威尔与格蕾丝》、《欢乐一家亲》和《玛丽·泰勒·摩尔秀》等热门影片。他已经85岁了。",
     "images": [
-      "ae9df3f194a2af3d.jpg"
+      "c977305a7cfe3967.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3588360280462678546",
-    "timestamp": "2026-06-20T11:21:47.060301+00:00",
-    "original_time": "2026-06-20T07:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/-1591793027199298797",
+    "timestamp": "2026-06-20T14:05:48.069185+00:00",
+    "original_time": "2026-06-20T12:21:00+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_-392959043851835741",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "President Trump's efforts to spruce up the Lincoln Memorial Reflecting Pool faced a snag this week, as algae turned the water a fluorescent green hue and \"American Flag Blue\" paint chosen by the president appeared to peel. Mark Strassman reports.",
-    "translated_text": "特朗普总统美化林肯纪念堂倒影池的努力本周遇到了障碍，因为藻类使水变成荧光绿色，而总统选择的“美国国旗蓝”油漆似乎剥落。马克·斯特拉斯曼报道。",
-    "images": [],
-    "url": "https://x.com/CBSEveningNews/status/-392959043851835741",
-    "timestamp": "2026-06-20T11:21:49.861280+00:00",
-    "original_time": "2026-06-20T00:32:41+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_7741226704732826502",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Americans across the U.S. commemorated Juneteenth with parades and celebrations on Friday. The country’s newest federal holiday marks the day in 1865 when news of the end of slavery reached people in the deepest parts of the former Confederacy.",
-    "translated_text": "周五，美国各地的美国人通过游行和庆祝活动来纪念六月节。该国最新的联邦假日标志着 1865 年的这一天，当时奴隶制结束的消息传到了前南部邦联最深处的人们手中。",
-    "images": [
-      "72d1deb8dfec8067.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/7741226704732826502",
-    "timestamp": "2026-06-20T11:21:50.348432+00:00",
-    "original_time": "2026-06-20T00:24:03+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_8800811924689685085",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "The U.S. men’s soccer team clinched its second win of the World Cup on Friday, defeating Australia 2-0 and earning a spot in the knockout round, despite missing star attacking midfielder Christian Pulisic to a calf injury.@NicoleValdesTVreports.",
-    "translated_text": "尽管明星攻击中场克里斯蒂安·普利西奇因小腿受伤缺席，美国男足周五以 2-0 击败澳大利亚队，赢得了世界杯的第二场胜利，进入淘汰赛。@NicoleValdesTVreports。",
-    "images": [
-      "4ba78f99356d3491.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/8800811924689685085",
-    "timestamp": "2026-06-20T11:21:51.056278+00:00",
-    "original_time": "2026-06-20T00:21:01+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_1670754393487173722",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "A major fire tore through a luxury beach hotel operated by Wyndham Resorts on Friday in Bayahibe, Dominican Republic, killing at least one person. The area is a popular tourist destination for U.S. and international travelers.@lilialucianoreports.",
-    "translated_text": "周五，多米尼加共和国巴亚希贝一家由温德姆度假村经营的豪华海滩酒店发生大火，造成至少一人死亡。该地区是美国和国际旅行者的热门旅游目的地。@lilialucianoreports。",
-    "images": [
-      "575ec8d30b113940.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/1670754393487173722",
-    "timestamp": "2026-06-20T11:21:51.796679+00:00",
-    "original_time": "2026-06-20T00:13:05+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_6178187752427414151",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "More than 60 million people across the South are still under the threat of floods from what's left of Tropical Storm Arthur.@TammieSouzahas the weekend forecast.",
-    "translated_text": "南部地区仍有超过 6000 万人受到热带风暴亚瑟余波带来的洪水威胁。@TammieSouzha 是周末的天气预报。",
-    "images": [
-      "0f4c30560815054f.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/6178187752427414151",
-    "timestamp": "2026-06-20T11:21:52.447266+00:00",
-    "original_time": "2026-06-20T00:08:47+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_3300941642496811137",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Negotiations over Iran's nuclear program were set to begin Friday in Switzerland, led by Vice President JD Vance. Instead, they were put on hold after reports that Iran backed out because of the Israeli strikes in Lebanon overnight.@NikolenDCreports.",
-    "translated_text": "关于伊朗核计划的谈判定于周五在瑞士开始，由副总统万斯主持。相反，在有报道称伊朗因以色列隔夜袭击黎巴嫩而退出后，这些计划被搁置。@NikolenDCreports。",
-    "images": [
-      "0170a600a9af2c07.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/3300941642496811137",
-    "timestamp": "2026-06-20T11:21:52.890887+00:00",
-    "original_time": "2026-06-19T23:41:31+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_4016476958807455457",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "State-appointed investigators delivered their final report on last year’s Camp Mystic flood disaster, finding the 39 adults at the camp had no information or training that would have helped them prevent the deaths of campers and counselors.@JasonAllenLivereports.",
-    "translated_text": "国家指定的调查人员提交了关于去年神秘营洪水灾难的最终报告，发现营地中的 39 名成年人没有任何信息或培训可以帮助他们防止营员和辅导员的死亡。@JasonAllenLivereports。",
-    "images": [
-      "1bb61937dc75687c.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/4016476958807455457",
-    "timestamp": "2026-06-20T11:21:53.769381+00:00",
-    "original_time": "2026-06-19T23:32:51+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_2405499485906380187",
+    "id": "tweet_KellieMeyerNews_2139247357510567001",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Trump says the damage in the reflecting pool is due to “vandalism.”",
@@ -417,55 +374,75 @@
       "05a206608a9a387c.jpg",
       "b6c201e9edbcd05a.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/2405499485906380187",
-    "timestamp": "2026-06-20T11:23:10.975267+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/2139247357510567001",
+    "timestamp": "2026-06-20T14:06:19.074093+00:00",
     "original_time": "2026-06-20T02:35:35+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_7123564206847530891",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "NEW PHOTOS inside the new Air Force One.",
-    "translated_text": "新款空军一号内的新照片。",
-    "images": [
-      "19452399dd901e4b.svg",
-      "555acad9347888d2.svg",
-      "f79edc5df0f79f21.svg",
-      "7a523ee11155fa77.jpg",
-      "02c89f5a03145e67.jpg",
-      "5a4ca80b64d85255.jpg",
-      "4d8a80cd4f975075.jpg"
-    ],
-    "url": "https://x.com/KellieMeyerNews/status/7123564206847530891",
-    "timestamp": "2026-06-20T11:23:11.873110+00:00",
-    "original_time": "2026-06-20T01:39:34+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-1985506771669117716",
+    "id": "tweet_geonews_urdu_-7287773953986769191",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "لاہور میں پبلک ٹرانسپورٹ کے کرایوں میں 15 فیصد کمی",
-    "translated_text": "拉合尔公共交通票价降低 15%",
+    "text": "Hamid Mir's special show from the war-torn areas of South Lebanon today at 7:05 PM only on Geo News",
+    "translated_text": "哈米德·米尔 (Hamid Mir) 今天晚上 7:05 在黎巴嫩南部饱受战争蹂躏的地区举办的特别节目仅在 Geo News 上播出",
     "images": [],
-    "url": "https://x.com/geonews_urdu/status/-1985506771669117716",
-    "timestamp": "2026-06-20T11:24:00.272638+00:00",
-    "original_time": "2026-06-20T11:19:17+00:00"
+    "url": "https://x.com/geonews_urdu/status/-7287773953986769191",
+    "timestamp": "2026-06-20T14:07:03.946772+00:00",
+    "original_time": "2026-06-20T13:45:10+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_5973489358245685773",
+    "id": "tweet_geonews_urdu_-5703068142083398247",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "بیرسٹر گوہر کا پیٹرول کی قیمتوں میں مزید کمی اور عوام کو ریلیف دینے کا مطالبہ",
-    "translated_text": "高哈律师要求进一步降低汽油价格并减轻公众负担",
+    "text": "The image of Nawaz Sharif should also be on the 5,000-rupee note along with Quaid-e-Azam, says MPA Punjab Arshad Malik",
+    "translated_text": "MPA Punjab Arshad Malik 表示，纳瓦兹·谢里夫的形象也应该与奎德·阿扎姆一起出现在 5000 卢比纸币上",
     "images": [
-      "d84c3b8f4c027bf4.jpg"
+      "0a94a4638ce8c481.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/5973489358245685773",
-    "timestamp": "2026-06-20T11:24:01.097548+00:00",
-    "original_time": "2026-06-20T11:18:56+00:00"
+    "url": "https://x.com/geonews_urdu/status/-5703068142083398247",
+    "timestamp": "2026-06-20T14:07:04.520709+00:00",
+    "original_time": "2026-06-20T13:19:52+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_2492010720915389399",
+    "id": "tweet_geonews_urdu_2095637265852284942",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Government Announces End to Fuel Conservation and Austerity Measures",
+    "translated_text": "政府宣布终止燃油节约和紧缩措施",
+    "images": [
+      "75e61e8ac7a2f3c0.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/2095637265852284942",
+    "timestamp": "2026-06-20T14:07:05.116084+00:00",
+    "original_time": "2026-06-20T13:14:28+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_3471931071348429770",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The United States and Qatar are working on a plan to grant Iran limited access to its frozen assets, according to a U.S. newspaper.",
+    "translated_text": "据美国一家报纸报道，美国和卡塔尔正在制定一项计划，允许伊朗有限地使用其被冻结的资产。",
+    "images": [
+      "56b6217f6f01baf7.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/3471931071348429770",
+    "timestamp": "2026-06-20T14:07:06.032559+00:00",
+    "original_time": "2026-06-20T13:12:31+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-1826989506364724388",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Despite the ceasefire with Hezbollah, Israel's aggression in southern Lebanon continues",
+    "translated_text": "尽管与真主党停火，以色列对黎巴嫩南部的侵略仍在继续",
+    "images": [
+      "fd0a33d773ccf7c8.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-1826989506364724388",
+    "timestamp": "2026-06-20T14:07:06.891799+00:00",
+    "original_time": "2026-06-20T13:11:18+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1418983172551445291",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Interior Minister Mohsin Naqvi has arrived in the city of Mashhad, Iran.",
@@ -473,38 +450,36 @@
     "images": [
       "f237cde1dc6cf2cb.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/2492010720915389399",
-    "timestamp": "2026-06-20T11:24:01.651649+00:00",
+    "url": "https://x.com/geonews_urdu/status/1418983172551445291",
+    "timestamp": "2026-06-20T14:07:09.934087+00:00",
     "original_time": "2026-06-20T11:08:23+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_7600798658899184197",
+    "id": "tweet_geonews_urdu_-4880853378049669725",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "دوپہر 3 بجے کی ہیڈلائنز - 20 جون 2026",
+    "text": "3 PM Headlines - 20 June 2026",
     "translated_text": "下午 3 点头条新闻 - 2026 年 6 月 20 日",
     "images": [
       "f060c4b19efc0f8b.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/7600798658899184197",
-    "timestamp": "2026-06-20T11:24:02.282513+00:00",
+    "url": "https://x.com/geonews_urdu/status/-4880853378049669725",
+    "timestamp": "2026-06-20T14:07:11.506399+00:00",
     "original_time": "2026-06-20T11:05:29+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2062669323408655901",
+    "id": "tweet_geonews_urdu_3778547753541082860",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "The major decision in the May 9 case...\n\nPTI's key leadership sentenced to 10 years in prison each, Shah Mahmood Qureshi acquitted",
     "translated_text": "5月9日案件的重大判决...\n\nPTI 关键领导人各被判处 10 年监禁，沙阿·马哈茂德·库雷希被无罪释放",
-    "images": [
-      "66e74e3eed8b91b0.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-2062669323408655901",
-    "timestamp": "2026-06-20T11:24:03.393100+00:00",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/3778547753541082860",
+    "timestamp": "2026-06-20T14:07:12.406101+00:00",
     "original_time": "2026-06-20T10:44:29+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2364534281188585551",
+    "id": "tweet_geonews_urdu_-7529815246393334038",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Slight decrease recorded in the price of gold per tola in the country",
@@ -512,281 +487,74 @@
     "images": [
       "f30f0f34b8612581.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2364534281188585551",
-    "timestamp": "2026-06-20T11:24:04.060860+00:00",
+    "url": "https://x.com/geonews_urdu/status/-7529815246393334038",
+    "timestamp": "2026-06-20T14:07:13.232380+00:00",
     "original_time": "2026-06-20T10:42:55+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-6331257086546551080",
+    "id": "tweet_geonews_urdu_-3947935936805841726",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Completion of the Privatization Agreement of Pakistan International Airlines, Full Acquisition of National and International Approvals",
-    "translated_text": "巴基斯坦国际航空公司私有化协议完成，全面获得国内和国际批准",
+    "text": "Azad Kashmir Elections: PML-N has issued tickets for 37 out of 45 constituencies",
+    "translated_text": "克什米尔自由选举：PML-N 已为 45 个选区中的 37 个选区发放了选票",
     "images": [
-      "91aaaa33880b5ecc.jpg"
+      "bc58788e70292a0f.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-6331257086546551080",
-    "timestamp": "2026-06-20T11:24:06.761667+00:00",
-    "original_time": "2026-06-20T09:22:29+00:00"
+    "url": "https://x.com/geonews_urdu/status/-3947935936805841726",
+    "timestamp": "2026-06-20T14:07:14.592860+00:00",
+    "original_time": "2026-06-20T10:39:45+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8980937985664640723",
+    "id": "tweet_geonews_urdu_-1371132158069178378",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "What will the weather be like in Islamabad, Lahore, and Peshawar?",
-    "translated_text": "伊斯兰堡、拉合尔和白沙瓦的天气怎么样？",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/-8980937985664640723",
-    "timestamp": "2026-06-20T11:24:07.203793+00:00",
-    "original_time": "2026-06-20T09:22:26+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-9207375323464469704",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Rain and strong winds continue to sweep through various cities of the kingdom",
-    "translated_text": "降雨和强风继续席卷王国各个城市",
+    "text": "Not every criticism leveled at Israel or Netanyahu can be labeled as antisemitism, JD Vance",
+    "translated_text": "JD 万斯表示，并非所有针对以色列或内塔尼亚胡的批评都可以被贴上反犹太主义的标签",
     "images": [
-      "9197f32c174c4d1a.jpg"
+      "6d32cb8147f39eda.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-9207375323464469704",
-    "timestamp": "2026-06-20T11:24:08.621321+00:00",
-    "original_time": "2026-06-20T09:22:10+00:00"
+    "url": "https://x.com/geonews_urdu/status/-1371132158069178378",
+    "timestamp": "2026-06-20T14:07:15.749555+00:00",
+    "original_time": "2026-06-20T10:39:21+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-7277557909306882478",
+    "id": "tweet_geonews_urdu_-674799190526755796",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Balochistan has surpassed other provinces in per capita budget for education and health.",
-    "translated_text": "俾路支省的人均教育和卫生预算超过了其他省份。",
+    "text": "The privatization process of the national airline PIA has entered its final stage.",
+    "translated_text": "国家航空公司PIA的私有化进程已进入最后阶段。",
     "images": [
-      "7092cee977ef64e3.jpg"
+      "a0d0609b71d04be6.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-7277557909306882478",
-    "timestamp": "2026-06-20T11:24:09.282088+00:00",
-    "original_time": "2026-06-20T09:20:36+00:00"
+    "url": "https://x.com/geonews_urdu/status/-674799190526755796",
+    "timestamp": "2026-06-20T14:07:16.873972+00:00",
+    "original_time": "2026-06-20T10:39:07+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2743739209746990613",
+    "id": "tweet_geonews_urdu_2294666114091114695",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Appeal to abandon the obstinacy of the banned Action Committee of the Transport Union in Mirpur and adopt the path of negotiations",
-    "translated_text": "呼吁放弃米尔普尔运输联盟行动委员会被取缔的顽固态度，采取谈判途径",
+    "text": "Scenes of devastation in Lebanon due to ceasefire violations...\n\nLive coverage from Beirut by Hamid Mir during the flight of Israeli drones",
+    "translated_text": "黎巴嫩因违反停火协议而造成的破坏场景......\n\n哈米德·米尔 (Hamid Mir) 在以色列无人机飞行期间从贝鲁特进行现场报道",
     "images": [
-      "28cba42cb9749207.jpg"
+      "ac0d70e391a8bb30.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2743739209746990613",
-    "timestamp": "2026-06-20T11:24:09.832874+00:00",
-    "original_time": "2026-06-20T09:17:54+00:00"
+    "url": "https://x.com/geonews_urdu/status/2294666114091114695",
+    "timestamp": "2026-06-20T14:07:17.973310+00:00",
+    "original_time": "2026-06-20T10:38:57+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2390405189520568418",
+    "id": "tweet_geonews_urdu_2604877246203539145",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Extremists of the banned committee have abducted the son of Nasim Kiani, a resident of Rawalakot and a retired officer of the Pakistan Army.",
-    "translated_text": "被禁止委员会的极端分子绑架了拉瓦拉科特居民、巴基斯坦陆军退役军官纳西姆·基亚尼 (Nasim Kiani) 的儿子。",
+    "text": "May 9 Case: Yasmin Rashid, Mahmoud Al-Rashid, Umar Cheema, and Ijaz Chaudhry sentenced to 10, 10 years in prison, Shah Mahmood acquitted",
+    "translated_text": "5 月 9 日案件：Yasmin Rashid、Mahmoud Al-Rashid、Umar Cheema 和 Ijaz Chaudhry 被判处 10 年监禁，Shah Mahmood 无罪释放",
     "images": [
-      "7399578699cc9ca8.jpg"
+      "bc70738cb3771699.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2390405189520568418",
-    "timestamp": "2026-06-20T11:24:10.373354+00:00",
-    "original_time": "2026-06-20T09:17:36+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_6133484085501962318",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Prime Minister Shehbaz Sharif condemns the Bannu blast, expresses grief over the loss of precious lives",
-    "translated_text": "谢赫巴兹·谢里夫总理谴责班努爆炸事件，对宝贵生命的逝去表示悲痛",
-    "images": [
-      "df0ccf2197e7910d.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/6133484085501962318",
-    "timestamp": "2026-06-20T11:24:11.209166+00:00",
-    "original_time": "2026-06-20T09:17:16+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-7588439496432458477",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Condemnation of IED blasts in the President's bungalows, expression of grief over the loss of innocent lives",
-    "translated_text": "谴责总统平房简易爆炸装置爆炸事件，对无辜生命的逝去表示悲痛",
-    "images": [
-      "bb2392d1a3081470.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-7588439496432458477",
-    "timestamp": "2026-06-20T11:24:11.930790+00:00",
-    "original_time": "2026-06-20T09:16:59+00:00"
-  },
-  {
-    "id": "article_d3fc928d953c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan’s moment",
-    "translated_title": "巴基斯坦的时刻",
-    "url": "https://www.dawn.com/news/2009413",
-    "timestamp": "2026-06-20T11:24:54.478965+00:00",
-    "original_time": "2026-06-20T05:07:41+05:00"
-  },
-  {
-    "id": "article_8527013a3571",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Winning the Indus lawfare",
-    "translated_title": "赢得梧桐法律",
-    "url": "https://www.dawn.com/news/2009409",
-    "timestamp": "2026-06-20T11:25:03.035743+00:00",
-    "original_time": "2026-06-20T05:07:41+05:00"
-  },
-  {
-    "id": "article_e064edcdde82",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Punjab witnesses ‘lower’ poliovirus circulation",
-    "translated_title": "旁遮普邦见证脊髓灰质炎病毒传播“降低”",
-    "url": "https://www.dawn.com/news/2009321/punjab-witnesses-lower-poliovirus-circulation",
-    "timestamp": "2026-06-20T11:25:19.199061+00:00",
-    "original_time": "2026-06-20T05:08:58+05:00"
-  },
-  {
-    "id": "article_89cce7bbaf71",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Khamenei’s last rites to begin on July 4",
-    "translated_title": "哈梅内伊的最后仪式将于7月4日开始",
-    "url": "https://www.dawn.com/news/2009374/khameneis-last-rites-to-begin-on-july-4",
-    "timestamp": "2026-06-20T11:25:25.780063+00:00",
-    "original_time": "2026-06-20T05:08:47+05:00"
-  },
-  {
-    "id": "article_93bccecc029c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP BUDGET 2026-27: CM Afridi promises financial stability",
-    "translated_title": "2026-27 年 KP 预算：CM Afridi 承诺财务稳定",
-    "url": "https://www.dawn.com/news/2009303",
-    "timestamp": "2026-06-20T11:25:29.552041+00:00",
-    "original_time": "2026-06-20T05:09:13+05:00"
-  },
-  {
-    "id": "article_32e8bf318da9",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Two months on, fate of 10 Pakistani sailors held by Somali pirates hangs in balance",
-    "translated_title": "两个月后，被索马里海盗劫持的 10 名巴基斯坦水手的命运悬而未决",
-    "url": "https://www.dawn.com/news/2009343/two-months-on-fate-of-10-pakistani-sailors-held-by-somali-pirates-hangs-in-balance",
-    "timestamp": "2026-06-20T11:25:33.090332+00:00",
-    "original_time": "2026-06-20T05:08:52+05:00"
-  },
-  {
-    "id": "article_82f5b2a3dc9a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt offers 20pc returns to woo buyers",
-    "translated_title": "政府提供20%的回报以吸引买家",
-    "url": "https://www.dawn.com/news/2009365",
-    "timestamp": "2026-06-20T11:25:40.498810+00:00",
-    "original_time": "2026-06-20T05:08:32+05:00"
-  },
-  {
-    "id": "article_e0be09bbdd06",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "BALOCHISTAN BUDGET 2026-27: Opposition MPAs oppose Bugti-laid budget",
-    "translated_title": "俾路支省预算 2026-27：反对派 MPA 反对 Bugti 制定的预算",
-    "url": "https://www.dawn.com/news/2009390",
-    "timestamp": "2026-06-20T11:25:47.381533+00:00",
-    "original_time": "2026-06-20T05:08:07+05:00"
-  },
-  {
-    "id": "article_ae489b65e02f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Weekly inflation jumps 15.28pc",
-    "translated_title": "每周通胀跃升 15.28%",
-    "url": "https://www.dawn.com/news/2009361/weekly-inflation-jumps-1528pc",
-    "timestamp": "2026-06-20T11:25:57.418871+00:00",
-    "original_time": "2026-06-20T05:08:32+05:00"
-  },
-  {
-    "id": "article_91e1924f871c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "7 dead, 3 injured in back-to-back blasts in KP's Bannu",
-    "translated_title": "KP班努连续发生爆炸，造成7人死亡、3人受伤",
-    "url": "https://www.dawn.com/news/2009439/7-dead-3-injured-in-back-to-back-blasts-in-kps-bannu",
-    "timestamp": "2026-06-20T11:26:08.606555+00:00",
-    "original_time": "2026-06-20T10:36:42+05:00"
-  },
-  {
-    "id": "article_7458004c3a46",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Terrorist killed after quadcopter strike on Lakki checkpost",
-    "translated_title": "四轴飞行器袭击拉基检查站后恐怖分子身亡",
-    "url": "https://www.dawn.com/news/2009310/terrorist-killed-after-quadcopter-strike-on-lakki-checkpost",
-    "timestamp": "2026-06-20T11:26:18.119603+00:00",
-    "original_time": "2026-06-20T05:09:13+05:00"
-  },
-  {
-    "id": "article_fbbf550eee48",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2009454/budget-fy27-sets-the-foundation-to-accelerate-sustainable-growth-seen-in-past-2-years-aurangzeb",
-    "timestamp": "2026-06-20T11:26:37.146700+00:00",
-    "original_time": "2026-06-20T11:26:37.146625+00:00"
-  },
-  {
-    "id": "article_0ab1072dc062",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Two ISPs ordered to pay Rs50,000 as compensation to subscriber for faulty internet services in Karachi",
-    "translated_title": "卡拉奇两家互联网服务提供商因互联网服务故障而被勒令支付 5 万卢比作为赔偿",
-    "url": "https://www.dawn.com/news/2009338/two-isps-ordered-to-pay-rs50000-as-compensation-to-subscriber-for-faulty-internet-services-in-karachi",
-    "timestamp": "2026-06-20T11:26:41.818585+00:00",
-    "original_time": "2026-06-20T05:08:53+05:00"
-  },
-  {
-    "id": "article_685afc5236fb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP BUDGET 2026-27 : No funds for Centre sans Imran meeting, says Afridi",
-    "translated_title": "2026-27 年 KP 预算：阿夫里迪表示，没有伊姆兰会议，中心就没有资金",
-    "url": "https://www.dawn.com/news/2009393",
-    "timestamp": "2026-06-20T11:26:45.958481+00:00",
-    "original_time": "2026-06-20T05:07:55+05:00"
-  },
-  {
-    "id": "article_5143601c5c99",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PML-N unveils candidates for 37 AJK seats, sidelines some veterans",
-    "translated_title": "PML-N 公布了 37 个 AJK 席位的候选人，一些退伍军人被排除在外",
-    "url": "https://www.dawn.com/news/2009288/pml-n-unveils-candidates-for-37-ajk-seats-sidelines-some-veterans",
-    "timestamp": "2026-06-20T11:26:57.038035+00:00",
-    "original_time": "2026-06-20T05:09:04+05:00"
-  },
-  {
-    "id": "article_e2eb8710a1f7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Inefficient by design",
-    "translated_title": "设计效率低下",
-    "url": "https://www.dawn.com/news/2009410",
-    "timestamp": "2026-06-20T11:27:16.222124+00:00",
-    "original_time": "2026-06-20T05:07:41+05:00"
-  },
-  {
-    "id": "article_bd53e545f4b5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Political, rights activists criticise budget, demolition of slums",
-    "translated_title": "政治、维权人士批评预算和拆除贫民窟",
-    "url": "https://www.dawn.com/news/2009289/political-rights-activists-criticise-budget-demolition-of-slums",
-    "timestamp": "2026-06-20T11:27:20.202471+00:00",
-    "original_time": "2026-06-20T05:09:04+05:00"
+    "url": "https://x.com/geonews_urdu/status/2604877246203539145",
+    "timestamp": "2026-06-20T14:07:19.302014+00:00",
+    "original_time": "2026-06-20T10:24:53+00:00"
   },
   {
     "id": "article_6bc50040f1ba",
@@ -795,428 +563,18 @@
     "title": "Pakistan successfully brokered peace between the US and Iran. Can it now reap the dividend?",
     "translated_title": "巴基斯坦成功地促成了美国和伊朗之间的和平。现在它能获得红利吗？",
     "url": "https://www.dawn.com/news/2009462/pakistan-successfully-brokered-peace-between-the-us-and-iran-can-it-now-reap-the-dividend",
-    "timestamp": "2026-06-20T11:27:25.357544+00:00",
+    "timestamp": "2026-06-20T14:08:54.794028+00:00",
     "original_time": "2026-06-20T14:32:07+05:00"
   },
   {
     "id": "article_2ae75ef39d9a",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
+    "title": "Bolivian president declares state of emergency after weeks of protests demanding his resignation",
+    "translated_title": "玻利维亚总统在抗议数周要求辞职后宣布进入紧急状态",
     "url": "https://www.dawn.com/news/2009469/bolivian-president-declares-state-of-emergency-after-weeks-of-protests-demanding-his-resignation",
-    "timestamp": "2026-06-20T11:27:42.065934+00:00",
-    "original_time": "2026-06-20T11:27:42.065913+00:00"
-  },
-  {
-    "id": "article_02214d5a14ea",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Bangladesh PM to visit Malaysia, China on first foreign tour",
-    "translated_title": "孟加拉国总理首次出访访问马来西亚和中国",
-    "url": "https://www.dawn.com/news/2009465/bangladesh-pm-to-visit-malaysia-china-on-first-foreign-tour",
-    "timestamp": "2026-06-20T11:27:45.994384+00:00",
-    "original_time": "2026-06-20T14:20:16+05:00"
-  },
-  {
-    "id": "article_05e403cfe3c2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Missing boy’s body recovered from Leh Nullah",
-    "translated_title": "失踪男孩的尸体从 Leh Nullah 找到",
-    "url": "https://www.dawn.com/news/2009295/missing-boys-body-recovered-from-leh-nullah",
-    "timestamp": "2026-06-20T11:27:53.904645+00:00",
-    "original_time": "2026-06-20T05:09:04+05:00"
-  },
-  {
-    "id": "article_e3dea05ce4ff",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Brazil cruise past Haiti to re-ignite World Cup campaign",
-    "translated_title": "巴西横渡海地重燃世界杯征程",
-    "url": "https://www.dawn.com/news/2009421/brazil-cruise-past-haiti-to-re-ignite-world-cup-campaign",
-    "timestamp": "2026-06-20T11:28:01.211793+00:00",
-    "original_time": "2026-06-20T07:52:12+05:00"
-  },
-  {
-    "id": "article_d5e8831e2da7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Citizens continue to suffer as transporters’ strike enters second day in Karachi",
-    "translated_title": "卡拉奇运输商罢工进入第二天，公民继续遭受苦难",
-    "url": "https://www.dawn.com/news/2009335/citizens-continue-to-suffer-as-transporters-strike-enters-second-day-in-karachi",
-    "timestamp": "2026-06-20T11:28:06.270370+00:00",
-    "original_time": "2026-06-20T05:08:53+05:00"
-  },
-  {
-    "id": "article_7299f1a6d2bf",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pentagon needs $80bn for Iran war,  other bills, WSJ reports",
-    "translated_title": "据《华尔街日报》报道，五角大楼需要 800 亿美元用于伊朗战争和其他法案",
-    "url": "https://www.dawn.com/news/2009367/pentagon-needs-80bn-for-iran-war-other-bills-wsj-reports",
-    "timestamp": "2026-06-20T11:28:09.902157+00:00",
-    "original_time": "2026-06-20T05:08:02+05:00"
-  },
-  {
-    "id": "article_45dfb33c323e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Europe swelters as temperature records tumble",
-    "translated_title": "欧洲气温创历史新高，闷热难耐",
-    "url": "https://www.dawn.com/news/2009375/europe-swelters-as-temperature-records-tumble",
-    "timestamp": "2026-06-20T11:28:14.029591+00:00",
-    "original_time": "2026-06-20T05:08:47+05:00"
-  },
-  {
-    "id": "article_6bacd88a856e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Dar heads to Cairo for quadrilateral foreign ministers' meeting",
-    "translated_title": "达尔前往开罗参加四方外长会议",
-    "url": "https://www.dawn.com/news/2009459/dar-heads-to-cairo-for-quadrilateral-foreign-ministers-meeting",
-    "timestamp": "2026-06-20T11:28:17.874465+00:00",
-    "original_time": "2026-06-20T13:34:50+05:00"
-  },
-  {
-    "id": "article_09881793caaf",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Not all men?",
-    "translated_title": "不都是男人吗？",
-    "url": "https://www.dawn.com/news/2009407/not-all-men",
-    "timestamp": "2026-06-20T11:28:27.345769+00:00",
-    "original_time": "2026-06-20T05:07:41+05:00"
-  },
-  {
-    "id": "article_24048c8155da",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Austerity measures terminated, markets time retained",
-    "translated_title": "紧缩措施终止，市场时间得以保留",
-    "url": "https://www.dawn.com/news/2009322/austerity-measures-terminated-markets-time-retained",
-    "timestamp": "2026-06-20T11:28:40.797410+00:00",
-    "original_time": "2026-06-20T05:08:58+05:00"
-  },
-  {
-    "id": "article_0d4950b267a5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Lebanon front remains unquiet despite ceasefire",
-    "translated_title": "尽管停火，黎巴嫩战线仍不平静",
-    "url": "https://www.dawn.com/news/2009397/lebanon-front-remains-unquiet-despite-ceasefire",
-    "timestamp": "2026-06-20T11:28:47.614575+00:00",
-    "original_time": "2026-06-20T05:07:55+05:00"
-  },
-  {
-    "id": "article_7fa2a2d63842",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "India probes graft charges at temple built on Babri mosque",
-    "translated_title": "印度调查巴布里清真寺修建寺庙的贪污指控",
-    "url": "https://www.dawn.com/news/2009368/india-probes-graft-charges-at-temple-built-on-babri-mosque",
-    "timestamp": "2026-06-20T11:28:55.475894+00:00",
-    "original_time": "2026-06-20T05:08:02+05:00"
-  },
-  {
-    "id": "article_f63511fbd38c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Free burial, food service inaugurated in Rawalpindi",
-    "translated_title": "拉瓦尔品第推出免费丧葬和餐饮服务",
-    "url": "https://www.dawn.com/news/2009294/free-burial-food-service-inaugurated-in-rawalpindi",
-    "timestamp": "2026-06-20T11:28:59.201842+00:00",
-    "original_time": "2026-06-20T05:09:04+05:00"
-  },
-  {
-    "id": "article_13090e678f6b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Sindh Assembly begins post-budget debate amid opposition protest",
-    "translated_title": "信德省议会在反对派抗议中开始预算后辩论",
-    "url": "https://www.dawn.com/news/2009339/sindh-assembly-begins-post-budget-debate-amid-opposition-protest",
-    "timestamp": "2026-06-20T11:29:02.565270+00:00",
-    "original_time": "2026-06-20T05:08:52+05:00"
-  },
-  {
-    "id": "article_c17d3118dc41",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Judges who lose public trust should be removed: SC",
-    "translated_title": "SC：失去公众信任的法官应被罢免",
-    "url": "https://www.dawn.com/news/2009391/judges-who-lose-public-trust-should-be-removed-sc",
-    "timestamp": "2026-06-20T11:29:06.662239+00:00",
-    "original_time": "2026-06-20T05:08:07+05:00"
-  },
-  {
-    "id": "article_148b305f30c6",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008179/england-to-give-debuts-to-jordan-cox-and-sonny-baker-against-new-zealand",
-    "timestamp": "2026-06-20T11:29:39.874165+00:00",
-    "original_time": "2026-06-20T11:29:39.874144+00:00"
-  },
-  {
-    "id": "article_6565616317f4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Acid attack victim Mahnoor to get treatment abroad",
-    "translated_title": "酸袭击受害者马努尔出国接受治疗",
-    "url": "https://www.dawn.com/news/2009386",
-    "timestamp": "2026-06-20T11:29:50.132949+00:00",
-    "original_time": "2026-06-20T05:08:08+05:00"
-  },
-  {
-    "id": "article_0605081c8ea5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "May 9 riots: Lahore ATC acquits Shah Mahmood Qureshi, sentences 4 leaders, others to 10 years",
-    "translated_title": "5 月 9 日骚乱：拉合尔 ATC 宣判 Shah Mahmood Qureshi 无罪，判处 4 名领导人和其他人 10 年徒刑",
-    "url": "https://www.dawn.com/news/2009472/may-9-riots-lahore-atc-acquits-shah-mahmood-qureshi-sentences-4-leaders-others-to-10-years",
-    "timestamp": "2026-06-20T11:29:54.332587+00:00",
-    "original_time": "2026-06-20T16:13:59+05:00"
-  },
-  {
-    "id": "article_e86565b39230",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Karachi Port handles record containers",
-    "translated_title": "卡拉奇港集装箱吞吐量创历史新高",
-    "url": "https://www.dawn.com/news/2009363/karachi-port-handles-record-containers",
-    "timestamp": "2026-06-20T11:30:05.434634+00:00",
-    "original_time": "2026-06-20T05:08:32+05:00"
-  },
-  {
-    "id": "article_fb762010db32",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Paraguay save FIFA World Cup skins with win over eliminated Turkiye",
-    "translated_title": "巴拉圭战胜土耳其队，保住世界杯资格",
-    "url": "https://www.dawn.com/news/2009440/paraguay-save-fifa-world-cup-skins-with-win-over-eliminated-turkiye",
-    "timestamp": "2026-06-20T11:30:16.957479+00:00",
-    "original_time": "2026-06-20T10:44:53+05:00"
-  },
-  {
-    "id": "article_09b8c8f6f82f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "The Sun may not engulf Earth after all, scientists say",
-    "translated_title": "科学家称太阳可能最终不会吞噬地球",
-    "url": "https://www.dawn.com/news/2009372/the-sun-may-not-engulf-earth-after-all-scientists-say",
-    "timestamp": "2026-06-20T11:30:27.231262+00:00",
-    "original_time": "2026-06-20T05:08:47+05:00"
-  },
-  {
-    "id": "article_74a0c5f69bef",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "QS university rankings expose regional disparities in Pakistan's higher education",
-    "translated_title": "QS大学排名揭示了巴基斯坦高等教育的地区差异",
-    "url": "https://www.dawn.com/news/2009327/qs-university-rankings-expose-regional-disparities-in-pakistans-higher-education",
-    "timestamp": "2026-06-20T11:30:35.002317+00:00",
-    "original_time": "2026-06-20T05:08:58+05:00"
-  },
-  {
-    "id": "article_7e67fea230da",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "In 'Trump Heights', Israelis have not abandoned US president despite Iran deal",
-    "translated_title": "在“特朗普高地”中，尽管与伊朗达成协议，以色列人并没有放弃美国总统",
-    "url": "https://www.dawn.com/news/2009447/in-trump-heights-israelis-have-not-abandoned-us-president-despite-iran-deal",
-    "timestamp": "2026-06-20T11:30:39.828261+00:00",
-    "original_time": "2026-06-20T11:37:02+05:00"
-  },
-  {
-    "id": "article_67bc1f16b2ba",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "One killed as two trains collide in Britain",
-    "translated_title": "英国两列火车相撞 造成一人死亡",
-    "url": "https://www.dawn.com/news/2009376/one-killed-as-two-trains-collide-in-britain",
-    "timestamp": "2026-06-20T11:30:43.830056+00:00",
-    "original_time": "2026-06-20T05:08:47+05:00"
-  },
-  {
-    "id": "article_474225ba2f80",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Paraguay's Almiron becomes first player to be sent off under new FIFA 'mouth-covering' rule",
-    "translated_title": "巴拉圭球员阿尔米隆成为首位因国际足联新“捂嘴”规则被罚下场的球员",
-    "url": "https://www.dawn.com/news/2009436/paraguays-almiron-becomes-first-player-to-be-sent-off-under-new-fifa-mouth-covering-rule",
-    "timestamp": "2026-06-20T11:30:49.870163+00:00",
-    "original_time": "2026-06-20T10:28:19+05:00"
-  },
-  {
-    "id": "article_e85ce25f549c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "AJK puts 147 JAAC activists, supporters on Fourth Schedule",
-    "translated_title": "AJK 将 147 名 JAAC 活动人士、支持者列入第四时间表",
-    "url": "https://www.dawn.com/news/2009385/ajk-puts-147-jaac-activists-supporters-on-fourth-schedule",
-    "timestamp": "2026-06-20T11:30:53.109101+00:00",
-    "original_time": "2026-06-20T05:08:08+05:00"
-  },
-  {
-    "id": "article_812f7100a3b8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "BUDGET 2026-27 : NA panel rejects FBR bid to  access bank account data",
-    "translated_title": "2026-27 年预算：NA 小组拒绝 FBR 访问银行账户数据的出价",
-    "url": "https://www.dawn.com/news/2009395",
-    "timestamp": "2026-06-20T11:30:57.399686+00:00",
-    "original_time": "2026-06-20T05:07:55+05:00"
-  },
-  {
-    "id": "article_72b71aee2aae",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Cell established to curb online hate content in Punjab",
-    "translated_title": "成立小组以遏制旁遮普邦的在线仇恨内容",
-    "url": "https://www.dawn.com/news/2009325/cell-established-to-curb-online-hate-content-in-punjab",
-    "timestamp": "2026-06-20T11:31:01.297880+00:00",
-    "original_time": "2026-06-20T05:08:58+05:00"
-  },
-  {
-    "id": "article_fabeb115c60f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2009144/french-court-confirms-morocco-and-psg-player-hakimi-to-stand-trial-on-rape-charge",
-    "timestamp": "2026-06-20T11:31:26.382604+00:00",
-    "original_time": "2026-06-20T11:31:26.382573+00:00"
-  },
-  {
-    "id": "article_8124f9c903c2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Saibari early strike gives Morocco World Cup win over Scotland",
-    "translated_title": "西巴里提前进球帮助摩洛哥战胜苏格兰",
-    "url": "https://www.dawn.com/news/2009414/saibari-early-strike-gives-morocco-world-cup-win-over-scotland",
-    "timestamp": "2026-06-20T11:31:35.460936+00:00",
-    "original_time": "2026-06-20T05:29:16+05:00"
-  },
-  {
-    "id": "article_393576f07eb8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "High court grants bail to ex-auditor in Kohistan corruption case",
-    "translated_title": "高等法院批准科希斯坦腐败案前审计员保释",
-    "url": "https://www.dawn.com/news/2009307/high-court-grants-bail-to-ex-auditor-in-kohistan-corruption-case",
-    "timestamp": "2026-06-20T11:31:41.351984+00:00",
-    "original_time": "2026-06-20T05:09:13+05:00"
-  },
-  {
-    "id": "article_50aa61756e92",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PM calls for economically stable Afghanistan for refugees’ resettlement",
-    "translated_title": "总理呼吁阿富汗经济稳定以安置难民",
-    "url": "https://www.dawn.com/news/2009392/pm-calls-for-economically-stable-afghanistan-for-refugees-resettlement",
-    "timestamp": "2026-06-20T11:31:45.226467+00:00",
-    "original_time": "2026-06-20T05:08:07+05:00"
-  },
-  {
-    "id": "article_620ca3ab9c53",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2009387/gilgit-baltistan-ec-issues-notifications-for-21-seats",
-    "timestamp": "2026-06-20T11:32:26.108843+00:00",
-    "original_time": "2026-06-20T11:32:26.108820+00:00"
-  },
-  {
-    "id": "article_ef9769492496",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Cave homes offer respite from heat",
-    "translated_title": "洞穴屋提供避暑的好去处",
-    "url": "https://www.dawn.com/news/2009380/cave-homes-offer-respite-from-heat",
-    "timestamp": "2026-06-20T11:32:39.050686+00:00",
-    "original_time": "2026-06-20T05:08:46+05:00"
-  },
-  {
-    "id": "article_d638153f46aa",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Ammad denied UK visa",
-    "translated_title": "阿玛德英国签证被拒",
-    "url": "https://www.dawn.com/news/2009350",
-    "timestamp": "2026-06-20T11:32:44.350687+00:00",
-    "original_time": "2026-06-20T05:08:41+05:00"
-  },
-  {
-    "id": "article_4735ad8810e3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "3 citizens kidnapped in Bannu",
-    "translated_title": "班努3名公民被绑架",
-    "url": "https://www.dawn.com/news/2009305/3-citizens-kidnapped-in-bannu",
-    "timestamp": "2026-06-20T11:32:50.848850+00:00",
-    "original_time": "2026-06-20T05:09:13+05:00"
-  },
-  {
-    "id": "article_27ee08f13cf3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "‘Alter-Ego’: an Italian hospital’s little robot carer",
-    "translated_title": "“另一个自我”：意大利一家医院的小机器人护理人员",
-    "url": "https://www.dawn.com/news/2009378/alter-ego-an-italian-hospitals-little-robot-carer",
-    "timestamp": "2026-06-20T11:33:11.012344+00:00",
-    "original_time": "2026-06-20T05:08:47+05:00"
-  },
-  {
-    "id": "article_45b6eb472cf8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "JCP approves interview rules for judicial appointments",
-    "translated_title": "JCP批准司法任命面试规则",
-    "url": "https://www.dawn.com/news/2009389/jcp-approves-interview-rules-for-judicial-appointments",
-    "timestamp": "2026-06-20T11:33:15.251982+00:00",
-    "original_time": "2026-06-20T05:08:07+05:00"
-  },
-  {
-    "id": "article_801c4870c48a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Gaza remains in peril, Pakistan reminds UN Security Council",
-    "translated_title": "巴基斯坦提醒联合国安理会，加沙仍然处于危险之中",
-    "url": "https://www.dawn.com/news/2009366/gaza-remains-in-peril-pakistan-reminds-un-security-council",
-    "timestamp": "2026-06-20T11:33:23.872253+00:00",
-    "original_time": "2026-06-20T05:08:02+05:00"
-  },
-  {
-    "id": "article_0337967d7e53",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP BUDGET 2026-27 : KP unveils Rs524.3bn development outlay",
-    "translated_title": "2026-27 年 KP 预算：KP 公布 5,243 亿卢比的发展支出",
-    "url": "https://www.dawn.com/news/2009364/kp-budget-2026-27-kp-unveils-rs5243bn-development-outlay",
-    "timestamp": "2026-06-20T11:33:31.610996+00:00",
-    "original_time": "2026-06-20T05:08:32+05:00"
-  },
-  {
-    "id": "article_9614400c4a5e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "47 killed as Israeli strikes on Lebanon continue unabated",
-    "translated_title": "以色列对黎巴嫩的袭击持续有增无减，造成47人死亡",
-    "url": "https://www.dawn.com/news/2009370/47-killed-as-israeli-strikes-on-lebanon-continue-unabated",
-    "timestamp": "2026-06-20T11:33:41.161773+00:00",
-    "original_time": "2026-06-20T05:08:02+05:00"
-  },
-  {
-    "id": "article_e31089758159",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "'Flying White House': Trump unveils Qatar-gifted Air Force One replacement",
-    "translated_title": "“飞行白宫”：特朗普推出卡塔尔赠送的空军一号替代者",
-    "url": "https://www.dawn.com/news/2009437/flying-white-house-trump-unveils-qatar-gifted-air-force-one-replacement",
-    "timestamp": "2026-06-20T11:33:48.354617+00:00",
-    "original_time": "2026-06-20T10:26:10+05:00"
+    "timestamp": "2026-06-20T14:09:06.697823+00:00",
+    "original_time": "2026-06-20T15:05:27+05:00"
   },
   {
     "id": "article_5039849b9a1c",
@@ -1225,38 +583,158 @@
     "title": "TRG: The company we built, and what it has delivered",
     "translated_title": "TRG：我们建立的公司及其交付的成果",
     "url": "https://www.dawn.com/news/2006118/trg-the-company-we-built-and-what-it-has-delivered",
-    "timestamp": "2026-06-20T11:33:52.278313+00:00",
+    "timestamp": "2026-06-20T14:09:11.544123+00:00",
     "original_time": "2026-06-20T10:00:03+05:00"
   },
   {
-    "id": "article_e6689b74a509",
+    "id": "article_f138b2974400",
     "type": "article",
     "source": "www.dawn.com",
     "title": "www.dawn.com",
     "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2008680/stocks-manage-modest-gains-in-volatile-session",
-    "timestamp": "2026-06-20T11:34:13.518279+00:00",
-    "original_time": "2026-06-20T11:34:13.518258+00:00"
+    "url": "https://www.dawn.com/news/2008644/us-official-unveils-14-point-iran-agreement-to-halt-conflict-and-reopen-strait-of-hormuz",
+    "timestamp": "2026-06-20T14:09:58.302612+00:00",
+    "original_time": "2026-06-20T14:09:58.302579+00:00"
   },
   {
-    "id": "article_1d5108d1f9e1",
+    "id": "article_e31089758159",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Peddlers prosecuted while drug kingpins evade justice: SC",
-    "translated_title": "商贩被起诉而毒枭逃避司法：SC",
-    "url": "https://www.dawn.com/news/2009340/peddlers-prosecuted-while-drug-kingpins-evade-justice-sc",
-    "timestamp": "2026-06-20T11:34:17.828387+00:00",
-    "original_time": "2026-06-20T05:08:52+05:00"
+    "title": "'Flying White House': Trump unveils Qatar-gifted Air Force One replacement",
+    "translated_title": "“飞行白宫”：特朗普推出卡塔尔赠送的空军一号替代者",
+    "url": "https://www.dawn.com/news/2009437/flying-white-house-trump-unveils-qatar-gifted-air-force-one-replacement",
+    "timestamp": "2026-06-20T14:10:08.314358+00:00",
+    "original_time": "2026-06-20T10:26:10+05:00"
   },
   {
-    "id": "article_3a7a61a9ef8c",
+    "id": "article_1e5eeb043d6b",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Renshaw leads Aussies to T20 series win over Bangladesh",
-    "translated_title": "伦肖带领澳大利亚队在 T20 系列赛中战胜孟加拉国队",
-    "url": "https://www.dawn.com/news/2009344/renshaw-leads-aussies-to-t20-series-win-over-bangladesh",
-    "timestamp": "2026-06-20T11:34:25.808710+00:00",
-    "original_time": "2026-06-20T05:08:41+05:00"
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008862/uae-sets-minimum-social-media-age-at-15-mandates-age-checks",
+    "timestamp": "2026-06-20T14:10:50.052157+00:00",
+    "original_time": "2026-06-20T14:10:50.052125+00:00"
+  },
+  {
+    "id": "article_474225ba2f80",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Paraguay's Almiron becomes first player to be sent off under new FIFA 'mouth-covering' rule",
+    "translated_title": "巴拉圭球员阿尔米隆成为首位因国际足联新“捂嘴”规则被罚下场的球员",
+    "url": "https://www.dawn.com/news/2009436/paraguays-almiron-becomes-first-player-to-be-sent-off-under-new-fifa-mouth-covering-rule",
+    "timestamp": "2026-06-20T14:10:55.378894+00:00",
+    "original_time": "2026-06-20T10:28:19+05:00"
+  },
+  {
+    "id": "article_8124f9c903c2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2009414/saibari-early-strike-gives-morocco-world-cup-win-over-scotland",
+    "timestamp": "2026-06-20T14:11:31.229584+00:00",
+    "original_time": "2026-06-20T14:11:31.229553+00:00"
+  },
+  {
+    "id": "article_431a3815dd5f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Nine people remain in critical condition after fatal UK train crash",
+    "translated_title": "英国火车相撞事故导致九人仍处于危急状态",
+    "url": "https://www.dawn.com/news/2009486/nine-people-remain-in-critical-condition-after-fatal-uk-train-crash",
+    "timestamp": "2026-06-20T14:11:38.713729+00:00",
+    "original_time": "2026-06-20T17:51:18+05:00"
+  },
+  {
+    "id": "article_0605081c8ea5",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "May 9 riots: Lahore ATC acquits Shah Mahmood Qureshi, sentences 4 leaders, others to 10 years",
+    "translated_title": "5 月 9 日骚乱：拉合尔 ATC 宣判 Shah Mahmood Qureshi 无罪，判处 4 名领导人和其他人 10 年徒刑",
+    "url": "https://www.dawn.com/news/2009472/may-9-riots-lahore-atc-acquits-shah-mahmood-qureshi-sentences-4-leaders-others-to-10-years",
+    "timestamp": "2026-06-20T14:11:42.262037+00:00",
+    "original_time": "2026-06-20T16:13:59+05:00"
+  },
+  {
+    "id": "article_8dc738254354",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008863/fy2026-27-budget-senate-seeks-increase-of-income-tax-exemption-threshold-reduction-in-electricity-tariffs",
+    "timestamp": "2026-06-20T14:12:10.003981+00:00",
+    "original_time": "2026-06-20T14:12:10.003944+00:00"
+  },
+  {
+    "id": "article_7ab25d9add05",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008685",
+    "timestamp": "2026-06-20T14:12:49.057758+00:00",
+    "original_time": "2026-06-20T14:12:49.057726+00:00"
+  },
+  {
+    "id": "article_7e67fea230da",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "In 'Trump Heights', Israelis have not abandoned US president despite Iran deal",
+    "translated_title": "在“特朗普高地”中，尽管与伊朗达成协议，以色列人并没有放弃美国总统",
+    "url": "https://www.dawn.com/news/2009447/in-trump-heights-israelis-have-not-abandoned-us-president-despite-iran-deal",
+    "timestamp": "2026-06-20T14:12:56.487323+00:00",
+    "original_time": "2026-06-20T11:37:02+05:00"
+  },
+  {
+    "id": "article_45630f3d8d76",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008645/ronaldo-fails-to-shine-as-dr-congo-earn-historic-world-cup-point",
+    "timestamp": "2026-06-20T14:13:16.137242+00:00",
+    "original_time": "2026-06-20T14:13:16.137207+00:00"
+  },
+  {
+    "id": "article_fbbf550eee48",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Budget FY27 sets the foundation to accelerate sustainable growth seen in past 2 years: Aurangzeb",
+    "translated_title": "奥朗则布：2027 财年预算为加速过去两年的可持续增长奠定了基础",
+    "url": "https://www.dawn.com/news/2009454/budget-fy27-sets-the-foundation-to-accelerate-sustainable-growth-seen-in-past-2-years-aurangzeb",
+    "timestamp": "2026-06-20T14:13:27.388838+00:00",
+    "original_time": "2026-06-20T12:23:57+05:00"
+  },
+  {
+    "id": "article_481b3db7d020",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008871/israeli-fm-says-he-is-severing-all-contact-with-eu-foreign-policy-chief",
+    "timestamp": "2026-06-20T14:13:54.938171+00:00",
+    "original_time": "2026-06-20T14:13:54.938137+00:00"
+  },
+  {
+    "id": "article_6bacd88a856e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Dar heads to Cairo for quadrilateral foreign ministers' meeting",
+    "translated_title": "达尔前往开罗参加四方外长会议",
+    "url": "https://www.dawn.com/news/2009459/dar-heads-to-cairo-for-quadrilateral-foreign-ministers-meeting",
+    "timestamp": "2026-06-20T14:13:58.554208+00:00",
+    "original_time": "2026-06-20T13:34:50+05:00"
+  },
+  {
+    "id": "article_995d8afed246",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008261/iran-begin-fraught-fifa-world-cup-with-2-2-new-zealand-draw",
+    "timestamp": "2026-06-20T14:14:40.510181+00:00",
+    "original_time": "2026-06-20T14:14:40.510144+00:00"
   },
   {
     "id": "article_c18b734cc096",
@@ -1265,7 +743,97 @@
     "title": "Trump says Pakistan 'really helped us' with Iran deal",
     "translated_title": "特朗普称巴基斯坦在伊朗协议上“确实帮助了我们”",
     "url": "https://www.dawn.com/news/2009455/trump-says-pakistan-really-helped-us-with-iran-deal",
-    "timestamp": "2026-06-20T11:34:33.717206+00:00",
+    "timestamp": "2026-06-20T14:14:51.980692+00:00",
     "original_time": "2026-06-20T12:53:01+05:00"
+  },
+  {
+    "id": "article_9cbbd0874f66",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2008870/oil-falls-further-on-mideast-deal-but-fed-outlook-knocks-equities",
+    "timestamp": "2026-06-20T14:15:11.332787+00:00",
+    "original_time": "2026-06-20T14:15:11.332750+00:00"
+  },
+  {
+    "id": "article_831afd14adbe",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Talks between transporters, police break down as Karachi strike enters third day",
+    "translated_title": "卡拉奇罢工进入第三天，运输商和警察之间的谈判破裂",
+    "url": "https://www.dawn.com/news/2009488/talks-between-transporters-police-break-down-as-karachi-strike-enters-third-day",
+    "timestamp": "2026-06-20T14:15:20.907304+00:00",
+    "original_time": "2026-06-20T18:21:16+05:00"
+  },
+  {
+    "id": "article_fb762010db32",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Paraguay save FIFA World Cup skins with win over eliminated Turkiye",
+    "translated_title": "巴拉圭战胜土耳其队，保住世界杯资格",
+    "url": "https://www.dawn.com/news/2009440/paraguay-save-fifa-world-cup-skins-with-win-over-eliminated-turkiye",
+    "timestamp": "2026-06-20T14:15:46.162400+00:00",
+    "original_time": "2026-06-20T10:44:53+05:00"
+  },
+  {
+    "id": "article_812f7100a3b8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2009395",
+    "timestamp": "2026-06-20T14:16:11.360994+00:00",
+    "original_time": "2026-06-20T14:16:11.360958+00:00"
+  },
+  {
+    "id": "article_02214d5a14ea",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Bangladesh PM to visit Malaysia, China on first foreign tour",
+    "translated_title": "孟加拉国总理首次出访访问马来西亚和中国",
+    "url": "https://www.dawn.com/news/2009465/bangladesh-pm-to-visit-malaysia-china-on-first-foreign-tour",
+    "timestamp": "2026-06-20T14:16:25.961318+00:00",
+    "original_time": "2026-06-20T14:20:16+05:00"
+  },
+  {
+    "id": "article_6accffbba8e6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2009045/israeli-strikes-kill-three-in-lebanon",
+    "timestamp": "2026-06-20T14:16:54.911877+00:00",
+    "original_time": "2026-06-20T14:16:54.911838+00:00"
+  },
+  {
+    "id": "article_91e1924f871c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "7 dead, 3 injured in back-to-back blasts in KP's Bannu",
+    "translated_title": "KP班努连续发生爆炸，造成7人死亡、3人受伤",
+    "url": "https://www.dawn.com/news/2009439/7-dead-3-injured-in-back-to-back-blasts-in-kps-bannu",
+    "timestamp": "2026-06-20T14:17:11.180952+00:00",
+    "original_time": "2026-06-20T10:36:42+05:00"
+  },
+  {
+    "id": "article_e3dea05ce4ff",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Brazil cruise past Haiti to re-ignite World Cup campaign",
+    "translated_title": "巴西横渡海地重燃世界杯征程",
+    "url": "https://www.dawn.com/news/2009421/brazil-cruise-past-haiti-to-re-ignite-world-cup-campaign",
+    "timestamp": "2026-06-20T14:17:14.254126+00:00",
+    "original_time": "2026-06-20T07:52:12+05:00"
+  },
+  {
+    "id": "article_6565616317f4",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2009386",
+    "timestamp": "2026-06-20T14:17:40.394358+00:00",
+    "original_time": "2026-06-20T14:17:40.394325+00:00"
   }
 ]
