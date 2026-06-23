@@ -1,6 +1,28 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-7348593455468770639",
+    "id": "tweet_ForeignOfficePk_14706097091501254",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "PR No./12th Round of the Pakistan-Russia Joint Working Group to Counter International Terrorism",
+    "translated_text": "PR No./第12轮巴俄反恐联合工作组",
+    "images": [
+      "88f40ae084ace679.svg",
+      "49b80fa86f503c69.svg",
+      "ea3e78272d881b94.svg",
+      "41c2984051434f7d.svg",
+      "59563c1a40d3d73b.svg",
+      "6dd70089c15d9c8c.svg",
+      "42c644bbf48e04fc.svg",
+      "6927007c5e94b687.svg",
+      "1d7695f51048fca1.svg",
+      "268f28305e1eebff.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/14706097091501254",
+    "timestamp": "2026-06-23T15:47:45.233795+00:00",
+    "original_time": "2026-06-23T14:36:12+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_9160675223297965614",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Foreign Minister of Iran, H.E. Seyyed Abbas Araghchi@araghchiarrived in Islamabad today as part of the delegation accompanying the President of the Islamic Republic of Iran, H.E. Dr. Masoud Pezeshkian, on his State Visit to Pakistan.\n\nUpon arrival at Nur Khan Airbase, Foreign",
@@ -11,12 +33,12 @@
       "abfa382845139bdd.jpg",
       "6b6c647c83362bf3.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-7348593455468770639",
-    "timestamp": "2026-06-23T12:06:55.237824+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/9160675223297965614",
+    "timestamp": "2026-06-23T15:47:46.019516+00:00",
     "original_time": "2026-06-23T10:55:35+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_7367051445699181291",
+    "id": "tweet_ForeignOfficePk_-4978491469792273791",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "The 12th meeting of the Pakistan-Russia Joint Working Group to Counter International Terrorism was held in Islamabad on 23 June 2026. Additional Secretary (Ministry of Foreign Affairs) Ambassador Muhammad Khalid Khan Jamali and Russian Federation Deputy Minister for Foreign",
@@ -25,41 +47,75 @@
       "d3177a76d66dead9.jpg",
       "b131b01546a017e6.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/7367051445699181291",
-    "timestamp": "2026-06-23T12:06:55.877009+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-4978491469792273791",
+    "timestamp": "2026-06-23T15:47:46.746976+00:00",
     "original_time": "2026-06-23T10:13:34+00:00"
   },
   {
-    "id": "tweet_PakPMO_1548358763912202407",
+    "id": "tweet_PakPMO_7974929641929438134",
     "type": "tweet",
     "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif addresses the National Assembly Session (23 June, 2026).",
-    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫在国民议会会议上讲话（2026 年 6 月 23 日）。",
-    "images": [
-      "6fe057c5814ac52d.jpg",
-      "4067a2637b4bf5d9.jpg",
-      "83ff2468d046b623.jpg",
-      "60048cd2274ffb08.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/1548358763912202407",
-    "timestamp": "2026-06-23T12:07:39.692904+00:00",
-    "original_time": "2026-06-23T11:11:06+00:00"
+    "text": "A reception ceremony was held at the Prime Minister's House in honor of the President of Iran, Dr. Masood Pezeshkian. The Prime Minister introduced members of the federal cabinet to the President of Iran, while the Iranian President also introduced the members of his delegation",
+    "translated_text": "为纪念伊朗总统马苏德·佩泽什基安博士，在总理府举行了招待会。总理向伊朗总统介绍了联邦内阁成员，伊朗总统也介绍了其代表团成员",
+    "images": [],
+    "url": "https://x.com/PakPMO/status/7974929641929438134",
+    "timestamp": "2026-06-23T15:48:25.411535+00:00",
+    "original_time": "2026-06-23T15:24:40+00:00"
   },
   {
-    "id": "tweet_PakPMO_-5018408799247824676",
+    "id": "tweet_PakPMO_-1091890870314790955",
     "type": "tweet",
     "username": "PakPMO",
-    "text": "Prime Minister Shehbaz Sharif expressed confidence that the Memorandum of Understanding (MoU) signed between Iran and the United States would evolve into a long-term agreement following 60 days of technical-level dialogue, helping ensure peace and stability across the world.",
-    "translated_text": "谢赫巴兹·谢里夫总理表示相信，经过60天的技术层面对话，伊朗和美国签署的谅解备忘录将演变为长期协议，有助于确保世界和平与稳定。",
+    "text": "A reception ceremony was held at the Prime Minister's House in honor of the President of Iran, Dr. Masood Pezeshkian. The President of Iran was presented with a guard of honor by a smartly turned-out contingent of the armed forces. The Iranian President inspected the guard of",
+    "translated_text": "为纪念伊朗总统马苏德·佩泽什基安博士，在总理府举行了招待会。伊朗总统受到了一支精装的武装部队仪仗队的欢迎。伊朗总统视察警卫队",
     "images": [
-      "c8b62d21f91d8dcb.jpg"
+      "b559c0c0b05980ce.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-5018408799247824676",
-    "timestamp": "2026-06-23T12:07:40.572872+00:00",
-    "original_time": "2026-06-23T11:04:44+00:00"
+    "url": "https://x.com/PakPMO/status/-1091890870314790955",
+    "timestamp": "2026-06-23T15:48:25.995432+00:00",
+    "original_time": "2026-06-23T15:19:25+00:00"
   },
   {
-    "id": "tweet_IraninIslamabad_-4440607852613908595",
+    "id": "tweet_PakPMO_-2888688119933784011",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Upon his arrival at the Prime Minister's House, Prime Minister Muhammad Shehbaz Sharif extended a warm welcome to the President of Iran, Dr. Masoud Pezeshkian, and a reception ceremony was held in his honor.",
+    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理抵达总理府后，对伊朗总统马苏德·佩泽什基安博士表示热烈欢迎，并举行招待仪式。",
+    "images": [
+      "7b5d07b764e5054f.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-2888688119933784011",
+    "timestamp": "2026-06-23T15:48:26.598172+00:00",
+    "original_time": "2026-06-23T15:18:10+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-3949569160730477946",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Islamabad: 23 June 2026.\n\nBilateral meeting begins between Prime Minister Muhammad Shehbaz Sharif and Iranian President Dr. Masoud Pezeshkian.\n\nDeputy Prime Minister and Foreign Minister Senator Muhammad Ishaq Dar and Chief of Army Staff and Chief of Defence Forces Field Marshal",
+    "translated_text": "伊斯兰堡：2026 年 6 月 23 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫和伊朗总统马苏德·佩泽什基安博士开始双边会议。\n\n副总理兼外交部长参议员穆罕默德·伊沙克·达尔和陆军参谋长兼国防军总司令陆军元帅",
+    "images": [
+      "f90f6c202e455591.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-3949569160730477946",
+    "timestamp": "2026-06-23T15:48:26.836105+00:00",
+    "original_time": "2026-06-23T15:00:11+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_1521131433286171920",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "The President of Islamic Republic of Iran Dr. Masoud Pezeshkian plants a sapling in the lawn of  the Prime Minister's House (23 June, 2026).",
+    "translated_text": "伊朗伊斯兰共和国总统马苏德·佩泽什基安博士在总理府的草坪上种植了一棵树苗（2026 年 6 月 23 日）。",
+    "images": [
+      "d4dcf079be944d6e.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/1521131433286171920",
+    "timestamp": "2026-06-23T15:48:27.023833+00:00",
+    "original_time": "2026-06-23T14:09:21+00:00"
+  },
+  {
+    "id": "tweet_IraninIslamabad_4167595492646983880",
     "type": "tweet",
     "username": "IraninIslamabad",
     "text": "At the invitation of H.E. Muhammad Shehbaz Sharif, Honorable Prime Minister of the Islamic Republic of Pakistan, H.E. Dr. Masoud Pezeshkian, Honorable President of the Islamic Republic of Iran visits the brotherly county of Pakistan at the head of a high ranking delegation today.",
@@ -67,247 +123,225 @@
     "images": [
       "7f0611b9be8eeda6.jpg"
     ],
-    "url": "https://x.com/IraninIslamabad/status/-4440607852613908595",
-    "timestamp": "2026-06-23T12:07:54.455037+00:00",
+    "url": "https://x.com/IraninIslamabad/status/4167595492646983880",
+    "timestamp": "2026-06-23T15:48:43.800640+00:00",
     "original_time": "2026-06-23T05:49:27+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6152481995194840991",
+    "id": "tweet_PakTVGlobal_-8610277135213492991",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Deputy PM Ishaq Dar receives FM Araghchi at the airport@araghchi@MIshaqDar50@IRIMFA_EN@ForeignOfficePk@PakinIran@IraninIslamabad#Iran#Aragchi#PakistanIranRelations#PakistanTV",
-    "translated_text": "副总理伊沙克·达尔在机场接见FM阿拉格奇@araghchi@MIshaqDar50@IRIMFA_EN@ForeignOfficePk@PakinIran@IraninIslamabad#Iran#Aragchi#PakistanIranRelations#PakistanTV",
+    "text": "Prime Minister Shehbaz Sharif says, \"Pakistan will do whatever it can for lasting peace in the region, guided by dignity, honour and sincere diplomacy.\" Addressing the delegation- level talks with Iranian President Masoud Pezeshkian, Prime Minister reaffirmed Islamabad’s",
+    "translated_text": "谢赫巴兹·谢里夫总理表示：“巴基斯坦将在尊严、荣誉和真诚外交的指导下，竭尽全力实现该地区的持久和平。”总理在与伊朗总统马苏德·佩泽什基安的代表团级会谈中重申伊斯兰堡的",
+    "images": [
+      "76977deb68df7e46.jpg",
+      "ea843553df2e0f20.jpg",
+      "0db3fa8d8883b38a.jpg",
+      "e9f97c9b9c872a9d.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-8610277135213492991",
+    "timestamp": "2026-06-23T15:48:59.599783+00:00",
+    "original_time": "2026-06-23T15:47:42+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2143583718281501680",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Prime Minister Shehbaz Sharif addresses the Pakistan-Iran delegation-level talks",
+    "translated_text": "谢赫巴兹·谢里夫总理在巴基斯坦-伊朗代表团级会谈上发表讲话",
+    "images": [
+      "dab3581848f9ae08.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2143583718281501680",
+    "timestamp": "2026-06-23T15:49:00.208138+00:00",
+    "original_time": "2026-06-23T15:33:59+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_6647202685117707877",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGIranian President Dr. Masoud Pezeshkian met Prime Minister Shehbaz Sharif in Islamabad for high-level bilateral talks. Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar and Chief of Army Staff Field Marshal Syed Asim Munir also attended the meeting.",
+    "translated_text": "#BREAKING伊朗总统马苏德·佩泽什基安博士在伊斯兰堡会见了谢赫巴兹·谢里夫总理，进行高层双边会谈。副总理兼外交部长参议员穆罕默德·伊沙克·达尔和陆军参谋长赛义德·阿西姆·穆尼尔元帅也出席了会议。",
+    "images": [
+      "559e307ac3315169.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/6647202685117707877",
+    "timestamp": "2026-06-23T15:49:01.029176+00:00",
+    "original_time": "2026-06-23T15:08:45+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-9092433422552580861",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iranian President Dr. Masoud Pezeshkian met Prime Minister Shehbaz Sharif in Islamabad for high-level bilateral talks. Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar and Chief of Army Staff Field Marshal Syed Asim Munir also attended the meeting.",
+    "translated_text": "伊朗总统马苏德·佩泽什基安博士在伊斯兰堡会见了总理谢赫巴兹·谢里夫，进行高层双边会谈。副总理兼外交部长参议员穆罕默德·伊沙克·达尔和陆军参谋长赛义德·阿西姆·穆尼尔元帅也出席了会议。",
+    "images": [
+      "c5540b1acf2f128c.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-9092433422552580861",
+    "timestamp": "2026-06-23T15:49:01.617827+00:00",
+    "original_time": "2026-06-23T15:05:44+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_9180400859027558031",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iranian President Masoud Pezeshkian planted and watered a sapling at the Prime Minister’s House, joined by Prime Minister Muhammad Shehbaz Sharif.@CMShehbaz@drpezeshkian@IRIMFA_EN@ForeignOfficePk#Iran#MasoudPezeshkian#IslamabadDiplomacy#PakistanIranRelations",
+    "translated_text": "伊朗总统马苏德·佩泽什基安 (Masoud Pezeshkian) 在总理穆罕默德·谢赫巴兹·谢里夫 (Muhammad Shehbaz Sharif) 的陪同下，在总理府种植了一棵树苗并浇水。@CMShehbaz@drpezeshkian@IRIMFA_EN@ForeignOfficePk#Iran#MasoudPezeshkian#IslamabadDiplomacy#PakistanIranRelations",
     "images": [
       "9ab0d1e80146c0b7.png",
-      "ac16baac212f5e46.jpg",
-      "1bdac62a0ead3f18.jpg"
+      "6144e777fe3bd60a.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6152481995194840991",
-    "timestamp": "2026-06-23T12:08:11.764979+00:00",
-    "original_time": "2026-06-23T10:53:03+00:00"
+    "url": "https://x.com/PakTVGlobal/status/9180400859027558031",
+    "timestamp": "2026-06-23T15:49:02.319862+00:00",
+    "original_time": "2026-06-23T14:53:29+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8729114859909804526",
+    "id": "tweet_PakTVGlobal_8080414823664401500",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "“Pakistan’s professional and balanced diplomacy has played a critical role in bringing the United States and Iran together, creating a positive path toward lasting peace and regional stability.” — Mehmet Ozturk, Senior Journalist.#PakistanDiplomacy#USIranTalks#MiddleEastPeace",
-    "translated_text": "“巴基斯坦专业和平衡的外交在使美国和伊朗走到一起、为持久和平和地区稳定开辟积极道路方面发挥了关键作用。” — 穆罕默德·奥兹图尔克，高级记者。#PakistanDiplomacy#USIranTalks#MiddleEastPeace",
-    "images": [
-      "dfc6df95e8aa7194.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8729114859909804526",
-    "timestamp": "2026-06-23T12:08:12.354593+00:00",
-    "original_time": "2026-06-23T10:45:10+00:00"
+    "text": "Pakistan’s role has been significant in recent diplomatic developments, noting high-level engagements between Iranian leadership and Pakistan’s top civil leadership says Rana Abdullah Hammad, Correspondent, Pakistan TV@RanaAbdullahHam#PakistanDiplomacy#IranPakistanTies",
+    "translated_text": "巴基斯坦记者拉纳·阿卜杜拉·哈马德 (Rana Abdullah Hammad) 表示，巴基斯坦在最近的外交发展中发挥了重要作用，注意到伊朗领导层和巴基斯坦最高民事领导层之间的高层接触。",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/8080414823664401500",
+    "timestamp": "2026-06-23T15:49:04.800930+00:00",
+    "original_time": "2026-06-23T13:12:08+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8182082295581756475",
+    "id": "tweet_PakTVGlobal_6693928931898261878",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "A 21-gun salute was presented to Iranian President Dr. Masoud Pezeshkian upon arrival in Islamabad, while the Pakistan Air Force conducted a flypast in his honour, highlighting the warmth and significance of the visit.@PresOfPakistan@CMShehbaz@drpezeshkian@araghchi",
-    "translated_text": "抵达伊斯兰堡后，伊朗总统马苏德·佩泽什基安博士鸣响了 21 响礼炮，巴基斯坦空军也为他举行了飞行表演，突显了这次访问的热情和意义。@PresOfPakistan@CMShehbaz@drpezeshkian@araghchi",
+    "text": "Former ambassador Raza Bashir Tarar said Pakistan’s engagement with Iran reflects a strong endorsement of bilateral ties and should help dispel speculation about mistrust between the two countries. He noted that the high-level visit underscores mutual trust and the importance of",
+    "translated_text": "前大使拉扎·巴希尔·塔拉尔表示，巴基斯坦与伊朗的接触反映了对双边关系的强烈支持，应有助于消除有关两国之间不信任的猜测。他指出，此次高层访问凸显了相互信任和合作的重要性。",
     "images": [
-      "d21a197eca507844.jpg",
-      "819856115978d953.jpg"
+      "a575028663bc7dc7.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8182082295581756475",
-    "timestamp": "2026-06-23T12:08:13.946882+00:00",
-    "original_time": "2026-06-23T10:44:38+00:00"
+    "url": "https://x.com/PakTVGlobal/status/6693928931898261878",
+    "timestamp": "2026-06-23T15:49:05.362687+00:00",
+    "original_time": "2026-06-23T13:07:25+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-880994945736707980",
+    "id": "tweet_PakTVGlobal_3999835469311745947",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Iranian President Dr. Masoud Pezeshkian, accompanied by Foreign Minister Abbas Araghchi, arrive in Pakistan. President Asif Ali Zardari, Prime Minister Shehbaz Sharif and Deputy Prime Minister Ishaq Dar receive the Iranian President upon his arrival, underscoring the importance",
-    "translated_text": "伊朗总统马苏德·佩泽什基安博士在外交部长阿巴斯·阿拉格奇的陪同下抵达巴基斯坦。总统阿西夫·阿里·扎尔达里、总理谢赫巴兹·谢里夫和副总理伊沙克·达尔在伊朗总统抵达时接待了他，强调了这一点的重要性",
+    "text": "According to foreign affairs expert Dr. Munawar Hussain, the high-level engagement provides an opportunity for Pakistan and Iran to review the full spectrum of bilateral relations, including people-to-people exchanges, trade, energy cooperation, and border security. He noted that",
+    "translated_text": "外交事务专家穆纳瓦尔·侯赛因博士表示，高层接触为巴基斯坦和伊朗提供了全面审视双边关系的机会，包括人文交流、贸易、能源合作和边境安全。他指出",
     "images": [
-      "0f2ae360c05e4e70.jpg",
-      "e2143eeb80f8cffc.jpg",
-      "4e5ca4ce4f7c8e35.jpg"
+      "8e7ebd1f2fe31e13.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-880994945736707980",
-    "timestamp": "2026-06-23T12:08:14.572181+00:00",
-    "original_time": "2026-06-23T10:38:49+00:00"
+    "url": "https://x.com/PakTVGlobal/status/3999835469311745947",
+    "timestamp": "2026-06-23T15:49:05.957326+00:00",
+    "original_time": "2026-06-23T13:03:20+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6002865450529034099",
+    "id": "tweet_PakTVGlobal_756995391827104320",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Iranian President Dr. Masoud Pezeshkian arrives in Pakistan on the invitation of Prime Minister Shehbaz Sharif, with both sides set to review bilateral relations and expand cooperation.@IRIMFA_EN@ForeignOfficePk@PakinIran@IraninIslamabad#Iran#MasoudPezeshkian",
-    "translated_text": "应谢赫巴兹·谢里夫总理邀请，伊朗总统马苏德·佩泽什基安博士抵达巴基斯坦，双方将回顾双边关系并扩大合作。@IRIMFA_EN@ForeignOfficePk@PakinIran@IraninIslamabad#Iran#MasoudPezeshkian",
+    "text": "Recent signals from Washington and ongoing diplomatic efforts are being viewed as a potential opening for broader regional stability. Its an opportunity not only for Iran, but for the entire Middle East to move towards lasting peace, with all stakeholders encouraged to support",
+    "translated_text": "华盛顿最近发出的信号和正在进行的外交努力被视为实现更广泛地区稳定的潜在机会。这不仅是伊朗的机会，也是整个中东走向持久和平的机会，鼓励所有利益攸关方支持",
     "images": [
-      "9ab0d1e80146c0b7.png",
-      "9f8412afdc0226bc.jpg",
-      "afdbe66e8b59625e.jpg",
-      "a4428a95721a4266.jpg"
+      "b10c733d37271289.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6002865450529034099",
-    "timestamp": "2026-06-23T12:08:15.305178+00:00",
-    "original_time": "2026-06-23T10:31:41+00:00"
+    "url": "https://x.com/PakTVGlobal/status/756995391827104320",
+    "timestamp": "2026-06-23T15:49:06.399090+00:00",
+    "original_time": "2026-06-23T12:57:40+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1946800537906758969",
+    "id": "tweet_PakTVGlobal_3040185201171082599",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Türkiye and Germany have intensified crackdowns on Afghan nationals linked to serious crimes, including murder, drug trafficking, and human smuggling.#Turkey#Germany#Afghanistan#HumanTrafficking#PakistanTV",
-    "translated_text": "土耳其和德国加强了对涉及谋杀、贩毒和人口走私等严重犯罪的阿富汗国民的打击力度。#Turkey#Germany#Afghanistan#HumanTrafficking#PakistanTV",
+    "text": "A warm diplomatic welcome as President Asif Ali Zardari and Prime Minister Shehbaz Sharif receive Iranian President Masoud Pezeshkian at Nur Khan Airbase, marking the start of a high-level visit focused on strengthening Pakistan-Iran ties.@PresOfPakistan@CMShehbaz",
+    "translated_text": "阿西夫·阿里·扎尔达里总统和谢赫巴兹·谢里夫总理在努尔汗空军基地接待伊朗总统马苏德·佩泽什基安，受到热烈的外交欢迎，标志着旨在加强巴基斯坦与伊朗关系的高层访问的开始。@PresOfPakistan@CMShehbaz",
     "images": [
-      "09de0db5df97e5bc.png",
-      "d4a084cec703c823.png"
+      "329480da8fb08f35.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1946800537906758969",
-    "timestamp": "2026-06-23T12:08:17.979074+00:00",
-    "original_time": "2026-06-23T09:15:14+00:00"
+    "url": "https://x.com/PakTVGlobal/status/3040185201171082599",
+    "timestamp": "2026-06-23T15:49:07.012217+00:00",
+    "original_time": "2026-06-23T12:39:22+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-432880704102062827",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Modi's criminal silence pushes Manipur into a civil war bloodier than the deadly 1990s ethnic conflict, while India's media, obsessed with policing neighboring countries, maintains shameful blackout over the catastrophe burning inside its own borders.#Manipur#Modi#India",
-    "translated_text": "莫迪的罪恶沉默将曼尼普尔邦推入了一场比 90 年代致命的种族冲突更血腥的内战，而印度媒体则沉迷于维持邻国治安，对本国境内发生的灾难保持可耻的封锁。#Manipur#Modi#India",
-    "images": [
-      "66a6eec58e9411c9.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-432880704102062827",
-    "timestamp": "2026-06-23T12:08:18.572102+00:00",
-    "original_time": "2026-06-23T09:09:45+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_4438133081750448441",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Geopolitical analyst Dr Auaab Alizai said Pakistan has played a leading and continuous role in mediating between the US and Iran, helping prevent wider regional escalation and supporting a potential roadmap towards peace, while also being recognised internationally for its",
-    "translated_text": "地缘政治分析师奥阿布·阿利扎伊博士表示，巴基斯坦在美国和伊朗之间的调解中发挥了持续的主导作用，帮助防止更广泛的地区局势升级，并支持潜在的和平路线图，同时也因其",
-    "images": [
-      "d161873e33e2753d.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/4438133081750448441",
-    "timestamp": "2026-06-23T12:08:19.118847+00:00",
-    "original_time": "2026-06-23T09:05:30+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-3430467841684510732",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Iranian President Masoud Pezeshkian, leading a high-level delegation, has left Tehran for Islamabad on a one-day visit to meet and hold talks with Pakistan's leadership.#Iran#IslamabadVisit#PakistanIranRelations#Pezeshkian#PakistanTV",
-    "translated_text": "伊朗总统马苏德·佩泽什基安率领高级代表团离开德黑兰前往伊斯兰堡进行为期一天的访问，与巴基斯坦领导人会面并举行会谈。#Iran#IslamabadVisit#PakistanIranRelations#Pezeshkian#PakistanTV",
-    "images": [
-      "9ab0d1e80146c0b7.png",
-      "13bf59c01e2b9ba9.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-3430467841684510732",
-    "timestamp": "2026-06-23T12:08:20.074852+00:00",
-    "original_time": "2026-06-23T08:57:47+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-6092171807861013844",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "PM Shehbaz Sharif, while addressing the National Assembly session, said the US-Iran MoU will lead to a long-lasting peace agreement within 60 days, adding that Pakistan made full efforts to reduce tensions and signed the agreement as a mediator.@CMShehbaz#Pakistan",
-    "translated_text": "谢巴兹·谢里夫总理在国民议会会议上发表讲话时表示，美伊谅解备忘录将在 60 天内达成一项长期和平协议，并补充说巴基斯坦为缓和紧张局势做出了充分努力，并作为调解人签署了该协议。@CMShehbaz#Pakistan",
-    "images": [
-      "8b85a530c0fc3ee3.jpg",
-      "5b6c4d959079ef00.jpg",
-      "8ae2e195a6138bfe.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6092171807861013844",
-    "timestamp": "2026-06-23T12:08:20.879308+00:00",
-    "original_time": "2026-06-23T08:57:12+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-1773717270461283220",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Sardar Masood Khan, former ambassador, said Pakistan played a historic and critical role in mediating between the United States and Iran, helping avert a potentially catastrophic war and stabilise the framework agreement, while strengthening regional peace efforts and bilateral",
-    "translated_text": "前大使萨达尔·马苏德·汗表示，巴基斯坦在美国和伊朗之间的斡旋中发挥了历史性的关键作用，帮助避免了潜在的灾难性战争并稳定了框架协议，同时加强了地区和平努力和双边关系。",
-    "images": [
-      "32966ccc2c1e62a6.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-1773717270461283220",
-    "timestamp": "2026-06-23T12:08:21.692472+00:00",
-    "original_time": "2026-06-23T08:56:30+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_8143760014446513008",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Iranian President departs for Islamabad on one-day official visit#Iran#IslamabadVisit#PakistanIranRelations#Pezeshkian#PakistanTV",
-    "translated_text": "伊朗总统启程前往伊斯兰堡进行一日正式访问#Iran#IslamabadVisit#PakistanIranRelations#Pezeshkian#PakistanTV",
-    "images": [
-      "9ab0d1e80146c0b7.png",
-      "2cda747ec4fd0216.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8143760014446513008",
-    "timestamp": "2026-06-23T12:08:22.017348+00:00",
-    "original_time": "2026-06-23T08:55:31+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_SPOX_-8157447681878902326",
+    "id": "tweet_IRIMFA_SPOX_1629055799520114927",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "If power is not proven in war, it will not be proven through exaggeration after agreement either. Agreement stands on the shoulders of respect and fidelity to reality; and any self-congratulatory narrative constructed to compensate for past failures will, above all, destroy that",
     "translated_text": "如果力量不能通过战争来证明，那么也不会通过协议后的夸张来证明。共识建立在尊重和忠于现实的基础上；任何为弥补过去的失败而构建的自我吹捧的叙事首先都会破坏这一点",
     "images": [],
-    "url": "https://x.com/IRIMFA_SPOX/status/-8157447681878902326",
-    "timestamp": "2026-06-23T12:10:04.843738+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/1629055799520114927",
+    "timestamp": "2026-06-23T15:49:56.952022+00:00",
     "original_time": "2026-06-23T07:28:55+00:00"
   },
   {
-    "id": "tweet_AJENews_-4404463633630443732",
+    "id": "tweet_AJENews_2598166559061977189",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Developing nations face 'mother of all energy shocks': UN chiefLIVE updates:https://aje.news/fyqu4m?update=4692632…",
-    "translated_text": "突发新闻：发展中国家面临“能源冲击之母”：联合国主席实时更新：https://aje.news/fyqu4m?update=4692632…",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/-4404463633630443732",
-    "timestamp": "2026-06-23T12:10:34.780346+00:00",
-    "original_time": "2026-06-23T11:49:34+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-4028238694104185883",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Trump says 'no further' naval blockade on Strait of HormuzLIVE updates:https://aje.news/fyqu4m?update=4692684…",
-    "translated_text": "突发新闻：特朗普表示“不再”对霍尔木兹海峡进行海上封锁实时更新：https://aje.news/fyqu4m?update=4692684…",
+    "text": "BREAKING: Lebanese President Joseph Aoun has discussed a ceasefire in a call with US Vice President JD Vance and Secretary of State Marco Rubio, the presidency says.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：总统府表示，黎巴嫩总统约瑟夫·奥恩在与美国副总统万斯和国务卿马可·卢比奥的通话中讨论了停火问题。更多信息请访问 http://Aljazeera.com",
     "images": [
       "7f1a451786c84548.svg",
-      "db494d5d9cb6f812.jpg"
+      "ed5aa1e26489145d.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-4028238694104185883",
-    "timestamp": "2026-06-23T12:10:35.308543+00:00",
-    "original_time": "2026-06-23T11:38:22+00:00"
+    "url": "https://x.com/AJENews/status/2598166559061977189",
+    "timestamp": "2026-06-23T15:50:26.594454+00:00",
+    "original_time": "2026-06-23T15:33:23+00:00"
   },
   {
-    "id": "tweet_AJENews_-3768795119373586554",
+    "id": "tweet_AJENews_-5484347657814805573",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: US President Donald Trump says Iran has agreed to the \"highest level\" of nuclear inspections and warns there will be no further negotiations if Tehran fails to comply.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：美国总统唐纳德·特朗普表示，伊朗已同意进行“最高级别”的核检查，并警告称，如果德黑兰不遵守规定，将不会进行进一步的谈判。更多信息请访问http://Aljazeera.com",
+    "text": "BREAKING: Iran president meets Pakistani army chief Asim MunirLIVE updates:https://aje.news/fyqu4m?update=4693049…",
+    "translated_text": "突发新闻：伊朗总统会见巴基斯坦陆军参谋长阿西姆·穆尼尔实时更新：https://aje.news/fyqu4m?update=4693049…",
     "images": [
       "7f1a451786c84548.svg",
-      "8aaffb115e9404cd.jpg"
+      "465f7f9c12654bd9.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-3768795119373586554",
-    "timestamp": "2026-06-23T12:10:36.291516+00:00",
-    "original_time": "2026-06-23T11:31:51+00:00"
+    "url": "https://x.com/AJENews/status/-5484347657814805573",
+    "timestamp": "2026-06-23T15:50:27.079161+00:00",
+    "original_time": "2026-06-23T14:30:55+00:00"
   },
   {
-    "id": "tweet_AJENews_7501954211962695201",
+    "id": "tweet_AJENews_5544679177072893591",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump claims Iran has agreed to ‘highest level’ nuclear inspectionsLIVE updates:https://aje.news/fyqu4m?update=4692684…",
-    "translated_text": "突发：特朗普声称伊朗已同意进行“最高级别”核检查实时更新：https://aje.news/fyqu4m?update=4692684…",
+    "text": "BREAKING: Lebanon's president demands end of 'Israeli occupation' in the southLIVE updates:https://aje.news/fyqu4m?update=4693071…",
+    "translated_text": "突发新闻：黎巴嫩总统要求结束南部的“以色列占领”实时更新：https://aje.news/fyqu4m?update=4693071…",
     "images": [
       "7f1a451786c84548.svg",
-      "e384c2b54c31501f.jpg"
+      "c78cf71e382368b3.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7501954211962695201",
-    "timestamp": "2026-06-23T12:10:36.847384+00:00",
-    "original_time": "2026-06-23T11:31:43+00:00"
+    "url": "https://x.com/AJENews/status/5544679177072893591",
+    "timestamp": "2026-06-23T15:50:27.695651+00:00",
+    "original_time": "2026-06-23T14:21:44+00:00"
   },
   {
-    "id": "tweet_AJENews_-3580226334674241145",
+    "id": "tweet_AJENews_-1249154145250774558",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: All aircraft are banned below 3,000 feet (914 metres) within three nautical miles (5.5km) of FIFA World Cup stadiums on matchdays, according to the Transportation Security Administration, and more than 300 drones have already been seized by US authorities.More on",
+    "translated_text": "突发新闻：据美国运输安全管理局称，比赛日国际足联世界杯体育场三海里（5.5公里）以内的所有飞机均被禁止在低于3,000英尺（914米）的地方飞行，美国当局已扣押了超过300架无人机。 更多信息",
+    "images": [
+      "7f1a451786c84548.svg",
+      "7cc14f3bfdb18dce.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-1249154145250774558",
+    "timestamp": "2026-06-23T15:50:28.208505+00:00",
+    "original_time": "2026-06-23T14:15:14+00:00"
+  },
+  {
+    "id": "tweet_AJENews_910728618416205418",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Fifth round of US-sponsored Lebanon-Israel talks beginLIVE updates:https://aje.news/fyqu4m?update=4693033…",
+    "translated_text": "突发新闻：美国赞助的第五轮黎巴嫩-以色列会谈开始实时更新：https://aje.news/fyqu4m?update=4693033…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "60f6f51f3bed7bf9.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/910728618416205418",
+    "timestamp": "2026-06-23T15:50:28.790059+00:00",
+    "original_time": "2026-06-23T13:52:59+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-2015363294539833223",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Lebanon, France discuss next steps after ceasefireLIVE updates:https://aje.news/fyqu4m?update=4692634…",
@@ -316,150 +350,173 @@
       "7f1a451786c84548.svg",
       "5c25685ea3b31515.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-3580226334674241145",
-    "timestamp": "2026-06-23T12:10:37.393404+00:00",
+    "url": "https://x.com/AJENews/status/-2015363294539833223",
+    "timestamp": "2026-06-23T15:50:31.320072+00:00",
     "original_time": "2026-06-23T11:20:32+00:00"
   },
   {
-    "id": "tweet_AJENews_-2231942841673728283",
+    "id": "tweet_AJENews_4118677740823797737",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iran warns it 'will respond' if Israel continues attacks on LebanonLIVE updates:https://aje.news/fyqu4m?update=4692027…",
-    "translated_text": "突发：伊朗警告称，如果以色列继续袭击黎巴嫩，它“将作出回应”实时更新：https://aje.news/fyqu4m?update=4692027…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "67b7acd0c36c797d.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-2231942841673728283",
-    "timestamp": "2026-06-23T12:10:39.601088+00:00",
-    "original_time": "2026-06-23T08:21:55+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-3391471333667748673",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran has evidence regional countries took part in US-Israeli war, says FM spokesmanLIVE updates:https://aje.news/fyqu4m?update=4691963…",
-    "translated_text": "突发新闻：伊朗外交部发言人表示，伊朗有证据表明该地区国家参与了美以战争。实时更新：https://aje.news/fyqu4m?update=4691963…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "2cd3d6cc4249d204.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-3391471333667748673",
-    "timestamp": "2026-06-23T12:10:39.805580+00:00",
-    "original_time": "2026-06-23T08:17:07+00:00"
-  },
-  {
-    "id": "tweet_AJENews_6422636380261055116",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran shifted to indirect, mediated talks in Switzerland after 90-minute session, says Iran's FM spokesmanLIVE updates:https://aje.news/fyqu4m?update=4691898…",
-    "translated_text": "突发新闻：伊朗外交部发言人称，在 90 分钟的会议后，伊朗转向在瑞士进行间接调解会谈。实时更新：https://aje.news/fyqu4m?update=4691898...",
+    "text": "BREAKING: Hezbollah says deadly Israeli shooting in southern Lebanon violates ceasefire; alleges civilians killed in the attackLIVE updates:https://aje.news/fyqu4m?update=4692587…",
+    "translated_text": "突发新闻：真主党称以色列在黎巴嫩南部发生的致命枪击事件违反了停火协议；声称平民在袭击中丧生实时更新：https://aje.news/fyqu4m?update=4692587…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/6422636380261055116",
-    "timestamp": "2026-06-23T12:10:39.956976+00:00",
-    "original_time": "2026-06-23T08:08:30+00:00"
+    "url": "https://x.com/AJENews/status/4118677740823797737",
+    "timestamp": "2026-06-23T15:50:31.765159+00:00",
+    "original_time": "2026-06-23T10:56:51+00:00"
   },
   {
-    "id": "tweet_AJENews_9187776891451417768",
+    "id": "tweet_AJENews_-6582716180813588774",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israel-Lebanon 'final arrangements to be reached in coming days', says IranLIVE updates:https://aje.news/fyqu4m?update=4691948…",
-    "translated_text": "突发新闻：IranLIVE 更新称，以色列与黎巴嫩“将在未来几天内达成最终安排”：https://aje.news/fyqu4m?update=4691948…",
+    "text": "BREAKING: France records hottest-ever night as 40 drown trying to escape heatwave\n\nRead more:https://aje.news/393kob",
+    "translated_text": "突发：法国创下史上最热夜晚 40 人在试图躲避热浪时溺水身亡\n\n了解更多：https://aje.news/393kob",
+    "images": [
+      "84541b2cc2eae167.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-6582716180813588774",
+    "timestamp": "2026-06-23T15:50:32.307699+00:00",
+    "original_time": "2026-06-23T10:52:34+00:00"
+  },
+  {
+    "id": "tweet_AJENews_199110842075192941",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Israeli military claims attack in Lebanon's Ali al-Taher areaLIVE updates:https://aje.news/fyqu4m?update=4692452…",
+    "translated_text": "更新：以色列军方声称对黎巴嫩阿里塔赫地区发动袭击实时更新：https://aje.news/fyqu4m?update=4692452…",
     "images": [
       "7f1a451786c84548.svg",
-      "84a3ac85b481ebd6.jpg"
+      "5a09e85fa82b8eaa.jpg"
     ],
-    "url": "https://x.com/AJENews/status/9187776891451417768",
-    "timestamp": "2026-06-23T12:10:40.142646+00:00",
-    "original_time": "2026-06-23T08:04:44+00:00"
+    "url": "https://x.com/AJENews/status/199110842075192941",
+    "timestamp": "2026-06-23T15:50:32.875802+00:00",
+    "original_time": "2026-06-23T10:50:32+00:00"
   },
   {
-    "id": "tweet_AJENews_-2774464331401849205",
+    "id": "tweet_AJENews_8351218376328624567",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: There is currently 'no clear schedule' for IAEA nuclear inspections, says Iran's FM spokesmanLIVE updates:https://aje.news/fyqu4m?update=4691876…",
-    "translated_text": "突发新闻：伊朗外交部发言人表示，目前国际原子能机构的核检查“没有明确的时间表”实时更新：https://aje.news/fyqu4m?update=4691876…",
+    "text": "BREAKING: Iran's Araghchi travels to Pakistan for talks: Iranian broadcasterLIVE updates:https://aje.news/fyqu4m?update=4692515…",
+    "translated_text": "突发新闻：伊朗阿拉格奇前往巴基斯坦进行会谈：伊朗广播公司实时更新：https://aje.news/fyqu4m?update=4692515…",
     "images": [
       "7f1a451786c84548.svg",
-      "e408f4df08d0cc32.jpg"
+      "487f5001a0770979.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-2774464331401849205",
-    "timestamp": "2026-06-23T12:10:40.328461+00:00",
-    "original_time": "2026-06-23T07:52:11+00:00"
+    "url": "https://x.com/AJENews/status/8351218376328624567",
+    "timestamp": "2026-06-23T15:50:33.374703+00:00",
+    "original_time": "2026-06-23T10:45:19+00:00"
   },
   {
-    "id": "tweet_AJENews_-4262457214268575218",
+    "id": "tweet_AJENews_-5837014792081447650",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iran Foreign Ministry spokesman press conference under wayLIVE updates:https://aje.news/fyqu4m?update=4691877…",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "BREAKING: PM Netanyahu says Israel should free itself from arms dependency on the US and build its own weapon-production systemLIVE updates:https://aje.news/fyqu4m?update=4692276…",
+    "translated_text": "突发新闻：总理内塔尼亚胡表示，以色列应该摆脱对美国的武器依赖，建立自己的武器生产系统实时更新：https://aje.news/fyqu4m?update=4692276…",
     "images": [
       "7f1a451786c84548.svg",
-      "6eb0666164cfed91.jpg"
+      "cb0ae5fd818509ad.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-4262457214268575218",
-    "timestamp": "2026-06-23T12:10:40.797199+00:00",
-    "original_time": "2026-06-23T07:45:04+00:00"
+    "url": "https://x.com/AJENews/status/-5837014792081447650",
+    "timestamp": "2026-06-23T15:50:33.895340+00:00",
+    "original_time": "2026-06-23T10:11:41+00:00"
   },
   {
-    "id": "tweet_AJENews_319619935363103932",
+    "id": "tweet_AJENews_-6918519223916731562",
     "type": "tweet",
     "username": "AJENews",
-    "text": "Iran's Foreign Ministry spokesperson Esmail Baghaei is holding a press conference after talks in Switzerland",
-    "translated_text": "伊朗外交部发言人埃斯梅尔·巴加伊在瑞士会谈后举行新闻发布会",
-    "images": [
-      "9b20f961c2ada6de.svg",
-      "970eb8d5ef7882db.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/319619935363103932",
-    "timestamp": "2026-06-23T12:10:41.367768+00:00",
-    "original_time": "2026-06-23T07:43:09+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-8199401263303940866",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Pezeshkian calls for 'full commitment to agreed obligations'LIVE updates:https://aje.news/fyqu4m?update=4691657…",
-    "translated_text": "突发新闻：佩泽什基安呼吁“全面承诺履行商定的义务”实时更新：https://aje.news/fyqu4m?update=4691657…",
+    "text": "BREAKING: Second person dies after being shot by Israeli forces in Lebanon's Nabatieh al-Fawqa, reports Lebanese state mediaLIVE updates:https://aje.news/fyqu4m?update=4692311…",
+    "translated_text": "突发事件：据黎巴嫩官方媒体报道，第二人在黎巴嫩纳巴蒂耶法夫卡 (Nabatieh al-Fawqa) 被以色列军队枪击后死亡：实时更新：https://aje.news/fyqu4m?update=4692311…",
     "images": [
       "7f1a451786c84548.svg",
-      "23421870c02f2f2d.jpg"
+      "b5af280a9c45bb00.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-8199401263303940866",
-    "timestamp": "2026-06-23T12:10:41.876989+00:00",
-    "original_time": "2026-06-23T05:56:54+00:00"
+    "url": "https://x.com/AJENews/status/-6918519223916731562",
+    "timestamp": "2026-06-23T15:50:34.511288+00:00",
+    "original_time": "2026-06-23T09:55:08+00:00"
   },
   {
-    "id": "tweet_AJENews_-1791924884676598345",
+    "id": "tweet_AJENews_-762983809943853877",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Technical talks between Iran and the US in Switzerland have concluded, with negotiating groups to be set up on nuclear issues and sanctions, according to Iran's IRNA news agency.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：据伊朗伊斯兰共和国通讯社报道，伊朗和美国在瑞士举行的技术会谈已经结束，并将就核问题和制裁问题成立谈判小组。更多信息请访问 http://Aljazeera.com",
+    "text": "BREAKING: Iran's Ghalibaf, Araghchi meet sultan of OmanLIVE updates:https://aje.news/fyqu4m?update=4692099…",
+    "translated_text": "突发新闻：伊朗的加利巴夫、阿拉格奇会见阿曼苏丹实时更新：https://aje.news/fyqu4m?update=4692099…",
     "images": [
       "7f1a451786c84548.svg",
-      "76aa1791ac45ef5f.jpg"
+      "baf6c76a2ddea525.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-1791924884676598345",
-    "timestamp": "2026-06-23T12:10:42.816475+00:00",
-    "original_time": "2026-06-23T05:46:36+00:00"
+    "url": "https://x.com/AJENews/status/-762983809943853877",
+    "timestamp": "2026-06-23T15:50:35.000197+00:00",
+    "original_time": "2026-06-23T09:41:12+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1765291272323929498",
+    "id": "tweet_CBSNews_4355385528758760779",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Millions of honeybees escaped into a rural Texas neighborhood after a semitrailer carrying about 400 hives tipped over, officials said.",
-    "translated_text": "官员称，一辆载有约 400 个蜂巢的半挂车翻倒后，数百万蜜蜂逃进德克萨斯州的一个乡村社区。",
+    "text": "40 drowning deaths reported in France as Europe swelters in heat wave.",
+    "translated_text": "欧洲正遭受热浪侵袭，法国报道有 40 人溺水身亡。",
     "images": [
-      "fa9d8997e365d703.jpg"
+      "24aba2253806f1c4.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-1765291272323929498",
-    "timestamp": "2026-06-23T12:12:08.936885+00:00",
-    "original_time": "2026-06-23T12:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/4355385528758760779",
+    "timestamp": "2026-06-23T15:51:22.365818+00:00",
+    "original_time": "2026-06-23T15:50:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_1420746487355681752",
+    "id": "tweet_CBSNews_8708332326566226817",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The Supreme Court rejects a former Louisiana inmate's effort to sue prison officials after they shaved his dreadlocks.",
+    "translated_text": "最高法院驳回了路易斯安那州一名前囚犯在监狱官员剃掉他的辫子后提出的起诉。",
+    "images": [
+      "1b9dafa36b9b8447.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8708332326566226817",
+    "timestamp": "2026-06-23T15:51:23.085219+00:00",
+    "original_time": "2026-06-23T15:45:57+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-1492926435838363397",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The conflict between Israel and Hezbollah is emerging as a major obstacle to a peace deal between the U.S. and Iran,@HollyMAWilliamsreports. While the U.S. designates Hezbollah as a terrorist organization, the Iran-backed group also operates as a political party and social",
+    "translated_text": "以色列和真主党之间的冲突正在成为美国和伊朗之间达成和平协议的主要障碍，@HollyMAWilliams 报道。虽然美国将真主党列为恐怖组织，但伊朗支持的该组织也作为一个政党和社会组织运作。",
+    "images": [
+      "56aa17a91925e44d.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1492926435838363397",
+    "timestamp": "2026-06-23T15:51:23.804311+00:00",
+    "original_time": "2026-06-23T15:44:46+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_2423988394290983080",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Millions of honeybees escaped into a rural Texas neighborhood after a semitrailer carrying about 400 hives tipped over, officials said. Video shows beekeepers trying to gather up the bees.",
+    "translated_text": "官员称，一辆载有约 400 个蜂巢的半挂车翻倒后，数百万蜜蜂逃进德克萨斯州的一个乡村社区。视频显示养蜂人试图聚集蜜蜂。",
+    "images": [
+      "c2120bcbce0d1dab.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/2423988394290983080",
+    "timestamp": "2026-06-23T15:51:24.282902+00:00",
+    "original_time": "2026-06-23T15:28:48+00:00"
+  },
+  {
+    "id": "tweet_CBSMornings_2446781988502737848",
+    "type": "tweet",
+    "username": "CBSMornings",
+    "text": "A warehouse fire in Los Angeles that started a week ago is still burning.\n\nThe blaze has prompted big concerns for nearby residents, who are being told to wear masks when outside and many of whom have waited on line for free air purifiers from the city.",
+    "translated_text": "一周前开始的洛杉矶仓库火灾仍在燃烧。\n\n这场大火引起了附近居民的极大担忧，他们被告知外出时要戴口罩，其中许多人正在排队等候市政府提供的免费空气净化器。",
+    "images": [
+      "08303052a885eee6.jpg"
+    ],
+    "url": "https://x.com/CBSMornings/status/2446781988502737848",
+    "timestamp": "2026-06-23T15:51:24.447997+00:00",
+    "original_time": "2026-06-23T13:25:12+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-7121248900045565462",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Clive Davis, a legendary music executive who helped shape the careers of generations of artists including Janis Joplin, Bruce Springsteen and Whitney Houston, has died. He was 94.",
@@ -467,12 +524,12 @@
     "images": [
       "2d77d44208df3cde.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1420746487355681752",
-    "timestamp": "2026-06-23T12:12:09.136341+00:00",
+    "url": "https://x.com/CBSNews/status/-7121248900045565462",
+    "timestamp": "2026-06-23T15:51:26.638065+00:00",
     "original_time": "2026-06-23T11:40:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_492562839865205481",
+    "id": "tweet_CBSNews_1622641337947969",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Authorities believe the two ransom notes addressed to Nancy Guthrie's family days after her disappearance — including a note that said she had died — were likely sent by the person or group of people who abducted her, according to investigators familiar with the case.",
@@ -480,12 +537,12 @@
     "images": [
       "1c99bb3b9836913f.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/492562839865205481",
-    "timestamp": "2026-06-23T12:12:09.762033+00:00",
+    "url": "https://x.com/CBSNews/status/1622641337947969",
+    "timestamp": "2026-06-23T15:51:26.831459+00:00",
     "original_time": "2026-06-23T11:20:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_3681844385224291813",
+    "id": "tweet_CBSNews_4548821859641051523",
     "type": "tweet",
     "username": "CBSNews",
     "text": "The most advanced artificial intelligence models are improving quickly enough to outsmart prevailing cybersecurity know-how within months, the Five Eyes spy agency alliance is warning.",
@@ -493,12 +550,12 @@
     "images": [
       "a949d67bb7b55715.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/3681844385224291813",
-    "timestamp": "2026-06-23T12:12:10.177686+00:00",
+    "url": "https://x.com/CBSNews/status/4548821859641051523",
+    "timestamp": "2026-06-23T15:51:27.016691+00:00",
     "original_time": "2026-06-23T11:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7888460329096370712",
+    "id": "tweet_CBSNews_-7723097641354735772",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Iran's foreign ministry spokesman said there were no \"plans for IAEA inspections\" of nuclear sites, contradicting Vice President JD Vance's optimism about United Nations nuclear inspectors returning as soon as this week.",
@@ -506,12 +563,12 @@
     "images": [
       "39539c1fa7d2b80e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7888460329096370712",
-    "timestamp": "2026-06-23T12:12:10.681202+00:00",
+    "url": "https://x.com/CBSNews/status/-7723097641354735772",
+    "timestamp": "2026-06-23T15:51:27.189897+00:00",
     "original_time": "2026-06-23T10:45:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_1230483908661173475",
+    "id": "tweet_CBSNews_-3422184902811250108",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Two people were killed and a child was injured in a shooting inside a Northern California library on Monday, officials said.",
@@ -519,658 +576,69 @@
     "images": [
       "b50828a5fed5dd09.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1230483908661173475",
-    "timestamp": "2026-06-23T12:12:10.898484+00:00",
+    "url": "https://x.com/CBSNews/status/-3422184902811250108",
+    "timestamp": "2026-06-23T15:51:27.406069+00:00",
     "original_time": "2026-06-23T10:30:01+00:00"
   },
   {
-    "id": "article_892192fefb23",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Interstellar comet likely far older than Solar System, say astronomers",
-    "translated_title": "天文学家称，星际彗星可能比太阳系古老得多",
-    "url": "https://www.dawn.com/news/2010188/interstellar-comet-likely-far-older-than-solar-system-say-astronomers",
-    "timestamp": "2026-06-23T12:14:44.498255+00:00",
-    "original_time": "2026-06-23T08:22:14+05:00"
-  },
-  {
-    "id": "article_0abdc5a2fcdc",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "MPA seeks return plan for Tirah IDPs",
-    "translated_title": "MPA 寻求蒂拉境内流离失所者的返回计划",
-    "url": "https://www.dawn.com/news/2010101/mpa-seeks-return-plan-for-tirah-idps",
-    "timestamp": "2026-06-23T12:14:48.484001+00:00",
-    "original_time": "2026-06-23T07:09:42+05:00"
-  },
-  {
-    "id": "article_6c7e9f137d50",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Breathing in Karachi comes with a warning  as air quality deteriorates",
-    "translated_title": "随着空气质量恶化，卡拉奇的呼吸发出警告",
-    "url": "https://www.dawn.com/news/2010125/breathing-in-karachi-comes-with-a-warning-as-air-quality-deteriorates",
-    "timestamp": "2026-06-23T12:14:52.510173+00:00",
-    "original_time": "2026-06-23T07:08:42+05:00"
-  },
-  {
-    "id": "article_0d6455a8005c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Bus terminals in Islamabad closed ahead of Iranian president’s arrival",
-    "translated_title": "伊斯兰堡巴士总站在伊朗总统抵达前关闭",
-    "url": "https://www.dawn.com/news/2010082/bus-terminals-in-islamabad-closed-ahead-of-iranian-presidents-arrival",
-    "timestamp": "2026-06-23T12:14:57.199176+00:00",
-    "original_time": "2026-06-23T07:08:58+05:00"
-  },
-  {
-    "id": "article_4f8a92848e19",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Iranian President Pezeshkian, FM Araghchi arrive in Pakistan",
-    "translated_title": "伊朗总统佩泽什基安和外长阿拉格奇抵达巴基斯坦",
-    "url": "https://www.dawn.com/news/2010220/iranian-president-pezeshkian-fm-araghchi-arrive-in-pakistan",
-    "timestamp": "2026-06-23T12:15:08.110878+00:00",
-    "original_time": "2026-06-23T10:29:58+05:00"
-  },
-  {
-    "id": "article_2ad34a5a1d54",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2010091/youth-shot-dead-over-mobile-phone-video-in-gujrat",
-    "timestamp": "2026-06-23T12:15:34.193442+00:00",
-    "original_time": "2026-06-23T12:15:34.193403+00:00"
-  },
-  {
-    "id": "article_ca893df3186d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "The regional geo-strategic landscape in West Asia post the Iran war",
-    "translated_title": "伊朗战争后西亚地区地缘战略格局",
-    "url": "https://www.dawn.com/news/2009903/the-regional-geo-strategic-landscape-in-west-asia-post-the-iran-war",
-    "timestamp": "2026-06-23T12:15:44.536089+00:00",
-    "original_time": "2026-06-23T15:35:01+05:00"
-  },
-  {
-    "id": "article_06b09670241e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2010172",
-    "timestamp": "2026-06-23T12:16:03.811761+00:00",
-    "original_time": "2026-06-23T12:16:03.811731+00:00"
-  },
-  {
-    "id": "article_113db6e1ede5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Police station targeted with quadcopter in KP's Lakki Marwat",
-    "translated_title": "KP 的 Lakki Marwat 警察局被四轴飞行器袭击",
-    "url": "https://www.dawn.com/news/2010113/police-station-targeted-with-quadcopter-in-kps-lakki-marwat",
-    "timestamp": "2026-06-23T12:16:07.057629+00:00",
-    "original_time": "2026-06-23T07:09:42+05:00"
-  },
-  {
-    "id": "article_095f9a7aabb5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Stocks extend losses on profit-taking",
-    "translated_title": "获利回吐导致股市扩大亏损",
-    "url": "https://www.dawn.com/news/2010130/stocks-extend-losses-on-profit-taking",
-    "timestamp": "2026-06-23T12:16:10.690561+00:00",
-    "original_time": "2026-06-23T07:08:30+05:00"
-  },
-  {
-    "id": "article_f0cf96d9c2ed",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "A budget to forget",
-    "translated_title": "一个容易被遗忘的预算",
-    "url": "https://www.dawn.com/news/2010169/a-budget-to-forget",
-    "timestamp": "2026-06-23T12:16:21.826700+00:00",
-    "original_time": "2026-06-23T07:46:01+05:00"
-  },
-  {
-    "id": "article_1dec6eee5cf3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2009997/india-in-talks-to-sell-supersonic-brahmos-missile-to-uae-sources-say",
-    "timestamp": "2026-06-23T12:16:41.114912+00:00",
-    "original_time": "2026-06-23T12:16:41.114884+00:00"
-  },
-  {
-    "id": "article_13b2d29cedd1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Two tonnes of drugs seized at sea",
-    "translated_title": "海上查获两吨毒品",
-    "url": "https://www.dawn.com/news/2010126",
-    "timestamp": "2026-06-23T12:16:50.572384+00:00",
-    "original_time": "2026-06-23T07:08:42+05:00"
-  },
-  {
-    "id": "article_6e243aa92ade",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Five Eyes spy alliance warns AI can outpace cybersecurity norms 'in months, not years'",
-    "translated_title": "五眼间谍联盟警告人工智能可以“在几个月而不是几年内”超越网络安全规范",
-    "url": "https://www.dawn.com/news/2010237/five-eyes-spy-alliance-warns-ai-can-outpace-cybersecurity-norms-in-months-not-years",
-    "timestamp": "2026-06-23T12:16:53.846820+00:00",
-    "original_time": "2026-06-23T12:37:12+05:00"
-  },
-  {
-    "id": "article_9e47135bd994",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "18-year-old thalassemia patient becomes Attock deputy commissioner for a day",
-    "translated_title": "18岁地中海贫血患者成为Attock副专员一天",
-    "url": "https://www.dawn.com/news/2010084/18-year-old-thalassemia-patient-becomes-attock-deputy-commissioner-for-a-day",
-    "timestamp": "2026-06-23T12:17:04.859660+00:00",
-    "original_time": "2026-06-23T07:08:58+05:00"
-  },
-  {
-    "id": "article_77bd378bf4fb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "FIA books Capital Development Authority officials for alleged land fraud",
-    "translated_title": "国际汽联因涉嫌土地欺诈而对资本发展局官员进行处罚",
-    "url": "https://www.dawn.com/news/2010081/fia-books-capital-development-authority-officials-for-alleged-land-fraud",
-    "timestamp": "2026-06-23T12:17:10.516248+00:00",
-    "original_time": "2026-06-23T07:08:58+05:00"
-  },
-  {
-    "id": "article_1c8264517067",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "England pick uncapped James Coles for India T20s",
-    "translated_title": "英格兰队选择未上场的詹姆斯·科尔斯参加印度T20s比赛",
-    "url": "https://www.dawn.com/news/2010199/england-pick-uncapped-james-coles-for-india-t20s",
-    "timestamp": "2026-06-23T12:17:21.244849+00:00",
-    "original_time": "2026-06-23T08:36:56+05:00"
-  },
-  {
-    "id": "article_4deb1d7a01a5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt urged to integrate climate strategies into budgetary planning",
-    "translated_title": "敦促政府将气候战略纳入预算规划",
-    "url": "https://www.dawn.com/news/2010073/govt-urged-to-integrate-climate-strategies-into-budgetary-planning",
-    "timestamp": "2026-06-23T12:17:25.283783+00:00",
-    "original_time": "2026-06-23T07:08:58+05:00"
-  },
-  {
-    "id": "article_4ed4f2041b08",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PTI bigwigs Gohar Ali Khan, Salman Akram Raja eye meeting with Imran",
-    "translated_title": "PTI 大佬 Gohar Ali Khan、Salman Akram Raja 会见伊姆兰",
-    "url": "https://www.dawn.com/news/2010145/pti-bigwigs-gohar-ali-khan-salman-akram-raja-eye-meeting-with-imran",
-    "timestamp": "2026-06-23T12:17:29.249183+00:00",
-    "original_time": "2026-06-23T07:05:48+05:00"
-  },
-  {
-    "id": "article_431109d0c107",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2009650/belgium-face-iran-in-pivotal-group-g-clash-amid-travel-row",
-    "timestamp": "2026-06-23T12:17:48.351890+00:00",
-    "original_time": "2026-06-23T12:17:48.351860+00:00"
-  },
-  {
-    "id": "article_cb07e445f524",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Peshawar-Torkham motorway project may be revamped",
-    "translated_title": "白沙瓦-托克汉姆高速公路项目可能会进行改造",
-    "url": "https://www.dawn.com/news/2010134/peshawar-torkham-motorway-project-may-be-revamped",
-    "timestamp": "2026-06-23T12:17:51.486011+00:00",
-    "original_time": "2026-06-23T07:08:30+05:00"
-  },
-  {
-    "id": "article_2e588a61e68f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Reply sought over inquiry against former NCCIA officer",
-    "translated_title": "对前 NCCIA 官员的调查寻求答复",
-    "url": "https://www.dawn.com/news/2010158/reply-sought-over-inquiry-against-former-nccia-officer",
-    "timestamp": "2026-06-23T12:17:57.939984+00:00",
-    "original_time": "2026-06-23T07:26:27+05:00"
-  },
-  {
-    "id": "article_86ecf8edc6fc",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Experts urge protection of Margalla Hills National Park",
-    "translated_title": "专家敦促保护马加拉山国家公园",
-    "url": "https://www.dawn.com/news/2010078/experts-urge-protection-of-margalla-hills-national-park",
-    "timestamp": "2026-06-23T12:18:01.535092+00:00",
-    "original_time": "2026-06-23T07:08:58+05:00"
-  },
-  {
-    "id": "article_660ae685b72c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Syed Babar Ali and Sardar Harcharan Singh Brar : A lifelong school friendship that transcended borders, faiths",
-    "translated_title": "赛义德·巴巴尔·阿里和萨达尔·哈查兰·辛格·布拉尔：超越国界、信仰的终生校园友谊",
-    "url": "https://www.dawn.com/news/2010096/syed-babar-ali-and-sardar-harcharan-singh-brar-a-lifelong-school-friendship-that-transcended-borders-faiths",
-    "timestamp": "2026-06-23T12:18:07.573401+00:00",
-    "original_time": "2026-06-23T07:08:49+05:00"
-  },
-  {
-    "id": "article_b1e2e7db8768",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Indian startup head Kunal Shah appointed as new WhatsApp boss",
-    "translated_title": "印度初创公司负责人 Kunal Shah 被任命为 WhatsApp 新任老板",
-    "url": "https://www.dawn.com/news/2010231/indian-startup-head-kunal-shah-appointed-as-new-whatsapp-boss",
-    "timestamp": "2026-06-23T12:18:11.309878+00:00",
-    "original_time": "2026-06-23T11:42:33+05:00"
-  },
-  {
-    "id": "article_0415bae2b780",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PHC’s reform initiatives to address challenges in judicial system",
-    "translated_title": "初级卫生委员会应对司法系统挑战的改革举措",
-    "url": "https://www.dawn.com/news/2010107/phcs-reform-initiatives-to-address-challenges-in-judicial-system",
-    "timestamp": "2026-06-23T12:18:14.982822+00:00",
-    "original_time": "2026-06-23T07:09:42+05:00"
-  },
-  {
-    "id": "article_0aa1ff192a3a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Unsustainable growth",
-    "translated_title": "不可持续的增长",
-    "url": "https://www.dawn.com/news/2010167",
-    "timestamp": "2026-06-23T12:18:25.402753+00:00",
-    "original_time": "2026-06-23T07:39:10+05:00"
-  },
-  {
-    "id": "article_60825f4f8ac5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "JAAC protesters to announce next moves today",
-    "translated_title": "JAAC 抗议者今天宣布下一步行动",
-    "url": "https://www.dawn.com/news/2010160/jaac-protesters-to-announce-next-moves-today",
-    "timestamp": "2026-06-23T12:18:29.454799+00:00",
-    "original_time": "2026-06-23T07:30:54+05:00"
-  },
-  {
-    "id": "article_9bef6561d2e1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "NCCIA nabs three men impersonating bankers in Lahore",
-    "translated_title": "NCCIA 在拉合尔抓获三名冒充银行家的男子",
-    "url": "https://www.dawn.com/news/2010100/nccia-nabs-three-men-impersonating-bankers-in-lahore",
-    "timestamp": "2026-06-23T12:18:33.687315+00:00",
-    "original_time": "2026-06-23T07:08:49+05:00"
-  },
-  {
-    "id": "article_795afc20da52",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "BUDGET 2026-27: Budget approval in final stages as grants finalised",
-    "translated_title": "2026-27 年预算：赠款最终确定后，预算已进入最后阶段批准",
-    "url": "https://www.dawn.com/news/2010148",
-    "timestamp": "2026-06-23T12:18:36.829323+00:00",
-    "original_time": "2026-06-23T07:13:09+05:00"
-  },
-  {
-    "id": "article_ba204fecd63a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Nooh wins double gold despite injury, doping rivals",
-    "translated_title": "尽管受伤，努赫仍赢得双金，并给对手服用兴奋剂",
-    "url": "https://www.dawn.com/news/2010194",
-    "timestamp": "2026-06-23T12:18:41.930548+00:00",
-    "original_time": "2026-06-23T08:28:17+05:00"
-  },
-  {
-    "id": "article_05ac7f7918b0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Israel holding bodies of two teens killed in West Bank",
-    "translated_title": "以色列扣留两名在约旦河西岸被杀青少年的尸体",
-    "url": "https://www.dawn.com/news/2010184/israel-holding-bodies-of-two-teens-killed-in-west-bank",
-    "timestamp": "2026-06-23T12:18:58.736436+00:00",
-    "original_time": "2026-06-23T08:15:20+05:00"
-  },
-  {
-    "id": "article_38d2ec5a00ba",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Diaspora World Cup champions diversity over division",
-    "translated_title": "海外侨民世界杯倡导多元化而非分区",
-    "url": "https://www.dawn.com/news/2010241/diaspora-world-cup-champions-diversity-over-division",
-    "timestamp": "2026-06-23T12:19:19.502873+00:00",
-    "original_time": "2026-06-23T13:13:05+05:00"
-  },
-  {
-    "id": "article_a38664fa93c8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Why undoing the 'tangled nest' of Iran sanctions won't be easy or quick for the US",
-    "translated_title": "为什么解除伊朗制裁的“错综复杂的巢穴”对美国来说并不容易或快速",
-    "url": "https://www.dawn.com/news/2010224/why-undoing-the-tangled-nest-of-iran-sanctions-wont-be-easy-or-quick-for-the-us",
-    "timestamp": "2026-06-23T12:19:22.991274+00:00",
-    "original_time": "2026-06-23T10:47:55+05:00"
-  },
-  {
-    "id": "article_83054e3730a7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Sindh govt to bear medical expenses of injured persons after car rams into tent outside Imambargah in Karachi",
-    "translated_title": "卡拉奇伊曼巴尔加外发生汽车冲撞帐篷事件，信德省政府将承担伤者的医疗费用",
-    "url": "https://www.dawn.com/news/2010227/sindh-govt-to-bear-medical-expenses-of-injured-persons-after-car-rams-into-tent-outside-imambargah-in-karachi",
-    "timestamp": "2026-06-23T12:19:31.168308+00:00",
-    "original_time": "2026-06-23T11:22:05+05:00"
-  },
-  {
-    "id": "article_309516b3e663",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Taliban govt detains aid workers over ‘beard length’",
-    "translated_title": "塔利班政府因“留胡子”而拘留援助人员",
-    "url": "https://www.dawn.com/news/2010140/taliban-govt-detains-aid-workers-over-beard-length",
-    "timestamp": "2026-06-23T12:19:42.388207+00:00",
-    "original_time": "2026-06-23T07:08:22+05:00"
-  },
-  {
-    "id": "article_c8fab6027e22",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Algeria rally to eliminate FIFA World Cup debutants Jordan in 2-1 win",
-    "translated_title": "阿尔及利亚队2-1击败世界杯首次亮相的约旦队",
-    "url": "https://www.dawn.com/news/2010232/algeria-rally-to-eliminate-fifa-world-cup-debutants-jordan-in-2-1-win",
-    "timestamp": "2026-06-23T12:19:51.768847+00:00",
-    "original_time": "2026-06-23T11:58:13+05:00"
-  },
-  {
-    "id": "article_a67916c7ec5d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Two bodies found in Mastung",
-    "translated_title": "马斯通发现两具尸体",
-    "url": "https://www.dawn.com/news/2010155/two-bodies-found-in-mastung",
-    "timestamp": "2026-06-23T12:20:00.891805+00:00",
-    "original_time": "2026-06-23T07:25:12+05:00"
-  },
-  {
-    "id": "article_47b7fb790603",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "SC upholds life term for man convicted of killing parents",
-    "translated_title": "SC维持杀害父母罪名成立的男子终身监禁",
-    "url": "https://www.dawn.com/news/2010159/sc-upholds-life-term-for-man-convicted-of-killing-parents",
-    "timestamp": "2026-06-23T12:20:04.345362+00:00",
-    "original_time": "2026-06-23T07:29:51+05:00"
-  },
-  {
-    "id": "article_556de715a697",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Myanmar army killed over 700 civilians in six months: UN",
-    "translated_title": "联合国：缅甸军队六个月内杀害700多名平民",
-    "url": "https://www.dawn.com/news/2010173/myanmar-army-killed-over-700-civilians-in-six-months-un",
-    "timestamp": "2026-06-23T12:20:31.585543+00:00",
-    "original_time": "2026-06-23T07:55:37+05:00"
-  },
-  {
-    "id": "article_adc86d43a1de",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Wyndham Clark edges Burns to win second US Open title",
-    "translated_title": "温德姆克拉克击败伯恩斯第二次夺得美国公开赛冠军",
-    "url": "https://www.dawn.com/news/2010200/wyndham-clark-edges-burns-to-win-second-us-open-title",
-    "timestamp": "2026-06-23T12:20:35.425871+00:00",
-    "original_time": "2026-06-23T08:37:25+05:00"
-  },
-  {
-    "id": "article_667c5e182d59",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Two-goal Haaland fires Norway into World Cup last-32",
-    "translated_title": "哈兰德梅开二度帮助挪威晋级世界杯32强",
-    "url": "https://www.dawn.com/news/2010150/two-goal-haaland-fires-norway-into-world-cup-last-32",
-    "timestamp": "2026-06-23T12:20:39.873827+00:00",
-    "original_time": "2026-06-23T07:20:15+05:00"
-  },
-  {
-    "id": "article_47d41a98ea2e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Shopkeepers fined for profiteering, hoarding in Lahore",
-    "translated_title": "拉合尔店主因牟取暴利和囤积居奇而被罚款",
-    "url": "https://www.dawn.com/news/2010098/shopkeepers-fined-for-profiteering-hoarding-in-lahore",
-    "timestamp": "2026-06-23T12:20:47.242117+00:00",
-    "original_time": "2026-06-23T07:08:49+05:00"
-  },
-  {
-    "id": "article_fd04ab63bfdb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP BUDGET 2026-27 : PTI lawmakers flay govt for rejecting their proposals",
-    "translated_title": "2026-27 年 KP 预算：PTI 立法者谴责政府拒绝他们的提案",
-    "url": "https://www.dawn.com/news/2010109",
-    "timestamp": "2026-06-23T12:20:50.971638+00:00",
-    "original_time": "2026-06-23T07:09:42+05:00"
-  },
-  {
-    "id": "article_b051f1b1db79",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Diplomats scramble as doubts persist over Lebanon truce",
-    "translated_title": "黎巴嫩休战仍存疑虑，外交官们争先恐后",
-    "url": "https://www.dawn.com/news/2010142/diplomats-scramble-as-doubts-persist-over-lebanon-truce",
-    "timestamp": "2026-06-23T12:21:07.332306+00:00",
-    "original_time": "2026-06-23T07:08:22+05:00"
-  },
-  {
-    "id": "article_c42f4c0489a4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "BUDGET 2026-27 : NA panel proposes 30 major changes to Finance Bill",
-    "translated_title": "2026-27 预算：NA 小组提议对财务法案进行 30 项重大修改",
-    "url": "https://www.dawn.com/news/2010135",
-    "timestamp": "2026-06-23T12:21:11.351203+00:00",
-    "original_time": "2026-06-23T07:08:30+05:00"
-  },
-  {
-    "id": "article_850cec23d840",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "China joins India, Iran as key security officials gather at BRICS",
-    "translated_title": "中国加入印度、伊朗行列，主要安全官员齐聚金砖国家",
-    "url": "https://www.dawn.com/news/2010139/china-joins-india-iran-as-key-security-officials-gather-at-brics",
-    "timestamp": "2026-06-23T12:21:18.135381+00:00",
-    "original_time": "2026-06-23T07:08:22+05:00"
-  },
-  {
-    "id": "article_15127e674436",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PUNJAB BUDGET 2026-27 : Opposition raises questions over legality of Punjab budget",
-    "translated_title": "2026-27 年旁遮普邦预算：反对派对旁遮普邦预算的合法性提出质疑",
-    "url": "https://www.dawn.com/news/2010099",
-    "timestamp": "2026-06-23T12:21:31.831719+00:00",
-    "original_time": "2026-06-23T07:08:49+05:00"
-  },
-  {
-    "id": "article_a0ededfaec85",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Dar says US-Iran talks in Switzerland could have happened earlier if not for Israel's attacks on Lebanon",
-    "translated_title": "达尔表示，如果不是以色列袭击黎巴嫩，美伊在瑞士举行的会谈可能会更早举行",
-    "url": "https://www.dawn.com/news/2010236/dar-says-us-iran-talks-in-switzerland-could-have-happened-earlier-if-not-for-israels-attacks-on-lebanon",
-    "timestamp": "2026-06-23T12:21:40.848974+00:00",
-    "original_time": "2026-06-23T12:35:05+05:00"
-  },
-  {
-    "id": "article_b3dd833729f8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Master plan revision remains stalled as Islamabad grows rapidly",
-    "translated_title": "随着伊斯兰堡的快速发展，总体规划的修订仍然停滞不前",
-    "url": "https://www.dawn.com/news/2010083/master-plan-revision-remains-stalled-as-islamabad-grows-rapidly",
-    "timestamp": "2026-06-23T12:21:47.557480+00:00",
-    "original_time": "2026-06-23T07:08:58+05:00"
-  },
-  {
-    "id": "article_a4739df86d09",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2010127/muttahida-ppp-lawmakers-nearly-come-to-blows-as-sindh-assembly-session-descends-into-chaos",
-    "timestamp": "2026-06-23T12:22:11.596915+00:00",
-    "original_time": "2026-06-23T12:22:11.596883+00:00"
-  },
-  {
-    "id": "article_8abc87920201",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "2 kids found dead in car as heatwave blasts Europe",
-    "translated_title": "热浪席卷欧洲 两名儿童被发现死在车内",
-    "url": "https://www.dawn.com/news/2010190/2-kids-found-dead-in-car-as-heatwave-blasts-europe",
-    "timestamp": "2026-06-23T12:22:14.877552+00:00",
-    "original_time": "2026-06-23T08:23:39+05:00"
-  },
-  {
-    "id": "article_e64fe49648e8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Emergency left and right",
-    "translated_title": "紧急左、右",
-    "url": "https://www.dawn.com/news/2010171",
-    "timestamp": "2026-06-23T12:22:27.482045+00:00",
-    "original_time": "2026-06-23T07:48:24+05:00"
-  },
-  {
-    "id": "article_90e810df140e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "North Korea's Kim Jong ‌Un says country will exercise its position as nuclear state",
-    "translated_title": "朝鲜金正恩表示该国将行使核国家地位",
-    "url": "https://www.dawn.com/news/2010233/north-koreas-kim-jong-un-says-country-will-exercise-its-position-as-nuclear-state",
-    "timestamp": "2026-06-23T12:22:33.969095+00:00",
-    "original_time": "2026-06-23T11:55:09+05:00"
-  },
-  {
-    "id": "article_3ac2cf6bcd6a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt borrows Rs4.9tr from banks",
-    "translated_title": "政府从银行借了 4.9tr 卢比",
-    "url": "https://www.dawn.com/news/2010132/govt-borrows-rs49tr-from-banks",
-    "timestamp": "2026-06-23T12:22:37.552987+00:00",
-    "original_time": "2026-06-23T07:08:30+05:00"
-  },
-  {
-    "id": "article_4c715ebacbfe",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Philippines rethinks school safety after rare shooting kills 3",
-    "translated_title": "罕见枪击造成三人死亡后，菲律宾重新考虑学校安全",
-    "url": "https://www.dawn.com/news/2010258/philippines-rethinks-school-safety-after-rare-shooting-kills-3",
-    "timestamp": "2026-06-23T12:22:43.635473+00:00",
-    "original_time": "2026-06-23T14:39:49+05:00"
-  },
-  {
-    "id": "article_36b021d0b61f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Minister announces compensation for slain Sikh couple",
-    "translated_title": "部长宣布对遇难锡克教夫妇进行赔偿",
-    "url": "https://www.dawn.com/news/2010105/minister-announces-compensation-for-slain-sikh-couple",
-    "timestamp": "2026-06-23T12:22:47.659672+00:00",
-    "original_time": "2026-06-23T07:09:42+05:00"
-  },
-  {
-    "id": "article_db4aa91d77be",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Cases against people seeking remedy from courts won’t be tolerated: LHC",
-    "translated_title": "LHC 不会容忍针对向法院寻求救济的人的案件",
-    "url": "https://www.dawn.com/news/2010097/cases-against-people-seeking-remedy-from-courts-wont-be-tolerated-lhc",
-    "timestamp": "2026-06-23T12:23:00.032502+00:00",
-    "original_time": "2026-06-23T07:08:49+05:00"
-  },
-  {
-    "id": "article_ce761456dd3c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "NA passes budget for FY2026-27 following opposition walkout",
-    "translated_title": "反对党罢工后，NA通过2026-27财年预算",
-    "url": "https://www.dawn.com/news/2010249/na-passes-budget-for-fy2026-27-following-opposition-walkout",
-    "timestamp": "2026-06-23T12:23:03.761315+00:00",
-    "original_time": "2026-06-23T13:37:38+05:00"
-  },
-  {
-    "id": "article_6ca43d6146d4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "‘Sindh cannot be turned into a scapegoat for federal inefficiency’",
-    "translated_title": "“信德省不能成为联邦政府效率低下的替罪羊”",
-    "url": "https://www.dawn.com/news/2010124",
-    "timestamp": "2026-06-23T12:23:06.983782+00:00",
-    "original_time": "2026-06-23T07:08:42+05:00"
-  },
-  {
-    "id": "article_7a25c6a5f0ee",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP to digitise all payments to govt by Sept 1",
-    "translated_title": "KP 将于 9 月 1 日之前将向政府支付的所有款项数字化",
-    "url": "https://www.dawn.com/news/2010111/kp-to-digitise-all-payments-to-govt-by-sept-1",
-    "timestamp": "2026-06-23T12:23:12.825360+00:00",
-    "original_time": "2026-06-23T07:09:42+05:00"
-  },
-  {
-    "id": "article_6d033cd698e5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Headway in Swiss talks as US allows Iran to sell its oil",
-    "translated_title": "美国允许伊朗出售石油，瑞士谈判取得进展",
-    "url": "https://www.dawn.com/news/2010154/headway-in-swiss-talks-as-us-allows-iran-to-sell-its-oil",
-    "timestamp": "2026-06-23T12:23:19.804728+00:00",
-    "original_time": "2026-06-23T07:24:26+05:00"
-  },
-  {
-    "id": "article_f5ce61193eb0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Justice Munib Akhtar takes oath as acting CJP",
-    "translated_title": "穆尼布·阿赫塔尔法官宣誓就任代理 CJP",
-    "url": "https://www.dawn.com/news/2010162/justice-munib-akhtar-takes-oath-as-acting-cjp",
-    "timestamp": "2026-06-23T12:23:25.362075+00:00",
-    "original_time": "2026-06-23T07:32:15+05:00"
-  },
-  {
-    "id": "article_7c8b0e39f450",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Hafiz Naeem criticises PPP over lack of implementation on minimum wage",
-    "translated_title": "哈菲兹·纳伊姆批评 PPP 未落实最低工资",
-    "url": "https://www.dawn.com/news/2010123/hafiz-naeem-criticises-ppp-over-lack-of-implementation-on-minimum-wage",
-    "timestamp": "2026-06-23T12:23:37.792428+00:00",
-    "original_time": "2026-06-23T07:08:42+05:00"
-  },
-  {
-    "id": "article_6f2a7beacbb3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Judicial Service Tribunal to hear grievances of around 30 judges today",
-    "translated_title": "司法服务法庭今天将听取约30名法官的申诉",
-    "url": "https://www.dawn.com/news/2010161/judicial-service-tribunal-to-hear-grievances-of-around-30-judges-today",
-    "timestamp": "2026-06-23T12:23:43.424636+00:00",
-    "original_time": "2026-06-23T07:31:47+05:00"
+    "id": "tweet_CBSNews_3197430512736628276",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Scientists discover new parasite in jungle that preys on insect-killing \"zombie fungus.\"",
+    "translated_text": "科学家在丛林中发现了一种新的寄生虫，它以杀死昆虫的“僵尸真菌”为食。",
+    "images": [
+      "c60cb2b648ae17ce.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3197430512736628276",
+    "timestamp": "2026-06-23T15:51:27.604816+00:00",
+    "original_time": "2026-06-23T10:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-1520411921826316931",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Diagnosed with Stage 4 cancer and given just 8 months to live, a teen beat the odds thanks to an extraordinary friendship.",
+    "translated_text": "一名青少年被诊断出患有第四期癌症，只剩下 8 个月的生命，但凭借非凡的友谊战胜了困难。",
+    "images": [
+      "02cd47d97bf7d976.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1520411921826316931",
+    "timestamp": "2026-06-23T15:51:27.780141+00:00",
+    "original_time": "2026-06-23T09:00:01+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-8961103389162243079",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A strange symptom during his daily commute led to a man's Stage IV cancer diagnosis.",
+    "translated_text": "一名男子在日常通勤途中出现的奇怪症状导致他被诊断出患有第四期癌症。",
+    "images": [
+      "4cb317652658c28d.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-8961103389162243079",
+    "timestamp": "2026-06-23T15:51:27.932462+00:00",
+    "original_time": "2026-06-23T08:00:00+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_2761455636080182167",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "VP Vance and Sec. Rubio called Lebanon’s President today.",
+    "translated_text": "副总裁万斯和秘书。卢比奥今天致电黎巴嫩总统。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/2761455636080182167",
+    "timestamp": "2026-06-23T15:52:10.763713+00:00",
+    "original_time": "2026-06-23T14:55:56+00:00"
+  },
+  {
+    "id": "tweet_ChadPergram_4310600855963570231",
+    "type": "tweet",
+    "username": "ChadPergram",
+    "text": "House plans to sync up with the Senate tonight on bipartisan housing bill",
+    "translated_text": "众议院计划今晚与参议院就两党住房法案保持同步",
+    "images": [],
+    "url": "https://x.com/ChadPergram/status/4310600855963570231",
+    "timestamp": "2026-06-23T15:52:11.259012+00:00",
+    "original_time": "2026-06-23T14:11:19+00:00"
   }
 ]
