@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_14706097091501254",
+    "id": "tweet_ForeignOfficePk_7922029740756096140",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./12th Round of the Pakistan-Russia Joint Working Group to Counter International Terrorism",
@@ -17,12 +17,12 @@
       "1d7695f51048fca1.svg",
       "268f28305e1eebff.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/14706097091501254",
-    "timestamp": "2026-06-23T15:47:45.233795+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/7922029740756096140",
+    "timestamp": "2026-06-23T17:53:27.906006+00:00",
     "original_time": "2026-06-23T14:36:12+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_9160675223297965614",
+    "id": "tweet_ForeignOfficePk_-6850336786271232376",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Foreign Minister of Iran, H.E. Seyyed Abbas Araghchi@araghchiarrived in Islamabad today as part of the delegation accompanying the President of the Islamic Republic of Iran, H.E. Dr. Masoud Pezeshkian, on his State Visit to Pakistan.\n\nUpon arrival at Nur Khan Airbase, Foreign",
@@ -33,12 +33,12 @@
       "abfa382845139bdd.jpg",
       "6b6c647c83362bf3.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/9160675223297965614",
-    "timestamp": "2026-06-23T15:47:46.019516+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-6850336786271232376",
+    "timestamp": "2026-06-23T17:53:28.251975+00:00",
     "original_time": "2026-06-23T10:55:35+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-4978491469792273791",
+    "id": "tweet_ForeignOfficePk_167179256612958168",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "The 12th meeting of the Pakistan-Russia Joint Working Group to Counter International Terrorism was held in Islamabad on 23 June 2026. Additional Secretary (Ministry of Foreign Affairs) Ambassador Muhammad Khalid Khan Jamali and Russian Federation Deputy Minister for Foreign",
@@ -47,23 +47,63 @@
       "d3177a76d66dead9.jpg",
       "b131b01546a017e6.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-4978491469792273791",
-    "timestamp": "2026-06-23T15:47:46.746976+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/167179256612958168",
+    "timestamp": "2026-06-23T17:53:28.572026+00:00",
     "original_time": "2026-06-23T10:13:34+00:00"
   },
   {
-    "id": "tweet_PakPMO_7974929641929438134",
+    "id": "tweet_PakPMO_5924753275856198665",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "اسلام آباد: 23 جون 2026.\n\nکالج آف فزیشنز اینڈ سرجنز آف پاکستان کی جانب سے ایران کے صدر عزت مآب ڈاکٹر مسعود پزشکیان کو انکی صحت عامہ کی خدمات، شعبہ صحت کی تعلیم، طب کی تحقیق اور محنت و لگن کے ساتھ معاشرے کی خدمات کے اعتراف میں (Cardiac Surgery) شعبہ جراحیِ قلب میں اعزازی فیلو شپ",
+    "translated_text": "伊斯兰堡：2026 年 6 月 23 日。\n\n我代表巴基斯坦内外科医师学院向尊敬的伊朗总统马苏德·巴齐基安博士授予心脏外科荣誉院士称号，以表彰他通过辛勤工作和奉献精神为公共卫生、健康教育、医学研究和社区服务做出的贡献。",
+    "images": [],
+    "url": "https://x.com/PakPMO/status/5924753275856198665",
+    "timestamp": "2026-06-23T17:54:10.094811+00:00",
+    "original_time": "2026-06-23T17:53:47+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_1038295530269647835",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif and President of Iran Dr. Masoud Pezeshkian meet in Islamabad on 23 June 2026.",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫和伊朗总统马苏德·佩泽什基安博士于 2026 年 6 月 23 日在伊斯兰堡会面。",
+    "images": [
+      "d5cfdde9a50fe4fa.jpg",
+      "ed1cda6ff6278576.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/1038295530269647835",
+    "timestamp": "2026-06-23T17:54:10.307163+00:00",
+    "original_time": "2026-06-23T17:36:13+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_3192432250285538359",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif confers the honorary fellowship of College of Physicians and Surgeons of Pakistan regarding Cardiac Surgery to President of Iran Dr. Masoud Pezeshkian in Islamabad, 23 June 2026.",
+    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理于 2026 年 6 月 23 日在伊斯兰堡向伊朗总统马苏德·佩泽什基安博士授予巴基斯坦内外科医学院心脏外科荣誉院士称号。",
+    "images": [
+      "056131df09b400b8.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/3192432250285538359",
+    "timestamp": "2026-06-23T17:54:10.525945+00:00",
+    "original_time": "2026-06-23T16:51:15+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_1738844722999186457",
     "type": "tweet",
     "username": "PakPMO",
     "text": "A reception ceremony was held at the Prime Minister's House in honor of the President of Iran, Dr. Masood Pezeshkian. The Prime Minister introduced members of the federal cabinet to the President of Iran, while the Iranian President also introduced the members of his delegation",
     "translated_text": "为纪念伊朗总统马苏德·佩泽什基安博士，在总理府举行了招待会。总理向伊朗总统介绍了联邦内阁成员，伊朗总统也介绍了其代表团成员",
-    "images": [],
-    "url": "https://x.com/PakPMO/status/7974929641929438134",
-    "timestamp": "2026-06-23T15:48:25.411535+00:00",
+    "images": [
+      "884f04deb37bdc17.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/1738844722999186457",
+    "timestamp": "2026-06-23T17:54:10.711840+00:00",
     "original_time": "2026-06-23T15:24:40+00:00"
   },
   {
-    "id": "tweet_PakPMO_-1091890870314790955",
+    "id": "tweet_PakPMO_6148866907364102954",
     "type": "tweet",
     "username": "PakPMO",
     "text": "A reception ceremony was held at the Prime Minister's House in honor of the President of Iran, Dr. Masood Pezeshkian. The President of Iran was presented with a guard of honor by a smartly turned-out contingent of the armed forces. The Iranian President inspected the guard of",
@@ -71,235 +111,273 @@
     "images": [
       "b559c0c0b05980ce.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-1091890870314790955",
-    "timestamp": "2026-06-23T15:48:25.995432+00:00",
+    "url": "https://x.com/PakPMO/status/6148866907364102954",
+    "timestamp": "2026-06-23T17:54:10.893929+00:00",
     "original_time": "2026-06-23T15:19:25+00:00"
   },
   {
-    "id": "tweet_PakPMO_-2888688119933784011",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Upon his arrival at the Prime Minister's House, Prime Minister Muhammad Shehbaz Sharif extended a warm welcome to the President of Iran, Dr. Masoud Pezeshkian, and a reception ceremony was held in his honor.",
-    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理抵达总理府后，对伊朗总统马苏德·佩泽什基安博士表示热烈欢迎，并举行招待仪式。",
-    "images": [
-      "7b5d07b764e5054f.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-2888688119933784011",
-    "timestamp": "2026-06-23T15:48:26.598172+00:00",
-    "original_time": "2026-06-23T15:18:10+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_-3949569160730477946",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Islamabad: 23 June 2026.\n\nBilateral meeting begins between Prime Minister Muhammad Shehbaz Sharif and Iranian President Dr. Masoud Pezeshkian.\n\nDeputy Prime Minister and Foreign Minister Senator Muhammad Ishaq Dar and Chief of Army Staff and Chief of Defence Forces Field Marshal",
-    "translated_text": "伊斯兰堡：2026 年 6 月 23 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫和伊朗总统马苏德·佩泽什基安博士开始双边会议。\n\n副总理兼外交部长参议员穆罕默德·伊沙克·达尔和陆军参谋长兼国防军总司令陆军元帅",
-    "images": [
-      "f90f6c202e455591.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-3949569160730477946",
-    "timestamp": "2026-06-23T15:48:26.836105+00:00",
-    "original_time": "2026-06-23T15:00:11+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_1521131433286171920",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "The President of Islamic Republic of Iran Dr. Masoud Pezeshkian plants a sapling in the lawn of  the Prime Minister's House (23 June, 2026).",
-    "translated_text": "伊朗伊斯兰共和国总统马苏德·佩泽什基安博士在总理府的草坪上种植了一棵树苗（2026 年 6 月 23 日）。",
-    "images": [
-      "d4dcf079be944d6e.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/1521131433286171920",
-    "timestamp": "2026-06-23T15:48:27.023833+00:00",
-    "original_time": "2026-06-23T14:09:21+00:00"
-  },
-  {
-    "id": "tweet_IraninIslamabad_4167595492646983880",
-    "type": "tweet",
-    "username": "IraninIslamabad",
-    "text": "At the invitation of H.E. Muhammad Shehbaz Sharif, Honorable Prime Minister of the Islamic Republic of Pakistan, H.E. Dr. Masoud Pezeshkian, Honorable President of the Islamic Republic of Iran visits the brotherly county of Pakistan at the head of a high ranking delegation today.",
-    "translated_text": "应 H.E.穆罕默德·谢赫巴兹·谢里夫阁下，巴基斯坦伊斯兰共和国总理伊朗伊斯兰共和国尊敬的总统马苏德·佩泽什基安博士今天率高级代表团访问了兄弟国家巴基斯坦。",
-    "images": [
-      "7f0611b9be8eeda6.jpg"
-    ],
-    "url": "https://x.com/IraninIslamabad/status/4167595492646983880",
-    "timestamp": "2026-06-23T15:48:43.800640+00:00",
-    "original_time": "2026-06-23T05:49:27+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-8610277135213492991",
+    "id": "tweet_PakTVGlobal_-9020506116182312867",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Prime Minister Shehbaz Sharif says, \"Pakistan will do whatever it can for lasting peace in the region, guided by dignity, honour and sincere diplomacy.\" Addressing the delegation- level talks with Iranian President Masoud Pezeshkian, Prime Minister reaffirmed Islamabad’s",
-    "translated_text": "谢赫巴兹·谢里夫总理表示：“巴基斯坦将在尊严、荣誉和真诚外交的指导下，竭尽全力实现该地区的持久和平。”总理在与伊朗总统马苏德·佩泽什基安的代表团级会谈中重申伊斯兰堡的",
-    "images": [
-      "76977deb68df7e46.jpg",
-      "ea843553df2e0f20.jpg",
-      "0db3fa8d8883b38a.jpg",
-      "e9f97c9b9c872a9d.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-8610277135213492991",
-    "timestamp": "2026-06-23T15:48:59.599783+00:00",
-    "original_time": "2026-06-23T15:47:42+00:00"
+    "text": "A spectacular aerial reception marked Iranian President Dr. Masoud Pezeshkian’s arrival in Pakistan, with six Pakistan Air Force JF-17 Thunder and F-16 fighter jets escorting his aircraft through Pakistani airspace. The ceremonial welcome underscored the deep brotherly ties",
+    "translated_text": "一场盛大的空中招待会标志着伊朗总统马苏德·佩泽什基安博士抵达巴基斯坦，巴基斯坦空军的六架 JF-17 雷电和 F-16 战斗机护送他的飞机穿越巴基斯坦领空。隆重的欢迎仪式凸显了深厚的兄弟情谊",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-9020506116182312867",
+    "timestamp": "2026-06-23T17:54:42.860058+00:00",
+    "original_time": "2026-06-23T17:13:38+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2143583718281501680",
+    "id": "tweet_PakTVGlobal_-5962093411621320203",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Prime Minister Shehbaz Sharif addresses the Pakistan-Iran delegation-level talks",
-    "translated_text": "谢赫巴兹·谢里夫总理在巴基斯坦-伊朗代表团级会谈上发表讲话",
+    "text": "Iranian President Dr. Masoud Pezeshkian has been awarded an Honorary Fellowship in Cardiac Surgery by the College of Physicians and Surgeons of Pakistan in recognition of his contributions to public health, medical education and research.\nPrime Minister Shehbaz Sharif and Field",
+    "translated_text": "伊朗总统马苏德·佩泽什基安博士被巴基斯坦内外科医师学院授予心脏外科荣誉院士称号，以表彰他对公共卫生、医学教育和研究的贡献。\n谢赫巴兹·谢里夫总理和菲尔德",
     "images": [
-      "dab3581848f9ae08.jpg"
+      "ee11813e94751ef1.jpg",
+      "99795867bf9b75c7.jpg",
+      "d0ec6d48c7b8e808.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2143583718281501680",
-    "timestamp": "2026-06-23T15:49:00.208138+00:00",
-    "original_time": "2026-06-23T15:33:59+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-5962093411621320203",
+    "timestamp": "2026-06-23T17:54:43.447392+00:00",
+    "original_time": "2026-06-23T16:58:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6647202685117707877",
+    "id": "tweet_PakTVGlobal_5775217155988251529",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "#BREAKINGIranian President Dr. Masoud Pezeshkian met Prime Minister Shehbaz Sharif in Islamabad for high-level bilateral talks. Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar and Chief of Army Staff Field Marshal Syed Asim Munir also attended the meeting.",
-    "translated_text": "#BREAKING伊朗总统马苏德·佩泽什基安博士在伊斯兰堡会见了谢赫巴兹·谢里夫总理，进行高层双边会谈。副总理兼外交部长参议员穆罕默德·伊沙克·达尔和陆军参谋长赛义德·阿西姆·穆尼尔元帅也出席了会议。",
+    "text": "Iranian President awarded honorary fellowship by Pakistan’s College of Physicians and Surgeons",
+    "translated_text": "伊朗总统荣获巴基斯坦内外科医学院荣誉院士称号",
     "images": [
-      "559e307ac3315169.jpg"
+      "b1552db7d09389d0.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6647202685117707877",
-    "timestamp": "2026-06-23T15:49:01.029176+00:00",
-    "original_time": "2026-06-23T15:08:45+00:00"
+    "url": "https://x.com/PakTVGlobal/status/5775217155988251529",
+    "timestamp": "2026-06-23T17:54:43.841880+00:00",
+    "original_time": "2026-06-23T16:49:41+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-9092433422552580861",
+    "id": "tweet_PakTVGlobal_-8700207059140896178",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Iranian President Dr. Masoud Pezeshkian met Prime Minister Shehbaz Sharif in Islamabad for high-level bilateral talks. Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar and Chief of Army Staff Field Marshal Syed Asim Munir also attended the meeting.",
-    "translated_text": "伊朗总统马苏德·佩泽什基安博士在伊斯兰堡会见了总理谢赫巴兹·谢里夫，进行高层双边会谈。副总理兼外交部长参议员穆罕默德·伊沙克·达尔和陆军参谋长赛义德·阿西姆·穆尼尔元帅也出席了会议。",
+    "text": "Speaking at a joint stakeout with Iranian President Masoud Pezeshkian, Prime Minister Shehbaz Sharif described the Islamabad MoU as a landmark diplomatic achievement and welcomed the Iranian President's visit to Pakistan. PM Sharif also firmly rejected suggestions that Iran’s",
+    "translated_text": "谢赫巴兹·谢里夫总理在与伊朗总统马苏德·佩泽什基安的联合监视中发表讲话，称伊斯兰堡谅解备忘录是一项具有里程碑意义的外交成就，并欢迎伊朗总统访问巴基斯坦。谢里夫总理还坚决驳斥了伊朗",
     "images": [
-      "c5540b1acf2f128c.jpg"
+      "60f8cfafe4eab3fb.jpg",
+      "f721368c32690aa0.jpg",
+      "81ae5fd45cd9b923.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-9092433422552580861",
-    "timestamp": "2026-06-23T15:49:01.617827+00:00",
-    "original_time": "2026-06-23T15:05:44+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-8700207059140896178",
+    "timestamp": "2026-06-23T17:54:44.558668+00:00",
+    "original_time": "2026-06-23T16:45:38+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_9180400859027558031",
+    "id": "tweet_PakTVGlobal_1736130743001114247",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Iranian President Masoud Pezeshkian planted and watered a sapling at the Prime Minister’s House, joined by Prime Minister Muhammad Shehbaz Sharif.@CMShehbaz@drpezeshkian@IRIMFA_EN@ForeignOfficePk#Iran#MasoudPezeshkian#IslamabadDiplomacy#PakistanIranRelations",
-    "translated_text": "伊朗总统马苏德·佩泽什基安 (Masoud Pezeshkian) 在总理穆罕默德·谢赫巴兹·谢里夫 (Muhammad Shehbaz Sharif) 的陪同下，在总理府种植了一棵树苗并浇水。@CMShehbaz@drpezeshkian@IRIMFA_EN@ForeignOfficePk#Iran#MasoudPezeshkian#IslamabadDiplomacy#PakistanIranRelations",
+    "text": "Iranian President Masoud Pezeshkian, speaking at a joint stakeout with Prime Minister Shehbaz Sharif, credited Pakistan’s leadership for helping pave the way for de-escalation efforts, saying: “If it were not for the efforts of Pakistan, Prime Minister Shehbaz Sharif and Field",
+    "translated_text": "伊朗总统马苏德·佩泽什基安在与总理谢赫巴兹·谢里夫的联合监视中发表讲话，称赞巴基斯坦的领导帮助为缓和局势铺平了道路，他说：“如果没有巴基斯坦的努力，谢赫巴兹·谢里夫总理和菲尔德",
+    "images": [
+      "5bd9f9d7c02dea28.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1736130743001114247",
+    "timestamp": "2026-06-23T17:54:45.027694+00:00",
+    "original_time": "2026-06-23T16:40:09+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3113217992541500672",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iranian President Masoud Pezeshkian arrives at the Prime Minister’s House in Islamabad and is welcomed with a guard of honour.@CMShehbaz@drpezeshkian@IRIMFA_EN@ForeignOfficePk@PakinIran@IraninIslamabad#PakistanIran#MasoudPezeshkian#GuardOfHonour#Islamabad",
+    "translated_text": "@CMShehbaz@drpezeshkian@IRIMFA_EN@ForeignOfficePk@PakinIran@IraninIslamabad#PakistanIran#MasoudPezeshkian#GuardOfHonour#Islamabad",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/3113217992541500672",
+    "timestamp": "2026-06-23T17:54:49.096163+00:00",
+    "original_time": "2026-06-23T14:43:22+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-6744802509078766606",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "\"President Dr. Masoud Pezeshkian’s arrival in Pakistan was marked by warmth and a renewed sense of brotherhood. The visit signals not only strong diplomatic ties but also opens the door for deeper economic engagement, trade cooperation and regional connectivity between Pakistan",
+    "translated_text": "“总统马苏德·佩泽什基安博士抵达巴基斯坦充满了温暖和新的兄弟情谊。这次访问不仅标志着牢固的外交关系，而且为巴基斯坦之间更深层次的经济接触、贸易合作和区域互联互通打开了大门",
+    "images": [
+      "c94307c589c4bf57.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-6744802509078766606",
+    "timestamp": "2026-06-23T17:54:49.590040+00:00",
+    "original_time": "2026-06-23T14:36:42+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-6384172448461566751",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Prime Minister Shehbaz Sharif warmly received President Masoud Pezeshkian at the Prime Minister’s House. The visit reflects the enduring brotherly relations between Pakistan and Iran and a shared commitment to regional peace, cooperation and prosperity.@PakPMO@drpezeshkian",
+    "translated_text": "谢赫巴兹·谢里夫总理在总理府热情接待了马苏德·佩泽什基安总统。这次访问体现了巴基斯坦和伊朗之间持久的兄弟关系以及对地区和平、合作与繁荣的共同承诺。@PakPMO@drpezeshkian",
+    "images": [
+      "410a913331e4fe0e.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-6384172448461566751",
+    "timestamp": "2026-06-23T17:54:50.132101+00:00",
+    "original_time": "2026-06-23T14:28:13+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-4387211094034209502",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iranian President Masoud Pezeshkian was received by President Asif Ali Zardari at the President House. Following the warm welcome, delegation-level talks were held on bilateral relations, regional peace and security and ongoing diplomatic developments in the region. Deputy Prime",
+    "translated_text": "伊朗总统马苏德·佩泽什基安在总统府受到总统阿西夫·阿里·扎尔达里的接见。在热烈欢迎之后，双方就双边关系、地区和平与安全以及该地区当前的外交发展举行了代表团级会谈。副总理",
+    "images": [
+      "1d96fa1731dfc040.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-4387211094034209502",
+    "timestamp": "2026-06-23T17:54:50.554962+00:00",
+    "original_time": "2026-06-23T14:16:42+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-2935624782612058447",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "As the Iranian President's aircraft entered Pakistani airspace, Pakistan Air Force fighter jets took to the skies in a proud escort, a symbol of brotherhood, mutual respect and the enduring bond between Pakistan and Iran.@drpezeshkian@araghchi@IRIMFA_EN@ForeignOfficePk",
+    "translated_text": "当伊朗总统的专机进入巴基斯坦领空时，巴基斯坦空军战斗机在自豪的护航下升空，这象征着兄弟情谊、相互尊重以及巴基斯坦和伊朗之间的持久联系。@drpezeshkian@araghchi@IRIMFA_EN@ForeignOfficePk",
+    "images": [
+      "58a59f66cffe65bf.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-2935624782612058447",
+    "timestamp": "2026-06-23T17:54:51.132149+00:00",
+    "original_time": "2026-06-23T13:57:36+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_708608092603095234",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iranian President Dr. Masoud Pezeshkian lauds Pakistan's efforts for peace and regional stability during a meeting with Field Marshal Asim Munir. President Pezeshkian praised Pakistan's constructive role in promoting dialogue and de-escalation, while both sides reaffirmed their",
+    "translated_text": "伊朗总统马苏德·佩泽什基安博士在会见阿西姆·穆尼尔元帅时赞扬巴基斯坦为和平与地区稳定所做的努力。佩泽什基安总统赞扬巴基斯坦在促进对话和缓和局势方面发挥的建设性作用，双方重申",
+    "images": [
+      "e853886ea2e8d9f2.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/708608092603095234",
+    "timestamp": "2026-06-23T17:54:51.690021+00:00",
+    "original_time": "2026-06-23T13:51:30+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3776183910255407414",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iranian President departs for Islamabad on one-day official visit#Iran#IslamabadVisit#PakistanIranRelations#Pezeshkian#PakistanTV",
+    "translated_text": "伊朗总统启程前往伊斯兰堡进行一日正式访问#Iran#IslamabadVisit#PakistanIranRelations#Pezeshkian#PakistanTV",
     "images": [
       "9ab0d1e80146c0b7.png",
-      "6144e777fe3bd60a.jpg"
+      "2cda747ec4fd0216.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/9180400859027558031",
-    "timestamp": "2026-06-23T15:49:02.319862+00:00",
-    "original_time": "2026-06-23T14:53:29+00:00"
+    "url": "https://x.com/PakTVGlobal/status/3776183910255407414",
+    "timestamp": "2026-06-23T17:54:56.088993+00:00",
+    "original_time": "2026-06-23T08:55:31+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8080414823664401500",
+    "id": "tweet_Gharibabadi_1853556269818154461",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Pakistan’s role has been significant in recent diplomatic developments, noting high-level engagements between Iranian leadership and Pakistan’s top civil leadership says Rana Abdullah Hammad, Correspondent, Pakistan TV@RanaAbdullahHam#PakistanDiplomacy#IranPakistanTies",
-    "translated_text": "巴基斯坦记者拉纳·阿卜杜拉·哈马德 (Rana Abdullah Hammad) 表示，巴基斯坦在最近的外交发展中发挥了重要作用，注意到伊朗领导层和巴基斯坦最高民事领导层之间的高层接触。",
+    "username": "Gharibabadi",
+    "text": "On the International Day of Women in Diplomacy, we pay tribute to Iranian women diplomats who, with knowledge, commitment, and perseverance, alongside the country's other diplomats, have played a valuable role in advancing diplomacy and presenting an authentic image of Iran's",
+    "translated_text": "值此国际妇女外交日之际，我们向伊朗女外交官致敬，她们凭借知识、承诺和毅力，与该国其他外交官一起，在推进外交和展现伊朗真实形象方面发挥了宝贵作用。",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/8080414823664401500",
-    "timestamp": "2026-06-23T15:49:04.800930+00:00",
-    "original_time": "2026-06-23T13:12:08+00:00"
+    "url": "https://x.com/Gharibabadi/status/1853556269818154461",
+    "timestamp": "2026-06-23T17:56:31.604309+00:00",
+    "original_time": "2026-06-23T15:37:48+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6693928931898261878",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Former ambassador Raza Bashir Tarar said Pakistan’s engagement with Iran reflects a strong endorsement of bilateral ties and should help dispel speculation about mistrust between the two countries. He noted that the high-level visit underscores mutual trust and the importance of",
-    "translated_text": "前大使拉扎·巴希尔·塔拉尔表示，巴基斯坦与伊朗的接触反映了对双边关系的强烈支持，应有助于消除有关两国之间不信任的猜测。他指出，此次高层访问凸显了相互信任和合作的重要性。",
-    "images": [
-      "a575028663bc7dc7.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/6693928931898261878",
-    "timestamp": "2026-06-23T15:49:05.362687+00:00",
-    "original_time": "2026-06-23T13:07:25+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3999835469311745947",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "According to foreign affairs expert Dr. Munawar Hussain, the high-level engagement provides an opportunity for Pakistan and Iran to review the full spectrum of bilateral relations, including people-to-people exchanges, trade, energy cooperation, and border security. He noted that",
-    "translated_text": "外交事务专家穆纳瓦尔·侯赛因博士表示，高层接触为巴基斯坦和伊朗提供了全面审视双边关系的机会，包括人文交流、贸易、能源合作和边境安全。他指出",
-    "images": [
-      "8e7ebd1f2fe31e13.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3999835469311745947",
-    "timestamp": "2026-06-23T15:49:05.957326+00:00",
-    "original_time": "2026-06-23T13:03:20+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_756995391827104320",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Recent signals from Washington and ongoing diplomatic efforts are being viewed as a potential opening for broader regional stability. Its an opportunity not only for Iran, but for the entire Middle East to move towards lasting peace, with all stakeholders encouraged to support",
-    "translated_text": "华盛顿最近发出的信号和正在进行的外交努力被视为实现更广泛地区稳定的潜在机会。这不仅是伊朗的机会，也是整个中东走向持久和平的机会，鼓励所有利益攸关方支持",
-    "images": [
-      "b10c733d37271289.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/756995391827104320",
-    "timestamp": "2026-06-23T15:49:06.399090+00:00",
-    "original_time": "2026-06-23T12:57:40+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3040185201171082599",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "A warm diplomatic welcome as President Asif Ali Zardari and Prime Minister Shehbaz Sharif receive Iranian President Masoud Pezeshkian at Nur Khan Airbase, marking the start of a high-level visit focused on strengthening Pakistan-Iran ties.@PresOfPakistan@CMShehbaz",
-    "translated_text": "阿西夫·阿里·扎尔达里总统和谢赫巴兹·谢里夫总理在努尔汗空军基地接待伊朗总统马苏德·佩泽什基安，受到热烈的外交欢迎，标志着旨在加强巴基斯坦与伊朗关系的高层访问的开始。@PresOfPakistan@CMShehbaz",
-    "images": [
-      "329480da8fb08f35.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3040185201171082599",
-    "timestamp": "2026-06-23T15:49:07.012217+00:00",
-    "original_time": "2026-06-23T12:39:22+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_SPOX_1629055799520114927",
+    "id": "tweet_IRIMFA_SPOX_6299251179103938789",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "If power is not proven in war, it will not be proven through exaggeration after agreement either. Agreement stands on the shoulders of respect and fidelity to reality; and any self-congratulatory narrative constructed to compensate for past failures will, above all, destroy that",
     "translated_text": "如果力量不能通过战争来证明，那么也不会通过协议后的夸张来证明。共识建立在尊重和忠于现实的基础上；任何为弥补过去的失败而构建的自我吹捧的叙事首先都会破坏这一点",
     "images": [],
-    "url": "https://x.com/IRIMFA_SPOX/status/1629055799520114927",
-    "timestamp": "2026-06-23T15:49:56.952022+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/6299251179103938789",
+    "timestamp": "2026-06-23T17:56:31.732109+00:00",
     "original_time": "2026-06-23T07:28:55+00:00"
   },
   {
-    "id": "tweet_AJENews_2598166559061977189",
+    "id": "tweet_AJENews_-3940269129059624796",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Lebanese President Joseph Aoun has discussed a ceasefire in a call with US Vice President JD Vance and Secretary of State Marco Rubio, the presidency says.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：总统府表示，黎巴嫩总统约瑟夫·奥恩在与美国副总统万斯和国务卿马可·卢比奥的通话中讨论了停火问题。更多信息请访问 http://Aljazeera.com",
+    "text": "LIVE: US President Donald Trump speaks during a visit to a Mack Truck facility in Pennsylvania.",
+    "translated_text": "直播：美国总统唐纳德·特朗普在参观宾夕法尼亚州的马克卡车工厂时发表讲话。",
     "images": [
-      "7f1a451786c84548.svg",
-      "ed5aa1e26489145d.jpg"
+      "9b20f961c2ada6de.svg"
     ],
-    "url": "https://x.com/AJENews/status/2598166559061977189",
-    "timestamp": "2026-06-23T15:50:26.594454+00:00",
-    "original_time": "2026-06-23T15:33:23+00:00"
+    "url": "https://x.com/AJENews/status/-3940269129059624796",
+    "timestamp": "2026-06-23T17:57:01.067042+00:00",
+    "original_time": "2026-06-23T17:16:30+00:00"
   },
   {
-    "id": "tweet_AJENews_-5484347657814805573",
+    "id": "tweet_AJENews_-8539504318797186617",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: IAEA inspectors will be in Iran at an 'appropriate time', says TrumpLIVE updates:https://aje.news/fyqu4m?update=4693766…",
+    "translated_text": "突发新闻：特朗普直播更新称，国际原子能机构视察员将在“适当的时间”抵达伊朗：https://aje.news/fyqu4m?update=4693766…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "8dad32b893dc48c5.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-8539504318797186617",
+    "timestamp": "2026-06-23T17:57:01.547826+00:00",
+    "original_time": "2026-06-23T17:51:05+00:00"
+  },
+  {
+    "id": "tweet_AJENews_1684055447317988292",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Hezbollah chief says Israel must leave Lebanon 'without retaining an inch'LIVE updates:https://aje.news/fyqu4m?update=4693727…",
+    "translated_text": "突发新闻：真主党领导人表示以色列必须“不保留一寸”地离开黎巴嫩实时更新：https://aje.news/fyqu4m?update=4693727…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "184118e09530e4da.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/1684055447317988292",
+    "timestamp": "2026-06-23T17:57:02.017639+00:00",
+    "original_time": "2026-06-23T17:48:51+00:00"
+  },
+  {
+    "id": "tweet_AJENews_1807491005692190686",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: US President Donald Trump has said UN nuclear inspectors will visit an Iranian nuclear site at “the appropriate time.”More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：美国总统唐纳德·特朗普表示，联合国核检查员将在“适当的时间”访问伊朗核设施。更多信息请访问http://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "5abf8bc9e10d8ec5.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/1807491005692190686",
+    "timestamp": "2026-06-23T17:57:02.528349+00:00",
+    "original_time": "2026-06-23T17:23:27+00:00"
+  },
+  {
+    "id": "tweet_AJENews_1616116989558576102",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: UN agency to begin evacuating thousands of seafarers stranded in the GulfLIVE updates:https://aje.news/fyqu4m?update=4693275…",
+    "translated_text": "更新：联合国机构开始疏散滞留在海湾的数千名海员实时更新：https://aje.news/fyqu4m?update=4693275…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "613dfd4775b06dc3.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/1616116989558576102",
+    "timestamp": "2026-06-23T17:57:03.007414+00:00",
+    "original_time": "2026-06-23T17:01:22+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-3835767632219478828",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Iran president meets Pakistani army chief Asim MunirLIVE updates:https://aje.news/fyqu4m?update=4693049…",
     "translated_text": "突发新闻：伊朗总统会见巴基斯坦陆军参谋长阿西姆·穆尼尔实时更新：https://aje.news/fyqu4m?update=4693049…",
     "images": [
-      "7f1a451786c84548.svg",
-      "465f7f9c12654bd9.jpg"
+      "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-5484347657814805573",
-    "timestamp": "2026-06-23T15:50:27.079161+00:00",
+    "url": "https://x.com/AJENews/status/-3835767632219478828",
+    "timestamp": "2026-06-23T17:57:05.193215+00:00",
     "original_time": "2026-06-23T14:30:55+00:00"
   },
   {
-    "id": "tweet_AJENews_5544679177072893591",
+    "id": "tweet_AJENews_-1305568090793058259",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Lebanon's president demands end of 'Israeli occupation' in the southLIVE updates:https://aje.news/fyqu4m?update=4693071…",
@@ -308,12 +386,12 @@
       "7f1a451786c84548.svg",
       "c78cf71e382368b3.jpg"
     ],
-    "url": "https://x.com/AJENews/status/5544679177072893591",
-    "timestamp": "2026-06-23T15:50:27.695651+00:00",
+    "url": "https://x.com/AJENews/status/-1305568090793058259",
+    "timestamp": "2026-06-23T17:57:05.391426+00:00",
     "original_time": "2026-06-23T14:21:44+00:00"
   },
   {
-    "id": "tweet_AJENews_-1249154145250774558",
+    "id": "tweet_AJENews_8768147651578565450",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: All aircraft are banned below 3,000 feet (914 metres) within three nautical miles (5.5km) of FIFA World Cup stadiums on matchdays, according to the Transportation Security Administration, and more than 300 drones have already been seized by US authorities.More on",
@@ -322,12 +400,12 @@
       "7f1a451786c84548.svg",
       "7cc14f3bfdb18dce.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-1249154145250774558",
-    "timestamp": "2026-06-23T15:50:28.208505+00:00",
+    "url": "https://x.com/AJENews/status/8768147651578565450",
+    "timestamp": "2026-06-23T17:57:05.601606+00:00",
     "original_time": "2026-06-23T14:15:14+00:00"
   },
   {
-    "id": "tweet_AJENews_910728618416205418",
+    "id": "tweet_AJENews_1571107997133685330",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Fifth round of US-sponsored Lebanon-Israel talks beginLIVE updates:https://aje.news/fyqu4m?update=4693033…",
@@ -336,122 +414,131 @@
       "7f1a451786c84548.svg",
       "60f6f51f3bed7bf9.jpg"
     ],
-    "url": "https://x.com/AJENews/status/910728618416205418",
-    "timestamp": "2026-06-23T15:50:28.790059+00:00",
+    "url": "https://x.com/AJENews/status/1571107997133685330",
+    "timestamp": "2026-06-23T17:57:05.805165+00:00",
     "original_time": "2026-06-23T13:52:59+00:00"
   },
   {
-    "id": "tweet_AJENews_-2015363294539833223",
+    "id": "tweet_AJENews_8163257495265144880",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Lebanon, France discuss next steps after ceasefireLIVE updates:https://aje.news/fyqu4m?update=4692634…",
-    "translated_text": "突发新闻：黎巴嫩和法国讨论停火后的下一步行动实时更新：https://aje.news/fyqu4m?update=4692634…",
+    "text": "BREAKING: Iran has declared a three-day holiday in Tehran for late Supreme Leader Ali Khamenei's funeral, AFP reports.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：据法新社报道，伊朗已宣布德黑兰放假三天，参加已故最高领袖阿里·哈梅内伊的葬礼。更多信息请访问 http://Aljazeera.com",
     "images": [
       "7f1a451786c84548.svg",
-      "5c25685ea3b31515.jpg"
+      "3085e37852dc896a.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-2015363294539833223",
-    "timestamp": "2026-06-23T15:50:31.320072+00:00",
-    "original_time": "2026-06-23T11:20:32+00:00"
+    "url": "https://x.com/AJENews/status/8163257495265144880",
+    "timestamp": "2026-06-23T17:57:06.259045+00:00",
+    "original_time": "2026-06-23T13:28:57+00:00"
   },
   {
-    "id": "tweet_AJENews_4118677740823797737",
+    "id": "tweet_AJENews_3494236787373677257",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Hezbollah says deadly Israeli shooting in southern Lebanon violates ceasefire; alleges civilians killed in the attackLIVE updates:https://aje.news/fyqu4m?update=4692587…",
-    "translated_text": "突发新闻：真主党称以色列在黎巴嫩南部发生的致命枪击事件违反了停火协议；声称平民在袭击中丧生实时更新：https://aje.news/fyqu4m?update=4692587…",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/4118677740823797737",
-    "timestamp": "2026-06-23T15:50:31.765159+00:00",
-    "original_time": "2026-06-23T10:56:51+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-6582716180813588774",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: France records hottest-ever night as 40 drown trying to escape heatwave\n\nRead more:https://aje.news/393kob",
-    "translated_text": "突发：法国创下史上最热夜晚 40 人在试图躲避热浪时溺水身亡\n\n了解更多：https://aje.news/393kob",
-    "images": [
-      "84541b2cc2eae167.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-6582716180813588774",
-    "timestamp": "2026-06-23T15:50:32.307699+00:00",
-    "original_time": "2026-06-23T10:52:34+00:00"
-  },
-  {
-    "id": "tweet_AJENews_199110842075192941",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Israeli military claims attack in Lebanon's Ali al-Taher areaLIVE updates:https://aje.news/fyqu4m?update=4692452…",
-    "translated_text": "更新：以色列军方声称对黎巴嫩阿里塔赫地区发动袭击实时更新：https://aje.news/fyqu4m?update=4692452…",
+    "text": "BREAKING: The Eiffel Tower is set to close early on Tuesday due to a severe heatwave in Paris, its operator says.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：埃菲尔铁塔运营商称，由于巴黎严重热浪，埃菲尔铁塔将于周二提前关闭。更多信息请访问 http://Aljazeera.com",
     "images": [
       "7f1a451786c84548.svg",
-      "5a09e85fa82b8eaa.jpg"
+      "60430e2610be530a.jpg"
     ],
-    "url": "https://x.com/AJENews/status/199110842075192941",
-    "timestamp": "2026-06-23T15:50:32.875802+00:00",
-    "original_time": "2026-06-23T10:50:32+00:00"
+    "url": "https://x.com/AJENews/status/3494236787373677257",
+    "timestamp": "2026-06-23T17:57:06.572790+00:00",
+    "original_time": "2026-06-23T13:13:09+00:00"
   },
   {
-    "id": "tweet_AJENews_8351218376328624567",
+    "id": "tweet_AJENews_-4451841309274606430",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iran's Araghchi travels to Pakistan for talks: Iranian broadcasterLIVE updates:https://aje.news/fyqu4m?update=4692515…",
-    "translated_text": "突发新闻：伊朗阿拉格奇前往巴基斯坦进行会谈：伊朗广播公司实时更新：https://aje.news/fyqu4m?update=4692515…",
+    "text": "BREAKING: Israeli gunfire kills man in southern Lebanon's Nabatieh al-Fawqa, reports Lebanese state mediaLIVE updates:https://aje.news/fyqu4m?update=4692211…",
+    "translated_text": "突发事件：据黎巴嫩官方媒体报道，以色列在黎巴嫩南部的 Nabatieh al-Fawqa 开枪打死一名男子实时更新：https://aje.news/fyqu4m?update=4692211…",
     "images": [
       "7f1a451786c84548.svg",
-      "487f5001a0770979.jpg"
+      "4e3b2432321aa673.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8351218376328624567",
-    "timestamp": "2026-06-23T15:50:33.374703+00:00",
-    "original_time": "2026-06-23T10:45:19+00:00"
+    "url": "https://x.com/AJENews/status/-4451841309274606430",
+    "timestamp": "2026-06-23T17:57:09.057105+00:00",
+    "original_time": "2026-06-23T09:14:07+00:00"
   },
   {
-    "id": "tweet_AJENews_-5837014792081447650",
+    "id": "tweet_AJENews_-3343636020489904162",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: PM Netanyahu says Israel should free itself from arms dependency on the US and build its own weapon-production systemLIVE updates:https://aje.news/fyqu4m?update=4692276…",
-    "translated_text": "突发新闻：总理内塔尼亚胡表示，以色列应该摆脱对美国的武器依赖，建立自己的武器生产系统实时更新：https://aje.news/fyqu4m?update=4692276…",
+    "text": "BREAKING: Ankara says 11 Turkish-owned vessels crossed Hormuz since start of warLIVE updates:https://aje.news/fyqu4m?update=4692038…",
+    "translated_text": "突发新闻：安卡拉称自战争开始以来，有 11 艘土耳其拥有的船只穿越霍尔木兹实时更新：https://aje.news/fyqu4m?update=4692038…",
     "images": [
       "7f1a451786c84548.svg",
-      "cb0ae5fd818509ad.jpg"
+      "cd13bd49b8ab32ee.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-5837014792081447650",
-    "timestamp": "2026-06-23T15:50:33.895340+00:00",
-    "original_time": "2026-06-23T10:11:41+00:00"
+    "url": "https://x.com/AJENews/status/-3343636020489904162",
+    "timestamp": "2026-06-23T17:57:09.528195+00:00",
+    "original_time": "2026-06-23T09:11:51+00:00"
   },
   {
-    "id": "tweet_AJENews_-6918519223916731562",
+    "id": "tweet_CBSNews_4249559457986226313",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Second person dies after being shot by Israeli forces in Lebanon's Nabatieh al-Fawqa, reports Lebanese state mediaLIVE updates:https://aje.news/fyqu4m?update=4692311…",
-    "translated_text": "突发事件：据黎巴嫩官方媒体报道，第二人在黎巴嫩纳巴蒂耶法夫卡 (Nabatieh al-Fawqa) 被以色列军队枪击后死亡：实时更新：https://aje.news/fyqu4m?update=4692311…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "b5af280a9c45bb00.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-6918519223916731562",
-    "timestamp": "2026-06-23T15:50:34.511288+00:00",
-    "original_time": "2026-06-23T09:55:08+00:00"
+    "username": "CBSNews",
+    "text": "President Trump said Iran is \"wrong\" after Tehran claimed there were \"no plans\" for IAEA inspectors to return to its bombed enrichment sites as part of the U.S.-Iran agreement.\n\n“They know they’re wrong. They told us inside, and we have it down, 100% inspections. And if they were",
+    "translated_text": "特朗普总统表示，在德黑兰声称作为美伊协议的一部分，国际原子能机构视察员“没有计划”返回其被轰炸的浓缩设施后，伊朗是“错误的”。\n\n“他们知道他们错了。他们在里面告诉我们，我们已经记录下来，100% 检查。如果他们是",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/4249559457986226313",
+    "timestamp": "2026-06-23T17:57:57.557576+00:00",
+    "original_time": "2026-06-23T17:51:42+00:00"
   },
   {
-    "id": "tweet_AJENews_-762983809943853877",
+    "id": "tweet_CBSNews_-30873186586148538",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran's Ghalibaf, Araghchi meet sultan of OmanLIVE updates:https://aje.news/fyqu4m?update=4692099…",
-    "translated_text": "突发新闻：伊朗的加利巴夫、阿拉格奇会见阿曼苏丹实时更新：https://aje.news/fyqu4m?update=4692099…",
+    "username": "CBSNews",
+    "text": "“Savannah’s gone through a rough — that family has gone through hell. I hope they find her,” President Trump said on Nancy Guthrie's disappearance.https://cbsn.ws/4eIJGPG",
+    "translated_text": "“萨凡纳经历了一段艰难的时期——那个家庭经历了地狱。我希望他们能找到她，”特朗普总统在谈到南希·格思里的失踪时说道。https://cbsn.ws/4eIJGPG",
     "images": [
-      "7f1a451786c84548.svg",
-      "baf6c76a2ddea525.jpg"
+      "b6688bceaf421227.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-762983809943853877",
-    "timestamp": "2026-06-23T15:50:35.000197+00:00",
-    "original_time": "2026-06-23T09:41:12+00:00"
+    "url": "https://x.com/CBSNews/status/-30873186586148538",
+    "timestamp": "2026-06-23T17:57:58.082857+00:00",
+    "original_time": "2026-06-23T17:43:31+00:00"
   },
   {
-    "id": "tweet_CBSNews_4355385528758760779",
+    "id": "tweet_CBSNews_-5946269926330519983",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Secretary of State Marco Rubio on the Strait of Hormuz: \"No country is allowed to charge tolls or fees on an international waterway.\"",
+    "translated_text": "国务卿马可·卢比奥谈霍尔木兹海峡：“任何国家都不得在国际水道上收取通行费或费用。”",
+    "images": [
+      "f72bc77ac5c0cf8e.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-5946269926330519983",
+    "timestamp": "2026-06-23T17:57:58.600130+00:00",
+    "original_time": "2026-06-23T17:36:27+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-2865908402528263409",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Andy Burnham who is widely expected to succeed Keir Starmer as U.K. prime minister, has previously criticized President Trump and warned against adopting America's \"polarized, poisonous politics.\" As CBS News' Emmet Lyons reports, questions remain over how Burnham would navigate",
+    "translated_text": "人们普遍预计安迪·伯纳姆将接替凯尔·斯塔默担任英国首相，他此前曾批评特朗普总统，并警告不要采取美国“两极分化、有毒的政治”。正如哥伦比亚广播公司新闻的埃米特·莱昂斯报道的那样，伯纳姆将如何应对仍存在疑问",
+    "images": [
+      "79151a273315a5ba.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-2865908402528263409",
+    "timestamp": "2026-06-23T17:57:59.280112+00:00",
+    "original_time": "2026-06-23T17:35:09+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_4128032419768152641",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Live Updates: President Trump says Iran \"completely agreed\" to nuclear inspections, but Tehran denies any such plans.",
+    "translated_text": "实时更新：特朗普总统表示伊朗“完全同意”进行核检查，但德黑兰否认有任何此类计划。",
+    "images": [
+      "39539c1fa7d2b80e.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/4128032419768152641",
+    "timestamp": "2026-06-23T17:57:59.753285+00:00",
+    "original_time": "2026-06-23T17:30:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_4880539374316909630",
     "type": "tweet",
     "username": "CBSNews",
     "text": "40 drowning deaths reported in France as Europe swelters in heat wave.",
@@ -459,12 +546,12 @@
     "images": [
       "24aba2253806f1c4.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4355385528758760779",
-    "timestamp": "2026-06-23T15:51:22.365818+00:00",
+    "url": "https://x.com/CBSNews/status/4880539374316909630",
+    "timestamp": "2026-06-23T17:58:02.066093+00:00",
     "original_time": "2026-06-23T15:50:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_8708332326566226817",
+    "id": "tweet_CBSNews_-4123078773326503960",
     "type": "tweet",
     "username": "CBSNews",
     "text": "The Supreme Court rejects a former Louisiana inmate's effort to sue prison officials after they shaved his dreadlocks.",
@@ -472,25 +559,23 @@
     "images": [
       "1b9dafa36b9b8447.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/8708332326566226817",
-    "timestamp": "2026-06-23T15:51:23.085219+00:00",
+    "url": "https://x.com/CBSNews/status/-4123078773326503960",
+    "timestamp": "2026-06-23T17:58:02.337721+00:00",
     "original_time": "2026-06-23T15:45:57+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1492926435838363397",
+    "id": "tweet_CBSNews_-2999000121910738092",
     "type": "tweet",
     "username": "CBSNews",
     "text": "The conflict between Israel and Hezbollah is emerging as a major obstacle to a peace deal between the U.S. and Iran,@HollyMAWilliamsreports. While the U.S. designates Hezbollah as a terrorist organization, the Iran-backed group also operates as a political party and social",
     "translated_text": "以色列和真主党之间的冲突正在成为美国和伊朗之间达成和平协议的主要障碍，@HollyMAWilliams 报道。虽然美国将真主党列为恐怖组织，但伊朗支持的该组织也作为一个政党和社会组织运作。",
-    "images": [
-      "56aa17a91925e44d.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-1492926435838363397",
-    "timestamp": "2026-06-23T15:51:23.804311+00:00",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/-2999000121910738092",
+    "timestamp": "2026-06-23T17:58:02.494285+00:00",
     "original_time": "2026-06-23T15:44:46+00:00"
   },
   {
-    "id": "tweet_CBSNews_2423988394290983080",
+    "id": "tweet_CBSNews_6076835454594646128",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Millions of honeybees escaped into a rural Texas neighborhood after a semitrailer carrying about 400 hives tipped over, officials said. Video shows beekeepers trying to gather up the bees.",
@@ -498,12 +583,12 @@
     "images": [
       "c2120bcbce0d1dab.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2423988394290983080",
-    "timestamp": "2026-06-23T15:51:24.282902+00:00",
+    "url": "https://x.com/CBSNews/status/6076835454594646128",
+    "timestamp": "2026-06-23T17:58:02.708541+00:00",
     "original_time": "2026-06-23T15:28:48+00:00"
   },
   {
-    "id": "tweet_CBSMornings_2446781988502737848",
+    "id": "tweet_CBSMornings_9109036114638706134",
     "type": "tweet",
     "username": "CBSMornings",
     "text": "A warehouse fire in Los Angeles that started a week ago is still burning.\n\nThe blaze has prompted big concerns for nearby residents, who are being told to wear masks when outside and many of whom have waited on line for free air purifiers from the city.",
@@ -511,134 +596,547 @@
     "images": [
       "08303052a885eee6.jpg"
     ],
-    "url": "https://x.com/CBSMornings/status/2446781988502737848",
-    "timestamp": "2026-06-23T15:51:24.447997+00:00",
+    "url": "https://x.com/CBSMornings/status/9109036114638706134",
+    "timestamp": "2026-06-23T17:58:02.891309+00:00",
     "original_time": "2026-06-23T13:25:12+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7121248900045565462",
+    "id": "tweet_CBSMornings_-1576040078395356689",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Clive Davis, a legendary music executive who helped shape the careers of generations of artists including Janis Joplin, Bruce Springsteen and Whitney Houston, has died. He was 94.",
-    "translated_text": "传奇音乐高管克莱夫·戴维斯 (Clive Davis) 去世，他帮助塑造了詹尼斯·乔普林 (Janis Joplin)、布鲁斯·斯普林斯汀 (Bruce Springsteen) 和惠特尼·休斯顿 (Whitney Houston) 等几代艺术家的职业生涯。他94岁了。",
+    "username": "CBSMornings",
+    "text": "Nancy Guthrie's family received two messages in the days following her abduction, including a note allegedly sent by her abductor that claimed she was dead, CBS News has learned.\n\nInvestigators are treating both notes as credible and continue to work to determine who sent them as",
+    "translated_text": "据哥伦比亚广播公司新闻获悉，南希·格思里的家人在她被绑架后的几天内收到了两条信息，其中包括据称是绑架者发送的一张纸条，声称她已经死亡。\n\n调查人员认为这两个笔记都是可信的，并继续努力确定是谁发送的",
     "images": [
-      "2d77d44208df3cde.jpg"
+      "f7335e7842dd2266.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7121248900045565462",
-    "timestamp": "2026-06-23T15:51:26.638065+00:00",
-    "original_time": "2026-06-23T11:40:00+00:00"
+    "url": "https://x.com/CBSMornings/status/-1576040078395356689",
+    "timestamp": "2026-06-23T17:58:03.195044+00:00",
+    "original_time": "2026-06-23T14:06:54+00:00"
   },
   {
-    "id": "tweet_CBSNews_1622641337947969",
+    "id": "tweet_CBSNews_-7135663498300872696",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Authorities believe the two ransom notes addressed to Nancy Guthrie's family days after her disappearance — including a note that said she had died — were likely sent by the person or group of people who abducted her, according to investigators familiar with the case.",
-    "translated_text": "据熟悉案件的调查人员称，当局认为，南希·格思里失踪几天后写给她家人的两张赎金信——其中一张写着她已经死亡——很可能是绑架她的人或一群人发出的。",
+    "text": "Riders were left dangling 260 feet in the air after one of the Six Flags rides suddenly stopped. A rider who was stuck took video of the park and joked it would be his \"last day at Six Flags\" after the experience.",
+    "translated_text": "六旗游乐设施之一突然停止后，乘客们被悬在 260 英尺高的空中。一名被困的骑手拍下了公园的视频，并开玩笑说这将是他“在六旗公园的最后一天”。",
     "images": [
-      "1c99bb3b9836913f.jpg"
+      "3dbfeb95cf5ae1e8.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1622641337947969",
-    "timestamp": "2026-06-23T15:51:26.831459+00:00",
-    "original_time": "2026-06-23T11:20:01+00:00"
+    "url": "https://x.com/CBSNews/status/-7135663498300872696",
+    "timestamp": "2026-06-23T17:58:03.520627+00:00",
+    "original_time": "2026-06-23T14:07:15+00:00"
   },
   {
-    "id": "tweet_CBSNews_4548821859641051523",
+    "id": "tweet_CBSNews_7014252314491066277",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "The most advanced artificial intelligence models are improving quickly enough to outsmart prevailing cybersecurity know-how within months, the Five Eyes spy agency alliance is warning.",
-    "translated_text": "五眼间谍机构联盟警告称，最先进的人工智能模型的改进速度足以在几个月内超越主流的网络安全技术。",
+    "text": "Coke and Pepsi are rolling out QR codes linked to ingredient info.",
+    "translated_text": "可口可乐和百事可乐正在推出与成分信息相关的二维码。",
     "images": [
-      "a949d67bb7b55715.jpg"
+      "82d718e0a8800221.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4548821859641051523",
-    "timestamp": "2026-06-23T15:51:27.016691+00:00",
-    "original_time": "2026-06-23T11:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/7014252314491066277",
+    "timestamp": "2026-06-23T17:58:05.741788+00:00",
+    "original_time": "2026-06-23T06:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7723097641354735772",
+    "id": "tweet_JenniferJJacobs_-8393576984325663988",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Iran's foreign ministry spokesman said there were no \"plans for IAEA inspections\" of nuclear sites, contradicting Vice President JD Vance's optimism about United Nations nuclear inspectors returning as soon as this week.",
-    "translated_text": "伊朗外交部发言人表示，国际原子能机构没有对核设施进行“检查的计划”，这与副总统万斯对联合国核检查人员最快本周返回的乐观看法相矛盾。",
+    "username": "JenniferJJacobs",
+    "text": "Trump says he hears that \"they have six people under investigation\" for damage to reflecting pool on national mall. \n\"Somebody went in with a knife and cut it. They cut it up good,\" he said in press gaggle after landing in Pennsylvania with@DaveMcCormickPA.",
+    "translated_text": "特朗普表示，他听说“他们有六人正在接受调查”，原因是国家广场倒影池遭到破坏。 \n“有人拿着刀进去切了它。他们把它切得很好，”他和 @DaveMcCormickPA 一起降落在宾夕法尼亚州后在媒体聚会中说道。",
     "images": [
-      "39539c1fa7d2b80e.jpg"
+      "3626cd724171a8a5.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7723097641354735772",
-    "timestamp": "2026-06-23T15:51:27.189897+00:00",
-    "original_time": "2026-06-23T10:45:00+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/-8393576984325663988",
+    "timestamp": "2026-06-23T17:58:19.335434+00:00",
+    "original_time": "2026-06-23T17:20:04+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3422184902811250108",
+    "id": "tweet_JenniferJJacobs_-4870259163036962839",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Two people were killed and a child was injured in a shooting inside a Northern California library on Monday, officials said.",
-    "translated_text": "官员称，周一北加州图书馆内发生枪击事件，造成两人死亡、一名儿童受伤。",
+    "username": "JenniferJJacobs",
+    "text": "\"They're wrong,\" Trump says when reporter tells him Iranians are saying there's no scheduled visit from the IAEA inspectors. \n\n\"You want to see trouble, let them have a nuclear weapon,” Trump says of Iran, after landing in Pennsylvania. “The big thing is, Iran will not have a",
+    "translated_text": "当记者告诉特朗普伊朗人说国际原子能机构视察员没有安排访问时，特朗普说：“他们错了。” \n\n“你想看到麻烦，就让他们拥有核武器，”特朗普在抵达宾夕法尼亚州后谈到伊朗时说道。 “重要的是，伊朗不会有",
     "images": [
-      "b50828a5fed5dd09.jpg"
+      "abfce911a90fa738.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3422184902811250108",
-    "timestamp": "2026-06-23T15:51:27.406069+00:00",
-    "original_time": "2026-06-23T10:30:01+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/-4870259163036962839",
+    "timestamp": "2026-06-23T17:58:19.877176+00:00",
+    "original_time": "2026-06-23T17:17:19+00:00"
   },
   {
-    "id": "tweet_CBSNews_3197430512736628276",
+    "id": "tweet_JenniferJJacobs_-3200081079194315964",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Scientists discover new parasite in jungle that preys on insect-killing \"zombie fungus.\"",
-    "translated_text": "科学家在丛林中发现了一种新的寄生虫，它以杀死昆虫的“僵尸真菌”为食。",
+    "username": "JenniferJJacobs",
+    "text": "Trump exits White House on this rainy Tuesday for trip to Macungie, Pennsylvania to visit a Mack trucks plant.",
+    "translated_text": "特朗普在这个下雨的周二离开白宫，前往宾夕法尼亚州麦坎吉参观麦克卡车工厂。",
     "images": [
-      "c60cb2b648ae17ce.jpg"
+      "167a1102c8bbcbc9.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/3197430512736628276",
-    "timestamp": "2026-06-23T15:51:27.604816+00:00",
-    "original_time": "2026-06-23T10:00:00+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/-3200081079194315964",
+    "timestamp": "2026-06-23T17:58:20.343307+00:00",
+    "original_time": "2026-06-23T15:56:30+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1520411921826316931",
+    "id": "tweet_KellieMeyerNews_-248985673193742700",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Diagnosed with Stage 4 cancer and given just 8 months to live, a teen beat the odds thanks to an extraordinary friendship.",
-    "translated_text": "一名青少年被诊断出患有第四期癌症，只剩下 8 个月的生命，但凭借非凡的友谊战胜了困难。",
-    "images": [
-      "02cd47d97bf7d976.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-1520411921826316931",
-    "timestamp": "2026-06-23T15:51:27.780141+00:00",
-    "original_time": "2026-06-23T09:00:01+00:00"
+    "username": "KellieMeyerNews",
+    "text": "U.S. official told me as of an hour ago U.S. Israel and Lebanon talks had begun.\n\nMORE:\n“Counselor Holler kicked off talks along with ASW Zimmerman,  beginning with a joint military and political session, then military session, then political closing round. Manifests are",
+    "translated_text": "美国官员告诉我，一小时前，美国以色列和黎巴嫩的谈判已经开始。\n\n更多：\n“霍勒参赞与 ASW Zimmerman 一起开始了会谈，首先是军事和政治联合会议，然后是军事会议，然后是政治最后一轮会议。清单是",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/-248985673193742700",
+    "timestamp": "2026-06-23T17:58:35.667494+00:00",
+    "original_time": "2026-06-23T16:20:36+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8961103389162243079",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A strange symptom during his daily commute led to a man's Stage IV cancer diagnosis.",
-    "translated_text": "一名男子在日常通勤途中出现的奇怪症状导致他被诊断出患有第四期癌症。",
-    "images": [
-      "4cb317652658c28d.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8961103389162243079",
-    "timestamp": "2026-06-23T15:51:27.932462+00:00",
-    "original_time": "2026-06-23T08:00:00+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_2761455636080182167",
+    "id": "tweet_KellieMeyerNews_-6120326341107847555",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "VP Vance and Sec. Rubio called Lebanon’s President today.",
     "translated_text": "副总裁万斯和秘书。卢比奥今天致电黎巴嫩总统。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/2761455636080182167",
-    "timestamp": "2026-06-23T15:52:10.763713+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-6120326341107847555",
+    "timestamp": "2026-06-23T17:58:35.887592+00:00",
     "original_time": "2026-06-23T14:55:56+00:00"
   },
   {
-    "id": "tweet_ChadPergram_4310600855963570231",
+    "id": "tweet_ChadPergram_-4667680676528019064",
     "type": "tweet",
     "username": "ChadPergram",
     "text": "House plans to sync up with the Senate tonight on bipartisan housing bill",
     "translated_text": "众议院计划今晚与参议院就两党住房法案保持同步",
     "images": [],
-    "url": "https://x.com/ChadPergram/status/4310600855963570231",
-    "timestamp": "2026-06-23T15:52:11.259012+00:00",
+    "url": "https://x.com/ChadPergram/status/-4667680676528019064",
+    "timestamp": "2026-06-23T17:58:36.033867+00:00",
     "original_time": "2026-06-23T14:11:19+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_3507819368230934481",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "ایران کی قیادت اور عوام کی دلیری، جذبے، عزم اور ہمت کو داد دیتا ہوں، وزیراعظم شہبازشریف",
+    "translated_text": "我赞扬伊朗领导人和人民、总理沙赫巴兹·谢里夫的勇气、热情、决心和勇气",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/3507819368230934481",
+    "timestamp": "2026-06-23T17:59:20.431284+00:00",
+    "original_time": "2026-06-23T17:55:09+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-7810143124322980251",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "امن، ترقی اور خوشحالی کیلئے پاکستان کے اہم کردار کے معترف ہیں، ایرانی صدر",
+    "translated_text": "伊朗总统认识到巴基斯坦在和平、发展与繁荣方面的重要作用",
+    "images": [
+      "33c0308a46aeb109.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7810143124322980251",
+    "timestamp": "2026-06-23T17:59:21.617550+00:00",
+    "original_time": "2026-06-23T17:52:21+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5560102803428153093",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Honorary Fellowship Conferred on Iranian President for Services in the Health Sector",
+    "translated_text": "伊朗总统因卫生部门服务而被授予荣誉院士称号",
+    "images": [
+      "922e460847d16381.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5560102803428153093",
+    "timestamp": "2026-06-23T17:59:21.997926+00:00",
+    "original_time": "2026-06-23T17:49:21+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-8386236239357526366",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Former Israeli Prime Minister has confessed to smuggling Starlink devices to aid anti-government protesters in Iran",
+    "translated_text": "以色列前总理承认走私星链设备以援助伊朗的反政府抗议者",
+    "images": [
+      "a2bc638643abc1d1.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8386236239357526366",
+    "timestamp": "2026-06-23T17:59:22.406424+00:00",
+    "original_time": "2026-06-23T17:44:48+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4186344063993889944",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "لاہور میں نوجوان سے  رقم مانگنے والے سب انسپکٹر  پر بھیک مانگنےکا مقدمہ درج",
+    "translated_text": "拉合尔副督察向年轻人索要钱财，已被登记为乞讨案",
+    "images": [
+      "3dbee201810196e6.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/4186344063993889944",
+    "timestamp": "2026-06-23T17:59:23.090765+00:00",
+    "original_time": "2026-06-23T17:44:35+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_683887646224330266",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "9 PM Headlines - 23 June 2026",
+    "translated_text": "晚上 9 点头条新闻 - 2026 年 6 月 23 日",
+    "images": [
+      "98527ff8c633bfa1.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/683887646224330266",
+    "timestamp": "2026-06-23T17:59:23.546691+00:00",
+    "original_time": "2026-06-23T17:31:33+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5984163266599288920",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "FIFA World Cup 2026: France Wins, Kylian Mbappé in Pursuit of Record",
+    "translated_text": "2026 年 FIFA 世界杯：法国队获胜，基利安·姆巴佩追寻纪录",
+    "images": [
+      "e3af33b5c16d6a70.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5984163266599288920",
+    "timestamp": "2026-06-23T17:59:26.033794+00:00",
+    "original_time": "2026-06-23T15:33:55+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_571684174423310204",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Messi's 18 goals, near World Cup record.",
+    "translated_text": "梅西的18球，接近世界杯纪录。",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/571684174423310204",
+    "timestamp": "2026-06-23T17:59:26.385262+00:00",
+    "original_time": "2026-06-23T15:33:47+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_9144060852773592507",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "What impact will the visit of Iranian President Masoud Pezeshkian have on Pakistan's regional significance and foreign policy?@MazharAbbasGEO",
+    "translated_text": "伊朗总统马苏德·佩泽什基安的访问将对巴基斯坦的地区意义和外交政策产生什么影响？@MazharAbbasGEO",
+    "images": [
+      "5ea839430c567341.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/9144060852773592507",
+    "timestamp": "2026-06-23T17:59:26.959163+00:00",
+    "original_time": "2026-06-23T15:27:36+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1099224102271946326",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The solution to the problem is not which election was correct, but rather that we move forward. New elections should be called, Mazhar Abbas@MazharAbbasGEO",
+    "translated_text": "问题的解决不在于哪次选举是正确的，而在于我们继续前进。应该举行新的选举，Mazhar Abbas@MazharAbbasGEO",
+    "images": [
+      "f12a00b4fdee4104.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/1099224102271946326",
+    "timestamp": "2026-06-23T17:59:27.423554+00:00",
+    "original_time": "2026-06-23T15:27:27+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_7066072906395187205",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Despite having a better system in Britain, why the repeated changes of Prime Minister?@UmarCheema1",
+    "translated_text": "尽管英国有更好的制度，为什么首相一再更迭？@UmarCheema1",
+    "images": [
+      "090d6bed3adf9bdb.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/7066072906395187205",
+    "timestamp": "2026-06-23T17:59:27.840186+00:00",
+    "original_time": "2026-06-23T15:26:36+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_3876641878489776847",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "In Pakistan, there has hardly been any election that hasn't faced criticism against it, but 2018 was the first instance when organized rigging took place and PTI was its beneficiary. Now the dispute is baseless, Umar Cheema@UmarCheema1",
+    "translated_text": "在巴基斯坦，几乎没有一次选举不受到批评，但 2018 年是第一次出现有组织的操纵行为，PTI 是其受益者。现在争论毫无根据，Umar Cheema@UmarCheema1",
+    "images": [
+      "a1dba268a0321565.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/3876641878489776847",
+    "timestamp": "2026-06-23T17:59:28.429340+00:00",
+    "original_time": "2026-06-23T15:26:27+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-6765051368896681169",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Can the diplomatic role of Pakistan and its relations with neighboring countries be further improved as a result of the Iranian President's visit?@SaleemKhanSafi",
+    "translated_text": "伊朗总统的访问能否进一步改善巴基斯坦的外交作用及其与邻国的关系？@SaleemKhanSafi",
+    "images": [
+      "2899fcf4cc028600.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-6765051368896681169",
+    "timestamp": "2026-06-23T17:59:29.013295+00:00",
+    "original_time": "2026-06-23T15:25:16+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-4293600401695913016",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The 2018 and 2024 elections were just the same. Calling both elections fair and transparent is excessive, Saleem Safi@SaleemKhanSafi",
+    "translated_text": "2018年和2024年的选举完全一样。称这两次选举公平透明有些过分，Saleem Safi@SaleemKhanSafi",
+    "images": [
+      "913910071e6eb483.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-4293600401695913016",
+    "timestamp": "2026-06-23T17:59:29.547804+00:00",
+    "original_time": "2026-06-23T15:25:03+00:00"
+  },
+  {
+    "id": "article_ad43b4a4863f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Sargodha police arrest 4 suspects in 7-year-old girl's murder case",
+    "translated_title": "萨戈达警方逮捕了 7 岁女孩谋杀案的 4 名嫌疑人",
+    "url": "https://www.dawn.com/news/2010300/sargodha-police-arrest-4-suspects-in-7-year-old-girls-murder-case",
+    "timestamp": "2026-06-23T18:01:17.713808+00:00",
+    "original_time": "2026-06-23T19:25:01+05:00"
+  },
+  {
+    "id": "article_90e810df140e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "North Korea's Kim Jong ‌Un says country will exercise its position as nuclear state",
+    "translated_title": "朝鲜金正恩表示该国将行使核国家地位",
+    "url": "https://www.dawn.com/news/2010233/north-koreas-kim-jong-un-says-country-will-exercise-its-position-as-nuclear-state",
+    "timestamp": "2026-06-23T18:01:25.380940+00:00",
+    "original_time": "2026-06-23T11:55:09+05:00"
+  },
+  {
+    "id": "article_ca893df3186d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "The regional geo-strategic landscape in West Asia post the Iran war",
+    "translated_title": "伊朗战争后西亚地区地缘战略格局",
+    "url": "https://www.dawn.com/news/2009903/the-regional-geo-strategic-landscape-in-west-asia-post-the-iran-war",
+    "timestamp": "2026-06-23T18:01:28.092891+00:00",
+    "original_time": "2026-06-23T15:35:01+05:00"
+  },
+  {
+    "id": "article_8124f9c903c2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2009414/saibari-early-strike-gives-morocco-world-cup-win-over-scotland",
+    "timestamp": "2026-06-23T18:01:51.102437+00:00",
+    "original_time": "2026-06-23T18:01:51.102414+00:00"
+  },
+  {
+    "id": "article_4c715ebacbfe",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Philippines rethinks school safety after rare shooting kills 3",
+    "translated_title": "罕见枪击造成三人死亡后，菲律宾重新考虑学校安全",
+    "url": "https://www.dawn.com/news/2010258/philippines-rethinks-school-safety-after-rare-shooting-kills-3",
+    "timestamp": "2026-06-23T18:01:57.644276+00:00",
+    "original_time": "2026-06-23T14:39:49+05:00"
+  },
+  {
+    "id": "article_cd914b3840c3",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2009949/egypt-beat-new-zealand-3-1-for-their-first-world-cup-win-in-history",
+    "timestamp": "2026-06-23T18:02:16.297141+00:00",
+    "original_time": "2026-06-23T18:02:16.297108+00:00"
+  },
+  {
+    "id": "article_83054e3730a7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Sindh govt to bear medical expenses of injured persons after car rams into tent outside Imambargah in Karachi",
+    "translated_title": "卡拉奇伊曼巴尔加外发生汽车冲撞帐篷事件，信德省政府将承担伤者的医疗费用",
+    "url": "https://www.dawn.com/news/2010227/sindh-govt-to-bear-medical-expenses-of-injured-persons-after-car-rams-into-tent-outside-imambargah-in-karachi",
+    "timestamp": "2026-06-23T18:02:20.900021+00:00",
+    "original_time": "2026-06-23T11:22:05+05:00"
+  },
+  {
+    "id": "article_25c7976f89c0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Israel's 'deliberate targeting' of children part of ongoing Gaza genocide: UN probe",
+    "translated_title": "以色列“蓄意针对”儿童是加沙持续种族灭绝的一部分：联合国调查",
+    "url": "https://www.dawn.com/news/2010272/israels-deliberate-targeting-of-children-part-of-ongoing-gaza-genocide-un-probe",
+    "timestamp": "2026-06-23T18:02:37.433443+00:00",
+    "original_time": "2026-06-23T17:45:26+05:00"
+  },
+  {
+    "id": "article_c8fab6027e22",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Algeria rally to eliminate FIFA World Cup debutants Jordan in 2-1 win",
+    "translated_title": "阿尔及利亚队2-1击败世界杯首次亮相的约旦队",
+    "url": "https://www.dawn.com/news/2010232/algeria-rally-to-eliminate-fifa-world-cup-debutants-jordan-in-2-1-win",
+    "timestamp": "2026-06-23T18:02:56.581662+00:00",
+    "original_time": "2026-06-23T11:58:13+05:00"
+  },
+  {
+    "id": "article_70c8408e7c0a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2009478/it-ministry-clarifies-proposed-telecom-law-amendments-do-not-mandate-acquisition-of-private-land",
+    "timestamp": "2026-06-23T18:03:31.357557+00:00",
+    "original_time": "2026-06-23T18:03:31.357431+00:00"
+  },
+  {
+    "id": "article_4ed4f2041b08",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2010145/pti-bigwigs-gohar-ali-khan-salman-akram-raja-eye-meeting-with-imran",
+    "timestamp": "2026-06-23T18:04:12.239095+00:00",
+    "original_time": "2026-06-23T18:04:12.239073+00:00"
+  },
+  {
+    "id": "article_6ca43d6146d4",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2010124",
+    "timestamp": "2026-06-23T18:04:38.680415+00:00",
+    "original_time": "2026-06-23T18:04:38.680384+00:00"
+  },
+  {
+    "id": "article_309516b3e663",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2010140/taliban-govt-detains-aid-workers-over-beard-length",
+    "timestamp": "2026-06-23T18:05:06.587292+00:00",
+    "original_time": "2026-06-23T18:05:06.587258+00:00"
+  },
+  {
+    "id": "article_ce761456dd3c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "NA passes budget for FY2026-27 following opposition walkout",
+    "translated_title": "反对党罢工后，NA通过2026-27财年预算",
+    "url": "https://www.dawn.com/news/2010249/na-passes-budget-for-fy2026-27-following-opposition-walkout",
+    "timestamp": "2026-06-23T18:05:47.344575+00:00",
+    "original_time": "2026-06-23T13:37:38+05:00"
+  },
+  {
+    "id": "article_357dd943fecb",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2009751/pmsa-begins-repatriation-humanitarian-assistance-of-8-iranian-nationals-rescued-at-sea",
+    "timestamp": "2026-06-23T18:06:11.344260+00:00",
+    "original_time": "2026-06-23T18:06:11.344237+00:00"
+  },
+  {
+    "id": "article_b1e2e7db8768",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Indian startup head Kunal Shah appointed as new WhatsApp boss",
+    "translated_title": "印度初创公司负责人 Kunal Shah 被任命为 WhatsApp 新任老板",
+    "url": "https://www.dawn.com/news/2010231/indian-startup-head-kunal-shah-appointed-as-new-whatsapp-boss",
+    "timestamp": "2026-06-23T18:06:21.921180+00:00",
+    "original_time": "2026-06-23T11:42:33+05:00"
+  },
+  {
+    "id": "article_a0ededfaec85",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Dar says US-Iran talks in Switzerland could have happened earlier if not for Israel's attacks on Lebanon",
+    "translated_title": "达尔表示，如果不是以色列袭击黎巴嫩，美伊在瑞士举行的会谈可能会更早举行",
+    "url": "https://www.dawn.com/news/2010236/dar-says-us-iran-talks-in-switzerland-could-have-happened-earlier-if-not-for-israels-attacks-on-lebanon",
+    "timestamp": "2026-06-23T18:06:38.500013+00:00",
+    "original_time": "2026-06-23T12:35:05+05:00"
+  },
+  {
+    "id": "article_cf100e8a9c52",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "KGTL plans up to $100m more investment in Karachi port after cargo surge from Iran war",
+    "translated_title": "由于伊朗战争导致货运量激增，KGTL 计划在卡拉奇港追加投资 1 亿美元",
+    "url": "https://www.dawn.com/news/2010285/kgtl-plans-up-to-100m-more-investment-in-karachi-port-after-cargo-surge-from-iran-war",
+    "timestamp": "2026-06-23T18:06:44.443920+00:00",
+    "original_time": "2026-06-23T18:46:16+05:00"
+  },
+  {
+    "id": "article_42f9842f7996",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2010275/40-drown-in-france-as-people-seek-relief-from-europes-heatwave",
+    "timestamp": "2026-06-23T18:07:30.211834+00:00",
+    "original_time": "2026-06-23T18:07:30.211801+00:00"
+  },
+  {
+    "id": "article_de05df5d1264",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "ECP summons KP, Islamabad officials on July 1 over delay in local govt polls data",
+    "translated_title": "ECP 于 7 月 1 日召见 KP 和伊斯兰堡官员，原因是当地政府民意调查数据延迟",
+    "url": "https://www.dawn.com/news/2010298/ecp-summons-kp-islamabad-officials-on-july-1-over-delay-in-local-govt-polls-data",
+    "timestamp": "2026-06-23T18:08:00.165096+00:00",
+    "original_time": "2026-06-23T20:25:46+05:00"
+  },
+  {
+    "id": "article_6e243aa92ade",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Five Eyes spy alliance warns AI can outpace cybersecurity norms 'in months, not years'",
+    "translated_title": "五眼间谍联盟警告人工智能可以“在几个月而不是几年内”超越网络安全规范",
+    "url": "https://www.dawn.com/news/2010237/five-eyes-spy-alliance-warns-ai-can-outpace-cybersecurity-norms-in-months-not-years",
+    "timestamp": "2026-06-23T18:08:03.484410+00:00",
+    "original_time": "2026-06-23T12:37:12+05:00"
+  },
+  {
+    "id": "article_38d2ec5a00ba",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Diaspora World Cup champions diversity over division",
+    "translated_title": "海外侨民世界杯倡导多元化而非分区",
+    "url": "https://www.dawn.com/news/2010241/diaspora-world-cup-champions-diversity-over-division",
+    "timestamp": "2026-06-23T18:08:20.324705+00:00",
+    "original_time": "2026-06-23T13:13:05+05:00"
+  },
+  {
+    "id": "article_88e335a78585",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Kenya police violence victims say compensation promise a 'smokescreen'",
+    "translated_title": "肯尼亚警察暴力受害者称赔偿承诺只是“烟幕弹”",
+    "url": "https://www.dawn.com/news/2010332/kenya-police-violence-victims-say-compensation-promise-a-smokescreen",
+    "timestamp": "2026-06-23T18:08:51.274218+00:00",
+    "original_time": "2026-06-23T22:47:56+05:00"
+  },
+  {
+    "id": "article_6db87899e2b7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "AJK govt rules out 'blanket amnesty' for proscribed JAAC leaders",
+    "translated_title": "AJK 政府排除对被禁 JAAC 领导人进行“全面特赦”的可能性",
+    "url": "https://www.dawn.com/news/2010274/ajk-govt-rules-out-blanket-amnesty-for-proscribed-jaac-leaders",
+    "timestamp": "2026-06-23T18:09:44.129244+00:00",
+    "original_time": "2026-06-23T17:43:05+05:00"
+  },
+  {
+    "id": "article_c433cea226d5",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Every monsoon, thousands of seashells wash up on Karachi's shores. Here's why",
+    "translated_title": "每到季风季节，成千上万的贝壳就会被冲上卡拉奇海岸。这就是为什么",
+    "url": "https://www.dawn.com/news/2010282/every-monsoon-thousands-of-seashells-wash-up-on-karachis-shores-heres-why",
+    "timestamp": "2026-06-23T18:09:49.239307+00:00",
+    "original_time": "2026-06-23T18:14:30+05:00"
   }
 ]
