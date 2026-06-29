@@ -1,27 +1,19 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-5642693100163960856",
+    "id": "tweet_ForeignOfficePk_5777797028207829843",
     "type": "tweet",
     "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50held a telephonic conversation today with His Highness Prince Faisal bin Farhan Al Saud, Foreign Minister of the Kingdom of Saudi Arabia.@FaisalbinFarhanDPM/FM expressed sincere condolences on",
-    "translated_text": "副首相/外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50 今天与沙特阿拉伯王国外交大臣费萨尔·本·法尔汉·阿勒沙特亲王殿下进行了电话交谈。@FaisalbinFarhanDPM/FM 表示诚挚哀悼",
+    "text": "Pakistan extends heartiest felicitations to the Government and people of the Republic of Seychelles.\n\nHappy Independence Day!@SeychellesFAD@PakinMauritius",
+    "translated_text": "巴基斯坦向塞舌尔共和国政府和人民致以最诚挚的祝贺。\n\n独立日快乐！@SeychellesFAD@PakinMauritius",
     "images": [
-      "f2c27dce2ba4631c.jpg"
+      "dee669a0abb351a1.svg",
+      "473a714cee691346.svg",
+      "b5f216ba88db8690.svg",
+      "4fa3d11697ee96b1.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-5642693100163960856",
-    "timestamp": "2026-06-29T00:08:46.554352+00:00",
-    "original_time": "2026-06-28T15:25:21+00:00"
-  },
-  {
-    "id": "tweet_MIshaqDar50_6825727139363705533",
-    "type": "tweet",
-    "username": "MIshaqDar50",
-    "text": "The Government, myself and the people of Pakistan are deeply grieved by the tragic news of the helicopter crash in Ras Tanura, Kingdom of Saudi Arabia, which has claimed the 14 precious lives.\n\nPakistan extends heartfelt condolences to the Government and People of the Kingdom.",
-    "translated_text": "巴基斯坦政府、我本人和人民对沙特阿拉伯王国拉斯坦努拉直升机坠毁的悲痛消息深感悲痛，这场事故夺走了14条宝贵的生命。\n\n巴基斯坦向沙特政府和人民致以诚挚慰问。",
-    "images": [],
-    "url": "https://x.com/MIshaqDar50/status/6825727139363705533",
-    "timestamp": "2026-06-29T00:08:46.718381+00:00",
-    "original_time": "2026-06-28T14:33:11+00:00"
+    "url": "https://x.com/ForeignOfficePk/status/5777797028207829843",
+    "timestamp": "2026-06-29T05:50:19.005208+00:00",
+    "original_time": "2026-06-29T03:42:21+00:00"
   },
   {
     "id": "tweet_MIshaqDar50_0",
@@ -33,732 +25,173 @@
       "54e6e7678f1e6093.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-06-29T00:08:59.501413+00:00",
+    "timestamp": "2026-06-29T05:50:31.209322+00:00",
     "original_time": "2026-06-28T17:55:57+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4298684282172198552",
+    "id": "tweet_CMShehbaz_-2387347694434127735",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Pakistan’s greatest strength lies in its young population, with the country’s youth driving progress in artificial intelligence, IT, urban growth and regional connectivity.\nTo become a leading connectivity and investment hub, Pakistan must move with urgency, unity and clear",
-    "translated_text": "巴基斯坦最大的优势在于其年轻人口，该国的年轻人推动了人工智能、信息技术、城市发展和区域互联互通的进步。\n为了成为领先的互联互通和投资中心，巴基斯坦必须采取紧迫、团结和明确的行动",
+    "username": "CMShehbaz",
+    "text": "Deeply saddened by the tragic helicopter crash in Ras Tanura that claimed the precious lives of 14 Saudi nationals.\n\nOn behalf of the people and Government of Pakistan, I extend our heartfelt condolences to the Custodian of the Two Holy Mosques, His Majesty King Salman bin",
+    "translated_text": "对拉斯坦努拉直升机坠毁造成 14 名沙特公民丧生的悲惨事件深感悲痛。\n\n我代表巴基斯坦人民和政府，向两圣寺护法萨勒曼·本国王陛下表示衷心哀悼",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-4298684282172198552",
-    "timestamp": "2026-06-29T00:09:53.277890+00:00",
-    "original_time": "2026-06-28T22:53:42+00:00"
+    "url": "https://x.com/CMShehbaz/status/-2387347694434127735",
+    "timestamp": "2026-06-29T05:50:46.424480+00:00",
+    "original_time": "2026-06-29T02:46:39+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1257828627411475280",
+    "id": "tweet_PakTVGlobal_4938263073063068516",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Israel’s continued actions in southern Lebanon show that the current deal may not bring lasting peace to the Levant, with Tel Aviv using the arrangement to maintain control and pressure Beirut, Tehran and Washington.\nNo peace can be achieved while occupation and expansionist",
-    "translated_text": "以色列在黎巴嫩南部的持续行动表明，当前的协议可能不会给黎凡特带来持久和平，特拉维夫利用该安排来维持对贝鲁特、德黑兰和华盛顿的控制和压力。\n占领和扩张主义就不可能实现和平",
+    "text": "China added 20 Japanese entities, including the National Institute for Defense Studies, to a blacklist on Monday aiming to block the export of dual-use items, the commerce ministry said.#China#Japan#Trade#Geopolitics#PakistanTv",
+    "translated_text": "中国商务部表示，中国周一将包括防卫研究所在内的 20 个日本实体列入黑名单，旨在阻止两用物项出口。#China#Japan#Trade#Geopolitics#PakistanTv",
     "images": [
-      "711bf6ee19c94ef3.jpg"
+      "e80ccdd411c62329.png",
+      "d5ee9ada61aba1bd.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1257828627411475280",
-    "timestamp": "2026-06-29T00:09:53.794250+00:00",
-    "original_time": "2026-06-28T22:52:23+00:00"
+    "url": "https://x.com/PakTVGlobal/status/4938263073063068516",
+    "timestamp": "2026-06-29T05:51:26.853261+00:00",
+    "original_time": "2026-06-29T05:20:43+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8653019766777452244",
+    "id": "tweet_PakTVGlobal_4106616165606195960",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "The latest US-Iran understanding is being viewed as more than a routine peace deal, with experts highlighting deep mistrust and complex dynamics between the two sides.\nWhile earlier attempts faced setbacks due to trust deficits and unresolved concerns, the current phased approach",
-    "translated_text": "美国与伊朗的最新谅解被视为不仅仅是一项例行的和平协议，专家强调了双方之间的深刻不信任和复杂的动态。\n虽然早期的尝试因信任赤字和未解决的担忧而遭遇挫折，但目前的分阶段方法",
+    "text": "International affairs expert Mujeebur Rehman says a complete closure of the Strait of Hormuz is unlikely but believes Tehran will continue using the waterway as leverage during future disputes.#StraitOfHormuz#Iran#MiddleEast#Geopolitics#PakistanTV",
+    "translated_text": "国际事务专家穆吉布尔·拉赫曼表示，完全关闭霍尔木兹海峡的可能性不大，但相信德黑兰将继续利用该水道作为未来争端的杠杆。#StraitOfHormuz#Iran#MiddleEast#Geopolitics#PakistanTV",
     "images": [
-      "07f1d7bcee5604f7.jpg"
+      "9ab0d1e80146c0b7.png",
+      "99398ab2adc5a689.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8653019766777452244",
-    "timestamp": "2026-06-29T00:09:54.382034+00:00",
-    "original_time": "2026-06-28T22:51:47+00:00"
+    "url": "https://x.com/PakTVGlobal/status/4106616165606195960",
+    "timestamp": "2026-06-29T05:51:27.841808+00:00",
+    "original_time": "2026-06-29T05:00:30+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8729096135408018862",
+    "id": "tweet_PakTVGlobal_7498720909054006523",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "A skydiving plane crashed near Nancy in north-eastern France, killing all 11 people onboard.\nAuthorities said the aircraft went down shortly after takeoff from Nancy-Essey airfield. The victims included five students, five instructors and the pilot, while emergency teams provided",
-    "translated_text": "一架跳伞飞机在法国东北部南希附近坠毁，机上11人全部遇难。\n当局表示，这架飞机从南希-埃西机场起飞后不久就坠毁了。遇难者包括五名学生、五名教练和飞行员，应急小组提供了救援",
+    "text": "Britain's Emma Raducanu has withdrawn from Wimbledon because of a stress fracture in her lower right leg, dealing a blow to home hopes for the grass-court Grand Slam.#EmmaRaducanu#Wimbledon#Tennis#Sports#PakistanTV",
+    "translated_text": "英国选手艾玛·拉杜卡努 (Emma Raducanu) 因右小腿应力性骨折而退出温网，这对本土获得草地大满贯的希望造成打击。#EmmaRaducanu#Wimbledon#Tennis#Sports#PakistanTV",
     "images": [
-      "14459954e2fe968c.jpg"
+      "483eba45946f9af6.png",
+      "d4db7c1e0a5ff4e8.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8729096135408018862",
-    "timestamp": "2026-06-29T00:09:54.904902+00:00",
-    "original_time": "2026-06-28T22:46:08+00:00"
+    "url": "https://x.com/PakTVGlobal/status/7498720909054006523",
+    "timestamp": "2026-06-29T05:51:29.190557+00:00",
+    "original_time": "2026-06-29T04:51:43+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4073536797048518029",
+    "id": "tweet_PakTVGlobal_-1723323992132764737",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "England Test captain Ben Stokes has announced his retirement from international cricket, bringing an end to a landmark career.\nThe star all-rounder leaves behind a legacy that includes England’s 2019 World Cup triumph, the 2022 T20 World Cup win, and one of Ashes cricket’s most",
-    "translated_text": "英格兰测试队队长本·斯托克斯宣布从国际板球界退役，结束了具有里程碑意义的职业生涯。\n这位全能明星留下了一系列遗产，包括英格兰 2019 年世界杯冠军、2022 年 T20 世界杯冠军以及灰烬杯板球最伟大的冠军之一",
+    "text": "Russian President Vladimir Putin said Sunday he was expecting a team of US negotiators to come to Moscow, once Washington had reached an agreement with Iran over the Middle East conflict.#Russia#VladimirPutin#IranUS#Diplomacy#PakistanTv",
+    "translated_text": "俄罗斯总统弗拉基米尔·普京周日表示，一旦华盛顿与伊朗就中东冲突达成协议，他预计美国谈判代表团队将来到莫斯科。#Russia#Vladimir Putin#IranUS#Diplomacacy#PakistanTv",
     "images": [
-      "ce57388ae98cf62f.jpg"
+      "76605c71530cfeb3.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-4073536797048518029",
-    "timestamp": "2026-06-29T00:09:55.462194+00:00",
-    "original_time": "2026-06-28T22:38:36+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-1723323992132764737",
+    "timestamp": "2026-06-29T05:51:30.499158+00:00",
+    "original_time": "2026-06-29T03:58:47+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6463802766345395381",
+    "id": "tweet_PakTVGlobal_-9017572095590022659",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Middle East expert Faeq Karim told Pakistan TV that direct communication between both sides is vital, but it must be structured, consistent and linked to decision makers.\nHe said an emergency communication channel, clearly defined violations, shared red lines and gradual",
-    "translated_text": "中东问题专家法克·卡里姆（Faeq Karim）告诉巴基斯坦电视台，双方之间的直接沟通至关重要，但必须是结构化的、一致的并与决策者联系起来。\n他说，建立紧急沟通渠道、明确界定违规行为、共享红线并逐步实施",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/6463802766345395381",
-    "timestamp": "2026-06-29T00:09:58.083696+00:00",
-    "original_time": "2026-06-28T19:15:09+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_5496495239750979610",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "#BREAKINGStartling revelations have emerged from an injured Afghan Khwariji allegedly involved in the attack on a Pakistan Sindh Rangers camp. In his statement, the suspect claimed affiliation with Jamaat-ul-Ahrar and revealed that he had entered Pakistan seven days before the",
-    "translated_text": "#BREAKING 受伤的阿富汗赫瓦里吉 (Khwariji) 据称参与了对巴基斯坦信德游骑兵营地的袭击，此事令人震惊。嫌疑人在供述中声称与自由党有联系，并透露他在事件发生 7 天前进入巴基斯坦。",
+    "text": "US military personnel were arriving in quake-hit Venezuela to help expand airport capacity and reopen a key seaport to support relief efforts, the US Southern Command said in a statement.#Venezuela#Earthquake#ReliefEfforts#USA#PakistanTv",
+    "translated_text": "美国南方司令部在一份声明中表示，美国军事人员已抵达受地震影响的委内瑞拉，帮助扩大机场容量并重新开放一个重要海港，以支持救灾工作。#Venezuela#Earthquake#ReliefEfforts#USA#PakistanTv",
     "images": [
-      "bedd00c287c26292.jpg",
-      "184df3ca276bc82e.jpg",
-      "27d60b27c29d146c.jpg",
-      "16f03a8eb513d722.jpg"
+      "c4a8fca4d1a36133.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/5496495239750979610",
-    "timestamp": "2026-06-29T00:09:58.740000+00:00",
-    "original_time": "2026-06-28T18:54:58+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-9017572095590022659",
+    "timestamp": "2026-06-29T05:51:31.676274+00:00",
+    "original_time": "2026-06-29T03:57:19+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7311150842003413004",
+    "id": "tweet_PakTVGlobal_-1103804233416622121",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Rescue operations are underway across Venezuela after powerful earthquakes killed at least 1,430 people and left tens of thousands missing. More than 2,700 rescuers and international aid teams are searching affected areas, as hopes of finding survivors fade beyond the critical",
-    "translated_text": "强烈地震造成至少 1,430 人死亡、数万人失踪，委内瑞拉各地正在进行救援行动。超过 2,700 名救援人员和国际援助小组正在搜寻受影响地区，寻找幸存者的希望已经超出了危急关头",
+    "text": "Canada reached the World Cup last 16 after a dramatic 1-0 win over South Africa at SoFi Stadium in Los Angeles.\nCaptain Stephen Eustaquio scored the decisive goal in the 92nd minute, sending the co-hosts into the knockout stage. Canada will now face either the Netherlands or",
+    "translated_text": "加拿大队在洛杉矶索菲体育场以 1-0 戏剧性地战胜南非队，进入世界杯 16 强。\n队长斯蒂芬·尤斯塔奎奥在第92分钟打入决定性进球，将东道主队带入淘汰赛阶段。加拿大现在将面对荷兰或",
     "images": [
-      "4dbcc71079e07589.jpg"
+      "ffa228c8751c9d62.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-7311150842003413004",
-    "timestamp": "2026-06-29T00:09:59.331869+00:00",
-    "original_time": "2026-06-28T18:13:21+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-1103804233416622121",
+    "timestamp": "2026-06-29T05:51:35.100306+00:00",
+    "original_time": "2026-06-28T21:34:11+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7403923883471961430",
+    "id": "tweet_PakTVGlobal_-3772838121296589312",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Reports say Afghanistan has become increasingly dangerous for returning migrants under Taliban rule, with citizens facing fear, imprisonment and repression. Hasht-e Subh said the Taliban are using migrant returns and control of Afghan embassies to tighten their grip and seek",
-    "translated_text": "报道称，塔利班统治下的阿富汗对于返回的移民来说变得越来越危险，公民面临恐惧、监禁和镇压。 Hasht-e Subh表示，塔利班正在利用移民回返和对阿富汗大使馆的控制来加强控制并寻求帮助。",
+    "text": "Pakistan is raising the Indus Waters Treaty issue at a wider global level, linking it with regional stability, geoeconomics and the emerging multipolar world order.\nThe water dispute and the issue of Indian illegally occupied Jammu and Kashmir remain closely connected and will",
+    "translated_text": "巴基斯坦正在更广泛的全球层面提出《印度河水域条约》问题，将其与地区稳定、地缘经济和新兴的多极世界秩序联系起来。\n水纠纷与印度非法占领的查谟和克什米尔问题仍然密切相关，并将",
     "images": [
-      "afe8c130d5411306.jpg"
+      "f977a5abc7b8186e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-7403923883471961430",
-    "timestamp": "2026-06-29T00:09:59.905511+00:00",
-    "original_time": "2026-06-28T18:09:14+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-3772838121296589312",
+    "timestamp": "2026-06-29T05:51:35.296640+00:00",
+    "original_time": "2026-06-28T20:13:55+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7457917420614709980",
+    "id": "tweet_PakTVGlobal_-2994705680014536328",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Senior Anchor Tanya Francis, currently in Islamabad to attend the June 30 seminar on the Indus Waters Treaty, told Pakistan TV that Pakistan’s role in Iran-U.S. peace efforts reflects its growing diplomatic strength.\nShe said Pakistan’s participation in major international peace",
-    "translated_text": "目前在伊斯兰堡参加 6 月 30 日印度河水域条约研讨会的高级主持人坦尼娅·弗朗西斯 (Tanya Francis) 告诉巴基斯坦电视台，巴基斯坦在伊朗-美国关系中的角色和平努力反映了其日益增长的外交实力。\n她说巴基斯坦参与重大国际和平",
+    "text": "Geo-political analyst Dr. Roxolana Zigon, while speaking to Pakistan TV, said India may intensify diplomatic efforts to counter Pakistan’s recent role as a peace mediator between Iran and the United States.\nShe said New Delhi could use diplomatic and legal platforms to push its",
+    "translated_text": "地缘政治分析师罗克索拉纳·齐贡博士在接受巴基斯坦电视台采访时表示，印度可能会加强外交努力，以对抗巴基斯坦最近在伊朗和美国之间充当和平调解人的角色。\n她表示，新德里可以利用外交和法律平台来推动其发展",
     "images": [
-      "064616c6e8d852e6.jpg"
+      "e5378e428f28cf9b.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/7457917420614709980",
-    "timestamp": "2026-06-29T00:10:00.346218+00:00",
-    "original_time": "2026-06-28T18:07:27+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-2994705680014536328",
+    "timestamp": "2026-06-29T05:51:35.555244+00:00",
+    "original_time": "2026-06-28T20:05:37+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3686772307257410811",
+    "id": "tweet_PakTVGlobal_-7921420580917995015",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Speaking to Pakistan TV, US author and public speaker Laurie Watkins, who is in Islamabad for the seminar on the Indus Waters Treaty, being held on June 30th, said the treaty cannot be unilaterally revoked.\nShe said the agreement is protected under international law and “one",
-    "translated_text": "正在伊斯兰堡参加 6 月 30 日举行的《印度河水域条约》研讨会的美国作家兼公共演说家劳里·沃特金斯 (Laurie Watkins) 在接受巴基斯坦电视台采访时表示，该条约不能单方面撤销。\n她表示，该协议受到国际法的保护，“",
+    "text": "Speaking to Pakistan TV, geo-political analyst Dr. Roxolana Zigon said Pakistan’s diplomatic engagement is gaining relevance as South Asia’s security challenges draw wider global attention.\nShe said India’s efforts to escalate tensions may damage its own credibility, while",
+    "translated_text": "地缘政治分析师罗克索拉纳·齐贡博士在接受巴基斯坦电视台采访时表示，随着南亚的安全挑战引起全球更广泛的关注，巴基斯坦的外交接触变得越来越重要。\n她表示，印度升级紧张局势的努力可能会损害其自身信誉，而",
     "images": [
-      "be0d786d510f795e.jpg"
+      "694d8160492982b9.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3686772307257410811",
-    "timestamp": "2026-06-29T00:10:00.951222+00:00",
-    "original_time": "2026-06-28T18:01:51+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-7921420580917995015",
+    "timestamp": "2026-06-29T05:51:35.779123+00:00",
+    "original_time": "2026-06-28T20:03:50+00:00"
   },
   {
-    "id": "tweet_IRIMFA_SPOX_-2702833881937373616",
+    "id": "tweet_PakTVGlobal_-5731562968688793228",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The U.S. Air Force Thunderbirds soared over the Las Vegas Strip in a special America250 flyover, putting their signature precision on display as the country prepares to mark its 250th anniversary.\n\nDisclaimer: This video is intended for informational and editorial use only. All",
+    "translated_text": "美国空军雷鸟飞行表演队在美国 250 号特别飞行表演中翱翔在拉斯维加斯大道上空，在美国准备庆祝建国 250 周年之际展示其标志性的精确性。\n\n免责声明：该视频仅供参考和编辑用途。全部",
+    "images": [
+      "6659a5b93ed6809a.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-5731562968688793228",
+    "timestamp": "2026-06-29T05:51:36.020549+00:00",
+    "original_time": "2026-06-28T19:57:57+00:00"
+  },
+  {
+    "id": "tweet_IRIMFA_SPOX_-2518720414438297331",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "They draw the penalty of his killer as they compose  \nSuddenly, upon the ledger of mercy, they wield the pen  \n\nMuhtasham Kashani  \n\nAfter a busy day in Baghdad, we have now arrived in Karbala al-Mualla, the abode and resting place of the master of the world's free spirits, Imam",
     "translated_text": "他们一边作曲，一边对凶手处以刑罚  \n突然，他们在仁慈的账本上挥起了笔  \n\n穆赫塔沙姆·卡沙尼  \n\n在巴格达忙碌了一天之后，我们现在到达了卡尔巴拉穆阿拉 (Karbala al-Mualla)，这是世界自由精神大师伊玛目的住所和安息之地",
     "images": [],
-    "url": "https://x.com/IRIMFA_SPOX/status/-2702833881937373616",
-    "timestamp": "2026-06-29T00:10:46.055417+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/-2518720414438297331",
+    "timestamp": "2026-06-29T05:52:17.725315+00:00",
     "original_time": "2026-06-28T23:31:54+00:00"
   },
   {
-    "id": "tweet_IRIMFA_SPOX_2212344911284557885",
+    "id": "tweet_IRIMFA_SPOX_781505727577495119",
     "type": "tweet",
     "username": "IRIMFA_SPOX",
     "text": "Bravo to the Iranian national football team, who, united and resolute, aimed for the \"goal\" and did not allow inhumane and unprecedented pressures to stop them from \"running.\"\n\nIn days when pressure, narrow-mindedness, discrimination, and restrictions had made continuing more",
     "translated_text": "为伊朗国家足球队喝彩，他们团结一致，坚决瞄准“目标”，没有让非人道和前所未有的压力阻止他们“奔跑”。\n\n在压力、狭隘、歧视和限制使得继续更多的日子里",
     "images": [],
-    "url": "https://x.com/IRIMFA_SPOX/status/2212344911284557885",
-    "timestamp": "2026-06-29T00:10:46.480878+00:00",
+    "url": "https://x.com/IRIMFA_SPOX/status/781505727577495119",
+    "timestamp": "2026-06-29T05:52:17.883643+00:00",
     "original_time": "2026-06-28T18:15:17+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_SPOX_1766228347787405534",
-    "type": "tweet",
-    "username": "IRIMFA_SPOX",
-    "text": "39 years ago on this day (July 7, 1987), the defenseless people of#Sardashtfell victim to one of the most horrific crimes of the century through the use of chemical weapons; a crime that, without the technical and technological support—and more importantly, the political",
-    "translated_text": "39 年前的今天（1987 年 7 月 7 日），手无寸铁的 #Sardasht 人民因使用化学武器而成为本世纪最可怕罪行之一的受害者；这种犯罪在没有技术和技术支持的情况下——更重要的是，在没有政治支持的情况下——",
-    "images": [
-      "311773f7c0b86e6e.jpg",
-      "ef77dbd02db27ff9.jpg"
-    ],
-    "url": "https://x.com/IRIMFA_SPOX/status/1766228347787405534",
-    "timestamp": "2026-06-29T00:10:46.968835+00:00",
-    "original_time": "2026-06-28T16:35:45+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_4634027381260436547",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "The Supreme Court on Thursday said the Trump administration can move forward with its efforts to strip more than 356,000 Syrian and Haitian immigrants of temporary protections that have allowed them to live and work in the United States. CBS News' Lindsey Reiser has more on what",
-    "translated_text": "最高法院周四表示，特朗普政府可以继续努力，剥夺超过 356,000 名叙利亚和海地移民的临时保护，这些保护使他们能够在美国生活和工作。哥伦比亚广播公司新闻 (CBS News) 的林赛·雷瑟 (Lindsey Reiser) 有更多关于什么的内容",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/4634027381260436547",
-    "timestamp": "2026-06-29T00:11:53.240134+00:00",
-    "original_time": "2026-06-28T23:46:19+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-9014475338981185592",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Pakistan says its security forces killed 29 militants in ground operation, strikes along Afghan border",
-    "translated_text": "巴基斯坦称其安全部队在阿富汗边境的地面行动和袭击中打死了29名武装分子",
-    "images": [
-      "9e9e2678cba8b708.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-9014475338981185592",
-    "timestamp": "2026-06-29T00:11:53.396399+00:00",
-    "original_time": "2026-06-28T22:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2334777126529148437",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "England fans celebrated their nation’s World Cup win over Panama with a stadium-wide rendition of Oasis’ “Wonderwall” in East Rutherford, New Jersey, on Saturday.\n\nEngland defeated Panama 2-0, ensuring England’s first place standing in Group L aead of the knockout stage.",
-    "translated_text": "周六，英格兰球迷在新泽西州东卢瑟福的整个体育场内演奏绿洲乐队的《Wonderwall》，庆祝他们的国家队战胜巴拿马队。\n\n英格兰队以2-0击败巴拿马队，确保英格兰队在淘汰赛前以L组第一的身份晋级。",
-    "images": [
-      "fcaf71f7019b2bdd.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/2334777126529148437",
-    "timestamp": "2026-06-29T00:11:53.579118+00:00",
-    "original_time": "2026-06-28T20:53:37+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-52872115123386612",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Sen. Tim Kaine says guardrails on Pentagon firings could get bipartisan support amid recent high-profile exits.",
-    "translated_text": "参议员蒂姆·凯恩表示，在最近高调退出的情况下，五角大楼解雇人员的护栏可能会得到两党的支持。",
-    "images": [
-      "541d52aa7054583a.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-52872115123386612",
-    "timestamp": "2026-06-29T00:11:53.809495+00:00",
-    "original_time": "2026-06-28T20:30:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_1678366212779701136",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A mother and her nine-month-old baby were pulled from the rubble of a collapsed building in Venezuela by a U.S. search and rescue team assisting in the aftermath of dual earthquakes that have killed more than 1,400 people and left scores more missing.\n\nBoth had \"only minor",
-    "translated_text": "委内瑞拉发生两次地震，造成 1,400 多人死亡，数十人失踪，美国搜救队从委内瑞拉一栋倒塌建筑的废墟中救出了一名母亲和她 9 个月大的婴儿。\n\n两人都“只有轻微的",
-    "images": [
-      "2cf6bb53902296f3.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1678366212779701136",
-    "timestamp": "2026-06-29T00:11:54.184973+00:00",
-    "original_time": "2026-06-28T19:51:07+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-899658851769710158",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "“When you see Army officers forced out, you got to wonder, is this a personal thing, or is it really what is best for the nation?” \n\nSen. Tim Kaine questioned Defense Secretary Pete Hegseth’s firings of senior Army officers, saying, “He served in the Army, he felt like he wasn't",
-    "translated_text": "“当你看到军官被迫离开时，你会想，这是个人的事情，还是真的对国家最好？” \n\n参议员蒂姆·凯恩 (Tim Kaine) 对国防部长皮特·赫格斯 (Pete Hegseth) 解雇高级陆军军官的行为提出质疑，他说：“他曾在陆军服役，但他觉得自己没有",
-    "images": [],
-    "url": "https://x.com/FaceTheNation/status/-899658851769710158",
-    "timestamp": "2026-06-29T00:11:57.246022+00:00",
-    "original_time": "2026-06-28T16:28:43+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_2136755698796006183",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "Sen. Tim Kaine (D-VA), a member of the Senate Armed Services Committee, says there’s been a “lot of questions and few answers” about the retirement of Gen. Chris Donahue, who was ordered by Defense Secretary Pete Hegseth to retire. \n\n“He was very well-regarded; both sides of the",
-    "translated_text": "参议院军事委员会成员、弗吉尼亚州民主党参议员蒂姆·凯恩 (Tim Kaine) 表示，国防部长皮特·赫格斯 (Pete Hegseth) 下令克里斯·多纳休 (Chris Donahue) 将军退休，但关于他的退休，存在“很多问题，但答案很少”。 \n\n“他很受人尊敬；双方",
-    "images": [
-      "d2ee98a24535189f.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/2136755698796006183",
-    "timestamp": "2026-06-29T00:11:57.541374+00:00",
-    "original_time": "2026-06-28T16:27:22+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-2051488409952998712",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "Sen. Bill Cassidy (R-LA) strongly criticized Health and Human Services Secretary Robert F. Kennedy Jr. over his vaccine skepticism and handling of the nation's public health, despite having delivered the key vote to advance Kennedy's nomination last year. \n\nCassidy, a medical",
-    "translated_text": "参议员比尔·卡西迪（路易斯安那州共和党）强烈批评卫生与公众服务部长小罗伯特·F·肯尼迪对疫苗的怀疑态度和对国家公共卫生的处理方式，尽管他去年为推进肯尼迪的提名进行了关键投票。 \n\n卡西迪，一名医生",
-    "images": [
-      "230dd008d7ee8457.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-2051488409952998712",
-    "timestamp": "2026-06-29T00:11:58.024887+00:00",
-    "original_time": "2026-06-28T16:10:39+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-2891179642208721627",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "When asked about the lack of Senate-confirmed lead positions at the Centers for Disease Control and Prevention, the Food and Drug Administration, the National Institute of Health, and a vacancy in the Surgeon General role, Sen. Bill Cassidy (R-LA) said, “Clearly, it is a",
-    "translated_text": "当被问及疾病控制和预防中心、食品和药物管理局、国家卫生研究院缺乏参议院确认的领导职位以及外科医生职位空缺时，洛杉矶共和党参议员比尔·卡西迪说：“显然，这是一个",
-    "images": [
-      "de6c7e976317f6bd.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-2891179642208721627",
-    "timestamp": "2026-06-29T00:11:58.657937+00:00",
-    "original_time": "2026-06-28T16:09:00+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-8236366463378738359",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "Sen. Bill Cassidy (R-LA) on HHS Secretary Robert F. Kennedy Jr:@margbrennan: We now have a long-time vaccine skeptic who is running HHS, who, in private practice, sued vaccine makers. How much harm has he done? Or do you believe that he has restored trust in public health, as",
-    "translated_text": "参议员比尔·卡西迪 (R-LA) 谈 HHS 部长 Robert F. Kennedy Jr：@margbrennan：我们现在有一位长期对疫苗持怀疑态度的人正在掌管 HHS，他在私人诊所起诉了疫苗制造商。他造成了多大的伤害？或者你认为他已经恢复了人们对公共卫生的信任，因为",
-    "images": [
-      "412fba62e3bec774.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-8236366463378738359",
-    "timestamp": "2026-06-29T00:11:59.225730+00:00",
-    "original_time": "2026-06-28T16:07:39+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-5517111384534610980",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "“We do see the consequences, though, of ignoring the benefits that things like vaccines brings for public health,” Sen. Bill Cassidy (R-LA) said when asked whether the Trump administration’s health policy is prepared to handle mass gatherings like the World Cup or a disease",
-    "translated_text": "当被问及特朗普政府的卫生政策是否准备好应对世界杯或疾病等大规模集会时，洛杉矶共和党参议员比尔·卡西迪表示：“不过，我们确实看到了忽视疫苗等事物为公共卫生带来的好处的后果。”",
-    "images": [
-      "44ff1c8a85691c55.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-5517111384534610980",
-    "timestamp": "2026-06-29T00:11:59.516992+00:00",
-    "original_time": "2026-06-28T16:05:22+00:00"
-  },
-  {
-    "id": "tweet_FaceTheNation_-5196398635266072188",
-    "type": "tweet",
-    "username": "FaceTheNation",
-    "text": "Sen. Bill Cassidy (R-LA) said on the Senate floor earlier this month that President Trump needs to engage in making healthcare more affordable. He told@margbrennanThursday “if the president gets engaged, it gives a real push.” \n\n“The plan I propose takes principles that the",
-    "translated_text": "路易斯安那州共和党参议员比尔·卡西迪本月早些时候在参议院表示，特朗普总统需要致力于让医疗保健变得更加负担得起。他周四告诉@margbrennan：“如果总统订婚，就会产生真正的推动力。” \n\n“我提出的计划所遵循的原则是",
-    "images": [
-      "fb3cc6393a4b51a6.jpg"
-    ],
-    "url": "https://x.com/FaceTheNation/status/-5196398635266072188",
-    "timestamp": "2026-06-29T00:11:59.922748+00:00",
-    "original_time": "2026-06-28T16:03:18+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_4384275091314214404",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "In the capital of Scotland, Edinburgh, more than 5,000 people organized the \"Reclaim Our Streets\" rally against racism and Islamophobia.",
-    "translated_text": "在苏格兰首府爱丁堡，超过5000人组织了反对种族主义和伊斯兰恐惧症的“夺回我们的街道”集会。",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/4384275091314214404",
-    "timestamp": "2026-06-29T00:13:12.921284+00:00",
-    "original_time": "2026-06-28T23:19:22+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-6789392112289590079",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Flights to and from London delayed due to bad weather, thousands of passengers distressed",
-    "translated_text": "往返伦敦航班因恶劣天气延误 数千乘客苦恼",
-    "images": [
-      "0408111f33990648.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-6789392112289590079",
-    "timestamp": "2026-06-29T00:13:13.323589+00:00",
-    "original_time": "2026-06-28T23:11:41+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-2399551939043886635",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The Israeli army has destroyed Hezbollah's underground military infrastructure in southern Lebanon.",
-    "translated_text": "以色列军队摧毁了真主党在黎巴嫩南部的地下军事基础设施。",
-    "images": [
-      "fbe58ab82a7b160e.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-2399551939043886635",
-    "timestamp": "2026-06-29T00:13:13.760096+00:00",
-    "original_time": "2026-06-28T23:06:47+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_892320209152666535",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "America and Iran have agreed to stop attacks on each other, American news website",
-    "translated_text": "美国新闻网站称，美国和伊朗已同意停止相互攻击",
-    "images": [
-      "aa4e7787362d1640.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/892320209152666535",
-    "timestamp": "2026-06-29T00:13:14.099340+00:00",
-    "original_time": "2026-06-28T23:05:26+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-5650038145573232226",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Qasoor Chunyaan: Alleged assault on a girl in Zahir Abad Colony, police",
-    "translated_text": "Qasoor Chunyaan：警方涉嫌在查希尔阿巴德殖民地袭击一名女孩",
-    "images": [
-      "e08204da17d925c0.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-5650038145573232226",
-    "timestamp": "2026-06-29T00:13:14.590161+00:00",
-    "original_time": "2026-06-28T23:04:43+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_2748075522818871128",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Firing near Mastung on Karachi family returning from Quetta trip, husband killed, wife critically injured",
-    "translated_text": "从奎达旅行返回的卡拉奇一家人在马斯通附近开枪，丈夫被杀，妻子重伤",
-    "images": [
-      "652d3fbf7234bb2c.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/2748075522818871128",
-    "timestamp": "2026-06-29T00:13:15.209651+00:00",
-    "original_time": "2026-06-28T22:28:51+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-2302066773316526182",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "I can't fall asleep without watching your program  \nA person in the audience praised Tabish",
-    "translated_text": "不看你的节目我就睡不着  \n一位观众称赞塔比什",
-    "images": [
-      "c2c433d4003263e8.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-2302066773316526182",
-    "timestamp": "2026-06-29T00:13:17.787355+00:00",
-    "original_time": "2026-06-28T19:42:13+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_1639961155659387058",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "What horrific incident occurred with Maya Khan?",
-    "translated_text": "玛雅汗发生了什么可怕的事件？",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/1639961155659387058",
-    "timestamp": "2026-06-29T00:13:18.228753+00:00",
-    "original_time": "2026-06-28T19:42:02+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-4227693030474717570",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Who is responsible for the destruction of Pakistan?  \nWhat was Maya Khan's response?",
-    "translated_text": "谁该为巴基斯坦的毁灭负责？  \n玛雅汗的回应是什么？",
-    "images": [
-      "af72a546726ba868.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-4227693030474717570",
-    "timestamp": "2026-06-29T00:13:18.868523+00:00",
-    "original_time": "2026-06-28T19:41:51+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_4273418594945844963",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Deputy Prime Minister's Telephonic Contact with Bahrain's Foreign Minister",
-    "translated_text": "副总理与巴林外长通电话",
-    "images": [
-      "83506203eab9a862.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/4273418594945844963",
-    "timestamp": "2026-06-29T00:13:19.283844+00:00",
-    "original_time": "2026-06-28T18:55:31+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-4319535621218070827",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "There was a slight bitterness between the People's Party and Khawaja Asif. However, even in this bitterness, we have proposed that the people of Kashmir are upset with Khawaja Asif's statement; this upset will harm the PML-N in the elections. Therefore, they should apologize.",
-    "translated_text": "人民党和卡瓦贾·阿西夫之间存在轻微的怨恨。然而，即使在这种痛苦中，我们还是建议克什米尔人民对卡瓦贾·阿西夫的言论感到不满；这种不安将在选举中损害PML-N。因此，他们应该道歉。",
-    "images": [
-      "305b59cd06c0a83d.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-4319535621218070827",
-    "timestamp": "2026-06-29T00:13:19.797880+00:00",
-    "original_time": "2026-06-28T18:42:55+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-2668417298597737635",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "'I am from Afghanistan and received training there,' revelations of the terrorist arrested in the attack on the Rangers camp in Karachi",
-    "translated_text": "“我来自阿富汗，并在那里接受训练”，在卡拉奇流浪者营地袭击中被捕的恐怖分子的爆料",
-    "images": [
-      "ab2503306018a5eb.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-2668417298597737635",
-    "timestamp": "2026-06-29T00:13:20.068209+00:00",
-    "original_time": "2026-06-28T18:42:40+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_4185279470104088389",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The People's Party has demanded the postponement of elections in Kashmir for just a few weeks so that efforts can be made to normalize the situation in Kashmir and elections can be held in a better environment, People's Party leader Qamar Zaman Kaira",
-    "translated_text": "人民党领导人卡马尔·扎曼·凯拉表示，人民党要求将克什米尔选举推迟几周，以便努力实现克什米尔局势正常化，并在更好的环境下举行选举",
-    "images": [
-      "5cd67669a33f1a33.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/4185279470104088389",
-    "timestamp": "2026-06-29T00:13:20.573675+00:00",
-    "original_time": "2026-06-28T18:42:36+00:00"
-  },
-  {
-    "id": "article_ee86f853f215",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Australia knock India out to reach Women's T20 World Cup semis",
-    "translated_title": "澳大利亚淘汰印度晋级女子T20世界杯半决赛",
-    "url": "https://www.dawn.com/news/2011430/australia-knock-india-out-to-reach-womens-t20-world-cup-semis",
-    "timestamp": "2026-06-29T00:14:16.302379+00:00",
-    "original_time": "2026-06-28T22:37:25+05:00"
-  },
-  {
-    "id": "article_1335b5dc3144",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Iran's supreme leader says legal cases must be pursued against US, Israel over 'child killings, war crimes'",
-    "translated_title": "伊朗最高领导人表示必须就“杀害儿童和战争罪”对美国和以色列提起法律诉讼",
-    "url": "https://www.dawn.com/news/2011424/irans-supreme-leader-says-legal-cases-must-be-pursued-against-us-israel-over-child-killings-war-crimes",
-    "timestamp": "2026-06-29T00:14:20.089109+00:00",
-    "original_time": "2026-06-28T21:30:48+05:00"
-  },
-  {
-    "id": "article_e885de720930",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2011286",
-    "timestamp": "2026-06-29T00:14:45.636842+00:00",
-    "original_time": "2026-06-29T00:14:45.636807+00:00"
-  },
-  {
-    "id": "article_2303df431f01",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Canada reach World Cup last 16 as late strike sinks South Africa",
-    "translated_title": "加拿大队晋级世界杯16强，南非队因迟到罢工而惨败",
-    "url": "https://www.dawn.com/news/2011486/canada-reach-world-cup-last-16-as-late-strike-sinks-south-africa",
-    "timestamp": "2026-06-29T00:14:48.682022+00:00",
-    "original_time": "2026-06-29T02:28:38+05:00"
-  },
-  {
-    "id": "article_01c340006188",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Provincial autonomy 'must remain free from interference', nothing in 'black and white' on 28th amendment yet: PPP",
-    "translated_title": "省级自治“必须保持不受干扰”，第28条修正案还没有“白纸黑字”：PPP",
-    "url": "https://www.dawn.com/news/2011411/provincial-autonomy-must-remain-free-from-interference-nothing-in-black-and-white-on-28th-amendment-yet-ppp",
-    "timestamp": "2026-06-29T00:15:16.617700+00:00",
-    "original_time": "2026-06-28T19:06:38+05:00"
-  },
-  {
-    "id": "article_71d924846474",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2011377/pemra-suspends-geo-news-transmission-for-15-days",
-    "timestamp": "2026-06-29T00:15:41.731188+00:00",
-    "original_time": "2026-06-29T00:15:41.731157+00:00"
-  },
-  {
-    "id": "article_07380af8245e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Highs and lows of England Test captain Ben Stokes' international career",
-    "translated_title": "英格兰测试队长本·斯托克斯国际生涯的高潮和低谷",
-    "url": "https://www.dawn.com/news/2011423/highs-and-lows-of-england-test-captain-ben-stokes-international-career",
-    "timestamp": "2026-06-29T00:15:54.752592+00:00",
-    "original_time": "2026-06-28T21:25:16+05:00"
-  },
-  {
-    "id": "article_4886c50c9dce",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2010632/oil-hits-pre-war-level-as-supply-fears-ease",
-    "timestamp": "2026-06-29T00:16:31.634930+00:00",
-    "original_time": "2026-06-29T00:16:31.634732+00:00"
-  },
-  {
-    "id": "article_335a6a6ab622",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Terrorist involved in Rangers camp attack in Karachi reveals he was trained in Afghanistan",
-    "translated_title": "参与卡拉奇游骑兵营袭击的恐怖分子透露他曾在阿富汗接受训练",
-    "url": "https://www.dawn.com/news/2011436/terrorist-involved-in-rangers-camp-attack-in-karachi-reveals-he-was-trained-in-afghanistan",
-    "timestamp": "2026-06-29T00:16:53.094757+00:00",
-    "original_time": "2026-06-29T00:34:18+05:00"
-  },
-  {
-    "id": "article_b223510cc847",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Child killed, woman injured in suspected quadcopter attack in KP's Bajaur: police sources",
-    "translated_title": "KP巴焦尔疑似四轴飞行器袭击事件造成儿童死亡、妇女受伤：警方消息人士",
-    "url": "https://www.dawn.com/news/2011415/child-killed-woman-injured-in-suspected-quadcopter-attack-in-kps-bajaur-police-sources",
-    "timestamp": "2026-06-29T00:16:58.814332+00:00",
-    "original_time": "2026-06-28T19:50:53+05:00"
-  },
-  {
-    "id": "article_4a8d70ba5e58",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "‘What a loser:’ Former US president Biden slams Trump",
-    "translated_title": "“真是个失败者：”美国前总统拜登猛烈抨击特朗普",
-    "url": "https://www.dawn.com/news/2011428/what-a-loser-former-us-president-biden-slams-trump",
-    "timestamp": "2026-06-29T00:17:19.889600+00:00",
-    "original_time": "2026-06-28T21:55:46+05:00"
-  },
-  {
-    "id": "article_e76c34b0c677",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Punjab Assembly speaker surprised by committee's approval of anti-social behaviour bill, says not aware it was laid",
-    "translated_title": "旁遮普议会议长对委员会批准反社会行为法案感到惊讶，称不知道该法案已制定",
-    "url": "https://www.dawn.com/news/2011434/punjab-assembly-speaker-surprised-by-committees-approval-of-anti-social-behaviour-bill-says-not-aware-it-was-laid",
-    "timestamp": "2026-06-29T00:17:26.431736+00:00",
-    "original_time": "2026-06-28T23:34:48+05:00"
-  },
-  {
-    "id": "article_38ed2669868a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2011206/unfilled-govt-jobs-foster-ad-hocism-open-door-to-nepotism-rules-sindh-high-court",
-    "timestamp": "2026-06-29T00:18:09.407044+00:00",
-    "original_time": "2026-06-29T00:18:09.407011+00:00"
-  },
-  {
-    "id": "article_7dc805b59fa0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Aramco helicopter crash kills 14 in Saudi Arabia",
-    "translated_title": "沙特阿美直升机在沙特阿拉伯坠毁，造成14人死亡",
-    "url": "https://www.dawn.com/news/2011406/aramco-helicopter-crash-kills-14-in-saudi-arabia",
-    "timestamp": "2026-06-29T00:18:23.136845+00:00",
-    "original_time": "2026-06-28T17:41:36+05:00"
-  },
-  {
-    "id": "article_f07f62a96623",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Interior ministry issues directive to arrest Afghan nationals without valid visas from July 10",
-    "translated_title": "内政部发布指令，从7月10日起逮捕无有效签证的阿富汗国民",
-    "url": "https://www.dawn.com/news/2011435/interior-ministry-issues-directive-to-arrest-afghan-nationals-without-valid-visas-from-july-10",
-    "timestamp": "2026-06-29T00:18:29.294352+00:00",
-    "original_time": "2026-06-29T00:31:06+05:00"
-  },
-  {
-    "id": "article_426cd110f936",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Civilian plane crash kills 11 in France: local authorities",
-    "translated_title": "法国民用飞机失事造成11人死亡：地方当局",
-    "url": "https://www.dawn.com/news/2011407/civilian-plane-crash-kills-11-in-france-local-authorities",
-    "timestamp": "2026-06-29T00:18:41.502251+00:00",
-    "original_time": "2026-06-28T17:49:34+05:00"
-  },
-  {
-    "id": "article_4c90859fab14",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan mulling purchase of cheaper oil, gas from Iran: petroleum minister",
-    "translated_title": "巴基斯坦考虑从伊朗购买更便宜的石油和天然气：石油部长",
-    "url": "https://www.dawn.com/news/2011414/pakistan-mulling-purchase-of-cheaper-oil-gas-from-iran-petroleum-minister",
-    "timestamp": "2026-06-29T00:19:44.304816+00:00",
-    "original_time": "2026-06-28T20:26:35+05:00"
-  },
-  {
-    "id": "article_f1f3f90b8adf",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2010869/record-tom-latham-devon-conway-stand-gives-new-zealand-charge-against-england",
-    "timestamp": "2026-06-29T00:20:03.460559+00:00",
-    "original_time": "2026-06-29T00:20:03.460524+00:00"
-  },
-  {
-    "id": "article_1946aa01e88a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Security forces kill 29 terrorists in ground ops, air strikes along Pak-Afghan border: info minister",
-    "translated_title": "安全部队在巴阿边境的地面行动和空袭中击毙29名恐怖分子：信息部长",
-    "url": "https://www.dawn.com/news/2011438/security-forces-kill-29-terrorists-in-ground-ops-air-strikes-along-pak-afghan-border-info-minister",
-    "timestamp": "2026-06-29T00:20:23.219054+00:00",
-    "original_time": "2026-06-29T01:13:58+05:00"
-  },
-  {
-    "id": "article_2fb16ccf5e4a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2011298/punjab-assembly-passes-budget-amid-opposition-walkout",
-    "timestamp": "2026-06-29T00:20:52.434532+00:00",
-    "original_time": "2026-06-29T00:20:52.434500+00:00"
-  },
-  {
-    "id": "article_00abe47e2c4d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "England Test captain Ben Stokes to retire from international cricket",
-    "translated_title": "英格兰测试队队长本·斯托克斯将从国际板球比赛中退役",
-    "url": "https://www.dawn.com/news/2011416/england-test-captain-ben-stokes-to-retire-from-international-cricket",
-    "timestamp": "2026-06-29T00:20:55.797801+00:00",
-    "original_time": "2026-06-28T19:59:46+05:00"
-  },
-  {
-    "id": "article_1f4866a0b757",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2011213/pakistan-women-beat-dutch-for-consolation-win",
-    "timestamp": "2026-06-29T00:21:46.676345+00:00",
-    "original_time": "2026-06-29T00:21:46.676313+00:00"
-  },
-  {
-    "id": "article_e52e061262b3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Drone carrying illegal drugs crashes in Sheikhupura: police",
-    "translated_title": "载有非法毒品的无人机在谢胡普拉坠毁：警方",
-    "url": "https://www.dawn.com/news/2011431/drone-carrying-illegal-drugs-crashes-in-sheikhupura-police",
-    "timestamp": "2026-06-29T00:21:58.664329+00:00",
-    "original_time": "2026-06-29T01:11:55+05:00"
   }
 ]
