@@ -1,6 +1,32 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-545968789400165549",
+    "id": "tweet_ForeignOfficePk_-215078777521298330",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Damage to the Gurudwara-building and the Reaction by India.",
+    "translated_text": "发言人@TahirAndrabi 每周举行新闻发布会，讨论古鲁瓦拉建筑遭到的破坏以及印度的反应。",
+    "images": [
+      "38bcb4d08e297e69.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-215078777521298330",
+    "timestamp": "2026-07-02T21:05:36.993246+00:00",
+    "original_time": "2026-07-02T20:45:53+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_3315713612204601276",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Exchange of List of Prisoners with India and IWT Seminar in Islamabad.",
+    "translated_text": "发言人@TahirAndrabi 每周举行新闻发布会，介绍与印度交换囚犯名单以及在伊斯兰堡举行的内河运输研讨会。",
+    "images": [
+      "b6a7d3ffb0c66e79.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/3315713612204601276",
+    "timestamp": "2026-07-02T21:05:38.423126+00:00",
+    "original_time": "2026-07-02T20:00:33+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-4444425810614744511",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Curtain Raiser: Visit of the Prime Minister to Iran and Türkiye",
@@ -15,12 +41,12 @@
       "1d7695f51048fca1.svg",
       "d62ca1d82f521400.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-545968789400165549",
-    "timestamp": "2026-07-02T19:23:22.526094+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-4444425810614744511",
+    "timestamp": "2026-07-02T21:05:39.163278+00:00",
     "original_time": "2026-07-02T17:52:40+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-8976923638361707234",
+    "id": "tweet_ForeignOfficePk_-5448117528259684568",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Pakistani Nationals held Hostage by Somali Sea-Pirates",
@@ -28,49 +54,9 @@
     "images": [
       "93802742d3351320.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-8976923638361707234",
-    "timestamp": "2026-07-02T19:23:22.739996+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-5448117528259684568",
+    "timestamp": "2026-07-02T21:05:39.390399+00:00",
     "original_time": "2026-07-02T17:09:27+00:00"
-  },
-  {
-    "id": "tweet_ForeignOfficePk_-8113044241966096991",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiMiscellaneous Queries on Afghanistan, India & IWT",
-    "translated_text": "发言人@TahirAndrabi 每周新闻发布会关于阿富汗、印度和内河运输的杂项询问",
-    "images": [
-      "22c869fed278e92b.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/-8113044241966096991",
-    "timestamp": "2026-07-02T19:23:22.965976+00:00",
-    "original_time": "2026-07-02T17:06:12+00:00"
-  },
-  {
-    "id": "tweet_ForeignOfficePk_2832291455568307287",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Weekly Press by the Spokesperson@TahirAndrabiOn Iran-US Mediatory Process, Doha Talks and related queries",
-    "translated_text": "发言人@TahirAndrabi每周新闻报道关于伊朗-美国调解进程、多哈会谈和相关询问",
-    "images": [
-      "349f7db3e8d81a1d.jpg",
-      "26e83b807050499b.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/2832291455568307287",
-    "timestamp": "2026-07-02T19:23:23.253983+00:00",
-    "original_time": "2026-07-02T16:38:12+00:00"
-  },
-  {
-    "id": "tweet_ForeignOfficePk_-508858543995082598",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Engagement with India and Role of USA/International Community in Mediation btw Pakistan & India",
-    "translated_text": "发言人@TahirAndrabi 每周举行新闻发布会关于与印度的接触以及美国/国际社会在巴基斯坦和印度之间调解中的作用",
-    "images": [
-      "e6d8b9f13b44947f.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/-508858543995082598",
-    "timestamp": "2026-07-02T19:23:23.467553+00:00",
-    "original_time": "2026-07-02T16:33:51+00:00"
   },
   {
     "id": "tweet_MIshaqDar50_0",
@@ -82,11 +68,11 @@
       "5012e2465586486f.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-07-02T19:23:39.921973+00:00",
+    "timestamp": "2026-07-02T21:05:56.197521+00:00",
     "original_time": "2026-07-02T17:22:59+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-1461965873944143238",
+    "id": "tweet_ForeignOfficePk_36893235557046902",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "The Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50held a telephonic conversation today with His Highness Prince Faisal bin Farhan Al Saud@FaisalbinFarhan, Foreign Minister of the Kingdom of Saudi Arabia.\n\nThe two leaders discussed the",
@@ -94,12 +80,12 @@
     "images": [
       "37fb4afe7a8e7515.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-1461965873944143238",
-    "timestamp": "2026-07-02T19:23:40.824987+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/36893235557046902",
+    "timestamp": "2026-07-02T21:05:56.402069+00:00",
     "original_time": "2026-07-02T14:20:21+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-872414585875531216",
+    "id": "tweet_ForeignOfficePk_-6076507838691458990",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/ Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50chaired a committee meeting to review preparations for the 2027 SAARC Games in Pakistan.\n\nThe Committee decided to immediately establish the SAARC Games Secretariat in Islamabad, fast-track the",
@@ -110,12 +96,12 @@
       "ba289ada69f25d1b.jpg",
       "93f920dacefa153b.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-872414585875531216",
-    "timestamp": "2026-07-02T19:23:42.349946+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-6076507838691458990",
+    "timestamp": "2026-07-02T21:05:56.751348+00:00",
     "original_time": "2026-07-02T15:23:01+00:00"
   },
   {
-    "id": "tweet_thursday_times_7339777525462045814",
+    "id": "tweet_thursday_times_-7130322849881170816",
     "type": "tweet",
     "username": "thursday_times",
     "text": "Today, the region and the global order are grappling with uncertainty.\nPakistan, as a peace-loving country, is continuously advancing the mediation process through sustained engagement and consistent diplomatic efforts.\nIt is heartening that these efforts culminated in the",
@@ -123,12 +109,12 @@
     "images": [
       "632ebd51a8520779.jpg"
     ],
-    "url": "https://x.com/thursday_times/status/7339777525462045814",
-    "timestamp": "2026-07-02T19:23:43.174895+00:00",
+    "url": "https://x.com/thursday_times/status/-7130322849881170816",
+    "timestamp": "2026-07-02T21:05:56.979934+00:00",
     "original_time": "2026-07-02T15:43:45+00:00"
   },
   {
-    "id": "tweet_thursday_times_4930086087000042486",
+    "id": "tweet_thursday_times_-5613121396975513036",
     "type": "tweet",
     "username": "thursday_times",
     "text": "Today, the region and the international order face a period of uncertainty.\n\nAs a peace-loving nation, Pakistan continues to advance the mediation process through sustained diplomatic engagement and persistent outreach.\n\nThese efforts culminated in the signing of the historic",
@@ -136,23 +122,62 @@
     "images": [
       "b14bc61d7f556946.jpg"
     ],
-    "url": "https://x.com/thursday_times/status/4930086087000042486",
-    "timestamp": "2026-07-02T19:23:44.596774+00:00",
+    "url": "https://x.com/thursday_times/status/-5613121396975513036",
+    "timestamp": "2026-07-02T21:05:57.198579+00:00",
     "original_time": "2026-07-02T15:40:48+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7368452011457775668",
+    "id": "tweet_PakTVGlobal_920291043892520640",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "President Trump's attention is divided. While attacks on Kyiv were taking place, he again criticized NATO, accusing its members of not being responsible and of leaving the United States to carry the organization's burden. Trump's relationship with Russian President Vladimir Putin",
+    "translated_text": "特朗普总统的注意力是分散的。在基辅遭到袭击时，他再次批评北约，指责其成员国不负责任，并让美国承担该组织的负担。特朗普与俄罗斯总统弗拉基米尔·普京的关系",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/920291043892520640",
+    "timestamp": "2026-07-02T21:06:58.442869+00:00",
+    "original_time": "2026-07-02T20:26:09+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_6081800932993805419",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The difference between when Israel lost the war against Gaza and today is not very great. Israel agreed to the ceasefire agreement forged by President Trump, but has not implemented its terms, including the ceasefire itself, humanitarian aid access, and reconstruction.",
+    "translated_text": "以色列输掉加沙战争时与今天的差别并不是很大。以色列同意特朗普总统达成的停火协议，但尚未执行其条款，包括停火本身、人道主义援助准入和重建。",
+    "images": [
+      "0642d61ba4fa54e3.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/6081800932993805419",
+    "timestamp": "2026-07-02T21:06:59.616211+00:00",
+    "original_time": "2026-07-02T19:57:25+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2191253286134038249",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Many Ukrainians want the war to end. Ukraine has never said no to peace negotiations or peace proposals. Kyiv is waiting for Steve Witkoff and Jared Kushner, who have visited Moscow several times but not the Ukrainian capital. It is time to include the Ukrainian side in the peace",
+    "translated_text": "许多乌克兰人希望战争结束。乌克兰从未拒绝过和平谈判或和平建议。基辅正在等待史蒂夫·威特科夫和贾里德·库什纳，他们曾多次访问莫斯科，但没有访问乌克兰首都。是时候让乌克兰方面参与和平进程了",
+    "images": [
+      "d775cfaaaca6472b.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2191253286134038249",
+    "timestamp": "2026-07-02T21:07:00.652916+00:00",
+    "original_time": "2026-07-02T19:31:11+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2026538326802718307",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "While the global climate crisis continues, India's animosity towards Pakistan is not helping. India declared the Indus Waters Treaty to be in abeyance, even though the treaty contains no provision allowing it to be paused or terminated and was written to be permanent. The",
     "translated_text": "尽管全球气候危机仍在持续，但印度对巴基斯坦的敌意无济于事。印度宣布《印度河水域条约》暂停，尽管该条约没有包含允许暂停或终止的条款，并且被写入永久性条约。这",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/7368452011457775668",
-    "timestamp": "2026-07-02T19:24:49.071766+00:00",
+    "images": [
+      "40519047edd3b502.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2026538326802718307",
+    "timestamp": "2026-07-02T21:07:00.963051+00:00",
     "original_time": "2026-07-02T19:19:49+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6250934082911604027",
+    "id": "tweet_PakTVGlobal_-4895686704785086253",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "The January global water bankruptcy report by the United Nations University Institute for Water, Environment and Health warned that many river basins and aquifers are being depleted beyond their natural replenishment rate, causing permanent damage. Climate change and a super El",
@@ -160,52 +185,36 @@
     "images": [
       "6d42b7884ffc3821.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6250934082911604027",
-    "timestamp": "2026-07-02T19:24:50.495850+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-4895686704785086253",
+    "timestamp": "2026-07-02T21:07:01.189701+00:00",
     "original_time": "2026-07-02T18:09:31+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6717853204753637127",
+    "id": "tweet_PakTVGlobal_3296397949502924390",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "AI can benefit environmental management but also creates environmental challenges requiring proactive oversight. As the UN Secretary-General states, AI operations have water, land, and carbon footprints that must be monitored and managed. Its growing energy demand must not",
-    "translated_text": "人工智能可以有利于环境管理，但也带来了需要主动监督的环境挑战。正如联合国秘书长所说，人工智能的运行会产生水、土地和碳足迹，必须对其进行监测和管理。其不断增长的能源需求绝不能",
-    "images": [
-      "5219b4fd6d74326e.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6717853204753637127",
-    "timestamp": "2026-07-02T19:24:51.615039+00:00",
-    "original_time": "2026-07-02T17:56:01+00:00"
+    "text": "Iftikhar Firdous, Journalist and Afghan Affairs Expert says the security situation in Afghanistan continues to have serious regional implications, particularly for Pakistan. He says that rising militant violence, the presence of numerous armed groups and strained Pakistan-Afghan",
+    "translated_text": "记者兼阿富汗事务专家伊夫蒂哈尔·菲尔多斯表示，阿富汗的安全局势继续对地区产生严重影响，特别是对巴基斯坦而言。他说，武装分子暴力活动不断增加，武装团体众多，巴基斯坦与阿富汗关系紧张",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/3296397949502924390",
+    "timestamp": "2026-07-02T21:07:04.594061+00:00",
+    "original_time": "2026-07-02T16:44:10+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6165827071165635247",
+    "id": "tweet_PakTVGlobal_5391559945158317681",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "US President Donald Trump says the United States has spent significantly more on NATO than any other member country between 2014 and 2025 to protect them, without getting any benefit from so doing.#Trump#NATO#UnitedStates#GlobalSecurity#ForeignPolicy#PakistanTV",
-    "translated_text": "美国总统唐纳德·特朗普表示，2014 年至 2025 年间，美国在北约上的支出远多于任何其他成员国，以保护他们，但却没有从中获得任何好处。#Trump#NATO#UnitedStates#GlobalSecurity#ForeignPolicy#PakistanTV",
+    "text": "As Iran mourns the passing of Ayatollah Ali Khamenei, the Muslim world reflects on the legacy of a leader who left a profound mark on Iran and the wider region. From his early role in the Islamic Revolution to decades as Supreme Leader, he guided the country through war,",
+    "translated_text": "在伊朗哀悼阿亚图拉阿里·哈梅内伊去世之际，穆斯林世界反思了一位给伊朗和更广泛地区留下深刻印记的领导人的遗产。从他早期在伊斯兰革命中的角色到担任最高领袖数十年，他带领国家度过了战争，",
     "images": [
-      "ded0a55d5dff7abd.png",
-      "052c01804b11b394.jpg"
+      "baa294007cbfc800.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6165827071165635247",
-    "timestamp": "2026-07-02T19:24:52.668491+00:00",
-    "original_time": "2026-07-02T17:49:03+00:00"
+    "url": "https://x.com/PakTVGlobal/status/5391559945158317681",
+    "timestamp": "2026-07-02T21:07:05.537096+00:00",
+    "original_time": "2026-07-02T16:40:23+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_4790548160714763116",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "From a historical perspective, Iran and the United States have had deep mistrust since the 1979 Iranian Revolution, followed by the hostage crisis at the U.S. Embassy in Tehran. Over the past decades, their relationship has been marked largely by confrontation, with only brief",
-    "translated_text": "从历史角度看，自1979年伊朗革命以及随后发生的美国驻德黑兰大使馆人质危机以来，伊朗和美国之间就存在着深深的不信任。过去几十年来，他们的关系主要是对抗，只有短暂的接触。",
-    "images": [
-      "d36fbf117eef6863.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/4790548160714763116",
-    "timestamp": "2026-07-02T19:24:52.906392+00:00",
-    "original_time": "2026-07-02T17:47:06+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-1729535341239648833",
+    "id": "tweet_PakTVGlobal_-8850257008684789265",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Against all odds, rescuers in Venezuela pulled a 43-year-old man alive from the rubble eight days after the country's devastating twin earthquakes. The extraordinary rescue sparked emotional celebrations among emergency teams, offering a rare moment of hope as recovery efforts",
@@ -213,12 +222,12 @@
     "images": [
       "37aa643c95303243.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1729535341239648833",
-    "timestamp": "2026-07-02T19:24:55.884344+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-8850257008684789265",
+    "timestamp": "2026-07-02T21:07:05.737966+00:00",
     "original_time": "2026-07-02T16:16:28+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4027159229523717259",
+    "id": "tweet_PakTVGlobal_8540273103541992439",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Pakistan and Saudi Arabia have reaffirmed their commitment to regional peace and dialogue.\nDuring a telephone conversation, Deputy Prime Minister and Foreign Minister Senator Ishaq Dar and Saudi Foreign Minister Prince Faisal bin Farhan Al Saud reviewed the regional situation,",
@@ -226,12 +235,12 @@
     "images": [
       "340108c5758096be.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-4027159229523717259",
-    "timestamp": "2026-07-02T19:24:57.282824+00:00",
+    "url": "https://x.com/PakTVGlobal/status/8540273103541992439",
+    "timestamp": "2026-07-02T21:07:05.937060+00:00",
     "original_time": "2026-07-02T15:47:37+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6105864702252123767",
+    "id": "tweet_PakTVGlobal_-1027481895807157373",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "The World Health Organization says a case of Marburg virus disease has been detected in Uganda during enhanced Ebola surveillance. WHO Director-General Tedros Adhanom Ghebreyesus said health authorities are monitoring all identified contacts, with no symptoms reported among them",
@@ -239,12 +248,12 @@
     "images": [
       "f0753c3ed508d28c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6105864702252123767",
-    "timestamp": "2026-07-02T19:24:58.353234+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-1027481895807157373",
+    "timestamp": "2026-07-02T21:07:06.132748+00:00",
     "original_time": "2026-07-02T14:03:30+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2194626484973490017",
+    "id": "tweet_PakTVGlobal_-1666866478053552712",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Football fan Michael Cavanagh says England must improve the quality of crosses into the box to get the best out of Harry Kane, saying the striker cannot score without proper service. He also raised concerns over England football team's defence, suggesting the absence of Harry",
@@ -252,38 +261,12 @@
     "images": [
       "7ad3ea3647755031.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-2194626484973490017",
-    "timestamp": "2026-07-02T19:24:59.675323+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-1666866478053552712",
+    "timestamp": "2026-07-02T21:07:06.334893+00:00",
     "original_time": "2026-07-02T14:03:03+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7334225220570724442",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "\"Pakistan's diplomatic engagement with Iran is strengthening ties built on dialogue and mutual trust,\" says senior journalist Ashraf Siddique based in Doha. He says Pakistan's efforts to promote peaceful solutions, maintain close contact with the Iranian leadership, and foster",
-    "translated_text": "驻多哈的资深记者阿什拉夫·西迪克表示：“巴基斯坦与伊朗的外交接触正在加强建立在对话和互信基础上的关系。”他说，巴基斯坦努力促进和平解决，与伊朗领导人保持密切联系，并促进",
-    "images": [
-      "9a53ac1bf85614cd.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-7334225220570724442",
-    "timestamp": "2026-07-02T19:24:59.862583+00:00",
-    "original_time": "2026-07-02T13:43:55+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-9221704432532219050",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "A bomb planted inside a cafe near Damascus' Palace of Justice killed at least five people and injured others, according to Syrian state television and the health ministry. Authorities say the blast was caused by an explosive device as investigations continue into the attack.",
-    "translated_text": "据叙利亚国家电视台和卫生部报道，大马士革司法宫附近一家咖啡馆内放置的一枚炸弹造成至少五人死亡，多人受伤。当局表示，爆炸是由爆炸装置引起的，目前对袭击事件的调查仍在继续。",
-    "images": [
-      "b857510711539e3e.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-9221704432532219050",
-    "timestamp": "2026-07-02T19:25:00.075773+00:00",
-    "original_time": "2026-07-02T13:39:16+00:00"
-  },
-  {
-    "id": "tweet_araghchi_-3604389488697122347",
+    "id": "tweet_araghchi_-6786288926672997361",
     "type": "tweet",
     "username": "araghchi",
     "text": "Has CENTCOM brought security or insecurity to our region? The answer is clear.\n\nEqually, our Powerful Armed Forces have proven that outsiders cannot even protect themselves.\n\nPeace in our region can only be sustained when comprehensive and inclusive, with no outside interference.",
@@ -291,91 +274,160 @@
     "images": [
       "83cc2d39277bf659.jpg"
     ],
-    "url": "https://x.com/araghchi/status/-3604389488697122347",
-    "timestamp": "2026-07-02T19:25:39.404895+00:00",
+    "url": "https://x.com/araghchi/status/-6786288926672997361",
+    "timestamp": "2026-07-02T21:07:43.314344+00:00",
     "original_time": "2026-07-02T18:35:39+00:00"
   },
   {
-    "id": "tweet_AJENews_1726973003047967238",
+    "id": "tweet_AJENews_3465385845176634127",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iran's Araghchi slams US-led military talks in Bahrain with 12 regional countriesLIVE updates:https://aje.news/q7i2v0?update=4727546…",
-    "translated_text": "突发新闻：伊朗阿拉格奇猛烈抨击美国主导的巴林军事会谈，与 12 个地区国家实时更新：https://aje.news/q7i2v0?update=4727546…",
+    "text": "BREAKING: Lebanese security and UNIFIL chiefs discuss coordination and cooperationLIVE updates:https://aje.news/q7i2v0?update=4727923…",
+    "translated_text": "突发新闻：黎巴嫩安全部门和联黎部队领导人讨论协调与合作实时更新：https://aje.news/q7i2v0?update=4727923…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/1726973003047967238",
-    "timestamp": "2026-07-02T19:26:22.728669+00:00",
-    "original_time": "2026-07-02T19:10:31+00:00"
+    "url": "https://x.com/AJENews/status/3465385845176634127",
+    "timestamp": "2026-07-02T21:08:28.441864+00:00",
+    "original_time": "2026-07-02T21:00:56+00:00"
   },
   {
-    "id": "tweet_AJENews_304473442178611735",
+    "id": "tweet_AJENews_-4973173728989526629",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Pakistani, Saudi foreign ministers discuss US-Iran mediation efforts, meetings in Doha, during phone callLIVE updates:https://aje.news/q7i2v0?update=4727135…",
-    "translated_text": "突发新闻：巴基斯坦和沙特外长在电话中讨论了美国与伊朗的调解努力、在多哈举行的会议实时更新：https://aje.news/q7i2v0?update=4727135…",
+    "text": "BREAKING: Prosecutors say a suspect has been identified in the investigation into a parcel bomb attack that seriously injured a sanctioned Ukraine-born multimillionaire and two others in Monaco.\n\nMore onhttp://aljazeera.com",
+    "translated_text": "突发新闻：检察官表示，在摩纳哥发生的包裹炸弹袭击事件的调查中，已确定一名嫌疑人，该袭击事件严重伤害了一名受制裁的乌克兰出生的百万富翁和另外两人。\n\n更多信息请访问http://aljazeera.com",
+    "images": [
+      "092aa68bee7bc06a.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-4973173728989526629",
+    "timestamp": "2026-07-02T21:08:29.405448+00:00",
+    "original_time": "2026-07-02T20:42:14+00:00"
+  },
+  {
+    "id": "tweet_AJENews_5982698782336965465",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Israeli forces target Bint Jbeil district in southern Lebanon, Lebanon's National News Agency reportsLIVE updates:https://aje.news/q7i2v0?update=4728001…",
+    "translated_text": "突发：以色列军队瞄准黎巴嫩南部的宾特朱拜勒地区，黎巴嫩国家通讯社报道实时更新：https://aje.news/q7i2v0?update=4728001…",
     "images": [
       "7f1a451786c84548.svg",
-      "a4f2aca2d4178283.jpg"
+      "a85808628df537e9.jpg"
     ],
-    "url": "https://x.com/AJENews/status/304473442178611735",
-    "timestamp": "2026-07-02T19:26:22.933183+00:00",
-    "original_time": "2026-07-02T17:45:27+00:00"
+    "url": "https://x.com/AJENews/status/5982698782336965465",
+    "timestamp": "2026-07-02T21:08:30.591752+00:00",
+    "original_time": "2026-07-02T20:30:24+00:00"
   },
   {
-    "id": "tweet_AJENews_2443112585974271767",
+    "id": "tweet_AJENews_-658917630824390246",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israeli drone attack wounds people in southern GazaLIVE updates:https://aje.news/q7i2v0?update=4727309…",
-    "translated_text": "突发事件：以色列无人机袭击加沙南部人员受伤实时更新：https://aje.news/q7i2v0?update=4727309…",
+    "text": "BREAKING: 'No problem in principle in negotiating with Israel' - Former Lebanon FM Gebran BassilLIVE updates:https://aje.news/q7i2v0?update=4727572…",
+    "translated_text": "突发新闻：“与以色列谈判原则上没有问题”——前黎巴嫩外长 Gebran BassilLIVE 更新：https://aje.news/q7i2v0?update=4727572…",
     "images": [
       "7f1a451786c84548.svg",
-      "5d2e0dcaf1b1f950.jpg"
+      "dafbfc90413fa398.jpg"
     ],
-    "url": "https://x.com/AJENews/status/2443112585974271767",
-    "timestamp": "2026-07-02T19:26:23.200753+00:00",
-    "original_time": "2026-07-02T17:35:25+00:00"
+    "url": "https://x.com/AJENews/status/-658917630824390246",
+    "timestamp": "2026-07-02T21:08:31.952196+00:00",
+    "original_time": "2026-07-02T20:15:53+00:00"
   },
   {
-    "id": "tweet_AJENews_9062029636309622018",
+    "id": "tweet_AJENews_-1150868747651023431",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: The US Department of Justice says it has informed the International Criminal Court (ICC) that it will not cooperate with any investigations and rejects the court’s jurisdiction over Americans.\n\nMore onhttp://aljazeera.com",
-    "translated_text": "突发新闻：美国司法部表示，已通知国际刑事法院（ICC），不会配合任何调查，并拒绝该法院对美国人的管辖权。\n\n更多信息请访问http://aljazeera.com",
-    "images": [
-      "e864460e86047a5e.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/9062029636309622018",
-    "timestamp": "2026-07-02T19:26:23.486222+00:00",
-    "original_time": "2026-07-02T17:29:32+00:00"
-  },
-  {
-    "id": "tweet_AJENews_516400122653582543",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran warns ships must use approved routes in Strait of Hormuz or face a 'forceful response'LIVE updates:https://aje.news/q7i2v0?update=4727046…",
-    "translated_text": "突发新闻：伊朗警告船只必须在霍尔木兹海峡使用经批准的航线，否则将面临“强有力的回应”实时更新：https://aje.news/q7i2v0?update=4727046…",
+    "text": "BREAKING: More effort needed to clear \"millions of tonnes of rubble\" from Gaza, mayor tells Al JazeeraLIVE updates:https://aje.news/q7i2v0?update=4727493…",
+    "translated_text": "突发新闻：市长告诉半岛电视台，需要付出更多努力来清除加沙的“数百万吨瓦砾”更新：https://aje.news/q7i2v0?update=4727493…",
     "images": [
       "7f1a451786c84548.svg",
-      "45350508a9448345.jpg"
+      "8608e3c60899f76f.jpg"
     ],
-    "url": "https://x.com/AJENews/status/516400122653582543",
-    "timestamp": "2026-07-02T19:26:23.706446+00:00",
-    "original_time": "2026-07-02T17:15:36+00:00"
+    "url": "https://x.com/AJENews/status/-1150868747651023431",
+    "timestamp": "2026-07-02T21:08:33.208886+00:00",
+    "original_time": "2026-07-02T19:45:40+00:00"
   },
   {
-    "id": "tweet_AJENews_-2795384715707259651",
+    "id": "tweet_AJENews_-8755959974265789084",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Mojtaba Khamenei won't attend father's funeral: India representativeLIVE updates:https://aje.news/q7i2v0?update=4726737…",
+    "translated_text": "突发新闻：莫杰塔巴·哈梅内伊不会参加父亲的葬礼：印度代表实时更新：https://aje.news/q7i2v0?update=4726737…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "eae425cb15c3531b.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-8755959974265789084",
+    "timestamp": "2026-07-02T21:08:35.612627+00:00",
+    "original_time": "2026-07-02T14:00:46+00:00"
+  },
+  {
+    "id": "tweet_AJENews_2705297464464457234",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Death toll from Damascus bomb blast likely to rise from 5, source tells Al JazeeraLIVE updates:https://aje.news/ouwths?update=4726707…",
+    "translated_text": "突发新闻：消息人士告诉半岛电视台最新消息，大马士革炸弹爆炸造成的死亡人数可能会从 5 人上升：https://aje.news/ouwths?update=4726707…",
+    "images": [
+      "7f1a451786c84548.svg"
+    ],
+    "url": "https://x.com/AJENews/status/2705297464464457234",
+    "timestamp": "2026-07-02T21:08:36.649447+00:00",
+    "original_time": "2026-07-02T14:00:32+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-7958802190769620096",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "An explosion near Damascus' central court complex, also known as the Palace of Justice, has killed at least five people, according to Syrian state media.\n\nAl Jazeera’s Obaida Hitto reports from the scene of the attack in Damascus.",
+    "translated_text": "据叙利亚官方媒体报道，大马士革中央法院大楼（又称正义宫）附近发生爆炸，已造成至少五人死亡。\n\n半岛电视台记者奥贝达·希托 (Obaida Hitto) 从大马士革袭击现场报道。",
+    "images": [
+      "f841c325d280c80e.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-7958802190769620096",
+    "timestamp": "2026-07-02T21:08:38.124256+00:00",
+    "original_time": "2026-07-02T13:54:42+00:00"
+  },
+  {
+    "id": "tweet_AJENews_5110133189303645316",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: At least four people have been killed and 11 others injured after an explosion inside a cafe near the Justice Palace in the Syrian capital, Damascus, according to the Health Ministry.\n\nMore onhttp://aljazeera.com",
+    "translated_text": "突发：叙利亚首都大马士革司法宫附近一家咖啡馆发生爆炸，据卫生部称，造成至少 4 人死亡、11 人受伤。\n\n更多信息请访问http://aljazeera.com",
+    "images": [
+      "12da68a301562d74.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/5110133189303645316",
+    "timestamp": "2026-07-02T21:08:38.930643+00:00",
+    "original_time": "2026-07-02T13:19:16+00:00"
+  },
+  {
+    "id": "tweet_AJENews_3166280483807914537",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Damascus cafe blast kills 5, wounds 16: Health servicesLIVE updates:https://aje.news/ouwths?update=4726581…",
+    "translated_text": "突发事件：大马士革咖啡馆爆炸造成 5 人死亡、16 人受伤：卫生服务实时更新：https://aje.news/ouwths?update=4726581…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "f61cea9bca787d4b.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/3166280483807914537",
+    "timestamp": "2026-07-02T21:08:39.752093+00:00",
+    "original_time": "2026-07-02T13:16:49+00:00"
+  },
+  {
+    "id": "tweet_AJENews_7273090934369257512",
     "type": "tweet",
     "username": "AJENews",
     "text": "An explosion inside a cafe in Damascus’s Hejaz district has caused casualties, according to Syrian state media. \n\nThe cause of the blast is unclear and authorities are investigating.",
     "translated_text": "据叙利亚官方媒体报道，大马士革汉志区一家咖啡馆发生爆炸，造成人员伤亡。 \n\n爆炸原因尚不清楚，当局正在调查。",
-    "images": [],
-    "url": "https://x.com/AJENews/status/-2795384715707259651",
-    "timestamp": "2026-07-02T19:26:26.268314+00:00",
+    "images": [
+      "15532cb7405b7d91.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/7273090934369257512",
+    "timestamp": "2026-07-02T21:08:39.945329+00:00",
     "original_time": "2026-07-02T13:10:33+00:00"
   },
   {
-    "id": "tweet_AJENews_7257484767264562726",
+    "id": "tweet_AJENews_-3373153618066532882",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Syria's state TV says explosion in Damascus was caused by bombLIVE updates:https://aje.news/ouwths?update=4726537…",
@@ -384,602 +436,276 @@
       "7f1a451786c84548.svg",
       "501a44737a2492ac.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7257484767264562726",
-    "timestamp": "2026-07-02T19:26:26.458963+00:00",
+    "url": "https://x.com/AJENews/status/-3373153618066532882",
+    "timestamp": "2026-07-02T21:08:40.157480+00:00",
     "original_time": "2026-07-02T13:09:29+00:00"
   },
   {
-    "id": "tweet_AJENews_-5732729004500345945",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: At least 10 injured in Damascus explosion: DoctorLIVE updates:https://aje.news/ouwths?update=4726503…",
-    "translated_text": "突发新闻：大马士革爆炸至少造成 10 人受伤：DoctorLIVE 更新：https://aje.news/ouwths?update=4726503…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "e880e4a18f472ba7.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-5732729004500345945",
-    "timestamp": "2026-07-02T19:26:26.658094+00:00",
-    "original_time": "2026-07-02T13:08:14+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-1454557705216990053",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: At least 4 people killed in Damascus explosion, state media reportsLIVE updates:https://aje.news/ouwths?update=4726518…",
-    "translated_text": "突发新闻：据官方媒体报道，大马士革爆炸至少造成 4 人死亡 实时更新：https://aje.news/ouwths?update=4726518...",
-    "images": [
-      "7f1a451786c84548.svg",
-      "2b56bc76203c13e6.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-1454557705216990053",
-    "timestamp": "2026-07-02T19:26:26.848490+00:00",
-    "original_time": "2026-07-02T13:04:30+00:00"
-  },
-  {
-    "id": "tweet_AJENews_9113669143988511516",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Explosion heard in Syria's capital Damascus, state TV says\n\nRead more:https://aje.news/2x0i0t",
-    "translated_text": "突发：国家电视台称叙利亚首都大马士革发生爆炸\n\n了解更多：https://aje.news/2x0i0t",
-    "images": [
-      "0135b329a6d68ed7.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/9113669143988511516",
-    "timestamp": "2026-07-02T19:26:27.029678+00:00",
-    "original_time": "2026-07-02T12:32:13+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-2316671043308416563",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: An explosion has been heard in Damascus, Syrian media says.\n\nThis is a developing story. More onhttp://aljazeera.com",
-    "translated_text": "突发新闻：叙利亚媒体称，大马士革传来爆炸声。\n\n这是一个发展的故事。更多信息请访问http://aljazeera.com",
-    "images": [
-      "41282875794dc61d.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-2316671043308416563",
-    "timestamp": "2026-07-02T19:26:27.216717+00:00",
-    "original_time": "2026-07-02T12:27:12+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-2089668289660010187",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "Video captured the moment the Taal Volcano in the Philippines erupted, sending a column of ash and steam 1,200 metres into the air, triggering huge waves across its crater lake. \n\nThe eruption lasted almost five minutes.",
-    "translated_text": "视频捕捉到了菲律宾塔阿尔火山喷发的瞬间，火山灰和蒸汽柱喷射到1200米高空，在火山口湖上引发巨浪。 \n\n喷发持续了近五分钟。",
-    "images": [
-      "917b975d2cb85641.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-2089668289660010187",
-    "timestamp": "2026-07-02T19:26:27.417304+00:00",
-    "original_time": "2026-07-02T10:34:58+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2561075879609837831",
+    "id": "tweet_CBSNews_-7392442969018265770",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Ukraine's state emergency services said at least 21 people were killed and 85 were wounded, including two children.",
-    "translated_text": "乌克兰国家紧急服务部门表示，至少21人死亡、85人受伤，其中包括两名儿童。",
+    "text": "Check out this interactive weather map as a massive heat wave traps more than half of the United States under a heat dome through the holiday weekend.",
+    "translated_text": "查看这张交互式天气地图，整个假期周末，巨大的热浪将美国一半以上的地区困在热穹之下。",
     "images": [
-      "2ea70430ace40fcc.jpg"
+      "579d5fc12825d9bc.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2561075879609837831",
-    "timestamp": "2026-07-02T19:27:29.557700+00:00",
-    "original_time": "2026-07-02T19:20:00+00:00"
+    "url": "https://x.com/CBSNews/status/-7392442969018265770",
+    "timestamp": "2026-07-02T21:09:29.592516+00:00",
+    "original_time": "2026-07-02T21:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3458678424584347730",
+    "id": "tweet_CBSSunday_8547445166515639340",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "The United States men's national team “got screwed with that red card” during its 2-0 victory against Bosnia and Herzegovina on Wednesday night, Secretary of State Marco Rubio said Thursday.\n\nDuring the match, striker Folarin Balogun was given a red card for a challenge in the",
-    "translated_text": "美国国务卿马可·卢比奥周四表示，美国男子国家队在周三晚上 2-0 战胜波斯尼亚和黑塞哥维那的比赛中“被红牌搞砸了”。\n\n比赛中，前锋弗拉林·巴洛贡因犯规被红牌罚下。",
+    "username": "CBSSunday",
+    "text": "“She wanted me to be a mailman.”\n\nLarry David recalls that his mom begged him to take the civil service exam and work for the post office after college. Looking back, he jokes she “wasn’t entirely wrong,” admitting the job actually sounded pretty appealing.",
+    "translated_text": "“她希望我成为一名邮递员。”\n\n拉里·大卫回忆说，他的妈妈恳求他参加公务员考试，大学毕业后在邮局工作。回想起来，他开玩笑说她“并没有完全错”，并承认这份工作实际上听起来很有吸引力。",
     "images": [
-      "c84460876c522f7a.jpg"
+      "563c084e70b34813.svg",
+      "d9052ac4bad47ab4.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3458678424584347730",
-    "timestamp": "2026-07-02T19:27:30.824255+00:00",
-    "original_time": "2026-07-02T19:12:43+00:00"
+    "url": "https://x.com/CBSSunday/status/8547445166515639340",
+    "timestamp": "2026-07-02T21:09:30.708104+00:00",
+    "original_time": "2026-07-02T20:46:30+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4565756369818660002",
+    "id": "tweet_CBSNews_3758789599106857071",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "BREAKING: U.S. Olympian David Hearn is indicted on destruction of property charges related to the D.C. Reflecting Pool.",
-    "translated_text": "突发新闻：美国奥运选手大卫·赫恩被指控破坏与华盛顿倒影池相关的财产。",
+    "text": "The Kennedy Center is selling ticket packages for as high as $25,000 for up to three dozen guests to watch the Washington, D.C., national fireworks show on July Fourth, according to its website.",
+    "translated_text": "据其网站称，肯尼迪中心正在以高达 25,000 美元的价格出售门票套餐，最多可容纳三打客人观看 7 月 4 日华盛顿特区的全国烟花表演。",
     "images": [
-      "9feba4941ceed32e.jpg"
+      "1d6a6719982effce.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4565756369818660002",
-    "timestamp": "2026-07-02T19:27:32.097059+00:00",
-    "original_time": "2026-07-02T19:06:44+00:00"
+    "url": "https://x.com/CBSNews/status/3758789599106857071",
+    "timestamp": "2026-07-02T21:09:31.791931+00:00",
+    "original_time": "2026-07-02T20:40:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_8543290432018151743",
+    "id": "tweet_CBSNews_7374669443526285783",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Taylor Swift and Travis Kelce have donated $26 million to charities this week ahead of their wedding at Madison Square Garden.",
-    "translated_text": "泰勒·斯威夫特 (Taylor Swift) 和特拉维斯·凯尔斯 (Travis Kelce) 本周在麦迪逊广场花园举行婚礼之前向慈善机构捐赠了 2600 万美元。",
-    "images": [
-      "39c877bc6e85296b.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/8543290432018151743",
-    "timestamp": "2026-07-02T19:27:32.454561+00:00",
-    "original_time": "2026-07-02T19:00:01+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_853052960325042635",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "As the knockout stage drama continues, here's a look at the leaderboard for the World Cup's top scorers as of Thursday. At the end of the tournament, the leading goalscorer will take home the coveted gold cleat. Kylian Mbappé took home the award in the 2022 World Cup in Qatar",
-    "translated_text": "随着淘汰赛舞台大戏的继续，以下是截至周四的世界杯最佳射手排行榜。比赛结束时，领先的进球者将获得令人垂涎的金靴子。基利安·姆巴佩 (Kylian Mbappé) 在 2022 年卡塔尔世界杯上夺得该奖项",
-    "images": [
-      "5d6b66013533d7a0.jpg",
-      "6c5206713412bc80.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/853052960325042635",
-    "timestamp": "2026-07-02T19:27:32.732071+00:00",
-    "original_time": "2026-07-02T18:56:35+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_0",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "aef324bb712d07c4.jpg",
-      "1b7dacf403ea4169.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/0",
-    "timestamp": "2026-07-02T19:27:32.829260+00:00",
-    "original_time": "2026-07-02T18:56:37+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_8066689830699644426",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "From space to healthcare and artificial intelligence, what could the next 250 years of the United States look like?",
-    "translated_text": "从太空到医疗保健和人工智能，美国未来 250 年会是什么样子？",
+    "text": "3 futurists predict what America will be like in the centuries ahead. This is what they think:",
+    "translated_text": "3 未来学家预测未来几个世纪的美国会是什么样子。 This is what they think:",
     "images": [
       "fcad589b1688a72c.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/8066689830699644426",
-    "timestamp": "2026-07-02T19:27:35.011065+00:00",
-    "original_time": "2026-07-02T16:20:00+00:00"
+    "url": "https://x.com/CBSNews/status/7374669443526285783",
+    "timestamp": "2026-07-02T21:09:32.775195+00:00",
+    "original_time": "2026-07-02T20:25:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_1793377387919825866",
+    "id": "tweet_CBSNews_-482651810841623323",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "CBS News'@aidan_stretchemerged from a shelter Thursday morning in eastern Kyiv to see the remains of a nine-story apartment building brought down by overnight Russians strikes — Moscow’s biggest attack on Ukraine’s capital since the start of the war.\n\nEmergency workers dug",
-    "translated_text": "周四早上，哥伦比亚广播公司新闻@aidan_stretchem从基辅东部的一个避难所出发，观看一栋被俄罗斯隔夜袭击摧毁的九层公寓楼的残骸，这是自战争开始以来莫斯科对乌克兰首都发动的最大规模的袭击。\n\n紧急救援人员挖",
+    "text": "\"This is not the way of a civilized society. It is anarchy.\"\n\nU.S. Attorney Jeanine Pirro announced Thursday that a D.C. grand jury is indicting Olympian David Hearn, 67, on a felony charge related to alleged vandalism at the Washington, D.C., Reflecting Pool.\n\nHearn's attorneys",
+    "translated_text": "“这不是文明社会的方式。这是无政府状态。”\n\n美国检察官珍妮·皮罗 (Jeanine Pirro) 周四宣布，华盛顿特区大陪审团正在对 67 岁的奥运选手大卫·赫恩 (David Hearn) 提起重罪指控，指控其涉嫌破坏华盛顿特区倒影池。\n\n赫恩的律师",
     "images": [
-      "541010d13d429a0a.jpg"
+      "2bd9af58eb0b94f8.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1793377387919825866",
-    "timestamp": "2026-07-02T19:27:36.051323+00:00",
-    "original_time": "2026-07-02T16:18:52+00:00"
+    "url": "https://x.com/CBSNews/status/-482651810841623323",
+    "timestamp": "2026-07-02T21:09:34.149448+00:00",
+    "original_time": "2026-07-02T20:16:07+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4438899314903350161",
+    "id": "tweet_CBSNews_-8244976600049546749",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "How Taylor Swift could transform Madison Square Garden into a perfect wedding venue, according to elite planners.",
-    "translated_text": "据精英策划者介绍，泰勒·斯威夫特如何将麦迪逊广场花园改造成完美的婚礼场地。",
+    "text": "World Cup fans who thought they had bought pricey match tickets at the ongoing soccer tournament are suing StubHub, alleging that the ticket broker failed to deliver them.",
+    "translated_text": "那些认为自己在正在进行的足球赛事中购买了昂贵比赛门票的世界杯球迷正在起诉 StubHub，声称门票经纪人未能交付门票。",
     "images": [
-      "9feb5e1f6f5c2824.jpg"
+      "a06c3eda45fc6925.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4438899314903350161",
-    "timestamp": "2026-07-02T19:27:36.595657+00:00",
-    "original_time": "2026-07-02T16:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/-8244976600049546749",
+    "timestamp": "2026-07-02T21:09:37.464780+00:00",
+    "original_time": "2026-07-02T18:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8527450214902530073",
+    "id": "tweet_CBSNews_-7967867082185956406",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Security guard rescued from Venezuela earthquake rubble 8 days after massive temblors: \"Truly a miracle.\"",
-    "translated_text": "委内瑞拉地震发生八天后，保安人员从废墟中被救出：“真是一个奇迹。”",
-    "images": [
-      "4b32d5c5b25f9b42.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8527450214902530073",
-    "timestamp": "2026-07-02T19:27:37.524897+00:00",
-    "original_time": "2026-07-02T15:36:53+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_1809399767373438582",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Asked whether Ukraine is winning the war, Ukrainian President Volodymyr Zelenskyy tells CBS News’@aidan_stretch: \"Russia is losing. Ukrainians will win this war, and I’m sure.” But he also urges allies to increase pressure on Russian President Vladimir Putin. Russia hit",
-    "translated_text": "当被问及乌克兰是否正在赢得战争时，乌克兰总统弗拉基米尔·泽伦斯基告诉哥伦比亚广播公司新闻@aidan_stretch：“俄罗斯正在失败。乌克兰人将赢得这场战争，我确信。”但他也敦促盟友加大对俄罗斯总统普京的压力。俄罗斯打击",
-    "images": [
-      "ad24d1933c70ce03.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1809399767373438582",
-    "timestamp": "2026-07-02T19:27:38.842659+00:00",
-    "original_time": "2026-07-02T15:06:18+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2380944849102649611",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "CBS News investigation: An unapproved weight-loss drug, once only sold by shadowy online vendors, can now be found in New York bodegas.",
-    "translated_text": "哥伦比亚广播公司新闻调查：一种未经批准的减肥药，曾经只由影子网上小贩出售，现在可以在纽约的杂货店里找到。",
-    "images": [
-      "90e92f3c6dced074.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/2380944849102649611",
-    "timestamp": "2026-07-02T19:27:39.759530+00:00",
-    "original_time": "2026-07-02T15:05:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_7671902021455396985",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Couples are spending thousands more on weddings. Here's why.",
-    "translated_text": "夫妇们在婚礼上花费了数千美元。原因如下。",
-    "images": [
-      "24c1676f113d6493.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/7671902021455396985",
-    "timestamp": "2026-07-02T19:27:42.226769+00:00",
-    "original_time": "2026-07-02T09:06:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_1408598480193101356",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Dog rescued from rubble 5 days after Venezuela earthquakes, video shows.",
-    "translated_text": "视频显示，委内瑞拉地震五天后，狗从废墟中被救出。",
-    "images": [
-      "6f9d82dca36974fc.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1408598480193101356",
-    "timestamp": "2026-07-02T19:27:42.437455+00:00",
-    "original_time": "2026-07-02T08:05:00+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_5641767821932869315",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Iran's FM slams@CENTCOMfor leading a \"regional security dialogue\" yesterday for Bahrain, Egypt, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, Syria, the United Arab Emirates, and Yemen.",
-    "translated_text": "伊朗外长昨天猛烈抨击中央司令部领导巴林、埃及、约旦、科威特、黎巴嫩、阿曼、卡塔尔、沙特阿拉伯、叙利亚、阿拉伯联合酋长国和也门的“地区安全对话”。",
+    "text": "Javier Daza, a Venezuelan firefighter helping recover victims from the rubble of the devastating twin earthquakes, tells@camiloreportsthat some victims have been located and identified but their bodies still can’t be recovered because they remain trapped beneath reinforced",
+    "translated_text": "委内瑞拉消防员哈维尔·达萨 (Javier Daza) 正在帮助从毁灭性的双地震废墟中救出遇难者，他告诉 @camiloreports，一些遇难者的位置和身份已经找到，但他们的尸体仍然无法打捞，因为他们仍被困在钢筋之下。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/5641767821932869315",
-    "timestamp": "2026-07-02T19:29:08.386817+00:00",
-    "original_time": "2026-07-02T18:39:17+00:00"
+    "url": "https://x.com/CBSNews/status/-7967867082185956406",
+    "timestamp": "2026-07-02T21:09:37.619153+00:00",
+    "original_time": "2026-07-02T17:49:36+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_5592088577752101770",
+    "id": "tweet_CBSNews_6062405671213004162",
     "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Due to \"excessive heat\" only \"essential personnel\" will be allowed to attend tonight's July 2 rehearsal for \"A Capitol Fourth Concert.\"",
-    "translated_text": "由于“天气太热”，只有“必要人员”才能参加今晚 7 月 2 日举行的“国会大厦第四音乐会”的排练。",
+    "username": "CBSNews",
+    "text": "This summer tick season is expected to be worse than usual. The Centers for Disease Control and Prevention reports the highest rate of emergency room visits from tick bites since 2017 across most of the country.",
+    "translated_text": "今年夏季蜱虫季节预计会比平时更严重。美国疾病控制与预防中心报告称，全国大部分地区因蜱虫叮咬而就诊的急诊人数达到 2017 年以来的最高水平。",
     "images": [
-      "c4925dc4f3c75e9d.jpg"
+      "71e9d9cc5918a61d.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/5592088577752101770",
-    "timestamp": "2026-07-02T19:29:08.602580+00:00",
-    "original_time": "2026-07-02T17:52:34+00:00"
+    "url": "https://x.com/CBSNews/status/6062405671213004162",
+    "timestamp": "2026-07-02T21:09:37.814079+00:00",
+    "original_time": "2026-07-02T17:40:00+00:00"
   },
   {
-    "id": "tweet_ElizLanders_7926588582390476558",
+    "id": "tweet_CBSNews_-2917024057029502731",
     "type": "tweet",
-    "username": "ElizLanders",
-    "text": "Tina Peters’ attorney, Peter Ticktin, has shared an image with reporters of him meeting in the Oval Office with the president earlier this week. \n\nTicktin told me in the winter that he thinks the president could invoke a national emergency around elections this fall.",
-    "translated_text": "蒂娜·彼得斯的律师彼得·蒂克丁与记者分享了他本周早些时候在椭圆形办公室与总统会面的照片。 \n\n蒂克廷在冬天告诉我，他认为总统可能会在今年秋天的选举前后启动国家紧急状态。",
+    "username": "CBSNews",
+    "text": "The FBI is ramping up its investigation into the 2020 election results in Fulton County, Georgia, by ordering field offices across the country to send investigative analysts to Atlanta to help evaluate thousands of records, according to multiple sources familiar with the matter.",
+    "translated_text": "据多位知情人士透露，美国联邦调查局 (FBI) 正在加大对佐治亚州富尔顿县 2020 年选举结果的调查力度，命令全国各地的外地办事处派遣调查分析师前往亚特兰大，帮助评估数千份记录。",
     "images": [
-      "262cce5c4308ea8f.jpg"
+      "9559e7f0e516c93d.jpg"
     ],
-    "url": "https://x.com/ElizLanders/status/7926588582390476558",
-    "timestamp": "2026-07-02T19:29:08.839132+00:00",
-    "original_time": "2026-07-02T15:57:45+00:00"
+    "url": "https://x.com/CBSNews/status/-2917024057029502731",
+    "timestamp": "2026-07-02T21:09:38.015910+00:00",
+    "original_time": "2026-07-02T17:30:00+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_7418250974739804301",
+    "id": "tweet_CBSNews_8659461440427382175",
     "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "On reports that an active-duty Air Force major was arrested Wednesday after he publicly called for the impeachment of President Trump and Vice President Vance outside of the nation's Capitol building, an Air Force official tells me and@laurarobinsontv@NewsNationthat an Airman",
-    "translated_text": "有报道称，一名现役空军少校周三在美国国会大厦外公开呼吁弹劾特朗普总统和副总统万斯后被捕，一名空军官员告诉我和@laurarobinsontv@NewsNation，一名空军军官",
+    "username": "CBSNews",
+    "text": "Taxes on Trump's $1.4 billion crypto income could total hundreds of millions.",
+    "translated_text": "特朗普 14 亿美元的加密货币收入的税收总额可能高达数亿美元。",
+    "images": [
+      "a1d054ad7327b42f.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8659461440427382175",
+    "timestamp": "2026-07-02T21:09:38.222344+00:00",
+    "original_time": "2026-07-02T17:20:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1284116646335080789",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The two people who scaled the Empire State Building are out of jail on supervised release Thursday morning after the daredevil stunt.\nIvan Kuznetsov, 32, and Angelina Nikolau, 33, were arraigned on a host of charges, including burglary, reckless endangerment, criminal mischief,",
+    "translated_text": "攀登帝国大厦的两名男子在周四上午的大胆特技表演后已出狱，并受到监督释放。\n32 岁的伊万·库兹涅佐夫 (Ivan Kuznetsov) 和 33 岁的安吉丽娜·尼古拉 (Angelina Nikolau) 因多项罪名被提审，包括入室盗窃、鲁莽危害他人安全、刑事恶作剧、",
+    "images": [
+      "c6daceb8bb17fac3.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1284116646335080789",
+    "timestamp": "2026-07-02T21:09:38.480261+00:00",
+    "original_time": "2026-07-02T17:15:09+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_4763062299173325269",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Director of the National Economic Council Kevin Hassett tells CBS News the economy is \"on a really steep upward trajectory\" following the release of Labor Department data on Thursday, which showed U.S. employers slowed hiring last month and added only 57,000 jobs.\n\nHe said his",
+    "translated_text": "国家经济委员会主任凯文·哈塞特 (Kevin Hassett) 告诉哥伦比亚广播公司新闻 (CBS News)，在劳工部周四发布数据后，经济“正处于非常陡峭的上升轨道”，该数据显示美国雇主上个月放缓了招聘速度，仅增加了 57,000 个就业岗位。\n\n他说他的",
+    "images": [
+      "2306ce425ef49809.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/4763062299173325269",
+    "timestamp": "2026-07-02T21:09:39.781566+00:00",
+    "original_time": "2026-07-02T17:03:55+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-967966656447251382",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "You can start contributing to a Trump Account starting July 4. Here's what to know.",
+    "translated_text": "从 7 月 4 日起，您可以开始为特朗普账户捐款。以下是您需要了解的信息。",
+    "images": [
+      "3eb33d3a8d8c0077.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-967966656447251382",
+    "timestamp": "2026-07-02T21:09:43.298309+00:00",
+    "original_time": "2026-07-02T13:40:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_5725953446239949604",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The Vatican announced Thursday that six bishops associated with the ultra-conservative Society of Saint Pius X (SSPX) have been excommunicated following the unauthorized consecration of four new bishops.",
+    "translated_text": "梵蒂冈周四宣布，在四名新主教未经授权祝圣后，与极端保守的圣庇护十世协会（SSPX）有联系的六名主教已被逐出教会。",
+    "images": [
+      "79a1f67aafa1aadf.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/5725953446239949604",
+    "timestamp": "2026-07-02T21:09:44.488924+00:00",
+    "original_time": "2026-07-02T13:39:50+00:00"
+  },
+  {
+    "id": "tweet_CNBC_7518383637387924894",
+    "type": "tweet",
+    "username": "CNBC",
+    "text": "Trump Accounts get a boost from employer contributions — Goldman Sachs and Morgan Stanley are the latest to offer matching programs",
+    "translated_text": "特朗普账户因雇主缴款而得到提升——高盛和摩根士丹利是最新提供匹配计划的公司",
+    "images": [
+      "430b4a316d0c9556.jpg"
+    ],
+    "url": "https://x.com/CNBC/status/7518383637387924894",
+    "timestamp": "2026-07-02T21:10:55.736951+00:00",
+    "original_time": "2026-07-02T18:21:57+00:00"
+  },
+  {
+    "id": "tweet_julianbarnes_-768024650336174355",
+    "type": "tweet",
+    "username": "julianbarnes",
+    "text": "NEW:  U.S. officials believed that Israel might have been plotting to kill Iran’s top negotiators while Washington was engaged with Tehran in delicate talks this spring to reach an interim peace deal. w/@farnazfassihi",
+    "translated_text": "新消息：美国官员认为，在今年春天华盛顿与德黑兰进行微妙谈判以达成临时和平协议时，以色列可能一直在密谋刺杀伊朗高级谈判代表。与@farnazfassihi",
+    "images": [
+      "85376b116164829b.jpg"
+    ],
+    "url": "https://x.com/julianbarnes/status/-768024650336174355",
+    "timestamp": "2026-07-02T21:10:56.751177+00:00",
+    "original_time": "2026-07-02T18:49:43+00:00"
+  },
+  {
+    "id": "tweet_AmtrakNECAlerts_575197999277751979",
+    "type": "tweet",
+    "username": "AmtrakNECAlerts",
+    "text": "Travel Update: Due to temperature-related conditions, Acela 2152, 2154, 2190, 2165, 2167, and 2193 are canceled. We apologize for any inconvenience this may cause.",
+    "translated_text": "行程更新：由于与气温相关的情况，Acela 2152、2154、2190、2165、2167 和 2193 班次被取消。对于由此造成的任何不便，我们深表歉意。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/7418250974739804301",
-    "timestamp": "2026-07-02T19:29:08.996049+00:00",
-    "original_time": "2026-07-02T16:53:42+00:00"
+    "url": "https://x.com/AmtrakNECAlerts/status/575197999277751979",
+    "timestamp": "2026-07-02T21:10:58.102322+00:00",
+    "original_time": "2026-07-02T10:07:35+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_9020898383468120696",
+    "id": "tweet_JenniferJJacobs_-3639984119639561664",
     "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "TRUMP TODAY: \n\n8:00am ET: Participates in Executive Time, The White House, Closed Press\n\n10:30am ET: Participates in a Policy Meeting, Oval Office, Closed Press\n\n11:00am ET: Receives his Intelligence Briefing, The White House, Closed Press\n\n1:30pm ET: Participates in a Policy",
-    "translated_text": "特朗普今天： \n\n东部时间上午 8:00：参加行政时间，白宫，新闻闭门\n\n东部时间上午 10:30：参加政策会议，椭圆形办公室，闭门媒体\n\n东部时间上午 11:00：接受情报简报，白宫，闭门媒体\n\n东部时间下午 1:30：参与政策",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/9020898383468120696",
-    "timestamp": "2026-07-02T19:29:09.139405+00:00",
-    "original_time": "2026-07-02T16:28:24+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-9183695687021763817",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Fourth of July flight rehearsal.",
-    "translated_text": "七月四日飞行彩排。",
+    "username": "JenniferJJacobs",
+    "text": "Former Olympian David Hearn, who was arrested at the national mall's Reflecting Pool last month, has been indicted by a grand jury on one count of destruction of property, CBS's@JakeMRosenreports.@USAttyPirrosays tampering with national monuments is \"an affront to the",
+    "translated_text": "上个月在国家购物中心的倒影池被捕的前奥运选手戴维·赫恩 (David Hearn) 被大陪审团起诉一项破坏财产罪，哥伦比亚广播公司 (CBS) 的@JakeMRosenreports.@USAttyPirro 表示，破坏国家纪念碑是“对国家纪念碑的侮辱”。",
     "images": [
-      "19452399dd901e4b.svg",
-      "2e4df60b23fae410.jpg"
+      "2cfb656a2d049a99.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-9183695687021763817",
-    "timestamp": "2026-07-02T19:29:09.379882+00:00",
-    "original_time": "2026-07-02T16:03:49+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/-3639984119639561664",
+    "timestamp": "2026-07-02T21:10:58.817939+00:00",
+    "original_time": "2026-07-02T18:53:48+00:00"
   },
   {
-    "id": "article_24619326eccb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "‘Inhumane and avoidable’: activists call for end to manual sanitation work",
-    "translated_title": "“不人道且可以避免”：活动人士呼吁停止手工卫生工作",
-    "url": "https://www.dawn.com/news/2012486/inhumane-and-avoidable-activists-call-for-end-to-manual-sanitation-work",
-    "timestamp": "2026-07-02T19:30:47.915794+00:00",
-    "original_time": "2026-07-02T23:35:56+05:00"
+    "id": "tweet_JenniferJJacobs_-2746609595553382015",
+    "type": "tweet",
+    "username": "JenniferJJacobs",
+    "text": "NEW from@CBSNews: Jared Kushner and Ukraine defense official Rustem Umerov spoke this week. \nZelenskyy is asking US for a license to make Patriot missiles, calling air defense supplies for his country \"an absolute necessity,\" after Russia hit Kyiv overnight with the biggest",
+    "translated_text": "来自 @CBSNews 的新消息：贾里德·库什纳 (Jared Kushner) 和乌克兰国防部官员鲁斯泰姆·乌梅罗夫 (Rustem Umerov) 本周发表了讲话。 \n泽连斯基正在向美国申请制造爱国者导弹的许可证，称在俄罗斯一夜之间用最大的导弹袭击基辅后，为他的国家提供防空物资“绝对必要”。",
+    "images": [
+      "2ea70430ace40fcc.jpg"
+    ],
+    "url": "https://x.com/JenniferJJacobs/status/-2746609595553382015",
+    "timestamp": "2026-07-02T21:11:00.272362+00:00",
+    "original_time": "2026-07-02T18:15:26+00:00"
   },
   {
-    "id": "article_dca3d4465eea",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Flowers and a raised fist: Tehran's Grand Mosalla readies for Khamenei farewell",
-    "translated_title": "鲜花和举起的拳头：德黑兰的大摩萨拉准备迎接哈梅内伊的告别",
-    "url": "https://www.dawn.com/news/2012489/flowers-and-a-raised-fist-tehrans-grand-mosalla-readies-for-khamenei-farewell",
-    "timestamp": "2026-07-02T19:30:55.981827+00:00",
-    "original_time": "2026-07-02T21:22:29+05:00"
+    "id": "tweet_JenniferJJacobs_6924182884166836343",
+    "type": "tweet",
+    "username": "JenniferJJacobs",
+    "text": "Trump is posting on scallops.",
+    "translated_text": "特朗普正在扇贝上发帖。",
+    "images": [
+      "82849cc3bd626122.jpg"
+    ],
+    "url": "https://x.com/JenniferJJacobs/status/6924182884166836343",
+    "timestamp": "2026-07-02T21:11:01.530065+00:00",
+    "original_time": "2026-07-02T18:01:07+00:00"
   },
   {
-    "id": "article_a4a2d3b49bc1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2012436/fo-says-pm-to-visit-iran-turkiye-from-july-3-5-to-attend-funeral-of-assassinated-iranian-supreme-leader",
-    "timestamp": "2026-07-02T19:31:40.854014+00:00",
-    "original_time": "2026-07-02T19:31:40.853975+00:00"
-  },
-  {
-    "id": "article_4635874a663e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Creators, admins of WhatsApp groups not criminally liable for posts made by members: LHC",
-    "translated_title": "WhatsApp 群组的创建者、管理员不会对成员发帖承担刑事责任：LHC",
-    "url": "https://www.dawn.com/news/2012432/creators-admins-of-whatsapp-groups-not-criminally-liable-for-posts-made-by-members-lhc",
-    "timestamp": "2026-07-02T19:31:48.776289+00:00",
-    "original_time": "2026-07-02T13:29:13+05:00"
-  },
-  {
-    "id": "article_0220c9157203",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2012466/nine-thai-monks-killed-after-boy-drives-truck-into-procession",
-    "timestamp": "2026-07-02T19:32:11.961589+00:00",
-    "original_time": "2026-07-02T19:32:11.961399+00:00"
-  },
-  {
-    "id": "article_3200910f8e3a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan, Saudi Arabia sign agreement for construction of cricket stadium in Jeddah",
-    "translated_title": "巴基斯坦和沙特阿拉伯签署在吉达建设板球场的协议",
-    "url": "https://www.dawn.com/news/2012421/pakistan-saudi-arabia-sign-agreement-for-construction-of-cricket-stadium-in-jeddah",
-    "timestamp": "2026-07-02T19:32:37.606854+00:00",
-    "original_time": "2026-07-02T12:45:24+05:00"
-  },
-  {
-    "id": "article_87d4a2289fbc",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Blood, iron and water: India's riparian hypocrisy",
-    "translated_title": "血、铁和水：印度河岸地区的虚伪",
-    "url": "https://www.dawn.com/news/2012435/blood-iron-and-water-indias-riparian-hypocrisy",
-    "timestamp": "2026-07-02T19:33:03.323184+00:00",
-    "original_time": "2026-07-02T14:52:17+05:00"
-  },
-  {
-    "id": "article_c6bbe2f819c3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2012133/us-lifts-curbs-on-anthropics-fable-mythos-ai-models",
-    "timestamp": "2026-07-02T19:33:41.721017+00:00",
-    "original_time": "2026-07-02T19:33:41.720987+00:00"
-  },
-  {
-    "id": "article_c587a15860e1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Israel's Knesset advances bill to ban call to prayer by mosques over loudspeakers",
-    "translated_title": "以色列议会提出禁止清真寺通过扩音器呼唤祈祷的法案",
-    "url": "https://www.dawn.com/news/2012427/israels-knesset-advances-bill-to-ban-call-to-prayer-by-mosques-over-loudspeakers",
-    "timestamp": "2026-07-02T19:33:49.218791+00:00",
-    "original_time": "2026-07-02T12:54:00+05:00"
-  },
-  {
-    "id": "article_86e7bfde0cc8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2011806/fund-created-to-mitigate-oil-price-shocks",
-    "timestamp": "2026-07-02T19:34:41.544242+00:00",
-    "original_time": "2026-07-02T19:34:41.544212+00:00"
-  },
-  {
-    "id": "article_b0eeb3acb978",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Child killed, 5 people injured in roof collapse incident in Lahore",
-    "translated_title": "拉合尔屋顶倒塌事故造成儿童死亡、5人受伤",
-    "url": "https://www.dawn.com/news/2012445/child-killed-5-people-injured-in-roof-collapse-incident-in-lahore",
-    "timestamp": "2026-07-02T19:34:58.725927+00:00",
-    "original_time": "2026-07-02T14:52:55+05:00"
-  },
-  {
-    "id": "article_81f3e7d16012",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "SHC seeks details from Sindh health secretary, police chief on reports of HIV outbreak at Karachi hospital",
-    "translated_title": "SHC 向信德省卫生部长和警察局长寻求有关卡拉奇医院艾滋病毒爆发报告的详细信息",
-    "url": "https://www.dawn.com/news/2012459/shc-seeks-details-from-sindh-health-secretary-police-chief-on-reports-of-hiv-outbreak-at-karachi-hospital",
-    "timestamp": "2026-07-02T19:35:09.467782+00:00",
-    "original_time": "2026-07-02T16:27:07+05:00"
-  },
-  {
-    "id": "article_bbc6d146a0e7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2012477/lahore-police-register-case-against-five-suspects-over-abduction-sexual-assault-of-two-foreign-women",
-    "timestamp": "2026-07-02T19:35:28.200057+00:00",
-    "original_time": "2026-07-02T19:35:28.200028+00:00"
-  },
-  {
-    "id": "article_e1b8bc12dfbe",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
-    "translated_title": "一种新的、廉价的中国人工智能模型正在其主场迎头赶上 Anthropic OpenAI",
-    "url": "https://www.dawn.com/news/2012469/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-on-their-home-turf",
-    "timestamp": "2026-07-02T19:35:32.391059+00:00",
-    "original_time": "2026-07-02T18:45:02+05:00"
-  },
-  {
-    "id": "article_4c739b7a306c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pilot who hit Beijing tower wrote about ending life: Chinese govt",
-    "translated_title": "撞上北京塔的飞行员写下结束生命：中国政府",
-    "url": "https://www.dawn.com/news/2012442/pilot-who-hit-beijing-tower-wrote-about-ending-life-chinese-govt",
-    "timestamp": "2026-07-02T19:35:43.237934+00:00",
-    "original_time": "2026-07-02T14:57:58+05:00"
-  },
-  {
-    "id": "article_81c195afd4da",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Economic reform: German workers will no longer be able to call in sick",
-    "translated_title": "经济改革：德国工人将无法请病假",
-    "url": "https://www.dawn.com/news/2012487/economic-reform-german-workers-will-no-longer-be-able-to-call-in-sick",
-    "timestamp": "2026-07-02T19:36:01.750577+00:00",
-    "original_time": "2026-07-02T21:42:39+05:00"
-  },
-  {
-    "id": "article_ce7cb0505ef8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Security forces foil attempts to blow up girls' school, bridge in KP's Bannu",
-    "translated_title": "安全部队挫败了炸毁 KP Bannu 女子学校和桥梁的企图",
-    "url": "https://www.dawn.com/news/2012465/security-forces-foil-attempts-to-blow-up-girls-school-bridge-in-kps-bannu",
-    "timestamp": "2026-07-02T19:36:23.134756+00:00",
-    "original_time": "2026-07-02T17:55:40+05:00"
-  },
-  {
-    "id": "article_376efe43535b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2012183/dunki-20-goes-crypto-hawala-in-pakistans-300-million-smuggling-machine",
-    "timestamp": "2026-07-02T19:36:53.229636+00:00",
-    "original_time": "2026-07-02T19:36:53.229608+00:00"
-  },
-  {
-    "id": "article_5aac04823a66",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2011767/gulf-turmoil-hurting-pakistans-economic-outlook",
-    "timestamp": "2026-07-02T19:37:18.575307+00:00",
-    "original_time": "2026-07-02T19:37:18.575278+00:00"
-  },
-  {
-    "id": "article_0a1607f10fae",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Submarine cable fault may cause intermittent internet disruption: PTA",
-    "translated_title": "PTA：海底电缆故障可能导致间歇性互联网中断",
-    "url": "https://www.dawn.com/news/2012491/submarine-cable-fault-may-cause-intermittent-internet-disruption-pta",
-    "timestamp": "2026-07-02T19:37:37.296168+00:00",
-    "original_time": "2026-07-02T22:56:36+05:00"
-  },
-  {
-    "id": "article_8093da084cdf",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PIA's first direct flight from Lahore to Manchester takes off after 6 years",
-    "translated_title": "巴基斯坦国际航空时隔六年开通首个从拉合尔飞往曼彻斯特的直飞航班",
-    "url": "https://www.dawn.com/news/2012429/pias-first-direct-flight-from-lahore-to-manchester-takes-off-after-6-years",
-    "timestamp": "2026-07-02T19:37:57.118368+00:00",
-    "original_time": "2026-07-02T13:41:41+05:00"
-  },
-  {
-    "id": "article_3aa7b075db84",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Indian, UAE groups ink pact for $11.5bn aluminium project in Odisha",
-    "translated_title": "印度与阿联酋签署协议，在奥里萨邦投资 115 亿美元的铝项目",
-    "url": "https://www.dawn.com/news/2012476/indian-uae-groups-ink-pact-for-115bn-aluminium-project-in-odisha",
-    "timestamp": "2026-07-02T19:38:06.529837+00:00",
-    "original_time": "2026-07-02T20:30:31+05:00"
-  },
-  {
-    "id": "article_7f17bac0085b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "AJK Supreme Court defers hearing on petition against PTI’s provisional registration",
-    "translated_title": "AJK 最高法院推迟针对 PTI 临时注册请愿书的听证会",
-    "url": "https://www.dawn.com/news/2012475/ajk-supreme-court-defers-hearing-on-petition-against-ptis-provisional-registration",
-    "timestamp": "2026-07-02T19:38:18.517513+00:00",
-    "original_time": "2026-07-02T19:46:53+05:00"
-  },
-  {
-    "id": "article_36bd61bcef25",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "As World Cup fever swirls, war-torn Yemen gets its own football miracle",
-    "translated_title": "随着世界杯热潮的蔓延，饱受战争蹂躏的也门创造了自己的足球奇迹",
-    "url": "https://www.dawn.com/news/2012470/as-world-cup-fever-swirls-war-torn-yemen-gets-its-own-football-miracle",
-    "timestamp": "2026-07-02T19:38:39.962084+00:00",
-    "original_time": "2026-07-02T18:24:10+05:00"
-  },
-  {
-    "id": "article_acda3724b31e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt decides to extend Murree Expressway by 70km to Muzaffarabad",
-    "translated_title": "政府决定将穆里高速公路延长70公里至穆扎法拉巴德",
-    "url": "https://www.dawn.com/news/2012478/govt-decides-to-extend-murree-expressway-by-70km-to-muzaffarabad",
-    "timestamp": "2026-07-02T19:38:47.814308+00:00",
-    "original_time": "2026-07-02T20:06:54+05:00"
-  },
-  {
-    "id": "article_557f28b4543c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "30pc of MNAs record ‘perfect attendance’ in National Assembly budget session; 2pc skip all",
-    "translated_title": "30%的跨国公司在国民议会预算会议上创下“完美出席”记录； 2件 跳过所有",
-    "url": "https://www.dawn.com/news/2012468/30pc-of-mnas-record-perfect-attendance-in-national-assembly-budget-session-2pc-skip-all",
-    "timestamp": "2026-07-02T19:39:01.013978+00:00",
-    "original_time": "2026-07-02T19:31:24+05:00"
-  },
-  {
-    "id": "article_be68a8b73120",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Lahore court extends pre-arrest bail of PML-N MPA accused of harassing television actress Momina Iqbal",
-    "translated_title": "拉合尔法院延长了被控骚扰电视女演员莫米娜·伊克巴尔的 PML-N MPA 的逮捕前保释期",
-    "url": "https://www.dawn.com/news/2012428/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal",
-    "timestamp": "2026-07-02T19:39:48.350178+00:00",
-    "original_time": "2026-07-02T12:48:51+05:00"
+    "id": "tweet_realDonaldTrump_0",
+    "type": "tweet",
+    "username": "realDonaldTrump",
+    "text": "",
+    "translated_text": "",
+    "images": [],
+    "url": "https://x.com/realDonaldTrump/status/0",
+    "timestamp": "2026-07-02T21:11:44.863000+00:00",
+    "original_time": "2026-07-02T13:58:18+00:00"
   }
 ]
