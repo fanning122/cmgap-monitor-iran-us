@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_80313358365109945",
+    "id": "tweet_ForeignOfficePk_-7848135365905140381",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Pakistan extends its heartiest felicitations to the Government and people of the Republic of Belarus.\n\nHappy Republic Day!@BelarusMFA@PakinBelarus",
@@ -11,12 +11,93 @@
       "c3708412dfa4a7af.svg",
       "ffa5593bbb9ad2d5.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/80313358365109945",
-    "timestamp": "2026-07-03T12:11:18.305139+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-7848135365905140381",
+    "timestamp": "2026-07-03T15:11:12.946154+00:00",
     "original_time": "2026-07-03T03:28:38+00:00"
   },
   {
-    "id": "tweet_PakPMO_2883265650219603320",
+    "id": "tweet_thursday_times_1861346663253210168",
+    "type": "tweet",
+    "username": "thursday_times",
+    "text": "Tehran: Prime Minister Shehbaz Sharif, Field Marshal Asim Munir, Deputy Prime Minister and Foreign Minister Ishaq Dar, and Bilawal Bhutto Zardari attended the funeral ceremonies of Iran’s former Supreme Leader Ali Khamenei.\n\nThe Pakistani delegation also offered condolences to",
+    "translated_text": "德黑兰：总理谢赫巴兹·谢里夫、陆军元帅阿西姆·穆尼尔、副总理兼外交部长伊沙克·达尔和比拉瓦尔·布托·扎尔达里出席了伊朗前最高领袖阿里·哈梅内伊的葬礼。\n\n巴基斯坦代表团也表示哀悼",
+    "images": [
+      "cbe81955023fd3a9.jpg"
+    ],
+    "url": "https://x.com/thursday_times/status/1861346663253210168",
+    "timestamp": "2026-07-03T15:11:27.012482+00:00",
+    "original_time": "2026-07-03T12:10:29+00:00"
+  },
+  {
+    "id": "tweet_thursday_times_727068018133849769",
+    "type": "tweet",
+    "username": "thursday_times",
+    "text": "Prime Minister Shehbaz Sharif, Field Marshal Asim Munir, Deputy Prime Minister Ishaq Dar, and Bilawal Bhutto Zardari, among the Pakistani leadership, attend the final rites of Iran's former Supreme Leader Ali Khamenei in Tehran.",
+    "translated_text": "巴基斯坦领导人谢巴兹·谢里夫总理、阿西姆·穆尼尔元帅、副总理伊沙克·达尔和比拉瓦尔·布托·扎尔达里出席了在德黑兰举行的伊朗前最高领袖阿里·哈梅内伊的最后仪式。",
+    "images": [
+      "8561fe30902f88f8.jpg"
+    ],
+    "url": "https://x.com/thursday_times/status/727068018133849769",
+    "timestamp": "2026-07-03T15:11:27.929891+00:00",
+    "original_time": "2026-07-03T12:00:40+00:00"
+  },
+  {
+    "id": "tweet_thursday_times_6097487112317645456",
+    "type": "tweet",
+    "username": "thursday_times",
+    "text": "Prime Minister Shehbaz Sharif has arrived in Tehran to attend the funeral rites of Iran's former Supreme Leader Ali Khamenei.\n\nAccompanying the Pakistani Prime Minister in the delegation are Speaker of the National Assembly Ayaz Sadiq, Deputy Prime Minister and Foreign Minister",
+    "translated_text": "伊朗总理谢赫巴兹·谢里夫抵达德黑兰，出席伊朗前最高领袖哈梅内伊的葬礼。\n\n陪同巴基斯坦总理代表团的有国民议会议长阿亚兹·萨迪克、副总理兼外交部长",
+    "images": [
+      "59363d196475526b.jpg"
+    ],
+    "url": "https://x.com/thursday_times/status/6097487112317645456",
+    "timestamp": "2026-07-03T15:11:29.003586+00:00",
+    "original_time": "2026-07-03T10:57:38+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-8047481058306348538",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif writing his remarks in the condolence book at the funeral of Late Supreme Leader of Iran, Shaheed Ayatollah Sayyed Ali Khamenei. Tehran, 3 July 2026.",
+    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理在已故伊朗最高领袖沙希德·阿亚图拉·赛义德·阿里·哈梅内伊葬礼上的吊唁书中发表讲话。德黑兰，2026 年 7 月 3 日。",
+    "images": [
+      "bba8de4b066098f9.jpg",
+      "edd0821988f62f73.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-8047481058306348538",
+    "timestamp": "2026-07-03T15:11:56.854319+00:00",
+    "original_time": "2026-07-03T13:17:55+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-8361940245760054080",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif offers prayers at the funeral of late Supreme Leader of Iran, Shaheed Ayatollah Sayyed Ali Khamenei. Tehran on 3 July 2026.",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫在已故伊朗最高领袖沙希德·阿亚图拉·赛义德·阿里·哈梅内伊的葬礼上进行祈祷。 2026 年 7 月 3 日，德黑兰。",
+    "images": [
+      "7473b9d7ba0a66fa.jpg",
+      "7e15f788607be672.jpg",
+      "6af850f59ffbd49d.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-8361940245760054080",
+    "timestamp": "2026-07-03T15:11:57.681237+00:00",
+    "original_time": "2026-07-03T13:16:19+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_3311232211757867484",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Tehran: 3 July 2026.\n\nAt the invitation of the President of the Islamic Republic of Iran H.E Dr Masoud Pezeshkian, Prime Minister Muhammad Shehbaz Sharif attended the funeral ceremony of the late Supreme Leader of the Islamic Republic of Iran, Ayatollah Seyyed Ali Khamenei, who",
+    "translated_text": "德黑兰：2026 年 7 月 3 日。\n\n应伊朗伊斯兰共和国总统马苏德·佩泽什基安博士阁下邀请，穆罕默德·谢赫巴兹·谢里夫总理出席了已故伊朗伊斯兰共和国最高领袖阿亚图拉·赛义德·阿里·哈梅内伊的葬礼。",
+    "images": [
+      "1bff7728bc728cfe.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/3311232211757867484",
+    "timestamp": "2026-07-03T15:11:58.454581+00:00",
+    "original_time": "2026-07-03T12:28:59+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-4271521967698049870",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif along with high level Pakistani delegation arrives in Tehran. Interior Minister of Iran Eskandar Momeni receives Prime Minister upon his arrival. Tehran, 3 July 2026.",
@@ -27,12 +108,12 @@
       "fa426ab158bb5b7b.jpg",
       "56a82cc57ecaba70.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/2883265650219603320",
-    "timestamp": "2026-07-03T12:11:59.515162+00:00",
+    "url": "https://x.com/PakPMO/status/-4271521967698049870",
+    "timestamp": "2026-07-03T15:11:58.781580+00:00",
     "original_time": "2026-07-03T11:17:22+00:00"
   },
   {
-    "id": "tweet_PakPMO_6010043140411003413",
+    "id": "tweet_PakPMO_-168979773375937457",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Tehran: July 3, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif's visit to Iran, participation in the funeral rites of Iran's late Supreme Leader, Ayatollah Sayyid Ali Khamenei, the martyr.\n\nPrime Minister Muhammad Shehbaz Sharif has arrived in Tehran for his one-day visit to Iran",
@@ -40,52 +121,38 @@
     "images": [
       "552193aa69f3a1a4.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/6010043140411003413",
-    "timestamp": "2026-07-03T12:12:00.181677+00:00",
+    "url": "https://x.com/PakPMO/status/-168979773375937457",
+    "timestamp": "2026-07-03T15:11:59.586286+00:00",
     "original_time": "2026-07-03T11:11:58+00:00"
   },
   {
-    "id": "tweet_PakPMO_5835390898216821754",
+    "id": "tweet_IraninIslamabad_7227082116283072175",
     "type": "tweet",
-    "username": "PakPMO",
-    "text": "Islamabad: July 3, 2026.\n\nA review meeting on measures taken to prevent infectious diseases such as AIDS and Hepatitis C, chaired by Prime Minister Muhammad Shehbaz Sharif, was held today in Islamabad.\n\nIn the meeting, the Prime Minister directed that a complete ban be imposed on",
-    "translated_text": "伊斯兰堡：2026 年 7 月 3 日。\n\n由总理穆罕默德·谢赫巴兹·谢里夫主持的关于预防艾滋病和丙型肝炎等传染病措施的审查会议今天在伊斯兰堡举行。\n\n总理在会议上指示全面禁止",
+    "username": "IraninIslamabad",
+    "text": "In times of hardship, true leadership is measured by steadfastness, faith, courage & unwavering commitment to one's people & principles. \nHe continued to emphasize the principles of independence, national sovereignty, resilience, and dignity to the last minutes. \n\nآقای شهید ایران",
+    "translated_text": "在困难时期，真正的领导力是通过坚定、信念、勇气以及对人民和原则坚定不移的承诺来衡量的。 \n他直到最后一刻仍继续强调独立、国家主权、韧性和尊严的原则。 \n\n🇨🇳 🇨🇳",
     "images": [
-      "687c410702cecf6d.jpg"
+      "a588339dbedb3a72.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/5835390898216821754",
-    "timestamp": "2026-07-03T12:12:01.114869+00:00",
-    "original_time": "2026-07-03T09:21:00+00:00"
+    "url": "https://x.com/IraninIslamabad/status/7227082116283072175",
+    "timestamp": "2026-07-03T15:12:14.318027+00:00",
+    "original_time": "2026-07-03T13:52:15+00:00"
   },
   {
-    "id": "tweet_PakPMO_3766358872070308377",
+    "id": "tweet_GovtofPakistan_-4900477907235608939",
     "type": "tweet",
-    "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif departs for one day official visit to Iran (Islamabad, 3 July 2026).",
-    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫启程对伊朗进行为期一天的正式访问（伊斯兰堡，2026 年 7 月 3 日）。",
+    "username": "GovtofPakistan",
+    "text": "At the invitation of the President of the Islamic Republic of Iran H.E. Dr. Masoud Pezeshkian, Prime Minister Muhammad Shehbaz Sharif attended the funeral ceremony of the late Supreme Leader of the Islamic Republic of Iran, Ayatollah Seyyed Ali Khamenei, who had embraced",
+    "translated_text": "应伊朗伊斯兰共和国总统邀请马苏德·佩泽什基安博士和穆罕默德·谢赫巴兹·谢里夫总理出席了已故伊朗伊斯兰共和国最高领袖阿亚图拉·赛义德·阿里·哈梅内伊的葬礼，哈梅内伊拥抱了他",
     "images": [
-      "30b097a0f1f643e1.jpg",
-      "d643485e7eda4bba.jpg"
+      "1715906205ff3d03.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/3766358872070308377",
-    "timestamp": "2026-07-03T12:12:01.608726+00:00",
-    "original_time": "2026-07-03T07:41:15+00:00"
+    "url": "https://x.com/GovtofPakistan/status/-4900477907235608939",
+    "timestamp": "2026-07-03T15:12:15.256172+00:00",
+    "original_time": "2026-07-03T13:49:59+00:00"
   },
   {
-    "id": "tweet_PakPMO_-739134017719453431",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Islamabad: 3 July 2026.\n\nPrime Minister Muhammad Shehbaz Sharif will visit Iran to attend the funeral of Iran's late Supreme Leader, Martyr Ayatollah Syed Ali Khamenei.\n\nPrime Minister Muhammad Shehbaz Sharif has departed from Islamabad for his one-day visit to Iran. Speaker of",
-    "translated_text": "伊斯兰堡：2026 年 7 月 3 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫将访问伊朗，出席伊朗已故最高领袖阿亚图拉·赛义德·阿里·哈梅内伊烈士的葬礼。\n\n总理穆罕默德·谢赫巴兹·谢里夫已离开伊斯兰堡，开始对伊朗进行一日访问。发言人",
-    "images": [
-      "bac9355a25b6d019.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-739134017719453431",
-    "timestamp": "2026-07-03T12:12:02.205203+00:00",
-    "original_time": "2026-07-03T07:38:15+00:00"
-  },
-  {
-    "id": "tweet_IraninIslamabad_6413001328668292857",
+    "id": "tweet_IraninIslamabad_189177500582103365",
     "type": "tweet",
     "username": "IraninIslamabad",
     "text": "O reassured soul,\nReturn to your Lord, well-pleased and well-pleasing,\nSo enter among My servants,\nAnd enter My Paradise.",
@@ -93,202 +160,220 @@
     "images": [
       "161d757ef4481d11.jpg"
     ],
-    "url": "https://x.com/IraninIslamabad/status/6413001328668292857",
-    "timestamp": "2026-07-03T12:12:18.752660+00:00",
+    "url": "https://x.com/IraninIslamabad/status/189177500582103365",
+    "timestamp": "2026-07-03T15:12:16.942962+00:00",
     "original_time": "2026-07-03T11:24:17+00:00"
   },
   {
-    "id": "tweet_PakistanFauj_4841589300935702787",
-    "type": "tweet",
-    "username": "PakistanFauj",
-    "text": "Field Marshal Syed Asim Munir#COAS& CDF of#Pakistanarrives in Tehran,#Iranto attend the funeral prayers of Iranian’s Supreme Leader Ali Khamenei\n\nUpon arrival, Iran's Minister of Defense, Minister of Interior, and senior civil-military officials warmly welcomed Field",
-    "translated_text": "赛义德·阿西姆·穆尼尔元帅#COAS&#Pakistan CDF抵达德黑兰，#Iranto参加伊朗最高领袖阿里·哈梅内伊的葬礼祈祷\n\n抵达后，伊朗国防部长、内政部长和高级军民官员热烈欢迎菲尔德",
-    "images": [
-      "dee669a0abb351a1.svg",
-      "9ab0d1e80146c0b7.png",
-      "c43ae036fdca7a5f.jpg",
-      "a7a9f30a724be02d.jpg",
-      "3ed252ede7ac9dc3.jpg",
-      "259fa893edc0b78d.jpg"
-    ],
-    "url": "https://x.com/PakistanFauj/status/4841589300935702787",
-    "timestamp": "2026-07-03T12:12:19.377715+00:00",
-    "original_time": "2026-07-03T10:28:35+00:00"
-  },
-  {
-    "id": "tweet_PakistanFauj_7809172127685262421",
-    "type": "tweet",
-    "username": "PakistanFauj",
-    "text": "Field Marshal Syed Asim Munir#COAS& CDF of#Pakistanarrives in Tehran,#Iranto attend the funeral prayers of Iran’s Supreme Leader Ali Khamenei\n\nUpon arrival, Iran's Minister of Defense, Minister of Interior, and senior civil-military officials warmly welcomed Field",
-    "translated_text": "赛义德·阿西姆·穆尼尔元帅#COAS&#Pakistan CDF抵达德黑兰，#Iranto参加伊朗最高领袖阿里·哈梅内伊的葬礼祈祷\n\n抵达后，伊朗国防部长、内政部长和高级军民官员热烈欢迎菲尔德",
-    "images": [
-      "dee669a0abb351a1.svg",
-      "9ab0d1e80146c0b7.png",
-      "21283cb675ac9529.jpg"
-    ],
-    "url": "https://x.com/PakistanFauj/status/7809172127685262421",
-    "timestamp": "2026-07-03T12:12:19.762187+00:00",
-    "original_time": "2026-07-03T10:42:25+00:00"
-  },
-  {
-    "id": "tweet_Khamenei_m_2934113035285557667",
-    "type": "tweet",
-    "username": "Khamenei_m",
-    "text": "Shia leaders from Pakistan paying their respects to the exalted station of the Mujahid Leader, Martyr Imam Sayyid Ali Hosseini Khamenei, July 3, 2026#WeMustRise#MartyrKhamenei",
-    "translated_text": "来自巴基斯坦的什叶派领导人向圣战者领袖烈士伊玛目赛义德·阿里·侯赛尼·哈梅内伊的崇高地位致敬，2026 年 7 月 3 日#WeMustRise#MartyrKhamenei",
-    "images": [
-      "c644e95de919a75d.jpg"
-    ],
-    "url": "https://x.com/Khamenei_m/status/2934113035285557667",
-    "timestamp": "2026-07-03T12:12:20.339414+00:00",
-    "original_time": "2026-07-03T06:48:38+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-2138280438301288176",
+    "id": "tweet_PakTVGlobal_-1229211409494132849",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Political analyst Owais Tohid said that the presence of Prime Minister Shehbaz Sharif, Foreign Minister Ishaq Dar, and Field Marshal Asim Munir at the funeral of late Iranian Supreme leader in Tehran reflects Pakistan's solidarity with Iran during a period of mourning. He said",
-    "translated_text": "政治分析家奥瓦斯·托希德表示，总理谢赫巴兹·谢里夫、外交部长伊沙克·达尔和陆军元帅阿西姆·穆尼尔出席在德黑兰举行的已故伊朗最高领导人的葬礼，体现了巴基斯坦在哀悼期间对伊朗的声援。他说",
+    "text": "Geo Political analyst Shazia Malik says Pakistan's high-level visit to Iran reflects diplomatic maturity, longstanding brotherly ties and Islamabad's commitment to regional peace and stability. She says the visit reinforces mutual trust between the two neighbours and could pave",
+    "translated_text": "地理政治分析师沙齐亚·马利克表示，巴基斯坦高层对伊朗的访问反映了外交成熟、长期的兄弟关系以及伊斯兰堡对地区和平与稳定的承诺。她说，这次访问加强了两个邻国之间的相互信任，并可能为两国关系发展奠定基础。",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-2138280438301288176",
-    "timestamp": "2026-07-03T12:12:38.348617+00:00",
-    "original_time": "2026-07-03T12:02:55+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-1229211409494132849",
+    "timestamp": "2026-07-03T15:12:35.154677+00:00",
+    "original_time": "2026-07-03T14:50:17+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1119274852788639306",
+    "id": "tweet_PakTVGlobal_2189360124698771963",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "#BREAKINGPrime Minister Shehbaz Sharif attended the funeral ceremony of the late Iranian Supreme Leader in Tehran, where he conveyed Pakistan's condolences and solidarity to the Iranian leadership. The Prime Minister was accompanied by Field Marshal Asim Munir, Deputy Prime",
-    "translated_text": "#BREAKING总理谢赫巴兹·谢里夫出席了在德黑兰举行的已故伊朗最高领袖的葬礼，他向伊朗领导人转达了巴基斯坦的哀悼和声援。陪同总理的有副总理阿西姆·穆尼尔元帅",
+    "text": "Defense analyst Brig (R) Shahid Jagir welcomes the adoption of the UN counterterrorism strategic framework, calling it a positive development for Pakistan. He says Pakistan had hosted and supported Afghans for decades but now faces a serious threat from terrorism harboured across",
+    "translated_text": "国防分析家沙希德·贾吉尔准将对联合国反恐战略框架的通过表示欢迎，称其对巴基斯坦来说是一个积极的发展。他说，巴基斯坦几十年来一直接待和支持阿富汗人，但现在面临着来自各地的恐怖主义的严重威胁。",
     "images": [
-      "ed2bdb295de989dc.jpg",
-      "255effdf07c3e3ef.jpg",
-      "75e5f887a5592f8f.jpg"
+      "8684f6a2499a9205.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1119274852788639306",
-    "timestamp": "2026-07-03T12:12:38.866511+00:00",
-    "original_time": "2026-07-03T11:52:39+00:00"
+    "url": "https://x.com/PakTVGlobal/status/2189360124698771963",
+    "timestamp": "2026-07-03T15:12:35.975261+00:00",
+    "original_time": "2026-07-03T14:13:28+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3008200725740764631",
+    "id": "tweet_PakTVGlobal_2401158003378311116",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "PM Shehbaz Sharif, CDF Asim Munir attend funeral ceremony of late Iranian Supreme Leader",
-    "translated_text": "谢赫巴兹·谢里夫总理和阿西姆·穆尼尔中卫出席已故伊朗最高领袖的葬礼",
+    "text": "Prime Minister Shehbaz Sharif, accompanied by Field Marshal Asim Munir and a high-level Pakistani delegation, attended the funeral ceremony of the late Iranian Supreme Leader, conveying Pakistan's heartfelt condolences and unwavering solidarity with the people and leadership of",
+    "translated_text": "谢赫巴兹·谢里夫总理在阿西姆·穆尼尔元帅和巴基斯坦高级代表团的陪同下出席了已故伊朗最高领袖的葬礼，转达了巴基斯坦的衷心哀悼以及对伊朗人民和领导人的坚定支持。",
     "images": [
-      "ec2df2d099870faf.jpg"
+      "82dd39db634329a2.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3008200725740764631",
-    "timestamp": "2026-07-03T12:12:39.315007+00:00",
-    "original_time": "2026-07-03T11:43:38+00:00"
+    "url": "https://x.com/PakTVGlobal/status/2401158003378311116",
+    "timestamp": "2026-07-03T15:12:37.104860+00:00",
+    "original_time": "2026-07-03T13:49:36+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_481963654776457203",
+    "id": "tweet_PakTVGlobal_-4427812866953795636",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Ali Andaz correspondent of Pakistan TV says that civilian and military leadership of Pakistan attends the funeral rites of Iranian Supreme leader in Tehran. He says that the visit is presented as a gesture of solidarity and a reaffirmation of the longstanding ties between the two",
-    "translated_text": "巴基斯坦电视台记者阿里·安达兹表示，巴基斯坦文职和军事领导人出席了在德黑兰举行的伊朗最高领导人的葬礼。他说，这次访问是一种团结的姿态，也是对两国之间长期关系的重申。",
+    "text": "Pakistan's top civilian and military leadership arrived in Tehran to attend the funeral ceremony of Iran's former Supreme Leader, Ayatollah Ali Khamenei. Led by Prime Minister Shehbaz Sharif and joined by Field Marshal Syed Asim Munir and senior political leaders, the delegation",
+    "translated_text": "巴基斯坦最高文职和军事领导人抵达德黑兰参加伊朗前最高领袖阿亚图拉阿里·哈梅内伊的葬礼。代表团由谢赫巴兹·谢里夫总理率领，陆军元帅赛义德·阿西姆·穆尼尔和高级政治领导人陪同",
     "images": [
-      "f9d38c45fb95cc64.jpg"
+      "01d2fcd44c85bbc9.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/481963654776457203",
-    "timestamp": "2026-07-03T12:12:39.782436+00:00",
-    "original_time": "2026-07-03T11:33:24+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-4427812866953795636",
+    "timestamp": "2026-07-03T15:12:38.449457+00:00",
+    "original_time": "2026-07-03T13:45:56+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-894104630627148833",
+    "id": "tweet_PakTVGlobal_-5861429739660255951",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Napoli have appointed Massimiliano Allegri as their new head coach on a three-year deal running until 2029, replacing Antonio Conte, the Serie A club confirmed.#Napoli#Allegri#SerieA#Football#PakistanTV",
-    "translated_text": "意甲俱乐部证实，那不勒斯已任命马西米利亚诺·阿莱格里为新任主教练，合同为期三年，直至 2029 年，接替安东尼奥·孔蒂。#Napoli#Allegri#SerieA#Football#PakistanTV",
+    "text": "Chairman Senate Syed Yousaf Raza Gillani attended the funeral ceremony of the late Iranian Supreme Leader in Tehran, where he conveyed Pakistan's condolences and solidarity with the Iranian leadership and people. He was accompanied by the Governor of Khyber Pakhtunkhwa,",
+    "translated_text": "参议院主席赛义德·优素福·拉扎·吉拉尼出席了在德黑兰举行的已故伊朗最高领袖的葬礼，转达了巴基斯坦对伊朗领导人和人民的哀悼和声援。陪同他的还有开伯尔-普赫图赫瓦省省长",
     "images": [
-      "71bb2c67a12d8477.jpg"
+      "80ef8f1d252948f4.jpg",
+      "a52823eea61cc10c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-894104630627148833",
-    "timestamp": "2026-07-03T12:12:40.355655+00:00",
-    "original_time": "2026-07-03T11:06:58+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-5861429739660255951",
+    "timestamp": "2026-07-03T15:12:38.986829+00:00",
+    "original_time": "2026-07-03T13:41:36+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-68869729430286607",
+    "id": "tweet_PakTVGlobal_-999222168911937223",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "A number of world leaders have started arriving in Tehran for Ayatollah Khamenei’s funeral ceremony. Among them are Georgia's President Mikheil Kavelashvili, Iraqi President Nezar Amidi, Uzbek Parliament Speaker Nuriddin Ismoilov and Tajik President Emomali Rahmon.#Iran#Tehran",
-    "translated_text": "一些世界领导人已开始抵达德黑兰参加阿亚图拉哈梅内伊的葬礼。其中包括格鲁吉亚总统米哈伊尔·卡韦拉什维利、伊拉克总统内扎尔·阿米迪、乌兹别克斯坦议会议长努里丁·伊斯莫伊洛夫和塔吉克斯坦总统埃莫马利·拉赫蒙。#伊朗#德黑兰",
+    "text": "Prime Minister Shehbaz Sharif has arrived in Tehran to attend the funeral ceremony of Iran's late Supreme Leader Ayatollah Ali Khamenei. Upon arrival at Mehrabad Airport, he was received by Iran's Interior Minister Eskandar Momeni. Accompanied by Deputy Prime Minister Ishaq Dar,",
+    "translated_text": "总理谢赫巴兹·谢里夫抵达德黑兰，出席伊朗已故最高领袖哈梅内伊的葬礼。抵达梅赫拉巴德机场后，他受到伊朗内政部长埃斯坎达尔·莫梅尼的接见。在副总理伊沙克·达尔的陪同下",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-999222168911937223",
+    "timestamp": "2026-07-03T15:12:41.899176+00:00",
+    "original_time": "2026-07-03T10:58:50+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_45688300699087937",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan summoned Afghanistan's chargé d'affaires and lodged a strong diplomatic protest following a cross-border attack says Ali Andaz, Pakistan TV correspondent. He says that after years of urging Kabul to act against militant groups, Pakistan launched Operation Ghazab-ul-Haq",
+    "translated_text": "巴基斯坦电视台记者阿里·安达兹表示，在发生跨境袭击事件后，巴基斯坦召见了阿富汗临时代办，并提出了强烈的外交抗议。他说，在多年来敦促喀布尔对激进组织采取行动之后，巴基斯坦发起了“Ghazab-ul-Haq”行动",
+    "images": [
+      "2c2c255442a1ec48.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/45688300699087937",
+    "timestamp": "2026-07-03T15:12:43.228566+00:00",
+    "original_time": "2026-07-03T10:41:25+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-4125697841129796701",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Cambodia's King Norodom Sihamoni returned home on Friday after undergoing treatment for prostate cancer in China. According to state media, the royal palace said the monarch's health has improved, with officials and well-wishers welcoming his return.#Cambodia",
+    "translated_text": "柬埔寨国王诺罗敦·西哈莫尼在中国接受前列腺癌治疗后于周五回国。据官方媒体报道，王宫表示君主的健康状况有所改善，官员和祝福者欢迎他的归来。#柬埔寨",
+    "images": [
+      "d678b5e03c08aa8f.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-4125697841129796701",
+    "timestamp": "2026-07-03T15:12:44.341734+00:00",
+    "original_time": "2026-07-03T10:32:35+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_4252587256047935715",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Interior Minister Mohsin Naqvi has arrived in Tehran to attend the funeral ceremony of late Supreme Leader Syed Ali Khamenei. Mohsin Naqvi was received by his Iranian counterpart Eskandar Momeni.@MohsinnaqviC42#Iran#MohsinNaqvi#AliKhamenei#Tehran#PakistanTV",
+    "translated_text": "内政部长穆赫辛·纳克维已抵达德黑兰，出席已故最高领袖赛义德·阿里·哈梅内伊的葬礼。穆赫辛·纳克维 (Mohsin Naqvi) 受到伊朗外长埃斯坎达尔·莫梅尼 (Eskandar Momeni) 的接见。@MohsinnaqviC42#Iran#MohsinNaqvi#AliKhamenei#Tehran#PakistanTV",
     "images": [
       "9ab0d1e80146c0b7.png",
-      "0f2d618ca56ded08.jpg"
+      "6e6e53f1c098a436.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-68869729430286607",
-    "timestamp": "2026-07-03T12:12:42.780546+00:00",
-    "original_time": "2026-07-03T09:52:54+00:00"
+    "url": "https://x.com/PakTVGlobal/status/4252587256047935715",
+    "timestamp": "2026-07-03T15:12:45.036597+00:00",
+    "original_time": "2026-07-03T10:30:10+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_1419873069097798531",
+    "id": "tweet_PakTVGlobal_-3120702761474406312",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Rescue teams in Venezuela are ending the search for survivors nine days after devastating twin earthquakes killed nearly 2,600 people and injured tens of thousands. After days of exhaustive efforts, rescuers say hope of finding more survivors has faded as recovery operations",
-    "translated_text": "毁灭性的两次地震造成近 2,600 人死亡、数万人受伤，九天后，委内瑞拉救援队正在结束对幸存者的搜寻。经过几天的竭尽全力努力，救援人员表示，随着恢复行动的开展，找到更多幸存者的希望已经破灭",
+    "text": "Chief of Defence Forces Field Marshal Syed Asim Munir has arrived in Tehran to attend the funeral ceremony of Iran's late Supreme Leader Ayatollah Syed Ali Khamenei#FieldMarshalAsimMunir#Iran#Tehran#Khamenei#PakistanIran#PakistanTV",
+    "translated_text": "国防军总司令赛义德·阿西姆·穆尼尔元帅抵达德黑兰，出席伊朗已故最高领袖阿亚图拉·赛义德·阿里·哈梅内伊的葬礼#FieldMarshalAsimMunir#Iran#Tehran#Khamenei#PakistanIran#PakistanTV",
     "images": [
-      "42197fd7bdd4e7c8.jpg"
+      "9ab0d1e80146c0b7.png",
+      "c09b8c16be028edf.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/1419873069097798531",
-    "timestamp": "2026-07-03T12:12:43.187173+00:00",
-    "original_time": "2026-07-03T09:46:45+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-3120702761474406312",
+    "timestamp": "2026-07-03T15:12:45.932283+00:00",
+    "original_time": "2026-07-03T10:28:01+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7480805847822648298",
+    "id": "tweet_IRIMFA_SPOX_-8793264192815691919",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "El Nino will quickly develop into a strong event between July and September, fuelling the likelihood of extreme weather, the United Nations' weather and climate agency has warned. The World Meteorological Organisation said the climate phenomenon had already set in, and would",
-    "translated_text": "联合国天气和气候机构警告说，厄尔尼诺现象将在七月至九月之间迅速发展为强烈事件，增加极端天气的可能性。世界气象组织表示，气候现象已经出现，并将持续下去。",
+    "username": "IRIMFA_SPOX",
+    "text": "Breathless, breathless—if I do not catch its scent from the wind  \nTime and again, like a flower, I tear my collar from grief  \n\nWould I fall asleep, both eyes from your fancy? Fie upon it  \nWould my heart be patient, in separation from you? Never  \n\nHafez Shirazi",
+    "translated_text": "喘不过气来，喘不过气来——如果我没有从风中闻到它的气味  \n一次又一次，我像一朵花一样，因悲伤而撕裂衣领  \n\n我会在你的幻想中睡着吗？呸在上面  \n与你分离时我的心会忍耐吗？从来没有  \n\n哈菲兹·设拉子",
     "images": [
-      "dd41f877d4bd24db.jpg"
+      "ee8fde212425ad6d.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/7480805847822648298",
-    "timestamp": "2026-07-03T12:12:43.690392+00:00",
-    "original_time": "2026-07-03T09:45:07+00:00"
+    "url": "https://x.com/IRIMFA_SPOX/status/-8793264192815691919",
+    "timestamp": "2026-07-03T15:13:51.322685+00:00",
+    "original_time": "2026-07-03T15:00:33+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5717192821764819717",
+    "id": "tweet_IRIMFA_SPOX_2255250727768956411",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Authorities are searching for a Ukrainian woman wanted in connection with a bomb attack in Monaco that injured three people, including a businessman of Ukrainian origin. According to an Interpol Red Notice, the suspect faces charges including attempted murder, planting an",
-    "translated_text": "当局正在通缉一名与摩纳哥炸弹袭击有关的乌克兰妇女，该袭击造成三人受伤，其中包括一名乌克兰裔商人。根据国际刑警组织的红色通缉令，嫌疑人面临谋杀未遂、安插他人罪名等指控。",
-    "images": [
-      "17fabfb22c37cffc.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-5717192821764819717",
-    "timestamp": "2026-07-03T12:12:44.156411+00:00",
-    "original_time": "2026-07-03T09:44:03+00:00"
+    "username": "IRIMFA_SPOX",
+    "text": "Today marks the anniversary of one of the most heinous crimes committed by America against the Iranian nation. On July 12, 1988, Iran Air passenger flight number 655, en route from Tehran to Dubai, was struck by two missiles from the U.S. Navy warship USS Vincennes over the",
+    "translated_text": "今天是美国对伊朗民族犯下的最令人发指的罪行之一的周年纪念日。 1988年7月12日，伊朗航空655号客机在从德黑兰飞往迪拜的途中，在上空被美国海军军舰文森斯号的两枚导弹击中。",
+    "images": [],
+    "url": "https://x.com/IRIMFA_SPOX/status/2255250727768956411",
+    "timestamp": "2026-07-03T15:13:51.904531+00:00",
+    "original_time": "2026-07-03T08:01:11+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-8361444082982511555",
+    "id": "tweet_AJENews_-8249651060817403265",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Rear Adm.Rtd Naveed Ahmed said that it is evident that Israel and India are pursuing policies that target Muslims and other minorities. He said Pakistan's recent military and diplomatic successes have strengthened its standing as a responsible regional actor while India is",
-    "translated_text": "纳维德·艾哈迈德少将表示，以色列和印度显然正在推行针对穆斯林和其他少数群体的政策。他说，巴基斯坦最近的军事和外交成功巩固了其作为负责任的地区行为体的地位，而印度则",
+    "username": "AJENews",
+    "text": "BREAKING: Israel-Lebanon agreement 'betrays war crime victims', human rights groupsLIVE updates:https://aje.news/hlij7x?update=4730482…",
+    "translated_text": "突发事件：以色列-黎巴嫩协议“背叛了战争罪受害者”，人权组织实时更新：https://aje.news/hlij7x?update=4730482…",
     "images": [
-      "2bf474002c53eb9b.jpg"
+      "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-8361444082982511555",
-    "timestamp": "2026-07-03T12:12:44.582043+00:00",
-    "original_time": "2026-07-03T09:39:49+00:00"
+    "url": "https://x.com/AJENews/status/-8249651060817403265",
+    "timestamp": "2026-07-03T15:14:21.978358+00:00",
+    "original_time": "2026-07-03T14:45:27+00:00"
   },
   {
-    "id": "tweet_AJENews_-3993254788669937370",
+    "id": "tweet_AJENews_8051406767891189005",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: NATO leaders, including US President Donald Trump, are set to affirm an “ironclad commitment” to collective defence under Article 5 at a summit in Ankara next week, according to a draft declaration, reports Reuters.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：据路透社报道，根据一份声明草案，包括美国总统唐纳德·特朗普在内的北约领导人将在下周于安卡拉举行的峰会上确认对第五条规定的集体防御的“铁定承诺”。",
+    "images": [
+      "7f1a451786c84548.svg",
+      "f1b3bab593692235.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/8051406767891189005",
+    "timestamp": "2026-07-03T15:14:23.472669+00:00",
+    "original_time": "2026-07-03T14:20:27+00:00"
+  },
+  {
+    "id": "tweet_AJENews_5389097762486743953",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Oil prices stable as US-Iran peace efforts hold despite tensionsLIVE updates:https://aje.news/hlij7x?update=4730337…",
+    "translated_text": "突发新闻：尽管局势紧张，但随着美伊和平努力的继续，油价保持稳定实时更新：https://aje.news/hlij7x?update=4730337…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "48b8e8d04faed285.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/5389097762486743953",
+    "timestamp": "2026-07-03T15:14:23.928151+00:00",
+    "original_time": "2026-07-03T12:30:26+00:00"
+  },
+  {
+    "id": "tweet_AJENews_3158535918840762017",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: The Israeli army says it again attacked Lebanon violating the ceasefireLIVE updates:https://aje.news/hlij7x?update=4730234…",
     "translated_text": "突发新闻：以色列军队称再次袭击黎巴嫩，违反了停火协议实时更新：https://aje.news/hlij7x?update=4730234…",
     "images": [
-      "7f1a451786c84548.svg"
+      "7f1a451786c84548.svg",
+      "cb9aeba0da4d1a03.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-3993254788669937370",
-    "timestamp": "2026-07-03T12:14:05.182735+00:00",
+    "url": "https://x.com/AJENews/status/3158535918840762017",
+    "timestamp": "2026-07-03T15:14:24.273163+00:00",
     "original_time": "2026-07-03T11:45:44+00:00"
   },
   {
-    "id": "tweet_AJENews_-4663734155694229027",
+    "id": "tweet_AJENews_-4758320012977213511",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Tropical Storm Maysak lashes China’s southern island province of Hainan, making landfall with strong winds and forcing the suspension of flights, rail services and ferries.More onhttp://Aljazeera.com",
@@ -297,139 +382,368 @@
       "7f1a451786c84548.svg",
       "91d2462585b7fee6.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-4663734155694229027",
-    "timestamp": "2026-07-03T12:14:05.730719+00:00",
+    "url": "https://x.com/AJENews/status/-4758320012977213511",
+    "timestamp": "2026-07-03T15:14:24.866437+00:00",
     "original_time": "2026-07-03T11:39:35+00:00"
   },
   {
-    "id": "tweet_AJENews_-4379030533909521558",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Poland’s PM Donald Tusk says Ukraine is looking for ways to ease tensions with Warsaw after the countries’ foreign ministers meet to discuss a dispute over World War II-era massacres.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：波兰总理唐纳德·图斯克表示，在两国外交部长开会讨论二战时期大屠杀的争端后，乌克兰正在寻找缓解与华沙紧张关系的方法。更多信息请访问http://Aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "5bb7bf007db50aa8.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4379030533909521558",
-    "timestamp": "2026-07-03T12:14:06.261422+00:00",
-    "original_time": "2026-07-03T11:14:08+00:00"
-  },
-  {
-    "id": "tweet_AJENews_6613342492731291288",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran military chief Hatami pledges to 'avenge the blood' of slain leader KhameneiLIVE updates:https://aje.news/hlij7x?update=4730144…",
-    "translated_text": "突发新闻：伊朗军事首长哈塔米承诺为被杀领导人哈梅内伊“报血仇”实时更新：https://aje.news/hlij7x?update=4730144…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "2d4fb70a0a603f97.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6613342492731291288",
-    "timestamp": "2026-07-03T12:14:07.091956+00:00",
-    "original_time": "2026-07-03T10:45:23+00:00"
-  },
-  {
-    "id": "tweet_AJENews_6174627473944917757",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "UPDATE: Israeli attacks leave 100,000 Lebanese children at risk of missing schoolLIVE updates:https://aje.news/hlij7x?update=4729961…",
-    "translated_text": "更新：以色列的袭击使 100,000 名黎巴嫩儿童面临错过学校实时更新的风险：https://aje.news/hlij7x?update=4729961...",
-    "images": [
-      "7f1a451786c84548.svg",
-      "b1de9aad449c1648.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6174627473944917757",
-    "timestamp": "2026-07-03T12:14:07.544315+00:00",
-    "original_time": "2026-07-03T10:30:20+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-8018457048165348426",
+    "id": "tweet_CBSNews_-5887169611753967646",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Shark attack alerts for cellphones authorized by new federal law.",
-    "translated_text": "新联邦法律授权针对手机发出鲨鱼袭击警报。",
-    "images": [
-      "34966e8c0d2d4806.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8018457048165348426",
-    "timestamp": "2026-07-03T12:14:54.316029+00:00",
-    "original_time": "2026-07-03T10:00:00+00:00"
+    "text": "The mayor of Venice says the city is seeking government approval to introduce a form of dynamic pricing to deal with tourism costs.",
+    "translated_text": "威尼斯市长表示，该市正在寻求政府批准引入一种动态定价形式来应对旅游成本。",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/-5887169611753967646",
+    "timestamp": "2026-07-03T15:15:04.792316+00:00",
+    "original_time": "2026-07-03T15:14:21+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8945861576133193482",
+    "id": "tweet_CBSNews_7286440271017682007",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "How Taylor Swift could transform Madison Square Garden into a perfect wedding venue, according to elite planners.",
-    "translated_text": "据精英策划者介绍，泰勒·斯威夫特如何将麦迪逊广场花园改造成完美的婚礼场地。",
+    "text": "A speeding bus plunged from a highway into a rocky ravine in Pakistan, killing 40 people and injuring eight others in one of the deadliest road accidents in recent years, officials said.",
+    "translated_text": "官员称，巴基斯坦一辆超速行驶的巴士从高速公路冲入岩石峡谷，造成 40 人死亡、8 人受伤，这是近年来最致命的交通事故之一。",
     "images": [
-      "92f6a3008f324c9a.jpg"
+      "2e8e05738757cd97.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8945861576133193482",
-    "timestamp": "2026-07-03T12:14:54.508697+00:00",
-    "original_time": "2026-07-03T09:05:00+00:00"
+    "url": "https://x.com/CBSNews/status/7286440271017682007",
+    "timestamp": "2026-07-03T15:15:05.303277+00:00",
+    "original_time": "2026-07-03T15:14:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_3442058150294411577",
+    "id": "tweet_CBSNews_-3258078780435052046",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "America 500? 3 futurists predict what the U.S. will be like in the centuries ahead.",
-    "translated_text": "美国500强？ 3 未来学家预测未来几个世纪的美国会是什么样子。",
+    "text": "Prince William will appear on the podcast hosted by Jason and Travis Kelce just hours before Travis Kelce and Taylor Swift's anticipated wedding.",
+    "translated_text": "就在特拉维斯·凯尔斯和泰勒·斯威夫特即将举行婚礼的几个小时前，威廉王子将出现在杰森·凯尔斯和特拉维斯·凯尔斯主持的播客中。",
+    "images": [
+      "4e6a7988441b5d1c.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-3258078780435052046",
+    "timestamp": "2026-07-03T15:15:05.529508+00:00",
+    "original_time": "2026-07-03T15:13:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_517669040697151640",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "U.S. antitrust regulators said Friday they are closely monitoring oil markets for potential price-fixing or market monopolization, and they urged state attorneys general to assist in investigating unlawful conduct.",
+    "translated_text": "美国反垄断监管机构周五表示，他们正在密切监视石油市场是否存在操纵价格或市场垄断的可能性，并敦促各州总检察长协助调查非法行为。",
+    "images": [
+      "6d502f924ee80211.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/517669040697151640",
+    "timestamp": "2026-07-03T15:15:06.727741+00:00",
+    "original_time": "2026-07-03T15:12:19+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_7834776782701148872",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Three futurists predict what the U.S. will look like in the centuries ahead.",
+    "translated_text": "三位未来学家预测了未来几个世纪美国的面貌。",
     "images": [
       "fcad589b1688a72c.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/3442058150294411577",
-    "timestamp": "2026-07-03T12:14:54.694117+00:00",
-    "original_time": "2026-07-03T08:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/7834776782701148872",
+    "timestamp": "2026-07-03T15:15:07.196460+00:00",
+    "original_time": "2026-07-03T15:08:10+00:00"
   },
   {
-    "id": "tweet_CBSNews_8212637834723669000",
+    "id": "tweet_CBSNews_-6117381258285871586",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S.",
-    "translated_text": "由于美国大部分地区急诊就诊人数增加，蜱虫季节预计将比正常情况更严重。",
+    "text": "Mayor Zohran Mamdani gave a speech sitting behind the George Washington desk at City Hall on Friday morning to mark America's 250th birthday.",
+    "translated_text": "周五上午，市长佐兰·马姆达尼 (Zohran Mamdani) 坐在市政厅乔治·华盛顿办公桌后面发表讲话，纪念美国 250 岁生日。",
     "images": [
-      "71e9d9cc5918a61d.jpg"
+      "8bdbde55960cdfd0.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/8212637834723669000",
-    "timestamp": "2026-07-03T12:14:55.145603+00:00",
-    "original_time": "2026-07-03T07:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/-6117381258285871586",
+    "timestamp": "2026-07-03T15:15:07.730747+00:00",
+    "original_time": "2026-07-03T15:05:10+00:00"
   },
   {
-    "id": "tweet_CBSNews_-5787192931193104070",
+    "id": "tweet_CBSNews_-3909395073893476377",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "This July 4th could be hottest ever in parts of U.S. Maps show the forecast expected to break records.",
-    "translated_text": "今年 7 月 4 日可能是美国部分地区有史以来最热的一天。地图显示，预计将打破记录。",
-    "images": [
-      "579d5fc12825d9bc.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-5787192931193104070",
-    "timestamp": "2026-07-03T12:14:55.341348+00:00",
-    "original_time": "2026-07-03T06:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_886253144891102863",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Spotify removes streams of No. 1 song after suspicious Kalshi bets.",
-    "translated_text": "Spotify 在可疑的 Kalshi 赌注后删除了排名第一的歌曲的流。",
-    "images": [
-      "74defb2c0281b318.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/886253144891102863",
-    "timestamp": "2026-07-03T12:14:55.525773+00:00",
-    "original_time": "2026-07-03T05:00:01+00:00"
-  },
-  {
-    "id": "tweet_KevinBohn_3293118487254020359",
-    "type": "tweet",
-    "username": "KevinBohn",
-    "text": ".@Freedom250,@SecretService,@NatlParkServiceannounce due to heat the Sat event site will open at 5p-not previous 1p.@POTUSstill speaks at 945p. “In light of current heat conditions” the agencies said they adjusted “event timing and expand cooling resources, water stations.”",
-    "translated_text": ".@Freedom250、@SecretService、@NatlParkService 宣布，由于天气炎热，周六活动现场将于下午 5 点开放，而不是之前的下午 1 点。@POTUSstill 的讲话时间为晚上 945 点。 “鉴于目前的高温状况”，这些机构表示，他们调整了“活动时间并扩大了冷却资源和水站”。",
+    "text": "\"This is an innovation presidency.\"\n\nIn an exclusive interview with CBS News on Thursday, Treasury Secretary Scott Bessent said he doesn't believe the recent disclosure of President Trump's billions in crypto earnings is problematic for the president.\n\n\"I don't think there's an",
+    "translated_text": "“这是一个创新的总统任期。”\n\n周四，美国财政部长斯科特·贝森特在接受哥伦比亚广播公司新闻独家采访时表示，他认为最近披露特朗普总统数十亿美元的加密货币收入对总统来说不会有问题。\n\n“我不认为有一个",
     "images": [],
-    "url": "https://x.com/KevinBohn/status/3293118487254020359",
-    "timestamp": "2026-07-03T12:15:28.646781+00:00",
-    "original_time": "2026-07-03T00:36:40+00:00"
+    "url": "https://x.com/CBSNews/status/-3909395073893476377",
+    "timestamp": "2026-07-03T15:15:10.342834+00:00",
+    "original_time": "2026-07-03T04:05:07+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-7144049637383479816",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "U.S. Attorney Jeanine Pirro said National Park Service employees claimed they saw Olympian David Hearn \"forcefully and violently pulling up and removing the bottom liner\" of the Reflecting Pool.\n\n“A parks employee actually told Hearn to stop, to stop his behavior and stop what he",
+    "translated_text": "美国检察官珍妮·皮罗 (Jeanine Pirro) 表示，国家公园管理局的员工声称，他们看到奥运选手大卫·赫恩 (David Hearn) “用力且猛烈地拉起并拆除了倒影池的底衬”。\n\n“一名公园工作人员实际上告诉赫恩停下来，停止他的行为，停止他所做的事情。",
+    "images": [
+      "0da3c14b17bc2515.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-7144049637383479816",
+    "timestamp": "2026-07-03T15:15:10.885563+00:00",
+    "original_time": "2026-07-03T03:51:30+00:00"
+  },
+  {
+    "id": "article_fe1618a9d660",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Game review — Unbeatable’s story mode could have been a movie, and maybe it should have",
+    "translated_title": "游戏评论——《Unbeatable》的故事模式本来可以拍成一部电影，也许它应该拍成电影",
+    "url": "https://www.dawn.com/news/2012462/game-review-unbeatables-story-mode-could-have-been-a-movie-and-maybe-it-should-have",
+    "timestamp": "2026-07-03T15:16:39.696576+00:00",
+    "original_time": "2026-07-03T10:30:08+05:00"
+  },
+  {
+    "id": "article_40ed21c87ad5",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "In the West Bank, Israeli settlers take over Palestinian's under-construction dream home",
+    "translated_title": "在约旦河西岸，以色列定居者接管了巴勒斯坦正在建设的梦想家园",
+    "url": "https://www.dawn.com/news/2012689/in-the-west-bank-israeli-settlers-take-over-palestinians-under-construction-dream-home",
+    "timestamp": "2026-07-03T15:16:45.605431+00:00",
+    "original_time": "2026-07-03T14:25:27+05:00"
+  },
+  {
+    "id": "article_1f33a46b7b4f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "El Niño to develop into strong event between July and September, UN warns",
+    "translated_title": "联合国警告，厄尔尼诺现象将在七月至九月期间发展为强烈事件",
+    "url": "https://www.dawn.com/news/2012656/el-nino-to-develop-into-strong-event-between-july-and-september-un-warns",
+    "timestamp": "2026-07-03T15:17:00.333954+00:00",
+    "original_time": "2026-07-03T10:06:03+05:00"
+  },
+  {
+    "id": "article_15a1420b4a50",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Maryam tells parents to ensure childrens' safety, avoid leaving them 'unattended'",
+    "translated_title": "玛丽亚姆告诉家长要确保孩子的安全，避免让他们“无人看管”",
+    "url": "https://www.dawn.com/news/2012678/maryam-tells-parents-to-ensure-childrens-safety-avoid-leaving-them-unattended",
+    "timestamp": "2026-07-03T15:17:35.100588+00:00",
+    "original_time": "2026-07-03T13:10:12+05:00"
+  },
+  {
+    "id": "article_a1b6e9d949dd",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2012186/pakistan-calls-for-release-repatriation-of-97-prisoners-who-have-completed-sentences-in-indian-jails",
+    "timestamp": "2026-07-03T15:17:54.912935+00:00",
+    "original_time": "2026-07-03T15:17:54.912904+00:00"
+  },
+  {
+    "id": "article_1768ca685905",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "India issues notice to Telegram, Signal on concerns over usernames, source says",
+    "translated_title": "消息人士称，印度就用户名问题向 Telegram、Signal 发出通知",
+    "url": "https://www.dawn.com/news/2012671/india-issues-notice-to-telegram-signal-on-concerns-over-usernames-source-says",
+    "timestamp": "2026-07-03T15:18:07.204360+00:00",
+    "original_time": "2026-07-03T12:09:25+05:00"
+  },
+  {
+    "id": "article_6e7bf4d363a7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz, CDF Munir pay respects to Iran's assassinated supreme leader Khamenei",
+    "translated_title": "谢赫巴兹总理和穆尼尔中卫向被暗杀的伊朗最高领袖哈梅内伊致敬",
+    "url": "https://www.dawn.com/news/2012668/pm-shehbaz-cdf-munir-pay-respects-to-irans-assassinated-supreme-leader-khamenei",
+    "timestamp": "2026-07-03T15:18:24.191982+00:00",
+    "original_time": "2026-07-03T12:53:18+05:00"
+  },
+  {
+    "id": "article_a9aa330c6a22",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Switzerland beat Algeria 2-0 to move into FIFA World Cup last 16",
+    "translated_title": "瑞士2-0战胜阿尔及利亚挺进世界杯16强",
+    "url": "https://www.dawn.com/news/2012662/switzerland-beat-algeria-2-0-to-move-into-fifa-world-cup-last-16",
+    "timestamp": "2026-07-03T15:18:27.892406+00:00",
+    "original_time": "2026-07-03T10:43:46+05:00"
+  },
+  {
+    "id": "article_3a0069fc2d3a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "US backs Pakistan’s right to self-defence after UN votes on global counterterrorism strategy",
+    "translated_title": "联合国就全球反恐战略进行投票后，美国支持巴基斯坦的自卫权",
+    "url": "https://www.dawn.com/news/2012657/us-backs-pakistans-right-to-self-defence-after-un-votes-on-global-counterterrorism-strategy",
+    "timestamp": "2026-07-03T15:18:48.950377+00:00",
+    "original_time": "2026-07-03T10:32:56+05:00"
+  },
+  {
+    "id": "article_d7a6db4193df",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "images.dawn.com",
+    "translated_title": "图片.dawn.com",
+    "url": "https://www.dawn.com/news/2012703/its-very-disturbing-tauseeq-haider-talks-about-how-ai-almost-convinced-everyone-he-was-married",
+    "timestamp": "2026-07-03T15:19:15.741188+00:00",
+    "original_time": "2026-07-03T15:19:15.741163+00:00"
+  },
+  {
+    "id": "article_ef54b4a3a1bf",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "1,000 days of genocide: A tally of devastation in Gaza",
+    "translated_title": "1,000 天的种族灭绝：加沙的破坏统计",
+    "url": "https://www.dawn.com/news/2012709/1000-days-of-genocide-a-tally-of-devastation-in-gaza",
+    "timestamp": "2026-07-03T15:19:23.840137+00:00",
+    "original_time": "2026-07-03T18:22:54+05:00"
+  },
+  {
+    "id": "article_f703b11273c0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "40 killed, 8 injured as passenger bus falls into ravine near Balochistan-KP border",
+    "translated_title": "俾路支省-KP边境附近客车坠入山沟 造成40人死亡、8人受伤",
+    "url": "https://www.dawn.com/news/2012664/40-killed-8-injured-as-passenger-bus-falls-into-ravine-near-balochistan-kp-border",
+    "timestamp": "2026-07-03T15:19:43.690715+00:00",
+    "original_time": "2026-07-03T10:57:12+05:00"
+  },
+  {
+    "id": "article_dfb609e44e1d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "2 cops martyred as police patrol comes under attack in KP's Mohmand",
+    "translated_title": "开普省莫赫曼德警察巡逻队遭到袭击，两名警察殉难",
+    "url": "https://www.dawn.com/news/2012651/2-cops-martyred-as-police-patrol-comes-under-attack-in-kps-mohmand",
+    "timestamp": "2026-07-03T15:19:57.300610+00:00",
+    "original_time": "2026-07-03T08:36:07+05:00"
+  },
+  {
+    "id": "article_651185363aca",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "India investigating Tata data leak that exposed Apple iPhone secrets",
+    "translated_title": "印度调查塔塔数据泄露事件，该数据泄露暴露了苹果 iPhone 的秘密",
+    "url": "https://www.dawn.com/news/2012695/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets",
+    "timestamp": "2026-07-03T15:20:02.771052+00:00",
+    "original_time": "2026-07-03T14:44:15+05:00"
+  },
+  {
+    "id": "article_ba2909d7a3a2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2012529/human-trafficking-bid-foiled-man-his-two-sons-arrested-in-lahore",
+    "timestamp": "2026-07-03T15:20:35.261662+00:00",
+    "original_time": "2026-07-03T15:20:35.261632+00:00"
+  },
+  {
+    "id": "article_0dfbf598f9aa",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2012713/ihc-suspends-national-highway-authority-notification-to-impose-50pc-additional-toll-on-vehicles-without-m-tag",
+    "timestamp": "2026-07-03T15:21:13.997313+00:00",
+    "original_time": "2026-07-03T15:21:13.997275+00:00"
+  },
+  {
+    "id": "article_4a78605371bc",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Lahore police get custody of 4 suspects arrested for alleged abduction, sexual assault of two foreign women",
+    "translated_title": "拉合尔警方拘留了 4 名涉嫌绑架、性侵犯两名外国妇女的嫌疑人",
+    "url": "https://www.dawn.com/news/2012674/lahore-police-get-custody-of-4-suspects-arrested-for-alleged-abduction-sexual-assault-of-two-foreign-women",
+    "timestamp": "2026-07-03T15:22:40.386788+00:00",
+    "original_time": "2026-07-03T12:45:48+05:00"
+  },
+  {
+    "id": "article_de01d1ff374f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM orders ban on production, use of substandard syringes to curb spread of infectious diseases",
+    "translated_title": "总理下令禁止生产、使用不合格注射器以遏制传染病传播",
+    "url": "https://www.dawn.com/news/2012694/pm-orders-ban-on-production-use-of-substandard-syringes-to-curb-spread-of-infectious-diseases",
+    "timestamp": "2026-07-03T15:22:58.820420+00:00",
+    "original_time": "2026-07-03T14:42:17+05:00"
+  },
+  {
+    "id": "article_68ca84e2e28a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2012095/lawmakers-question-vehicle-quality-oversight",
+    "timestamp": "2026-07-03T15:23:21.139069+00:00",
+    "original_time": "2026-07-03T15:23:21.139045+00:00"
+  },
+  {
+    "id": "article_44b16a501ba8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "India approves buying $5.46 billion in military equipment",
+    "translated_title": "印度批准购买54.6亿美元军事装备",
+    "url": "https://www.dawn.com/news/2012724/india-approves-buying-546-billion-in-military-equipment",
+    "timestamp": "2026-07-03T15:24:01.437459+00:00",
+    "original_time": "2026-07-03T19:37:24+05:00"
+  },
+  {
+    "id": "article_92e6010d97ec",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2011248/smuggled-diesel-hurting-local-refineries",
+    "timestamp": "2026-07-03T15:24:39.763107+00:00",
+    "original_time": "2026-07-03T15:24:39.763081+00:00"
+  },
+  {
+    "id": "article_94bd52bde160",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "FIA arrests five in Islamabad for alleged smuggling of human placenta: report",
+    "translated_title": "国际汽联在伊斯兰堡逮捕了五名涉嫌走私人类胎盘的人：报告",
+    "url": "https://www.dawn.com/news/2012727/fia-arrests-five-in-islamabad-for-alleged-smuggling-of-human-placenta-report",
+    "timestamp": "2026-07-03T15:25:06.113325+00:00",
+    "original_time": "2026-07-03T20:00:40+05:00"
+  },
+  {
+    "id": "article_351e90f3ee91",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "What are some of the key challenges Nato is facing ahead of the summit in Ankara?",
+    "translated_title": "北约在安卡拉峰会之前面临哪些主要挑战？",
+    "url": "https://www.dawn.com/news/2012684/what-are-some-of-the-key-challenges-nato-is-facing-ahead-of-the-summit-in-ankara",
+    "timestamp": "2026-07-03T15:25:17.848860+00:00",
+    "original_time": "2026-07-03T13:57:24+05:00"
+  },
+  {
+    "id": "article_b089a2d1871d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "The king without a crown: Mohamed Salah's quest for global recognition",
+    "translated_title": "无王冠的国王：穆罕默德·萨拉赫寻求全球认可",
+    "url": "https://www.dawn.com/news/2012705/the-king-without-a-crown-mohamed-salahs-quest-for-global-recognition",
+    "timestamp": "2026-07-03T15:25:24.902522+00:00",
+    "original_time": "2026-07-03T16:06:31+05:00"
+  },
+  {
+    "id": "article_f57adcf19838",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2012527/two-get-death-sentence-for-blasphemous-facebook-post-in-sahiwal",
+    "timestamp": "2026-07-03T15:25:47.393187+00:00",
+    "original_time": "2026-07-03T15:25:47.393162+00:00"
+  },
+  {
+    "id": "article_0bf3e71a3b0d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PTA says submarine cable fault resolved, internet services back to normal",
+    "translated_title": "PTA称海底电缆故障已解决，互联网服务恢复正常",
+    "url": "https://www.dawn.com/news/2012653/pta-says-submarine-cable-fault-resolved-internet-services-back-to-normal",
+    "timestamp": "2026-07-03T15:25:51.770046+00:00",
+    "original_time": "2026-07-03T09:03:13+05:00"
   }
 ]
