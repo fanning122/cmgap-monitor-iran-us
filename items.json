@@ -1,6 +1,27 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_4482476390974767103",
+    "id": "tweet_ForeignOfficePk_-2707277668145011224",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "PR No./Pakistan and Bulgaria Hold Bilateral Political Consultationshttps://mofa.gov.pk/press-releases/pakistan-and-bulgaria-hold-bilateral-political-consultations…",
+    "translated_text": "PR号/巴基斯坦和保加利亚举行双边政治磋商https://mofa.gov.pk/press-releases/pakistan-and-bulgaria-hold-bilingual-political-consultations…",
+    "images": [
+      "88f40ae084ace679.svg",
+      "49b80fa86f503c69.svg",
+      "42c644bbf48e04fc.svg",
+      "ea3e78272d881b94.svg",
+      "59563c1a40d3d73b.svg",
+      "6dd70089c15d9c8c.svg",
+      "6927007c5e94b687.svg",
+      "1d7695f51048fca1.svg",
+      "9e752dfc477bb18f.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-2707277668145011224",
+    "timestamp": "2026-07-07T16:30:15.264539+00:00",
+    "original_time": "2026-07-07T16:13:55+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-2385647820276234204",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50chaired a meeting to review Pakistan’s ongoing engagement with various multilateral initiatives.\n\nThe DPM/FM was briefed on the status of preparations for various upcoming high-level events. He",
@@ -11,39 +32,51 @@
       "4c1cb975b0b2f9bd.jpg",
       "9eee43e1094c9728.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/4482476390974767103",
-    "timestamp": "2026-07-07T13:20:35.566868+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-2385647820276234204",
+    "timestamp": "2026-07-07T16:30:15.554404+00:00",
     "original_time": "2026-07-07T05:50:49+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-280178474298650364",
+    "id": "tweet_PakPMO_6937231699771054665",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Pakistan extends its heartiest felicitations to the Government and People of the Solomon Islands. \n\nHappy Independence Day!@PakinAustralia",
-    "translated_text": "巴基斯坦向所罗门群岛政府和人民致以最诚挚的祝贺。 \n\n独立日快乐！@PakinAustralia",
+    "username": "PakPMO",
+    "text": "Islamabad: July 7, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif chaired the federal cabinet meeting in Islamabad today. \n\nThe federal cabinet approved the Hajj Policy and Plan for 2027-2030. The federal cabinet commended Federal Minister for Religious Affairs Sardar Muhammad",
+    "translated_text": "伊斯兰堡：2026 年 7 月 7 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫今天在伊斯兰堡主持联邦内阁会议。 \n\n联邦内阁批准了2027-2030年朝觐政策和计划。联邦内阁赞扬联邦宗教事务部长萨达尔·穆罕默德",
     "images": [
-      "dee669a0abb351a1.svg",
-      "473a714cee691346.svg",
-      "9de525922942584e.svg",
-      "edd00277d67b011d.jpg"
+      "d32654ebb3bb99da.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-280178474298650364",
-    "timestamp": "2026-07-07T13:20:35.858629+00:00",
-    "original_time": "2026-07-07T03:42:07+00:00"
+    "url": "https://x.com/PakPMO/status/6937231699771054665",
+    "timestamp": "2026-07-07T16:30:30.265936+00:00",
+    "original_time": "2026-07-07T13:13:56+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_1172088328476722388",
+    "id": "tweet_MIshaqDar50_0",
+    "type": "tweet",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
+    "images": [
+      "e0e2335e3d900070.jpg"
+    ],
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-07-07T16:30:30.321004+00:00",
+    "original_time": "2026-07-07T16:03:27+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5284268593107877557",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Meeting to Review Diplomatic Activities under the Chairmanship of Foreign Minister Ishaq Dar",
     "translated_text": "外交部长伊沙克·达尔主持的外交活动审查会议",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/1172088328476722388",
-    "timestamp": "2026-07-07T13:20:50.569793+00:00",
+    "images": [
+      "b6ac8f2daa46348c.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5284268593107877557",
+    "timestamp": "2026-07-07T16:30:30.538564+00:00",
     "original_time": "2026-07-07T06:55:00+00:00"
   },
   {
-    "id": "tweet_PakPMO_-7318781657048629880",
+    "id": "tweet_PakPMO_-1169028561026993341",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif chairs a meeting of the Federal Cabinet. Islamabad, 7 July 2026.",
@@ -53,12 +86,12 @@
       "01b964d36fcf2911.jpg",
       "81d4c826b722f4d5.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-7318781657048629880",
-    "timestamp": "2026-07-07T13:21:18.983023+00:00",
+    "url": "https://x.com/PakPMO/status/-1169028561026993341",
+    "timestamp": "2026-07-07T16:30:56.175170+00:00",
     "original_time": "2026-07-07T13:16:09+00:00"
   },
   {
-    "id": "tweet_PakPMO_-6125181509413369955",
+    "id": "tweet_PakPMO_-8073063001419440501",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif addresses Federal Cabinet Meeting. Islamabad, 7 July 2026.",
@@ -66,38 +99,25 @@
     "images": [
       "16e6689c7aea40b7.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-6125181509413369955",
-    "timestamp": "2026-07-07T13:21:19.408847+00:00",
+    "url": "https://x.com/PakPMO/status/-8073063001419440501",
+    "timestamp": "2026-07-07T16:30:56.329941+00:00",
     "original_time": "2026-07-07T13:15:37+00:00"
   },
   {
-    "id": "tweet_PakPMO_8321786024433893098",
-    "type": "tweet",
-    "username": "PakPMO",
-    "text": "Islamabad: July 7, 2026.\n\nPrime Minister Muhammad Shehbaz Sharif chaired the federal cabinet meeting in Islamabad today. \n\nThe federal cabinet approved the Hajj Policy and Plan for 2027-2030. The federal cabinet commended Federal Minister for Religious Affairs Sardar Muhammad",
-    "translated_text": "伊斯兰堡：2026 年 7 月 7 日。\n\n总理穆罕默德·谢赫巴兹·谢里夫今天在伊斯兰堡主持联邦内阁会议。 \n\n联邦内阁批准了2027-2030年朝觐政策和计划。联邦内阁赞扬联邦宗教事务部长萨达尔·穆罕默德",
-    "images": [
-      "d32654ebb3bb99da.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/8321786024433893098",
-    "timestamp": "2026-07-07T13:21:20.023632+00:00",
-    "original_time": "2026-07-07T13:13:56+00:00"
-  },
-  {
-    "id": "tweet_PakPMO_-6079360486131509471",
+    "id": "tweet_PakPMO_5478264838222818398",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif chaired the meeting of the Federal Cabinet held in Islamabad. In his address, the Prime Minister took the Federal Cabinet into confidence regarding his visit to Turkey and expressed the hope that relations and brotherhood between Pakistan",
-    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫主持在伊斯兰堡举行的联邦内阁会议。总理在讲话中就其访问土耳其向联邦内阁表示信任，并表示希望巴基斯坦之间的关系和兄弟情谊",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫主持在伊斯兰堡举行的联邦内阁会议。总理在讲话中就他访问土耳其向联邦内阁表示信任，并表示希望巴基斯坦之间的关系和兄弟情谊",
     "images": [
       "f6f297580837ebec.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-6079360486131509471",
-    "timestamp": "2026-07-07T13:21:20.854078+00:00",
+    "url": "https://x.com/PakPMO/status/5478264838222818398",
+    "timestamp": "2026-07-07T16:30:59.138047+00:00",
     "original_time": "2026-07-07T12:47:47+00:00"
   },
   {
-    "id": "tweet_PakPMO_5396932910210002331",
+    "id": "tweet_PakPMO_4336135928888503677",
     "type": "tweet",
     "username": "PakPMO",
     "text": "A delegation of Polio Oversight Board calls on Prime Minister Muhammad Shehbaz Sharif. Islamabad, 7 July 2026.",
@@ -108,176 +128,157 @@
       "f7aafc9c52748e2b.jpg",
       "af1bb06a80cd9cb8.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/5396932910210002331",
-    "timestamp": "2026-07-07T13:21:21.120060+00:00",
+    "url": "https://x.com/PakPMO/status/4336135928888503677",
+    "timestamp": "2026-07-07T16:30:59.447755+00:00",
     "original_time": "2026-07-07T09:38:43+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6326663307567801902",
+    "id": "tweet_PakTVGlobal_-3226174911518933690",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "#BREAKINGSpeaking to journalists alongside President Erdoğan in Ankara, US President Donald Trump says the United States needed no one's help against Iran, voices disappointment with NATO allies and praises Türkiye as a militarily powerful nation.#Trump#Erdogan",
-    "translated_text": "#BREAKING美国总统唐纳德·特朗普在安卡拉与埃尔多安总统一起对记者发表讲话，表示美国不需要任何人帮助对抗伊朗，对北约盟友表示失望，并赞扬土耳其是一个军事强大的国家。#特朗普#埃尔多安",
-    "images": [
-      "2c769faebe8a82f3.jpg",
-      "7537b5222504878a.jpg",
-      "cc4c301ac50c1c1e.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6326663307567801902",
-    "timestamp": "2026-07-07T13:21:56.334618+00:00",
-    "original_time": "2026-07-07T13:16:40+00:00"
+    "text": "The Indus Waters Treaty is about far more than rivers, it's about Pakistan's food, energy and economic security. With over 90% of the country's agriculture dependent on a predictable water supply, experts warn that the greatest risk may not be the quantity of water but the timing",
+    "translated_text": "《印度河水域条约》不仅仅涉及河流，还涉及巴基斯坦的粮食、能源和经济安全。由于该国 90% 以上的农业依赖于可预测的供水，专家警告说，最大的风险可能不是水量，而是时机",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-3226174911518933690",
+    "timestamp": "2026-07-07T16:31:33.328766+00:00",
+    "original_time": "2026-07-07T16:05:25+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-346630507953678421",
+    "id": "tweet_PakTVGlobal_-2349116970507906605",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "#BREAKINGSitting alongside Turkish President Recep Tayyip Erdogan in Ankara, US President Donald Trump praises him as a “great friend,” saying the two share good chemistry and a special relationship, as both leaders prepare to discuss trade, defence ties, Iran and wider global",
-    "translated_text": "#BREAKING美国总统唐纳德·特朗普在安卡拉与土耳其总统雷杰普·塔伊普·埃尔多安坐在一起，称赞他是“伟大的朋友”，称两人有着良好的化学反应和特殊的关系，因为两位领导人都准备讨论贸易、防务关系、伊朗和更广泛的全球问题",
+    "text": "From Karachi to Gwadar, Pakistan is charting a new course for its maritime future through the revitalisation of the Pakistan National Shipping Corporation (PNSC). With plans to expand its fleet, strengthen local shipbuilding and significantly boost revenue, the initiative aims to",
+    "translated_text": "从卡拉奇到瓜达尔，巴基斯坦正在通过振兴巴基斯坦国家航运公司（PNSC）为其海上未来规划新的路线。该计划计划扩大船队、加强当地造船业并大幅增加收入，旨在",
     "images": [
-      "757af8227c0cf934.jpg",
-      "c1c19df817f7751f.jpg",
-      "2e1c8b851d183a4c.jpg"
+      "fd49d8331b58d7d3.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-346630507953678421",
-    "timestamp": "2026-07-07T13:21:57.036505+00:00",
-    "original_time": "2026-07-07T12:51:55+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-2349116970507906605",
+    "timestamp": "2026-07-07T16:31:34.000209+00:00",
+    "original_time": "2026-07-07T15:54:47+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_351590823391281907",
+    "id": "tweet_PakTVGlobal_-6596137082869558003",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "#BREAKINGUS President Donald Trump meets Turkish President Recep Tayyip Erdoğan in Ankara to discuss key bilateral and global issues during his visit to Türkiye for the NATO Summit#Trump#Erdogan#NATOSummit#Turkiye#PakistanTV",
-    "translated_text": "#BREAKINGUS 总统唐纳德·特朗普在安卡拉会见土耳其总统雷杰普·塔伊普·埃尔多安，在访问土耳其参加北约峰会期间讨论关键的双边和全球问题#Trump#Erdogan#NATOSummit#Turkiye#PakistanTV",
+    "text": "\"JAAC Exposed: Poisoning the Kashmir Cause\"\n\nPakistan TV's documentary uncovers how a movement that began with public grievances has evolved into an anti-state force, examining it's violent protests, foreign influence and efforts to destabilise Azad Kashmir. Featuring insights",
+    "translated_text": "《JAAC 曝光：毒害克什米尔事业》\n\n巴基斯坦电视台的纪录片揭示了这场始于公众不满的运动如何演变成反国家力量，审视了该运动的暴力抗议、外国影响以及破坏自由克什米尔稳定的努力。具有洞察力",
     "images": [
-      "09de0db5df97e5bc.png",
-      "12e75b3483f6780e.jpg"
+      "c241f8d1ac72ea6e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/351590823391281907",
-    "timestamp": "2026-07-07T13:21:58.329568+00:00",
-    "original_time": "2026-07-07T12:46:38+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-6596137082869558003",
+    "timestamp": "2026-07-07T16:31:34.921721+00:00",
+    "original_time": "2026-07-07T15:44:50+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6555728207800139936",
+    "id": "tweet_PakTVGlobal_4903188289630879870",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "#BREAKINGTurkish President Recep Tayyip Erdoğan welcomes US President Donald Trump in Ankara, where the US President received a guard of honour upon his arrival, for the NATO Summit.#NATOSummit#Trump#Erdogan#Ankara#PakistanTV",
-    "translated_text": "#突发土耳其总统雷杰普·塔伊普·埃尔多安在安卡拉欢迎美国总统唐纳德·特朗普，美国总统抵达后受到仪仗队参加北约峰会。#NATOSummit#Trump#Erdogan#Ankara#PakistanTV",
+    "text": "In India's Gujarat state, under Prime Minister Narendra Modi's government, farmers have intensified their protest against the Adani-backed power transmission project, continuing a hunger strike over the installation of transmission towers on agricultural land. Indian opposition",
+    "translated_text": "在印度总理纳伦德拉·莫迪领导下的古吉拉特邦，农民们加大了对阿达尼支持的输电项目的抗议力度，继续绝食抗议在农田上安装输电塔。印度反对派",
     "images": [
-      "7b75c0b706ed6590.jpg"
+      "704b1b3f82202f5a.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6555728207800139936",
-    "timestamp": "2026-07-07T13:21:59.322253+00:00",
-    "original_time": "2026-07-07T12:35:49+00:00"
+    "url": "https://x.com/PakTVGlobal/status/4903188289630879870",
+    "timestamp": "2026-07-07T16:31:36.183925+00:00",
+    "original_time": "2026-07-07T14:53:41+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4256176023545320982",
+    "id": "tweet_PakTVGlobal_-2698269024489910296",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Under Taliban rule, Afghanistan has become not only a global hub for terrorism but also, an emerging centre for high-tech drug smuggling. Uzbek security forces say they foiled a drone-based attempt to smuggle more than 2 kilograms of opium from Afghan territory, prompting a",
+    "translated_text": "在塔利班统治下，阿富汗不仅成为全球恐怖主义中心，而且成为新兴的高科技毒品走私中心。乌兹别克斯坦安全部队表示，他们挫败了一次利用无人机从阿富汗领土走私超过 2 公斤鸦片的企图，这促使",
+    "images": [
+      "852f1a61c98bea32.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-2698269024489910296",
+    "timestamp": "2026-07-07T16:31:36.983472+00:00",
+    "original_time": "2026-07-07T14:50:00+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-8080789979403358355",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Pakistan Armed Forces solemnly commemorate the martyrdom anniversary of Havildar Lalak Jan Shaheed, Nishan-e-Haider, paying profound tribute to his extraordinary courage, unwavering devotion, and supreme sacrifice in defence of the motherland during the Kargil War.",
     "translated_text": "巴基斯坦武装部队隆重纪念哈维尔达尔·拉拉克·扬·沙希德·尼尚·海德尔殉难周年，对他在卡吉尔战争中为保卫祖国所表现出的非凡勇气、坚定不移的奉献精神和最高牺牲表示深切敬意。",
-    "images": [
-      "fc853514e62a6032.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-4256176023545320982",
-    "timestamp": "2026-07-07T13:22:00.568639+00:00",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-8080789979403358355",
+    "timestamp": "2026-07-07T16:31:39.611872+00:00",
     "original_time": "2026-07-07T11:58:49+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4291236195587349494",
+    "id": "tweet_PakTVGlobal_-9163656507692131777",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Pakistan and Kyrgyzstan have reaffirmed their commitment to expanding bilateral cooperation across trade, energy, transport, IT, health, tourism, agriculture and security. In a joint statement, Presidents Asif Ali Zardari and President Sadyr Zhaparov also pledged closer",
-    "translated_text": "巴基斯坦和吉尔吉斯斯坦重申致力于扩大贸易、能源、运输、信息技术、卫生、旅游、农业和安全等领域的双边合作。在一份联合声明中，阿西夫·阿里·扎尔达里总统和萨德尔·扎帕罗夫总统还承诺更紧密地合作",
+    "text": "Prime Minister Shehbaz Sharif said his visit to Türkiye was highly fruitful, adding that he had a productive meeting with Turkish President Recep Tayyip Erdoğan. He said Turkish investors expressed strong willingness to invest in Pakistan.@CMShehbaz#PakistanTürkiyeRelations",
+    "translated_text": "谢赫巴兹·谢里夫总理表示，他对土耳其的访问非常富有成果，并补充说，他与土耳其总统雷杰普·塔伊普·埃尔多安进行了富有成果的会晤。他说，土耳其投资者表达了在巴基斯坦投资的强烈意愿。@CMShehbaz#PakistanTürkiyeRelations",
     "images": [
-      "6652b61b28d2b1d4.jpg"
+      "cf9795779003ca92.jpg",
+      "04ab6c319c31668e.jpg",
+      "d4f3102dfc53ce9f.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-4291236195587349494",
-    "timestamp": "2026-07-07T13:22:03.075246+00:00",
-    "original_time": "2026-07-07T09:59:52+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-9163656507692131777",
+    "timestamp": "2026-07-07T16:31:40.768337+00:00",
+    "original_time": "2026-07-07T11:46:42+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6456102448913602847",
+    "id": "tweet_PakTVGlobal_3247128804313243809",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Turkish Foreign Minister Hakan Fidan says the NATO summit will help shape the alliance's future, stressing that its decisions will not only address current challenges but also define the Euro-Atlantic security landscape for years ahead.#NATO#HakanFidan#Türkiye#EuroAtlantic",
-    "translated_text": "土耳其外交部长哈坎·菲丹表示，北约峰会将有助于塑造该联盟的未来，并强调其决定不仅将解决当前的挑战，还将定义未来几年的欧洲-大西洋安全格局。#NATO#HakanFidan#Türkiye#EuroAtlantic",
+    "text": "#BREAKINGPM Sharif, while addressing the cabinet meeting, said 15 terrorists were eliminated in Balochistan, adding that Pakistan's security forces are determined to eliminate terr0rism.@CMShehbaz#Pakistan#PMShehbazSharif#Balochistan#CounterTerrorism#PakistanTV",
+    "translated_text": "#BREAKINGPM 谢里夫在内阁会议上发表讲话时表示，俾路支省已消灭 15 名恐怖分子，并补充说巴基斯坦安全部队决心消除恐怖主义。@CMShehbaz#Pakistan#PMShehbazSharif#Balochistan#CounterTerrorism#PakistanTV",
     "images": [
-      "09de0db5df97e5bc.png",
-      "2be3fc263eeb310a.jpg"
+      "6f0d9277234ac89c.jpg",
+      "93ee711abcd8d9c2.jpg",
+      "215bae6e4bcd2639.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6456102448913602847",
-    "timestamp": "2026-07-07T13:22:04.001070+00:00",
-    "original_time": "2026-07-07T09:58:35+00:00"
+    "url": "https://x.com/PakTVGlobal/status/3247128804313243809",
+    "timestamp": "2026-07-07T16:31:41.668835+00:00",
+    "original_time": "2026-07-07T11:46:04+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3374151973927837518",
+    "id": "tweet_PakTVGlobal_-548481377142506014",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "The Pakistan Cricket Board has announced a 17-member Pakistan Women’s U19 squad for the upcoming five-match T20 series against South Africa, scheduled to be played at the National Bank Stadium in Karachi from July 14 to 24.#PakistanWomen#U19Cricket#PCB#SouthAfricaWomen",
-    "translated_text": "巴基斯坦板球委员会宣布了由 17 名成员组成的巴基斯坦女子 U19 阵容，参加即将到来的对阵南非的五场 T20 系列赛，比赛定于 7 月 14 日至 24 日在卡拉奇国家银行体育场举行。#PakistanWomen#U19Cricket#PCB#SouthAfricaWomen",
+    "text": "#BREAKINGPresident Trump arrives in Ankara for two-day NATO Summit#Trump#NATOSummit#Ankara#USPolitics#PakistanTV",
+    "translated_text": "#BREAKING特朗普总统抵达安卡拉参加为期两天的北约峰会#Trump#NATOSummit#Ankara#USPolitics#PakistanTV",
     "images": [
-      "18d0d32d993b9222.jpg"
+      "a0c507fbd6f7819d.jpg",
+      "1d7e9ced4ff41b21.jpg",
+      "e1d24a2b0967bbc6.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3374151973927837518",
-    "timestamp": "2026-07-07T13:22:04.737794+00:00",
-    "original_time": "2026-07-07T09:48:47+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-548481377142506014",
+    "timestamp": "2026-07-07T16:31:42.091627+00:00",
+    "original_time": "2026-07-07T11:23:18+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5622847912310074432",
+    "id": "tweet_PakTVGlobal_6633967277381038258",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "At least 18 people, including four police officers, were injured after two improvised explosive devices detonated in central Damascus during French President Emmanuel Macron’s visit. Syrian authorities said one device was hidden inside a parked car, while the other was concealed",
-    "translated_text": "法国总统马克龙访问大马士革期间，两枚简易爆炸装置在大马士革市中心引爆，造成至少 18 人受伤，其中包括 4 名警察。叙利亚当局表示，一个装置隐藏在一辆停放的汽车内，而另一个装置则被隐藏",
+    "text": "An Indian court has directed the government to unblock the X account of the Cockroach Party, ruling in favor of restoring access to the political group's social media presence. The decision comes amid ongoing debates over online speech and digital platform restrictions.#India",
+    "translated_text": "印度一家法院指示政府解封蟑螂党的 X 帐户，并裁定恢复该政治组织在社交媒体上的访问权限。这一决定是在关于在线言论和数字平台限制的持续争论中作出的。#India",
     "images": [
-      "07b556ec2a0ac796.jpg"
+      "36427a36180e61da.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-5622847912310074432",
-    "timestamp": "2026-07-07T13:22:05.504689+00:00",
-    "original_time": "2026-07-07T09:35:22+00:00"
+    "url": "https://x.com/PakTVGlobal/status/6633967277381038258",
+    "timestamp": "2026-07-07T16:31:43.572050+00:00",
+    "original_time": "2026-07-07T11:15:24+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8286465660149954624",
+    "id": "tweet_PakTVGlobal_962055925354210836",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Prime Minister Shehbaz Sharif has strongly condemned the terrorist attack on a police checkpoint in Ziarat, paying tribute to the martyred police personnel and vowing to continue the fight against terrorists until the threat is eliminated.@CMShehbaz#ZiaratAttack#Pakistan",
-    "translated_text": "谢赫巴兹·谢里夫总理强烈谴责针对齐亚拉特警察检查站的恐怖袭击事件，向殉难的警察人员致敬，并誓言将继续打击恐怖分子，直至消除威胁。@CMShehbaz#ZiaratAttack#Pakistan",
+    "text": "Pakistan’s maritime sector holds significant potential to boost economic growth and create employment through the development of the blue economy. Our correspondent Annum Abbasi explores how this emerging sector can help reshape the country’s maritime future.#BlueEconomy",
+    "translated_text": "巴基斯坦海事部门拥有通过发展蓝色经济促进经济增长和创造就业的巨大潜力。我们的记者安纳姆·阿巴西 (Annum Abbasi) 探讨了这一新兴行业如何帮助重塑该国的海洋未来。#BlueEconomy",
     "images": [
-      "8b16bf1cd50d96a9.jpg"
+      "900e846adbf0a681.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8286465660149954624",
-    "timestamp": "2026-07-07T13:22:08.079968+00:00",
-    "original_time": "2026-07-07T07:56:41+00:00"
+    "url": "https://x.com/PakTVGlobal/status/962055925354210836",
+    "timestamp": "2026-07-07T16:31:44.451723+00:00",
+    "original_time": "2026-07-07T11:03:14+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-8246993613096522135",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Defending champion Tadej Pogačar delivered a dominant performance to win the third stage of the Tour de France.\nThe Slovenian rider secured the leader’s jersey after completing the mountainous 195.9-kilometre route in impressive fashion.#TourDeFrance#TadejPogacar#Cycling",
-    "translated_text": "卫冕冠军塔德吉·波加查尔以统治性的表现赢得了环法自行车赛第三赛段的冠军。\n这位斯洛文尼亚车手以令人印象深刻的方式完成了 195.9 公里的山区路线后，获得了领跑者的球衣。#TourDeFrance#TadejPogacar#Cycling",
-    "images": [
-      "1431da856c6e2a38.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-8246993613096522135",
-    "timestamp": "2026-07-07T13:22:09.138311+00:00",
-    "original_time": "2026-07-07T07:51:19+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-1591346381388549134",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Information Minister Attaullah Tarar says India has gained nothing but embarrassment by suspending the Indus Waters Treaty, reaffirming that Pakistan’s water rights are inalienable and India's unilateral move has neither legal nor moral justification.@TararAttaullah",
-    "translated_text": "信息部长阿塔拉·塔拉尔表示，印度暂停《印度河水域条约》只会让印度感到尴尬，并重申巴基斯坦的水权不可剥夺，印度的单方面举动既没有法律依据，也没有道德依据。@TararAttaullah",
-    "images": [
-      "4cfed962e817bc57.jpg",
-      "2fc80c34f211e137.jpg",
-      "79a12d81098774b7.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-1591346381388549134",
-    "timestamp": "2026-07-07T13:22:12.248194+00:00",
-    "original_time": "2026-07-07T06:32:37+00:00"
-  },
-  {
-    "id": "tweet_araghchi_-7753111029150338760",
+    "id": "tweet_araghchi_6195803836442310419",
     "type": "tweet",
     "username": "araghchi",
     "text": "Millions of proud Iranians rallied in unity to honor Grand Ayatollah Khamenei and his legacy. Neither them nor our Brave Armed Forces are moved by any threats.\n\nPara 13 of the MoU is clear: Negotiations on final Deal will not commence if threats continue Honor your signature.",
@@ -286,336 +287,357 @@
       "21757b6911cf310a.jpg",
       "b1bc73698e5bed7c.jpg"
     ],
-    "url": "https://x.com/araghchi/status/-7753111029150338760",
-    "timestamp": "2026-07-07T13:23:36.835478+00:00",
+    "url": "https://x.com/araghchi/status/6195803836442310419",
+    "timestamp": "2026-07-07T16:32:32.522077+00:00",
     "original_time": "2026-07-07T04:58:49+00:00"
   },
   {
-    "id": "tweet_AJENews_3334594476106317714",
+    "id": "tweet_AJENews_-4317879770844886492",
     "type": "tweet",
     "username": "AJENews",
     "text": "LIVE: US and Turkish presidents hold press conference after Trump landed in Ankara to attend NATO summit",
     "translated_text": "直播：特朗普抵达安卡拉参加北约峰会后，美国和土耳其总统举行新闻发布会",
     "images": [
-      "3e9cb4f4ca0bcf6f.jpg",
       "9b20f961c2ada6de.svg"
     ],
-    "url": "https://x.com/AJENews/status/3334594476106317714",
-    "timestamp": "2026-07-07T13:24:21.030641+00:00",
+    "url": "https://x.com/AJENews/status/-4317879770844886492",
+    "timestamp": "2026-07-07T16:33:15.857840+00:00",
     "original_time": "2026-07-07T12:49:41+00:00"
   },
   {
-    "id": "tweet_AJENews_-8192386800564023954",
+    "id": "tweet_AJENews_490743263388804302",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump in Ankara says 'very disappointed' with NATO over IranLIVE updates:https://aje.news/cq42fh?update=4744905…",
-    "translated_text": "突发新闻：特朗普在安卡拉对北约就伊朗问题表示“非常失望”实时更新：https://aje.news/cq42fh?update=4744905…",
+    "text": "BREAKING: Danish PM expects allies to respect Danish sovereignty, says Greenland is not for saleLIVE updates:https://aje.news/d88zq0?update=4745434…",
+    "translated_text": "突发新闻：丹麦总理希望盟友尊重丹麦主权，称格陵兰岛不出售实时更新：https://aje.news/d88zq0?update=4745434…",
     "images": [
       "7f1a451786c84548.svg",
-      "2ede44ae20d3da72.jpg"
+      "a48c44e809d26c71.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-8192386800564023954",
-    "timestamp": "2026-07-07T13:24:21.592078+00:00",
-    "original_time": "2026-07-07T13:13:34+00:00"
+    "url": "https://x.com/AJENews/status/490743263388804302",
+    "timestamp": "2026-07-07T16:33:16.339904+00:00",
+    "original_time": "2026-07-07T16:30:23+00:00"
   },
   {
-    "id": "tweet_AJENews_8828509484181334187",
+    "id": "tweet_AJENews_-4744636778729083120",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: Trump calls Turkiye a 'great' US allyLIVE updates:https://aje.news/d88zq0?update=4744899…",
-    "translated_text": "更新：特朗普称土耳其为“伟大的”美国盟友实时更新：https://aje.news/d88zq0?update=4744899…",
+    "text": "UPDATE: Israel approved plans for 40,064 new illegal settlement housing units over the past three years, a report saysLIVE updates:https://aje.news/cq42fh?update=4745174…",
+    "translated_text": "更新：一份报告称，以色列在过去三年批准了新建 40,064 个非法定居点住房的计划 实时更新：https://aje.news/cq42fh?update=4745174...",
     "images": [
       "7f1a451786c84548.svg",
-      "8b4210c5a0f71b2f.jpg"
+      "bf9211aa3982fbf9.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8828509484181334187",
-    "timestamp": "2026-07-07T13:24:22.202374+00:00",
-    "original_time": "2026-07-07T13:13:19+00:00"
+    "url": "https://x.com/AJENews/status/-4744636778729083120",
+    "timestamp": "2026-07-07T16:33:17.071948+00:00",
+    "original_time": "2026-07-07T16:00:34+00:00"
   },
   {
-    "id": "tweet_AJENews_-713225421804137349",
+    "id": "tweet_AJENews_-2204013876446532345",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: Trump criticises NATO over war on IranLIVE updates:https://aje.news/d88zq0?update=4744793…",
-    "translated_text": "更新：特朗普批评北约对伊朗发动战争实时更新：https://aje.news/d88zq0?update=4744793…",
+    "text": "BREAKING: South Korea's President Lee says eyeing cooperation with NATO in arms R&D, productionLIVE updates:https://aje.news/d88zq0?update=4745111…",
+    "translated_text": "突发新闻：韩国总统李明博表示考虑与北约在武器研发、生产方面进行合作实时更新：https://aje.news/d88zq0?update=4745111…",
     "images": [
       "7f1a451786c84548.svg",
-      "9cfc57e1293678cc.jpg"
+      "0500b84f3326c6fe.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-713225421804137349",
-    "timestamp": "2026-07-07T13:24:23.625111+00:00",
-    "original_time": "2026-07-07T13:04:54+00:00"
+    "url": "https://x.com/AJENews/status/-2204013876446532345",
+    "timestamp": "2026-07-07T16:33:17.415769+00:00",
+    "original_time": "2026-07-07T15:46:00+00:00"
   },
   {
-    "id": "tweet_AJENews_8304826624282709695",
+    "id": "tweet_AJENews_-3142740203218330480",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Erdogan says he hopes for 'favourable' F-35 decision from USLIVE updates:https://aje.news/d88zq0?update=4744849…",
-    "translated_text": "突发新闻：埃尔多安表示，他希望 USLIVE 更新能够做出“有利”的 F-35 决定：https://aje.news/d88zq0?update=4744849…",
+    "text": "BREAKING: Norway to give $306.20 million to Ukraine's air defenceLIVE updates:https://aje.news/d88zq0?update=4745333…",
+    "translated_text": "突发新闻：挪威将向乌克兰防空部队提供 3.062 亿美元实时更新：https://aje.news/d88zq0?update=4745333…",
     "images": [
       "7f1a451786c84548.svg",
-      "e19a75968065fea2.jpg"
+      "c67b83724ffb0cc1.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8304826624282709695",
-    "timestamp": "2026-07-07T13:24:24.410703+00:00",
-    "original_time": "2026-07-07T13:02:07+00:00"
+    "url": "https://x.com/AJENews/status/-3142740203218330480",
+    "timestamp": "2026-07-07T16:33:17.926488+00:00",
+    "original_time": "2026-07-07T15:45:44+00:00"
   },
   {
-    "id": "tweet_AJENews_5595174467996498359",
+    "id": "tweet_AJENews_711182005224238183",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: NATO chief calls for ‘transatlantic defence industrial revolution’LIVE updates:https://aje.news/d88zq0?update=4744291…",
-    "translated_text": "更新：北约主席呼吁“跨大西洋国防工业革命”实时更新：https://aje.news/d88zq0?update=4744291…",
+    "text": "NATO Secretary General Mark Rutte warned Russia is pouring nearly half its national budget into its war effort, while China, North Korea and Iran continue to pose growing security challenges. \n\nHe urged allies to move \"faster, together\" to strengthen their military readiness.",
+    "translated_text": "北约秘书长马克·吕特警告说，俄罗斯正在将近一半的国家预算投入战争，而中国、朝鲜和伊朗继续构成日益严峻的安全挑战。 \n\n他敦促盟国“更快、共同”采取行动，加强军事准备。",
+    "images": [
+      "d07bffd3312a6c16.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/711182005224238183",
+    "timestamp": "2026-07-07T16:33:21.329444+00:00",
+    "original_time": "2026-07-07T12:56:43+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-758713135707414955",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Erdogan says Turkiye working to bring Iran-US to common groundLIVE updates:https://aje.news/d88zq0?update=4744815…",
+    "translated_text": "突发新闻：埃尔多安表示土耳其正在努力使伊朗与美国达成共识实时更新：https://aje.news/d88zq0?update=4744815…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/5595174467996498359",
-    "timestamp": "2026-07-07T13:24:26.685432+00:00",
-    "original_time": "2026-07-07T10:22:10+00:00"
+    "url": "https://x.com/AJENews/status/-758713135707414955",
+    "timestamp": "2026-07-07T16:33:22.508887+00:00",
+    "original_time": "2026-07-07T12:55:54+00:00"
   },
   {
-    "id": "tweet_AJENews_-8620129777588151224",
+    "id": "tweet_AJENews_4434834120852749386",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: NATO chief says $37bn invested in one year to boost  defenceLIVE updates:https://aje.news/d88zq0?update=4744262…",
-    "translated_text": "突发新闻：北约主席表示一年内投资 370 亿美元以加强国防实时更新：https://aje.news/d88zq0?update=4744262…",
+    "text": "UPDATE: Trump says to discuss trade and military issues with Erdogan on sidelines of NATO summitLIVE updates:https://aje.news/d88zq0?update=4744804…",
+    "translated_text": "更新：特朗普表示将在北约峰会间隙与埃尔多安讨论贸易和军事问题实时更新：https://aje.news/d88zq0?update=4744804…",
     "images": [
       "7f1a451786c84548.svg",
-      "cdfd346ba8908769.jpg"
+      "c8b039e58ba87e18.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-8620129777588151224",
-    "timestamp": "2026-07-07T13:24:26.877371+00:00",
-    "original_time": "2026-07-07T10:16:49+00:00"
+    "url": "https://x.com/AJENews/status/4434834120852749386",
+    "timestamp": "2026-07-07T16:33:23.936243+00:00",
+    "original_time": "2026-07-07T12:53:04+00:00"
   },
   {
-    "id": "tweet_AJENews_706958751577473274",
+    "id": "tweet_AJENews_-6560749834614726092",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Israeli drone strike kills one person in Al-MawasiLIVE updates:https://aje.news/cq42fh?update=4744201…",
-    "translated_text": "突发事件：以色列无人机袭击造成 Al-MawasiLIVE 中一人死亡更新：https://aje.news/cq42fh?update=4744201…",
+    "text": "UPDATE: Trump says US has 'very good relationship' with TurkiyeLIVE updates:https://aje.news/d88zq0?update=4744789…",
+    "translated_text": "更新：特朗普表示美国与 TurkiyeLIVE 更新有“非常好的关系”：https://aje.news/d88zq0?update=4744789…",
     "images": [
       "7f1a451786c84548.svg",
-      "aa962215ce0c1b88.jpg"
+      "d1f5c83e31c5a34c.jpg"
     ],
-    "url": "https://x.com/AJENews/status/706958751577473274",
-    "timestamp": "2026-07-07T13:24:27.078280+00:00",
-    "original_time": "2026-07-07T10:09:44+00:00"
+    "url": "https://x.com/AJENews/status/-6560749834614726092",
+    "timestamp": "2026-07-07T16:33:24.667497+00:00",
+    "original_time": "2026-07-07T12:48:29+00:00"
   },
   {
-    "id": "tweet_AJENews_-7854868734776559711",
+    "id": "tweet_AJENews_-8440302906094600237",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: French President Emmanuel Macron has said that \"France is ready\" to help out with the reconstruction of Syria’s banking sector.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：法国总统埃马纽埃尔·马克龙表示，“法国已准备好”帮助叙利亚银行业的重建。更多信息请访问http://Aljazeera.com",
+    "text": "BREAKING: Qatar says it holds Iran 'fully legally responsible' for attack on tankerLIVE updates:https://aje.news/cq42fh?update=4744660…",
+    "translated_text": "突发：卡塔尔表示，伊朗对油轮袭击事件负“全部法律责任”实时更新：https://aje.news/cq42fh?update=4744660…",
     "images": [
       "7f1a451786c84548.svg",
-      "962e250421c20342.jpg"
+      "bdaed4a9357bb507.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-7854868734776559711",
-    "timestamp": "2026-07-07T13:24:28.191575+00:00",
-    "original_time": "2026-07-07T10:02:46+00:00"
+    "url": "https://x.com/AJENews/status/-8440302906094600237",
+    "timestamp": "2026-07-07T16:33:25.396472+00:00",
+    "original_time": "2026-07-07T12:46:29+00:00"
   },
   {
-    "id": "tweet_AJENews_1534317498837567481",
+    "id": "tweet_AJENews_289234913922712408",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Kremlin says Russia to follow NATO summit closelyLIVE updates:https://aje.news/d88zq0?update=4744128…",
-    "translated_text": "突发新闻：克里姆林宫表示俄罗斯将密切关注北约峰会实时更新：https://aje.news/d88zq0?update=4744128…",
+    "text": "BREAKING: Erdogan meets Trump on sidelines of NATO summitLIVE updates:https://aje.news/d88zq0?update=4744783…",
+    "translated_text": "突发新闻：埃尔多安在北约峰会间隙会见特朗普实时更新：https://aje.news/d88zq0?update=4744783…",
     "images": [
       "7f1a451786c84548.svg",
-      "04acfcea3d330ead.jpg"
+      "dc7fdfcdd062cbaa.jpg"
     ],
-    "url": "https://x.com/AJENews/status/1534317498837567481",
-    "timestamp": "2026-07-07T13:24:29.517485+00:00",
-    "original_time": "2026-07-07T10:01:07+00:00"
+    "url": "https://x.com/AJENews/status/289234913922712408",
+    "timestamp": "2026-07-07T16:33:26.180963+00:00",
+    "original_time": "2026-07-07T12:44:44+00:00"
   },
   {
-    "id": "tweet_AJENews_2762905482941190932",
+    "id": "tweet_AJENews_6080088827615823134",
     "type": "tweet",
     "username": "AJENews",
-    "text": "LIVE: French President Emmanuel Macron is in Damascus for talks with Syrian President Ahmed al-Sharaa.",
-    "translated_text": "直播：法国总统埃马纽埃尔·马克龙正在大马士革与叙利亚总统艾哈迈德·沙拉进行会谈。",
+    "text": "BREAKING: France appeals court opens door for Le Pen presidential run, with ankle tag\n\nRead more:https://aje.news/g29ak1",
+    "translated_text": "突发新闻：法国上诉法院为勒庞总统竞选敞开大门，脚踝上贴着标签\n\n了解更多：https://aje.news/g29ak1",
     "images": [
-      "9b20f961c2ada6de.svg",
-      "67a9fadd56b8b60f.jpg"
+      "fec921e51c99a039.jpg"
     ],
-    "url": "https://x.com/AJENews/status/2762905482941190932",
-    "timestamp": "2026-07-07T13:24:29.754959+00:00",
-    "original_time": "2026-07-07T09:57:30+00:00"
+    "url": "https://x.com/AJENews/status/6080088827615823134",
+    "timestamp": "2026-07-07T16:33:26.921700+00:00",
+    "original_time": "2026-07-07T12:23:22+00:00"
   },
   {
-    "id": "tweet_AJENews_5810225555896758504",
+    "id": "tweet_AJENews_7560108894522834021",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Ukraine's Zelenskyy says ‘important work’ expected at NATO summitLIVE updates:https://aje.news/d88zq0?update=4744123…",
-    "translated_text": "突发新闻：乌克兰泽伦斯基表示北约峰会预计将开展“重要工作”实时更新：https://aje.news/d88zq0?update=4744123…",
+    "text": "BREAKING: Next round of Israel-Lebanon talks to take place in Rome: FM SaarLIVE updates:https://aje.news/cq42fh?update=4744320…",
+    "translated_text": "突发新闻：下一轮以色列-黎巴嫩会谈将在罗马举行：FM SaarLIVE 更新：https://aje.news/cq42fh?update=4744320…",
     "images": [
       "7f1a451786c84548.svg",
-      "f8c607b1084334f3.jpg"
+      "3b146ea16e6940e1.jpg"
     ],
-    "url": "https://x.com/AJENews/status/5810225555896758504",
-    "timestamp": "2026-07-07T13:24:30.353964+00:00",
-    "original_time": "2026-07-07T09:45:50+00:00"
+    "url": "https://x.com/AJENews/status/7560108894522834021",
+    "timestamp": "2026-07-07T16:33:27.273559+00:00",
+    "original_time": "2026-07-07T12:20:20+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7020904537113144563",
+    "id": "tweet_CBSNews_3657607812508205209",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump says the U.S. would consider selling F-35s to Turkey.\n\n\"We have a better relationship with Turkey. And Turkey's been in many ways much more loyal than other countries that we think would be loyal.\"",
-    "translated_text": "特朗普总统表示，美国将考虑向土耳其出售 F-35。\n\n“我们与土耳其有着更好的关系。土耳其在很多方面都比我们认为忠诚的其他国家更加忠诚。”",
+    "text": "Cubans were gradually getting power restored after the third nationwide power outage this year, causing mounting despair in the face of an energy collapse precipitated by a U.S. fuel blockade.",
+    "translated_text": "在今年第三次全国停电后，古巴人逐渐恢复供电，面对美国燃料封锁引发的能源崩溃，人们越来越绝望。",
+    "images": [
+      "24ccb8ad44ffdf3f.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3657607812508205209",
+    "timestamp": "2026-07-07T16:34:13.887218+00:00",
+    "original_time": "2026-07-07T16:30:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_8806421989087152854",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Ohio police say they've solved a man's 1985 murder using old evidence, including items found soon after the killing behind a Cracker Barrel in Georgia.",
+    "translated_text": "俄亥俄州警方表示，他们利用旧证据侦破了 1985 年的一起男子谋杀案，其中包括在佐治亚州的饼干桶后面发现的凶杀案后不久发现的物品。",
+    "images": [
+      "26322d3d80731ca5.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8806421989087152854",
+    "timestamp": "2026-07-07T16:34:14.863476+00:00",
+    "original_time": "2026-07-07T16:18:56+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-4971507123218970573",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "President Trump is in Turkey for this week's NATO summit, where he'll meet with allies as the war in Ukraine, defense spending and the future of U.S. forces in Europe dominate the agenda. Trump is also expected to discuss Turkey's push to regain access to F-35 fighter jets during",
+    "translated_text": "特朗普总统将在土耳其参加本周的北约峰会，他将与盟友会面，乌克兰战争、国防开支和驻欧美军的未来将成为议程的主要内容。预计特朗普还将讨论土耳其推动重新获得 F-35 战斗机的问题",
+    "images": [
+      "92a95d6b1929e7a5.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-4971507123218970573",
+    "timestamp": "2026-07-07T16:34:15.505948+00:00",
+    "original_time": "2026-07-07T16:16:19+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_974604730305373204",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A building in midtown Manhattan was evacuated after fire officials said two columns buckled and floors were sagging between the 21st and 26th floors. Several buildings nearby have also been evacuated over concerns of a potential collapse. CBS News'@lilialucianohas more.",
+    "translated_text": "消防官员表示，曼哈顿中城一栋大楼的两根柱子弯曲，21 层和 26 层之间的地板下垂，随后人员被疏散。由于担心可能倒塌，附近的几座建筑物也已被疏散。哥伦比亚广播公司新闻@lilialuciano 还有更多内容。",
+    "images": [
+      "c17093133ed8abc7.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/974604730305373204",
+    "timestamp": "2026-07-07T16:34:16.040619+00:00",
+    "original_time": "2026-07-07T15:52:24+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_4878745296733845001",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "President Trump says \"we're going to see\" when asked whether there will be any further U.S. troop drawdowns in Europe.\n\n\"We weren’t treated well because we did something in Iran. ... I was testing to see whether or not they’d be there because I’d long said that we help them, but",
+    "translated_text": "当被问及美国是否会进一步削减在欧洲的驻军时，特朗普总统表示“我们将拭目以待”。\n\n“我们没有受到很好的待遇，因为我们在伊朗做了一些事情……我正在测试他们是否会在那里，因为我早就说过我们会帮助他们，但是",
+    "images": [
+      "00a7cf5f0bd61c48.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/4878745296733845001",
+    "timestamp": "2026-07-07T16:34:17.223031+00:00",
+    "original_time": "2026-07-07T14:09:28+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-6779937631430850575",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Amid simmering tensions between the U.S. and some NATO allies over Iran and Greenland, President Trump will continue to press other countries to boost defense spending.",
+    "translated_text": "在美国与一些北约盟国因伊朗和格陵兰岛问题日益紧张之际，特朗普总统将继续敦促其他国家增加国防开支。",
+    "images": [
+      "475158eb871f4f80.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-6779937631430850575",
+    "timestamp": "2026-07-07T16:34:19.411799+00:00",
+    "original_time": "2026-07-07T11:05:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1274132237127334496",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Toyota says it's shifting most production of its mid-size Tacoma pickup truck from Mexico to the United States as part of a $3.6 billion investment in its San Antonio, Texas, plant.",
+    "translated_text": "丰田表示，作为对其德克萨斯州圣安东尼奥工厂投资 36 亿美元的一部分，该公司将把中型 Tacoma 皮卡的大部分生产从墨西哥转移到美国。",
+    "images": [
+      "0c4e6e42044784f1.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1274132237127334496",
+    "timestamp": "2026-07-07T16:34:20.410030+00:00",
+    "original_time": "2026-07-07T10:45:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1492955294276669482",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "France's government says President Emmanuel Macron is safe and will continue his visit to Syria after two bombs exploded outside his hotel in Damascus.",
+    "translated_text": "法国政府表示，总统埃马纽埃尔·马克龙很安全，在大马士革的酒店外发生两枚炸弹爆炸后，他将继续访问叙利亚。",
+    "images": [
+      "86de160a80b89779.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1492955294276669482",
+    "timestamp": "2026-07-07T16:34:20.599741+00:00",
+    "original_time": "2026-07-07T10:25:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-725205765243712494",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Switching to a cheaper health plan delayed a man's access to vital medicine: \"He didn't deserve to die like that.\"",
+    "translated_text": "改用更便宜的医疗计划推迟了一个人获得重要药物的时间：“他不应该这样死去。”",
+    "images": [
+      "09c4cd584869e7cb.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-725205765243712494",
+    "timestamp": "2026-07-07T16:34:20.781561+00:00",
+    "original_time": "2026-07-07T09:00:01+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_7206255584468125929",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Shoulder pain leads to Texas dad's cancer diagnosis: \"I was like, 'Wait, what?'\"",
+    "translated_text": "肩膀疼痛导致德克萨斯州父亲被诊断出癌症：“我当时想，‘等等，什么？’”",
+    "images": [
+      "ce794e018bc1f670.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/7206255584468125929",
+    "timestamp": "2026-07-07T16:34:20.935791+00:00",
+    "original_time": "2026-07-07T08:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1522903545173752019",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "New DNA technology leads to identification of Revolutionary War soldier: \"A gift to the whole country.\"",
+    "translated_text": "新的 DNA 技术可识别革命战争士兵的身份：“给整个国家的礼物”。",
+    "images": [
+      "fb5730f3833761e8.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1522903545173752019",
+    "timestamp": "2026-07-07T16:34:22.299367+00:00",
+    "original_time": "2026-07-07T07:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-9200670629541249228",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Euclid telescope spots oldest quasars ever discovered, adding to \"perplexing\" space mystery.",
+    "translated_text": "欧几里得望远镜发现了迄今为止发现的最古老的类星体，增加了“令人费解”的太空之谜。",
+    "images": [
+      "a07d6dbfd763fd37.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-9200670629541249228",
+    "timestamp": "2026-07-07T16:34:22.671857+00:00",
+    "original_time": "2026-07-07T05:00:00+00:00"
+  },
+  {
+    "id": "tweet_cspan_-3015075033015802768",
+    "type": "tweet",
+    "username": "cspan",
+    "text": "New York City mayor Zohran Mamdani (@NYCMayor) says Senate Candidate Graham Platner (D-ME) should drop out of the race: \"I think that the only appropriate response is for the campaign to come to an end.\"",
+    "translated_text": "纽约市市长 Zohran Mamdani (@NYCMayor) 表示，参议院候选人格雷厄姆·普拉特纳 (D-ME) 应该退出竞选：“我认为唯一合适的反应是结束竞选活动。”",
     "images": [],
-    "url": "https://x.com/CBSNews/status/-7020904537113144563",
-    "timestamp": "2026-07-07T13:25:18.787620+00:00",
-    "original_time": "2026-07-07T13:24:45+00:00"
+    "url": "https://x.com/cspan/status/-3015075033015802768",
+    "timestamp": "2026-07-07T16:34:35.449013+00:00",
+    "original_time": "2026-07-07T15:18:23+00:00"
   },
   {
-    "id": "tweet_CBSNews_-795195879728067232",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A woman suspected of planting a bomb that targeted a wealthy Ukrainian businessman in Monaco has been found shot dead in Kyiv.",
-    "translated_text": "一名涉嫌在摩纳哥安置针对一名乌克兰富商的炸弹的妇女在基辅被发现被枪杀。",
-    "images": [
-      "766e22958870172b.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-795195879728067232",
-    "timestamp": "2026-07-07T13:25:19.588597+00:00",
-    "original_time": "2026-07-07T13:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-4090627660242809616",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A grand jury indicted Andrea Shaw, who is accused of suffocating her 18-month-old twins, on two counts of first-degree murder.",
-    "translated_text": "安德里亚·肖 (Andrea Shaw) 被控窒息其 18 个月大的双胞胎，大陪审团以两项一级谋杀罪对她提出起诉。",
-    "images": [
-      "97890a037b2c9a5b.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-4090627660242809616",
-    "timestamp": "2026-07-07T13:25:20.361622+00:00",
-    "original_time": "2026-07-07T12:30:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2405601515291214048",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "WATCH LIVE: Turkey holds arrival ceremony for NATO summit",
-    "translated_text": "观看直播：土耳其举行北约峰会抵达仪式",
-    "images": [
-      "2ed9d14ca0cd28c5.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/2405601515291214048",
-    "timestamp": "2026-07-07T13:25:20.858997+00:00",
-    "original_time": "2026-07-07T12:29:19+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6421064396050727678",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "France's President Emmanuel Macron is safe after two bombs exploded outside the hotel where he spent the night in Damascus, Syria on Tuesday, the French presidential palace said. Video shows one of the blasts and smoke rising from the hotel afterward.\n\nMacron had left the hotel",
-    "translated_text": "法国总统府表示，法国总统埃马纽埃尔·马克龙周二在叙利亚大马士革过夜的酒店外发生两枚炸弹爆炸，目前安全。视频显示其中一场爆炸，随后酒店升起浓烟。\n\n马克龙离开酒店",
-    "images": [
-      "056932c53d4d75ed.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-6421064396050727678",
-    "timestamp": "2026-07-07T13:25:21.956569+00:00",
-    "original_time": "2026-07-07T12:04:05+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-5246393567407187680",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "President Trump departed Monday for the NATO summit in Turkey aboard the newly gifted Air Force One.\n\nTraveling with the president is Secretary of State Marco Rubio, Defense Secretary Pete Hegseth, Stephen Miller, Treasury Secretary Scott Bessent, Ambassador Monica Crowley and",
-    "translated_text": "特朗普总统周一乘坐新赠送的空军一号前往土耳其参加北约峰会。\n\n与总统同行的有国务卿马可·卢比奥、国防部长皮特·赫格斯、斯蒂芬·米勒、财政部长斯科特·贝森特、莫妮卡·克劳利大使和",
-    "images": [
-      "608ee26810097c30.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-5246393567407187680",
-    "timestamp": "2026-07-07T13:25:24.217828+00:00",
-    "original_time": "2026-07-07T03:14:01+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_8009414681281748099",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Prosecutors are seeking the death penalty for Tyler Robinson, the man accused of killing Charlie Kirk, as a five-day preliminary hearing began Monday. CBS News’@annaschecterhas more on the evidence expected to be presented inside the courtroom.https://cbsn.ws/4fqjKJ5",
-    "translated_text": "周一开始为期五天的初步听证会，检察官正在寻求对被指控杀害查理·柯克的泰勒·罗宾逊判处死刑。哥伦比亚广播公司新闻的@annasecter有更多关于预计将在法庭上出示的证据的信息。https://cbsn.ws/4fqjKJ5",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/8009414681281748099",
-    "timestamp": "2026-07-07T13:25:24.840367+00:00",
-    "original_time": "2026-07-07T03:13:08+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2781720183481802926",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Children who died on Geneva Lake in Wisconsin were trapped in sunken boat, police say",
-    "translated_text": "警方称威斯康星州日内瓦湖遇难儿童被困在沉船上",
-    "images": [
-      "2f8aa4ef170e5f40.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/2781720183481802926",
-    "timestamp": "2026-07-07T13:25:25.071983+00:00",
-    "original_time": "2026-07-07T03:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-5984102580962987112",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Graham Platner is facing calls from top Democrats to drop out of the Maine Senate race following a Politico report detailing a sexual assault allegation against him. Platner has denied the allegation, calling it “categorically false,” but said his campaign is considering “the",
-    "translated_text": "格雷厄姆·普拉特纳 (Graham Platner) 面临着民主党高层的呼吁，要求其退出缅因州参议员竞选，此前《政治报》(Politico) 的一份报告详细介绍了针对格雷厄姆·普拉特纳的性侵犯指控。普拉特纳否认了这一指控，称其“绝对是错误的”，但表示他的竞选团队正在考虑“",
-    "images": [
-      "5e8573d7ac573ccf.jpg",
-      "68434a7e83b4a7b6.jpg",
-      "4f886507d336c43f.jpg",
-      "0275e8a8fab3f0b9.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-5984102580962987112",
-    "timestamp": "2026-07-07T13:25:25.397415+00:00",
-    "original_time": "2026-07-07T02:54:17+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_0",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "33b31e4e0fc892e2.jpg",
-      "810e92ab77bdf24f.jpg",
-      "c50a4b7f9e98d337.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/0",
-    "timestamp": "2026-07-07T13:25:25.552130+00:00",
-    "original_time": "2026-07-07T02:54:35+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-83386346569259247",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "BREAKING: The United States' 2026 World Cup run ends with a 4-1 loss to Belgium in the round of 16.https://cbsn.ws/44Uc0K9",
-    "translated_text": "突发新闻：美国队在 2026 年世界杯 16 强赛中以 4-1 负于比利时队结束。https://cbsn.ws/44Uc0K9",
-    "images": [
-      "2976f409d0a40f60.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-83386346569259247",
-    "timestamp": "2026-07-07T13:25:25.746020+00:00",
-    "original_time": "2026-07-07T02:08:01+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_3970616937801785459",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Dozens of coffins line a mass burial site at La Esperanza Cemetery in Catia Del Mar as the death toll from Venezuela’s twin earthquakes rises to 3,535.",
-    "translated_text": "委内瑞拉两次地震造成的死亡人数上升至 3,535 人，卡蒂亚德尔马 (Catia Del Mar) 拉埃斯佩兰萨公墓 (La Esperanza Cemetery) 的集体墓地里摆放着数十具棺材。",
-    "images": [
-      "37e50f15e17c27d1.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/3970616937801785459",
-    "timestamp": "2026-07-07T13:25:25.960491+00:00",
-    "original_time": "2026-07-07T01:29:32+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_5128174794868942286",
+    "id": "tweet_JenniferJJacobs_6881332986399122499",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Trump says lifting CAATSA sanctions on Turkey. “We don’t want to sanction friends,\" he said.",
@@ -623,12 +645,12 @@
     "images": [
       "5cb652fcd61fd002.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/5128174794868942286",
-    "timestamp": "2026-07-07T13:25:40.019244+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/6881332986399122499",
+    "timestamp": "2026-07-07T16:34:35.625092+00:00",
     "original_time": "2026-07-07T13:07:46+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-6505189984011683646",
+    "id": "tweet_JenniferJJacobs_3389637573700115313",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Trump and Putin \"had a long talk yesterday,\" then with Zelenskyy right after. \"I know deals, and I think they are going to - I think we're going to get it, so hopefully soon.,\" he says in Turkey.",
@@ -636,12 +658,12 @@
     "images": [
       "a55c0e7dc5e5f052.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-6505189984011683646",
-    "timestamp": "2026-07-07T13:25:40.232984+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/3389637573700115313",
+    "timestamp": "2026-07-07T16:34:36.395902+00:00",
     "original_time": "2026-07-07T13:04:34+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_1993854712627343438",
+    "id": "tweet_JenniferJJacobs_3723823490575706161",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Trump has arrived in Turkey for the NATO summit in Ankara, where he's expected to convey a message to allies who snubbed the US's requests for help with Iran war. Erdogan greeted him on tarmac after he landed. Trump patted Erdogan, who he said was the only reason he showed up for",
@@ -650,12 +672,12 @@
       "6876b9384af03ab1.jpg",
       "ef52f951254288dd.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/1993854712627343438",
-    "timestamp": "2026-07-07T13:25:41.512350+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/3723823490575706161",
+    "timestamp": "2026-07-07T16:34:37.142818+00:00",
     "original_time": "2026-07-07T12:35:58+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_1455223393717309659",
+    "id": "tweet_JenniferJJacobs_-6922708338971302056",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Minutes after arriving for Nato, Trump criticizes UK, Germany, France for not being with US on Iran war. \"We didn't need any help at all, and in a way I was testing people, I was testing to see whether or not they'd be there, because I've long said that we helped them, and I'm",
@@ -663,12 +685,12 @@
     "images": [
       "9b1b72fc6d626281.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/1455223393717309659",
-    "timestamp": "2026-07-07T13:25:42.292524+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/-6922708338971302056",
+    "timestamp": "2026-07-07T16:34:37.304702+00:00",
     "original_time": "2026-07-07T12:56:31+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-3823016903690532692",
+    "id": "tweet_JenniferJJacobs_4783614912625461432",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Trump says he's considering selling F-35s to Turkey, telling reporters its a country that has been more loyal than some allies.",
@@ -676,712 +698,46 @@
     "images": [
       "1daf4de69f0ce82c.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-3823016903690532692",
-    "timestamp": "2026-07-07T13:25:42.904747+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/4783614912625461432",
+    "timestamp": "2026-07-07T16:34:37.537392+00:00",
     "original_time": "2026-07-07T12:47:40+00:00"
   },
   {
-    "id": "tweet_FoxNews_5720785013879172770",
+    "id": "tweet_KellieMeyerNews_1352281757263033094",
     "type": "tweet",
-    "username": "FoxNews",
-    "text": "President Trump departs Washington for the NATO summit in Turkey, saying he's making the trip for one reason: Turkish President Recep Tayyip Erdoğan.\n\n\"I'm going because of Erdoğan,\" Trump told reporters, calling the Turkish leader \"a friend\" and \"a respected leader\" while",
-    "translated_text": "特朗普总统离开华盛顿前往土耳其参加北约峰会，称他此行的原因只有一个：土耳其总统雷杰普·塔伊普·埃尔多安。\n\n特朗普对记者说：“我去是因为埃尔多安。”他称这位土耳其领导人是“一位朋友”和“一位受人尊敬的领导人”。",
+    "username": "KellieMeyerNews",
+    "text": "UKMTO reports 3 tankers have now been struck in the Strait of Hormuz.",
+    "translated_text": "UKMTO 报告称，目前有 3 艘油轮在霍尔木兹海峡遭到袭击。",
     "images": [
-      "669d7405e60925d4.jpg"
+      "31429ee49e9a465b.svg"
     ],
-    "url": "https://x.com/FoxNews/status/5720785013879172770",
-    "timestamp": "2026-07-07T13:25:43.112404+00:00",
-    "original_time": "2026-07-07T01:53:45+00:00"
+    "url": "https://x.com/KellieMeyerNews/status/1352281757263033094",
+    "timestamp": "2026-07-07T16:34:55.909374+00:00",
+    "original_time": "2026-07-07T16:19:57+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_1425180235840970056",
+    "id": "tweet_KellieMeyerNews_-7909988085816588090",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "our@NewsNationNYC studio is among the buildings being evacuated in NY due to the partial building collapse nearby.",
+    "translated_text": "由于附近部分建筑物倒塌，我们的@NewsNationNYC 工作室是纽约正在疏散的建筑物之一。",
+    "images": [
+      "b0a3b13925e50ea0.svg",
+      "a0a5567fd8c5b81a.svg"
+    ],
+    "url": "https://x.com/KellieMeyerNews/status/-7909988085816588090",
+    "timestamp": "2026-07-07T16:34:56.762356+00:00",
+    "original_time": "2026-07-07T16:02:53+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-8915799440937213438",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "NOW: President Trump deplaning in Turkey for the NATO Summit.",
     "translated_text": "现在：特朗普总统在土耳其下飞机参加北约峰会。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/1425180235840970056",
-    "timestamp": "2026-07-07T13:26:01.226617+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-8915799440937213438",
+    "timestamp": "2026-07-07T16:34:56.887569+00:00",
     "original_time": "2026-07-07T11:16:31+00:00"
-  },
-  {
-    "id": "article_d5ef6be38d00",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Opposition requisitions Punjab Assembly session to discuss ‘rape of two foreigners’",
-    "translated_title": "反对派要求旁遮普议会开会讨论“强奸两名外国人”",
-    "url": "https://www.dawn.com/news/2013445/opposition-requisitions-punjab-assembly-session-to-discuss-rape-of-two-foreigners",
-    "timestamp": "2026-07-07T13:27:16.597151+00:00",
-    "original_time": "2026-07-07T07:00:22+05:00"
-  },
-  {
-    "id": "article_288546340495",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Indonesia to buy BrahMos missiles, Indian govt official says as Modi kicks off 2-day Jakarta visit",
-    "translated_title": "印度政府官员在莫迪开始为期两天的雅加达访问时表示，印度尼西亚将购买布拉莫斯导弹",
-    "url": "https://www.dawn.com/news/2013570/indonesia-to-buy-brahmos-missiles-indian-govt-official-says-as-modi-kicks-off-2-day-jakarta-visit",
-    "timestamp": "2026-07-07T13:27:19.846542+00:00",
-    "original_time": "2026-07-07T12:08:33+05:00"
-  },
-  {
-    "id": "article_f75d6dc4a1a8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Resecurity, HNL sign MoU to strengthen Pakistan's critical infrastructure against cyber threats",
-    "translated_title": "Resecurity 与 HNL 签署谅解备忘录，以加强巴基斯坦关键基础设施抵御网络威胁",
-    "url": "https://www.dawn.com/news/2013399/resecurity-hnl-sign-mou-to-strengthen-pakistans-critical-infrastructure-against-cyber-threats",
-    "timestamp": "2026-07-07T13:27:26.754767+00:00",
-    "original_time": "2026-07-07T11:35:28+05:00"
-  },
-  {
-    "id": "article_1ef860bf7d84",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Bulls add 2,082 points on economic optimism",
-    "translated_title": "经济乐观情绪推动多头上涨 2,082 点",
-    "url": "https://www.dawn.com/news/2013498/bulls-add-2082-points-on-economic-optimism",
-    "timestamp": "2026-07-07T13:27:32.810857+00:00",
-    "original_time": "2026-07-07T06:59:43+05:00"
-  },
-  {
-    "id": "article_1ad75be71f46",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Nato showcases big arms deals in Ankara before summit with Trump",
-    "translated_title": "北约在与特朗普峰会前在安卡拉展示大型武器交易",
-    "url": "https://www.dawn.com/news/2013605/nato-showcases-big-arms-deals-in-ankara-before-summit-with-trump",
-    "timestamp": "2026-07-07T13:27:40.654854+00:00",
-    "original_time": "2026-07-07T17:29:47+05:00"
-  },
-  {
-    "id": "article_648d90442023",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013289",
-    "timestamp": "2026-07-07T13:28:06.668110+00:00",
-    "original_time": "2026-07-07T13:28:06.668076+00:00"
-  },
-  {
-    "id": "article_bc435dc14142",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Railways in loss despite record revenues",
-    "translated_title": "尽管收入创纪录，但铁路仍处于亏损状态",
-    "url": "https://www.dawn.com/news/2013501/railways-in-loss-despite-record-revenues",
-    "timestamp": "2026-07-07T13:28:15.844790+00:00",
-    "original_time": "2026-07-07T06:59:43+05:00"
-  },
-  {
-    "id": "article_f1118f13826e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan taking on mantle of mediation for war-torn Libya",
-    "translated_title": "巴基斯坦承担起为饱受战争蹂躏的利比亚进行调解的重任",
-    "url": "https://www.dawn.com/news/2013507/pakistan-taking-on-mantle-of-mediation-for-war-torn-libya",
-    "timestamp": "2026-07-07T13:28:19.220906+00:00",
-    "original_time": "2026-07-07T06:59:26+05:00"
-  },
-  {
-    "id": "article_01217784b5c5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013441/kps-hassankhel-residents-protest-drone-strikes",
-    "timestamp": "2026-07-07T13:28:37.505101+00:00",
-    "original_time": "2026-07-07T13:28:37.505069+00:00"
-  },
-  {
-    "id": "article_3a3ea63eaac5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Private sector eyes govt land bank for housing",
-    "translated_title": "私营部门关注政府住房土地储备",
-    "url": "https://www.dawn.com/news/2013503/private-sector-eyes-govt-land-bank-for-housing",
-    "timestamp": "2026-07-07T13:28:41.349149+00:00",
-    "original_time": "2026-07-07T06:59:43+05:00"
-  },
-  {
-    "id": "article_41e6c5c653de",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PSX snaps 5-day bullish streak, falls by over 1,100 points",
-    "translated_title": "PSX 结束 5 天连续看涨，跌幅超过 1,100 点",
-    "url": "https://www.dawn.com/news/2013602/psx-snaps-5-day-bullish-streak-falls-by-over-1100-points",
-    "timestamp": "2026-07-07T13:28:45.709919+00:00",
-    "original_time": "2026-07-07T17:22:40+05:00"
-  },
-  {
-    "id": "article_127fb2bfd06d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Thousands flee new wave of European wildfires",
-    "translated_title": "数千人逃离欧洲新一波野火",
-    "url": "https://www.dawn.com/news/2013538/thousands-flee-new-wave-of-european-wildfires",
-    "timestamp": "2026-07-07T13:28:59.069155+00:00",
-    "original_time": "2026-07-07T07:39:58+05:00"
-  },
-  {
-    "id": "article_4ad2908c9be5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Premier asks embassies to create employment opportunities for Pakistanis",
-    "translated_title": "总理要求使馆为巴基斯坦人创造就业机会",
-    "url": "https://www.dawn.com/news/2013508/premier-asks-embassies-to-create-employment-opportunities-for-pakistanis",
-    "timestamp": "2026-07-07T13:29:02.844176+00:00",
-    "original_time": "2026-07-07T06:59:26+05:00"
-  },
-  {
-    "id": "article_4033044d7f58",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Judicial Commission of Pakistan likely to meet on 20th to confirm additional judges",
-    "translated_title": "巴基斯坦司法委员会可能于20日开会确认新增法官",
-    "url": "https://www.dawn.com/news/2013488/judicial-commission-of-pakistan-likely-to-meet-on-20th-to-confirm-additional-judges",
-    "timestamp": "2026-07-07T13:29:25.098682+00:00",
-    "original_time": "2026-07-07T06:59:33+05:00"
-  },
-  {
-    "id": "article_7bdd4fe95e35",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "ECP warns KP, Islamabad again over delays in local govt polls",
-    "translated_title": "ECP再次警告KP和伊斯兰堡当地政府民意调查的延误",
-    "url": "https://www.dawn.com/news/2013591/ecp-warns-kp-islamabad-again-over-delays-in-local-govt-polls",
-    "timestamp": "2026-07-07T13:29:31.503841+00:00",
-    "original_time": "2026-07-07T16:20:22+05:00"
-  },
-  {
-    "id": "article_b1ff59e44feb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PM Shehbaz calls for comprehensive strategy to boost SMEs’ access to financing",
-    "translated_title": "谢赫巴兹总理呼吁制定全面战略以促进中小企业获得融资",
-    "url": "https://www.dawn.com/news/2013571/pm-shehbaz-calls-for-comprehensive-strategy-to-boost-smes-access-to-financing",
-    "timestamp": "2026-07-07T13:29:35.327252+00:00",
-    "original_time": "2026-07-07T12:14:22+05:00"
-  },
-  {
-    "id": "article_8ae2fa247b7b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013607/this-years-el-nino-likely-to-become-record-breaker-top-expert",
-    "timestamp": "2026-07-07T13:29:55.365609+00:00",
-    "original_time": "2026-07-07T13:29:55.365578+00:00"
-  },
-  {
-    "id": "article_9a822cefd92d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Two Benazir Income Support Programme vendors arrested for taking money from beneficiaries in Bahawalpur",
-    "translated_title": "两名贝娜齐尔收入支持计划供应商因从巴哈瓦尔布尔的受益人那里收钱而被捕",
-    "url": "https://www.dawn.com/news/2013430/two-benazir-income-support-programme-vendors-arrested-for-taking-money-from-beneficiaries-in-bahawalpur",
-    "timestamp": "2026-07-07T13:30:02.671265+00:00",
-    "original_time": "2026-07-07T07:00:23+05:00"
-  },
-  {
-    "id": "article_68ec921a05c4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Saudi introduces ‘Package Visa' integrating travel booking with Easier Visa Application",
-    "translated_title": "沙特推出“套餐签证”，将旅行预订与更便捷的签证申请融为一体",
-    "url": "https://www.dawn.com/news/2013397/saudi-introduces-package-visa-integrating-travel-booking-with-easier-visa-application",
-    "timestamp": "2026-07-07T13:30:10.729978+00:00",
-    "original_time": "2026-07-07T11:27:34+05:00"
-  },
-  {
-    "id": "article_de3c1da44de9",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "New authority to manage Punjab assets gets CM Maryam's nod",
-    "translated_title": "管理旁遮普资产的新权力获得 CM Maryam 的认可",
-    "url": "https://www.dawn.com/news/2013447/new-authority-to-manage-punjab-assets-gets-cm-maryams-nod",
-    "timestamp": "2026-07-07T13:30:17.340000+00:00",
-    "original_time": "2026-07-07T07:00:22+05:00"
-  },
-  {
-    "id": "article_3d390e048899",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "India charges alleged Pahalgam ‘mastermind’",
-    "translated_title": "印度指控帕哈加姆为“策划者”",
-    "url": "https://www.dawn.com/news/2013533/india-charges-alleged-pahalgam-mastermind",
-    "timestamp": "2026-07-07T13:30:37.191584+00:00",
-    "original_time": "2026-07-07T07:34:01+05:00"
-  },
-  {
-    "id": "article_55181a0a0c45",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "SHC throws out petition against petroleum  pricing mechanism",
-    "translated_title": "SHC驳回反对石油定价机制的请愿书",
-    "url": "https://www.dawn.com/news/2013483/shc-throws-out-petition-against-petroleum-pricing-mechanism",
-    "timestamp": "2026-07-07T13:30:40.826888+00:00",
-    "original_time": "2026-07-07T07:00:01+05:00"
-  },
-  {
-    "id": "article_7fdcecea3414",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Macron in Damascus to back ‘free, pluralist Syria’",
-    "translated_title": "马克龙在大马士革支持“自由、多元化的叙利亚”",
-    "url": "https://www.dawn.com/news/2013532/macron-in-damascus-to-back-free-pluralist-syria",
-    "timestamp": "2026-07-07T13:30:44.804181+00:00",
-    "original_time": "2026-07-07T07:33:27+05:00"
-  },
-  {
-    "id": "article_e5d5065a3391",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP received over Rs3.4tr under NFC Award in last five years, PA told",
-    "translated_title": "PA 告诉我们，KP 在过去五年中根据 NFC 奖获得了超过 3.4 卢比的奖励",
-    "url": "https://www.dawn.com/news/2013444/kp-received-over-rs34tr-under-nfc-award-in-last-five-years-pa-told",
-    "timestamp": "2026-07-07T13:30:48.857721+00:00",
-    "original_time": "2026-07-07T07:01:09+05:00"
-  },
-  {
-    "id": "article_bf552fef87de",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Two more human traffickers held in Gujrat",
-    "translated_title": "古吉拉特邦又关押了两名人口贩子",
-    "url": "https://www.dawn.com/news/2013442/two-more-human-traffickers-held-in-gujrat",
-    "timestamp": "2026-07-07T13:30:52.312679+00:00",
-    "original_time": "2026-07-07T07:00:22+05:00"
-  },
-  {
-    "id": "article_5fbfcca4b53c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "SBP launches portal to attract investment",
-    "translated_title": "SBP 推出门户网站以吸引投资",
-    "url": "https://www.dawn.com/news/2013505/sbp-launches-portal-to-attract-investment",
-    "timestamp": "2026-07-07T13:30:58.283979+00:00",
-    "original_time": "2026-07-07T06:59:42+05:00"
-  },
-  {
-    "id": "article_c2a9c237f7ee",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "IHC grants final adjournment to Imran's counsel in £190m corruption case",
-    "translated_title": "IHC 批准伊姆兰律师在价值 1.9 亿英镑的腐败案中最终延期",
-    "url": "https://www.dawn.com/news/2013578/ihc-grants-final-adjournment-to-imrans-counsel-in-ps190m-corruption-case",
-    "timestamp": "2026-07-07T13:31:05.029094+00:00",
-    "original_time": "2026-07-07T13:35:20+05:00"
-  },
-  {
-    "id": "article_dae4708b2906",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Eight injured in Peshawar downpour",
-    "translated_title": "白沙瓦倾盆大雨造成八人受伤",
-    "url": "https://www.dawn.com/news/2013434/eight-injured-in-peshawar-downpour",
-    "timestamp": "2026-07-07T13:31:25.883133+00:00",
-    "original_time": "2026-07-07T07:01:09+05:00"
-  },
-  {
-    "id": "article_8a39441b7ee1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "9 cops martyred in terrorist attack on police post in Ziarat",
-    "translated_title": "齐亚拉特警察哨所遭恐怖袭击 9名警察丧生",
-    "url": "https://www.dawn.com/news/2013564/9-cops-martyred-in-terrorist-attack-on-police-post-in-ziarat",
-    "timestamp": "2026-07-07T13:31:32.900984+00:00",
-    "original_time": "2026-07-07T10:57:58+05:00"
-  },
-  {
-    "id": "article_a4a1a618fa24",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Hunt on for attackers after 3 killed in Hanna Urak clashes",
-    "translated_title": "汉纳乌拉克冲突造成 3 人死亡，追捕袭击者",
-    "url": "https://www.dawn.com/news/2013515/hunt-on-for-attackers-after-3-killed-in-hanna-urak-clashes",
-    "timestamp": "2026-07-07T13:31:40.048540+00:00",
-    "original_time": "2026-07-07T06:59:20+05:00"
-  },
-  {
-    "id": "article_8efc7c5fa5f5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "National Industrial Relations Commission annuls 2025 recruitment process, terminates 10 employees",
-    "translated_title": "国家劳资关系委员会取消2025年招聘程序，解雇10名员工",
-    "url": "https://www.dawn.com/news/2013448/national-industrial-relations-commission-annuls-2025-recruitment-process-terminates-10-employees",
-    "timestamp": "2026-07-07T13:31:47.050854+00:00",
-    "original_time": "2026-07-07T07:00:29+05:00"
-  },
-  {
-    "id": "article_85283412a226",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "No relief for citizens as transport fares remain high despite lower fuel prices in Karachi",
-    "translated_title": "尽管卡拉奇燃油价格较低，但交通费用仍然居高不下，公民并没有得到缓解",
-    "url": "https://www.dawn.com/news/2013486/no-relief-for-citizens-as-transport-fares-remain-high-despite-lower-fuel-prices-in-karachi",
-    "timestamp": "2026-07-07T13:31:54.021699+00:00",
-    "original_time": "2026-07-07T07:00:00+05:00"
-  },
-  {
-    "id": "article_54bdd9e69dd4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "State bound to protect life, enforce law, carry out fair probe, SC rules",
-    "translated_title": "国家有义务保护生命、执行法律、进行公平调查、SC 规则",
-    "url": "https://www.dawn.com/news/2013506/state-bound-to-protect-life-enforce-law-carry-out-fair-probe-sc-rules",
-    "timestamp": "2026-07-07T13:31:57.738459+00:00",
-    "original_time": "2026-07-07T06:59:26+05:00"
-  },
-  {
-    "id": "article_c138d88376ed",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Discipline, fitness key to Pakistan’s Test revival: Babar",
-    "translated_title": "巴巴尔：纪律和健康是巴基斯坦考试复兴的关键",
-    "url": "https://www.dawn.com/news/2013464/discipline-fitness-key-to-pakistans-test-revival-babar",
-    "timestamp": "2026-07-07T13:32:03.770744+00:00",
-    "original_time": "2026-07-07T06:59:51+05:00"
-  },
-  {
-    "id": "article_1ec44d9a8a56",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Temple built on site of demolished Babri mosque reshuffles leadership after donation theft scandal",
-    "translated_title": "在被拆除的巴布里清真寺遗址上建造的寺庙在捐款盗窃丑闻后改组领导层",
-    "url": "https://www.dawn.com/news/2013595/temple-built-on-site-of-demolished-babri-mosque-reshuffles-leadership-after-donation-theft-scandal",
-    "timestamp": "2026-07-07T13:32:07.471740+00:00",
-    "original_time": "2026-07-07T16:57:01+05:00"
-  },
-  {
-    "id": "article_5e67cad40c4a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013577/syria-says-18-wounded-in-damascus-blasts-during-french-president-macrons-visit",
-    "timestamp": "2026-07-07T13:32:28.399683+00:00",
-    "original_time": "2026-07-07T13:32:28.399649+00:00"
-  },
-  {
-    "id": "article_2f31147d24f0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Thalassemic girl who enjoyed day-long DC protocol passes away",
-    "translated_title": "享受一整天 DC 方案的地中海贫血女孩去世",
-    "url": "https://www.dawn.com/news/2013455/thalassemic-girl-who-enjoyed-day-long-dc-protocol-passes-away",
-    "timestamp": "2026-07-07T13:32:36.530103+00:00",
-    "original_time": "2026-07-07T07:00:28+05:00"
-  },
-  {
-    "id": "article_12c51acbdf69",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Policeman injured in Bannu sniper attack",
-    "translated_title": "警察在班努狙击手袭击中受伤",
-    "url": "https://www.dawn.com/news/2013443/policeman-injured-in-bannu-sniper-attack",
-    "timestamp": "2026-07-07T13:32:44.620364+00:00",
-    "original_time": "2026-07-07T07:01:09+05:00"
-  },
-  {
-    "id": "article_d020f6b5855f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Juvenile Justice System Act not enforced in Hyderabad, SHC told",
-    "translated_title": "SHC 表示，海得拉巴未执行《少年司法系统法》",
-    "url": "https://www.dawn.com/news/2013461/juvenile-justice-system-act-not-enforced-in-hyderabad-shc-told",
-    "timestamp": "2026-07-07T13:32:48.554749+00:00",
-    "original_time": "2026-07-07T07:00:03+05:00"
-  },
-  {
-    "id": "article_b219a42f9ade",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PAF officer who sacrificed his life saving woman in distress laid to rest with military honours: ISPR",
-    "translated_title": "为拯救遇险妇女而牺牲的巴基斯坦空军军官以军事荣誉安息：IS​​PR",
-    "url": "https://www.dawn.com/news/2013616/paf-officer-who-sacrificed-his-life-saving-woman-in-distress-laid-to-rest-with-military-honours-ispr",
-    "timestamp": "2026-07-07T13:32:51.798654+00:00",
-    "original_time": "2026-07-07T18:16:48+05:00"
-  },
-  {
-    "id": "article_951a9ed0d198",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Winning debut for ODI captain Ngarava as Zimbabwe beat Bangladesh",
-    "translated_title": "ODI 队长 Ngarava 首次亮相，津巴布韦击败孟加拉国",
-    "url": "https://www.dawn.com/news/2013473/winning-debut-for-odi-captain-ngarava-as-zimbabwe-beat-bangladesh",
-    "timestamp": "2026-07-07T13:32:58.179137+00:00",
-    "original_time": "2026-07-07T06:59:50+05:00"
-  },
-  {
-    "id": "article_73520a135a2a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Rawalpindi faces acute water shortage amid summer heat",
-    "translated_title": "拉瓦尔品第在夏季炎热中面临严重缺水",
-    "url": "https://www.dawn.com/news/2013457/rawalpindi-faces-acute-water-shortage-amid-summer-heat",
-    "timestamp": "2026-07-07T13:33:23.985370+00:00",
-    "original_time": "2026-07-07T07:00:28+05:00"
-  },
-  {
-    "id": "article_328187759011",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "UN deems Israel’s detention of Gaza doctor ‘arbitrary’",
-    "translated_title": "联合国认为以色列拘留加沙医生是“任意的”",
-    "url": "https://www.dawn.com/news/2013529/un-deems-israels-detention-of-gaza-doctor-arbitrary",
-    "timestamp": "2026-07-07T13:33:28.750604+00:00",
-    "original_time": "2026-07-07T07:31:53+05:00"
-  },
-  {
-    "id": "article_e63914f260f5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PTI nominates six lawyers to meet Imran",
-    "translated_title": "PTI 提名六名律师会见伊姆兰",
-    "url": "https://www.dawn.com/news/2013492/pti-nominates-six-lawyers-to-meet-imran",
-    "timestamp": "2026-07-07T13:33:38.928723+00:00",
-    "original_time": "2026-07-07T06:59:32+05:00"
-  },
-  {
-    "id": "article_2d994d4c5de4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Two arrested suspects killed in Gwadar shootout",
-    "translated_title": "两名被捕嫌疑人在瓜达尔港枪战中丧生",
-    "url": "https://www.dawn.com/news/2013489/two-arrested-suspects-killed-in-gwadar-shootout",
-    "timestamp": "2026-07-07T13:33:54.468839+00:00",
-    "original_time": "2026-07-07T06:59:33+05:00"
-  },
-  {
-    "id": "article_daff5b62c99c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Nishtar Hospital MS removed following ‘complaints’",
-    "translated_title": "尼什塔尔医院 MS 在“投诉”后被删除",
-    "url": "https://www.dawn.com/news/2013428/nishtar-hospital-ms-removed-following-complaints",
-    "timestamp": "2026-07-07T13:33:58.709988+00:00",
-    "original_time": "2026-07-07T07:00:23+05:00"
-  },
-  {
-    "id": "article_02e9d351646b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Italy's Meloni seeks to avoid escalation after Trump revives personal feud",
-    "translated_title": "特朗普重启个人恩怨后，意大利的梅洛尼寻求避免事态升级",
-    "url": "https://www.dawn.com/news/2013601/italys-meloni-seeks-to-avoid-escalation-after-trump-revives-personal-feud",
-    "timestamp": "2026-07-07T13:34:02.618301+00:00",
-    "original_time": "2026-07-07T17:26:50+05:00"
-  },
-  {
-    "id": "article_740ce9abec7d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan, Kyrgyzstan reaffirm commitment to boosting bilateral ties, stress importance of deepening trade",
-    "translated_title": "巴基斯坦和吉尔吉斯斯坦重申致力于促进双边关系，强调深化贸易的重要性",
-    "url": "https://www.dawn.com/news/2013582/pakistan-kyrgyzstan-reaffirm-commitment-to-boosting-bilateral-ties-stress-importance-of-deepening-trade",
-    "timestamp": "2026-07-07T13:34:10.086433+00:00",
-    "original_time": "2026-07-07T13:58:12+05:00"
-  },
-  {
-    "id": "article_a76c93b27ad7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Major terrorist plot in Karachi thwarted as 2 BLA terrorists arrested: Sindh CTD",
-    "translated_title": "卡拉奇重大恐怖阴谋挫败，两名 BLA 恐怖分子被捕：信德省 CTD",
-    "url": "https://www.dawn.com/news/2013573/major-terrorist-plot-in-karachi-thwarted-as-2-bla-terrorists-arrested-sindh-ctd",
-    "timestamp": "2026-07-07T13:34:13.822678+00:00",
-    "original_time": "2026-07-07T12:05:03+05:00"
-  },
-  {
-    "id": "article_a64eee547366",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Week-long drive against polio kicks off  in Karachi",
-    "translated_title": "为期一周的抗击小儿麻痹症活动在卡拉奇拉开帷幕",
-    "url": "https://www.dawn.com/news/2013485/week-long-drive-against-polio-kicks-off-in-karachi",
-    "timestamp": "2026-07-07T13:34:31.192163+00:00",
-    "original_time": "2026-07-07T07:00:00+05:00"
-  },
-  {
-    "id": "article_495dcd753713",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Trump threatens to strike Iran if deal not reached",
-    "translated_title": "特朗普威胁若不达成协议将打击伊朗",
-    "url": "https://www.dawn.com/news/2013511/trump-threatens-to-strike-iran-if-deal-not-reached",
-    "timestamp": "2026-07-07T13:34:38.414863+00:00",
-    "original_time": "2026-07-07T06:59:26+05:00"
-  },
-  {
-    "id": "article_9662a48eb04f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Looking for an Alexander",
-    "translated_title": "寻找亚历山大",
-    "url": "https://www.dawn.com/news/2013527",
-    "timestamp": "2026-07-07T13:34:47.276256+00:00",
-    "original_time": "2026-07-07T07:29:25+05:00"
-  },
-  {
-    "id": "article_13095299fd9c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "India axe Sanju Samson for Zimbabwe T20s",
-    "translated_title": "印度将桑朱·萨姆森 (Sanju Samson) 替换为津巴布韦 T20",
-    "url": "https://www.dawn.com/news/2013467/india-axe-sanju-samson-for-zimbabwe-t20s",
-    "timestamp": "2026-07-07T13:34:51.233790+00:00",
-    "original_time": "2026-07-07T06:59:51+05:00"
-  },
-  {
-    "id": "article_b9aa21e5df84",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Ronaldo — the GOAT who never won the FIFA World Cup",
-    "translated_title": "罗纳尔多——从未赢得过世界杯冠军的山羊",
-    "url": "https://www.dawn.com/news/2013558/ronaldo-the-goat-who-never-won-the-fifa-world-cup",
-    "timestamp": "2026-07-07T13:34:59.083209+00:00",
-    "original_time": "2026-07-07T09:38:33+05:00"
-  },
-  {
-    "id": "article_582c6bafdaaa",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "843 candidates in fray for AJK polls after withdrawal of nominations",
-    "translated_title": "撤回提名后 843 名候选人参与 AJK 民意调查",
-    "url": "https://www.dawn.com/news/2013449/843-candidates-in-fray-for-ajk-polls-after-withdrawal-of-nominations",
-    "timestamp": "2026-07-07T13:35:09.960854+00:00",
-    "original_time": "2026-07-07T07:00:29+05:00"
-  },
-  {
-    "id": "article_c1bfd318055a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2012867/18pc-sales-tax-cripples-cotton-ginning",
-    "timestamp": "2026-07-07T13:35:36.677338+00:00",
-    "original_time": "2026-07-07T13:35:36.677304+00:00"
-  },
-  {
-    "id": "article_5b4f0583291a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "One killed, 4 injured in quadcopter attack in KP's Bannu: police",
-    "translated_title": "KP班努四轴飞行器袭击造成1人死亡、4人受伤：警方",
-    "url": "https://www.dawn.com/news/2013585/one-killed-4-injured-in-quadcopter-attack-in-kps-bannu-police",
-    "timestamp": "2026-07-07T13:35:40.504511+00:00",
-    "original_time": "2026-07-07T14:39:35+05:00"
-  },
-  {
-    "id": "article_eff34ba9f655",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Japan releases snowman-like asteroid image after flyby",
-    "translated_title": "日本发布飞越小行星后的雪人状图像",
-    "url": "https://www.dawn.com/news/2013537/japan-releases-snowman-like-asteroid-image-after-flyby",
-    "timestamp": "2026-07-07T13:35:50.855757+00:00",
-    "original_time": "2026-07-07T07:39:06+05:00"
-  },
-  {
-    "id": "article_7916a7e50327",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "JI chief announces countrywide protests against 'extortionary' petroleum levy on Friday",
-    "translated_title": "JI 负责人周五宣布全国范围内抗议“勒索”石油税",
-    "url": "https://www.dawn.com/news/2013604/ji-chief-announces-countrywide-protests-against-extortionary-petroleum-levy-on-friday",
-    "timestamp": "2026-07-07T13:35:54.987205+00:00",
-    "original_time": "2026-07-07T17:44:32+05:00"
-  },
-  {
-    "id": "article_116df5cce9a5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Sindh CM Murad, IFC agree to explore partnership in digital infrastructure, renewable energy",
-    "translated_title": "信德省首席部长穆拉德 (CM Murad) 与国际金融公司 (IFC) 同意探索数字基础设施、可再生能源领域的合作伙伴关系",
-    "url": "https://www.dawn.com/news/2013477/sindh-cm-murad-ifc-agree-to-explore-partnership-in-digital-infrastructure-renewable-energy",
-    "timestamp": "2026-07-07T13:36:13.368301+00:00",
-    "original_time": "2026-07-07T07:00:02+05:00"
-  },
-  {
-    "id": "article_e1c3381b1e3c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Political matters",
-    "translated_title": "政治事务",
-    "url": "https://www.dawn.com/news/2013528",
-    "timestamp": "2026-07-07T13:36:33.557009+00:00",
-    "original_time": "2026-07-07T07:31:02+05:00"
-  },
-  {
-    "id": "article_ee7721761c24",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "America at 250",
-    "translated_title": "美国250岁",
-    "url": "https://www.dawn.com/news/2013522",
-    "timestamp": "2026-07-07T13:36:43.960236+00:00",
-    "original_time": "2026-07-07T07:21:44+05:00"
-  },
-  {
-    "id": "article_b19b6412edb6",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013262/ogra-notifies-15pc-increase-in-regasified-liquefied-natural-gas-price-for-june",
-    "timestamp": "2026-07-07T13:37:00.714033+00:00",
-    "original_time": "2026-07-07T13:37:00.714001+00:00"
-  },
-  {
-    "id": "article_a5683a52905a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PAF officer’s alleged killer sent to jail in Islamabad",
-    "translated_title": "杀害巴基斯坦空军军官的嫌疑人被送往伊斯兰堡监狱",
-    "url": "https://www.dawn.com/news/2013454/paf-officers-alleged-killer-sent-to-jail-in-islamabad",
-    "timestamp": "2026-07-07T13:37:17.504840+00:00",
-    "original_time": "2026-07-07T07:00:29+05:00"
-  },
-  {
-    "id": "article_2cc1bba91acd",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt misses deadline for notifying gas tariff",
-    "translated_title": "政府错过了通知天然气关税的最后期限",
-    "url": "https://www.dawn.com/news/2013504",
-    "timestamp": "2026-07-07T13:37:38.775105+00:00",
-    "original_time": "2026-07-07T06:59:42+05:00"
-  },
-  {
-    "id": "article_cad84dadf66c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Oil tanker hit by 'unknown projectile' in Strait of Hormuz region, says maritime agency",
-    "translated_title": "海事机构称，油轮在霍尔木兹海峡地区被“不明弹丸”击中",
-    "url": "https://www.dawn.com/news/2013561/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-region-says-maritime-agency",
-    "timestamp": "2026-07-07T13:37:44.747664+00:00",
-    "original_time": "2026-07-07T10:33:02+05:00"
-  },
-  {
-    "id": "article_e3d10b483415",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Customs foil attempt to smuggle marijuana worth Rs300m at Karachi's mail office",
-    "translated_title": "海关挫败卡拉奇邮局走私价值3亿卢比大麻的企图",
-    "url": "https://www.dawn.com/news/2013589/customs-foil-attempt-to-smuggle-marijuana-worth-rs300m-at-karachis-mail-office",
-    "timestamp": "2026-07-07T13:37:50.989558+00:00",
-    "original_time": "2026-07-07T15:04:59+05:00"
-  },
-  {
-    "id": "article_82b68f44c09b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Belgium thrash USA to end FIFA World Cup dream",
-    "translated_title": "比利时击败美国终结世界杯梦想",
-    "url": "https://www.dawn.com/news/2013525/belgium-thrash-usa-to-end-fifa-world-cup-dream",
-    "timestamp": "2026-07-07T13:37:57.106162+00:00",
-    "original_time": "2026-07-07T07:31:45+05:00"
   }
 ]
