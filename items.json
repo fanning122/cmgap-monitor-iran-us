@@ -1,6 +1,43 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_5842964412598057690",
+    "id": "tweet_ForeignOfficePk_4677591574863551401",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "PR No./Press Releasehttps://mofa.gov.pk/press-releases/press-release-28-02-2028…",
+    "translated_text": "PR号/新闻稿https://mofa.gov.pk/press-releases/press-release-28-02-2028…",
+    "images": [
+      "88f40ae084ace679.svg",
+      "49b80fa86f503c69.svg",
+      "42c644bbf48e04fc.svg",
+      "3b0dd08be59400c2.svg",
+      "59563c1a40d3d73b.svg",
+      "6dd70089c15d9c8c.svg",
+      "6927007c5e94b687.svg",
+      "1d7695f51048fca1.svg",
+      "40270fbbeba2e7c8.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/4677591574863551401",
+    "timestamp": "2026-07-08T17:28:23.828064+00:00",
+    "original_time": "2026-07-08T16:59:17+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_7945293126478794112",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "A delegation of the Polio Oversight Board (POB) called on Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50today.\n\nThe delegation included Mr. Mike McGovern, POB Chair, Rotary International; Dr. Chris Elias, President, Global Development, Gates",
+    "translated_text": "脊髓灰质炎监督委员会 (POB) 的一个代表团今天拜访了副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50。\n\n代表团成员包括国际扶轮社 POB 主席 Mike McGovern 先生；克里斯·埃利亚斯博士，盖茨全球发展总裁",
+    "images": [
+      "f27909651c7bfffa.jpg",
+      "a94a231a5939b5f6.jpg",
+      "4a68c4be021aba78.jpg",
+      "c8d4d9effa654685.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/7945293126478794112",
+    "timestamp": "2026-07-08T17:28:24.549499+00:00",
+    "original_time": "2026-07-08T16:35:57+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_3029105795623204309",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Visit of the Minister of Foreign and European Affairs of the Republic of Croatia H.E. Dr. Gordan Grlić Radman to Pakistan\n \n(09 July 2026)",
@@ -15,12 +52,12 @@
       "1d7695f51048fca1.svg",
       "8daaa00d53762b9b.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/5842964412598057690",
-    "timestamp": "2026-07-08T15:21:22.949635+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/3029105795623204309",
+    "timestamp": "2026-07-08T17:28:24.918080+00:00",
     "original_time": "2026-07-08T15:04:41+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-5901235943401793693",
+    "id": "tweet_ForeignOfficePk_550292113869368113",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Mr. Bilawal Bhutto Zardari@BBhuttoZardari, Chairman, Pakistan Peoples Party, met Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50at the Ministry of Foreign Affairs today.\n\nThe two leaders discussed the current situation in Azad Jammu and Kashmir as",
@@ -29,12 +66,12 @@
       "5b3e9b006743ebe6.jpg",
       "7fa81e643982fdea.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-5901235943401793693",
-    "timestamp": "2026-07-08T15:21:23.776498+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/550292113869368113",
+    "timestamp": "2026-07-08T17:28:25.283867+00:00",
     "original_time": "2026-07-08T14:30:33+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-7783703062541542308",
+    "id": "tweet_ForeignOfficePk_4937594607688716914",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50chaired the 7th meeting of the High-Level Committee overseeing preparations for the 9th OIC Ministerial Conference on Women, which Pakistan will host on 12–13 July 2026.\n\nThe Committee conducted a",
@@ -45,61 +82,58 @@
       "95f37c751469bf35.jpg",
       "b32f40af1fc9da81.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-7783703062541542308",
-    "timestamp": "2026-07-08T15:21:25.382677+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/4937594607688716914",
+    "timestamp": "2026-07-08T17:28:25.814146+00:00",
     "original_time": "2026-07-08T14:06:51+00:00"
   },
   {
-    "id": "tweet_MIshaqDar50_-8695951836845985754",
+    "id": "tweet_MIshaqDar50_0",
+    "type": "tweet",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
+    "images": [
+      "b1f1f6259ed6630e.jpg"
+    ],
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-07-08T17:28:41.964061+00:00",
+    "original_time": "2026-07-08T16:14:40+00:00"
+  },
+  {
+    "id": "tweet_MIshaqDar50_6831559769449755192",
     "type": "tweet",
     "username": "MIshaqDar50",
     "text": "Deeply grieved by the devastating floods in parts of China. Our hearts go out to the families who lost the loved ones and we pray for the swift recovery of all those injured.\n\nWe greatly admire the prompt rescue operations of the Chinese government and the incredible resilience",
     "translated_text": "对中国部分地区发生特大洪涝灾害深感悲痛。我们的心与失去亲人的家庭同在，并祈祷所有伤者早日康复。\n\n我们非常钦佩中国政府的迅速救援行动和令人难以置信的韧性",
     "images": [],
-    "url": "https://x.com/MIshaqDar50/status/-8695951836845985754",
-    "timestamp": "2026-07-08T15:21:25.565109+00:00",
+    "url": "https://x.com/MIshaqDar50/status/6831559769449755192",
+    "timestamp": "2026-07-08T17:28:42.514490+00:00",
     "original_time": "2026-07-08T10:56:32+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-8327567614523134335",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "H.E. Mr. Nawaf bin Saeed Ahmad Al-Malkiy, Ambassador of the Kingdom of Saudi Arabia to Pakistan@AmbassadorNawaf, called on the Deputy Prime Minister/Foreign Minister, Senator Mohammad Ishaq Dar@MIshaqDar50, today.\n\nThey exchanged views on the latest regional developments",
-    "translated_text": "他。沙特阿拉伯王国驻巴基斯坦大使纳瓦夫·本·赛义德·艾哈迈德·马尔基先生@AmbassadorNawaf 今天拜会了副总理兼外交部长、参议员穆罕默德·伊沙克·达尔@MIshaqDar50。\n\n双方就地区最新发展交换了意见",
-    "images": [
-      "f58e0b013f6f3361.jpg",
-      "2530f63abe8fdec6.jpg",
-      "0ca5df66eecc92d0.jpg",
-      "41639ab7adb87c9b.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/-8327567614523134335",
-    "timestamp": "2026-07-08T15:21:25.932925+00:00",
-    "original_time": "2026-07-08T10:43:18+00:00"
-  },
-  {
-    "id": "tweet_CMShehbaz_3025021197428536797",
+    "id": "tweet_CMShehbaz_-2023441855550861369",
     "type": "tweet",
     "username": "CMShehbaz",
     "text": "Deeply saddened by the tragic loss of lives and property caused by the recent devastating storms, tornadoes, landslides and heavy rains in the Guangxi Zhuang Autonomous Region, Hubei and Gansu provinces of China. \n\nThe people of Pakistan join me in extending our heartfelt",
     "translated_text": "近日，中国广西壮族自治区、湖北省、甘肃省发生特大风暴、龙卷风、山体滑坡和暴雨，造成人员伤亡和财产损失，我们深感悲痛。 \n\n巴基斯坦人民与我一起表达我们的衷心",
     "images": [],
-    "url": "https://x.com/CMShehbaz/status/3025021197428536797",
-    "timestamp": "2026-07-08T15:21:56.583006+00:00",
+    "url": "https://x.com/CMShehbaz/status/-2023441855550861369",
+    "timestamp": "2026-07-08T17:28:56.305535+00:00",
     "original_time": "2026-07-08T05:57:23+00:00"
   },
   {
-    "id": "tweet_PakPMO_-6567119476561305292",
+    "id": "tweet_PakPMO_5194697867155815539",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Islamabad: July 8, 2026\n\nA review meeting on the 100 MW solar energy project for Gilgit-Baltistan, chaired by Prime Minister Muhammad Shehbaz Sharif, was held today in Islamabad.\n\nAddressing the meeting, the Prime Minister said that promoting solar energy is an important",
     "translated_text": "伊斯兰堡：2026 年 7 月 8 日\n\n由总理穆罕默德·谢赫巴兹·谢里夫主持的吉尔吉特-巴尔蒂斯坦100兆瓦太阳能项目审查会议今天在伊斯兰堡举行。\n\n总理在会议上致辞时表示，推广太阳能是重要的",
     "images": [],
-    "url": "https://x.com/PakPMO/status/-6567119476561305292",
-    "timestamp": "2026-07-08T15:22:11.949293+00:00",
+    "url": "https://x.com/PakPMO/status/5194697867155815539",
+    "timestamp": "2026-07-08T17:29:11.522395+00:00",
     "original_time": "2026-07-08T10:42:17+00:00"
   },
   {
-    "id": "tweet_PakPMO_4288227340204346542",
+    "id": "tweet_PakPMO_-4740779198749994725",
     "type": "tweet",
     "username": "PakPMO",
     "text": "Prime Minister Muhammad Shehbaz Sharif chairing a review meeting regarding \"100MW Solar Power Project in GB\". Islamabad, 8 July 2026.",
@@ -107,156 +141,203 @@
     "images": [
       "79f24ac1359995bf.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/4288227340204346542",
-    "timestamp": "2026-07-08T15:22:12.146867+00:00",
+    "url": "https://x.com/PakPMO/status/-4740779198749994725",
+    "timestamp": "2026-07-08T17:29:11.772628+00:00",
     "original_time": "2026-07-08T10:42:07+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3513642026945951655",
+    "id": "tweet_drpezeshkian_-8804104010294637445",
+    "type": "tweet",
+    "username": "drpezeshkian",
+    "text": "Appreciation to the Prime Minister of Pakistan, Mr. Shehbaz Sharif, for attending the farewell and State funeral of the martyred Supreme Leader.@CMShehbaz",
+    "translated_text": "感谢巴基斯坦总理谢巴兹·谢里夫先生出席烈士最高领袖的告别仪式和国葬。@CMShehbaz",
+    "images": [
+      "a4ee65cbfed384c1.jpg"
+    ],
+    "url": "https://x.com/drpezeshkian/status/-8804104010294637445",
+    "timestamp": "2026-07-08T17:29:27.614198+00:00",
+    "original_time": "2026-07-08T15:33:59+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-3219835481673161226",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Thousands gather in Tehran as Iran bids farewell to former Supreme Leader Ayatollah Ali Khamenei. Leaders from across the world including Prime Minister Shehbaz Sharif, Field Marshal Syed Asim Munir and PPP Chairman Bilawal Bhutto Zardari, joined the funeral ceremonies to express",
-    "translated_text": "数千人聚集在德黑兰，伊朗告别前最高领袖哈梅内伊。谢赫巴兹·谢里夫总理、赛义德·阿西姆·穆尼尔元帅、人民党主席比拉瓦尔·布托·扎尔达里等世界各国领导人出席葬礼，表达哀悼之情",
+    "text": "The loudest claims of strength by Modi's India hide the deepest fears. Satluj, a movie based on the life of Sikh human rights activist Jaswant Singh Khalra, faced years of certification delays, censorship demands, a title change and controversy before finally reaching audiences",
+    "translated_text": "莫迪领导下的印度最响亮的实力宣扬背后隐藏着最深的恐惧。 《Satluj》是一部根据锡克教人权活动家贾斯万特·辛格·卡尔拉 (Jaswant Singh Khalra) 的一生改编的电影，在最终上映之前，经历了多年的认证延迟、审查要求、标题更改和争议",
+    "images": [
+      "3312f60329b0818b.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3219835481673161226",
+    "timestamp": "2026-07-08T17:29:43.990169+00:00",
+    "original_time": "2026-07-08T17:06:10+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-245883994352223152",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Russia has imposed a ban on diesel exports to boost domestic fuel supplies as Ukrainian strikes continue to target energy infrastructure, deepening shortages across several regions. The move aims to stabilise the domestic market amid mounting pressure on Russia's energy sector",
+    "translated_text": "由于乌克兰的罢工继续针对能源基础设施，加剧了多个地区的短缺，俄罗斯实施了柴油出口禁令，以增加国内燃料供应。此举旨在在俄罗斯能源行业压力加大的情况下稳定国内市场",
+    "images": [
+      "21e842faf658cbbc.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-245883994352223152",
+    "timestamp": "2026-07-08T17:29:45.592566+00:00",
+    "original_time": "2026-07-08T17:02:10+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-9021189785543171212",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Speaking at the NATO summit's closing press conference, US President Donald Trump said Israel “wouldn’t exist” without his presidency. He criticized the Iranian leaders and said they are not serving their people. He said that oil prices had plunged but may rise slightly while",
+    "translated_text": "美国总统唐纳德·特朗普在北约峰会闭幕新闻发布会上表示，如果没有他担任总统，以色列“将不会存在”。他批评伊朗领导人并表示他们没有为人民服务。他表示，油价已经暴跌，但可能会小幅上涨，而",
+    "images": [
+      "58d60d9afae5956a.jpg",
+      "85aaf977d44ab144.jpg",
+      "c267efce68a7abda.jpg",
+      "628ada41e57d1262.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-9021189785543171212",
+    "timestamp": "2026-07-08T17:29:46.830187+00:00",
+    "original_time": "2026-07-08T16:50:09+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1346804215832434262",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Speaking at the NATO Summit's closing press conference, US President Donald Trump said Iran “can never have a nuclear weapon”. He defended his actions as being in the best interests of the United States and the world. \"I am doing what's best for the country and for the world,\" he",
+    "translated_text": "美国总统唐纳德·特朗普在北约峰会闭幕新闻发布会上表示，伊朗“永远不可能拥有核武器”。他辩称自己的行为符合美国和世界的最大利益。 “我正在做对国家和世界最好的事情，”他",
+    "images": [
+      "c659bf19da0fb5c3.jpg",
+      "73354baf51c161fd.jpg",
+      "f782ae71c7623f7a.jpg",
+      "93c5fb3ddc23597e.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1346804215832434262",
+    "timestamp": "2026-07-08T17:29:47.767752+00:00",
+    "original_time": "2026-07-08T16:39:59+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-5437365542045487708",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGSpeaking at the NATO summit's closing press conference, President Trump declared the United States remains the world's strongest military power, said Iran's military capabilities have been \"decimated,\" and hailed NATO's agreement to raise defence spending to 5 percent.",
+    "translated_text": "#BREAKING在北约峰会闭幕新闻发布会上发表讲话时，特朗普总统宣布美国仍然是世界上最强大的军事强国，称伊朗的军事能力已被“削弱”，并赞扬北约同意将国防开支提高到 5%。",
+    "images": [
+      "6da44bbe8723786d.jpg",
+      "2f33890fca85787e.jpg",
+      "a3d09982f4b77f77.jpg",
+      "fab88607e9a8ba70.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-5437365542045487708",
+    "timestamp": "2026-07-08T17:29:48.840388+00:00",
+    "original_time": "2026-07-08T16:24:06+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-4667681205530719337",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Trump Meets Zelenskyy at NATO Summit",
+    "translated_text": "特朗普在北约峰会上会见泽伦斯基",
+    "images": [
+      "3ca45819baddb2ff.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-4667681205530719337",
+    "timestamp": "2026-07-08T17:29:51.900460+00:00",
+    "original_time": "2026-07-08T12:58:43+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_374331530059695274",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Prime Minister Shehbaz Sharif reviewed the progress of solar energy projects in Gilgit-Baltistan and directed authorities to ensure their timely completion with full transparency in procurement and payments. Calling the initiative a federal government's gift to the people of",
+    "translated_text": "谢赫巴兹·谢里夫总理审查了吉尔吉特-巴尔蒂斯坦太阳能项目的进展情况，并指示当局确保项目按时完成，采购和付款完全透明。称该倡议是联邦政府给美国人民的礼物",
+    "images": [
+      "6a571e2de2db95ef.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/374331530059695274",
+    "timestamp": "2026-07-08T17:29:52.721425+00:00",
+    "original_time": "2026-07-08T12:42:03+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-3710967442190344157",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Renowned journal The Diplomat has exposed the nefarious tactics of of extremist Hindu organisation, RSS. The RSS, which provides ideological support to the BJP remains unregistered despite nearly a century of existence, exempting it from certain financial reporting, audit and",
+    "translated_text": "著名期刊《外交家》揭露了印度教极端组织RSS的邪恶策略。尽管存在近一个世纪，为印度人民党提供意识形态支持的 RSS 仍未注册，使其免于某些财务报告、审计和审查。",
+    "images": [
+      "b00b89bb9154446e.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3710967442190344157",
+    "timestamp": "2026-07-08T17:29:53.744330+00:00",
+    "original_time": "2026-07-08T12:37:39+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_737168945453812502",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Defence analyst Ali Kamran Chishti says recent investigations into India-linked overseas plots reinforce Pakistan's longstanding position about the use of criminal networks by the Indian intelligence. Referring to such cases in North America and Europe, he says the allegations",
+    "translated_text": "国防分析师阿里·卡姆兰·奇什蒂表示，最近对与印度有关的海外阴谋的调查强化了巴基斯坦关于印度情报机构利用犯罪网络的长期立场。在谈到北美和欧洲的此类案件时，他说这些指控",
+    "images": [
+      "b5d27d03ea43cb56.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/737168945453812502",
+    "timestamp": "2026-07-08T17:29:54.577780+00:00",
+    "original_time": "2026-07-08T12:25:06+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-3767057597096864240",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Defence analyst Brig (R) Rashid Wali Janjua says allegations of India-linked overseas assassination plots point to a serious violation of international law. Referring to investigations in Canada and the United States, he says if such allegations are substantiated, they could",
+    "translated_text": "国防分析师拉希德·瓦利·扬朱亚准将表示，有关与印度有关的海外暗杀阴谋的指控表明，这严重违反了国际法。在谈到加拿大和美国的调查时，他表示，如果此类指控得到证实，他们可以",
+    "images": [
+      "63a927005d89a05a.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3767057597096864240",
+    "timestamp": "2026-07-08T17:29:54.859444+00:00",
+    "original_time": "2026-07-08T12:21:06+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3468802533842872575",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Former Ambassador Sardar Masood Khan says the reported collapse of the Iran-US memorandum of understanding is regrettable but I believe the diplomacy should not be abandoned. He says both sides have left the door open for dialogue despite renewed hostilities and Pakistan should",
+    "translated_text": "前大使萨达尔·马苏德·汗表示，伊朗与美国谅解备忘录破裂的报道令人遗憾，但我认为不应放弃外交。他表示，尽管敌对行动再次出现，但双方都为对话敞开了大门，巴基斯坦应该",
+    "images": [
+      "204fb4faee22c503.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/3468802533842872575",
+    "timestamp": "2026-07-08T17:29:55.147113+00:00",
+    "original_time": "2026-07-08T12:10:12+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-4109854446554802585",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "France launch their bid for a third FIFA World Cup title against Morocco on Thursday as the quarter-finals begin, with the tournament’s final eight teams set for a series of blockbuster knockout clashes.**#France#Morocco#FIFAWorldCup#WorldCup2026#PakistanTV",
+    "translated_text": "周四四分之一决赛开始时，法国将对阵摩洛哥，争夺第三个世界杯冠军，赛事的最后八支球队将进行一系列轰动一时的淘汰赛。**#France#Morocco#FIFAWorldCup#WorldCup2026#PakistanTV",
+    "images": [
+      "df38c3f6ca196b56.png",
+      "98e44dcfb3ba9383.png",
+      "a7ab75ac4baf5806.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-4109854446554802585",
+    "timestamp": "2026-07-08T17:30:00.766271+00:00",
+    "original_time": "2026-07-08T07:22:17+00:00"
+  },
+  {
+    "id": "tweet_araghchi_-8325046625572564443",
+    "type": "tweet",
+    "username": "araghchi",
+    "text": "Addressing the Civilized and Courageous Nation of Iran with derogatory language does not diminish its Greatness.\n\nIranians are known for their civility, culture, and strong moral values. We do not answer vulgarity with vulgarity, but with action: fearlessly and with great valor.",
+    "translated_text": "用贬义的语言称呼伊朗这个文明而勇敢的国家并不会削弱它的伟大。\n\n伊朗人以其文明、文化和强烈的道德价值观而闻名。我们不会用粗俗来回应粗俗，而是用行动：无所畏惧、英勇无畏。",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-3513642026945951655",
-    "timestamp": "2026-07-08T15:22:43.163884+00:00",
-    "original_time": "2026-07-08T15:03:26+00:00"
+    "url": "https://x.com/araghchi/status/-8325046625572564443",
+    "timestamp": "2026-07-08T17:31:25.216983+00:00",
+    "original_time": "2026-07-08T17:16:22+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-9009634229551566202",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The Indus is not just a river, it is Pakistan's lifeline. Water should unite nations, not be used as a tool of coercion. Weaponizing shared rivers threatens millions, undermines international law and endangers regional stability. The Indus Waters Treaty must be respected, because",
-    "translated_text": "印度河不仅仅是一条河流，它是巴基斯坦的生命线。水应该团结各国，而不是被用作胁迫工具。将共享河流武器化会威胁数百万人、破坏国际法并危及地区稳定。 《印度河水域条约》必须得到尊重，因为",
-    "images": [
-      "d2cfd992bffed4fc.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-9009634229551566202",
-    "timestamp": "2026-07-08T15:22:44.130793+00:00",
-    "original_time": "2026-07-08T14:42:35+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-8554148225514071117",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "#BREAKINGUS President Donald Trump, speaking to journalists alongside Syrian President Ahmed al-Sharaa at the NATO Summit, said oil prices are falling as it's production increases. He said Israel wants to withdraw its troops from Lebanon.#Trump#NATOSummit#Syria#Israel",
-    "translated_text": "#BREAKINGUS 美国总统唐纳德·特朗普在北约峰会上与叙利亚总统艾哈迈德·沙拉一起对记者表示，随着产量增加，油价正在下跌。他说以色列希望从黎巴嫩撤军。#Trump#NATOSummit#Syria#Israel",
-    "images": [
-      "b65c62912814cd6a.jpg",
-      "b114b784955dd2ef.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-8554148225514071117",
-    "timestamp": "2026-07-08T15:22:45.094043+00:00",
-    "original_time": "2026-07-08T14:41:22+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-4249456267268151798",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Trump, Al-Sharaa Meet at NATO Summit",
-    "translated_text": "特朗普与萨拉在北约峰会上会面",
-    "images": [
-      "cac137de2fc56a38.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-4249456267268151798",
-    "timestamp": "2026-07-08T15:22:46.593336+00:00",
-    "original_time": "2026-07-08T14:34:33+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_5509809731079397781",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Chief of Army Staff & Chief of Defence Forces, Field Marshal Syed Asim Munir, addressing graduating officers at the National Defence University, reaffirmed Pakistan Armed Forces' resolve to defeat terrorism and dismantle hostile proxy networks. Stressing the changing nature of",
-    "translated_text": "陆军参谋长兼国防军参谋长赛义德·阿西姆·穆尼尔元帅在国防大学向即将毕业的军官发表讲话，重申了巴基斯坦武装部队击败恐怖主义和摧毁敌对代理人网络的决心。强调性质的变化",
-    "images": [
-      "964d48724321037a.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/5509809731079397781",
-    "timestamp": "2026-07-08T15:22:47.947016+00:00",
-    "original_time": "2026-07-08T14:26:38+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3983199729322401015",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Saudi Ambassador Nawaf bin Saeed Ahmad Al-Malkiy met Deputy PM Ishaq Dar and exchanged views on regional developments, dialogue, and diplomatic efforts following the Islamabad MoU.@MIshaqDar50@ForeignOfficePk@AmbassadorNawaf#PakistanSaudiRelations#IshaqDar#SaudiArabia",
-    "translated_text": "沙特大使纳瓦夫·本·赛义德·艾哈迈德·马尔基会见了副总理伊沙克·达尔，并就伊斯兰堡谅解备忘录签署后的地区发展、对话和外交努力交换了意见。@MIshaqDar50@ForeignOfficePk@AmbassadorNawaf#PakistanSaudiRelations#IshaqDar#SaudiArabia",
-    "images": [
-      "c10e7d468a922ecd.png"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3983199729322401015",
-    "timestamp": "2026-07-08T15:22:50.223985+00:00",
-    "original_time": "2026-07-08T11:37:20+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_380305669892650095",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "K2 Airways Boeing 737 cargo aircraft goes missing over the Arabian Sea while en route from Sharjah to Karachi. Five crew members were onboard as authorities begin search and investigation efforts after contact was lost west of Karachi.#K2Airways#Karachi#AviationNews",
-    "translated_text": "K2 航空公司的波音 737 货机在从沙迦飞往卡拉奇的途中在阿拉伯海上空失踪。在卡拉奇以西失去联系后，当局开始搜索和调查，机上有五名机组人员。#K2Airways#Karachi#AviationNews",
-    "images": [
-      "97e2dbe36259c49d.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/380305669892650095",
-    "timestamp": "2026-07-08T15:22:51.300865+00:00",
-    "original_time": "2026-07-08T11:31:55+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-6223489083699435810",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "#BREAKINGUS Department of Justice announces Operation Hard Ball, unveiling indictments against India-linked transnational criminal networks for involvement in target killings, drug trafficking, arms trafficking, extortion and other organised crimes across the US, Canada and",
-    "translated_text": "#BREAKINGUS 司法部宣布实施硬球行动，对与印度有关的跨国犯罪网络提出起诉，指控其参与美国、加拿大和美国等地区的定点清除、贩毒、武器贩运、敲诈勒索和其他有组织犯罪",
-    "images": [
-      "de92c6abee105319.jpg",
-      "cc7eff31c5420112.jpg",
-      "076ee3b98a10a33a.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6223489083699435810",
-    "timestamp": "2026-07-08T15:22:52.247181+00:00",
-    "original_time": "2026-07-08T11:29:42+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_217224424036421994",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Residents of Leepa Valley have rejected the hostile narrative against Pakistan and its institutions, stating that Pakistan and the Pakistan Army have stood by them during difficult times, a support they will never forget.#LeepaValley#Pakistan#PakistanArmy#AzadKashmir",
-    "translated_text": "利帕谷的居民拒绝接受针对巴基斯坦及其机构的敌对言论，称巴基斯坦和巴基斯坦军队在困难时期一直支持他们，这是他们永远不会忘记的支持。#LeepaValley#Pakistan#PakistanArmy#AzadKashmir",
-    "images": [
-      "852f1389c37251d6.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/217224424036421994",
-    "timestamp": "2026-07-08T15:22:53.431254+00:00",
-    "original_time": "2026-07-08T11:06:15+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-6117151804248452187",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The European Union Aviation Safety Agency (EASA) has urged airlines to avoid flying through Iranian and Iraqi airspace due to heightened security risks, as tensions in the region continue to raise concerns over the safety of civilian flights.#EASA#AviationSafety#AirspaceAlert",
-    "translated_text": "由于安全风险加剧，欧盟航空安全局 (EASA) 敦促航空公司避免飞越伊朗和伊拉克领空，因为该地区的紧张局势继续引起人们对民用航班安全的担忧。#EASA#AviationSafety#AirspaceAlert",
-    "images": [
-      "9c7762e0748e55dc.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6117151804248452187",
-    "timestamp": "2026-07-08T15:22:54.060944+00:00",
-    "original_time": "2026-07-08T11:04:25+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3352309687498217797",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "NATO leaders pose for a group photograph during the summit in Ankara, highlighting cooperation and shared commitments among member states.\n\nDisclaimer: This video is intended for informational and editorial use only. All footage, visuals, and referenced content are the property",
-    "translated_text": "北约领导人在安卡拉峰会期间合影留念，强调成员国之间的合作和共同承诺。\n\n免责声明：该视频仅供参考和编辑用途。所有素材、视觉效果和引用内容均为财产",
-    "images": [
-      "9ab7ec5ea6f1808c.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3352309687498217797",
-    "timestamp": "2026-07-08T15:22:54.479602+00:00",
-    "original_time": "2026-07-08T11:01:43+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_4863602659223351499",
+    "id": "tweet_IRIMFA_-8934996373144306956",
     "type": "tweet",
     "username": "IRIMFA",
     "text": "Foreign Ministry Statement on the Aggressive Attacks by the United States and the Gross Violation of the Memorandum of Understanding to End the War\n\nThe terrorist army of the United States, in the early hours of Wednesday, July 8, 2026, by flagrantly violating Article 2,",
@@ -264,54 +345,82 @@
     "images": [
       "a43280bb986117c3.jpg"
     ],
-    "url": "https://x.com/IRIMFA/status/4863602659223351499",
-    "timestamp": "2026-07-08T15:23:42.858850+00:00",
+    "url": "https://x.com/IRIMFA/status/-8934996373144306956",
+    "timestamp": "2026-07-08T17:31:39.379644+00:00",
     "original_time": "2026-07-08T06:47:35+00:00"
   },
   {
-    "id": "tweet_AJENews_-3867121898019571188",
+    "id": "tweet_AJENews_-3410309117925375160",
     "type": "tweet",
     "username": "AJENews",
     "text": "LIVE: US President Trump and Ukrainian counterpart Zelenskyy speak on the second day of the NATO summit",
     "translated_text": "直播：美国总统特朗普和乌克兰总统泽连斯基在北约峰会第二天发表讲话",
     "images": [
       "9b20f961c2ada6de.svg",
-      "c90d3d95435d6dd1.jpg"
+      "7de2d64e212788b7.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-3867121898019571188",
-    "timestamp": "2026-07-08T15:24:14.393336+00:00",
+    "url": "https://x.com/AJENews/status/-3410309117925375160",
+    "timestamp": "2026-07-08T17:32:09.309196+00:00",
     "original_time": "2026-07-08T12:53:56+00:00"
   },
   {
-    "id": "tweet_AJENews_8980212185444126613",
+    "id": "tweet_AJENews_3390843745639222960",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Erdogan hopeful on US-Iran MoU warns against 'provocations'LIVE updates:https://aje.news/9wgqf3?update=4750183…",
-    "translated_text": "突发新闻：埃尔多安对美伊谅解备忘录充满希望，警告不要“挑衅”实时更新：https://aje.news/9wgqf3?update=4750183…",
+    "text": "BREAKING: UN chief Guterres urges 'maximum restraint' between US, IranLIVE updates:https://aje.news/9wgqf3?update=4750557…",
+    "translated_text": "突发新闻：联合国秘书长古特雷斯敦促美国和伊朗之间保持“最大限度的克制”实时更新：https://aje.news/9wgqf3?update=4750557…",
     "images": [
       "7f1a451786c84548.svg",
-      "f48d18ab7f61f3f7.jpg"
+      "93091a5c5dc910bc.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8980212185444126613",
-    "timestamp": "2026-07-08T15:24:15.411893+00:00",
-    "original_time": "2026-07-08T15:20:33+00:00"
+    "url": "https://x.com/AJENews/status/3390843745639222960",
+    "timestamp": "2026-07-08T17:32:10.304501+00:00",
+    "original_time": "2026-07-08T17:30:57+00:00"
   },
   {
-    "id": "tweet_AJENews_-8509594553354196649",
+    "id": "tweet_AJENews_-5286362339508233883",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump says he 'thinks' he will remove Syria from US terrorism sponsor listLIVE updates:https://aje.news/9wgqf3?update=4750234…",
-    "translated_text": "突发新闻：特朗普表示，他“认为”他会将叙利亚从美国恐怖主义赞助者名单中删除实时更新：https://aje.news/9wgqf3?update=4750234…",
+    "text": "BREAKING: US violated MoU terms through unilateral actions and attacks: Iran Foreign Ministry SpokesmanLIVE updates:https://aje.news/9wgqf3?update=4750623…",
+    "translated_text": "突发事件：美国通过单方面行动和攻击违反了谅解备忘录条款：伊朗外交部发言人实时更新：https://aje.news/9wgqf3?update=4750623…",
     "images": [
       "7f1a451786c84548.svg",
-      "3f75de01a366db85.jpg"
+      "c6ecf9326e95a5de.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-8509594553354196649",
-    "timestamp": "2026-07-08T15:24:15.909934+00:00",
-    "original_time": "2026-07-08T15:13:53+00:00"
+    "url": "https://x.com/AJENews/status/-5286362339508233883",
+    "timestamp": "2026-07-08T17:32:11.036442+00:00",
+    "original_time": "2026-07-08T17:25:27+00:00"
   },
   {
-    "id": "tweet_AJENews_4270070413629037097",
+    "id": "tweet_AJENews_-4257032096362075658",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: We laid foundation of a stronger NATO: President ErdoganLIVE updates:https://aje.news/vxp86z?update=4750657…",
+    "translated_text": "突发新闻：我们为更强大的北约奠定了基础：埃尔多安总统实时更新：https://aje.news/vxp86z?update=4750657…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "265a0e3153fe52cd.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-4257032096362075658",
+    "timestamp": "2026-07-08T17:32:11.663891+00:00",
+    "original_time": "2026-07-08T17:22:13+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-5093826683888037377",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Two men were killed in an Israeli drone strike in southern Lebanon, the National News Agency is reportingLIVE updates:https://aje.news/9wgqf3?update=4750648…",
+    "translated_text": "突发新闻：两名男子在黎巴嫩南部的以色列无人机袭击中丧生，国家通讯社正在报道实时更新：https://aje.news/9wgqf3?update=4750648...",
+    "images": [
+      "7f1a451786c84548.svg",
+      "8a04e3281981d57a.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-5093826683888037377",
+    "timestamp": "2026-07-08T17:32:12.638429+00:00",
+    "original_time": "2026-07-08T17:21:26+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-8868065990648419017",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: US 'adventurism will be met with immediate response': Ali Akbar Velayati, adviser to Iran's supreme leader, saysLIVE updates:https://aje.news/9wgqf3?update=4750147…",
@@ -320,12 +429,12 @@
       "7f1a451786c84548.svg",
       "d98206f887d9dc46.jpg"
     ],
-    "url": "https://x.com/AJENews/status/4270070413629037097",
-    "timestamp": "2026-07-08T15:24:16.882641+00:00",
+    "url": "https://x.com/AJENews/status/-8868065990648419017",
+    "timestamp": "2026-07-08T17:32:15.472428+00:00",
     "original_time": "2026-07-08T15:10:39+00:00"
   },
   {
-    "id": "tweet_AJENews_-2167722586277482902",
+    "id": "tweet_AJENews_8929186162897549785",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Trump calls Netanyahu 'a great wartime prime minister'LIVE updates:https://aje.news/9wgqf3?update=4750213…",
@@ -334,385 +443,442 @@
       "7f1a451786c84548.svg",
       "1a800eaeead98aba.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-2167722586277482902",
-    "timestamp": "2026-07-08T15:24:18.001604+00:00",
+    "url": "https://x.com/AJENews/status/8929186162897549785",
+    "timestamp": "2026-07-08T17:32:16.724893+00:00",
     "original_time": "2026-07-08T15:00:05+00:00"
   },
   {
-    "id": "tweet_AJENews_2386874901304990917",
+    "id": "tweet_AJENews_-6217586770128339770",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Increasingly destructive Ukraine drone strikes on Russia can help end the war, says President TrumpLIVE updates:https://aje.news/vxp86z?update=4749974…",
-    "translated_text": "突发新闻：特朗普总统表示，乌克兰无人机对俄罗斯的破坏性越来越大，有助于结束战争：https://aje.news/vxp86z?update=4749974…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "24c09623553920f6.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/2386874901304990917",
-    "timestamp": "2026-07-08T15:24:20.693581+00:00",
-    "original_time": "2026-07-08T13:55:13+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-421850815255078370",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Trump says latest strikes on Iran had 'tremendous impact'LIVE updates:https://aje.news/9wgqf3?update=4749943…",
-    "translated_text": "突发：特朗普表示对伊朗的最新打击产生了“巨大影响”实时更新：https://aje.news/9wgqf3?update=4749943…",
+    "text": "BREAKING: Trump says he thinks Israel will withdraw troops from southern LebanonLIVE updates:https://aje.news/9wgqf3?update=4750170…",
+    "translated_text": "突发新闻：特朗普表示，他认为以色列将从黎巴嫩南部撤军实时更新：https://aje.news/9wgqf3?update=4750170...",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-421850815255078370",
-    "timestamp": "2026-07-08T15:24:21.110171+00:00",
-    "original_time": "2026-07-08T13:46:28+00:00"
+    "url": "https://x.com/AJENews/status/-6217586770128339770",
+    "timestamp": "2026-07-08T17:32:17.577833+00:00",
+    "original_time": "2026-07-08T14:46:56+00:00"
   },
   {
-    "id": "tweet_AJENews_9032771478940161336",
+    "id": "tweet_AJENews_-2799123937801289737",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump: Iranian leaders were worried US was going to kill them at Kahamenei funeralLIVE updates:https://aje.news/9wgqf3?update=4749927…",
-    "translated_text": "突发：特朗普：伊朗领导人担心美国会在卡哈梅内伊葬礼上杀死他们实时更新：https://aje.news/9wgqf3?update=4749927…",
+    "text": "BREAKING: Germany's Chancellor Merz urges sustainable Iran agreement, blames Tehran for interim ceasefire breachLIVE updates:https://aje.news/9wgqf3?update=4750141…",
+    "translated_text": "突发新闻：德国总理默茨敦促可持续的伊朗协议，指责德黑兰违反临时停火协议实时更新：https://aje.news/9wgqf3?update=4750141…",
     "images": [
       "7f1a451786c84548.svg",
-      "d57a67499aec0b89.jpg"
+      "5068559d98cae582.jpg"
     ],
-    "url": "https://x.com/AJENews/status/9032771478940161336",
-    "timestamp": "2026-07-08T15:24:21.639553+00:00",
-    "original_time": "2026-07-08T13:42:26+00:00"
+    "url": "https://x.com/AJENews/status/-2799123937801289737",
+    "timestamp": "2026-07-08T17:32:18.747582+00:00",
+    "original_time": "2026-07-08T14:45:30+00:00"
   },
   {
-    "id": "tweet_AJENews_-1959339871746450369",
+    "id": "tweet_AJENews_-1375051650420482697",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: NATO allies to deploy minesweepers at Hormuz: TrumpLIVE updates:https://aje.news/vxp86z?update=4749936…",
-    "translated_text": "突发新闻：北约盟国将在霍尔木兹部署扫雷舰：特朗普现场更新：https://aje.news/vxp86z?update=4749936…",
+    "text": "BREAKING: Trump again suggests Syria may play a role against Hezbollah in LebanonLIVE updates:https://aje.news/vxp86z?update=4750121…",
+    "translated_text": "突发新闻：特朗普再次暗示叙利亚可能会在黎巴嫩对抗真主党实时更新：https://aje.news/vxp86z?update=4750121…",
     "images": [
       "7f1a451786c84548.svg",
-      "d5af2329d5000147.jpg"
+      "da6beb896dfa0777.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-1959339871746450369",
-    "timestamp": "2026-07-08T15:24:22.223313+00:00",
-    "original_time": "2026-07-08T13:39:18+00:00"
+    "url": "https://x.com/AJENews/status/-1375051650420482697",
+    "timestamp": "2026-07-08T17:32:19.289852+00:00",
+    "original_time": "2026-07-08T14:42:51+00:00"
   },
   {
-    "id": "tweet_AJENews_2562285566087716376",
+    "id": "tweet_AJENews_8509951647750080188",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump says unsure if any future deal with Iran will 'stick'LIVE updates:https://aje.news/9wgqf3?update=4749917…",
-    "translated_text": "突发新闻：特朗普表示不确定未来与伊朗的任何协议是否会“坚持”实时更新：https://aje.news/9wgqf3?update=4749917…",
+    "text": "BREAKING: Trump says oil prices to raise 'a little' as a result of Iran attacksLIVE updates:https://aje.news/9wgqf3?update=4750161…",
+    "translated_text": "突发新闻：特朗普表示，由于伊朗袭击，油价将“小幅上涨”实时更新：https://aje.news/9wgqf3?update=4750161…",
     "images": [
       "7f1a451786c84548.svg",
-      "3d2f72db8a930be4.jpg"
+      "e92d679f402cb17e.jpg"
     ],
-    "url": "https://x.com/AJENews/status/2562285566087716376",
-    "timestamp": "2026-07-08T15:24:22.992046+00:00",
-    "original_time": "2026-07-08T13:38:17+00:00"
+    "url": "https://x.com/AJENews/status/8509951647750080188",
+    "timestamp": "2026-07-08T17:32:19.790509+00:00",
+    "original_time": "2026-07-08T14:41:50+00:00"
   },
   {
-    "id": "tweet_AJENews_-7934987432689195875",
+    "id": "tweet_AJENews_13137393892444781",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: I would go to Ukraine at the right time, says Trump at NATO summitLIVE updates:https://aje.news/vxp86z?update=4749883…",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "BREAKING: Trump announces lifting of sanctions on Syria at NATO summitLIVE updates:https://aje.news/vxp86z?update=4750124…",
+    "translated_text": "突发新闻：特朗普在北约峰会上宣布取消对叙利亚的制裁实时更新：https://aje.news/vxp86z?update=4750124…",
     "images": [
       "7f1a451786c84548.svg",
-      "cedc7a8431ed41dc.jpg"
+      "eb4eb9d1ac37612a.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-7934987432689195875",
-    "timestamp": "2026-07-08T15:24:23.918456+00:00",
-    "original_time": "2026-07-08T13:34:52+00:00"
+    "url": "https://x.com/AJENews/status/13137393892444781",
+    "timestamp": "2026-07-08T17:32:20.476276+00:00",
+    "original_time": "2026-07-08T14:34:52+00:00"
   },
   {
-    "id": "tweet_AJENews_-2917985427326025118",
+    "id": "tweet_AJENews_7767802881795063498",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump says US to give Ukraine the right to make Patriot missilesLIVE updates:https://aje.news/vxp86z?update=4749886…",
-    "translated_text": "突发新闻：特朗普表示美国将给予乌克兰制造爱国者导弹的权利实时更新：https://aje.news/vxp86z?update=4749886…",
+    "text": "BREAKING: NATO allies invest $30.8bn in fuel storage infrastructureLIVE updates:https://aje.news/vxp86z?update=4749970…",
+    "translated_text": "突发新闻：北约盟国投资 308 亿美元用于燃料储存基础设施实时更新：https://aje.news/vxp86z?update=4749970…",
     "images": [
       "7f1a451786c84548.svg",
-      "740c35f7efc01072.jpg"
+      "9bb8515d83013c4d.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-2917985427326025118",
-    "timestamp": "2026-07-08T15:24:24.527625+00:00",
-    "original_time": "2026-07-08T13:27:15+00:00"
+    "url": "https://x.com/AJENews/status/7767802881795063498",
+    "timestamp": "2026-07-08T17:32:21.282146+00:00",
+    "original_time": "2026-07-08T14:30:25+00:00"
   },
   {
-    "id": "tweet_AJENews_551721346598184704",
+    "id": "tweet_AJENews_-1767394220507498470",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump says US may 'de-nuclearlise' Iran 'without a deal',  without going into detailsLIVE updates:https://aje.news/9wgqf3?update=4749864…",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "BREAKING: Trump meets Syria's leader Ahmed al-Sharaa at NATO summitLIVE updates:https://aje.news/vxp86z?update=4750110…",
+    "translated_text": "突发新闻：特朗普在北约峰会上会见叙利亚领导人艾哈迈德·萨拉 实时更新：https://aje.news/vxp86z?update=4750110…",
     "images": [
       "7f1a451786c84548.svg",
-      "ba27ac74b0ba6559.jpg"
+      "5ff2ca95bbbaa063.jpg"
     ],
-    "url": "https://x.com/AJENews/status/551721346598184704",
-    "timestamp": "2026-07-08T15:24:24.860729+00:00",
-    "original_time": "2026-07-08T13:25:19+00:00"
+    "url": "https://x.com/AJENews/status/-1767394220507498470",
+    "timestamp": "2026-07-08T17:32:22.101754+00:00",
+    "original_time": "2026-07-08T14:28:52+00:00"
   },
   {
-    "id": "tweet_AJENews_6275767286953525415",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran's embassy in Japan accuses US of undermining MoU on multiple frontsLIVE updates:https://aje.news/9wgqf3?update=4748962…",
-    "translated_text": "突发新闻：伊朗驻日本大使馆指责美国在多个方面破坏谅解备忘录实时更新：https://aje.news/9wgqf3?update=4748962…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "312811e6bba154af.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6275767286953525415",
-    "timestamp": "2026-07-08T15:24:27.112946+00:00",
-    "original_time": "2026-07-08T09:45:44+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2651644001433849796",
+    "id": "tweet_CBSNews_5976046760300681235",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump says he thinks he will remove Syria from the United States' list of state sponsors of terrorism during his meeting with Syrian President Ahmed ​al-Sharaa in Ankara, Turkey.",
-    "translated_text": "特朗普总统表示，他认为在土耳其安卡拉与叙利亚总统艾哈迈德·萨拉会晤期间，他将把叙利亚从美国支持恐怖主义的国家名单中删除。",
+    "text": "2026 Emmy nominations are announced. See the full list.",
+    "translated_text": "2026 年艾美奖提名公布。查看完整列表。",
     "images": [
-      "1258f5038bef8b8c.jpg"
+      "b30b1530fe580110.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2651644001433849796",
-    "timestamp": "2026-07-08T15:26:08.063580+00:00",
-    "original_time": "2026-07-08T15:22:50+00:00"
+    "url": "https://x.com/CBSNews/status/5976046760300681235",
+    "timestamp": "2026-07-08T17:34:01.136605+00:00",
+    "original_time": "2026-07-08T17:20:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_4063383788102844602",
+    "id": "tweet_CBSNews_1127740229978907702",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump says the U.S. will hit Iran \"hard again tonight.\"",
-    "translated_text": "特朗普总统表示，美国将“今晚再次严厉打击伊朗”。",
+    "text": "As oil prices rise amid the end of the ceasefire between Iran and the U.S., President Trump says \"they'll be up a little bit, and this will end very quickly...we have an oil glut right now.\"\n\n\"And I've predicted everything. I've been right about everything, and I have been for a",
+    "translated_text": "随着伊朗和美国停火结束期间油价上涨，特朗普总统表示“油价会上涨一点，而且这种情况很快就会结束……我们现在面临石油过剩。”\n\n“我预测了一切。我对一切的预测都是对的，而且我一直以来都是对的。”",
+    "images": [
+      "bbce318d4f5b7253.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1127740229978907702",
+    "timestamp": "2026-07-08T17:34:01.803239+00:00",
+    "original_time": "2026-07-08T17:20:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1972120154512038657",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "When pressed about why he isn’t flying on the new Qatari-gifted Air Force One back to the United States from the NATO summit in Turkey, President Trump said: “It’s flying to Europe to one of the big bases… where we can show it to the people. And we'll be going home by normal",
+    "translated_text": "当被问及为什么他不乘坐卡塔尔赠送的新型空军一号从土耳其的北约峰会返回美国时，特朗普总统表示：“它飞往欧洲的一个大型基地……在那里我们可以向人们展示它。我们将按正常方式回家",
+    "images": [
+      "cab07a7de49137ee.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1972120154512038657",
+    "timestamp": "2026-07-08T17:34:02.893581+00:00",
+    "original_time": "2026-07-08T17:00:33+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_5281579971544335705",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Trump, seeking delay of payment to E. Jean Carroll, asks Supreme Court to reconsider",
+    "translated_text": "特朗普寻求推迟向 E. Jean Carroll 付款，要求最高法院重新考虑",
+    "images": [
+      "3dc379c3b1af2a2c.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/5281579971544335705",
+    "timestamp": "2026-07-08T17:34:03.142792+00:00",
+    "original_time": "2026-07-08T17:00:01+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-4856383971998196828",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "“Communism is a disaster. It's been proven to be for thousands of years, under different names, but the same thing,\" President Trump said when asked what his message is to people living under communist and socialist regimes, as well as to people living under democracies in Europe",
+    "translated_text": "当被问及他向生活在共产主义和社会主义政权下的人们以及生活在欧洲民主国家的人们传达什么信息时，特朗普总统说：“共产主义是一场灾难。几千年来，它已经被证明是不同的名称，但都是同一件事。”",
+    "images": [
+      "2630a56637f6f167.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-4856383971998196828",
+    "timestamp": "2026-07-08T17:34:03.811874+00:00",
+    "original_time": "2026-07-08T16:49:04+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-621634682960175040",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "President Trump said the U.S. would likely launch more strikes against Iran Wednesday night, telling reporters at a NATO summit in Turkey \"we hit them very hard last night,\" and \"we're going to hit them hard again tonight.\"https://cbsn.ws/3QJLsYZ",
+    "translated_text": "特朗普总统表示，美国可能会在周三晚上对伊朗发动更多打击，他在土耳其举行的北约峰会上告诉记者“我们昨晚对他们进行了非常严厉的打击”，“我们今晚将再次对他们进行严厉打击。”https://cbsn.ws/3QJLsYZ",
+    "images": [
+      "a149eafd471ca74c.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-621634682960175040",
+    "timestamp": "2026-07-08T17:34:07.317641+00:00",
+    "original_time": "2026-07-08T14:29:33+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-3046618425587032144",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Michigan's remaining Democratic Senate candidates — Rep. Haley Stevens and former Michigan health official Abdul El-Sayed — sparred over support for Israel and the direction of the Democratic party during a one-on-one debate Tuesday.",
+    "translated_text": "密歇根州剩下的民主党参议院候选人——众议员海莉·史蒂文斯和前密歇根州卫生官员阿卜杜勒·埃尔-赛义德——在周二的一对一辩论中就对以色列的支持和民主党的方向发生了争执。",
+    "images": [
+      "e11effc8d520ceaf.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-3046618425587032144",
+    "timestamp": "2026-07-08T17:34:08.111361+00:00",
+    "original_time": "2026-07-08T14:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1524247635070973539",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A German palliative care doctor accused of killing 15 patients and described by prosecutors as having \"a lust for murder\" was convicted Wednesday and sentenced to life in prison.",
+    "translated_text": "周三，一名德国姑息治疗医生被指控杀害 15 名患者，并被检察官描述为“有谋杀欲望”，被定罪并被判处终身监禁。",
+    "images": [
+      "be58f038acfdf16e.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1524247635070973539",
+    "timestamp": "2026-07-08T17:34:09.294446+00:00",
+    "original_time": "2026-07-08T13:54:48+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_6887132745400554470",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "President Trump said the U.S. would likely launch more strikes against Iran Wednesday night, telling reporters at a NATO summit in Turkey \"we hit them very hard last night,\" and \"we're going to hit them hard again tonight.\"",
+    "translated_text": "特朗普总统表示，美国可能会在周三晚上对伊朗发动更多打击，他在土耳其举行的北约峰会上对记者说，“我们昨晚对他们进行了非常严厉的打击”，“我们今晚将再次对他们进行严厉打击”。",
     "images": [
       "aef3cac901dbac1c.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4063383788102844602",
-    "timestamp": "2026-07-08T15:26:08.701832+00:00",
-    "original_time": "2026-07-08T15:17:07+00:00"
+    "url": "https://x.com/CBSNews/status/6887132745400554470",
+    "timestamp": "2026-07-08T17:34:09.562701+00:00",
+    "original_time": "2026-07-08T13:52:22+00:00"
   },
   {
-    "id": "tweet_CBSNews_5293508686843192858",
+    "id": "tweet_CBSNews_-1191242482186345273",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump said Wednesday the U.S. will give Ukraine a production license to build its own Patriot missile interceptors for defense, granting a major request from Ukrainian President Volodymyr Zelenskyy amid the ongoing war with Russia.",
-    "translated_text": "特朗普总统周三表示，美国将给予乌克兰生产许可证，以建造自己的爱国者导弹拦截器用于防御，在与俄罗斯正在进行的战争中批准了乌克兰总统泽伦斯基的一项重大请求。",
+    "text": "China's military test-launched a long-range ballistic missile from a nuclear-powered submarine in the South Pacific, drawing protest and concern from countries in the region.",
+    "translated_text": "中国在南太平洋核潜艇试射远程弹道导弹，引发地区国家抗议和担忧。",
     "images": [
-      "05f40b58cb3347f3.jpg"
+      "1fc9cfd17e438e04.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/5293508686843192858",
-    "timestamp": "2026-07-08T15:26:08.939679+00:00",
-    "original_time": "2026-07-08T15:16:40+00:00"
+    "url": "https://x.com/CBSNews/status/-1191242482186345273",
+    "timestamp": "2026-07-08T17:34:10.329782+00:00",
+    "original_time": "2026-07-08T13:50:44+00:00"
   },
   {
-    "id": "tweet_CBSNews_3692093416224308879",
+    "id": "tweet_CBSNews_-5439410062140153807",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Kentucky Gov. Andy Beshear formally requested an update from Sen. Mitch McConnell amid a weekslong hospitalization that has prompted growing speculation about his health.",
-    "translated_text": "肯塔基州州长安迪·贝希尔 (Andy Beshear) 正式要求参议员米奇·麦康奈尔 (Mitch McConnell) 提供最新情况，因为他住院一周，这引发了人们对他健康状况的越来越多的猜测。",
+    "text": "President Trump said the U.S. would probably hit Iran with a deluge of strikes again Wednesday evening.\n\n\"I'll give them a little warning, we're going to hit them hard again tonight,\" he said, adding that the U.S. hit Iran \"hard last night\" after Iran launched \"a couple of drones",
+    "translated_text": "特朗普总统表示，美国可能会在周三晚上再次对伊朗进行大量打击。\n\n他说：“我会给他们一个小小的警告，我们今晚将再次严厉打击他们。”他补充说，在伊朗发射“几架无人机”后，美国“昨晚”对伊朗进行了“严厉打击”。",
     "images": [
-      "e03434116afee434.jpg"
+      "42e8f9a0483891be.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/3692093416224308879",
-    "timestamp": "2026-07-08T15:26:09.654942+00:00",
-    "original_time": "2026-07-08T15:16:17+00:00"
+    "url": "https://x.com/CBSNews/status/-5439410062140153807",
+    "timestamp": "2026-07-08T17:34:11.895722+00:00",
+    "original_time": "2026-07-08T13:30:26+00:00"
   },
   {
-    "id": "tweet_CBSNews_-781261932880554815",
+    "id": "tweet_CBSNews_-468783481696255248",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump renewed his demands for Greenland on Wednesday, saying it's \"very important to the United States.\"\n\n“We need it for protection of the world, not just the United States,” he said.\n\n\"Greenland is, of course, not for sale,\" Danish Prime Minister Mette Frederiksen",
-    "translated_text": "特朗普总统周三重申了对格陵兰岛的要求，称这“对美国非常重要”。\n\n“我们需要它来保护世界，而不仅仅是美国，”他说。\n\n丹麦首相梅特·弗雷德里克森表示：“格陵兰岛当然是非卖品。”",
+    "text": "Catching a flight with just a carry-on can make travel feel easy. No need to check a bag and all your belongings stay with you. But quite often, that suddenly changes before boarding.",
+    "translated_text": "只需携带一件随身行李即可搭乘航班，让旅行变得轻松。无需托运行李，所有物品都随身携带。但很多时候，情况会在登机前突然发生变化。",
     "images": [
-      "79d1af65cae61b2e.jpg"
+      "7cc2acf7ab10bc90.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-781261932880554815",
-    "timestamp": "2026-07-08T15:26:10.365902+00:00",
-    "original_time": "2026-07-08T14:39:59+00:00"
+    "url": "https://x.com/CBSNews/status/-468783481696255248",
+    "timestamp": "2026-07-08T17:34:12.156625+00:00",
+    "original_time": "2026-07-08T13:05:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2271566503635355681",
+    "id": "tweet_selinawangtv_-3834032144509891105",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "The suspects posted videos of their attacks and referred to women as \"cars,\" sedatives as \"fuel\" and rape as \"driving,\" according to court documents.",
-    "translated_text": "法庭文件显示，嫌疑人发布了袭击视频，并将妇女称为“汽车”，将镇静剂称为“燃料”，将强奸称为“驾驶”。",
-    "images": [
-      "2327737ec5d7feeb.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-2271566503635355681",
-    "timestamp": "2026-07-08T15:26:12.587063+00:00",
-    "original_time": "2026-07-08T11:00:00+00:00"
+    "username": "selinawangtv",
+    "text": "After Trump called to cut off \"all trade\" with Spain at the NATO Summit, a US official tells me: \n\n\"Treasury will be working with USTR and Commerce to provide POTUS a menu of Spanish products that may be embargoed in the coming days\"",
+    "translated_text": "特朗普在北约峰会上呼吁切断与西班牙的“所有贸易”后，一位美国官员告诉我： \n\n“财政部将与美国贸易代表办公室和商务部合作，向美国总统提供未来几天可能被禁运的西班牙产品清单”",
+    "images": [],
+    "url": "https://x.com/selinawangtv/status/-3834032144509891105",
+    "timestamp": "2026-07-08T17:34:28.522347+00:00",
+    "original_time": "2026-07-08T16:59:03+00:00"
   },
   {
-    "id": "tweet_CBSNews_6777971435778144306",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A federal appeals court on Tuesday kept in place a district court's preliminary injunction on Florida's law banning \"woke\" instruction at public universities.",
-    "translated_text": "周二，联邦上诉法院维持了地方法院对佛罗里达州禁止公立大学“唤醒”教学的法律的初步禁令。",
-    "images": [
-      "36d21584174cce3c.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/6777971435778144306",
-    "timestamp": "2026-07-08T15:26:12.798592+00:00",
-    "original_time": "2026-07-08T10:30:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_1350310406951020552",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "President Trump says the ceasefire with Iran is over. He calls it \"a waste of time dealing with them.\"",
-    "translated_text": "特朗普总统表示与伊朗的停火已经结束。他称这“与他们打交道是浪费时间”。",
-    "images": [
-      "c41cd71f1de7c92f.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1350310406951020552",
-    "timestamp": "2026-07-08T15:26:13.602463+00:00",
-    "original_time": "2026-07-08T10:10:50+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-3361408617310055315",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Shoulder pain leads to Texas dad's cancer diagnosis: \"I was like, 'Wait, what?'\"",
-    "translated_text": "肩膀疼痛导致德克萨斯州父亲被诊断出癌症：“我当时想，‘等等，什么？’”",
-    "images": [
-      "ce794e018bc1f670.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-3361408617310055315",
-    "timestamp": "2026-07-08T15:26:14.102736+00:00",
-    "original_time": "2026-07-08T10:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_6535089848747744150",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Euclid telescope spots oldest quasars ever discovered, adding to \"perplexing\" space mystery.",
-    "translated_text": "欧几里得望远镜发现了迄今为止发现的最古老的类星体，增加了“令人费解”的太空之谜。",
-    "images": [
-      "a07d6dbfd763fd37.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/6535089848747744150",
-    "timestamp": "2026-07-08T15:26:14.328910+00:00",
-    "original_time": "2026-07-08T09:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_8207392115759658553",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Evidence found behind Cracker Barrel in Georgia helps solve 1985 cold case murder in Ohio.",
-    "translated_text": "佐治亚州 Cracker Barrel 背后发现的证据有助于侦破 1985 年俄亥俄州悬案谋杀案。",
-    "images": [
-      "ec90740324d19f05.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/8207392115759658553",
-    "timestamp": "2026-07-08T15:26:14.883470+00:00",
-    "original_time": "2026-07-08T08:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_4784106966798054922",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Walmart is lowering prices on thousands of items, including beef, soda and household goods.",
-    "translated_text": "沃尔玛正在降低数千种商品的价格，包括牛肉、苏打水和家居用品。",
-    "images": [
-      "08bae0dc8b1ca704.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/4784106966798054922",
-    "timestamp": "2026-07-08T15:26:15.628135+00:00",
-    "original_time": "2026-07-08T07:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-8325960170082611695",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Skeletal remains with 2,000-year-old gold rings found by archaeologists in Thailand.",
-    "translated_text": "泰国考古学家发现的骨骼遗骸中带有 2000 年前的金戒指。",
-    "images": [
-      "7ecf265228e427a5.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8325960170082611695",
-    "timestamp": "2026-07-08T15:26:16.371929+00:00",
-    "original_time": "2026-07-08T06:00:00+00:00"
-  },
-  {
-    "id": "tweet_JimmySecUK_1781248056452056959",
-    "type": "tweet",
-    "username": "JimmySecUK",
-    "text": "An incredibly significant development if confirmed and followed through.",
-    "translated_text": "如果得到证实并付诸实施，这将是一项极其重大的发展。",
-    "images": [
-      "a0a5567fd8c5b81a.svg",
-      "18304c2137886d9c.jpg"
-    ],
-    "url": "https://x.com/JimmySecUK/status/1781248056452056959",
-    "timestamp": "2026-07-08T15:26:38.411952+00:00",
-    "original_time": "2026-07-08T13:17:38+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-8336922757742972299",
+    "id": "tweet_JenniferJJacobs_2541645466890896667",
     "type": "tweet",
     "username": "JenniferJJacobs",
-    "text": "Trump said more strikes likely coming on Iran. \n\"It may be a big attack,\" he said. \n\"We may take over Kharg Island. There's not a thing they can do about it.\" \nUS knocked out 28 Iranian boats last night, Trump said. He said US also did strikes on Iranian radar. \"They were",
-    "translated_text": "特朗普表示，可能会对伊朗发动更多袭击。 \n“这可能是一次大规模袭击，”他说。 \n“我们可能会占领哈格岛。他们对此无能为力。” \n特朗普表示，美国昨晚击沉了 28 艘伊朗船只。他说，美国还对伊朗雷达进行了袭击。 “他们是",
+    "text": "\"I'm number one on the list for killing,\" Trump says of Iran.",
+    "translated_text": "“我在杀戮名单上名列第一，”特朗普谈到伊朗时说道。",
     "images": [
-      "a0a5567fd8c5b81a.svg",
-      "f1535fa1a9cd8a25.jpg"
+      "dbbf9effbb6562d8.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-8336922757742972299",
-    "timestamp": "2026-07-08T15:26:39.816125+00:00",
-    "original_time": "2026-07-08T13:29:47+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/2541645466890896667",
+    "timestamp": "2026-07-08T17:34:29.649895+00:00",
+    "original_time": "2026-07-08T16:39:55+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-2489425066021447126",
+    "id": "tweet_JenniferJJacobs_7482029466729340030",
     "type": "tweet",
     "username": "JenniferJJacobs",
-    "text": "Trump said there's discussion of a meeting between Ukraine and Russia. Putin suggested in Moscow, but Trump said that would be difficult. \nTrump compared the two countries to \"two kids in a park, and they don't like each other, and they start fighting. Sometimes you have to let",
-    "translated_text": "特朗普表示，正在讨论乌克兰和俄罗斯之间的会晤。普京在莫斯科提出建议，但特朗普表示这会很困难。 \n特朗普将这两个国家比作“公园里的两个孩子，他们不喜欢对方，然后就开始打架。有时你必须让",
+    "text": "TRUMP on Iran: \"I'm not sure I want to make a deal with them. We can play games, but I'm not sure I want to make a deal. Let's just finish the job.\" \nHe was speaking at press conference at end of Nato summit.",
+    "translated_text": "特朗普就伊朗问题表示：“我不确定是否想与他们达成协议。我们可以玩游戏，但我不确定是否想达成协议。让我们完成工作吧。” \n他是在北约峰会结束后的新闻发布会上发表上述讲话的。",
     "images": [
-      "136949cb4998aaba.jpg"
+      "ec8a279452afc35b.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-2489425066021447126",
-    "timestamp": "2026-07-08T15:26:40.459782+00:00",
-    "original_time": "2026-07-08T13:17:24+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/7482029466729340030",
+    "timestamp": "2026-07-08T17:34:29.904309+00:00",
+    "original_time": "2026-07-08T16:37:48+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-4240956409185770677",
+    "id": "tweet_Olivia_Gazis_-567528380840623984",
+    "type": "tweet",
+    "username": "Olivia_Gazis",
+    "text": "Speaking at the conclusion of the NATO summit in Ankara, President Trump says “there was a lot of love in that room.” \n\nEarlier in the day he said he was “very upset” with the alliance.",
+    "translated_text": "特朗普总统在安卡拉北约峰会结束时表示，“那个房间里充满了爱。” \n\n当天早些时候，他表示他对这一联盟“非常不满”。",
+    "images": [
+      "202ea0365ab6d4bf.jpg"
+    ],
+    "url": "https://x.com/Olivia_Gazis/status/-567528380840623984",
+    "timestamp": "2026-07-08T17:34:30.203253+00:00",
+    "original_time": "2026-07-08T16:11:04+00:00"
+  },
+  {
+    "id": "tweet_CENTCOM_6626850813879142354",
+    "type": "tweet",
+    "username": "CENTCOM",
+    "text": "Today, more than 20 U.S. Navy warships are patrolling waters across the Middle East as CENTCOM forces continue promoting regional security and stability. Last month, U.S. naval warships and aircraft transited the Arabian Sea in close formation, demonstrating unmatched American",
+    "translated_text": "如今，随着中央司令部部队继续促进地区安全与稳定，20多艘美国海军军舰正在中东海域巡逻。上个月，美国海军军舰和飞机密集编队穿越阿拉伯海，展示了美国无与伦比的实力",
+    "images": [
+      "30bd7031dbfe87a6.jpg"
+    ],
+    "url": "https://x.com/CENTCOM/status/6626850813879142354",
+    "timestamp": "2026-07-08T17:34:31.068562+00:00",
+    "original_time": "2026-07-08T15:35:50+00:00"
+  },
+  {
+    "id": "tweet_JenniferJJacobs_3824479662342028471",
     "type": "tweet",
     "username": "JenniferJJacobs",
-    "text": "Trump says US will give Ukraine license to make Patriot missiles.",
-    "translated_text": "特朗普表示，美国将给予乌克兰制造爱国者导弹的许可证。",
+    "text": "Graham Platner and a small team of strategists are trying to navigate an exit from the US Senate race in Maine. Platner is expected to announce his decision through a recorded video, which could come later today. As of this morning, the message had not been taped, per",
+    "translated_text": "格雷厄姆·普拉特纳和一小群战略家正试图退出缅因州的美国参议院竞选。预计普拉特纳将通过一段录制的视频宣布他的决定，该视频可能会在今天晚些时候发布。截至今天早上，该消息尚未被录制",
     "images": [
-      "a0a5567fd8c5b81a.svg",
-      "18304c2137886d9c.jpg"
+      "eb7a4ad7e0428d1a.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-4240956409185770677",
-    "timestamp": "2026-07-08T15:26:40.994899+00:00",
-    "original_time": "2026-07-08T13:06:10+00:00"
+    "url": "https://x.com/JenniferJJacobs/status/3824479662342028471",
+    "timestamp": "2026-07-08T17:34:31.723291+00:00",
+    "original_time": "2026-07-08T15:43:13+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-4404341665559755305",
+    "id": "tweet_KellieMeyerNews_-5611829391090429",
     "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "On Iran, Trump again expressed frustration that US has a meeting on denuclearization, \"they'll agree on everything, and then they'll go have a news conference and say we never even talked about it.\"\n\"There's something wrong with these people. And for 47 years they've been the",
-    "translated_text": "在伊朗问题上，特朗普再次对美国就无核化问题举行会议表示失望，“他们会在所有问题上达成一致，然后他们会召开新闻发布会并说我们从未谈论过这个问题。”\n“这些人有问题。47 年来，他们一直是",
-    "images": [
-      "74e79abd87306e92.jpg"
-    ],
-    "url": "https://x.com/JenniferJJacobs/status/-4404341665559755305",
-    "timestamp": "2026-07-08T15:26:41.602360+00:00",
-    "original_time": "2026-07-08T13:02:07+00:00"
+    "username": "KellieMeyerNews",
+    "text": "An interesting moment in that press conference where President Trump was asked by NY Post@stevennelson10why he is not leaving in the new Air Force One and if it is because of possible threat from Iran?  President Trump mentioned multiple times in the press conference that he",
+    "translated_text": "在那场新闻发布会上有一个有趣的时刻，纽约邮报@stevennelson10问特朗普总统为什么他不乘坐新的空军一号离开，是否是因为可能来自伊朗的威胁？  特朗普总统在新闻发布会上多次提到，",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/-5611829391090429",
+    "timestamp": "2026-07-08T17:34:50.194603+00:00",
+    "original_time": "2026-07-08T16:56:38+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-991717540969435616",
+    "id": "tweet_KellieMeyerNews_8692701067539195462",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "By the way who was the follow up reporter? Love when the press pool follows up on other reporter questions to get an answer!",
+    "translated_text": "顺便问一下，后续记者是谁？喜欢新闻界跟进其他记者的问题以获得答案！",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/8692701067539195462",
+    "timestamp": "2026-07-08T17:34:51.268388+00:00",
+    "original_time": "2026-07-08T16:57:07+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_8019141182642755568",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "The first question is “why are you unable to end the Iran war?” Trump responds the war has been a “tremendous success.”",
+    "translated_text": "第一个问题是“为什么无法结束伊朗战争？”特朗普回应称，这场战争取得了“巨大的成功”。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/8019141182642755568",
+    "timestamp": "2026-07-08T17:34:52.266663+00:00",
+    "original_time": "2026-07-08T16:28:22+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_1022998250103522844",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "Pres. Trump, despite his criticisms of NATO nations says there was “tremendous unity in the room.”",
+    "translated_text": "新闻。尽管特朗普批评北约国家，但他表示“房间里存在着巨大的团结”。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/1022998250103522844",
+    "timestamp": "2026-07-08T17:34:52.648530+00:00",
+    "original_time": "2026-07-08T16:12:36+00:00"
+  },
+  {
+    "id": "tweet_JuliaManch_3631574390019906822",
+    "type": "tweet",
+    "username": "JuliaManch",
+    "text": "Trump on NATO working session: “”It’s too bad the press couldn't have seen what we, what we were doing in that room, because it was very smart people, and they have a lot of good in their heart, not evil, good, and they're doing a great job for their country.”",
+    "translated_text": "特朗普在北约工作会议上表示：“媒体无法看到我们在那个房间里所做的事情，这太糟糕了，因为他们都是非常聪明的人，他们内心充满善意，而不是邪恶，善良，他们为自己的国家做了出色的工作。”",
+    "images": [],
+    "url": "https://x.com/JuliaManch/status/3631574390019906822",
+    "timestamp": "2026-07-08T17:34:54.129706+00:00",
+    "original_time": "2026-07-08T16:09:49+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-3424780888016944282",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "I’ll be recapping on@NewsNation",
+    "translated_text": "我将在@NewsNation 上回顾一下",
+    "images": [
+      "4ca0b8c8013e8fbf.jpg"
+    ],
+    "url": "https://x.com/KellieMeyerNews/status/-3424780888016944282",
+    "timestamp": "2026-07-08T17:34:55.147964+00:00",
+    "original_time": "2026-07-08T16:08:26+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_3848202031258759981",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "NOW: President Trump press conference happening now. His last remarks before taking off back to Washington.",
+    "translated_text": "现在：特朗普总统新闻发布会正在举行。他在返回华盛顿之前的最后讲话。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/3848202031258759981",
+    "timestamp": "2026-07-08T17:34:55.495272+00:00",
+    "original_time": "2026-07-08T16:06:45+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-3274935507063690854",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "Sec. Hegseth is NOT going to Israel, I’m told.\n\nThere were reports he was going to visit Israel today (Wed). \n\nIt now is not happening.",
+    "translated_text": "秒。有人告诉我，赫格斯不会去以色列。\n\n有报道称他将于今天（周三）访问以色列。 \n\n现在这并没有发生。",
+    "images": [],
+    "url": "https://x.com/KellieMeyerNews/status/-3274935507063690854",
+    "timestamp": "2026-07-08T17:34:56.051077+00:00",
+    "original_time": "2026-07-08T15:57:04+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-845104897383672008",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "President Trump just asked Zelenskyy if he would go to Moscow and Zelenskyy said it is dangerous for him.",
     "translated_text": "特朗普总统刚刚问泽连斯基是否愿意去莫斯科，泽连斯基表示这对他来说很危险。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-991717540969435616",
-    "timestamp": "2026-07-08T15:27:00.302879+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-845104897383672008",
+    "timestamp": "2026-07-08T17:34:56.238411+00:00",
     "original_time": "2026-07-08T13:17:31+00:00"
   },
   {
-    "id": "tweet_JuliaManch_-7109138046949882087",
+    "id": "tweet_JuliaManch_6582908285293776545",
     "type": "tweet",
     "username": "JuliaManch",
     "text": "NEWS: President Trump announces at his bilateral meeting with Ukrainian President Volodymyr Zelensky that the U.S. will give Ukraine license to manufacture Patriot missiles",
@@ -720,279 +886,19 @@
     "images": [
       "a0a5567fd8c5b81a.svg"
     ],
-    "url": "https://x.com/JuliaManch/status/-7109138046949882087",
-    "timestamp": "2026-07-08T15:27:01.637171+00:00",
+    "url": "https://x.com/JuliaManch/status/6582908285293776545",
+    "timestamp": "2026-07-08T17:34:56.523523+00:00",
     "original_time": "2026-07-08T13:09:26+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-6209253199477351786",
+    "id": "tweet_KellieMeyerNews_8653002512069620556",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "JUST NOW: Pres. Trump says “we may just do it without a deal,” as he says Iran “lies and cheats.”",
     "translated_text": "现在：总统。特朗普表示“我们可能会在没有达成协议的情况下这样做”，因为他说伊朗“撒谎和欺骗”。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-6209253199477351786",
-    "timestamp": "2026-07-08T15:27:02.654291+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/8653002512069620556",
+    "timestamp": "2026-07-08T17:34:56.720905+00:00",
     "original_time": "2026-07-08T13:10:32+00:00"
-  },
-  {
-    "id": "article_74bf3634907a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013812/oil-rises-as-us-strikes-on-iran-raise-fears-over-shaky-truce",
-    "timestamp": "2026-07-08T15:28:53.762564+00:00",
-    "original_time": "2026-07-08T15:28:53.762538+00:00"
-  },
-  {
-    "id": "article_f1118f13826e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013507/pakistan-taking-on-mantle-of-mediation-for-war-torn-libya",
-    "timestamp": "2026-07-08T15:29:10.541404+00:00",
-    "original_time": "2026-07-08T15:29:10.541379+00:00"
-  },
-  {
-    "id": "article_951a9ed0d198",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013473/winning-debut-for-odi-captain-ngarava-as-zimbabwe-beat-bangladesh",
-    "timestamp": "2026-07-08T15:29:29.786305+00:00",
-    "original_time": "2026-07-08T15:29:29.786282+00:00"
-  },
-  {
-    "id": "article_1322fa748594",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "What are the risks of an LNG tanker explosion?",
-    "translated_title": "液化天然气罐车爆炸有哪些风险？",
-    "url": "https://www.dawn.com/news/2013879/what-are-the-risks-of-an-lng-tanker-explosion",
-    "timestamp": "2026-07-08T15:29:38.053720+00:00",
-    "original_time": "2026-07-08T17:27:52+05:00"
-  },
-  {
-    "id": "article_0f0ff24ccb1d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Messi World Cup magic masks familiar penalty frailty",
-    "translated_title": "梅西世界杯魔术掩盖了熟悉的点球弱点",
-    "url": "https://www.dawn.com/news/2013903/messi-world-cup-magic-masks-familiar-penalty-frailty",
-    "timestamp": "2026-07-08T15:29:54.641945+00:00",
-    "original_time": "2026-07-08T19:53:15+05:00"
-  },
-  {
-    "id": "article_a8d8c62e37af",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "OpenAI to unveil GPT-5.6 on Thursday after delaying launch",
-    "translated_title": "OpenAI 推迟发布后将于周四推出 GPT-5.6",
-    "url": "https://www.dawn.com/news/2013800/openai-to-unveil-gpt-56-on-thursday-after-delaying-launch",
-    "timestamp": "2026-07-08T15:30:21.667933+00:00",
-    "original_time": "2026-07-08T10:24:11+05:00"
-  },
-  {
-    "id": "article_e47180de40d9",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Offshore balancing: a blueprint for Pak-US ties",
-    "translated_title": "离岸平衡：巴美关系的蓝图",
-    "url": "https://www.dawn.com/news/2013892/offshore-balancing-a-blueprint-for-pak-us-ties",
-    "timestamp": "2026-07-08T15:30:27.606481+00:00",
-    "original_time": "2026-07-08T18:26:05+05:00"
-  },
-  {
-    "id": "article_de01fe0bab06",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013159/opec-approves-further-oil-output-increase-as-hormuz-exports-start-to-recover",
-    "timestamp": "2026-07-08T15:30:58.743725+00:00",
-    "original_time": "2026-07-08T15:30:58.743699+00:00"
-  },
-  {
-    "id": "article_de3c1da44de9",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013447/new-authority-to-manage-punjab-assets-gets-cm-maryams-nod",
-    "timestamp": "2026-07-08T15:31:32.299653+00:00",
-    "original_time": "2026-07-08T15:31:32.299629+00:00"
-  },
-  {
-    "id": "article_272631ee62f9",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013671/torstein-traeen-takes-yellow-at-tour-de-france-pedersen-wins-fourth-stage",
-    "timestamp": "2026-07-08T15:32:06.191723+00:00",
-    "original_time": "2026-07-08T15:32:06.191700+00:00"
-  },
-  {
-    "id": "article_4053a4c281db",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Foreigners' abduction, sexual assault case: 4 suspects' physical remand extended by 5 days",
-    "translated_title": "外国人绑架性侵案：4名嫌疑人羁押候审期限延长5天",
-    "url": "https://www.dawn.com/news/2013835/foreigners-abduction-sexual-assault-case-4-suspects-physical-remand-extended-by-5-days",
-    "timestamp": "2026-07-08T15:32:16.884584+00:00",
-    "original_time": "2026-07-08T13:17:37+05:00"
-  },
-  {
-    "id": "article_0180ef1f0a44",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Ziarat SP suspended following terrorist attack on police post; committee formed to probe incident",
-    "translated_title": "Ziarat SP 在警察哨所遭受恐怖袭击后被停职；成立委员会调查事件",
-    "url": "https://www.dawn.com/news/2013827/ziarat-sp-suspended-following-terrorist-attack-on-police-post-committee-formed-to-probe-incident",
-    "timestamp": "2026-07-08T15:32:30.637204+00:00",
-    "original_time": "2026-07-08T12:32:50+05:00"
-  },
-  {
-    "id": "article_6d02bf0db7d6",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Islamabad, Beijing agree to boost counterterrorism cooperation as Naqvi meets Chinese counterpart",
-    "translated_title": "纳克维会见中国外长时，伊斯兰堡和北京同意加强反恐合作",
-    "url": "https://www.dawn.com/news/2013843/islamabad-beijing-agree-to-boost-counterterrorism-cooperation-as-naqvi-meets-chinese-counterpart",
-    "timestamp": "2026-07-08T15:32:54.658923+00:00",
-    "original_time": "2026-07-08T13:52:41+05:00"
-  },
-  {
-    "id": "article_5920c40cf747",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2013056/services-exports-jump-1738pc",
-    "timestamp": "2026-07-08T15:33:14.436032+00:00",
-    "original_time": "2026-07-08T15:33:14.436008+00:00"
-  },
-  {
-    "id": "article_74b7b7e25551",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "At UN, Cuba rallies support against 'ruthless' US blockade",
-    "translated_title": "古巴在联合国集会支持反对美国“无情”封锁",
-    "url": "https://www.dawn.com/news/2013796/at-un-cuba-rallies-support-against-ruthless-us-blockade",
-    "timestamp": "2026-07-08T15:33:35.798219+00:00",
-    "original_time": "2026-07-08T09:48:16+05:00"
-  },
-  {
-    "id": "article_d2059ec7539a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "YouTuber Rehan Tariq handed over to NCCIA on six-day physical remand over blasphemy, PECA charges",
-    "translated_title": "YouTuber Rehan Tariq 因亵渎罪和 PECA 指控被移交 NCCIA 六天还押",
-    "url": "https://www.dawn.com/news/2013901/youtuber-rehan-tariq-handed-over-to-nccia-on-six-day-physical-remand-over-blasphemy-peca-charges",
-    "timestamp": "2026-07-08T15:33:52.230437+00:00",
-    "original_time": "2026-07-08T20:00:05+05:00"
-  },
-  {
-    "id": "article_937ee9c2aa4a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Chakwal CCD incident: Victim's father alleges robbers did not fire, police forced him to sign blank paper",
-    "translated_title": "Chakwal CCD事件：受害者父亲声称劫匪没有开枪，警察强迫他在白纸上签名",
-    "url": "https://www.dawn.com/news/2013815/chakwal-ccd-incident-victims-father-alleges-robbers-did-not-fire-police-forced-him-to-sign-blank-paper",
-    "timestamp": "2026-07-08T15:33:56.022006+00:00",
-    "original_time": "2026-07-08T12:00:16+05:00"
-  },
-  {
-    "id": "article_9a59cd84c5d1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Wristbands with sensors and early starts: How Spain keeps working when the heat hits",
-    "translated_title": "带传感器的腕带和早期启动：西班牙如何在炎热天气下继续工作",
-    "url": "https://www.dawn.com/news/2013825/wristbands-with-sensors-and-early-starts-how-spain-keeps-working-when-the-heat-hits",
-    "timestamp": "2026-07-08T15:34:46.790023+00:00",
-    "original_time": "2026-07-08T12:16:39+05:00"
-  },
-  {
-    "id": "article_d3d7f6ed2262",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "International sting arrests 24 over India-based organised crime",
-    "translated_title": "国际诱捕行动逮捕 24 名印度有组织犯罪嫌疑人",
-    "url": "https://www.dawn.com/news/2013811/international-sting-arrests-24-over-india-based-organised-crime",
-    "timestamp": "2026-07-08T15:35:29.320488+00:00",
-    "original_time": "2026-07-08T11:17:20+05:00"
-  },
-  {
-    "id": "article_42b5c78b034a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Wreckage of missing cargo plane located off Ormara: PAA",
-    "translated_title": "奥马拉附近失踪货机残骸：PAA",
-    "url": "https://www.dawn.com/news/2013836/wreckage-of-missing-cargo-plane-located-off-ormara-paa",
-    "timestamp": "2026-07-08T15:35:58.078351+00:00",
-    "original_time": "2026-07-08T13:29:30+05:00"
-  },
-  {
-    "id": "article_a13ae7c454ff",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Tallal Chaudhry taunts PTI over pledges to end 'VIP culture' after KP expands lawmakers' privileges",
-    "translated_title": "塔拉尔·乔杜里 (Tallal Chaudhry) 嘲笑 PTI 在 KP 扩大立法者特权后承诺结束“VIP 文化”",
-    "url": "https://www.dawn.com/news/2013853/tallal-chaudhry-taunts-pti-over-pledges-to-end-vip-culture-after-kp-expands-lawmakers-privileges",
-    "timestamp": "2026-07-08T15:36:05.214106+00:00",
-    "original_time": "2026-07-08T15:22:52+05:00"
-  },
-  {
-    "id": "article_2c225116745e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP CM urges PM Shehbaz to defer proposed withdrawal of tax exemptions for merged districts, Malakand",
-    "translated_title": "KP CM 敦促总理 Shehbaz 推迟取消马拉坎德合并区免税的提议",
-    "url": "https://www.dawn.com/news/2013863/kp-cm-urges-pm-shehbaz-to-defer-proposed-withdrawal-of-tax-exemptions-for-merged-districts-malakand",
-    "timestamp": "2026-07-08T15:36:15.081606+00:00",
-    "original_time": "2026-07-08T15:53:21+05:00"
-  },
-  {
-    "id": "article_8bbc1aed19db",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PSX tumbles by over 4,600 points after Trump's comments on Iran",
-    "translated_title": "特朗普对伊朗发表评论后，PSX 暴跌逾 4,600 点",
-    "url": "https://www.dawn.com/news/2013847/psx-tumbles-by-over-4600-points-after-trumps-comments-on-iran",
-    "timestamp": "2026-07-08T15:36:33.334921+00:00",
-    "original_time": "2026-07-08T13:55:24+05:00"
-  },
-  {
-    "id": "article_b610eb5402fd",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "38 security personnel martyred, 54 terrorists neutralised in recent Balochistan attacks: DG ISPR",
-    "translated_title": "俾路支省最近的袭击中有 38 名安全人员牺牲，54 名恐怖分子被消灭：DG ISPR",
-    "url": "https://www.dawn.com/news/2013868/38-security-personnel-martyred-54-terrorists-neutralised-in-recent-balochistan-attacks-dg-ispr",
-    "timestamp": "2026-07-08T15:36:38.162773+00:00",
-    "original_time": "2026-07-08T16:35:18+05:00"
-  },
-  {
-    "id": "article_10d38517c15a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "UN inquiry urges release of Gaza doctor held by Israel since December 2024",
-    "translated_title": "联合国调查敦促释放自 2024 年 12 月以来被以色列扣押的加沙医生",
-    "url": "https://www.dawn.com/news/2013872/un-inquiry-urges-release-of-gaza-doctor-held-by-israel-since-december-2024",
-    "timestamp": "2026-07-08T15:36:43.013855+00:00",
-    "original_time": "2026-07-08T16:54:15+05:00"
-  },
-  {
-    "id": "article_679209bfaa70",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "China warns of 'security backdoor' in Anthropic AI coding tool",
-    "translated_title": "中国警告人类人工智能编码工具存在“安全后门”",
-    "url": "https://www.dawn.com/news/2013866/china-warns-of-security-backdoor-in-anthropic-ai-coding-tool",
-    "timestamp": "2026-07-08T15:36:49.497425+00:00",
-    "original_time": "2026-07-08T15:47:59+05:00"
   }
 ]
