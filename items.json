@@ -1,18 +1,5 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_6363956858084975621",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister and Foreign Minister, Senator Mohammad Ishaq Dar@MIshaqDar50, held a telephonic conversation today with His Highness Prince Faisal bin Farhan Al Saud, Foreign Minister of the Kingdom of Saudi Arabia.@FaisalbinFarhanThe two leaders exchanged views on the",
-    "translated_text": "副首相兼外交部长、参议员穆罕默德·伊沙克·达尔@MIshaqDar50今天与沙特阿拉伯王国外交部长费萨尔·本·法尔汉·阿勒沙特亲王殿下进行了电话交谈。@FaisalbinFarhan两国领导人就",
-    "images": [
-      "2f80ed1368294f25.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/6363956858084975621",
-    "timestamp": "2026-07-11T23:54:12.381107+00:00",
-    "original_time": "2026-07-11T12:05:25+00:00"
-  },
-  {
     "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
     "username": "MIshaqDar50",
@@ -22,11 +9,53 @@
       "ec24fcac814eeec8.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-07-11T23:54:27.405040+00:00",
+    "timestamp": "2026-07-12T02:39:10.927729+00:00",
     "original_time": "2026-07-11T18:38:04+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7740404548355037146",
+    "id": "tweet_PakTVGlobal_8826361687152894902",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Iran’s Islamic Revolutionary Guard Corps said Sunday the Strait of Hormuz would be closed \"until further notice\" after they fired warning shots at a vessel, they said used an unauthorised route, state media reported.#Iran#StraitOfHormuz#MiddleEast#IRGC#PakistanTV",
+    "translated_text": "据官方媒体报道，伊朗伊斯兰革命卫队周日表示，在向一艘船只鸣枪示警后，霍尔木兹海峡将被关闭，“直至另行通知”，他们称该海峡使用了未经授权的路线。#Iran#StraitOfHormuz#MiddleEast#IRGC#PakistanTV",
+    "images": [
+      "9ab0d1e80146c0b7.png",
+      "79040925585f61de.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/8826361687152894902",
+    "timestamp": "2026-07-12T02:40:10.848778+00:00",
+    "original_time": "2026-07-12T01:47:52+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_6466429436683019635",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "England booked their place in the FIFA World Cup semi-finals after Jude Bellingham scored twice, including a dramatic extra-time winner, to secure a thrilling 2-1 victory over Norway in a hard-fought quarter-final on Saturday.#England#FIFAWorldCup2026#JudeBellingham",
+    "translated_text": "裘德·贝林汉姆梅开二度，其中包括戏剧性的加时赛制胜球，英格兰队在星期六的四分之一决赛中以 2-1 惊心动魄地战胜了挪威队，进入了 FIFA 世界杯半决赛。#England#FIFAWorldCup2026#JudeBellingham",
+    "images": [
+      "b27d4829aaad23fd.png",
+      "cc7fc84b9aa77dd1.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/6466429436683019635",
+    "timestamp": "2026-07-12T02:40:11.774999+00:00",
+    "original_time": "2026-07-12T01:03:12+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_6550721878049053574",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "US forces launched a third round of strikes against Iran this week after Islamic Revolutionary Guard Corps forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz, US Central Command said in a statement on X.#US#Iran#StraitOfHormuz#MiddleEast#CENTCOM",
+    "translated_text": "美国中央司令部在 X.#US#Iran#StraitOfHormuz#MiddleEast#CENTCOM 的一份声明中表示，在伊斯兰革命卫队部队袭击了一艘途经霍尔木兹海峡的塞浦路斯国旗集装箱船后，美国军队本周对伊朗发动了第三轮袭击。",
+    "images": [
+      "9ab0d1e80146c0b7.png",
+      "aea89136bf1c6625.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/6550721878049053574",
+    "timestamp": "2026-07-12T02:40:12.553335+00:00",
+    "original_time": "2026-07-12T00:51:10+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-418083548868393064",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "England completed a 4–0 whitewash of India in the five-match T20I series with a 56-run victory in the fifth and final match at Southampton.#England#India#Cricket#T20I#EnglandCricket#PakistanTV",
@@ -35,75 +64,75 @@
       "b27d4829aaad23fd.png",
       "fde9e71a003e069f.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-7740404548355037146",
-    "timestamp": "2026-07-11T23:55:27.709561+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-418083548868393064",
+    "timestamp": "2026-07-12T02:40:13.169324+00:00",
     "original_time": "2026-07-11T22:56:48+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8681339323342789807",
+    "id": "tweet_PakTVGlobal_3518076555949144688",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "I'm standing at the Jinnah Convention Centre in Islamabad, the venue for the two-day OIC Ministerial Conference on Women. The flags of all 57 OIC member states have been displayed. Government officials say nearly 190 delegates from the 57 member states are to expected arrive in",
-    "translated_text": "我现在站在伊斯兰堡的真纳会议中心，这是为期两天的伊斯兰会议组织妇女部长级会议的举办地。伊斯兰会议组织所有 57 个成员国的国旗均已展示。政府官员表示，预计将有来自 57 个成员国的近 190 名代表抵达",
+    "text": "The armed forces, police, Levies, Scouts, and Rangers are doing their very best and an outstanding job in the fight against terrorism. They are laying down their lives, and their efforts and sacrifices in these operations deserve the highest appreciation and recognition: Lt Gen",
+    "translated_text": "武装部队、警察、征召兵、童子军和游骑兵在反恐斗争中竭尽全力，表现出色。他们正在献出自己的生命，他们在这些行动中的努力和牺牲值得最高的赞赏和认可：中将",
     "images": [
-      "c740a777feaa69de.jpg"
+      "4045c5c2b3606c30.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8681339323342789807",
-    "timestamp": "2026-07-11T23:55:27.893567+00:00",
-    "original_time": "2026-07-11T22:35:44+00:00"
+    "url": "https://x.com/PakTVGlobal/status/3518076555949144688",
+    "timestamp": "2026-07-12T02:40:15.812356+00:00",
+    "original_time": "2026-07-11T19:11:50+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_435661233284152901",
+    "id": "tweet_PakTVGlobal_-2107769501236922678",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "\"Fruit Gathering\" by Myanmar director Aung Phyoe won the Crystal Globe award at the Karlovy Vary film festival in the Czech Republic on Saturday, the organisers said.#FilmFestival#KarlovyVary#Myanmar#Cinema#PakistanTV",
-    "translated_text": "组织者表示，缅甸导演昂菲 (Aung Phoe) 的《水果聚会》周六在捷克共和国卡罗维发利电影节上荣获水晶球奖。#FilmFestival#KarlovyVary#Myanmar#Cinema#PakistanTV",
-    "images": [
-      "1c98a75904004275.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/435661233284152901",
-    "timestamp": "2026-07-11T23:55:28.123345+00:00",
-    "original_time": "2026-07-11T22:29:03+00:00"
+    "text": "India is not only destabilizing the region but has also been involved in terrorist acts in Canada and attempted terrorist acts in the United States and elsewhere. The world understands India's designs: Hassan Khan, security analyst@hasankhyber#India#RegionalSecurity",
+    "translated_text": "印度不仅破坏该地区的稳定，而且还参与了加拿大的恐怖活动以及美国和其他地方的恐怖活动。世界了解印度的设计：安全分析师 Hassan Khan@hasankhyber#India#RegionalSecurity",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-2107769501236922678",
+    "timestamp": "2026-07-12T02:40:15.955128+00:00",
+    "original_time": "2026-07-11T18:54:36+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5861691228580295056",
+    "id": "tweet_PakTVGlobal_4511390587924466915",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "We developed the Paris Agreement, the Kyoto Protocol and multiple global agreements, but we now need more than net zero. We also need carbon-negative technologies. Things are going to get worse before they get better: Talha Tufail Bhatti, Environmentalist@JawadTehami",
-    "translated_text": "我们制定了《巴黎协定》、《京都议定书》和多项全球协定，但我们现在需要的不仅仅是净零。我们还需要负碳技术。事情在好转之前会变得更糟：Talha Tufail Bhatti，环保主义者@JawadTehami",
+    "text": "Since the MOU was signed on June 17, there have been continuous attempts to violate it, and the Trump administration has not shown it fully understands or has faithfully honored its obligations. President Trump’s threats to bomb Iran again if it failed to comply with the",
+    "translated_text": "自6月17日签署谅解备忘录以来，违反该谅解备忘录的企图不断出现，特朗普政府并未表现出充分理解或忠实履行其义务。特朗普总统威胁称，如果伊朗不遵守协议，将再次轰炸伊朗",
     "images": [
-      "02fac147f9535d5d.jpg"
+      "26f87ed7b6bc1b42.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-5861691228580295056",
-    "timestamp": "2026-07-11T23:55:28.325556+00:00",
-    "original_time": "2026-07-11T22:01:59+00:00"
+    "url": "https://x.com/PakTVGlobal/status/4511390587924466915",
+    "timestamp": "2026-07-12T02:40:16.165202+00:00",
+    "original_time": "2026-07-11T18:48:25+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3867484430541354658",
+    "id": "tweet_PakTVGlobal_-7894357076919382992",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "During the latest clash, one Sepah commander said that if President Trump wants to play the game of increasing oil prices, then he should be ready for this game. I think the recent US strikes function as a tool of coercion rather than a signal of immediate total escalation:",
-    "translated_text": "在最近的冲突中，一名塞帕指挥官表示，如果特朗普总统想玩油价上涨的游戏，那么他应该为这场游戏做好准备。我认为美国最近的袭击是一种胁迫工具，而不是立即全面升级的信号：",
+    "text": "Iranian officials have said broader negotiations will resume only once Washington meets its existing obligations under the MOU, indicating the Oman talks are focused on the Strait for now. US officials expect Tehran to issue a public statement confirming the Strait is open and",
+    "translated_text": "伊朗官员表示，只有华盛顿履行谅解备忘录规定的现有义务，更广泛的谈判才会恢复，这表明阿曼谈判目前的重点是海峡。美国官员预计德黑兰将发表公开声明，确认海峡开放并",
     "images": [
-      "e9612870f195f29f.jpg"
+      "29d44da8b962324a.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3867484430541354658",
-    "timestamp": "2026-07-11T23:55:28.571116+00:00",
-    "original_time": "2026-07-11T21:48:26+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-7894357076919382992",
+    "timestamp": "2026-07-12T02:40:16.516620+00:00",
+    "original_time": "2026-07-11T18:47:15+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6961231315692899540",
+    "id": "tweet_PakTVGlobal_-1809396031155493482",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Pakistan is taking a major step toward strengthening its maritime sector with the launch of National Dredging and Marine Services (NDMS), a joint venture aimed at developing indigenous dredging capacity. By reducing reliance on foreign contractors, the initiative seeks to improve",
     "translated_text": "巴基斯坦在加强其海事部门方面迈出了重要一步，成立了国家疏浚和海洋服务公司（NDMS），这是一家旨在发展本土疏浚能力的合资企业。通过减少对外国承包商的依赖，该倡议旨在改善",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/6961231315692899540",
-    "timestamp": "2026-07-11T23:55:30.898508+00:00",
+    "images": [
+      "87ecab6edea0d088.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1809396031155493482",
+    "timestamp": "2026-07-12T02:40:16.837059+00:00",
     "original_time": "2026-07-11T17:56:33+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8810693199535546860",
+    "id": "tweet_PakTVGlobal_-8425506559711769179",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "More than a song, this is a celebration of the strength, resilience and aspirations of women. Echoing the spirit of the 9th OIC Ministerial Conference on Women in Islamabad, the anthem reflects the conference's vision of empowering women to lead, inspire and shape the future.",
@@ -111,12 +140,12 @@
     "images": [
       "f30e9d693e9ce31a.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8810693199535546860",
-    "timestamp": "2026-07-11T23:55:31.367330+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-8425506559711769179",
+    "timestamp": "2026-07-12T02:40:17.183105+00:00",
     "original_time": "2026-07-11T17:47:52+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8957779467968946255",
+    "id": "tweet_PakTVGlobal_4317246449844806606",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Political Affairs Expert Owen Lippert, speaking from Toronto, says the current US-Iran situation remains marked by distrust and diplomatic deadlock. He says Pakistan continues to play an important role as a communication channel while Qatar is supporting behind-the-scenes",
@@ -124,12 +153,12 @@
     "images": [
       "88485fe10ef4693c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8957779467968946255",
-    "timestamp": "2026-07-11T23:55:31.616788+00:00",
+    "url": "https://x.com/PakTVGlobal/status/4317246449844806606",
+    "timestamp": "2026-07-12T02:40:17.495685+00:00",
     "original_time": "2026-07-11T17:27:18+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6874791543691948329",
+    "id": "tweet_PakTVGlobal_1292323089258508057",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Security Analyst Sumaira Khan says Pakistan faces a complex security challenge in Balochistan and Khyber Pakhtunkhwa that requires sustained counterterrorism efforts. She says Pakistan has pursued diplomatic engagement with Afghanistan but stronger cooperation against militant",
@@ -137,271 +166,255 @@
     "images": [
       "a2bb83cc28f22b2c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6874791543691948329",
-    "timestamp": "2026-07-11T23:55:31.812181+00:00",
+    "url": "https://x.com/PakTVGlobal/status/1292323089258508057",
+    "timestamp": "2026-07-12T02:40:17.870742+00:00",
     "original_time": "2026-07-11T16:22:49+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7302126204633303581",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Pakistan's world-famous mangoes are taking center stage in Doha as the third Hamba Pakistani Mango Exhibition opens at Souq Waqif. Running until July 18, the festival features more than 30 exhibitors, premium mango varieties including Chaunsa, Sindhri, Anwar Ratol and Dusehri,",
-    "translated_text": "随着第三届汉巴巴基斯坦芒果展在瓦其夫集市开幕，巴基斯坦举世闻名的芒果将成为多哈的中心舞台。该节日将持续至 7 月 18 日，共有 30 多家参展商，优质芒果品种包括 Chaunsa、Sindhri、Anwar Ratol 和 Dusehri，",
-    "images": [
-      "7098cc2d687bdeb5.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/7302126204633303581",
-    "timestamp": "2026-07-11T23:55:32.053769+00:00",
-    "original_time": "2026-07-11T16:19:11+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-211745465586954163",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Defence Analyst Air Cdre (R) Khalid Chishti says countering terrorism requires more than security operations alone. He says that while hostile actors seek to exploit local grievances, long-term stability depends on strengthening the relationship between the state and local",
-    "translated_text": "国防分析员空军中校哈立德·奇什蒂表示，反恐需要的不仅仅是安全行动。他说，虽然敌对行为者试图利用当地的不满情绪，但长期稳定取决于加强国家与地方之间的关系",
-    "images": [
-      "873843115750da9a.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-211745465586954163",
-    "timestamp": "2026-07-11T23:55:32.248986+00:00",
-    "original_time": "2026-07-11T16:17:08+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-4392156061819017363",
+    "id": "tweet_AJENews_-6178955900948676897",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: British police said on Saturday that a 28-year-old British man was arrested in South Yorkshire on suspicion of murdering 78-year-old former government minister Ann Widdecombe, reports Reuters.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：据路透社报道，英国警方周六表示，一名 28 岁的英国男子因涉嫌谋杀 78 岁的前政府部长 Ann Widdecombe 在南约克郡被捕。更多信息请访问 http://Aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "3e061bf3e6ca4006.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4392156061819017363",
-    "timestamp": "2026-07-11T23:56:50.018025+00:00",
-    "original_time": "2026-07-11T23:44:08+00:00"
-  },
-  {
-    "id": "tweet_AJENews_4628287392678675223",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING:  A US official says the IRGC fired a missile at a commercial cargo ship attempting to transit the Strait of Hormuz, damaging the vessel, US media reports.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：据美国媒体报道，一名美国官员称，伊斯兰革命卫队向一艘试图通过霍尔木兹海峡的商业货船发射了一枚导弹，导致该船受损。更多信息请访问 http://Aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "fd76b13a3fa89d0d.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/4628287392678675223",
-    "timestamp": "2026-07-11T23:56:50.627914+00:00",
-    "original_time": "2026-07-11T23:12:04+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-3457706697227860370",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING UPDATE: The IRGC Navy fired warning shots at a vessel in the Strait of Hormuz after it turned off its transponder and attempted to cross via an “illegal route”, with Iranian media reporting it was targeted with a cruise missile.LIVE updates:https://aje.news/bs7ejp",
-    "translated_text": "重大更新：伊朗革命卫队海军在霍尔木兹海峡关闭应答器并试图通过“非法路线”穿越一艘船只后向其鸣枪示警，伊朗媒体报道称该船遭到巡航导弹攻击。实时更新：https://aje.news/bs7ejp",
-    "images": [
-      "7f1a451786c84548.svg",
-      "88935ff3d3a2652d.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-3457706697227860370",
-    "timestamp": "2026-07-11T23:56:51.241223+00:00",
-    "original_time": "2026-07-11T23:42:01+00:00"
-  },
-  {
-    "id": "tweet_AJENews_5888314395972057753",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "Iran's IRGC say the Strait of Hormuz is closed after firing a warning shot at a commercial vessel.\n\nThe announcement marks a major escalation in regional tensions.",
-    "translated_text": "伊朗伊斯兰革命卫队表示，向一艘商船鸣枪警告后，霍尔木兹海峡已关闭。\n\n该声明标志着地区紧张局势大幅升级。",
-    "images": [
-      "8923167397a3c7b0.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/5888314395972057753",
-    "timestamp": "2026-07-11T23:56:51.775237+00:00",
-    "original_time": "2026-07-11T23:15:33+00:00"
-  },
-  {
-    "id": "tweet_AJENews_341110221192976272",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: IRGC Navy says Strait of Hormuz temporarily closed until further notice according to Iran’s state broadcasterLIVE updates:https://aje.news/uuovra?update=4760869…",
-    "translated_text": "突发新闻：根据伊朗国家广播公司的实时更新，伊朗革命卫队海军表示霍尔木兹海峡暂时关闭，直至另行通知：https://aje.news/uuovra?update=4760869…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "87e520c5e4d07b89.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/341110221192976272",
-    "timestamp": "2026-07-11T23:56:51.975873+00:00",
-    "original_time": "2026-07-11T22:30:56+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-3026645703822071735",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: US involved in planned Iraq-Syria pipeline deal to circumvent Strait of Hormuz, says Middle East EyeLIVE updates:https://aje.news/uuovra?update=4759853…",
-    "translated_text": "突发新闻：中东 EyeLIVE 更新称，美国参与了计划中的伊拉克-叙利亚管道交易，以绕过霍尔木兹海峡：https://aje.news/uuovra?update=4759853…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "c738543985fae5b6.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-3026645703822071735",
-    "timestamp": "2026-07-11T23:56:54.272487+00:00",
-    "original_time": "2026-07-11T16:30:30+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-5433603690462472286",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran's Araghchi, Omani counterpart meet in Muscat, discuss 'mechanisms for safe passage' in Hormuz, says Iran's FMLIVE updates:https://aje.news/uuovra?update=4759922…",
-    "translated_text": "突发新闻：伊朗 FMLIVE 更新称，伊朗阿拉格奇和阿曼同行在马斯喀特会面，讨论霍尔木兹的“安全通行机制”：https://aje.news/uuovra?update=4759922…",
+    "text": "BREAKING: Qatar raises security threat level, urges people to stay homeLIVE updates:https://aje.news/5bytp7?update=4761874…",
+    "translated_text": "突发：卡塔尔提高安全威胁级别，敦促人们呆在家里实时更新：https://aje.news/5bytp7?update=4761874…",
     "images": [
       "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-5433603690462472286",
-    "timestamp": "2026-07-11T23:56:54.407189+00:00",
-    "original_time": "2026-07-11T16:27:37+00:00"
+    "url": "https://x.com/AJENews/status/-6178955900948676897",
+    "timestamp": "2026-07-12T02:42:32.067717+00:00",
+    "original_time": "2026-07-12T02:41:17+00:00"
   },
   {
-    "id": "tweet_AJENews_-1946441026992562076",
+    "id": "tweet_AJENews_-5671709946807546825",
     "type": "tweet",
     "username": "AJENews",
-    "text": "UPDATE: Israeli forces move into eastern outskirts of Lebanon's Beit Yahoun: Lebanese state mediaLIVE updates:https://aje.news/uuovra?update=4759895…",
-    "translated_text": "更新：以色列军队进入黎巴嫩拜特亚胡恩东郊：黎巴嫩官方媒体实时更新：https://aje.news/uuovra?update=4759895…",
+    "text": "BREAKING: Sirens blare in BahrainLIVE updates:https://aje.news/5bytp7?update=4761854…",
+    "translated_text": "突发新闻：巴林现场更新警报声：https://aje.news/5bytp7?update=4761854…",
     "images": [
       "7f1a451786c84548.svg",
-      "7dca6426bc8c3235.jpg"
+      "78b0c51292e8ec8d.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-1946441026992562076",
-    "timestamp": "2026-07-11T23:56:54.680126+00:00",
-    "original_time": "2026-07-11T16:20:37+00:00"
+    "url": "https://x.com/AJENews/status/-5671709946807546825",
+    "timestamp": "2026-07-12T02:42:32.946708+00:00",
+    "original_time": "2026-07-12T02:40:12+00:00"
   },
   {
-    "id": "tweet_AJENews_8722872266214844626",
+    "id": "tweet_AJENews_-2943360836498204267",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: US lawmaker Ro Khanna says he was detained by armed Israeli settlers during West Bank visitLIVE updates:https://aje.news/uuovra?update=4759811…",
-    "translated_text": "突发新闻：美国议员罗·卡纳 (Ro Khanna) 表示，他在访问约旦河西岸期间被以色列武装定居者拘留实时更新：https://aje.news/uuovra?update=4759811…",
+    "text": "BREAKING: Crew of ship attacked in Hormuz abandon vessel, board lifeboatLIVE updates:https://aje.news/5bytp7?update=4761704…",
+    "translated_text": "突发事件：霍尔木兹遇袭船员弃船登上救生艇实时更新：https://aje.news/5bytp7?update=4761704…",
     "images": [
       "7f1a451786c84548.svg",
-      "9c4fed1fb2e64716.jpg"
+      "d5824f69949f3efb.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8722872266214844626",
-    "timestamp": "2026-07-11T23:56:54.913522+00:00",
-    "original_time": "2026-07-11T16:00:20+00:00"
+    "url": "https://x.com/AJENews/status/-2943360836498204267",
+    "timestamp": "2026-07-12T02:42:33.926906+00:00",
+    "original_time": "2026-07-12T02:16:55+00:00"
   },
   {
-    "id": "tweet_AJENews_761097178925705410",
+    "id": "tweet_AJENews_6911071638778078038",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Four Israeli settlers apprehended after allegedly attacking CNN media team, say Israeli policeLIVE updates:https://aje.news/uuovra?update=4759788…",
-    "translated_text": "突发新闻：以色列警方称，四名以色列定居者因涉嫌袭击 CNN 媒体团队而被捕 实时更新：https://aje.news/uuovra?update=4759788...",
+    "text": "BREAKING: Three cities in Iran's Khuzestan hit by 'enemy projectiles'LIVE updates:https://aje.news/5bytp7?update=4761644…",
+    "translated_text": "突发新闻：伊朗胡齐斯坦省的三个城市遭到“敌方弹丸”袭击实时更新：https://aje.news/5bytp7?update=4761644…",
     "images": [
       "7f1a451786c84548.svg",
-      "2dcc10ec1a773868.jpg"
+      "9dd30fa79ec3eb4c.jpg"
     ],
-    "url": "https://x.com/AJENews/status/761097178925705410",
-    "timestamp": "2026-07-11T23:56:55.118491+00:00",
-    "original_time": "2026-07-11T15:30:17+00:00"
+    "url": "https://x.com/AJENews/status/6911071638778078038",
+    "timestamp": "2026-07-12T02:42:34.395236+00:00",
+    "original_time": "2026-07-12T01:45:31+00:00"
   },
   {
-    "id": "tweet_AJENews_-6207966579939072077",
+    "id": "tweet_AJENews_3297557087398407489",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Iran tripled drone production capacity 'at height of war', says ministerLIVE updates:https://aje.news/uuovra?update=4759762…",
-    "translated_text": "突发新闻：部长表示，伊朗“在战争最激烈的时期”无人机生产能力增加了两倍实时更新：https://aje.news/uuovra?update=4759762…",
+    "text": "BREAKING: Two more explosions heard in JaskLIVE updates:https://aje.news/5bytp7?update=4761597…",
+    "translated_text": "突发：JaskLIVE 更新中又听到两声爆炸声：https://aje.news/5bytp7?update=4761597…",
     "images": [
       "7f1a451786c84548.svg",
-      "ab4533bef1ea4de8.jpg"
+      "0d54d5bb14c05138.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-6207966579939072077",
-    "timestamp": "2026-07-11T23:56:55.325163+00:00",
-    "original_time": "2026-07-11T15:15:19+00:00"
+    "url": "https://x.com/AJENews/status/3297557087398407489",
+    "timestamp": "2026-07-12T02:42:34.837791+00:00",
+    "original_time": "2026-07-12T01:35:23+00:00"
   },
   {
-    "id": "tweet_AJENews_-2505233865205170347",
+    "id": "tweet_AJENews_-5428045012113041153",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Saudi foreign minister holds phone call with Pakistani counterpart over Iran-US warLIVE updates:https://aje.news/uuovra?update=4759790…",
-    "translated_text": "突发新闻：沙特外交部长就伊朗与美国的战争与巴基斯坦外长通电话实时更新：https://aje.news/uuovra?update=4759790…",
+    "text": "BREAKING: Iranian air defense systems activated in Bandar-e MahshahrLIVE updates:https://aje.news/5bytp7?update=4761547…",
+    "translated_text": "突发：伊朗防空系统在 Bandar-e MahshahrLIVE 更新中激活：https://aje.news/5bytp7?update=4761547…",
     "images": [
       "7f1a451786c84548.svg",
-      "7fc477cd04d2ac73.jpg"
+      "be0c032a1dfd21b3.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-2505233865205170347",
-    "timestamp": "2026-07-11T23:56:55.506568+00:00",
-    "original_time": "2026-07-11T14:20:23+00:00"
+    "url": "https://x.com/AJENews/status/-5428045012113041153",
+    "timestamp": "2026-07-12T02:42:35.593627+00:00",
+    "original_time": "2026-07-12T01:20:35+00:00"
   },
   {
-    "id": "tweet_AJENews_-6643871075937232920",
+    "id": "tweet_AJENews_8133194718083036618",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: One person has been killed and several wounded in Israeli strike in central GazaLIVE updates:https://aje.news/uuovra?update=4759651…",
-    "translated_text": "突发新闻：以色列对加沙中部的袭击造成一人死亡、多人受伤 LIVE 更新：https://aje.news/uuovra?update=4759651…",
+    "text": "UPDATE: Protests held in Sweden against Israel’s ceasefire violations in GazaLIVE updates:https://aje.news/uuovra?update=4760475…",
+    "translated_text": "更新：瑞典举行抗议以色列违反停火行为的 GazaLIVE 更新：https://aje.news/uuovra?update=4760475…",
     "images": [
-      "7f1a451786c84548.svg",
-      "f16fd9272e3a2362.jpg"
+      "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-6643871075937232920",
-    "timestamp": "2026-07-11T23:56:55.686203+00:00",
-    "original_time": "2026-07-11T13:05:29+00:00"
+    "url": "https://x.com/AJENews/status/8133194718083036618",
+    "timestamp": "2026-07-12T02:42:38.071618+00:00",
+    "original_time": "2026-07-11T21:00:35+00:00"
   },
   {
-    "id": "tweet_CBSNews_6336547643157242006",
+    "id": "tweet_AJENews_6160022862411284104",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Israeli forces carry out demolitions in Khan YounisLIVE updates:https://aje.news/uuovra?update=4760381…",
+    "translated_text": "突发新闻：以色列军队在汗尤尼斯进行拆除活动实时更新：https://aje.news/uuovra?update=4760381…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "63a30dfa6343d46a.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/6160022862411284104",
+    "timestamp": "2026-07-12T02:42:38.559508+00:00",
+    "original_time": "2026-07-11T20:30:24+00:00"
+  },
+  {
+    "id": "tweet_AJENews_5243417993951071972",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Oman reportedly proposed two separate routes through Strait of HormuzLIVE updates:https://aje.news/uuovra?update=4760347…",
+    "translated_text": "突发新闻：据报道，阿曼提出了两条穿过霍尔木兹海峡的独立路线实时更新：https://aje.news/uuovra?update=4760347…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "5ba321bd5e26287d.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/5243417993951071972",
+    "timestamp": "2026-07-12T02:42:39.059350+00:00",
+    "original_time": "2026-07-11T20:15:39+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-1287235736646664897",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Qatari and Emirati ministers discuss diplomatic efforts to 'reduce escalation' in regionLIVE updates:https://aje.news/uuovra?update=4760266…",
+    "translated_text": "突发新闻：卡塔尔和阿联酋部长讨论“减少地区局势升级”的外交努力实时更新：https://aje.news/uuovra?update=4760266…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "2669d9ec9c9c6db6.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-1287235736646664897",
+    "timestamp": "2026-07-12T02:42:39.708339+00:00",
+    "original_time": "2026-07-11T19:45:27+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-3470916055418829386",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Israeli army drops warning leaflets over Lebanon’s al-MansouriLIVE updates:https://aje.news/uuovra?update=4760152…",
+    "translated_text": "突发事件：以色列军队针对黎巴嫩的 al-MansouriLIVE 更新投放警告传单：https://aje.news/uuovra?update=4760152…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "b4609d184e26e341.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-3470916055418829386",
+    "timestamp": "2026-07-12T02:42:40.068682+00:00",
+    "original_time": "2026-07-11T19:00:32+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-6526098532218050512",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Oman and Iran agree to continue technical and political talks over navigation of HormuzLIVE updates:https://aje.news/uuovra?update=4760273…",
+    "translated_text": "突发新闻：阿曼和伊朗同意继续就霍尔木兹实时更新导航进行技术和政治谈判：https://aje.news/uuovra?update=4760273…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "aa5ffd4f32b63a8a.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-6526098532218050512",
+    "timestamp": "2026-07-12T02:42:40.285314+00:00",
+    "original_time": "2026-07-11T18:50:05+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-7779930911470368171",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Lebanon death toll from Israeli attacks rises to 4,322LIVE updates:https://aje.news/uuovra?update=4760113…",
+    "translated_text": "突发新闻：黎巴嫩因以色列袭击而死亡的人数上升至 4,322 人实时更新：https://aje.news/uuovra?update=4760113…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "945cd194d723c53c.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-7779930911470368171",
+    "timestamp": "2026-07-12T02:42:40.629526+00:00",
+    "original_time": "2026-07-11T18:45:41+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-7105467561384023293",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "BREAKING: The U.S. military says it began a third round of strikes on Iran in response to a commercial ship attack.",
-    "translated_text": "突发新闻：美国军方表示，针对商船袭击事件，美国开始对伊朗进行第三轮打击。",
-    "images": [
-      "60848594d0fe86fb.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/6336547643157242006",
-    "timestamp": "2026-07-11T23:57:58.373759+00:00",
-    "original_time": "2026-07-11T23:57:13+00:00"
+    "text": "It was a party in London as fans celebrated England's victory over Norway, sending them to the World Cup semifinals.\n\nJude Bellingham scored twice in the 2-1 extra time thriller. And to celebrate the win, fans sang a rendition of The Beatles' classic \"Hey Jude.\"",
+    "translated_text": "那是在伦敦举行的一场派对，球迷们庆祝英格兰队战胜挪威队，进入世界杯半决赛。\n\n裘德·贝林厄姆在加时赛中梅开二度，2-1 惊心动魄。为了庆祝胜利，粉丝们演唱了披头士乐队的经典歌曲《Hey Jude》。",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/-7105467561384023293",
+    "timestamp": "2026-07-12T02:43:43.299983+00:00",
+    "original_time": "2026-07-12T02:30:24+00:00"
   },
   {
-    "id": "tweet_CBSNews_7464603394844964975",
+    "id": "tweet_CBSNews_4728023646964124600",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Cars were seen driving through severe flooding conditions in New Orleans, Louisiana on Saturday. The flooding was caused by around 8 inches of rain per hour across the metro area, according to New Orleans Mayor Helena Moreno.",
-    "translated_text": "周六，在路易斯安那州新奥尔良，人们看到汽车在严重的洪水中行驶。新奥尔良市长海伦娜·莫雷诺 (Helena Moreno) 表示，整个都会区每小时约 8 英寸的降雨量导致洪水泛滥。",
+    "text": "At least two people were killed and four more wounded in a mass shooting Saturday evening at a street festival in Toronto, Canada, authorities said. The shooter remains at large.\n\nThe Toronto Police Service described the situation as an active shooter incident. It occurred in",
+    "translated_text": "当局称，周六晚间加拿大多伦多街头节日发生大规模枪击事件，造成至少两人死亡、四人受伤。枪手仍然逍遥法外。\n\n多伦多警察局将此情况描述为一起枪击事件。它发生在",
     "images": [
-      "c90e918ddf206e50.jpg"
+      "5f6ca9b161eb2812.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/7464603394844964975",
-    "timestamp": "2026-07-11T23:57:58.556321+00:00",
-    "original_time": "2026-07-11T23:57:09+00:00"
+    "url": "https://x.com/CBSNews/status/4728023646964124600",
+    "timestamp": "2026-07-12T02:43:44.007014+00:00",
+    "original_time": "2026-07-12T02:12:46+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4037164468433018479",
+    "id": "tweet_CBSNews_-6099398038823176692",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "NEW: Iran claims it launched warning shots at commercial ship in Strait of Hormuz, alleges strait is closed",
-    "translated_text": "新消息：伊朗声称向霍尔木兹海峡的商船发出警告，并声称该海峡已关闭",
+    "text": "Read more:",
+    "translated_text": "阅读更多：",
     "images": [
-      "60848594d0fe86fb.jpg"
+      "3a846e16651ab938.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4037164468433018479",
-    "timestamp": "2026-07-11T23:57:59.012727+00:00",
-    "original_time": "2026-07-11T23:43:54+00:00"
+    "url": "https://x.com/CBSNews/status/-6099398038823176692",
+    "timestamp": "2026-07-12T02:43:44.260396+00:00",
+    "original_time": "2026-07-12T02:13:22+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7695555540617965734",
+    "id": "tweet_CBSEveningNews_-8128363044549980330",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "A moment of silence was held for Jayden Adams of South Africa before the FIFA World Cup quarterfinal match between Norway and England in Miami on Saturday.\n\nAdams, who played in the 2026 World Cup just weeks ago, died at 25, officials confirmed on Saturday. Further details of his",
-    "translated_text": "周六在迈阿密举行的国际足联世界杯四分之一决赛挪威队与英格兰队的比赛之前，为南非队的杰登·亚当斯默哀。\n\n官方周六证实，几周前参加过 2026 年世界杯的亚当斯去世，享年 25 岁。他的更多细节",
+    "username": "CBSEveningNews",
+    "text": "A new exhibit, The Declaration’s Promise, celebrates America’s independence and showcases how phrases such as “all men are created equal,” evolved. CBS News’@NikolenDChas more.",
+    "translated_text": "一个新的展览“宣言的承诺”庆祝美国的独立，并展示“人人生而平等”等短语是如何演变的。哥伦比亚广播公司新闻@NikolenDChas 更多。",
     "images": [
-      "7a746ce654be3204.jpg",
-      "fe48bdca85337f5d.jpg"
+      "d96fe563b8d64a6e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7695555540617965734",
-    "timestamp": "2026-07-11T23:57:59.678855+00:00",
-    "original_time": "2026-07-11T23:24:07+00:00"
+    "url": "https://x.com/CBSEveningNews/status/-8128363044549980330",
+    "timestamp": "2026-07-12T02:43:44.813869+00:00",
+    "original_time": "2026-07-12T01:55:40+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4113238428809609641",
+    "id": "tweet_CBSEveningNews_8340686355338455842",
+    "type": "tweet",
+    "username": "CBSEveningNews",
+    "text": "Fire departments across the U.S. are changing how they extinguish fires. For decades, they used foam that contained so-called “forever chemicals” that are now linked to cancer. More than a dozen states are now working to collect, remove and destroy all of it. CBS News’ Mark",
+    "translated_text": "美国各地的消防部门正在改变灭火方式。几十年来，他们使用的泡沫含有所谓的“永久化学物质”，这些化学物质现在与癌症有关。目前，十多个州正在努力收集、清除和销毁所有这些物质。哥伦比亚广播公司新闻的马克",
+    "images": [
+      "b26fe8554debc7de.jpg"
+    ],
+    "url": "https://x.com/CBSEveningNews/status/8340686355338455842",
+    "timestamp": "2026-07-12T02:43:46.328816+00:00",
+    "original_time": "2026-07-12T01:53:43+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-2608724201546712755",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A man was nearly sucked out the window of a Ryanair flight when it \"detached\" midair en route to Germany, with other passengers pulling him back inside, a witness told Greek media on Friday.\n\nThe passenger, described as a tourist from Serbia on a flight from Thessaloniki in",
@@ -410,110 +423,412 @@
       "b19b1568bcaefddd.jpg",
       "1e5a16c521890795.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4113238428809609641",
-    "timestamp": "2026-07-11T23:57:59.904177+00:00",
+    "url": "https://x.com/CBSNews/status/-2608724201546712755",
+    "timestamp": "2026-07-12T02:43:48.998082+00:00",
     "original_time": "2026-07-11T22:44:14+00:00"
   },
   {
-    "id": "tweet_CBSNews_1833102450528634947",
+    "id": "tweet_CBSNews_-351761094019524566",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Portnoy said he wanted \"Barstool Sports\" to be like \"Saturday Night Live\" — a place where great talent could be established and developed.",
-    "translated_text": "波特诺伊说，他希望《Barstool Sports》能像《周六夜现场》一样——一个可以培养和培养优秀人才的地方。",
-    "images": [
-      "a2efe242ee3a782f.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1833102450528634947",
-    "timestamp": "2026-07-11T23:58:02.109679+00:00",
-    "original_time": "2026-07-11T17:00:00+00:00"
+    "text": "Rescue crews had to airlift more than 200 people stuck at a children's camp after 6 to 12 inches of rain fell Friday in the southeastern part of Missouri, cutting off all roads into the area.\n\nThe Missouri National Guard mobilized eight Black Hawk helicopters to fly 202 campers",
+    "translated_text": "周五，密苏里州东南部降下 6 至 12 英寸的降雨，导致进入该地区的所有道路被切断，救援人员不得不空运被困在儿童营地的 200 多人。\n\n密苏里州国民警卫队出动八架黑鹰直升机运送 202 名露营者",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/-351761094019524566",
+    "timestamp": "2026-07-12T02:43:49.519271+00:00",
+    "original_time": "2026-07-11T22:06:51+00:00"
   },
   {
-    "id": "tweet_CBSNews_4390034859480950366",
+    "id": "tweet_CBSNews_6354928977190988611",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "The Summit Fire burning in rural Los Angeles County, California, grew rapidly on Friday, burning about 2,677 acres as of Saturday morning, according to Cal Fire. Planes assisted Friday's firefighting effort and officials issued evacuation orders for some areas near the Angeles",
-    "translated_text": "据加州消防局称，周五，加利福尼亚州洛杉矶县乡村地区的萨米特山火蔓延迅速，截至周六上午，火灾面积约 2,677 英亩。飞机协助周五的消防工作，官员们向洛杉矶附近的一些地区发出了疏散命令",
+    "text": "Bull gores runner in the face at Spain's San Fermin bull run festival, 12 others hurt",
+    "translated_text": "西班牙圣费尔明奔牛节上，公牛冲撞跑步者脸部，造成12人受伤",
     "images": [
-      "7d97d4c8138c2018.jpg"
+      "d9dd927a267d55da.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4390034859480950366",
-    "timestamp": "2026-07-11T23:58:02.299550+00:00",
-    "original_time": "2026-07-11T16:59:43+00:00"
+    "url": "https://x.com/CBSNews/status/6354928977190988611",
+    "timestamp": "2026-07-12T02:43:49.861134+00:00",
+    "original_time": "2026-07-11T21:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3992750405639229752",
+    "id": "tweet_CBSNews_1913470067854280704",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "An Iranian delegation traveled to Oman on Saturday to continue negotiations via mediators. A Qatari official told CBS News that no Americans will attend the Omani talks.",
-    "translated_text": "伊朗代表团周六前往阿曼，通过调解人继续进行谈判。一名卡塔尔官员告诉哥伦比亚广播公司新闻，没有美国人将参加阿曼会谈。",
+    "text": "Firefighters putting out the Rock Creek Fire in Colorado had an unexpected helper on Friday — a local goat named \"Goldie.\" Fire department officials in Colorado Springs and Castle Rock say Goldie assisted the crews in clearing the flammable brush by eating it. Goldie was also",
+    "translated_text": "周五，扑灭科罗拉多州罗克溪火灾的消防队员得到了一位意想不到的帮助——一只名叫“戈尔迪”的当地山羊。科罗拉多斯普林斯和罗克堡的消防局官员表示，戈尔迪通过吃掉易燃灌木丛来协助消防人员清除灌木丛。戈尔迪也曾",
+    "images": [
+      "c2f8edc7970b9c32.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1913470067854280704",
+    "timestamp": "2026-07-12T02:43:50.344477+00:00",
+    "original_time": "2026-07-11T20:57:19+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-7780608239382541639",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Surveillance video from a coffee shop showed the moment customers, including children, ducked for cover from apparent missile strikes Friday afternoon in Sumy, Ukraine.",
+    "translated_text": "乌克兰苏梅一家咖啡店的监控视频显示，周五下午，包括儿童在内的顾客纷纷躲避明显的导弹袭击。",
+    "images": [
+      "bfb8ed8e31ba1e09.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-7780608239382541639",
+    "timestamp": "2026-07-12T02:43:51.139760+00:00",
+    "original_time": "2026-07-11T20:00:46+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1985027417008205167",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The talks on Saturday between Iran and Oman have wrapped, but a readout from Iran shows little was decided as the two sides meet over how to manage the Strait of Hormuz.",
+    "translated_text": "伊朗和阿曼周六的会谈已经结束，但伊朗发布的消息显示，双方就如何管理霍尔木兹海峡进行会晤时几乎没有达成任何决定。",
     "images": [
       "60848594d0fe86fb.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3992750405639229752",
-    "timestamp": "2026-07-11T23:58:02.421594+00:00",
-    "original_time": "2026-07-11T16:30:00+00:00"
+    "url": "https://x.com/CBSNews/status/1985027417008205167",
+    "timestamp": "2026-07-12T02:43:51.727668+00:00",
+    "original_time": "2026-07-11T20:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1024031656934303121",
+    "id": "tweet_CENTCOM_5476454621227748538",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "A U.S. citizen working for a humanitarian organization in Congo has tested positive for the Ebola virus, the CDC said on Friday.",
-    "translated_text": "美国疾病控制与预防中心周五表示，一名在刚果人道主义组织工作的美国公民埃博拉病毒检测呈阳性。",
-    "images": [
-      "0d15777f947834e6.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-1024031656934303121",
-    "timestamp": "2026-07-11T23:58:02.623364+00:00",
-    "original_time": "2026-07-11T16:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-3516641460552608810",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "At least 12 people are dead as hundreds of firefighters backed by helicopters and fixed-wing aircraft struggled Saturday to contain one of Spain's deadliest wildfires.",
-    "translated_text": "周六，数百名消防员在直升机和固定翼飞机的支援下奋力扑灭西班牙最致命的野火之一，造成至少 12 人死亡。",
-    "images": [
-      "34ce767f038b9393.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-3516641460552608810",
-    "timestamp": "2026-07-11T23:58:02.809370+00:00",
-    "original_time": "2026-07-11T15:30:01+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2929191997316769530",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A 4-year-old boy's simple habit of waving to his neighbors transformed his North Carolina community.",
-    "translated_text": "一个四岁男孩向邻居挥手的简单习惯改变了他在北卡罗来纳州的社区。",
-    "images": [
-      "ee5c3d425e9f3f7e.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/2929191997316769530",
-    "timestamp": "2026-07-11T23:58:02.998354+00:00",
-    "original_time": "2026-07-11T15:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_8095450834630550123",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Rapper Pitbull has set the first Guinness World Record for the largest gathering of people wearing bald caps.",
-    "translated_text": "说唱歌手 Pitbull 创造了首个戴着秃头帽的最大人群聚集的吉尼斯世界纪录。",
-    "images": [
-      "d0849175faadc86f.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/8095450834630550123",
-    "timestamp": "2026-07-11T23:58:03.238928+00:00",
-    "original_time": "2026-07-11T14:45:00+00:00"
-  },
-  {
-    "id": "tweet_JenGriffinFNC_-942879957907791269",
-    "type": "tweet",
-    "username": "JenGriffinFNC",
-    "text": "This action by the US government to subpoena reporters for reporting legitimate news on security concerns about Air Force 1 should alarm every American. \n\n“The appearance of federal law enforcement agents on the doorstep of news reporters should shock the conscience of any",
-    "translated_text": "美国政府传唤报道有关空军一号安全问题的合法新闻的记者的这一行为应该引起每个美国人的警惕。 \n\n“联邦执法人员出现在新闻记者家门口，应该会震惊任何人的良心。",
+    "username": "CENTCOM",
+    "text": "At 7:15 p.m. ET today, U.S. Central Command forces began launching the third round of strikes this week against Iran after Islamic Revolutionary Guard Corps forces blatantly attacked M/V GFS Galaxy, a Cyprus-flagged container ship transiting the Strait of Hormuz. A civilian crew",
+    "translated_text": "晚上 7 点 15 分美国东部时间今天，美国中央司令部部队开始对伊朗发动本周第三轮打击，此前伊斯兰革命卫队部队公然袭击了一艘悬挂塞浦路斯国旗、途经霍尔木兹海峡的集装箱船 M/V GFS Galaxy。平民船员",
     "images": [],
-    "url": "https://x.com/JenGriffinFNC/status/-942879957907791269",
-    "timestamp": "2026-07-11T23:58:35.288423+00:00",
-    "original_time": "2026-07-11T12:01:10+00:00"
+    "url": "https://x.com/CENTCOM/status/5476454621227748538",
+    "timestamp": "2026-07-12T02:44:24.549060+00:00",
+    "original_time": "2026-07-11T23:39:55+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_641547839385092598",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "We are back on your Tv and Digital screens. \n\nWatch Live on Youtube:https://youtube.com/live/t3fvgmDDmdc?si=3y6fSE3NdaEa2PCh…",
+    "translated_text": "我们又回到了您的电视和数字屏幕上。 \n\n在 Youtube 上观看直播：https://youtube.com/live/t3fvgmDDmdc?si=3y6fSE3NdaEa2PCh…",
+    "images": [
+      "ec1ba7a9b268932a.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/641547839385092598",
+    "timestamp": "2026-07-12T02:45:04.797637+00:00",
+    "original_time": "2026-07-11T19:16:30+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5837280430299730251",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Flood situation in the US state of Missouri after heavy rains, residential areas submerged in water, emergency declared",
+    "translated_text": "美国密苏里州暴雨后洪水情势 居民区被水淹没 宣布进入紧急状态",
+    "images": [
+      "cbbec9e193dac585.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5837280430299730251",
+    "timestamp": "2026-07-12T02:45:05.793800+00:00",
+    "original_time": "2026-07-12T02:06:05+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-49714721123058313",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Explosions were heard in the southern Iranian cities of Asaluyeh and Bushehr, Iranian media",
+    "translated_text": "伊朗媒体报道，伊朗南部城市阿萨卢耶和布什尔传出爆炸声",
+    "images": [
+      "21d72862b1921c88.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-49714721123058313",
+    "timestamp": "2026-07-12T02:45:06.243704+00:00",
+    "original_time": "2026-07-12T00:38:59+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-9043512560313105318",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "If America does not fulfill its promises, Iran will cease implementation of the memorandum of understanding, says Amir Saeed Iravani.",
+    "translated_text": "阿米尔·赛义德·伊拉瓦尼表示，如果美国不履行承诺，伊朗将停止执行谅解备忘录。",
+    "images": [
+      "57cfa98f6ee13c12.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-9043512560313105318",
+    "timestamp": "2026-07-12T02:45:06.766383+00:00",
+    "original_time": "2026-07-12T00:38:48+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4886325309764333140",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Security Concerns Regarding the New Air Force One Gifted by Qatar to the United States",
+    "translated_text": "卡塔尔赠送美国的新空军一号的安全担忧",
+    "images": [
+      "a7d4e613fd82172b.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/4886325309764333140",
+    "timestamp": "2026-07-12T02:45:07.286594+00:00",
+    "original_time": "2026-07-12T00:38:37+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-6254308967897803196",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "After the Philippines and Japan, Tropical Storm Bebinca is expected to hit China's eastern coast this morning",
+    "translated_text": "继菲律宾和日本之后，热带风暴贝宾卡预计将于今天上午袭击中国东部沿海",
+    "images": [
+      "ffa46828abac8027.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-6254308967897803196",
+    "timestamp": "2026-07-12T02:45:10.050034+00:00",
+    "original_time": "2026-07-11T19:07:24+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-5281374768429724758",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Home lions turned into heaps outside, England defeated India in the final T20 as well to win the series 4-0",
+    "translated_text": "主场雄狮外翻，T20决赛英格兰队4-0击败印度队赢得系列赛",
+    "images": [
+      "054697fb971dab67.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-5281374768429724758",
+    "timestamp": "2026-07-12T02:45:10.453687+00:00",
+    "original_time": "2026-07-11T18:49:21+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_6790727810003353888",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The king is not running economically, should there be new elections?  \nSee Aimal Wali Khan's response@SaleemKhanSafi",
+    "translated_text": "国王不在经济上竞选，是否应该进行新的选举？  \n请参阅 Aimal Wali Khan 的回复@SaleemKhanSafi",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/6790727810003353888",
+    "timestamp": "2026-07-12T02:45:11.492401+00:00",
+    "original_time": "2026-07-11T18:11:32+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_6962486203426087454",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Several leaders were expelled from the party, but none were included?  \nSee what Aimal Wali Khan had to say in response@SaleemKhanSafi",
+    "translated_text": "好几个领导被开除党籍，却没有一个被列入？  \n看看 Aimal Wali Khan 的回复@SaleemKhanSafi",
+    "images": [
+      "179ef645c9e9d991.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/6962486203426087454",
+    "timestamp": "2026-07-12T02:45:12.132129+00:00",
+    "original_time": "2026-07-11T18:11:22+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_434125801262537090",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "\"Hold elections, Imran Khan will lose badly in Khyber Pakhtunkhwa\"  \nAimal Wali Khan@SaleemKhanSafi",
+    "translated_text": "“举行选举，伊姆兰·汗将在开伯尔-普赫图赫瓦省惨败”  \n艾马尔·瓦利·汗@SaleemKhanSafi",
+    "images": [
+      "aa4a34cd835cb8d1.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/434125801262537090",
+    "timestamp": "2026-07-12T02:45:13.080630+00:00",
+    "original_time": "2026-07-11T18:11:12+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1218615856366139109",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Why the Objection from Amal Wali Khan to the Kharian Motorway Project?@SaleemKhanSafi",
+    "translated_text": "为什么 Amal Wali Khan 反对 Kharian 高速公路项目？@SaleemKhanSafi",
+    "images": [
+      "1bebe9bd29a87523.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/1218615856366139109",
+    "timestamp": "2026-07-12T02:45:13.724257+00:00",
+    "original_time": "2026-07-11T18:11:02+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-4071188903205067741",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Did Pakistan play a positive role in the Iran-America war?  \nSee what Emal Wali Khan had to say in response@SaleemKhanSafi",
+    "translated_text": "巴基斯坦在两伊战争中发挥了积极作用吗？  \n看看 Emal Wali Khan 的回复@SaleemKhanSafi",
+    "images": [
+      "201ce859b3c35b87.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-4071188903205067741",
+    "timestamp": "2026-07-12T02:45:14.479273+00:00",
+    "original_time": "2026-07-11T18:10:51+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4635193332422229320",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "What are the current conditions in Khyber Pakhtunkhwa at this time?  \nWatch Aimal Wali Khan's exclusive interview@SaleemKhanSafi",
+    "translated_text": "目前开伯尔-普赫图赫瓦省目前的状况如何？  \n观看 Aimal Wali Khan 的独家采访@SaleemKhanSafi",
+    "images": [
+      "a61a4d009c2b2351.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/4635193332422229320",
+    "timestamp": "2026-07-12T02:45:14.902236+00:00",
+    "original_time": "2026-07-11T18:10:26+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_7882092314588998912",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Gilgit-Baltistan: Torrential rains in Diamer, crops and a connecting bridge destroyed due to flooding in seasonal streams",
+    "translated_text": "吉尔吉特-巴尔蒂斯坦：迪亚默遭遇暴雨，季节性溪流泛滥，农作物和连接桥梁被毁",
+    "images": [
+      "49e369d0422a7ee0.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/7882092314588998912",
+    "timestamp": "2026-07-12T02:45:15.417898+00:00",
+    "original_time": "2026-07-11T17:58:41+00:00"
+  },
+  {
+    "id": "article_a19a1f4394d1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2013645/cargo-plane-disappears-from-radar-over-arabian-sea-off-karachi",
+    "timestamp": "2026-07-12T02:46:59.345553+00:00",
+    "original_time": "2026-07-12T02:46:59.345520+00:00"
+  },
+  {
+    "id": "article_d50fa7d57af6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "GST hike pushes up hybrid vehicle prices",
+    "translated_title": "商品及服务税上调推高混合动力汽车价格",
+    "url": "https://www.dawn.com/news/2014767/gst-hike-pushes-up-hybrid-vehicle-prices",
+    "timestamp": "2026-07-12T02:47:03.252609+00:00",
+    "original_time": "2026-07-12T06:55:17+05:00"
+  },
+  {
+    "id": "article_e6779949202d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2014513/ajk-pm-welcomes-rebuke-to-those-misusing-jaac-platform",
+    "timestamp": "2026-07-12T02:47:25.432821+00:00",
+    "original_time": "2026-07-12T02:47:25.432791+00:00"
+  },
+  {
+    "id": "article_b66db131ca28",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Geo News resumes transmission after 15-day suspension, warned of licence cancellation over future violations",
+    "translated_title": "Geo News 在暂停 15 天后恢复传输，警告未来违规将取消许可证",
+    "url": "https://www.dawn.com/news/2014653/geo-news-resumes-transmission-after-15-day-suspension-warned-of-licence-cancellation-over-future-violations",
+    "timestamp": "2026-07-12T02:47:53.848175+00:00",
+    "original_time": "2026-07-11T23:37:28+05:00"
+  },
+  {
+    "id": "article_2937d218147a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Bellingham double fires England past Norway into World Cup semis",
+    "translated_title": "贝灵厄姆双杀英格兰击败挪威进入世界杯半决赛",
+    "url": "https://www.dawn.com/news/2014797/bellingham-double-fires-england-past-norway-into-world-cup-semis",
+    "timestamp": "2026-07-12T02:48:32.175194+00:00",
+    "original_time": "2026-07-12T05:35:52+05:00"
+  },
+  {
+    "id": "article_07f0c4ed7c65",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Gwadar Port carries out first successful commercial bunkering operation",
+    "translated_title": "瓜达尔港首次成功进行商业加油作业",
+    "url": "https://www.dawn.com/news/2014650/gwadar-port-carries-out-first-successful-commercial-bunkering-operation",
+    "timestamp": "2026-07-12T02:48:51.144362+00:00",
+    "original_time": "2026-07-11T23:07:23+05:00"
+  },
+  {
+    "id": "article_2278ad7228bf",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2013648/internet-calls-out-controversial-refereeing-after-argentina-break-egypt-hearts-at-world-cup",
+    "timestamp": "2026-07-12T02:49:21.518334+00:00",
+    "original_time": "2026-07-12T02:49:21.518305+00:00"
+  },
+  {
+    "id": "article_7ab17f12dfe3",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2013723",
+    "timestamp": "2026-07-12T02:50:22.963309+00:00",
+    "original_time": "2026-07-12T02:50:22.963282+00:00"
+  },
+  {
+    "id": "article_0d9502d6b61d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Crypto czar holds 'constructive' discussion with Mufti Taqi Usmani on Shariah status of digital assets",
+    "translated_title": "加密货币沙皇与 Mufti Taqi Usmani 就数字资产的伊斯兰教法地位进行了“建设性”讨论",
+    "url": "https://www.dawn.com/news/2014640/crypto-czar-holds-constructive-discussion-with-mufti-taqi-usmani-on-shariah-status-of-digital-assets",
+    "timestamp": "2026-07-12T02:50:37.795001+00:00",
+    "original_time": "2026-07-11T20:15:44+05:00"
+  },
+  {
+    "id": "article_b80563beaadf",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Iran's Supreme Leader Mojtaba Khamenei vows revenge for assassinated father",
+    "translated_title": "伊朗最高领袖哈梅内伊誓言为被暗杀的父亲报仇",
+    "url": "https://www.dawn.com/news/2014642/irans-supreme-leader-mojtaba-khamenei-vows-revenge-for-assassinated-father",
+    "timestamp": "2026-07-12T02:51:08.883697+00:00",
+    "original_time": "2026-07-11T21:15:00+05:00"
+  },
+  {
+    "id": "article_21127aa11ff7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2013971",
+    "timestamp": "2026-07-12T02:51:52.607717+00:00",
+    "original_time": "2026-07-12T02:51:52.607693+00:00"
+  },
+  {
+    "id": "article_661181f7553f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2013649/egypt-cheated-in-controversial-world-cup-exit-to-messis-argentina-says-coach-hassan",
+    "timestamp": "2026-07-12T02:52:18.100194+00:00",
+    "original_time": "2026-07-12T02:52:18.100161+00:00"
+  },
+  {
+    "id": "article_a14299c93165",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
+    "translated_title": "越南南部快艇事故造成15名印度游客死亡",
+    "url": "https://www.dawn.com/news/2014632/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists",
+    "timestamp": "2026-07-12T02:52:32.156989+00:00",
+    "original_time": "2026-07-11T22:04:45+05:00"
+  },
+  {
+    "id": "article_cd5abea6e799",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "14 more terrorists killed as Operation Shaban continues",
+    "translated_title": "沙班行动继续进行，又有 14 名恐怖分子被杀",
+    "url": "https://www.dawn.com/news/2014779/14-more-terrorists-killed-as-operation-shaban-continues",
+    "timestamp": "2026-07-12T02:53:40.845929+00:00",
+    "original_time": "2026-07-12T06:53:35+05:00"
+  },
+  {
+    "id": "article_cb2c4b13f1f2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "'Our land, our sky:' West Bank Palestinians fly kites in defiance of Israeli settlers",
+    "translated_title": "“我们的土地，我们的天空”：西岸巴勒斯坦人无视以色列定居者放风筝",
+    "url": "https://www.dawn.com/news/2014636/our-land-our-sky-west-bank-palestinians-fly-kites-in-defiance-of-israeli-settlers",
+    "timestamp": "2026-07-12T02:54:10.313806+00:00",
+    "original_time": "2026-07-11T19:49:58+05:00"
   }
 ]
