@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_8160741832601073631",
+    "id": "tweet_ForeignOfficePk_3116201883833271807",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Curtain Raiser: Visit of the Minister of Foreign Affairs of Canada H.E. Anita Anand to Pakistan (20 July 2026)",
@@ -16,12 +16,12 @@
       "1d7695f51048fca1.svg",
       "8588499e08685c05.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/8160741832601073631",
-    "timestamp": "2026-07-19T17:00:00.789889+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/3116201883833271807",
+    "timestamp": "2026-07-19T18:02:51.895449+00:00",
     "original_time": "2026-07-19T13:33:26+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-8728368365077353518",
+    "id": "tweet_ForeignOfficePk_-3346186660466964912",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50received a call from the newly appointed Minister of Foreign Relations and Foreign Trade of the Bolivarian Republic of Venezuela, H.E. Félix Plasencia.\n\nDPM/FM extended his warm congratulations to",
@@ -29,12 +29,25 @@
     "images": [
       "f48c44a727dee330.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-8728368365077353518",
-    "timestamp": "2026-07-19T17:00:00.992113+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-3346186660466964912",
+    "timestamp": "2026-07-19T18:02:52.089322+00:00",
     "original_time": "2026-07-19T07:05:19+00:00"
   },
   {
-    "id": "tweet_DPM_PK_-7326103431033548941",
+    "id": "tweet_MIshaqDar50_0",
+    "type": "tweet",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
+    "images": [
+      "aa57bcf2b773d2e4.jpg"
+    ],
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-07-19T18:03:05.802039+00:00",
+    "original_time": "2026-07-19T17:06:40+00:00"
+  },
+  {
+    "id": "tweet_DPM_PK_-5752515631771773812",
     "type": "tweet",
     "username": "DPM_PK",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50received the President of the National Party, Dr. Abdul Malik Baloch, along with parliamentary members of his party, on 18 July 2026.\n\nDeputy Prime Minister/Foreign Minister reiterated that the Federal",
@@ -45,23 +58,23 @@
       "c79b10148f733352.jpg",
       "49a623c1f0cfa1b9.jpg"
     ],
-    "url": "https://x.com/DPM_PK/status/-7326103431033548941",
-    "timestamp": "2026-07-19T17:00:17.957218+00:00",
+    "url": "https://x.com/DPM_PK/status/-5752515631771773812",
+    "timestamp": "2026-07-19T18:03:06.433211+00:00",
     "original_time": "2026-07-19T06:30:19+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5792630255920317854",
+    "id": "tweet_PakTVGlobal_5454092481751397179",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Joseph Shumunov, Research Fellow at the Topchubashov Center, Baku says the recent US-Iran exchanges have significantly reduced prospects for de-escalation. He says the continued attacks on commercial shipping and rising retaliation have deepened tensions, warning that the",
     "translated_text": "巴库托普丘巴绍夫中心研究员约瑟夫·舒穆诺夫表示，最近的美伊交流大大降低了局势缓和的前景。他表示，对商业航运的持续袭击和不断升级的报复行动加剧了紧张局势，并警告称",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-5792630255920317854",
-    "timestamp": "2026-07-19T17:01:19.932994+00:00",
+    "url": "https://x.com/PakTVGlobal/status/5454092481751397179",
+    "timestamp": "2026-07-19T18:04:04.273221+00:00",
     "original_time": "2026-07-19T16:45:49+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6350436120957557507",
+    "id": "tweet_PakTVGlobal_-1274622304875742617",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Osama Nazzal, Palestinian Journalist, says Israel's continued settlement expansion is aimed at changing the landscape of the occupied Palestinian territories and creating irreversible facts on the ground. He says these developments have further diminished prospects for a",
@@ -69,12 +82,12 @@
     "images": [
       "9163563e66494aa2.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6350436120957557507",
-    "timestamp": "2026-07-19T17:01:20.537246+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-1274622304875742617",
+    "timestamp": "2026-07-19T18:04:04.527896+00:00",
     "original_time": "2026-07-19T16:28:46+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_4848674281249082330",
+    "id": "tweet_PakTVGlobal_-8905852700919542330",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Dr. Ahmed Saeed, Geopolitical Analyst, says the mistrust between the US and Iran remains the biggest obstacle to implementing the Islamabad MoU. He warned that renewed tensions are disrupting regional energy and trade flows, affecting countries including Pakistan and stressed",
@@ -82,12 +95,12 @@
     "images": [
       "f98dbd4e9fac1be3.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/4848674281249082330",
-    "timestamp": "2026-07-19T17:01:21.173892+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-8905852700919542330",
+    "timestamp": "2026-07-19T18:04:04.700667+00:00",
     "original_time": "2026-07-19T16:24:10+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6181567753052112791",
+    "id": "tweet_PakTVGlobal_6747581627091240610",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "FORMER Ambassador Jamil Ahmad says the Islamabad MoU was designed to address a highly complex conflict with key mechanisms and communication channels intended to be established over time. He said the differing interpretations of some clauses, however, also complicated the",
@@ -95,12 +108,12 @@
     "images": [
       "4a63508f6581fe9c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6181567753052112791",
-    "timestamp": "2026-07-19T17:01:21.590299+00:00",
+    "url": "https://x.com/PakTVGlobal/status/6747581627091240610",
+    "timestamp": "2026-07-19T18:04:04.879484+00:00",
     "original_time": "2026-07-19T16:21:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_1213505857740204400",
+    "id": "tweet_PakTVGlobal_2586652612231164704",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Ayesha Haq, Journalist TRT World, Istanbul says the conflict has entered a more dangerous phase, with attacks now impacting civilians, critical infrastructure and multiple countries across the region. She warns that rising tensions involving the US, Iran and Gulf states could",
@@ -108,23 +121,23 @@
     "images": [
       "88e6044547654d43.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/1213505857740204400",
-    "timestamp": "2026-07-19T17:01:21.775143+00:00",
+    "url": "https://x.com/PakTVGlobal/status/2586652612231164704",
+    "timestamp": "2026-07-19T18:04:05.049683+00:00",
     "original_time": "2026-07-19T15:41:14+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7873875524872720327",
+    "id": "tweet_PakTVGlobal_119932883758801626",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Former Ambassador Ali Sarwar Naqvi said that after past military confrontations with Pakistan, India shifted its strategy to supporting proxy groups to destabilize the country. He said Pakistan remains committed to countering terrorism and safeguarding its security against both",
     "translated_text": "前大使阿里·萨瓦尔·纳克维表示，在过去与巴基斯坦发生军事对抗之后，印度将战略转向支持代理人组织破坏国家稳定。他说，巴基斯坦仍然致力于打击恐怖主义并维护其安全。",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-7873875524872720327",
-    "timestamp": "2026-07-19T17:01:24.340971+00:00",
+    "url": "https://x.com/PakTVGlobal/status/119932883758801626",
+    "timestamp": "2026-07-19T18:04:07.192759+00:00",
     "original_time": "2026-07-19T08:59:16+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1854928055715919534",
+    "id": "tweet_PakTVGlobal_-9060605305451935624",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "During exclusive interactions with Pakistan TV, Azerbaijan's leadership voiced unwavering confidence in Pakistan's diplomatic role, applauding its dedicated efforts to ease tensions between US and Iran and foster regional peace.@adilshahzeb@AzerbaijanMFA@presidentaz",
@@ -132,12 +145,12 @@
     "images": [
       "51bb3bc3e48238ce.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1854928055715919534",
-    "timestamp": "2026-07-19T17:01:24.696926+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-9060605305451935624",
+    "timestamp": "2026-07-19T18:04:07.377379+00:00",
     "original_time": "2026-07-19T08:56:41+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7837771340811283418",
+    "id": "tweet_PakTVGlobal_-52938951029599898",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Kuwait's military said its air defenses were responding to Iranian missile and drone attacks after warning sirens sounded across Kuwait City. The latest strikes come a day after Iranian barrages reportedly hit a power plant and an oil facility in the Gulf state.#Kuwait",
@@ -145,12 +158,12 @@
     "images": [
       "8b08bf119bd57e24.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-7837771340811283418",
-    "timestamp": "2026-07-19T17:01:25.057024+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-52938951029599898",
+    "timestamp": "2026-07-19T18:04:07.536686+00:00",
     "original_time": "2026-07-19T08:46:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6188119437227305646",
+    "id": "tweet_PakTVGlobal_-3399666099672608824",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Ukraine's air force said it intercepted 18 of the 41 missiles launched by Russian forces in an overnight attack, as Moscow continued its aerial operation across the country.#RussiaUkraineWar#Ukraine#Russia#Kyiv#PakistanTV",
@@ -158,12 +171,12 @@
     "images": [
       "039ddb3796d7e95e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6188119437227305646",
-    "timestamp": "2026-07-19T17:01:25.856791+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-3399666099672608824",
+    "timestamp": "2026-07-19T18:04:07.757954+00:00",
     "original_time": "2026-07-19T08:22:55+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3715409394153306773",
+    "id": "tweet_PakTVGlobal_-2674724201647118936",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Russian missiles struck Kyiv and the surrounding region early Sunday, killing at least one person and injuring nine others. The attack triggered fires in homes, a supermarket, and other buildings as air raid sirens echoed across the Ukrainian capital.#RussiaUkraineWar#Kyiv",
@@ -171,36 +184,64 @@
     "images": [
       "551ac996262387f8.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3715409394153306773",
-    "timestamp": "2026-07-19T17:01:26.455113+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-2674724201647118936",
+    "timestamp": "2026-07-19T18:04:07.990815+00:00",
     "original_time": "2026-07-19T08:05:26+00:00"
   },
   {
-    "id": "tweet_mb_ghalibaf_487794330495154466",
+    "id": "tweet_mb_ghalibaf_2467689831903958990",
     "type": "tweet",
     "username": "mb_ghalibaf",
     "text": "Insisting on the sacred covenant is not merely a moral or social recommendation; rather, it is an essential condition for victory in the field of struggle against the enemy.  \nLet us regard obedience to this religious and national decree of the Supreme Leader of the Revolution as",
     "translated_text": "坚持神圣圣约不仅是一种道德或社会建议，更是一种道德或社会建议。相反，它是在对敌斗争领域取得胜利的必要条件。  \n让我们把遵守革命最高领袖的这一宗教和民族法令视为",
     "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/487794330495154466",
-    "timestamp": "2026-07-19T17:02:27.584673+00:00",
+    "url": "https://x.com/mb_ghalibaf/status/2467689831903958990",
+    "timestamp": "2026-07-19T18:05:08.867096+00:00",
     "original_time": "2026-07-19T09:26:01+00:00"
   },
   {
-    "id": "tweet_AJENews_4662211279790052745",
+    "id": "tweet_AJENews_-8969081694485037134",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Iran says it has shot down more US drones and a missileLIVE updates:https://aje.news/zpl6ns?update=4786822…",
+    "translated_text": "突发新闻：伊朗表示击落了更多美国无人机和一枚导弹实时更新：https://aje.news/zpl6ns?update=4786822…",
+    "images": [
+      "7f1a451786c84548.svg"
+    ],
+    "url": "https://x.com/AJENews/status/-8969081694485037134",
+    "timestamp": "2026-07-19T18:05:24.868375+00:00",
+    "original_time": "2026-07-19T18:00:36+00:00"
+  },
+  {
+    "id": "tweet_AJENews_8921375568531146289",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Iraqi PM Ali al-Zaidi will visit Iran’s capital, Tehran, within the coming week. During the visit, the prime minister will sign memoranda of understanding on areas of cooperation, reports the Iraqi state news agency.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：伊拉克总理阿里·扎伊迪将于下周访问伊朗首都德黑兰。据伊拉克国家通讯社报道，访问期间，总理将签署合作领域谅解备忘录。更多信息请访问http://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "b048a053c05901dc.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/8921375568531146289",
+    "timestamp": "2026-07-19T18:05:25.211646+00:00",
+    "original_time": "2026-07-19T17:44:22+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-3153743237158227200",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Jordan summons Iranian envoy to protest attacks on the countryLIVE updates:https://aje.news/zpl6ns?update=4786701…",
     "translated_text": "突发新闻：约旦召集伊朗特使抗议对该国的袭击实时更新：https://aje.news/zpl6ns?update=4786701…",
     "images": [
-      "7f1a451786c84548.svg"
+      "7f1a451786c84548.svg",
+      "0ca0da313d582b84.jpg"
     ],
-    "url": "https://x.com/AJENews/status/4662211279790052745",
-    "timestamp": "2026-07-19T17:02:43.819661+00:00",
+    "url": "https://x.com/AJENews/status/-3153743237158227200",
+    "timestamp": "2026-07-19T18:05:25.429440+00:00",
     "original_time": "2026-07-19T17:00:28+00:00"
   },
   {
-    "id": "tweet_AJENews_4628547682213097974",
+    "id": "tweet_AJENews_7986825511857759018",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Israel launches interceptors after Iranian strikes on JordanLIVE updates:https://aje.news/zpl6ns?update=4786615…",
@@ -209,12 +250,12 @@
       "7f1a451786c84548.svg",
       "d7063d69a7d6cfd0.jpg"
     ],
-    "url": "https://x.com/AJENews/status/4628547682213097974",
-    "timestamp": "2026-07-19T17:02:44.408021+00:00",
+    "url": "https://x.com/AJENews/status/7986825511857759018",
+    "timestamp": "2026-07-19T18:05:25.625772+00:00",
     "original_time": "2026-07-19T16:30:34+00:00"
   },
   {
-    "id": "tweet_AJENews_1147256986044158486",
+    "id": "tweet_AJENews_8668757710570713196",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Israeli forces drop sound bomb over southern Lebanese townLIVE updates:https://aje.news/zpl6ns?update=4786593…",
@@ -223,54 +264,39 @@
       "7f1a451786c84548.svg",
       "134e9a2e885d3c2d.jpg"
     ],
-    "url": "https://x.com/AJENews/status/1147256986044158486",
-    "timestamp": "2026-07-19T17:02:45.001403+00:00",
+    "url": "https://x.com/AJENews/status/8668757710570713196",
+    "timestamp": "2026-07-19T18:05:25.876678+00:00",
     "original_time": "2026-07-19T16:13:40+00:00"
   },
   {
-    "id": "tweet_AJENews_6340009150748245892",
+    "id": "tweet_AJENews_-1040755368192812532",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Rubio, Aoun discuss implementing US-backed Lebanon-Israel frameworkLIVE updates:https://aje.news/zpl6ns?update=4786452…",
-    "translated_text": "突发新闻：卢比奥和奥恩讨论实施美国支持的黎巴嫩-以色列框架实时更新：https://aje.news/zpl6ns?update=4786452…",
+    "text": "BREAKING: Iran's top negotiator Ghalibaf says cohesion is key for 'national resistance' during US strikesLIVE updates:https://aje.news/zpl6ns?update=4785764…",
+    "translated_text": "突发新闻：伊朗最高谈判代表加里巴夫表示，在美国袭击期间，凝聚力是“民族抵抗”的关键实时更新：https://aje.news/zpl6ns?update=4785764…",
     "images": [
       "7f1a451786c84548.svg",
-      "5a12ff6375df9555.jpg"
+      "5f7dacdf2e1f7f9a.jpg"
     ],
-    "url": "https://x.com/AJENews/status/6340009150748245892",
-    "timestamp": "2026-07-19T17:02:45.207476+00:00",
-    "original_time": "2026-07-19T15:40:53+00:00"
+    "url": "https://x.com/AJENews/status/-1040755368192812532",
+    "timestamp": "2026-07-19T18:05:28.377711+00:00",
+    "original_time": "2026-07-19T12:10:22+00:00"
   },
   {
-    "id": "tweet_AJENews_1449024462713526367",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Palestinian killed in Israeli strike on tent in Khan YounisLIVE updates:https://aje.news/zpl6ns?update=4786365…",
-    "translated_text": "突发事件：巴勒斯坦人在以色列袭击汗尤尼斯的帐篷中丧生实时更新：https://aje.news/zpl6ns?update=4786365…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "1d1bc961311e873d.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/1449024462713526367",
-    "timestamp": "2026-07-19T17:02:45.424191+00:00",
-    "original_time": "2026-07-19T15:30:24+00:00"
-  },
-  {
-    "id": "tweet_AJENews_4501626771653302775",
+    "id": "tweet_AJENews_8985696629825401712",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: President Trump says Republicans should add Iran to Russian sanctions billLIVE updates:https://aje.news/zpl6ns?update=4785919…",
     "translated_text": "突发新闻：特朗普总统表示共和党人应该将伊朗纳入俄罗斯制裁法案实时更新：https://aje.news/zpl6ns?update=4785919…",
     "images": [
-      "7f1a451786c84548.svg",
-      "d8d5e7d6842ccd3e.jpg"
+      "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/4501626771653302775",
-    "timestamp": "2026-07-19T17:02:47.950038+00:00",
+    "url": "https://x.com/AJENews/status/8985696629825401712",
+    "timestamp": "2026-07-19T18:05:28.525061+00:00",
     "original_time": "2026-07-19T12:09:00+00:00"
   },
   {
-    "id": "tweet_AJENews_-1969763620768016474",
+    "id": "tweet_AJENews_3979847470544824747",
     "type": "tweet",
     "username": "AJENews",
     "text": "UPDATE: Leaders of Qatar and Iraq meet, stress importance of dialogue to ensure Hormuz navigation freedomLIVE updates:https://aje.news/zpl6ns?update=4785836…",
@@ -279,25 +305,26 @@
       "7f1a451786c84548.svg",
       "702f6f76f0b84c35.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-1969763620768016474",
-    "timestamp": "2026-07-19T17:02:48.458194+00:00",
+    "url": "https://x.com/AJENews/status/3979847470544824747",
+    "timestamp": "2026-07-19T18:05:28.706326+00:00",
     "original_time": "2026-07-19T12:00:21+00:00"
   },
   {
-    "id": "tweet_AJENews_-3555863931752927265",
+    "id": "tweet_AJENews_-3698751382885510218",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Iran's nuclear agency denounces US 'terrorist' strike on Darkhovin plantLIVE updates:https://aje.news/zpl6ns?update=4785798…",
     "translated_text": "突发新闻：伊朗核机构谴责美国对达霍文工厂的“恐怖”袭击实时更新：https://aje.news/zpl6ns?update=4785798…",
     "images": [
-      "7f1a451786c84548.svg"
+      "7f1a451786c84548.svg",
+      "f1756a1c7f85dfe9.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-3555863931752927265",
-    "timestamp": "2026-07-19T17:02:48.581673+00:00",
+    "url": "https://x.com/AJENews/status/-3698751382885510218",
+    "timestamp": "2026-07-19T18:05:28.978522+00:00",
     "original_time": "2026-07-19T11:40:33+00:00"
   },
   {
-    "id": "tweet_AJENews_5017834001033142368",
+    "id": "tweet_AJENews_3790438733844735211",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Kuwait says power and water desalination plant attacked for second time in two daysLIVE updates:https://aje.news/zpl6ns?update=4785830…",
@@ -306,12 +333,12 @@
       "7f1a451786c84548.svg",
       "20e8233a48c91aa7.jpg"
     ],
-    "url": "https://x.com/AJENews/status/5017834001033142368",
-    "timestamp": "2026-07-19T17:02:48.812753+00:00",
+    "url": "https://x.com/AJENews/status/3790438733844735211",
+    "timestamp": "2026-07-19T18:05:29.250617+00:00",
     "original_time": "2026-07-19T11:35:50+00:00"
   },
   {
-    "id": "tweet_AJENews_9063459780262463290",
+    "id": "tweet_AJENews_-1581249900382225135",
     "type": "tweet",
     "username": "AJENews",
     "text": "UPDATE: Arab League chief warns of escalating regional violence, economic decline as US-Iran tensions mountLIVE updates:https://aje.news/zpl6ns?update=4785738…",
@@ -320,12 +347,12 @@
       "7f1a451786c84548.svg",
       "d3fd14a0376bf3e2.jpg"
     ],
-    "url": "https://x.com/AJENews/status/9063459780262463290",
-    "timestamp": "2026-07-19T17:02:49.013587+00:00",
+    "url": "https://x.com/AJENews/status/-1581249900382225135",
+    "timestamp": "2026-07-19T18:05:29.457331+00:00",
     "original_time": "2026-07-19T11:30:43+00:00"
   },
   {
-    "id": "tweet_AJENews_-4700519214638494489",
+    "id": "tweet_AJENews_-3586865207726731565",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Iran says 30 MQ-9 drones shot down since US-Israel war startedLIVE updates:https://aje.news/zpl6ns?update=4785470…",
@@ -334,12 +361,12 @@
       "7f1a451786c84548.svg",
       "ef437ef0fe5d74b7.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-4700519214638494489",
-    "timestamp": "2026-07-19T17:02:49.219039+00:00",
+    "url": "https://x.com/AJENews/status/-3586865207726731565",
+    "timestamp": "2026-07-19T18:05:29.631461+00:00",
     "original_time": "2026-07-19T11:10:22+00:00"
   },
   {
-    "id": "tweet_AJENews_-4849781517896772603",
+    "id": "tweet_AJENews_-7085873644887051645",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Iran nuclear agency condemns US attack on Darkhovin nuclear power plant siteLIVE updates:https://aje.news/zpl6ns?update=4785709…",
@@ -348,262 +375,8 @@
       "7f1a451786c84548.svg",
       "48e825dab9cb29c1.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-4849781517896772603",
-    "timestamp": "2026-07-19T17:02:49.420780+00:00",
+    "url": "https://x.com/AJENews/status/-7085873644887051645",
+    "timestamp": "2026-07-19T18:05:29.826321+00:00",
     "original_time": "2026-07-19T10:55:22+00:00"
-  },
-  {
-    "id": "tweet_AJENews_1879158728274803485",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Jordan has not issued any evacuation order to Aqaba airport or seaportLIVE updates:https://aje.news/zpl6ns?update=4785689…",
-    "translated_text": "突发：约旦尚未向亚喀巴机场或海港发出任何疏散令实时更新：https://aje.news/zpl6ns?update=4785689…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "d7288831f69b6547.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/1879158728274803485",
-    "timestamp": "2026-07-19T17:02:49.606197+00:00",
-    "original_time": "2026-07-19T10:50:09+00:00"
-  },
-  {
-    "id": "tweet_AJENews_-4636663093230219141",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Iran says two vessels involved in 'accident' in Hormuz as it continues to block the straitLIVE updates:https://aje.news/zpl6ns?update=4785520…",
-    "translated_text": "突发新闻：伊朗称两艘船只在霍尔木兹海峡发生“事故”，同时继续封锁海峡实时更新：https://aje.news/zpl6ns?update=4785520…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "ee3ae80c7285c56b.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4636663093230219141",
-    "timestamp": "2026-07-19T17:02:49.795085+00:00",
-    "original_time": "2026-07-19T10:20:32+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-5516644398025080436",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "The boxing community is in mourning after a prominent competitor was reportedly hit and killed by a driver in Texas over the weekend.",
-    "translated_text": "据报道，一名著名拳击手周末在德克萨斯州被一名司机撞死，拳击界陷入哀悼。",
-    "images": [
-      "fd6a251f5894202f.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-5516644398025080436",
-    "timestamp": "2026-07-19T17:04:36.597676+00:00",
-    "original_time": "2026-07-19T17:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6795930776215034443",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Influencer brothers Andrew and Tristan Tate were arrested by federal authorities Saturday in Miami, according to the U.S. Marshals Service.",
-    "translated_text": "据美国法警局称，影响力兄弟安德鲁·泰特和特里斯坦·泰特周六在迈阿密被联邦当局逮捕。",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/-6795930776215034443",
-    "timestamp": "2026-07-19T17:04:36.739080+00:00",
-    "original_time": "2026-07-19T16:30:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6061072373975709295",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Israeli and Jordanian forces intercepted an Iranian missile aimed at the Jordanian city of Aqaba on Sunday, the Israeli military said, after Amman denied the city's airport and seaport were evacuated over a threat.",
-    "translated_text": "以色列军方表示，周日，以色列和约旦军队拦截了一枚瞄准约旦亚喀巴市的伊朗导弹，此前安曼否认因威胁而疏散该市机场和海港。",
-    "images": [
-      "7ee9339c354419a1.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-6061072373975709295",
-    "timestamp": "2026-07-19T17:04:36.944102+00:00",
-    "original_time": "2026-07-19T16:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_125765369979766994",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A U.S.-Iran dual citizen who was trapped in Iran on allegations of espionage and collaborating with a hostile state has departed the country earlier this week and is now back in the United States, according to her lawyer.",
-    "translated_text": "据她的律师称，一名因间谍活动和与敌对国家勾结而被困在伊朗的美国和伊朗双重公民已于本周早些时候离开该国，现已返回美国。",
-    "images": [
-      "ff5c32f04422b854.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/125765369979766994",
-    "timestamp": "2026-07-19T17:04:37.167680+00:00",
-    "original_time": "2026-07-19T15:30:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-831607735382034856",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Smoke from Canadian wildfires that engulfed the Northeast in haze is expected to mostly clear from the New Jersey area just in time for the World Cup final on Sunday thanks to thunderstorms passing through, meteorologists said.",
-    "translated_text": "气象学家表示，由于雷暴经过，预计周日世界杯决赛前夕，加拿大东北地区的山火烟雾将大部分从新泽西地区消散。",
-    "images": [
-      "b43c76275ab2659b.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-831607735382034856",
-    "timestamp": "2026-07-19T17:04:37.378172+00:00",
-    "original_time": "2026-07-19T15:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6156640176202887128",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "How to watch the 2026 FIFA Men's World Cup final between Spain and Argentina",
-    "translated_text": "如何观看 2026 年国际足联男子世界杯西班牙队与阿根廷队之间的决赛",
-    "images": [
-      "63d36d700d3b4a73.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-6156640176202887128",
-    "timestamp": "2026-07-19T17:04:37.563264+00:00",
-    "original_time": "2026-07-19T14:30:00+00:00"
-  },
-  {
-    "id": "article_a6b05ae5e80a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Dar, Venezuelan FM emphasise 'considerable potential' for enhancing economic collaboration",
-    "translated_title": "委内瑞拉外长达尔强调加强经济合作的“巨大潜力”",
-    "url": "https://www.dawn.com/news/2016695/dar-venezuelan-fm-emphasise-considerable-potential-for-enhancing-economic-collaboration",
-    "timestamp": "2026-07-19T17:06:36.187368+00:00",
-    "original_time": "2026-07-19T13:43:08+05:00"
-  },
-  {
-    "id": "article_0843d497be34",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "From Red Fury to a symphony in red: How Spain made themselves perennial World Cup favourites",
-    "translated_title": "从红色愤怒到红色交响曲：西班牙如何成为世界杯常年热门球队",
-    "url": "https://www.dawn.com/news/2016747/from-red-fury-to-a-symphony-in-red-how-spain-made-themselves-perennial-world-cup-favourites",
-    "timestamp": "2026-07-19T17:06:42.350908+00:00",
-    "original_time": "2026-07-19T21:00:47+05:00"
-  },
-  {
-    "id": "article_ef5936a13e53",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2016112/england-not-cursed-says-thomas-tuchel-after-yet-another-heartbreak",
-    "timestamp": "2026-07-19T17:07:15.669357+00:00",
-    "original_time": "2026-07-19T17:07:15.669318+00:00"
-  },
-  {
-    "id": "article_ec6ff1a2479a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Bilawal seeks 'better results' in upcoming AJK elections as PPP hopes to form govt",
-    "translated_title": "人民党希望组建政府，比拉瓦尔在即将举行的 AJK 选举中寻求“更好的结果”",
-    "url": "https://www.dawn.com/news/2016735/bilawal-seeks-better-results-in-upcoming-ajk-elections-as-ppp-hopes-to-form-govt",
-    "timestamp": "2026-07-19T17:07:24.974867+00:00",
-    "original_time": "2026-07-19T18:48:10+05:00"
-  },
-  {
-    "id": "article_2102ab269dcf",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Canadian Foreign Minister Anita Anand to visit Pakistan tomorrow",
-    "translated_title": "加拿大外交部长安妮塔·阿南德明天访问巴基斯坦",
-    "url": "https://www.dawn.com/news/2016734/canadian-foreign-minister-anita-anand-to-visit-pakistan-tomorrow",
-    "timestamp": "2026-07-19T17:08:31.849803+00:00",
-    "original_time": "2026-07-19T18:32:46+05:00"
-  },
-  {
-    "id": "article_d9c98b3c23ee",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "After backlash over proposed law, state minister outlines more stringent measures for blue passport issuance",
-    "translated_title": "在对拟议法律提出强烈反对后，国务部长概述了对蓝色护照签发更严格的措施",
-    "url": "https://www.dawn.com/news/2016696/after-backlash-over-proposed-law-state-minister-outlines-more-stringent-measures-for-blue-passport-issuance",
-    "timestamp": "2026-07-19T17:08:49.699285+00:00",
-    "original_time": "2026-07-19T14:54:19+05:00"
-  },
-  {
-    "id": "article_106c52f61470",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "One terrorist killed, 8 others held as joint operation continues in Bannu",
-    "translated_title": "班努联合行动继续进行，一名恐怖分子被杀，另外 8 人被拘留",
-    "url": "https://www.dawn.com/news/2016737/one-terrorist-killed-8-others-held-as-joint-operation-continues-in-bannu",
-    "timestamp": "2026-07-19T17:09:17.036607+00:00",
-    "original_time": "2026-07-19T19:49:50+05:00"
-  },
-  {
-    "id": "article_59f1d45bdc7c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "'Over 100 cops at hospital': Wife alleges Indian activist Sonam Wangchuk illegally detained under guise of medical care",
-    "translated_title": "“医院有超过 100 名警察”：妻子指控印度活动人士索南·旺楚克 (Sonam Wangchuk) 以医疗为幌子被非法拘留",
-    "url": "https://www.dawn.com/news/2016713/over-100-cops-at-hospital-wife-alleges-indian-activist-sonam-wangchuk-illegally-detained-under-guise-of-medical-care",
-    "timestamp": "2026-07-19T17:09:44.732975+00:00",
-    "original_time": "2026-07-19T16:20:19+05:00"
-  },
-  {
-    "id": "article_b6b9ce66c2d0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Underdogs, upsets, politics: The story of a World Cup that comes down to Argentina vs Spain",
-    "translated_title": "失败者、冷门、政治：世界杯的故事归根结底是阿根廷对阵西班牙",
-    "url": "https://www.dawn.com/news/2016692/underdogs-upsets-politics-the-story-of-a-world-cup-that-comes-down-to-argentina-vs-spain",
-    "timestamp": "2026-07-19T17:11:22.327847+00:00",
-    "original_time": "2026-07-19T12:37:44+05:00"
-  },
-  {
-    "id": "article_9576c53b5a67",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2016362/two-ex-leaders-fear-disappearance-of-palestinian-territories",
-    "timestamp": "2026-07-19T17:11:39.721357+00:00",
-    "original_time": "2026-07-19T17:11:39.721316+00:00"
-  },
-  {
-    "id": "article_c1bcddde1547",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pocket-size AI: Powerful phones star at China",
-    "translated_title": "袖珍人工智能：功能强大的手机在中国成为明星",
-    "url": "https://www.dawn.com/news/2016726/pocket-size-ai-powerful-phones-star-at-china",
-    "timestamp": "2026-07-19T17:12:34.234204+00:00",
-    "original_time": "2026-07-19T17:50:42+05:00"
-  },
-  {
-    "id": "article_9f63826f363a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "NCCIA summons Imran's sister, Noreen, for allegedly disseminating 'false, offensive, inflammatory' content",
-    "translated_title": "NCCIA 传唤伊姆兰的妹妹诺琳，因她涉嫌传播“虚假、冒犯性、煽动性”内容",
-    "url": "https://www.dawn.com/news/2016686/nccia-summons-imrans-sister-noreen-for-allegedly-disseminating-false-offensive-inflammatory-content",
-    "timestamp": "2026-07-19T17:12:45.583628+00:00",
-    "original_time": "2026-07-19T11:20:33+05:00"
-  },
-  {
-    "id": "article_a3b3652f4e02",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "France's Mbappe becomes World Cup's all-time top scorer",
-    "translated_title": "法国队姆巴佩成为世界杯历史最佳射手",
-    "url": "https://www.dawn.com/news/2016719/frances-mbappe-becomes-world-cups-all-time-top-scorer",
-    "timestamp": "2026-07-19T17:13:52.636995+00:00",
-    "original_time": "2026-07-19T16:50:25+05:00"
-  },
-  {
-    "id": "article_6923731fb29c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2016159/china-and-pakistan-call-on-us-iran-to-resume-talks-cease-hostilities",
-    "timestamp": "2026-07-19T17:15:06.756985+00:00",
-    "original_time": "2026-07-19T17:15:06.756937+00:00"
-  },
-  {
-    "id": "article_900010cf03f2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Facebook, Instagram users briefly report suffering some outages",
-    "translated_title": "Facebook、Instagram 用户简要报告遭遇了一些中断",
-    "url": "https://www.dawn.com/news/2016699/facebook-instagram-users-briefly-report-suffering-some-outages",
-    "timestamp": "2026-07-19T17:15:34.599277+00:00",
-    "original_time": "2026-07-19T13:33:52+05:00"
   }
 ]
