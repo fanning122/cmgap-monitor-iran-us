@@ -1,6 +1,27 @@
 [
   {
-    "id": "tweet_MIshaqDar50_4718613463122623049",
+    "id": "tweet_ForeignOfficePk_-4055404036275310319",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "PR No./Curtain Raiser: Visit of the Foreign Minister of the State of Kuwait to Pakistan (28–29 July 2026)",
+    "translated_text": "PR 号/启幕：科威特国外交部长访问巴基斯坦（2026 年 7 月 28 日至 29 日）",
+    "images": [
+      "6b2cfb320981d1a0.svg",
+      "49b80fa86f503c69.svg",
+      "965df5b38019fba9.svg",
+      "6dd70089c15d9c8c.svg",
+      "59563c1a40d3d73b.svg",
+      "42c644bbf48e04fc.svg",
+      "6927007c5e94b687.svg",
+      "1d7695f51048fca1.svg",
+      "d23276154b0b5191.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-4055404036275310319",
+    "timestamp": "2026-07-27T16:17:40.941357+00:00",
+    "original_time": "2026-07-27T15:54:19+00:00"
+  },
+  {
+    "id": "tweet_MIshaqDar50_-2213158274758751484",
     "type": "tweet",
     "username": "MIshaqDar50",
     "text": "As part of our commitment to improving public service delivery, I am pleased to announce the launch of an Evening Shift for Consular Services at the Ministry of Foreign Affairs.\n\nCitizens can now avail Consular Services from 8:00 a.m. to 8:00 p.m., Monday to Friday, making our",
@@ -9,140 +30,256 @@
       "e013c4b7853257e7.jpg",
       "c67161b8b4adf431.jpg"
     ],
-    "url": "https://x.com/MIshaqDar50/status/4718613463122623049",
-    "timestamp": "2026-07-27T13:38:51.369254+00:00",
+    "url": "https://x.com/MIshaqDar50/status/-2213158274758751484",
+    "timestamp": "2026-07-27T16:17:41.575121+00:00",
     "original_time": "2026-07-27T11:26:48+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7239066208257001946",
+    "id": "tweet_MIshaqDar50_0",
+    "type": "tweet",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
+    "images": [
+      "0880bd057b4f9339.jpg"
+    ],
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-07-27T16:17:56.280070+00:00",
+    "original_time": "2026-07-27T15:37:09+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-2470716274546554235",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "H.E. Mr. Jiang Zaidong, Ambassador of the People's Republic of China, called on Prime Minister Muhammad Shehbaz Sharif at the Prime Minister House in Islamabad on 27 July 2026",
+    "translated_text": "他。 2026年7月27日，中华人民共和国大使姜再栋在伊斯兰堡总理府拜会总理谢里夫",
+    "images": [
+      "5139ccfc10ea6093.jpg",
+      "52e6323f30505a57.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-2470716274546554235",
+    "timestamp": "2026-07-27T16:18:24.538572+00:00",
+    "original_time": "2026-07-27T15:58:36+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-7661429155946516537",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Islamabad: 27 July 2026.\n\nH.E. Mr. Jiang Zaidong, Ambassador of the People's Republic of China, called on Prime Minister Muhammad Shehbaz Sharif at the Prime Minister House today.\n\nDeputy Prime Minister and Foreign Minister Sen. Mohammad Ishaq Dar, Federal Minister for Planning,",
+    "translated_text": "伊斯兰堡：2026 年 7 月 27 日。\n\n阁下中华人民共和国大使姜再冬今天在总理府拜会穆罕默德·谢赫巴兹·谢里夫总理。\n\n副总理兼外交部长穆罕默德·伊沙克·达尔参议员，联邦规划部长，",
+    "images": [
+      "58cfffd6f1634207.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-7661429155946516537",
+    "timestamp": "2026-07-27T16:18:25.436248+00:00",
+    "original_time": "2026-07-27T15:48:33+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_7450271210321801484",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Peaceful voting marks AJK elections as citizens cast their ballots across the region.#AJKElections#ElectionDay#AzadKashmir#Democracy#PakistanTV",
-    "translated_text": "和平投票标志着 AJK 选举，公民在整个地区投票。#AJKElections#ElectionDay#AzadKashmir#Democracy#PakistanTV",
+    "text": "General Syed Aamer Raza was presented a guard of honour upon assuming command of the National Strategic Command. He laid a floral wreath at Yadgar-e-Shuhada and offered Fateha. \nField Marshal Syed Asim Munir congratulated him on assuming his new command during a meeting at GHQ.",
+    "translated_text": "赛义德·阿米尔·拉扎将军在担任国家战略司令部司令后受到仪仗队的表彰。他向 Yadgar-e-Shuhada 敬献了花圈，并献上了法塔赫 (Fateha)。 \n赛义德·阿西姆·穆尼尔元帅在总司令部的一次会议上祝贺他就任新司令。",
+    "images": [
+      "bb2811f5edca9afe.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/7450271210321801484",
+    "timestamp": "2026-07-27T16:18:56.298232+00:00",
+    "original_time": "2026-07-27T16:14:28+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-5242737645416990600",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGChinese Ambassador Jiang Zaidong called on Prime Minister Shehbaz Sharif at the Prime Minister House, where both sides reaffirmed the Pakistan–China All-Weather Strategic Cooperative Partnership. They discussed the implementation of bilateral agreements and exchanged",
+    "translated_text": "#BREAKING中国大使姜再冬在总理府拜会谢赫巴兹·谢里夫总理，双方重申巴中全天候战略合作伙伴关系。双方讨论了双边协议的落实情况并交换了意见",
+    "images": [
+      "f3d70c697cc8a289.jpg",
+      "9ca6a2c9fc77cc8c.jpg",
+      "5712aa61f6d87661.jpg",
+      "2c8df8f819504073.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-5242737645416990600",
+    "timestamp": "2026-07-27T16:18:57.089597+00:00",
+    "original_time": "2026-07-27T16:00:08+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_782031212497212713",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Shan Masood brought up his seventh Test hundred in style, becoming the first batter to score a Test century at the Brian Lara Cricket Academy.#ShanMasood#Cricket#TestCricket#PakistanCricket#PakistanTV",
+    "translated_text": "尚·马苏德 (Shan Masood) 风格十足地打出了第七个测试百分，成为布莱恩·拉拉板球学院 (Brian Lara Cricket Academy) 第一个获得测试百分的击球手。#ShanMasood#Cricket#TestCricket#PakistanCricket#PakistanTV",
+    "images": [
+      "aa0cc64bc21deef1.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/782031212497212713",
+    "timestamp": "2026-07-27T16:18:57.667515+00:00",
+    "original_time": "2026-07-27T15:46:11+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-7081195105085308810",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan and the United States reaffirmed their commitment to strengthening cooperation in education, research, technical training, cybersecurity, and student exchanges during a meeting between visiting U.S. Congressmen Ryan Zinke and Michael Baumgartner and a high-level",
+    "translated_text": "巴基斯坦和美国在来访的美国国会议员瑞安·辛克和迈克尔·鲍姆加特纳以及高层官员的会晤中重申了加强教育、研究、技术培训、网络安全和学生交流等领域合作的承诺。",
+    "images": [
+      "c7046e6f45582697.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-7081195105085308810",
+    "timestamp": "2026-07-27T16:18:58.321879+00:00",
+    "original_time": "2026-07-27T15:43:22+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-7638919773583122925",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan returns home with a silver medal and secures a place at the FIH Hockey5s World Cup 2026. Forward Adeel was named Player of the Tournament, capping a remarkable campaign and signalling the resurgence of Pakistan hockey on the world stage.#PakistanHockey#Hockey5s",
+    "translated_text": "巴基斯坦带着银牌回国，并获得了 2026 年国际曲棍球联合会曲棍球 5 人制世界杯的参赛资格。前锋阿迪尔被评为锦标赛最佳球员，为这场非凡的比赛画上了圆满的句号，标志着巴基斯坦曲棍球在世界舞台上的复兴。#PakistanHockey#Hockey5s",
+    "images": [
+      "22b1a884b31bfccb.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-7638919773583122925",
+    "timestamp": "2026-07-27T16:18:58.940911+00:00",
+    "original_time": "2026-07-27T15:21:11+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-6127218567225446328",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "India’s youth-led “Cockroach” movement has demanded the release of detained demonstrators following nationwide protests over exam irregularities. The unrest comes after Education Minister Dharmendra Pradhan stepped down amid mounting criticism.#IndiaProtests#YouthMovement",
+    "translated_text": "印度青年领导的“蟑螂”运动在全国范围内抗议考试违规行为后，要求释放被拘留的示威者。教育部长达门德拉·普拉丹(Dharmendra Pradhan)在批评声中辞职后，骚乱发生。#IndiaProtests#YouthMovement",
+    "images": [
+      "1481aefb335c3584.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-6127218567225446328",
+    "timestamp": "2026-07-27T16:19:01.561979+00:00",
+    "original_time": "2026-07-27T09:08:00+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-6938252615784220982",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Real Madrid have reached an agreement on personal terms with 19-year-old RB Leipzig winger Yan Diomande after Paris Saint-Germain withdrew from the race. PSG reportedly saw a final £102.5 million bid rejected, while Liverpool had previously ended their pursuit following an",
+    "translated_text": "在巴黎圣日耳曼退出比赛后，皇马与19岁的莱比锡红牛边锋扬·迪奥曼德就个人条款达成了协议。据报道，巴黎圣日尔曼最终的 1.025 亿英镑报价被拒绝，而利物浦此前也因",
+    "images": [
+      "557e0c406d8e9bd8.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-6938252615784220982",
+    "timestamp": "2026-07-27T16:19:02.053689+00:00",
+    "original_time": "2026-07-27T09:02:48+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_8665180270930130417",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "A shooting near Seattle’s Space Needle left three people dead and at least four others injured, including a toddler. Police arrested one suspect, recovered two weapons, and continue searching for another.#SeattleShooting#BreakingNews#USNews#WorldNews#PakistanTV",
+    "translated_text": "西雅图太空针塔附近发生枪击事件，造成三人死亡，至少四人受伤，其中包括一名幼儿。警方逮捕了一名嫌疑人，起获两件武器，并继续搜寻另一名嫌疑人。#SeattleShooting#BreakingNews#USNews#WorldNews#PakistanTV",
+    "images": [
+      "0e9758ae4bfc915e.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/8665180270930130417",
+    "timestamp": "2026-07-27T16:19:02.501948+00:00",
+    "original_time": "2026-07-27T08:52:39+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-7419233606221763150",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Tadej Pogacar secured his fifth Tour de France crown, equalling the all-time men’s record alongside Jacques Anquetil, Eddy Merckx, Bernard Hinault and Miguel Indurain. The 27-year-old Slovenian completed another dominant campaign for UAE Team Emirates-XRG, while Mathieu van der",
+    "translated_text": "塔德·波加卡尔第五次夺得环法自行车赛冠军，与雅克·安克蒂尔、埃迪·默克克斯、伯纳德·希诺和米格尔·安杜兰一起追平了男子历史纪录。这位 27 岁的斯洛文尼亚人为阿联酋阿联酋航空 XRG 队完成了另一场统治性的比赛，而马蒂厄·范德 (Mathieu van der)",
+    "images": [
+      "ed7eab2dd76862f2.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-7419233606221763150",
+    "timestamp": "2026-07-27T16:19:02.963226+00:00",
+    "original_time": "2026-07-27T08:49:02+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-8825214429910778718",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "DIG Mirpur Division Kamran Ali says more than 20,000 security personnel have been deployed across Mirpur, Kotli and Bhimber, adding that polling is proceeding peacefully with no security incident reported. He says security has been strengthened at over 2,300 polling stations",
+    "translated_text": "米尔普尔分局卡姆兰·阿里 (Kamran Ali) 表示，已在米尔普尔、科特利和宾伯部署了超过 20,000 名安全人员，并补充说，投票正在和平进行，没有发生安全事件的报道。他表示 2,300 多个投票站的安全措施已得到加强",
+    "images": [
+      "93b1b91903d019b4.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-8825214429910778718",
+    "timestamp": "2026-07-27T16:19:03.528657+00:00",
+    "original_time": "2026-07-27T08:45:15+00:00"
+  },
+  {
+    "id": "tweet_WarNewsIr_6500210034361203259",
+    "type": "tweet",
+    "username": "WarNewsIr",
+    "text": "Zionist Fighter Jets Attack Residential Homes in Southern Lebanon\n\nMedia outlets reported an Israeli regime airstrike on the town of Tayr Abla al-Uroub in southern Lebanon\n\nZionist fighter jets bombed this area 6 times",
+    "translated_text": "犹太复国主义战斗机袭击黎巴嫩南部的住宅\n\n媒体报道以色列政权对黎巴嫩南部泰尔阿布拉乌鲁布镇发动空袭\n\n犹太复国主义战斗机对该地区进行了六次轰炸",
+    "images": [
+      "1e216695b07ee7d4.jpg"
+    ],
+    "url": "https://x.com/WarNewsIr/status/6500210034361203259",
+    "timestamp": "2026-07-27T16:19:22.205821+00:00",
+    "original_time": "2026-07-27T16:13:13+00:00"
+  },
+  {
+    "id": "tweet_Tasnimnews_Fa_-4533271348806975440",
+    "type": "tweet",
+    "username": "Tasnimnews_Fa",
+    "text": "Times of Israel: Netanyahu quietly embarks on trip to meet Trump amid fears of Iranian security threat\n\nNetanyahu, without prior announcement of his trip, departed for this journey from the Nevatim Airbase instead of Ben Gurion Airport",
+    "translated_text": "以色列时报：由于担心伊朗安全威胁，内塔尼亚胡悄然启程会见特朗普\n\n内塔尼亚胡在没有事先宣布行程的情况下，从内瓦蒂姆空军基地出发，而不是本古里安机场出发。",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/7239066208257001946",
-    "timestamp": "2026-07-27T13:40:02.260541+00:00",
-    "original_time": "2026-07-27T12:54:21+00:00"
+    "url": "https://x.com/Tasnimnews_Fa/status/-4533271348806975440",
+    "timestamp": "2026-07-27T16:19:22.503488+00:00",
+    "original_time": "2026-07-27T16:11:33+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1667887268312175911",
+    "id": "tweet_Tasnimnews_Fa_-1026655686622629316",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The Pakistan Cricket Board has unveiled the squads and schedule for the National Champions Cup, set to be played from 11 to 18 August at the Multan Cricket Stadium. The four-team 50-over List A tournament will kick off the 2026-27 domestic season, with Pakistan Greens, Pakistan",
-    "translated_text": "巴基斯坦板球委员会公布了国家冠军杯的阵容和赛程表，该杯将于 8 月 11 日至 18 日在木尔坦板球体育场举行。由四队参加的 50 杆以上 A 组锦标赛将为 2026-27 赛季国内赛季拉开序幕，参赛者为巴基斯坦绿队、巴基斯坦队",
-    "images": [
-      "3c0ce320664e3718.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-1667887268312175911",
-    "timestamp": "2026-07-27T13:40:02.908799+00:00",
-    "original_time": "2026-07-27T12:30:44+00:00"
+    "username": "Tasnimnews_Fa",
+    "text": "Shooting near the US Consulate in Toronto, Canada",
+    "translated_text": "美国驻加拿大多伦多领事馆附近发生枪击事件",
+    "images": [],
+    "url": "https://x.com/Tasnimnews_Fa/status/-1026655686622629316",
+    "timestamp": "2026-07-27T16:19:22.735598+00:00",
+    "original_time": "2026-07-27T16:09:39+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3180442268166386750",
+    "id": "tweet_WarNewsIr_-6673794441141403641",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Former AJK Minister Farzana Yaqoob says the election process has remained peaceful and well-managed, expressing confidence that all phases of the polls will conclude smoothly while highlighting strong voter participation, particularly among women.#AJKElections#WomenVoters",
-    "translated_text": "前 AJK 部长法扎纳·雅库布 (Farzana Yaqoob) 表示，选举过程保持和平且管理良好，表示相信所有阶段的投票都将顺利结束，同时强调选民的强烈参与，特别是女性选民的参与。#AJKElections#WomenVoters",
-    "images": [
-      "a2c164cc1cd559b0.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-3180442268166386750",
-    "timestamp": "2026-07-27T13:40:04.101436+00:00",
-    "original_time": "2026-07-27T11:56:09+00:00"
+    "username": "WarNewsIr",
+    "text": "Spokesperson for the Yemeni Armed Forces: We targeted Saudi Arabia's oil transfer lines\n\nThis attack was carried out in response to the violation of Yemen's airspace by Saudi Arabian drones\n\nIn the event of continued aggressions, broader attacks will be conducted against Saudi",
+    "translated_text": "也门武装部队发言人：我们瞄准了沙特阿拉伯的石油输送线\n\n这次袭击是为了回应沙特阿拉伯无人机侵犯也门领空的事件\n\n如果继续发生侵略，将对沙特进行更广泛的攻击",
+    "images": [],
+    "url": "https://x.com/WarNewsIr/status/-6673794441141403641",
+    "timestamp": "2026-07-27T16:19:22.924229+00:00",
+    "original_time": "2026-07-27T14:04:30+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7981032922566052843",
+    "id": "tweet_Tasnimnews_Fa_2080400151027011089",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Commissioner Mirpur Division Tahir Mumtaz says polling is progressing peacefully across all 13 constituencies, with around 20,000 security personnel deployed under a three-tier security plan. He says authorities are actively countering misinformation and responding promptly to",
-    "translated_text": "米尔普尔分部专员塔希尔·蒙塔兹 (Tahir Mumtaz) 表示，所有 13 个选区的投票工作正在顺利进行，根据三级安全计划部署了约 20,000 名安全人员。他表示，当局正在积极反击错误信息，并迅速做出反应",
-    "images": [
-      "8d765a491091b5f9.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/7981032922566052843",
-    "timestamp": "2026-07-27T13:40:04.568250+00:00",
-    "original_time": "2026-07-27T11:31:41+00:00"
+    "username": "Tasnimnews_Fa",
+    "text": "Tehran's prosecutor's office has filed charges against a former member of parliament and a media outlet.\n\nFollowing the publication of statements by a former member of the Islamic Consultative Assembly who, during his tenure as a representative, held the position of chairman of",
+    "translated_text": "德黑兰检察官办公室对一名前议员和一家媒体提出指控。\n\n继伊斯兰协商会议一名前成员发表声明后，他在担任代表期间担任伊斯兰协商会议主席一职",
+    "images": [],
+    "url": "https://x.com/Tasnimnews_Fa/status/2080400151027011089",
+    "timestamp": "2026-07-27T16:19:23.676764+00:00",
+    "original_time": "2026-07-27T16:08:40+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3775140644992506135",
+    "id": "tweet_Tasnimnews_Fa_1051914191409416146",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "IG AJK Liaqat Malik said that comprehensive security arrangements have been made across 13 constituencies with over 2,316 polling stations and more than 20,000 officials deployed. He reaffirmed that uninterrupted polling will continue until 5 PM, with special focus on",
-    "translated_text": "IG AJK Liaqat Malik 表示，已经在 13 个选区、超过 2,316 个投票站和超过 20,000 名官员部署了全面的安全安排。他重申不间断的投票将持续到下午5点，特别关注",
+    "username": "Tasnimnews_Fa",
+    "text": "Aerial footage of the Arbaeen Husayni pilgrims' caravans#اربعین",
+    "translated_text": "阿尔巴恩·侯赛尼 (Arbaeen Husayni) 朝圣者商队的航拍镜头",
     "images": [
-      "797dc627c3665d78.jpg"
+      "c56858dca67c12e8.svg",
+      "e35ffdc579aacd64.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3775140644992506135",
-    "timestamp": "2026-07-27T13:40:05.404134+00:00",
-    "original_time": "2026-07-27T10:59:32+00:00"
+    "url": "https://x.com/Tasnimnews_Fa/status/1051914191409416146",
+    "timestamp": "2026-07-27T16:19:24.782838+00:00",
+    "original_time": "2026-07-27T14:02:12+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2039935546077746441",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Eighteen-year-old swimmer Filip Nowacki claimed silver in the men’s 100m breaststroke to secure Jersey’s first Commonwealth Games medal since 1990. The world junior champion produced a stunning second-half surge to finish just 0.17 seconds behind Australia’s Sam Williamson, with",
-    "translated_text": "18 岁的游泳运动员菲利普·诺瓦茨基 (Filip Nowacki) 在男子 100 米蛙泳比赛中夺得银牌，为泽西岛赢得了自 1990 年以来的第一枚英联邦运动会奖牌。这位世界青少年冠军在下半场表现出色，仅落后澳大利亚选手萨姆·威廉姆森 (Sam Williamson) 0.17 秒。",
-    "images": [
-      "f12c4cff9e925045.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-2039935546077746441",
-    "timestamp": "2026-07-27T13:40:08.101846+00:00",
-    "original_time": "2026-07-27T07:27:53+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_5015926193205044600",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Former All Blacks and Scotland assistant Brad Mooar has been appointed head coach of Super Rugby side Fijian Drua. The New Zealander, currently an assistant coach with the Canterbury Crusaders, has signed a two-year contract to replace Glen Jackson, who chose not to extend his",
-    "translated_text": "前全黑队和苏格兰队助理布拉德·穆尔被任命为超级橄榄球队斐济德鲁亚队的主教练。这位新西兰人目前是坎特伯雷十字军队的助理教练，他已经签署了一份为期两年的合同来接替格伦·杰克逊，后者选择不续约。",
-    "images": [
-      "07ee4a83dd9882dc.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/5015926193205044600",
-    "timestamp": "2026-07-27T13:40:08.589508+00:00",
-    "original_time": "2026-07-27T06:37:35+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-3528213090732879448",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Polling is underway across 13 constituencies in Mirpur Division as more than 1.4 million registered voters cast their ballots in the first phase of the Azad Jammu and Kashmir Legislative Assembly elections.#AJKElections#AzadKashmir#Democracy#Pakistan#PakistanTV",
-    "translated_text": "米尔普尔分区的 13 个选区正在进行投票，超过 140 万登记选民在自由查谟和克什米尔立法议会选举第一阶段投票。#AJKElections#AzadKashmir#Democracy#Pakistan#PakistanTV",
-    "images": [
-      "2de08c62c38a3e65.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-3528213090732879448",
-    "timestamp": "2026-07-27T13:40:09.134787+00:00",
-    "original_time": "2026-07-27T06:36:13+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_9191919745662470732",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Pakistan secured the silver medal at the Men’s Asian Hockey 5s Championship 2026 in Muscat, Oman, and qualified for the FIH Hockey 5s World Cup 2026. The national team delivered an impressive campaign, showcasing skill, discipline and determination to overcome strong Asian",
-    "translated_text": "巴基斯坦在阿曼马斯喀特举行的 2026 年亚洲曲棍球五人制锦标赛上获得银牌，并获得 2026 年国际曲棍球联合会曲棍球五人制世界杯的参赛资格。国家队打出了令人印象深刻的比赛，展示了战胜亚洲强队的技巧、纪律和决心。",
-    "images": [
-      "2ef8c759ef482b8f.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/9191919745662470732",
-    "timestamp": "2026-07-27T13:40:10.251420+00:00",
-    "original_time": "2026-07-27T06:35:44+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-7456240089911681328",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "France’s Quentin Halys claimed the ATP Austrian Open title after defeating defending champion Alexander Bublik of Kazakhstan in straight sets in the ATP 250 final in Kitzbühel. The victory marked Halys’ first ATP Tour singles title after an impressive run throughout the",
-    "translated_text": "法国选手昆汀·哈利斯在基茨比厄尔举行的 ATP 250 决赛中直落两盘击败卫冕冠军哈萨克斯坦选手亚历山大·布布利克，夺得 ATP 奥地利公开赛冠军。这场胜利标志着哈利斯在整个赛季令人印象深刻的表现后首次获得 ATP 巡回赛单打冠军",
-    "images": [
-      "0cc5e420a2264780.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-7456240089911681328",
-    "timestamp": "2026-07-27T13:40:11.188365+00:00",
-    "original_time": "2026-07-27T06:33:04+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-1746416310738230292",
+    "id": "tweet_Tasnimnews_Fa_-1628965832121574511",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
     "text": "Crane Collapse on East Prophet Street\n\nDamage to 5 Residential Units and 9 Vehicles\n\nTehran Fire Department Spokesperson:\n\nA 35-year-old man, the tower crane operator, was trapped inside the operator's cabin and was rescued by firefightershttp://tasnimnews.ir/3657708",
@@ -150,158 +287,56 @@
     "images": [
       "6cfa4365c48ea0dc.jpg"
     ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-1746416310738230292",
-    "timestamp": "2026-07-27T13:40:30.724556+00:00",
+    "url": "https://x.com/Tasnimnews_Fa/status/-1628965832121574511",
+    "timestamp": "2026-07-27T16:19:25.229631+00:00",
     "original_time": "2026-07-27T12:55:52+00:00"
   },
   {
-    "id": "tweet_Tasnimbrk_2153856762373191577",
-    "type": "tweet",
-    "username": "Tasnimbrk",
-    "text": "Governor of Gilan-e Gharb: Crossing the Sumar border is only possible from 7 a.m. to 7 p.m.",
-    "translated_text": "Gilan-e Gharb 省长：只能在早上 7 点到晚上 7 点之间穿越苏马尔边境",
-    "images": [],
-    "url": "https://x.com/Tasnimbrk/status/2153856762373191577",
-    "timestamp": "2026-07-27T13:40:31.255121+00:00",
-    "original_time": "2026-07-27T09:29:41+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_2290741621848472755",
+    "id": "tweet_Tasnimnews_Fa_-9165648915789795709",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
-    "text": "Inauguration of Arbaeen Maritime Trips from Khorramshahr Port to Basra\n\nHead of the Maritime Deputy of the Ports and Maritime Organization:\n\nThis vessel, with a capacity to transport 243 passengers per trip, is responsible for transferring pilgrims along the maritime route from",
-    "translated_text": "从霍拉姆沙赫尔港到巴士拉的阿尔巴恩海上旅行开通\n\n港口和海事组织海事副主任：\n\n这艘船每趟可运载 243 名乘客，负责沿海上路线运送朝圣者",
-    "images": [
-      "78c1186d77b25e31.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/2290741621848472755",
-    "timestamp": "2026-07-27T13:40:32.095780+00:00",
-    "original_time": "2026-07-27T12:54:01+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-2086095906832165071",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Major Crisis in Kuwait; People Are Either Being Stripped of Citizenship or Fleeing!\n\nKuwait's situation is truly critical and on the verge of collapse.\n\nThe government initially denied this situation until officials in the Saudi city of Dammam asked the Kuwaiti ambassador to",
-    "translated_text": "科威特的重大危机；人们要么被剥夺公民身份，要么逃离！\n\n科威特的局势确实危急，濒临崩溃。\n\n政府最初否认了这一情况，直到沙特达曼市的官员要求科威特大使",
+    "text": "Foreign Ministry Spokesman: Ukraine's Dangerous Adventure Will Not Go Unanswered\n\nPeaceful Use of Nuclear Energy Is the Right of All\n\nWe Will Not Allow America to Determine the Timing of War and Peace\n\nI ask the French government, which is concerned about the human rights of",
+    "translated_text": "外交部发言人：乌克兰的危险冒险不会得不到回应\n\n和平利用核能是所有人的权利\n\n我们不会让美国决定战争与和平的时间\n\n我问法国政府，他们关心法国人的人权",
     "images": [
       "c56858dca67c12e8.svg",
-      "b0a2f87b68dc6dcf.jpg"
+      "acddbf6486c54aff.jpg",
+      "1f278eab2b39c4a4.jpg",
+      "98a1cbe27797d6f8.jpg",
+      "80de63dbb9556bd0.jpg"
     ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-2086095906832165071",
-    "timestamp": "2026-07-27T13:40:32.802863+00:00",
-    "original_time": "2026-07-27T11:56:53+00:00"
+    "url": "https://x.com/Tasnimnews_Fa/status/-9165648915789795709",
+    "timestamp": "2026-07-27T16:19:27.772195+00:00",
+    "original_time": "2026-07-27T07:47:53+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_7779094888649047386",
+    "id": "tweet_Tasnimnews_Fa_1120720666761925843",
     "type": "tweet",
     "username": "Tasnimnews_Fa",
-    "text": "$21 Billion in U.S. Losses in 2 Weeks of Recent War Against Iran\n\nWhy Did the U.S. Temporarily Back Down from Large-Scale Attacks on Iran?\n\nMany reasons are cited for the U.S. once again pulling back from attacks on Iran; from the rise of U.S. Treasury bond yields above 5",
-    "translated_text": "最近两周的伊朗战争给美国造成了 210 亿美元的损失\n\n美国为何暂时放弃对伊朗的大规模袭击？\n\n美国再次撤回对伊朗的袭击有很多原因；来自美国国债收益率升至5以上",
+    "text": "Turkish Media Claim: Mohamed Salah's Transfer to Beşiktaş to Be Officialized Today\n\nAfter the contract announcement, it is planned to welcome Salah with a special ceremony at the airport, and then the player will head to Beşiktaş Stadium to sign his contract.",
+    "translated_text": "土耳其媒体声称：穆罕默德·萨拉赫将于今天正式转会至贝西克塔斯\n\n合同宣布后，计划在机场举行特别仪式欢迎萨拉赫，然后萨拉赫将前往贝西克塔斯球场签署合同。",
+    "images": [
+      "8de9b838c0453d21.jpg"
+    ],
+    "url": "https://x.com/Tasnimnews_Fa/status/1120720666761925843",
+    "timestamp": "2026-07-27T16:19:28.311691+00:00",
+    "original_time": "2026-07-27T07:32:40+00:00"
+  },
+  {
+    "id": "tweet_Tasnimnews_Fa_-3925650902063015324",
+    "type": "tweet",
+    "username": "Tasnimnews_Fa",
+    "text": "Massive wildfires displace hundreds of thousands in France and Spain",
+    "translated_text": "法国和西班牙大规模野火导致数十万人流离失所",
     "images": [
       "c56858dca67c12e8.svg",
-      "59c7a949795b0cd3.jpg"
+      "36c786c310061a1d.jpg"
     ],
-    "url": "https://x.com/Tasnimnews_Fa/status/7779094888649047386",
-    "timestamp": "2026-07-27T13:40:33.355785+00:00",
-    "original_time": "2026-07-27T11:55:22+00:00"
+    "url": "https://x.com/Tasnimnews_Fa/status/-3925650902063015324",
+    "timestamp": "2026-07-27T16:19:28.702477+00:00",
+    "original_time": "2026-07-27T07:13:51+00:00"
   },
   {
-    "id": "tweet_Tasnimnews_Fa_-4065874596933342984",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Provision of Required Fuel for Arbaeen Pilgrims from the Exit Borders of Shalamcheh, Khosravi, and Mehran\n\nDaily 6 million liters of diesel fuel and 26 mobile gasoline stations have been provided to support the transportation fleet and services for pilgrims#اربعین",
-    "translated_text": "为来自 Shalamcheh、Khosravi 和 Mehran 出境边境的阿尔巴恩朝圣者提供所需燃料\n\n每天提供 600 万升柴油和 26 个移动加油站，以支持朝圣者的运输车队和服务#???",
-    "images": [
-      "c56858dca67c12e8.svg",
-      "b673e8ce9e65caa5.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-4065874596933342984",
-    "timestamp": "2026-07-27T13:40:36.427630+00:00",
-    "original_time": "2026-07-27T06:58:28+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-5621071571675041056",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "New achievement of the Lebanese government: Israel withdrew from areas where it wasn't even present\n\nThe Lebanese Prime Minister triumphantly celebrated this great victory in the presence of Lebanese officers",
-    "translated_text": "黎巴嫩政府新政：以色列从根本不存在的地区撤军\n\n黎巴嫩总理在黎巴嫩军官在场的情况下胜利庆祝这一伟大胜利",
-    "images": [
-      "c56858dca67c12e8.svg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-5621071571675041056",
-    "timestamp": "2026-07-27T13:40:36.845200+00:00",
-    "original_time": "2026-07-27T06:56:23+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-6881699280883976033",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Celebration of Victory in the War of Liberation of the Homeland in North Korea\n\nKim Jong-un visited the Memorial Cemetery of the Revolution to commemorate the seventy-third anniversary\n\nLeaders of the party, government, and armed forces accompanied him\n\nThey laid flowers and a",
-    "translated_text": "庆祝朝鲜祖国解放战争胜利\n\n金正恩参观革命纪念公墓纪念革命七十三周年\n\n党政军领导陪同\n\n他们献上了鲜花和",
-    "images": [
-      "c0e24a5ec5dc7396.jpg",
-      "24f62356022dc62a.jpg",
-      "958acffe98ca4800.jpg",
-      "01dfa20808bcd744.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-6881699280883976033",
-    "timestamp": "2026-07-27T13:40:37.135401+00:00",
-    "original_time": "2026-07-27T06:22:18+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_2627960667875533580",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "The memorial ceremony for the late \"Akbbar Abdi\" will be held on Wednesday, August 7, from 5 to 6:30 PM at the Shahre Gharb Grand Mosque.#اکبر_عبدی",
-    "translated_text": "已故“Akbbar Abdi”的追悼会将于 8 月 7 日星期三下午 5 点至 6:30 在 Shahre Gharb 大清真寺举行。",
-    "images": [
-      "c42e56db0df4e112.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/2627960667875533580",
-    "timestamp": "2026-07-27T13:40:37.316465+00:00",
-    "original_time": "2026-07-27T06:17:37+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_6810829443658913364",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Destruction of the fighter jets' hangar at King Faisal Air Base, Jordan\n\nThe U.S. Special Forces' ammunition depot was targeted",
-    "translated_text": "约旦费萨尔国王空军基地战斗机机库被毁\n\n美国特种部队弹药库遭袭击",
-    "images": [
-      "c56858dca67c12e8.svg",
-      "0829255828f371d9.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/6810829443658913364",
-    "timestamp": "2026-07-27T13:40:37.505385+00:00",
-    "original_time": "2026-07-27T06:07:20+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_1363949601866588586",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Iran's Decisive Management in the Strait of Hormuz\n\nAn informed official: Hours ago, 6 violating vessels, incited by the child-killing and terrorist U.S. army, intended to pass through the illegal and unsafe southern route of the Strait of Hormuz, one of which suffered an",
-    "translated_text": "伊朗在霍尔木兹海峡的果断管理\n\n知情官员：数小时前，6艘违规船只在残杀儿童和恐怖分子美国军队的煽动下，意图通过霍尔木兹海峡非法且不安全的南线航道，其中一艘遭到严重破坏。",
-    "images": [],
-    "url": "https://x.com/Tasnimnews_Fa/status/1363949601866588586",
-    "timestamp": "2026-07-27T13:40:37.635390+00:00",
-    "original_time": "2026-07-27T05:34:38+00:00"
-  },
-  {
-    "id": "tweet_Tasnimnews_Fa_-4043255825493822138",
-    "type": "tweet",
-    "username": "Tasnimnews_Fa",
-    "text": "Trump crossed the Strait of Hormuz with the help of artificial intelligence!\n\nThe publication of these ridiculous posts has turned the president of the terrorist American government into a subject of social media.",
-    "translated_text": "特朗普借助人工智能横渡霍尔木兹海峡！\n\n这些荒唐的帖子的发表，让美国恐怖主义政府的总统成为社交媒体的话题。",
-    "images": [
-      "344ad164d55d2d3f.jpg"
-    ],
-    "url": "https://x.com/Tasnimnews_Fa/status/-4043255825493822138",
-    "timestamp": "2026-07-27T13:40:37.805659+00:00",
-    "original_time": "2026-07-27T05:19:24+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_-972815620727827264",
+    "id": "tweet_IRIMFA_-955822266789611083",
     "type": "tweet",
     "username": "IRIMFA",
     "text": "Spokesperson of the Ministry of Foreign Affairs:  \nI ask the government of#France; how is it that the pain and suffering of Iranians who were exposed to the crimes and military aggression of America and the Zionist regime did not stir your sense of humanitarianism and human",
@@ -310,175 +345,480 @@
       "df38c3f6ca196b56.png",
       "e714af262ea27a63.jpg"
     ],
-    "url": "https://x.com/IRIMFA/status/-972815620727827264",
-    "timestamp": "2026-07-27T13:41:09.143827+00:00",
+    "url": "https://x.com/IRIMFA/status/-955822266789611083",
+    "timestamp": "2026-07-27T16:20:25.496349+00:00",
     "original_time": "2026-07-27T08:35:54+00:00"
   },
   {
-    "id": "tweet_IRIMFA_3112148413616007977",
+    "id": "tweet_IRIMFA_8429716506132964121",
     "type": "tweet",
     "username": "IRIMFA",
     "text": "Foreign Minister Seyed Abbas Araghchi:\n\nZelensky has attacked an Iranian commercial ship and killed a sailor. This is an action that clearly violates the United Nations Charter and has been carried out at Israel's instigation to drag Europe into its war.\n... This action by the",
     "translated_text": "外交部长赛义德·阿巴斯·阿拉格奇：\n\n泽伦斯基袭击了一艘伊朗商船并杀死了一名水手。这是明显违反《联合国宪章》的行为，是在以色列的怂恿下进行的，目的是将欧洲拖入战争。\n...这一行动由",
     "images": [],
-    "url": "https://x.com/IRIMFA/status/3112148413616007977",
-    "timestamp": "2026-07-27T13:41:09.288982+00:00",
+    "url": "https://x.com/IRIMFA/status/8429716506132964121",
+    "timestamp": "2026-07-27T16:20:25.999898+00:00",
     "original_time": "2026-07-27T08:28:48+00:00"
   },
   {
-    "id": "tweet_CBSNews_4037951572149703985",
+    "id": "tweet_AJENews_0",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Human remains found in a Florida canal two years ago have been identified as those of a woman who vanished in 1985, police said.",
-    "translated_text": "警方表示，两年前在佛罗里达州一条运河中发现的遗骸已被确认为 1985 年失踪的一名妇女的遗骸。",
+    "username": "AJENews",
+    "text": "",
+    "translated_text": "",
     "images": [
-      "ed15b8c0dd351aa4.jpg"
+      "9b20f961c2ada6de.svg"
     ],
-    "url": "https://x.com/CBSNews/status/4037951572149703985",
-    "timestamp": "2026-07-27T13:42:28.147136+00:00",
-    "original_time": "2026-07-27T13:30:00+00:00"
+    "url": "https://x.com/AJENews/status/0",
+    "timestamp": "2026-07-27T16:20:57.381720+00:00",
+    "original_time": "2026-07-27T15:22:16+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6859511110080142563",
+    "id": "tweet_AJENews_-6079581583391519918",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Police have captured a fugitive who was convicted of kidnapping and murdering iconic singer-songwriter Victor Jara in 1973, during Chile's military dictatorship, a Justice Department statement said.",
-    "translated_text": "司法部声明称，警方抓获了一名逃犯，该逃犯因 1973 年智利军事独裁时期绑架和谋杀标志性歌手兼词曲作家维克多·贾拉 (Victor Jara) 而被定罪。",
+    "username": "AJENews",
+    "text": "BREAKING: Kuwait condemns drone attacks targeting Saudi oil facilitiesLIVE updates:https://aje.news/te4toc?update=4809131…",
+    "translated_text": "突发新闻：科威特谴责针对沙特石油设施的无人机袭击实时更新：https://aje.news/te4toc?update=4809131…",
     "images": [
-      "e72017c93bc3977d.jpg"
+      "7f1a451786c84548.svg",
+      "351fce1120aeef4b.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-6859511110080142563",
-    "timestamp": "2026-07-27T13:42:28.735546+00:00",
-    "original_time": "2026-07-27T13:00:00+00:00"
+    "url": "https://x.com/AJENews/status/-6079581583391519918",
+    "timestamp": "2026-07-27T16:20:57.778569+00:00",
+    "original_time": "2026-07-27T16:20:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_1584830398043234539",
+    "id": "tweet_AJENews_-2753289941310010219",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "The video appears to show a person throwing kicks at the sea lion at La Jolla Cove as at least one other person can be heard laughing in the background.",
-    "translated_text": "视频显示，拉霍亚湾的一个人向海狮踢腿，背景中至少可以听到另一个人的笑声。",
+    "username": "AJENews",
+    "text": "BREAKING: US military says it has redirected 17 ships in Hormuz StraitLIVE updates:https://aje.news/te4toc?update=4809093…",
+    "translated_text": "突发新闻：美国军方表示已改变霍尔木兹海峡 17 艘船只的航线实时更新：https://aje.news/te4toc?update=4809093…",
     "images": [
-      "812e79371e8a6b1b.jpg"
+      "7f1a451786c84548.svg",
+      "a3f1e0951f56bf3a.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1584830398043234539",
-    "timestamp": "2026-07-27T13:42:29.697903+00:00",
-    "original_time": "2026-07-27T12:30:00+00:00"
+    "url": "https://x.com/AJENews/status/-2753289941310010219",
+    "timestamp": "2026-07-27T16:20:58.155388+00:00",
+    "original_time": "2026-07-27T16:07:40+00:00"
   },
   {
-    "id": "tweet_CBSNews_2577175511687543638",
+    "id": "tweet_AJENews_7419855592361436854",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "The Trump-linked group Freedom 250 staged America's birthday with tens of millions that it is not required to disclose.",
-    "translated_text": "与特朗普有关联的组织“自由 250”(Freedom 250) 上演了美国生日的活动，其资金无需透露。",
+    "username": "AJENews",
+    "text": "Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said firmly on Monday that Iran remains completely in control of the Strait of Hormuz and is not seeking negotiations with the US. \n\nThis comes after President Donald Trump paused US attacks on Iran over the weekend.",
+    "translated_text": "伊朗外交部发言人埃斯梅尔·巴加伊周一坚定表示，伊朗仍然完全控制霍尔木兹海峡，并且不寻求与美国进行谈判。 \n\n在此之前，唐纳德·特朗普总统周末暂停了美国对伊朗的袭击。",
     "images": [
-      "0096b3c15ed9fc4e.jpg"
+      "6f11ef9fae6cd4a1.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2577175511687543638",
-    "timestamp": "2026-07-27T13:42:29.871206+00:00",
-    "original_time": "2026-07-27T12:00:00+00:00"
+    "url": "https://x.com/AJENews/status/7419855592361436854",
+    "timestamp": "2026-07-27T16:20:59.270974+00:00",
+    "original_time": "2026-07-27T16:05:29+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6844987126050677101",
+    "id": "tweet_AJENews_5835493598674656567",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Three people were killed and four others wounded in a shooting at a food festival near Seattle's Space Needle on Sunday evening, police said. A suspect was arrested and another was being sought, they said.\n\nSeattle Assistant Police Chief Tyrone Davis told a late night press",
-    "translated_text": "警方称，周日晚上，西雅图太空针塔附近的一个美食节上发生枪击事件，造成三人死亡、四人受伤。他们说，一名嫌疑人已被捕，另一名嫌疑人正在通缉中。\n\n西雅图助理警察局长泰隆·戴维斯在深夜接受媒体采访时表示",
+    "username": "AJENews",
+    "text": "BREAKING: UN's Turk says the killing of UN staff in Gaza, Lebanon and Yemen in recent years is 'unfathomable'LIVE updates:https://aje.news/te4toc?update=4809083…",
+    "translated_text": "突发新闻：联合国土耳其人表示，近年来在加沙、黎巴嫩和也门发生的联合国工作人员遇害事件“深不可测”实时更新：https://aje.news/te4toc?update=4809083…",
     "images": [
-      "fccc4713fc33dcff.jpg"
+      "7f1a451786c84548.svg",
+      "18d0c5b9c6bec239.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-6844987126050677101",
-    "timestamp": "2026-07-27T13:42:30.398120+00:00",
-    "original_time": "2026-07-27T11:50:29+00:00"
+    "url": "https://x.com/AJENews/status/5835493598674656567",
+    "timestamp": "2026-07-27T16:20:59.790568+00:00",
+    "original_time": "2026-07-27T16:04:58+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_-7637453017236904780",
+    "id": "tweet_AJENews_-2471775579623290248",
     "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "There are new evacuations in France as fast-moving wildfires are now threatening the city of Bordeaux. Massive fires there and in Spain have forced 300,000 people to evacuate, and officials warn the conditions could get worse in the coming days.",
-    "translated_text": "由于快速蔓延的野火现在威胁着波尔多市，法国又进行了新的疏散行动。那里和西班牙的大规模火灾已迫使 30 万人撤离，官员警告未来几天情况可能会变得更糟。",
+    "username": "AJENews",
+    "text": "BREAKING: Saudi Defence Ministry vows to respond to Iraqi militia drone attack on energy facilitiesLIVE updates:https://aje.news/te4toc?update=4808593…",
+    "translated_text": "突发新闻：沙特国防部誓言将对伊拉克民兵无人机对能源设施的袭击做出回应实时更新：https://aje.news/te4toc?update=4808593…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "13b764c9d9308619.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-2471775579623290248",
+    "timestamp": "2026-07-27T16:21:02.361847+00:00",
+    "original_time": "2026-07-27T12:31:49+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-2338545283445322112",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Saudi Arabia says its under attack by drones launched from IraqLIVE updates:https://aje.news/te4toc?update=4808556…",
+    "translated_text": "突发：沙特阿拉伯称其受到从伊拉克发射的无人机的攻击实时更新：https://aje.news/te4toc?update=4808556…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "fd07ca75ebf62e4b.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-2338545283445322112",
+    "timestamp": "2026-07-27T16:21:02.757388+00:00",
+    "original_time": "2026-07-27T12:16:31+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-3233364315185481311",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Oil prices continue to sink after US and Iran pause strikesLIVE updates:https://aje.news/te4toc?update=4808523…",
+    "translated_text": "突发新闻：美国和伊朗暂停罢工后油价继续下跌实时更新：https://aje.news/te4toc?update=4808523…",
+    "images": [
+      "7f1a451786c84548.svg"
+    ],
+    "url": "https://x.com/AJENews/status/-3233364315185481311",
+    "timestamp": "2026-07-27T16:21:03.098938+00:00",
+    "original_time": "2026-07-27T12:11:24+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-4491645607640457899",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Netanyahu says Iran will be 'at the forefront' of Trump talksLIVE updates:https://aje.news/te4toc?update=4808482…",
+    "translated_text": "突发新闻：内塔尼亚胡表示伊朗将处于特朗普会谈的“前沿”实时更新：https://aje.news/te4toc?update=4808482…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "9b05b138167e4c8c.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-4491645607640457899",
+    "timestamp": "2026-07-27T16:21:03.667529+00:00",
+    "original_time": "2026-07-27T12:00:20+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-1216565609565097964",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: French police have detained a man who attacked three women with two kitchen knives in Paris, Interior Minister Laurent Nunez says. Two of the victims are in serious condition.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：法国内政部长洛朗·努涅斯 (Laurent Nunez) 表示，法国警方拘留了一名在巴黎用两把菜刀袭击三名妇女的男子。其中两名受害者伤势严重。更多信息请访问http://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "f5d5dc4c03f6228c.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-1216565609565097964",
+    "timestamp": "2026-07-27T16:21:03.997932+00:00",
+    "original_time": "2026-07-27T11:43:58+00:00"
+  },
+  {
+    "id": "tweet_AJENews_5341065662507639585",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Lebanon accuses Israel of ongoing breaches of 'international law'LIVE updates:https://aje.news/te4toc?update=4808382…",
+    "translated_text": "突发新闻：黎巴嫩指责以色列持续违反“国际法”实时更新：https://aje.news/te4toc?update=4808382…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "e7db6f5153015fa2.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/5341065662507639585",
+    "timestamp": "2026-07-27T16:21:04.457999+00:00",
+    "original_time": "2026-07-27T11:40:27+00:00"
+  },
+  {
+    "id": "tweet_AJENews_5607317554573831988",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: China’s commerce ministry denounces Trump's new Section 301 tariffs linked to alleged forced labour, calling on the US to remove the “wrong” unilateral measures.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：中国商务部谴责特朗普根据所谓强迫劳动征收的新 301 关税，呼吁美国取消“错误”的单边措施。更多信息请访问http://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "5a7ea19e66629b52.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/5607317554573831988",
+    "timestamp": "2026-07-27T16:21:04.770556+00:00",
+    "original_time": "2026-07-27T11:10:51+00:00"
+  },
+  {
+    "id": "tweet_AJENews_4474369154385910434",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Israeli forces attack Gaza civilians outside UN school shelterLIVE updates:https://aje.news/te4toc?update=4808332…",
+    "translated_text": "突发事件：以色列军队在联合国学校避难所外袭击加沙平民实时更新：https://aje.news/te4toc?update=4808332…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "c2083c5397d05dd4.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/4474369154385910434",
+    "timestamp": "2026-07-27T16:21:05.311385+00:00",
+    "original_time": "2026-07-27T11:10:27+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-4517810267534468376",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "President Trump departed Washington, D.C. on Monday to deliver remarks on the economy at a General Motors facility in Milford, Michigan.",
+    "translated_text": "特朗普总统周一离开华盛顿特区，在密歇根州米尔福德的通用汽车工厂发表有关经济的讲话。",
     "images": [],
-    "url": "https://x.com/CBSEveningNews/status/-7637453017236904780",
-    "timestamp": "2026-07-27T13:42:33.017480+00:00",
-    "original_time": "2026-07-27T01:49:32+00:00"
+    "url": "https://x.com/CBSNews/status/-4517810267534468376",
+    "timestamp": "2026-07-27T16:22:19.778734+00:00",
+    "original_time": "2026-07-27T16:19:53+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_1487945556944148600",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Punch the monkey is celebrating his first birthday - and with some new friends. He stole the hearts of millions when he was seen carrying around a stuffed orangutan after he was abandoned by his mom and ostracized by the other monkeys.",
-    "translated_text": "潘趣猴正在庆祝他的一岁生日——还有一些新朋友。当他被妈妈遗弃并被其他猴子排斥后，有人看到他带着一只毛绒猩猩到处走，这俘获了数百万人的心。",
-    "images": [
-      "33704fed9e4b4b67.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/1487945556944148600",
-    "timestamp": "2026-07-27T13:42:34.482822+00:00",
-    "original_time": "2026-07-27T02:44:30+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_6495972526106800042",
+    "id": "tweet_CBSNews_-4680269017900687729",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Fire crews in France and Spain continued to battle raging wildfires that have forced the evacuation of more than 300,000 people in the two countries.\n\nCBS News' Ramy Inocencio spoke with Rebecca Papin, an American woman who got trapped by the French fires south of Bordeaux with",
-    "translated_text": "法国和西班牙的消防人员继续与肆虐的野火搏斗，野火已迫使两国超过30万人疏散。\n\n哥伦比亚广播公司新闻 (CBS News) 的拉米·伊诺森西奥 (Ramy Inocencio) 采访了在波尔多以南的法国大火中被困的美国妇女丽贝卡·帕潘 (Rebecca Papin)",
+    "text": "Fire crews in Spain and France continued to battle raging wildfires that have forced the evacuation of more than 300,000 people across the two countries.",
+    "translated_text": "西班牙和法国的消防人员继续与肆虐的野火搏斗，野火已迫使两国超过 30 万人疏散。",
     "images": [
-      "209fa515ea250955.jpg"
+      "4f5bc3c40cf77ea6.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/6495972526106800042",
-    "timestamp": "2026-07-27T13:42:34.749664+00:00",
-    "original_time": "2026-07-27T02:53:11+00:00"
+    "url": "https://x.com/CBSNews/status/-4680269017900687729",
+    "timestamp": "2026-07-27T16:22:20.167488+00:00",
+    "original_time": "2026-07-27T16:08:09+00:00"
   },
   {
-    "id": "tweet_CBSNews_1031628191141558018",
+    "id": "tweet_CBSNews_5120614246701569264",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "BREAKING: Several people were shot near Seattle's Space Needle on Sunday night, police said.",
-    "translated_text": "突发新闻：警方称，周日晚上，西雅图太空针塔附近有多人被枪杀。",
+    "text": "The suspect in the Berlin LGBTQ+ Pride parade attack, who officials said was known to have ties to ISIS, was about to be disqualified from a deradicalization program after staff saw red flags, one of the program's leaders told CBS News on Monday.",
+    "translated_text": "柏林 LGBTQ+ 骄傲游行袭击事件的一名嫌疑人周一告诉哥伦比亚广播公司新闻，官员称该嫌疑人与 ISIS 有联系，在工作人员看到危险信号后，该嫌疑人即将被取消参加去激进化计划的资格。",
     "images": [
-      "2218357042b18f31.jpg"
+      "978bbfea954b674c.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1031628191141558018",
-    "timestamp": "2026-07-27T13:42:34.924794+00:00",
-    "original_time": "2026-07-27T02:41:19+00:00"
+    "url": "https://x.com/CBSNews/status/5120614246701569264",
+    "timestamp": "2026-07-27T16:22:20.367956+00:00",
+    "original_time": "2026-07-27T16:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8226149224839208960",
+    "id": "tweet_CBSNews_9055986688399189226",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Carlos Beltrán, Andruw Jones and Jeff Kent inducted into Baseball Hall of Fame in emotional ceremony",
-    "translated_text": "卡洛斯·贝尔特兰、安德鲁·琼斯和杰夫·肯特在激动人心的仪式上入选棒球名人堂",
+    "text": "Stock futures rose and crude fell after U.S. Ambassador Mike Waltz told \"Face the Nation\" that a pause in U.S.-Iran fighting aims to give diplomacy time to work.",
+    "translated_text": "美国大使迈克·沃尔兹（Mike Waltz）向“面对全国”节目表示，暂停美伊战争旨在为外交努力提供发挥作用的时间，随后股市期货上涨，原油下跌。",
     "images": [
-      "f7745c931cf5c457.jpg"
+      "4bd9e5e03f3f6ae6.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8226149224839208960",
-    "timestamp": "2026-07-27T13:42:35.101343+00:00",
-    "original_time": "2026-07-27T01:54:59+00:00"
+    "url": "https://x.com/CBSNews/status/9055986688399189226",
+    "timestamp": "2026-07-27T16:22:20.550847+00:00",
+    "original_time": "2026-07-27T15:15:00+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2526037522666173416",
+    "id": "tweet_CBSNews_-6390771118654328824",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "An American woman describes how she and her children have become trapped in a wildfire evacuation zone in France.",
+    "translated_text": "一位美国妇女描述了她和她的孩子如何被困在法国野火疏散区。",
+    "images": [
+      "5b2c1b441391fec6.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-6390771118654328824",
+    "timestamp": "2026-07-27T16:22:20.744510+00:00",
+    "original_time": "2026-07-27T14:50:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_5055774439048894408",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Home, not alone: Helping aging seniors in rural America",
+    "translated_text": "家，不孤单：帮助美国农村的老年人",
+    "images": [
+      "d37fb27824448f35.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/5055774439048894408",
+    "timestamp": "2026-07-27T16:22:22.993969+00:00",
+    "original_time": "2026-07-27T10:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-1666860320562101771",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "How Trump admin cuts have compromised food safety",
+    "translated_text": "特朗普行政削减如何损害食品安全",
+    "images": [
+      "8be1a82dc9bb7bf3.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1666860320562101771",
+    "timestamp": "2026-07-27T16:22:23.179989+00:00",
+    "original_time": "2026-07-27T08:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-3930425808180559152",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Colorado River reservoirs hit record lows as Trump administration threatens major cuts",
+    "translated_text": "特朗普政府威胁大幅削减科罗拉多河水库水位创历史新低",
+    "images": [
+      "fa905c2937460138.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-3930425808180559152",
+    "timestamp": "2026-07-27T16:22:23.373692+00:00",
+    "original_time": "2026-07-27T06:00:00+00:00"
+  },
+  {
+    "id": "tweet_jake__traylor_1537312132455925162",
+    "type": "tweet",
+    "username": "jake__traylor",
+    "text": "NEW: Trump's war chest — which is sitting at $400 million right now — is set to begin spending in August, according to a Republican operative familiar with the expenditure timeline. \n\nThe Trump-aligned super PAC is planning to spend in both House and Senate races, shoring up",
+    "translated_text": "新消息：据一位熟悉支出时间表的共和党工作人员透露，特朗普的战争资金目前为 4 亿美元，将于 8 月开始支出。 \n\n与特朗普结盟的超级政治行动委员会计划在众议院和参议院竞选中支出，以支持",
+    "images": [
+      "54a2397ff70f653b.jpg"
+    ],
+    "url": "https://x.com/jake__traylor/status/1537312132455925162",
+    "timestamp": "2026-07-27T16:22:38.337085+00:00",
+    "original_time": "2026-07-27T14:48:56+00:00"
+  },
+  {
+    "id": "tweet_AudreyFahlberg_-1290792188277582382",
+    "type": "tweet",
+    "username": "AudreyFahlberg",
+    "text": "Scoop: By the end of Lori Chavez-DeRemer’s tenure, the White House Counsel’s Office prohibited her from hiring, firing, or transferring any DOL personnel in order to avoid the perception that she was retaliating against staff amid the IG probe, three sources familiar with the",
+    "translated_text": "独家新闻：在洛里·查韦斯-德雷默 (Lori Chavez-DeRemer) 任期结束时，白宫法律顾问办公室禁止她雇用、解雇或调动任何劳工部人员，以避免被认为她在 IG 调查期间对工作人员进行报复，三位熟悉情况的消息人士称",
+    "images": [
+      "84d466e71f14fe50.jpg"
+    ],
+    "url": "https://x.com/AudreyFahlberg/status/-1290792188277582382",
+    "timestamp": "2026-07-27T16:22:38.860724+00:00",
+    "original_time": "2026-07-27T13:19:58+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_3968220447235964818",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The movement of the Kakroach Jamaat Party will not end; the support of the youth can make it even stronger in the future, Irshad Bhatti@IrshadBhatti336",
+    "translated_text": "卡克罗奇大会党的运动不会结束；年轻人的支持可以使其未来变得更加强大，Irshad Bhatti@IrshadBhatti336",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/3968220447235964818",
+    "timestamp": "2026-07-27T16:23:41.873538+00:00",
+    "original_time": "2026-07-27T15:41:24+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_6195057166017485988",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Allies in reconciliation and rivals in Kashmir, the politics of PML-N and PPP revolves around power, Irshad Bhatti@IrshadBhatti336",
+    "translated_text": "和解中的盟友，克什米尔的对手，PML-N 和 PPP 的政治围绕着权力，Irshad Bhatti@IrshadBhatti336",
+    "images": [
+      "e929f38f203e0f2d.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/6195057166017485988",
+    "timestamp": "2026-07-27T16:23:42.342319+00:00",
+    "original_time": "2026-07-27T15:40:41+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-8779587126997551461",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The Modi government certainly received a jolt, but for now, the Cockroach Janata Party BJP does not appear to be a major political threat, Mahmal Sarfraz@Mehmal",
+    "translated_text": "莫迪政府当然受到了震动，但就目前而言，印度人民党蟑螂人民党似乎并不是一个重大的政治威胁，Mahmal Sarfraz@Mehmal",
+    "images": [
+      "221fa44d76f9519f.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8779587126997551461",
+    "timestamp": "2026-07-27T16:23:42.712452+00:00",
+    "original_time": "2026-07-27T15:40:08+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1494392769616395247",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The allegations of rigging in Azad Kashmir are regrettable; such controversies give India an opportunity for propaganda against Pakistan, Mahmal Sarfraz@Mehmal",
+    "translated_text": "关于自由克什米尔的操纵行为的指控令人遗憾；此类争议为印度提供了针对巴基斯坦进行宣传的机会，Mahmal Sarfraz@Mehmal",
+    "images": [
+      "f3505b7380bdf7e3.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/1494392769616395247",
+    "timestamp": "2026-07-27T16:23:43.237701+00:00",
+    "original_time": "2026-07-27T15:39:59+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-7240086407229490124",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The Janta Party is not yet a big threat to the BJP; it would be premature to decide on its political future, Salim Safi@SaleemKhanSafi",
+    "translated_text": "人民党尚未对印度人民党构成重大威胁；现在决定其政治未来还为时过早，Salim Safi@SaleemKhanSafi",
+    "images": [
+      "88f64fa4edfd561b.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7240086407229490124",
+    "timestamp": "2026-07-27T16:23:43.671606+00:00",
+    "original_time": "2026-07-27T15:39:39+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1053843565429893648",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Neither the advance announcement of the departure time for the flight, nor the official explanation for the unusual arrangement, due to a threat from Iran, did Netanyahu quietly depart for the United States",
+    "translated_text": "无论是提前宣布航班起飞时间，还是官方对因伊朗威胁而做出的不寻常安排的解释，内塔尼亚胡都没有悄悄启程前往美国",
+    "images": [
+      "9fd99481a6b636c4.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/1053843565429893648",
+    "timestamp": "2026-07-27T16:23:46.274911+00:00",
+    "original_time": "2026-07-27T15:00:52+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-7924533823309543438",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "6 PM Headlines - 27 July 2026",
+    "translated_text": "下午 6 点头条新闻 - 2026 年 7 月 27 日",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/-7924533823309543438",
+    "timestamp": "2026-07-27T16:23:46.779289+00:00",
+    "original_time": "2026-07-27T14:09:44+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_7063203678032979614",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "West Indies Test... The Third Day's Play  \nWhat Should Pakistan's Strategy Be?",
+    "translated_text": "西印度群岛测试……第三天的比赛  \n巴基斯坦的战略应该是什么？",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/7063203678032979614",
+    "timestamp": "2026-07-27T16:23:47.173336+00:00",
+    "original_time": "2026-07-27T13:50:00+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-6669248249504697643",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "\"If we work on fitness and other flaws, then the Pakistan team...\"\nSee Ahmad Shehzad's analysis",
+    "translated_text": "“如果我们努力改善体能和其他缺陷，那么巴基斯坦队……”\n参见 Ahmad Shehzad 的分析",
+    "images": [
+      "2fae4a38d3fe9e24.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-6669248249504697643",
+    "timestamp": "2026-07-27T16:23:47.652208+00:00",
+    "original_time": "2026-07-27T13:49:52+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-1819429238271493292",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "\"Adnan Awais should be given full chances... It shouldn't be that...\"\nSee Rashid Latif's comment",
+    "translated_text": "“阿德南·阿瓦伊斯应该得到充分的机会……不应该是这样……”\n请参阅拉希德·拉蒂夫的评论",
+    "images": [
+      "e43cbeaadb16dc22.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-1819429238271493292",
+    "timestamp": "2026-07-27T16:23:48.011313+00:00",
+    "original_time": "2026-07-27T13:49:45+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-8791596553752492634",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "\"Setting up more and more camps during the day doesn't achieve anything... You should... \"\n\nSee Iskander Baqir's analysis",
     "translated_text": "“白天设置越来越多的营地并没有什么作用……你应该……”\n\n参见 Iskander Baqir 的分析",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/-2526037522666173416",
-    "timestamp": "2026-07-27T13:43:50.669572+00:00",
+    "images": [
+      "9117d8f64b79f58c.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8791596553752492634",
+    "timestamp": "2026-07-27T16:23:48.676168+00:00",
     "original_time": "2026-07-27T13:27:24+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_7119380997582862061",
+    "id": "tweet_geonews_urdu_-2032596287649248902",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "ویسٹ انڈیز ٹیسٹ۔۔۔۔ احمد شہزاد نے پاکستانی کھلاڑیوں کی فٹنس پر سوال اٹھا دیا",
-    "translated_text": "西印度群岛测试艾哈迈德·沙赫扎德质疑巴基斯坦球员的健康状况",
+    "text": "West Indies Test... Ahmed Shehzad raises questions about the fitness of Pakistani players",
+    "translated_text": "西印度群岛测试...艾哈迈德·谢赫扎德对巴基斯坦球员的健康状况提出质疑",
     "images": [
       "8fbf136cfeabf40c.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/7119380997582862061",
-    "timestamp": "2026-07-27T13:43:51.849581+00:00",
+    "url": "https://x.com/geonews_urdu/status/-2032596287649248902",
+    "timestamp": "2026-07-27T16:23:49.214072+00:00",
     "original_time": "2026-07-27T13:27:17+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8746613597338169287",
+    "id": "tweet_geonews_urdu_-7066383385735229412",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "West Indies Test... Watch Rashid Latif's commentary on Imam-ul-Haq and Babar Azam's batting",
@@ -486,242 +826,22 @@
     "images": [
       "44386e4ce163c2a0.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-8746613597338169287",
-    "timestamp": "2026-07-27T13:43:52.324350+00:00",
+    "url": "https://x.com/geonews_urdu/status/-7066383385735229412",
+    "timestamp": "2026-07-27T16:23:49.572412+00:00",
     "original_time": "2026-07-27T13:26:44+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_5458925841381838005",
+    "id": "tweet_geonews_urdu_1323060217776004145",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "دوبارہ اقتدار میں آیا تو قطر کو دشمن ریاست قرار دوں گا، سابق اسرائیلی وزیراعظم",
-    "translated_text": "以色列前总理：如果我重新掌权，我将宣布卡塔尔为敌国",
+    "text": "If I come to power again, I will declare Qatar an enemy state: Former Israeli Prime Minister",
+    "translated_text": "以色列前总理：如果我再次掌权，我将宣布卡塔尔为敌国",
     "images": [
       "6e04bb6aeb477788.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/5458925841381838005",
-    "timestamp": "2026-07-27T13:43:53.293140+00:00",
+    "url": "https://x.com/geonews_urdu/status/1323060217776004145",
+    "timestamp": "2026-07-27T16:23:50.051260+00:00",
     "original_time": "2026-07-27T13:24:36+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3312256745859021937",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Pakistan's position is good, and if they manage to take a lead of more than 100 runs, then...  \nSee the analysis by Sikandar Bakht",
-    "translated_text": "巴基斯坦的位置很好，如果他们能领先100多分，那么……  \n参见 Sikandar Bakht 的分析",
-    "images": [
-      "51e0c820f2056ac5.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-3312256745859021937",
-    "timestamp": "2026-07-27T13:43:53.978133+00:00",
-    "original_time": "2026-07-27T13:22:34+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_6472109927471005136",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "3 PM Headlines - 27 July 2026",
-    "translated_text": "下午 3 点头条新闻 - 2026 年 7 月 27 日",
-    "images": [
-      "015027372c7f87b4.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/6472109927471005136",
-    "timestamp": "2026-07-27T13:43:56.608322+00:00",
-    "original_time": "2026-07-27T11:03:19+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-7011461860819371103",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Gold up 4,000 rupees, what is the price of gold per tola now?",
-    "translated_text": "金价上涨4000卢比，现在每托拉金价是多少？",
-    "images": [
-      "9a666be4eec4f635.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-7011461860819371103",
-    "timestamp": "2026-07-27T13:43:57.178631+00:00",
-    "original_time": "2026-07-27T11:00:07+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_8582265361705679656",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "4 Pakistanis killed in South Africa due to firing by unidentified armed men",
-    "translated_text": "4名巴基斯坦人在南非被身份不明的武装人员开枪打死",
-    "images": [
-      "166ac0143fec2676.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/8582265361705679656",
-    "timestamp": "2026-07-27T13:43:57.618050+00:00",
-    "original_time": "2026-07-27T10:36:30+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_6923668260639577751",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Continuous rise in water level in the Chenab River, 5 settlements submerged due to breach in Jhelum Canal at Jhelum Pur Pirwala",
-    "translated_text": "杰赫勒姆普尔皮尔瓦拉杰赫勒姆运河决口导致杰纳布河水位持续上涨，5个定居点被淹没",
-    "images": [
-      "f0243ec68fe720e7.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/6923668260639577751",
-    "timestamp": "2026-07-27T13:43:58.207891+00:00",
-    "original_time": "2026-07-27T10:24:37+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-8581404550348484717",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Bollywood actress Shabana Azmi's swine flu test comes back positive, suffering from high fever",
-    "translated_text": "宝莱坞女演员沙巴娜·阿兹米的猪流感检测结果呈阳性，并患有高烧",
-    "images": [
-      "e780674a3c023639.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-8581404550348484717",
-    "timestamp": "2026-07-27T13:43:58.483870+00:00",
-    "original_time": "2026-07-27T10:14:21+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_8170915912832196463",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Babar Azam's 33 Innings Complete Without a 'Test Century', Wait for Big Knock Tests Patience",
-    "translated_text": "巴巴尔·阿扎姆 (Babar Azam) 的 33 局比赛没有经过“测试世纪”，等待重大打击考验耐心",
-    "images": [
-      "adacc5251570a83f.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/8170915912832196463",
-    "timestamp": "2026-07-27T13:43:58.656705+00:00",
-    "original_time": "2026-07-27T10:08:33+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-207330386554989923",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Azad Kashmir Elections First Phase,\nPolling Process Underway in All Three Constituencies of Bhimber District",
-    "translated_text": "自由克什米尔选举第一阶段，\n宾伯区所有三个选区正在进行投票进程",
-    "images": [
-      "012b027193ecfaf6.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-207330386554989923",
-    "timestamp": "2026-07-27T13:43:58.960742+00:00",
-    "original_time": "2026-07-27T10:00:15+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-8988197649478117977",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Alleged irregularities in the Lyari Expressway Resettlement Project, NAB Karachi continues investigation",
-    "translated_text": "卡拉奇国民银行继续调查 Lyari 高速公路移民项目涉嫌违规行为",
-    "images": [
-      "f765d18e057c54bc.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-8988197649478117977",
-    "timestamp": "2026-07-27T13:43:59.221685+00:00",
-    "original_time": "2026-07-27T09:47:52+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-8176872775036892423",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Saudi Crown Prince Mohammed bin Salman and British Prime Minister's telephone contact",
-    "translated_text": "沙特王储穆罕默德·本·萨勒曼与英国首相的电话联系",
-    "images": [
-      "16b4a0950321a9b7.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-8176872775036892423",
-    "timestamp": "2026-07-27T13:43:59.714950+00:00",
-    "original_time": "2026-07-27T09:47:35+00:00"
-  },
-  {
-    "id": "article_1c40de20b749",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Zelensky claims Russia helped Iran target US bases in Gulf",
-    "translated_title": "泽伦斯基声称俄罗斯帮助伊朗袭击了美国在海湾的基地",
-    "url": "https://www.dawn.com/news/2018669/zelensky-claims-russia-helped-iran-target-us-bases-in-gulf",
-    "timestamp": "2026-07-27T13:45:35.542564+00:00",
-    "original_time": "2026-07-27T07:31:13+05:00"
-  },
-  {
-    "id": "article_d22c4e75982c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Oil prices dip over 6pc after US, Iran pause fighting over weekend",
-    "translated_title": "美国、伊朗周末暂停战斗后油价下跌逾 6%",
-    "url": "https://www.dawn.com/news/2018729/oil-prices-dip-over-6pc-after-us-iran-pause-fighting-over-weekend",
-    "timestamp": "2026-07-27T13:45:39.669533+00:00",
-    "original_time": "2026-07-27T12:45:33+05:00"
-  },
-  {
-    "id": "article_11ae8a8ca755",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Medical tribunal redefines standards of ‘negligence’",
-    "translated_title": "医疗法庭重新定义“过失”标准",
-    "url": "https://www.dawn.com/news/2018658/medical-tribunal-redefines-standards-of-negligence",
-    "timestamp": "2026-07-27T13:45:44.940820+00:00",
-    "original_time": "2026-07-27T07:31:19+05:00"
-  },
-  {
-    "id": "article_f67bb39a6489",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Over 18,000 appear in Khyber Medical University’s first-ever CAT 2026",
-    "translated_title": "超过 18,000 人参加开伯尔医科大学 2026 年首届 CAT",
-    "url": "https://www.dawn.com/news/2018570/over-18000-appear-in-khyber-medical-universitys-first-ever-cat-2026",
-    "timestamp": "2026-07-27T13:45:50.767574+00:00",
-    "original_time": "2026-07-27T07:32:20+05:00"
-  },
-  {
-    "id": "article_537a5e048bce",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Anthony Joshua jitters fail to dampen appetite for showdown with Fury",
-    "translated_title": "安东尼·约书亚的紧张情绪未能抑制与富里对决的欲望",
-    "url": "https://www.dawn.com/news/2018610/anthony-joshua-jitters-fail-to-dampen-appetite-for-showdown-with-fury",
-    "timestamp": "2026-07-27T13:45:54.908296+00:00",
-    "original_time": "2026-07-27T07:31:33+05:00"
-  },
-  {
-    "id": "article_1e2669f32b2a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Federal Government Employees Housing Authority decides to seek tax exemption for 5 years",
-    "translated_title": "联邦政府雇员住房管理局决定寻求 5 年免税",
-    "url": "https://www.dawn.com/news/2018558/federal-government-employees-housing-authority-decides-to-seek-tax-exemption-for-5-years",
-    "timestamp": "2026-07-27T13:46:01.685213+00:00",
-    "original_time": "2026-07-27T07:32:09+05:00"
-  },
-  {
-    "id": "article_69a40ba45ce2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Residents cash in on Dubai real estate cooldown",
-    "translated_title": "居民利用迪拜房地产冷却期获利",
-    "url": "https://www.dawn.com/news/2018666",
-    "timestamp": "2026-07-27T13:46:15.125419+00:00",
-    "original_time": "2026-07-27T07:31:13+05:00"
-  },
-  {
-    "id": "article_758e8445c745",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Shifting geopolitics of tech",
-    "translated_title": "科技地缘政治的转变",
-    "url": "https://www.dawn.com/news/2018585",
-    "timestamp": "2026-07-27T13:46:34.549609+00:00",
-    "original_time": "2026-07-27T07:31:26+05:00"
-  },
-  {
-    "id": "article_7a29517a7d72",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Public holiday in Sindh on Wednesday for Shah Abdul Latif Bhittai’s urs",
-    "translated_title": "周三信德省沙阿·阿卜杜勒·拉蒂夫·比泰 (Shah Abdul Latif Bhittai) 的乌鲁斯 (urs) 放假",
-    "url": "https://www.dawn.com/news/2018748/public-holiday-in-sindh-on-wednesday-for-shah-abdul-latif-bhittais-urs",
-    "timestamp": "2026-07-27T13:46:43.542857+00:00",
-    "original_time": "2026-07-27T15:03:10+05:00"
   },
   {
     "id": "article_6b57e10c4857",
@@ -730,118 +850,8 @@
     "title": "Spain races to contain blazes before temperatures rise",
     "translated_title": "西班牙竞相在气温上升前遏制大火",
     "url": "https://www.dawn.com/news/2018742/spain-races-to-contain-blazes-before-temperatures-rise",
-    "timestamp": "2026-07-27T13:46:50.094702+00:00",
+    "timestamp": "2026-07-27T16:26:26.255340+00:00",
     "original_time": "2026-07-27T14:32:28+05:00"
-  },
-  {
-    "id": "article_6a7eda58ece7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Five tankers torched on Quetta-Taftan Highway",
-    "translated_title": "五辆油罐车在奎达-塔夫坦高速公路上被烧毁",
-    "url": "https://www.dawn.com/news/2018650/five-tankers-torched-on-quetta-taftan-highway",
-    "timestamp": "2026-07-27T13:46:55.381161+00:00",
-    "original_time": "2026-07-27T07:31:19+05:00"
-  },
-  {
-    "id": "article_62962db55dfa",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "CORPORATE WINDOW: Productive power of Pak-Iran ties",
-    "translated_title": "企业窗口：白伊关系的生产力",
-    "url": "https://www.dawn.com/news/2018593",
-    "timestamp": "2026-07-27T13:47:04.765063+00:00",
-    "original_time": "2026-07-27T07:31:27+05:00"
-  },
-  {
-    "id": "article_c803e68f8c68",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Global mediation body comes to life after successful first ruling",
-    "translated_title": "全球调解机构在首次裁决成功后正式成立",
-    "url": "https://www.dawn.com/news/2018646/global-mediation-body-comes-to-life-after-successful-first-ruling",
-    "timestamp": "2026-07-27T13:47:08.153879+00:00",
-    "original_time": "2026-07-27T07:31:39+05:00"
-  },
-  {
-    "id": "article_19cd34d5efab",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Central bank keeps policy rate unchanged at 11.5pc",
-    "translated_title": "央行维持政策利率11.5%不变",
-    "url": "https://www.dawn.com/news/2018718/central-bank-keeps-policy-rate-unchanged-at-115pc",
-    "timestamp": "2026-07-27T13:47:27.079243+00:00",
-    "original_time": "2026-07-27T15:53:50+05:00"
-  },
-  {
-    "id": "article_42632f7d97c1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Australian politician fails to overturn racial vilification ruling over telling Muslim senator to go back to Pakistan",
-    "translated_title": "澳大利亚政客未能推翻要求穆斯林参议员返回巴基斯坦的种族诽谤裁决",
-    "url": "https://www.dawn.com/news/2018722/australian-politician-fails-to-overturn-racial-vilification-ruling-over-telling-muslim-senator-to-go-back-to-pakistan",
-    "timestamp": "2026-07-27T13:47:40.544105+00:00",
-    "original_time": "2026-07-27T11:51:02+05:00"
-  },
-  {
-    "id": "article_c539e540e310",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Sindh’s missing water",
-    "translated_title": "信德省缺水",
-    "url": "https://www.dawn.com/news/2018576/sindhs-missing-water",
-    "timestamp": "2026-07-27T13:47:57.114393+00:00",
-    "original_time": "2026-07-27T07:31:27+05:00"
-  },
-  {
-    "id": "article_5b6a574a21c8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Peshawar High Court stops deportation of Afghan cancer patient for 30 days",
-    "translated_title": "白沙瓦高等法院暂停驱逐阿富汗癌症患者 30 天",
-    "url": "https://www.dawn.com/news/2018574/peshawar-high-court-stops-deportation-of-afghan-cancer-patient-for-30-days",
-    "timestamp": "2026-07-27T13:48:08.953779+00:00",
-    "original_time": "2026-07-27T07:32:20+05:00"
-  },
-  {
-    "id": "article_a376ada7cc51",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pipelines to bypass the Strait of Hormuz",
-    "translated_title": "绕过霍尔木兹海峡的管道",
-    "url": "https://www.dawn.com/news/2018582",
-    "timestamp": "2026-07-27T13:48:12.875635+00:00",
-    "original_time": "2026-07-27T07:31:27+05:00"
-  },
-  {
-    "id": "article_f4d11389f2fb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "HIV screening intensified across Sindh's SESSI-run hospitals",
-    "translated_title": "信德省 SESI 运营的医院加强了艾滋病毒筛查",
-    "url": "https://www.dawn.com/news/2018597/hiv-screening-intensified-across-sindhs-sessi-run-hospitals",
-    "timestamp": "2026-07-27T13:48:17.518865+00:00",
-    "original_time": "2026-07-27T07:31:56+05:00"
-  },
-  {
-    "id": "article_bc27432ecdc1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Truck runs over, kills three bikers on Karachi outskirts",
-    "translated_title": "卡拉奇郊区卡车碾压，三名骑自行车的人死亡",
-    "url": "https://www.dawn.com/news/2018620/truck-runs-over-kills-three-bikers-on-karachi-outskirts",
-    "timestamp": "2026-07-27T13:48:24.443050+00:00",
-    "original_time": "2026-07-27T07:31:56+05:00"
-  },
-  {
-    "id": "article_576c44f301bd",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Man’s nose chopped off on suspicion",
-    "translated_title": "男子因怀疑被砍掉鼻子",
-    "url": "https://www.dawn.com/news/2018636",
-    "timestamp": "2026-07-27T13:48:30.023240+00:00",
-    "original_time": "2026-07-27T07:32:01+05:00"
   },
   {
     "id": "article_c6b1f2ecad73",
@@ -850,18 +860,28 @@
     "title": "How cricket could become the Olympics' gateway to India",
     "translated_title": "板球如何成为奥运会进入印度的大门",
     "url": "https://www.dawn.com/news/2018762/how-cricket-could-become-the-olympics-gateway-to-india",
-    "timestamp": "2026-07-27T13:48:34.570811+00:00",
+    "timestamp": "2026-07-27T16:27:08.961668+00:00",
     "original_time": "2026-07-27T17:38:57+05:00"
   },
   {
-    "id": "article_97f22d3d4463",
+    "id": "article_35b4d746a31a",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Victoria Railway Bridge: an enduring symbol of engineering excellence",
-    "translated_title": "维多利亚铁路桥：卓越工程的持久象征",
-    "url": "https://www.dawn.com/news/2018547/victoria-railway-bridge-an-enduring-symbol-of-engineering-excellence",
-    "timestamp": "2026-07-27T13:48:44.485100+00:00",
-    "original_time": "2026-07-27T07:32:10+05:00"
+    "title": "Four men, reportedly Pakistani nationals, gunned down in South Africa",
+    "translated_title": "据报道，四名男子是巴基斯坦国民，在南非被枪杀",
+    "url": "https://www.dawn.com/news/2018768/four-men-reportedly-pakistani-nationals-gunned-down-in-south-africa",
+    "timestamp": "2026-07-27T16:27:12.950173+00:00",
+    "original_time": "2026-07-27T19:03:54+05:00"
+  },
+  {
+    "id": "article_4280b814a524",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2018299/trump-bashes-fake-news-stokes-2028-furore-in-press-gala-rerun",
+    "timestamp": "2026-07-27T16:27:56.893819+00:00",
+    "original_time": "2026-07-27T16:27:56.893778+00:00"
   },
   {
     "id": "article_b54a2ce8d8e3",
@@ -870,148 +890,28 @@
     "title": "India's Cockroach Janta Party demands release of protesters after reports of detention",
     "translated_title": "印度蟑螂简塔党在收到拘留报告后要求释放抗议者",
     "url": "https://www.dawn.com/news/2018741/indias-cockroach-janta-party-demands-release-of-protesters-after-reports-of-detention",
-    "timestamp": "2026-07-27T13:49:06.563797+00:00",
+    "timestamp": "2026-07-27T16:28:33.583366+00:00",
     "original_time": "2026-07-27T13:54:41+05:00"
   },
   {
-    "id": "article_190621340c8e",
+    "id": "article_9122fdd9ab14",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Japanese monk asks Buddhists to visit Taxila for peace prayers",
-    "translated_title": "日本僧侣邀请佛教徒前往塔克西拉祈求和平",
-    "url": "https://www.dawn.com/news/2018551/japanese-monk-asks-buddhists-to-visit-taxila-for-peace-prayers",
-    "timestamp": "2026-07-27T13:49:10.641163+00:00",
-    "original_time": "2026-07-27T07:32:09+05:00"
+    "title": "In meeting with CDF Munir, US congressmen acknowledge Pakistan's 'critical role' in regional stability: ISPR",
+    "translated_title": "在与 CDF 穆尼尔会面时，美国国会议员承认巴基斯坦在地区稳定中的“关键作用”：ISPR",
+    "url": "https://www.dawn.com/news/2018779/in-meeting-with-cdf-munir-us-congressmen-acknowledge-pakistans-critical-role-in-regional-stability-ispr",
+    "timestamp": "2026-07-27T16:29:18.405787+00:00",
+    "original_time": "2026-07-27T20:12:24+05:00"
   },
   {
-    "id": "article_c027d52111b1",
+    "id": "article_e33add95dc25",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Chinese university investigating  girl’s death in gene-editing trial",
-    "translated_title": "中国大学调查基因编辑试验中女孩的死亡",
-    "url": "https://www.dawn.com/news/2018634/chinese-university-investigating-girls-death-in-gene-editing-trial",
-    "timestamp": "2026-07-27T13:49:23.674569+00:00",
-    "original_time": "2026-07-27T07:31:40+05:00"
-  },
-  {
-    "id": "article_06cd21ea2ac8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Mangroves shield shores from climate impacts: minister",
-    "translated_title": "红树林保护海岸免受气候影响：部长",
-    "url": "https://www.dawn.com/news/2018656/mangroves-shield-shores-from-climate-impacts-minister",
-    "timestamp": "2026-07-27T13:50:05.533606+00:00",
-    "original_time": "2026-07-27T07:31:19+05:00"
-  },
-  {
-    "id": "article_e61a27bfc6f8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Mandokhail vows lasting peace and stability in Balochistan",
-    "translated_title": "曼多凯尔誓言俾路支省实现持久和平与稳定",
-    "url": "https://www.dawn.com/news/2018651/mandokhail-vows-lasting-peace-and-stability-in-balochistan",
-    "timestamp": "2026-07-27T13:50:10.916184+00:00",
-    "original_time": "2026-07-27T07:31:19+05:00"
-  },
-  {
-    "id": "article_95ef27c23d1a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Under-invoiced Chinese fabric flooding open market: ginners",
-    "translated_title": "低发票中国面料涌入开放市场：轧花厂",
-    "url": "https://www.dawn.com/news/2018638/under-invoiced-chinese-fabric-flooding-open-market-ginners",
-    "timestamp": "2026-07-27T13:50:26.527898+00:00",
-    "original_time": "2026-07-27T07:32:01+05:00"
-  },
-  {
-    "id": "article_d73e855bb0f2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Under the shadow of melting monoliths",
-    "translated_title": "在融化的巨石的阴影下",
-    "url": "https://www.dawn.com/news/2018685",
-    "timestamp": "2026-07-27T13:50:34.118922+00:00",
-    "original_time": "2026-07-27T07:31:12+05:00"
-  },
-  {
-    "id": "article_562a8a8b1cee",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "President, PM, others return gifts to Toshakhana",
-    "translated_title": "总统、总理等人向托沙卡纳归还礼物",
-    "url": "https://www.dawn.com/news/2018662/president-pm-others-return-gifts-to-toshakhana",
-    "timestamp": "2026-07-27T13:50:42.415692+00:00",
-    "original_time": "2026-07-27T07:17:39+05:00"
-  },
-  {
-    "id": "article_ff157db4a44e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Polling concludes in Mirpur division as scuffles, rigging allegations mar first phase of AJK elections",
-    "translated_title": "米尔普尔分区的投票结束，AJK 选举第一阶段出现混战和舞弊指控",
-    "url": "https://www.dawn.com/news/2018691/polling-concludes-in-mirpur-division-as-scuffles-rigging-allegations-mar-first-phase-of-ajk-elections",
-    "timestamp": "2026-07-27T13:50:54.726265+00:00",
-    "original_time": "2026-07-27T08:00:40+05:00"
-  },
-  {
-    "id": "article_49b9bc489168",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Charging for Hormuz",
-    "translated_title": "霍尔木兹收费",
-    "url": "https://www.dawn.com/news/2018680",
-    "timestamp": "2026-07-27T13:51:26.395809+00:00",
-    "original_time": "2026-07-27T07:32:27+05:00"
-  },
-  {
-    "id": "article_0cfede68cdaf",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Why coercion doesn’t work",
-    "translated_title": "为什么强制不起作用",
-    "url": "https://www.dawn.com/news/2018681/why-coercion-doesnt-work",
-    "timestamp": "2026-07-27T13:51:45.938461+00:00",
-    "original_time": "2026-07-27T07:32:27+05:00"
-  },
-  {
-    "id": "article_03dc3361d653",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Swat’s first renal transplant conducted at Saidu hospital",
-    "translated_title": "斯瓦特首例肾移植手术在赛杜医院进行",
-    "url": "https://www.dawn.com/news/2018564/swats-first-renal-transplant-conducted-at-saidu-hospital",
-    "timestamp": "2026-07-27T13:51:55.244069+00:00",
-    "original_time": "2026-07-27T07:32:21+05:00"
-  },
-  {
-    "id": "article_b6b1030915e3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Green alternatives to oil dependence",
-    "translated_title": "石油依赖的绿色替代品",
-    "url": "https://www.dawn.com/news/2018583",
-    "timestamp": "2026-07-27T13:52:09.342809+00:00",
-    "original_time": "2026-07-27T07:31:27+05:00"
-  },
-  {
-    "id": "article_0e1061567f45",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "FO condemns Indian minister's remarks on Kashmir issue, warns against underestimating resolve to thwart 'any adventurism'",
-    "translated_title": "FO谴责印度部长关于克什米尔问题的言论，警告不要低估阻止“任何冒险主义”的决心",
-    "url": "https://www.dawn.com/news/2018711/fo-condemns-indian-ministers-remarks-on-kashmir-issue-warns-against-underestimating-resolve-to-thwart-any-adventurism",
-    "timestamp": "2026-07-27T13:52:14.663812+00:00",
-    "original_time": "2026-07-27T09:26:34+05:00"
-  },
-  {
-    "id": "article_494846dc5d62",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Anti-Taliban outfit claims attacks on Afghan forces",
-    "translated_title": "反塔利班组织声称袭击了阿富汗军队",
-    "url": "https://www.dawn.com/news/2018648/anti-taliban-outfit-claims-attacks-on-afghan-forces",
-    "timestamp": "2026-07-27T13:52:21.318605+00:00",
-    "original_time": "2026-07-27T07:31:19+05:00"
+    "title": "Petroleum minister hints at fuel price relief after Pakistan’s oil cargoes clear Bab-al-Mandeb",
+    "translated_title": "巴基斯坦石油货物通过曼德海峡后，石油部长暗示将下调燃油价格",
+    "url": "https://www.dawn.com/news/2018766/petroleum-minister-hints-at-fuel-price-relief-after-pakistans-oil-cargoes-clear-bab-al-mandeb",
+    "timestamp": "2026-07-27T16:30:05.527051+00:00",
+    "original_time": "2026-07-27T18:22:31+05:00"
   },
   {
     "id": "article_9ee9a4b5a48c",
@@ -1020,168 +920,88 @@
     "title": "PSX opens week in the green, gains more than 7,000 points to close above 178,000 mark",
     "translated_title": "PSX 本周开盘上涨，上涨逾 7,000 点，收于 178,000 点上方",
     "url": "https://www.dawn.com/news/2018715/psx-opens-week-in-the-green-gains-more-than-7000-points-to-close-above-178000-mark",
-    "timestamp": "2026-07-27T13:52:26.819661+00:00",
+    "timestamp": "2026-07-27T16:30:39.923911+00:00",
     "original_time": "2026-07-27T10:01:41+05:00"
   },
   {
-    "id": "article_6b7a9b19b115",
+    "id": "article_6b4cd47d2737",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Water supply to parts of Karachi resumes after power at Dhabeji pumping station restored",
-    "translated_title": "Dhabeji 泵站恢复供电后，卡拉奇部分地区恢复供水",
-    "url": "https://www.dawn.com/news/2018724/water-supply-to-parts-of-karachi-resumes-after-power-at-dhabeji-pumping-station-restored",
-    "timestamp": "2026-07-27T13:52:32.212179+00:00",
-    "original_time": "2026-07-27T12:38:26+05:00"
+    "title": "Islamabad court extends physical remand of PAF officer’s alleged killer by seven days",
+    "translated_title": "伊斯兰堡法院将涉嫌杀害巴基斯坦空军军官的还押候审期限延长 7 天",
+    "url": "https://www.dawn.com/news/2018777/islamabad-court-extends-physical-remand-of-paf-officers-alleged-killer-by-seven-days",
+    "timestamp": "2026-07-27T16:31:50.573458+00:00",
+    "original_time": "2026-07-27T19:52:31+05:00"
   },
   {
-    "id": "article_78dc4a900e57",
+    "id": "article_19cd34d5efab",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Rebounding inflation, fiscal pressures threaten recovery",
-    "translated_title": "通胀反弹，财政压力威胁复苏",
-    "url": "https://www.dawn.com/news/2018654",
-    "timestamp": "2026-07-27T13:52:37.722881+00:00",
-    "original_time": "2026-07-27T07:31:19+05:00"
+    "title": "Central bank keeps policy rate unchanged at 11.5pc",
+    "translated_title": "央行维持政策利率11.5%不变",
+    "url": "https://www.dawn.com/news/2018718/central-bank-keeps-policy-rate-unchanged-at-115pc",
+    "timestamp": "2026-07-27T16:32:00.811521+00:00",
+    "original_time": "2026-07-27T15:53:50+05:00"
   },
   {
-    "id": "article_ce334ffd0d6a",
+    "id": "article_314b93b9f5ed",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Still unprepared",
-    "translated_title": "还没有准备好",
-    "url": "https://www.dawn.com/news/2018676",
-    "timestamp": "2026-07-27T13:52:48.718492+00:00",
-    "original_time": "2026-07-27T07:32:45+05:00"
+    "title": "Pakistan tells global watchdog polio eradication is within reach, insecurity in KP remains biggest hurdle",
+    "translated_title": "巴基斯坦告诉全球监管机构根除脊髓灰质炎已指日可待，开伯尔省的不安全局势仍然是最大障碍",
+    "url": "https://www.dawn.com/news/2018773/pakistan-tells-global-watchdog-polio-eradication-is-within-reach-insecurity-in-kp-remains-biggest-hurdle",
+    "timestamp": "2026-07-27T16:32:23.026689+00:00",
+    "original_time": "2026-07-27T19:23:05+05:00"
   },
   {
-    "id": "article_38c33982a906",
+    "id": "article_0e1061567f45",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Immigration surge a factor in rise of  MAGA-like sentiments in Japan",
-    "translated_title": "移民激增是日本“MAGA”情绪高涨的一个因素",
-    "url": "https://www.dawn.com/news/2018645/immigration-surge-a-factor-in-rise-of-maga-like-sentiments-in-japan",
-    "timestamp": "2026-07-27T13:52:53.711383+00:00",
-    "original_time": "2026-07-27T07:31:39+05:00"
+    "title": "FO condemns Indian minister's remarks on Kashmir issue, warns against underestimating resolve to thwart 'any adventurism'",
+    "translated_title": "FO谴责印度部长关于克什米尔问题的言论，警告不要低估阻止“任何冒险主义”的决心",
+    "url": "https://www.dawn.com/news/2018711/fo-condemns-indian-ministers-remarks-on-kashmir-issue-warns-against-underestimating-resolve-to-thwart-any-adventurism",
+    "timestamp": "2026-07-27T16:32:53.874467+00:00",
+    "original_time": "2026-07-27T09:26:34+05:00"
   },
   {
-    "id": "article_4bd7406cca30",
+    "id": "article_98aa3043831b",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Govt, oil tanker association agree to form committee to address issues within two weeks",
-    "translated_title": "政府和油轮协会同意成立委员会在两周内解决问题",
-    "url": "https://www.dawn.com/news/2018766/govt-oil-tanker-association-agree-to-form-committee-to-address-issues-within-two-weeks",
-    "timestamp": "2026-07-27T13:52:59.643789+00:00",
-    "original_time": "2026-07-27T18:22:31+05:00"
+    "title": "Oil prices near one-week low after US, Iran pause fighting over weekend",
+    "translated_title": "美国和伊朗周末暂停战斗后油价接近一周低点",
+    "url": "https://www.dawn.com/news/2018729/oil-prices-near-one-week-low-after-us-iran-pause-fighting-over-weekend",
+    "timestamp": "2026-07-27T16:33:28.270672+00:00",
+    "original_time": "2026-07-27T12:45:33+05:00"
   },
   {
-    "id": "article_cccd6bf54c93",
+    "id": "article_9885989fe331",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Mass shooting kills 3, wounds 4 near Space Needle landmark in Seattle",
-    "translated_title": "西雅图太空针塔地标附近发生大规模枪击事件，造成 3 人死亡、4 人受伤",
-    "url": "https://www.dawn.com/news/2018716/mass-shooting-kills-3-wounds-4-near-space-needle-landmark-in-seattle",
-    "timestamp": "2026-07-27T13:53:06.192548+00:00",
-    "original_time": "2026-07-27T10:41:08+05:00"
+    "title": "Modi faces challenge from activists over surveillance at India youth protest",
+    "translated_title": "莫迪因监控印度青年抗议活动而面临活动人士的挑战",
+    "url": "https://www.dawn.com/news/2018775/modi-faces-challenge-from-activists-over-surveillance-at-india-youth-protest",
+    "timestamp": "2026-07-27T16:34:04.530770+00:00",
+    "original_time": "2026-07-27T19:10:24+05:00"
   },
   {
-    "id": "article_807750cfc33a",
+    "id": "article_42632f7d97c1",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "TikToker, friends booked for attacking women",
-    "translated_title": "TikToker和朋友因袭击女性而被拘留",
-    "url": "https://www.dawn.com/news/2018642",
-    "timestamp": "2026-07-27T13:53:15.673261+00:00",
-    "original_time": "2026-07-27T07:32:01+05:00"
+    "title": "Australian politician fails to overturn racial vilification ruling over telling Muslim senator to go back to Pakistan",
+    "translated_title": "澳大利亚政客未能推翻要求穆斯林参议员返回巴基斯坦的种族诽谤裁决",
+    "url": "https://www.dawn.com/news/2018722/australian-politician-fails-to-overturn-racial-vilification-ruling-over-telling-muslim-senator-to-go-back-to-pakistan",
+    "timestamp": "2026-07-27T16:34:11.592811+00:00",
+    "original_time": "2026-07-27T11:51:02+05:00"
   },
   {
-    "id": "article_c3eab901de14",
+    "id": "article_b34fff1d2dcc",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "PPP slams Muttahida leaders for new provinces demand",
-    "translated_title": "PPP猛烈抨击Muttahida领导人的新省份要求",
-    "url": "https://www.dawn.com/news/2018618/ppp-slams-muttahida-leaders-for-new-provinces-demand",
-    "timestamp": "2026-07-27T13:53:25.668210+00:00",
-    "original_time": "2026-07-27T07:31:56+05:00"
-  },
-  {
-    "id": "article_4930731249c3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pothole-riddled Gulistan-i-Jauhar roads turn daily travel into an exhausting ordeal",
-    "translated_title": "坑坑洼洼的古利斯坦焦哈尔道路让日常出行变成了一场令人筋疲力尽的考验",
-    "url": "https://www.dawn.com/news/2018622",
-    "timestamp": "2026-07-27T13:53:40.790431+00:00",
-    "original_time": "2026-07-27T07:31:46+05:00"
-  },
-  {
-    "id": "article_473910aecf53",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Aleema urges PTI workers to prepare for march to Adiala Jail",
-    "translated_title": "Aleema 敦促 PTI 工作人员为前往阿迪亚拉监狱的游行做好准备",
-    "url": "https://www.dawn.com/news/2018569/aleema-urges-pti-workers-to-prepare-for-march-to-adiala-jail",
-    "timestamp": "2026-07-27T13:53:45.788107+00:00",
-    "original_time": "2026-07-27T07:32:20+05:00"
-  },
-  {
-    "id": "article_d2ff796a3cf2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "6 colleges function without sanctioned staff in Islamabad",
-    "translated_title": "伊斯兰堡 6 所大学在没有受制裁人员的情况下运作",
-    "url": "https://www.dawn.com/news/2018553/6-colleges-function-without-sanctioned-staff-in-islamabad",
-    "timestamp": "2026-07-27T13:54:03.678880+00:00",
-    "original_time": "2026-07-27T07:32:09+05:00"
-  },
-  {
-    "id": "article_c1c6328a678a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Ambitious AI steps",
-    "translated_title": "雄心勃勃的人工智能步骤",
-    "url": "https://www.dawn.com/news/2018578",
-    "timestamp": "2026-07-27T13:54:09.902922+00:00",
-    "original_time": "2026-07-27T07:31:27+05:00"
-  },
-  {
-    "id": "article_779b55fd8850",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Lull in Iran, US fighting ‘achieved by fresh round of diplomacy’",
-    "translated_title": "伊朗局势平静，美国战事“通过新一轮外交实现”",
-    "url": "https://www.dawn.com/news/2018664",
-    "timestamp": "2026-07-27T13:54:36.857349+00:00",
-    "original_time": "2026-07-27T07:28:31+05:00"
-  },
-  {
-    "id": "article_9e8d34edb2f8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Karachi's Munawar Chowrangi underpass opened to traffic",
-    "translated_title": "卡拉奇 Munawar Chowrangi 地下通道建成通车",
-    "url": "https://www.dawn.com/news/2018619/karachis-munawar-chowrangi-underpass-opened-to-traffic",
-    "timestamp": "2026-07-27T13:55:04.094200+00:00",
-    "original_time": "2026-07-27T07:31:56+05:00"
-  },
-  {
-    "id": "article_83bbfd137b4d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "17 flood relief camps made operational in Lahore division",
-    "translated_title": "拉合尔分区 17 个防洪救援营地投入使用",
-    "url": "https://www.dawn.com/news/2018643/17-flood-relief-camps-made-operational-in-lahore-division",
-    "timestamp": "2026-07-27T13:55:31.208796+00:00",
-    "original_time": "2026-07-27T07:32:01+05:00"
-  },
-  {
-    "id": "article_4b8923b914f3",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "India beat Pakistan to retain Youth Hockey5s Asian title",
-    "translated_title": "印度击败巴基斯坦卫冕青少年冰球五人赛亚洲冠军",
-    "url": "https://www.dawn.com/news/2018608/india-beat-pakistan-to-retain-youth-hockey5s-asian-title",
-    "timestamp": "2026-07-27T13:55:37.813520+00:00",
-    "original_time": "2026-07-27T07:31:33+05:00"
+    "title": "Newly appointed CNSC Aamer Raza meets CDF Asim Munir in Rawalpindi: ISPR",
+    "translated_title": "新任命的 CNSC Aamer Raza 在拉瓦尔品第会见 CDF Asim Munir：ISPR",
+    "url": "https://www.dawn.com/news/2018788/newly-appointed-cnsc-aamer-raza-meets-cdf-asim-munir-in-rawalpindi-ispr",
+    "timestamp": "2026-07-27T16:35:08.317026+00:00",
+    "original_time": "2026-07-27T21:06:17+05:00"
   },
   {
     "id": "article_e1034bebe420",
@@ -1190,67 +1010,37 @@
     "title": "I’m on an admissions committee and universities need to talk about this",
     "translated_title": "我是招生委员会的成员，大学需要讨论这个问题",
     "url": "https://www.dawn.com/news/2018720/im-on-an-admissions-committee-and-universities-need-to-talk-about-this",
-    "timestamp": "2026-07-27T13:55:54.680374+00:00",
+    "timestamp": "2026-07-27T16:35:12.214850+00:00",
     "original_time": "2026-07-27T12:30:16+05:00"
   },
   {
-    "id": "article_2af8d89ced3e",
+    "id": "article_6b7a9b19b115",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Lebanon army blames Israel for deployment halt",
-    "translated_title": "黎巴嫩军队指责以色列停止部署",
-    "url": "https://www.dawn.com/news/2018626/lebanon-army-blames-israel-for-deployment-halt",
-    "timestamp": "2026-07-27T13:56:00.222663+00:00",
-    "original_time": "2026-07-27T07:31:40+05:00"
+    "title": "Water supply to parts of Karachi resumes after power at Dhabeji pumping station restored",
+    "translated_title": "Dhabeji 泵站恢复供电后，卡拉奇部分地区恢复供水",
+    "url": "https://www.dawn.com/news/2018724/water-supply-to-parts-of-karachi-resumes-after-power-at-dhabeji-pumping-station-restored",
+    "timestamp": "2026-07-27T16:35:18.603290+00:00",
+    "original_time": "2026-07-27T12:38:26+05:00"
   },
   {
-    "id": "article_c96b0e130645",
+    "id": "article_cccd6bf54c93",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Naqvi inaugurates modern Frontier Corps hospital in Turbat",
-    "translated_title": "纳克维在图尔巴特为现代化边防部队医院揭幕",
-    "url": "https://www.dawn.com/news/2018652/naqvi-inaugurates-modern-frontier-corps-hospital-in-turbat",
-    "timestamp": "2026-07-27T13:56:15.796147+00:00",
-    "original_time": "2026-07-27T07:31:19+05:00"
+    "title": "Mass shooting kills 3, wounds 4 near Space Needle landmark in Seattle",
+    "translated_title": "西雅图太空针塔地标附近发生大规模枪击事件，造成 3 人死亡、4 人受伤",
+    "url": "https://www.dawn.com/news/2018716/mass-shooting-kills-3-wounds-4-near-space-needle-landmark-in-seattle",
+    "timestamp": "2026-07-27T16:35:48.518071+00:00",
+    "original_time": "2026-07-27T10:41:08+05:00"
   },
   {
-    "id": "article_507321123d54",
+    "id": "article_7a29517a7d72",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Teenage girl killed over marriage proposal refusal in Toba Tek Singh",
-    "translated_title": "托巴泰克辛格（Toba Tek Singh）一名少女因拒绝求婚而被杀",
-    "url": "https://www.dawn.com/news/2018562/teenage-girl-killed-over-marriage-proposal-refusal-in-toba-tek-singh",
-    "timestamp": "2026-07-27T13:56:24.424285+00:00",
-    "original_time": "2026-07-27T07:32:01+05:00"
-  },
-  {
-    "id": "article_1f44529f91b1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "KP health dept’s request to medical teaching institutions about sharing dengue data falls on deaf ears",
-    "translated_title": "KP卫生部门向医学教学机构提出共享登革热数据的要求却被置若罔闻",
-    "url": "https://www.dawn.com/news/2018571/kp-health-depts-request-to-medical-teaching-institutions-about-sharing-dengue-data-falls-on-deaf-ears",
-    "timestamp": "2026-07-27T13:56:30.843899+00:00",
-    "original_time": "2026-07-27T07:32:20+05:00"
-  },
-  {
-    "id": "article_dd9ddb471bb8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan needs water security policy to tackle flood risks, says report",
-    "translated_title": "报告称巴基斯坦需要水安全政策来应对洪水风险",
-    "url": "https://www.dawn.com/news/2018549/pakistan-needs-water-security-policy-to-tackle-flood-risks-says-report",
-    "timestamp": "2026-07-27T13:56:37.010461+00:00",
-    "original_time": "2026-07-27T07:32:09+05:00"
-  },
-  {
-    "id": "article_01fbe543962f",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan seize control but Hope, Joseph fight on as West Indies reach 303-7 at lunch",
-    "translated_title": "巴基斯坦夺取控制权，但霍普、约瑟夫继续奋战，西印度群岛队午餐时以 303-7 获胜",
-    "url": "https://www.dawn.com/news/2018615/pakistan-seize-control-but-hope-joseph-fight-on-as-west-indies-reach-303-7-at-lunch",
-    "timestamp": "2026-07-27T13:57:03.801330+00:00",
-    "original_time": "2026-07-27T07:31:33+05:00"
+    "title": "Public holiday in Sindh on Wednesday for Shah Abdul Latif Bhittai’s urs",
+    "translated_title": "周三信德省沙阿·阿卜杜勒·拉蒂夫·比泰 (Shah Abdul Latif Bhittai) 的乌鲁斯 (urs) 放假",
+    "url": "https://www.dawn.com/news/2018748/public-holiday-in-sindh-on-wednesday-for-shah-abdul-latif-bhittais-urs",
+    "timestamp": "2026-07-27T16:36:42.956819+00:00",
+    "original_time": "2026-07-27T15:03:10+05:00"
   }
 ]
