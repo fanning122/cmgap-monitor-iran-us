@@ -1,27 +1,5 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_2423116819450459865",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "PR No./Pakistan Welcomes Positive Developments Towards the Implementation of the Gaza Peace Plan",
-    "translated_text": "PR No./巴基斯坦欢迎加沙和平计划实施方面的积极进展",
-    "images": [
-      "6b2cfb320981d1a0.svg",
-      "49b80fa86f503c69.svg",
-      "965df5b38019fba9.svg",
-      "ea3e78272d881b94.svg",
-      "59563c1a40d3d73b.svg",
-      "6dd70089c15d9c8c.svg",
-      "42c644bbf48e04fc.svg",
-      "6927007c5e94b687.svg",
-      "1d7695f51048fca1.svg",
-      "ef1237b02534b0e2.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/2423116819450459865",
-    "timestamp": "2026-08-01T19:21:47.257505+00:00",
-    "original_time": "2026-08-01T08:50:13+00:00"
-  },
-  {
     "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
     "username": "MIshaqDar50",
@@ -31,11 +9,50 @@
       "a744d094593f3f44.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-08-01T19:22:02.441574+00:00",
+    "timestamp": "2026-08-01T20:54:06.019898+00:00",
     "original_time": "2026-08-01T15:24:37+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7113939258250993664",
+    "id": "tweet_PakTVGlobal_1129293765062405152",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Renewed strikes are likely to continue, with the conflict moving from intense warfare to low-intensity warfare due to the inability of the attacking side to sustain high-intensity operations for a long period. The pause in fighting was likely driven by the need to regroup and",
+    "translated_text": "由于进攻方无法长期维持高强度作战，冲突可能会继续从激烈战争转向低强度战争。战斗的暂停可能是由于需要重新集结和",
+    "images": [
+      "c340ef30546d4c9f.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1129293765062405152",
+    "timestamp": "2026-08-01T20:55:35.232074+00:00",
+    "original_time": "2026-08-01T20:39:51+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-4062806540288465424",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The Trump administration still has the ability to make policy choices that could improve or worsen the situation in the Middle East. One possible path is engaging with Iran over the Strait of Hormuz. However, Iran remains concerned that US diplomacy could be a cover for future",
+    "translated_text": "特朗普政府仍有能力做出可能改善或恶化中东局势的政策选择。一种可能的途径是通过霍尔木兹海峡与伊朗接触。然而，伊朗仍然担心美国的外交可能成为未来的掩护。",
+    "images": [
+      "ef339b1b1385a4aa.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-4062806540288465424",
+    "timestamp": "2026-08-01T20:55:36.290392+00:00",
+    "original_time": "2026-08-01T20:30:56+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_5901682370599576910",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Amnesty International says India sent weapons to Israel during the war in Gaza despite the real risk that these weapons could be used in the ongoing genocide against Palestinians. Amnesty International Secretary General Agnès Callamard said that, despite having full knowledge,",
+    "translated_text": "国际特赦组织表示，印度在加沙战争期间向以色列提供了武器，尽管这些武器确实存在可能被用于针对巴勒斯坦人的种族灭绝的风险。国际特赦组织秘书长阿涅斯·卡拉马尔表示，尽管完全知情，",
+    "images": [
+      "1a6b7cf4172951b2.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/5901682370599576910",
+    "timestamp": "2026-08-01T20:55:37.780506+00:00",
+    "original_time": "2026-08-01T20:08:46+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_8743833188763021128",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Setting aside their own summit ambitions in a powerful act of solidarity, K2 expedition teams have joined the Broad Peak rescue mission, reinforcing one of the Karakoram's largest high-altitude rescue efforts. Despite extreme weather, avalanche risks, and unforgiving terrain,",
@@ -43,12 +60,12 @@
     "images": [
       "040ba6ecd5b13f88.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-7113939258250993664",
-    "timestamp": "2026-08-01T19:23:30.713731+00:00",
+    "url": "https://x.com/PakTVGlobal/status/8743833188763021128",
+    "timestamp": "2026-08-01T20:55:38.059328+00:00",
     "original_time": "2026-08-01T19:03:18+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3206200045878634255",
+    "id": "tweet_PakTVGlobal_-6314163364903022233",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "The disruption is significant. Since March, there has been a near-total disruption of traffic through the Strait of Hormuz, with only a short exception after the MOU before traffic collapsed again: Dr. Frederic Schneider, GCC Economist#StraitOfHormuz#GulfCrisis#OilMarkets",
@@ -56,62 +73,51 @@
     "images": [
       "5a3d9cf7537a0dfb.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3206200045878634255",
-    "timestamp": "2026-08-01T19:23:32.335523+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-6314163364903022233",
+    "timestamp": "2026-08-01T20:55:38.422084+00:00",
     "original_time": "2026-08-01T18:51:50+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_335929176410183474",
+    "id": "tweet_PakTVGlobal_-5896392912552599212",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Pakistan is highly vulnerable to developments in the Gulf region. Its reliance on oil from the Gulf means any disruption could increase inflation in Pakistan and reduce remittances from the Gulf, leaving the country affected by what is happening in the region: Dr. Mohammad Yaghi,",
-    "translated_text": "巴基斯坦极易受到海湾地区事态发展的影响。它对海湾石油的依赖意味着任何中断都可能增加巴基斯坦的通货膨胀并减少来自海湾的汇款，使该国受到该地区正在发生的事情的影响：Mohammad Yaghi 博士，",
+    "text": "Geopolitical Analyst Einar Tangen, speaking from Beijing, says hopes for a lasting Gaza ceasefire remain uncertain despite proposals for an international peacekeeping force and post-war governance. He says that major disagreements between Israel and Hamas, along with the scale of",
+    "translated_text": "地缘政治分析师埃纳尔·坦根在北京表示，尽管提出了建立国际维和部队和战后治理的建议，但加沙持久停火的希望仍然不确定。他说，以色列和哈马斯之间存在重大分歧，而且规模也很大。",
     "images": [
-      "4f0ea1101c9f1885.jpg"
+      "6563689781f70db6.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/335929176410183474",
-    "timestamp": "2026-08-01T19:23:33.260167+00:00",
-    "original_time": "2026-08-01T18:41:38+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-5896392912552599212",
+    "timestamp": "2026-08-01T20:55:40.738400+00:00",
+    "original_time": "2026-08-01T16:08:25+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7545827204652600956",
+    "id": "tweet_PakTVGlobal_-1782742139867489590",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Oil market fundamentals are tightening as physical flows through the Strait of Hormuz remain disrupted, but speculation and headlines continue to drive prices. Alternative Gulf export routes are too vulnerable and constrained to reliably replace the strategic waterway: Homayoun",
-    "translated_text": "由于霍尔木兹海峡的实物流动仍然受到干扰，石油市场基本面正在收紧，但投机和头条新闻继续推动价格上涨。替代的海湾出口路线太脆弱并且受到限制，无法可靠地取代战略水道：Homayoun",
+    "text": "Security Analyst Sumaira Khan says Pakistan is confronting both internal and external security challenges while continuing to secure its border with Afghanistan largely on its own. She says Islamabad has exercised restraint for years, strengthened border management through",
+    "translated_text": "安全分析师苏迈拉·汗表示，巴基斯坦正面临内部和外部安全挑战，同时继续主要依靠自己的力量确保其与阿富汗边境的安全。她说伊斯兰堡多年来一直保持克制，通过加强边境管理",
     "images": [
-      "c672dcdee6c4eb2b.jpg"
+      "237eb6210fbc3023.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/7545827204652600956",
-    "timestamp": "2026-08-01T19:23:34.728919+00:00",
-    "original_time": "2026-08-01T18:39:36+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-1782742139867489590",
+    "timestamp": "2026-08-01T20:55:41.113947+00:00",
+    "original_time": "2026-08-01T15:44:08+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3162652314620203068",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "President Trump visited U.S. troops in New Jersey, meeting with service members amid heightened international tensions.\n\nDisclaimer: This video is intended for informational and editorial use only. All footage, visuals, and referenced content are the property of their respective",
-    "translated_text": "特朗普总统在国际紧张局势加剧之际访问了新泽西州的美军，会见了军人。\n\n免责声明：该视频仅供参考和编辑用途。所有素材、视觉效果和引用内容均为其各自的财产",
-    "images": [
-      "7eae934b086ccd99.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3162652314620203068",
-    "timestamp": "2026-08-01T19:23:35.973767+00:00",
-    "original_time": "2026-08-01T18:28:37+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_6927186562001278672",
+    "id": "tweet_PakTVGlobal_394046462985346780",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "\"Pakistan must tackle terrorism across its full spectrum, not just through military operations, but also by dismantling financing networks, support systems and hate infrastructure,\" says Khurram Dastgir, Leader of the PML-N. He says the National Action Plan remains a vital",
     "translated_text": "PML-N 领导人库拉姆·达斯特吉尔表示：“巴基斯坦必须全方位应对恐怖主义，不仅要通过军事行动，还要摧毁融资网络、支持系统和仇恨基础设施。”他表示，国家行动计划仍然至关重要",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/6927186562001278672",
-    "timestamp": "2026-08-01T19:23:38.195801+00:00",
+    "images": [
+      "2eb6d0980abe67bb.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/394046462985346780",
+    "timestamp": "2026-08-01T20:55:41.411453+00:00",
     "original_time": "2026-08-01T15:37:36+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3681551383990020526",
+    "id": "tweet_PakTVGlobal_-5236515308380051674",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "The World Health Organization has warned that the Ebola outbreak in the Democratic Republic of Congo is intensifying at an \"exceptional\" pace, making it the country's largest recorded Ebola outbreak. With no approved vaccine or treatment for the Bundibugyo strain, the WHO is",
@@ -119,12 +125,12 @@
     "images": [
       "c2800917760b859e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3681551383990020526",
-    "timestamp": "2026-08-01T19:23:38.444819+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-5236515308380051674",
+    "timestamp": "2026-08-01T20:55:41.695492+00:00",
     "original_time": "2026-08-01T14:43:37+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_1172030076024994951",
+    "id": "tweet_PakTVGlobal_1338330655726044044",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Afghanistan’s human rights crisis is deepening, according to a new UN report, which documents growing restrictions on media freedom, arbitrary arrests, torture, corporal punishment and worsening conditions for women and girls under the Taliban rule. The United Nations is urging",
@@ -132,138 +138,161 @@
     "images": [
       "f2aee989641e9352.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/1172030076024994951",
-    "timestamp": "2026-08-01T19:23:38.723224+00:00",
+    "url": "https://x.com/PakTVGlobal/status/1338330655726044044",
+    "timestamp": "2026-08-01T20:55:42.078772+00:00",
     "original_time": "2026-08-01T13:53:36+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-148582412339453838",
+    "id": "tweet_CBSNews_-2329210028720401532",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "\"A limited conflict could reshape the diplomatic landscape but an all-out war would come at a far greater cost,\" says Tanweer Ahmed, Geopolitical Analyst, speaking from Houston, United States. He says Iran appears to be seeking greater influence over future navigation",
-    "translated_text": "“有限的冲突可能会重塑外交格局，但全面战争将付出更大的代价，”地缘政治分析师坦维尔·艾哈迈德在美国休斯敦发表讲话时表示。他表示伊朗似乎正在寻求对未来航行施加更大影响",
+    "username": "CBSNews",
+    "text": "\"The world has lost one of the mountaineering's greatest climbers;\" Elite Exped wrote in a post on Saturday confirming famed British-Nepali climber Nirmal Purja and nine other climbers were killed after being swept away by an avalanche on Pakistan's Broad Peak earlier this week.",
+    "translated_text": "“世界失去了登山界最伟大的登山者之一；” Elite Exped 周六在一篇文章中写道，确认著名的英国-尼泊尔登山者 Nirmal Purja 和其他九名登山者在本周早些时候在巴基斯坦布洛阿特峰被雪崩卷走后丧生。",
     "images": [
-      "bdfacc4202ed13f3.jpg"
+      "98e7c6376ba216aa.jpg",
+      "48759b372980cf81.jpg",
+      "b3e4dd6a58b8039d.jpg",
+      "531db91434edd6b0.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-148582412339453838",
-    "timestamp": "2026-08-01T19:23:40.242257+00:00",
-    "original_time": "2026-08-01T13:48:12+00:00"
+    "url": "https://x.com/CBSNews/status/-2329210028720401532",
+    "timestamp": "2026-08-01T20:58:20.771961+00:00",
+    "original_time": "2026-08-01T20:57:31+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_4799356544825651862",
+    "id": "tweet_CBSNews_7522467811831120790",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Seven Indian-sponsored terrorists, including a suicide bomber, were eliminated during an intelligence-based operation by Pakistani security forces in Nushki, Balochistan. \"The relentless counter-terrorism campaign under Azm-e-Istehkam will continue at full pace to wipe out the",
-    "translated_text": "巴基斯坦安全部队在俾路支省努什基的一次情报行动中消灭了七名印度支持的恐怖分子，其中包括一名自杀式炸弹袭击者。 “在 Azm-e-Istehkam 的领导下，我们将继续全速开展无情的反恐行动，以消灭",
+    "username": "CBSNews",
+    "text": "Wildfire danger in Europe shifts to Greece as evacuation orders remain in France",
+    "translated_text": "法国仍保留疏散令，欧洲野火危险转移至希腊",
     "images": [
-      "a4c3a495de19c592.jpg",
-      "7be382d348b4a44b.jpg",
-      "9ea726f36e2fd841.jpg",
-      "38145077f4c487ac.jpg"
+      "fc5248eb12d67233.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/4799356544825651862",
-    "timestamp": "2026-08-01T19:23:41.764836+00:00",
-    "original_time": "2026-08-01T13:32:37+00:00"
+    "url": "https://x.com/CBSNews/status/7522467811831120790",
+    "timestamp": "2026-08-01T20:58:21.063107+00:00",
+    "original_time": "2026-08-01T20:30:00+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1663298348600848722",
+    "id": "tweet_CBSNews_-4908234997859986070",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Another blow to Indian-sponsored Fitna Al Khwarij as security forces eliminate five terrorists during an intelligence-based operation in Razmak, North Waziristan.\n\"The relentless counter-terrorism campaign under Azm-e-Istehkam will continue at full pace to wipe out the menace of",
-    "translated_text": "安全部队在北瓦济里斯坦拉兹马克的一次情报行动中消灭了五名恐怖分子，这对印度赞助的 Fitna Al Khwarij 造成了又一次打击。\n“在 Azm-e-Istehkam 的领导下，我们将继续全速开展不懈的反恐行动，以消除恐怖主义的威胁。",
+    "username": "CBSNews",
+    "text": "U.S. investigating if Iran was behind cyberattack on water systems in 7 states, including Minnesota and Michigan",
+    "translated_text": "美国正在调查伊朗是否是明尼苏达州和密歇根州等 7 个州供水系统网络攻击的幕后黑手",
     "images": [
-      "ebe42829cf78b7dc.jpg",
-      "3347a5af7ec87eae.jpg",
-      "17b1a056ee950c64.jpg",
-      "463a70b17dc8b25a.jpg"
+      "bc96751bfa5d25db.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1663298348600848722",
-    "timestamp": "2026-08-01T19:23:43.463053+00:00",
-    "original_time": "2026-08-01T12:12:09+00:00"
+    "url": "https://x.com/CBSNews/status/-4908234997859986070",
+    "timestamp": "2026-08-01T20:58:22.280630+00:00",
+    "original_time": "2026-08-01T20:00:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_7849867168420266598",
+    "id": "tweet_CBSNews_-7427921960469137131",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Two European cities are hosting Pride events under increased security after an extremist attack in Berlin left one person dead and more than two dozen injured last week.\n\nHamburg's Pride parade, one of Germany's largest, drew about 300,000 attendees, according to police and",
+    "translated_text": "上周柏林发生极端主义袭击事件，导致一人死亡、二十多人受伤，两个欧洲城市正在加强安保措施下举办骄傲活动。\n\n据警方称，汉堡的骄傲游行是德国最大的骄傲游行之一，吸引了约 30 万人参加。",
+    "images": [
+      "a27e8d9d8ba37b11.jpg",
+      "60008f73fedf68a8.jpg",
+      "b5e02a599cac892e.jpg",
+      "d7210fa94678a853.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-7427921960469137131",
+    "timestamp": "2026-08-01T20:58:23.420922+00:00",
+    "original_time": "2026-08-01T19:40:08+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-5126304258187213150",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A 25-year-old migrant was found hiding inside a beach drainage pipe in the Spanish enclave of Ceuta on Saturday. He told authorities he wanted to stay in Spain before soldiers helped him climb out of the tunnel.\n\nSpanish authorities said crossings from Morocco stopped overnight",
     "translated_text": "周六，一名 25 岁的移民被发现躲在西班牙飞地休达的海滩排水管内。他告诉当局，在士兵帮助他爬出隧道之前，他想留在西班牙。\n\n西班牙当局表示，来自摩洛哥的过境点一夜之间就停止了",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/7849867168420266598",
-    "timestamp": "2026-08-01T19:26:29.164765+00:00",
+    "images": [
+      "9cba09b351841569.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-5126304258187213150",
+    "timestamp": "2026-08-01T20:58:23.721788+00:00",
     "original_time": "2026-08-01T18:41:55+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4414908207194588027",
+    "id": "tweet_CBSNews_-6555570184642109103",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump delivered an ultimatum to Sens. Thom Tillis and John Cornyn on Saturday, telling them to stop stalling on confirming Todd Blanche as attorney general or he would push again to make his \"anti-weaponization fund\" a reality.\n\nTillis and Cornyn have refused to vote",
-    "translated_text": "特朗普总统周六向参议员托姆·蒂利斯和约翰·科宁发出最后通牒，告诉他们不要再拖延确认托德·布兰奇担任司法部长，否则他将再次推动他的“反武器化基金”成为现实。\n\n蒂利斯和科宁拒绝投票",
+    "text": "Survivors of convicted sex offender Jeffrey Epstein's abuse were on Capitol Hill this week lobbying senators to reject Todd Blanche's nomination for attorney general. One survivor, Dani Bensky, joins \"The Takeout\" to discuss her concerns about Blanche.",
+    "translated_text": "被定罪的性犯罪者杰弗里·爱泼斯坦的虐待行为的幸存者本周在国会山游说参议员拒绝托德·布兰奇的司法部长提名。一名幸存者丹尼·本斯基 (Dani Bensky) 加入“外卖”节目，讨论她对布兰奇的担忧。",
     "images": [
-      "9b4b80f8278bd044.jpg",
-      "1f17ab8e84aff775.jpg",
-      "f078abb225f7db8a.jpg"
+      "d9ccc137d1bb521f.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4414908207194588027",
-    "timestamp": "2026-08-01T19:26:30.251360+00:00",
-    "original_time": "2026-08-01T18:10:02+00:00"
+    "url": "https://x.com/CBSNews/status/-6555570184642109103",
+    "timestamp": "2026-08-01T20:58:27.041318+00:00",
+    "original_time": "2026-08-01T12:29:06+00:00"
   },
   {
-    "id": "tweet_CBSNews_1089834235254827323",
+    "id": "tweet_CBSNews_-9041282429516689026",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Read more:",
-    "translated_text": "阅读更多：",
+    "text": "The DOJ moved to drop charges against Olympian David Hearn Friday, saying the Reflecting Pool damage was a \"botched installation.\"",
+    "translated_text": "美国司法部周五撤销了对奥运选手大卫·赫恩的指控，称倒影池的损坏是“安装不当”。",
     "images": [
-      "2d0e1ed6e1437314.jpg"
+      "b23166a032b87069.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1089834235254827323",
-    "timestamp": "2026-08-01T19:26:30.541474+00:00",
-    "original_time": "2026-08-01T18:10:03+00:00"
+    "url": "https://x.com/CBSNews/status/-9041282429516689026",
+    "timestamp": "2026-08-01T20:58:27.772090+00:00",
+    "original_time": "2026-08-01T12:21:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_8456832510965662234",
+    "id": "tweet_CBSNews_-900160802465937606",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Six months after her mother Nancy Guthrie went missing, \"Today\" co-host Savannah Guthrie asked again for answers in her mother's disappearance in a message shared Saturday morning.\n\n\"Every day, we wake up and try to be strong and go on - because that’s what our joyful and",
-    "translated_text": "在她的母亲南希·格思里失踪六个月后，《今日》联合主持人萨凡纳·格思里在周六早上分享的一条消息中再次询问母亲失踪的答案。\n\n“每天，我们醒来，努力坚强并继续前进 - 因为这就是我们的快乐和",
+    "text": "Clancy is charged with first-degree murder in the deaths of 5-year-old Cora, 3-year-old Dawson and 8-month-old Callan. Prosecutors say the murders were calculated, while Clancy's defense argues that she was overmedicated and suffering from extreme postpartum psychosis.",
+    "translated_text": "克兰西因杀害 5 岁的科拉、3 岁的道森和 8 个月大的卡兰而被指控犯有一级谋杀罪。检察官表示，谋杀案是经过精心策划的，而克兰西的辩护人则辩称，她服药过度，患有严重的产后精神病。",
     "images": [
-      "16c6c329d4545c44.jpg",
-      "3cfba448e59a6920.jpg",
-      "1b16530d6342f4df.jpg",
-      "7b6fb058000e027a.jpg"
+      "5aabd442f6acd56d.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/8456832510965662234",
-    "timestamp": "2026-08-01T19:26:32.009792+00:00",
-    "original_time": "2026-08-01T17:17:05+00:00"
+    "url": "https://x.com/CBSNews/status/-900160802465937606",
+    "timestamp": "2026-08-01T20:58:28.794217+00:00",
+    "original_time": "2026-08-01T12:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-9022158327604768828",
+    "id": "tweet_CBSNews_-4678530855325690885",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Successfully stopping Gianni Infantino's FIFA plan to sell World Cup profits to private investors was the first half of a high-stakes game in global soccer politics.\n\nThe second half kicked off Saturday with what seemed a clear aim of ending Infantino's decade-long presidency.",
-    "translated_text": "成功阻止国际足联将世界杯利润出售给私人投资者的计划是全球足球政治一场高风险游戏的上半场。\n\n下半场比赛于周六开始，其明确目标似乎是结束因凡蒂诺长达十年的主席任期。",
+    "text": "As the search for Nancy Guthrie, the 84-year-old mother of \"Today\" show co-host Savannah Guthrie, stretches on, investigators are still seeking tips that could help break the case and lead to her return.\n\nHere is a timeline of the disappearance and the investigation:",
+    "translated_text": "随着对《今日》节目联合主持人萨凡纳·格思里 (Savannah Guthrie) 84 岁母亲南希·格思里 (Nancy Guthrie) 的搜寻工作仍在继续，调查人员仍在寻找有助于破案并让她回国的线索。\n\n以下是失踪和调查的时间表：",
     "images": [
-      "25902a3dda7c0cab.jpg"
+      "e486ff5c2c488d98.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-9022158327604768828",
-    "timestamp": "2026-08-01T19:26:32.325389+00:00",
-    "original_time": "2026-08-01T15:15:00+00:00"
+    "url": "https://x.com/CBSNews/status/-4678530855325690885",
+    "timestamp": "2026-08-01T20:58:29.784467+00:00",
+    "original_time": "2026-08-01T11:45:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_5227429220538050473",
+    "id": "tweet_CBSNews_-4694161838966935775",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Two European cities are hosting Pride events under increased security after an extremist attack in Berlin left one person dead and more than two dozen injured last week.",
-    "translated_text": "上周柏林发生极端主义袭击事件，导致一人死亡、二十多人受伤，两个欧洲城市正在加强安保措施下举办骄傲活动。",
+    "text": "Nearly 1 in 4 Americans thinks CEOs should share their wealth and earn less, survey finds: \"Stop being greedy.\"",
+    "translated_text": "调查发现，近四分之一的美国人认为首席执行官应该分享财富并减少收入：“停止贪婪。”",
     "images": [
-      "da264c641ab42155.jpg"
+      "c81ca79885e1c15d.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/5227429220538050473",
-    "timestamp": "2026-08-01T19:26:32.615968+00:00",
-    "original_time": "2026-08-01T14:30:00+00:00"
+    "url": "https://x.com/CBSNews/status/-4694161838966935775",
+    "timestamp": "2026-08-01T20:58:30.543258+00:00",
+    "original_time": "2026-08-01T11:21:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_1127242076559917596",
+    "id": "tweet_CBSNews_-8569912424776864327",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "At least 67 people died in the border rush in which tens of thousands of migrants crossed into the tiny territory of Ceuta, Spain's Ministry of the Interior said Saturday. The death toll includes some who drowned and others killed in a stampede to cross a breakwater barrier.",
+    "translated_text": "西班牙内政部周六表示，数万名移民越境进入狭小的休达领土，导致至少 67 人死亡。死亡人数包括一些人在跨越防波堤屏障的踩踏事件中溺水身亡，还有一些人丧生。",
+    "images": [
+      "29beff417de40b27.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-8569912424776864327",
+    "timestamp": "2026-08-01T20:58:31.638789+00:00",
+    "original_time": "2026-08-01T11:05:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_9211089151251551210",
     "type": "tweet",
     "username": "CBSNews",
     "text": "\"The United States is rapidly moving down the path of escalating tensions in the region,\" said Ali Abdollahi, head of Iran's military central command. \"Any country serving as defensive shield for criminal and aggressive America will be engulfed by the flames of war.\"",
@@ -271,12 +300,12 @@
     "images": [
       "222692785e730e7e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1127242076559917596",
-    "timestamp": "2026-08-01T19:26:36.001428+00:00",
+    "url": "https://x.com/CBSNews/status/9211089151251551210",
+    "timestamp": "2026-08-01T20:58:31.915805+00:00",
     "original_time": "2026-08-01T10:50:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-741066287472901948",
+    "id": "tweet_CBSNews_-223675941659649758",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A brief timeline of Iranian cyberattacks on U.S. companies, political figures, water systems and more:",
@@ -284,12 +313,12 @@
     "images": [
       "40d1c167528724a8.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-741066287472901948",
-    "timestamp": "2026-08-01T19:26:36.390716+00:00",
+    "url": "https://x.com/CBSNews/status/-223675941659649758",
+    "timestamp": "2026-08-01T20:58:32.197575+00:00",
     "original_time": "2026-08-01T10:35:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-5151848720592194764",
+    "id": "tweet_CBSNews_4877934844181580227",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A grandfather struggled with treatment for late-stage pancreatic cancer — until a clinical trial helped him beat the odds.",
@@ -297,38 +326,12 @@
     "images": [
       "05d30653ed4d9f6a.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-5151848720592194764",
-    "timestamp": "2026-08-01T19:26:36.663568+00:00",
+    "url": "https://x.com/CBSNews/status/4877934844181580227",
+    "timestamp": "2026-08-01T20:58:32.602315+00:00",
     "original_time": "2026-08-01T10:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7514081921843290490",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Want to save on student loan payments? Here's how to get a discount.",
-    "translated_text": "想节省学生贷款费用吗？以下是如何获得折扣。",
-    "images": [
-      "3ef8c5244ee057ed.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-7514081921843290490",
-    "timestamp": "2026-08-01T19:26:37.875683+00:00",
-    "original_time": "2026-08-01T09:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-4586978701141361341",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Families face higher costs as back-to-school season nears.",
-    "translated_text": "随着返校季节的临近，家庭面临着更高的成本。",
-    "images": [
-      "64cc37050791ff00.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-4586978701141361341",
-    "timestamp": "2026-08-01T19:26:38.611050+00:00",
-    "original_time": "2026-08-01T08:00:00+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-7230513453326983446",
+    "id": "tweet_KellieMeyerNews_8781887632446821686",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "President Trump threatens to bring the “anti weaponization” fund back and keep Blanche as Acting AG if Cornyn and Tillis won’t approve him. Judiciary just put a vote for Blanche back on the schedule for Tuesday.",
@@ -336,307 +339,189 @@
     "images": [
       "6a6c8ced5e78a992.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-7230513453326983446",
-    "timestamp": "2026-08-01T19:27:36.528053+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/8781887632446821686",
+    "timestamp": "2026-08-01T21:00:00.829723+00:00",
     "original_time": "2026-08-01T11:48:57+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_4011077636758069119",
+    "id": "tweet_geonews_urdu_8576708592242850952",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Everyone has collectively ruined the system, the rich Jamaat-e-Islami.",
-    "translated_text": "每个人都集体破坏了这个体系，即富有的伊斯兰大会党。",
+    "text": "رات 12 بجے کی ہیڈلائنز - 2 اگست 2026",
+    "translated_text": "中午 12 点头条新闻 - 2026 年 8 月 2 日",
+    "images": [
+      "c05f08e5471b64a2.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/8576708592242850952",
+    "timestamp": "2026-08-01T21:00:43.155517+00:00",
+    "original_time": "2026-08-01T21:00:00+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-8570044530295493878",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "شجاع حیدر کے کتنے گانے چوری ہوئے ہیں؟#GeoNews#HasnaManaHai",
+    "translated_text": "有多少 Shuja Haider 歌曲被盗？#GeoNews#HasnaManaHai",
+    "images": [
+      "b5e5c24b15dd75dd.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8570044530295493878",
+    "timestamp": "2026-08-01T21:00:44.417274+00:00",
+    "original_time": "2026-08-01T20:51:47+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_5477445025866210692",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "وہ کونسا شہر ہے جہاں ساری زندگی شجاع حیدر کنسرٹ  کرنا چاہیں گے؟",
+    "translated_text": "Shuja Haider 希望在哪个城市举办余生音乐会？",
+    "images": [
+      "946976251f724801.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5477445025866210692",
+    "timestamp": "2026-08-01T21:00:45.411236+00:00",
+    "original_time": "2026-08-01T20:51:13+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-272200362308456607",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "موسیقی میں وراثت ہوتی ہے، nepotism نہیں,شجاع حیدر",
+    "translated_text": "音乐中有传承，没有裙带关系，Shuja Haider",
+    "images": [
+      "71a55ad6faa2a81d.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-272200362308456607",
+    "timestamp": "2026-08-01T21:00:46.067550+00:00",
+    "original_time": "2026-08-01T20:50:39+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-2798424426372179506",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "شجاع حیدر کا پسندیدہ گانا کونسا ہے؟",
+    "translated_text": "Shuja Haider 最喜欢的歌曲是什么？",
+    "images": [
+      "e838f34cdb6c6385.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-2798424426372179506",
+    "timestamp": "2026-08-01T21:00:47.414119+00:00",
+    "original_time": "2026-08-01T20:48:42+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_4981837315713767016",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Mohsin Naqvi first met the President, then gave a controversial statement, this is a conspiracy: Nisar Khoro",
+    "translated_text": "莫辛·纳克维首先会见总统，然后发表有争议的声明，这是一个阴谋：尼萨尔·霍罗",
+    "images": [
+      "dccd64d6c1662ec2.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/4981837315713767016",
+    "timestamp": "2026-08-01T21:00:48.043059+00:00",
+    "original_time": "2026-08-01T20:43:19+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_2754887922542190493",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Cover Songs What advice did Shuja Haider give to the singing singers?",
+    "translated_text": "翻唱歌曲 Shuja Haider 给歌唱歌手什么建议？",
+    "images": [
+      "d7abe135a8f1dad7.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/2754887922542190493",
+    "timestamp": "2026-08-01T21:00:51.071144+00:00",
+    "original_time": "2026-08-01T20:15:03+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-4869948265900886202",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "When did Shahbaz Haydar come to Karachi?",
+    "translated_text": "沙赫巴兹·海达尔什么时候来卡拉奇的？",
     "images": [],
-    "url": "https://x.com/geonews_urdu/status/4011077636758069119",
-    "timestamp": "2026-08-01T19:28:45.726404+00:00",
-    "original_time": "2026-08-01T19:02:37+00:00"
+    "url": "https://x.com/geonews_urdu/status/-4869948265900886202",
+    "timestamp": "2026-08-01T21:00:52.310854+00:00",
+    "original_time": "2026-08-01T20:14:54+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-1332628108380192860",
+    "id": "tweet_geonews_urdu_-8928977599043193211",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Flood-like images in the situation, Ministry of Railways on high alert",
-    "translated_text": "类似洪水图像，铁道部高度戒备",
+    "text": "Laughing at Brave Haider is prohibited. I am Sirili Entry",
+    "translated_text": "禁止嘲笑勇敢的海德尔。我是Sirili入口",
     "images": [
-      "86aeaf371cc6b6ba.jpg"
+      "efaca5ea5bd5873e.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-1332628108380192860",
-    "timestamp": "2026-08-01T19:28:46.805485+00:00",
-    "original_time": "2026-08-01T19:02:22+00:00"
+    "url": "https://x.com/geonews_urdu/status/-8928977599043193211",
+    "timestamp": "2026-08-01T21:00:53.564440+00:00",
+    "original_time": "2026-08-01T20:14:41+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_1738349641229814619",
+    "id": "tweet_geonews_urdu_-4655641324585582347",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "پاکستان ہاکی ٹیم نے دوسرے ٹیسٹ میں جنوبی کوریا کو 1-3 سے ہرا دیا",
-    "translated_text": "巴基斯坦曲棍球队二测1-3战胜韩国队",
+    "text": "Pakistan Idol Is Back! \nComing Soon on Har Pal Geo\n\nEvery note. Every dream. Every performance has led to this moment. \n\nPakistan Idol returns for the final chapter of an unforgettable journey, where Pakistan's next singing superstar will finally be crowned. \n\nThe biggest stage",
+    "translated_text": "巴基斯坦偶像回来了！ \n即将在 Har Pal Geo 上推出\n\n每一个音符。每个梦想。每一次的表演都是为了这一刻。 \n\n《巴基斯坦偶像》回归，开启难忘旅程的最后一章，巴基斯坦下一位歌唱巨星将最终加冕。 \n\n最大的舞台",
     "images": [
-      "655351113cb89c55.jpg"
+      "d5df6249c21ca2be.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/1738349641229814619",
-    "timestamp": "2026-08-01T19:28:47.836280+00:00",
-    "original_time": "2026-08-01T19:02:11+00:00"
+    "url": "https://x.com/geonews_urdu/status/-4655641324585582347",
+    "timestamp": "2026-08-01T21:00:54.885208+00:00",
+    "original_time": "2026-08-01T20:09:48+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8737403707677204302",
+    "id": "tweet_geonews_urdu_-4681782459536467694",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Rains in various districts of Sindh",
-    "translated_text": "信德省多区有降雨",
+    "text": "Action Committee has responded to the letter regarding the proposal to establish the Truth Commission, ending the crisis is my priority: Bilawal",
+    "translated_text": "行动委员会已回复有关设立真相委员会提案的信函，结束危机是我的首要任务：比拉瓦尔",
     "images": [
-      "f600f20ac5fa78e8.jpg"
+      "7504ba496754a78c.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-8737403707677204302",
-    "timestamp": "2026-08-01T19:28:48.526831+00:00",
-    "original_time": "2026-08-01T19:01:58+00:00"
+    "url": "https://x.com/geonews_urdu/status/-4681782459536467694",
+    "timestamp": "2026-08-01T21:00:55.604000+00:00",
+    "original_time": "2026-08-01T20:02:44+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_8814794304215319528",
+    "id": "tweet_geonews_urdu_4652189011844113153",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Indivisible is only Pakistan, Khalid Maqbool",
-    "translated_text": "不可分割的只有巴基斯坦，Khalid Maqbool",
+    "text": "How harmful is the political rhetoric between the People's Party and the Muslim League to the Kashmir cause?  \nSee Engineer Amir Maqam's response@SaleemKhanSafi",
+    "translated_text": "人民党和穆斯林联盟之间的政治言论对克什米尔事业的危害有多大？  \n请参阅工程师 Amir Maqam 的回复@SaleemKhanSafi",
     "images": [
-      "964420b9f4eefde8.jpg"
+      "4fc61608dd8ff71f.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/8814794304215319528",
-    "timestamp": "2026-08-01T19:28:49.830371+00:00",
-    "original_time": "2026-08-01T19:01:48+00:00"
+    "url": "https://x.com/geonews_urdu/status/4652189011844113153",
+    "timestamp": "2026-08-01T21:00:56.588714+00:00",
+    "original_time": "2026-08-01T19:33:22+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_2424266809891688070",
+    "id": "tweet_geonews_urdu_1565649386545921849",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Federal Interior Minister now realizes the country isn't being run, Shahid Khaqan Abbasi",
-    "translated_text": "联邦内政部长沙希德·卡坎·阿巴西 (Shahid Khaqan Abbasi) 现在意识到国家没有被治理",
+    "text": "\"Khawaja Asif's statement regarding Rawalakot is his personal statement\" \nEngineer Amir Maqam@SaleemKhanSafi",
+    "translated_text": "“卡瓦贾·阿西夫关于拉瓦拉科特的声明是他的个人声明” \n工程师 Amir Maqam@SaleemKhanSafi",
     "images": [
-      "9e8cc774c26617c7.jpg"
+      "d61673e82a74a5c1.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/2424266809891688070",
-    "timestamp": "2026-08-01T19:28:50.333451+00:00",
-    "original_time": "2026-08-01T19:01:37+00:00"
+    "url": "https://x.com/geonews_urdu/status/1565649386545921849",
+    "timestamp": "2026-08-01T21:00:57.593002+00:00",
+    "original_time": "2026-08-01T19:33:10+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-6202490903962865317",
+    "id": "tweet_geonews_urdu_4589027969464924712",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "The concept of new administrative units is not new. The failure of the National Action Plan is a collective failure. The Pakistan Peoples Party and PML-N accusing each other of an illegal mandate also reflects political failure, Mazhar Abbas@MazharAbbasGEO",
-    "translated_text": "新行政单位的概念并不新鲜。国家行动计划的失败是集体的失败。巴基斯坦人民党和巴基斯坦人民解放运动（PML-N）互相指责对方非法授权也反映了政治失败，Mazhar Abbas@MazharAbbasGEO",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/-6202490903962865317",
-    "timestamp": "2026-08-01T19:28:52.927787+00:00",
-    "original_time": "2026-08-01T15:18:20+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3579554185633889907",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "All political parties talk about devolving powers down to the grassroots level in their manifestos, but in practice, they do not do so. These parties themselves want to hold power at the provincial level, so they are not willing to further distribute powers, Benazir Shah",
-    "translated_text": "各政党在宣言中都谈到下放权力，但实际上却没有这样做。这些政党本身希望在省级掌握权力，因此不愿意进一步分配权力，Benazir Shah",
+    "text": "Are negotiations with the Jammu and Kashmir Public Action Committee possible?@SaleemKhanSafi",
+    "translated_text": "是否可以与查谟和克什米尔公共行动委员会进行谈判？@SaleemKhanSafi",
     "images": [
-      "d47965a2c9c15e95.jpg"
+      "4a728d6d2c15ef8b.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-3579554185633889907",
-    "timestamp": "2026-08-01T19:28:54.041360+00:00",
-    "original_time": "2026-08-01T15:17:50+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_1078512153876158165",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The process of creating new provinces or administrative units is extremely complex. Hasty progress cannot be made on it, Fakhre Durrani@FrehmanD",
-    "translated_text": "创建新省份或行政单位的过程极其复杂。不能仓促取得进展，Fakhre Durrani@FrehmanD",
-    "images": [
-      "6aac9d495f1938e3.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/1078512153876158165",
-    "timestamp": "2026-08-01T19:28:54.736950+00:00",
-    "original_time": "2026-08-01T15:17:14+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3660670598606595309",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Mohsin Naqvi's statement regarding the new administrative units is not merely his personal opinion, but rather work has been underway on this matter for quite some time. This indicates that the Pakistan Peoples Party and the PML-N have failed in this regard, Irshad Bhatti",
-    "translated_text": "莫辛·纳克维关于新行政单位的声明不仅仅是他的个人意见，而且有关此事的工作已经进行了相当长一段时间。这表明巴基斯坦人民党和PML-N在这方面失败了，伊沙德·巴蒂",
-    "images": [
-      "8683f8e70ea6c881.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-3660670598606595309",
-    "timestamp": "2026-08-01T19:28:56.232573+00:00",
-    "original_time": "2026-08-01T15:16:45+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3577615181924891447",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Elections will be held on the seats of two refugees in Lahore, LA 41 Valley Two and LA 34 Jammu One.",
-    "translated_text": "选举将在拉合尔的两个难民席位举行，即 LA 41 Valley Two 和 LA 34 Jammu One。",
-    "images": [
-      "ad2cdfc33e256818.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-3577615181924891447",
-    "timestamp": "2026-08-01T19:28:56.747373+00:00",
-    "original_time": "2026-08-01T15:13:58+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-6307738651906401177",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The court in Islamabad has admitted Asad Qaiser's defamation claim against Murad Saeed.",
-    "translated_text": "伊斯兰堡法院已承认阿萨德·凯瑟对穆拉德·赛义德的诽谤指控。",
-    "images": [
-      "bbf4704f2e12e263.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-6307738651906401177",
-    "timestamp": "2026-08-01T19:28:57.370309+00:00",
-    "original_time": "2026-08-01T15:13:44+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-4000954027361167943",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Praise be to Allah, the victory of truth and righteousness, a reaction to Ahsan Iqbal",
-    "translated_text": "赞美真主，真理和正义的胜利，对阿赫桑·伊克巴尔的反应",
-    "images": [
-      "4421ab432b43c1d4.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-4000954027361167943",
-    "timestamp": "2026-08-01T19:28:58.215930+00:00",
-    "original_time": "2026-08-01T15:13:14+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_1221438418299147636",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "What is the status of the BRT project in Karachi?",
-    "translated_text": "卡拉奇BRT项目进展如何？",
-    "images": [
-      "f6f0ae473fd402c0.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/1221438418299147636",
-    "timestamp": "2026-08-01T19:28:59.078758+00:00",
-    "original_time": "2026-08-01T15:13:02+00:00"
-  },
-  {
-    "id": "article_0a01a2323d88",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PPP, PML-N continue war of words on eve of Muzaffarabad elections",
-    "translated_title": "穆扎法拉巴德选举前夕，人民党和穆斯林联盟继续口水战",
-    "url": "https://www.dawn.com/news/2019925/ppp-pml-n-continue-war-of-words-on-eve-of-muzaffarabad-elections",
-    "timestamp": "2026-08-01T19:30:30.429628+00:00",
-    "original_time": "2026-08-01T15:01:51+05:00"
-  },
-  {
-    "id": "article_c3528f321c97",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PML-N MNA Malik Iqbal Channar passes away at 76",
-    "translated_title": "PML-N MNA Malik Iqbal Channar 去世，享年 76 岁",
-    "url": "https://www.dawn.com/news/2019919/pml-n-mna-malik-iqbal-channar-passes-away-at-76",
-    "timestamp": "2026-08-01T19:30:36.076697+00:00",
-    "original_time": "2026-08-01T13:13:46+05:00"
-  },
-  {
-    "id": "article_878ea9d14986",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "In Spain's Ceuta, exhausted migrants end short trip with little hope",
-    "translated_title": "在西班牙休达，疲惫不堪的移民结束了短暂的旅行，希望渺茫",
-    "url": "https://www.dawn.com/news/2019947/in-spains-ceuta-exhausted-migrants-end-short-trip-with-little-hope",
-    "timestamp": "2026-08-01T19:31:01.798352+00:00",
-    "original_time": "2026-08-01T20:50:00+05:00"
-  },
-  {
-    "id": "article_262ba97a0aff",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Bilawal receives JAAC response on reconciliation commission, says AJK PM to consult stakeholders on way forward",
-    "translated_title": "AJK总理表示，比拉瓦尔收到了JAAC关于和解委员会的回应，将就前进的方向咨询利益相关者",
-    "url": "https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-reconciliation-commission-says-ajk-pm-to-consult-stakeholders-on-way-forward",
-    "timestamp": "2026-08-01T19:31:34.402247+00:00",
-    "original_time": "2026-08-01T21:29:05+05:00"
-  },
-  {
-    "id": "article_1cdd4a83bbd7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Second phase of AJK elections on Sunday in 9 Muzaffarabad division, 12 refugee constituencies",
-    "translated_title": "AJK 选举将于周日在 9 个穆扎法拉巴德分区、12 个难民选区举行",
-    "url": "https://www.dawn.com/news/2019959/second-phase-of-ajk-elections-on-sunday-in-9-muzaffarabad-division-12-refugee-constituencies",
-    "timestamp": "2026-08-01T19:32:46.246508+00:00",
-    "original_time": "2026-08-01T23:51:08+05:00"
-  },
-  {
-    "id": "article_3a4db67b2b95",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2019649/need-of-the-times",
-    "timestamp": "2026-08-01T19:33:46.980644+00:00",
-    "original_time": "2026-08-01T19:33:46.980607+00:00"
-  },
-  {
-    "id": "article_68fba7f55fb6",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Parts of Karachi receive light showers; more rain expected",
-    "translated_title": "卡拉奇部分地区有小阵雨；预计会有更多降雨",
-    "url": "https://www.dawn.com/news/2019923/parts-of-karachi-receive-light-showers-more-rain-expected",
-    "timestamp": "2026-08-01T19:34:43.715562+00:00",
-    "original_time": "2026-08-01T14:44:51+05:00"
-  },
-  {
-    "id": "article_2ca1ac30a4b2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Trump's legal crusade against news media falters",
-    "translated_title": "特朗普针对新闻媒体的法律讨伐动摇",
-    "url": "https://www.dawn.com/news/2019945/trumps-legal-crusade-against-news-media-falters",
-    "timestamp": "2026-08-01T19:35:57.935607+00:00",
-    "original_time": "2026-08-01T20:19:04+05:00"
-  },
-  {
-    "id": "article_0972482b281c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "CDF Munir says Pak-China friendship has remained steadfast amid evolving regional, global challenges",
-    "translated_title": "穆尼尔表示，在不断变化的地区和全球挑战中，中巴友谊依然坚定",
-    "url": "https://www.dawn.com/news/2019924/cdf-munir-says-pak-china-friendship-has-remained-steadfast-amid-evolving-regional-global-challenges",
-    "timestamp": "2026-08-01T19:36:31.203317+00:00",
-    "original_time": "2026-08-01T14:58:41+05:00"
-  },
-  {
-    "id": "article_121d5de3c999",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Quetta coal mine explosion: Search and rescue operation concludes as last two bodies recovered",
-    "translated_title": "奎达煤矿爆炸：搜救行动结束，找到最后两具尸体",
-    "url": "https://www.dawn.com/news/2019918/quetta-coal-mine-explosion-search-and-rescue-operation-concludes-as-last-two-bodies-recovered",
-    "timestamp": "2026-08-01T19:38:02.692851+00:00",
-    "original_time": "2026-08-01T13:02:22+05:00"
-  },
-  {
-    "id": "article_976895131384",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "‘Enough is enough’: MQM-P leaders, Shahid Khaqan back creation of new administrative units",
-    "translated_title": "“够了”：MQM-P 领导人 Shahid Khaqan 支持创建新的行政单位",
-    "url": "https://www.dawn.com/news/2019935/enough-is-enough-mqm-p-leaders-shahid-khaqan-back-creation-of-new-administrative-units",
-    "timestamp": "2026-08-01T19:39:03.332755+00:00",
-    "original_time": "2026-08-01T19:29:32+05:00"
-  },
-  {
-    "id": "article_a3def299dfe0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "July deadliest month of 2026 as 205 lives lost, 401 terrorists killed: PICSS",
-    "translated_title": "7月是2026年最致命的一个月，205人丧生，401名恐怖分子被杀：PICSS",
-    "url": "https://www.dawn.com/news/2019937/july-deadliest-month-of-2026-as-205-lives-lost-401-terrorists-killed-picss",
-    "timestamp": "2026-08-01T19:40:42.944226+00:00",
-    "original_time": "2026-08-01T17:48:46+05:00"
+    "url": "https://x.com/geonews_urdu/status/4589027969464924712",
+    "timestamp": "2026-08-01T21:00:58.142502+00:00",
+    "original_time": "2026-08-01T19:33:01+00:00"
   },
   {
     "id": "article_b1a2941c322c",
@@ -645,28 +530,18 @@
     "title": "PML-N, PPP leaders resume talks to ease tensions over AJK polls",
     "translated_title": "PML-N和人民党领导人恢复谈判以缓解AJK民意调查的紧张局势",
     "url": "https://www.dawn.com/news/2019951/pml-n-ppp-leaders-resume-talks-to-ease-tensions-over-ajk-polls",
-    "timestamp": "2026-08-01T19:40:50.844697+00:00",
+    "timestamp": "2026-08-01T21:01:43.592132+00:00",
     "original_time": "2026-08-01T22:40:21+05:00"
   },
   {
-    "id": "article_6c3fb295cf46",
+    "id": "article_68fba7f55fb6",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "US drops case against former Olympian accused of damaging Reflecting Pool, admits damage due to botched renovation",
-    "translated_title": "美国撤销对被指控破坏倒影池的前奥运选手的指控，承认因翻修不当而造成损失",
-    "url": "https://www.dawn.com/news/2019921/us-drops-case-against-former-olympian-accused-of-damaging-reflecting-pool-admits-damage-due-to-botched-renovation",
-    "timestamp": "2026-08-01T19:42:03.025210+00:00",
-    "original_time": "2026-08-01T14:12:42+05:00"
-  },
-  {
-    "id": "article_de3ee2c56050",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "US to make visa bond programme permanent for people from dozens of countries",
-    "translated_title": "美国将为来自数十个国家的人永久提供签证担保计划",
-    "url": "https://www.dawn.com/news/2019949/us-to-make-visa-bond-programme-permanent-for-people-from-dozens-of-countries",
-    "timestamp": "2026-08-01T19:43:42.266428+00:00",
-    "original_time": "2026-08-01T20:55:45+05:00"
+    "title": "Parts of Karachi receive light showers; more rain expected",
+    "translated_title": "卡拉奇部分地区有小阵雨；预计会有更多降雨",
+    "url": "https://www.dawn.com/news/2019923/parts-of-karachi-receive-light-showers-more-rain-expected",
+    "timestamp": "2026-08-01T21:01:51.932109+00:00",
+    "original_time": "2026-08-01T14:44:51+05:00"
   },
   {
     "id": "article_9c5118c03322",
@@ -675,7 +550,117 @@
     "title": "Army major martyred in North Waziristan IBO: ISPR",
     "translated_title": "陆军少校在北瓦济里斯坦殉难 IBO：ISPR",
     "url": "https://www.dawn.com/news/2019936/army-major-martyred-in-north-waziristan-ibo-ispr",
-    "timestamp": "2026-08-01T19:44:39.765226+00:00",
+    "timestamp": "2026-08-01T21:02:37.538581+00:00",
     "original_time": "2026-08-01T17:35:00+05:00"
+  },
+  {
+    "id": "article_3a88c96ed25a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2019376/govt-hints-at-new-power-tariff-package-as-demand-falls",
+    "timestamp": "2026-08-01T21:04:15.536219+00:00",
+    "original_time": "2026-08-01T21:04:15.536172+00:00"
+  },
+  {
+    "id": "article_de3ee2c56050",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "US to make visa bond programme permanent for people from dozens of countries",
+    "translated_title": "美国将为来自数十个国家的人永久提供签证担保计划",
+    "url": "https://www.dawn.com/news/2019949/us-to-make-visa-bond-programme-permanent-for-people-from-dozens-of-countries",
+    "timestamp": "2026-08-01T21:04:19.671482+00:00",
+    "original_time": "2026-08-01T20:55:45+05:00"
+  },
+  {
+    "id": "article_0a01a2323d88",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PPP, PML-N continue war of words on eve of Muzaffarabad elections",
+    "translated_title": "穆扎法拉巴德选举前夕，人民党和穆斯林联盟继续口水战",
+    "url": "https://www.dawn.com/news/2019925/ppp-pml-n-continue-war-of-words-on-eve-of-muzaffarabad-elections",
+    "timestamp": "2026-08-01T21:04:26.397001+00:00",
+    "original_time": "2026-08-01T15:01:51+05:00"
+  },
+  {
+    "id": "article_878ea9d14986",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "In Spain's Ceuta, exhausted migrants end short trip with little hope",
+    "translated_title": "在西班牙休达，疲惫不堪的移民结束了短暂的旅行，希望渺茫",
+    "url": "https://www.dawn.com/news/2019947/in-spains-ceuta-exhausted-migrants-end-short-trip-with-little-hope",
+    "timestamp": "2026-08-01T21:05:21.081041+00:00",
+    "original_time": "2026-08-01T20:50:00+05:00"
+  },
+  {
+    "id": "article_a3def299dfe0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "July deadliest month of 2026 as 205 lives lost, 401 terrorists killed: PICSS",
+    "translated_title": "7月是2026年最致命的一个月，205人丧生，401名恐怖分子被杀：PICSS",
+    "url": "https://www.dawn.com/news/2019937/july-deadliest-month-of-2026-as-205-lives-lost-401-terrorists-killed-picss",
+    "timestamp": "2026-08-01T21:05:34.813243+00:00",
+    "original_time": "2026-08-01T17:48:46+05:00"
+  },
+  {
+    "id": "article_2ca1ac30a4b2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Trump's legal crusade against news media falters",
+    "translated_title": "特朗普针对新闻媒体的法律讨伐动摇",
+    "url": "https://www.dawn.com/news/2019945/trumps-legal-crusade-against-news-media-falters",
+    "timestamp": "2026-08-01T21:05:52.036078+00:00",
+    "original_time": "2026-08-01T20:19:04+05:00"
+  },
+  {
+    "id": "article_262ba97a0aff",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Bilawal receives JAAC response on reconciliation commission, says AJK PM to consult stakeholders on way forward",
+    "translated_title": "AJK总理表示，比拉瓦尔收到了JAAC关于和解委员会的回应，将就前进的方向咨询利益相关者",
+    "url": "https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-reconciliation-commission-says-ajk-pm-to-consult-stakeholders-on-way-forward",
+    "timestamp": "2026-08-01T21:08:11.055870+00:00",
+    "original_time": "2026-08-01T21:29:05+05:00"
+  },
+  {
+    "id": "article_0972482b281c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "CDF Munir says Pak-China friendship has remained steadfast amid evolving regional, global challenges",
+    "translated_title": "穆尼尔表示，在不断变化的地区和全球挑战中，中巴友谊依然坚定",
+    "url": "https://www.dawn.com/news/2019924/cdf-munir-says-pak-china-friendship-has-remained-steadfast-amid-evolving-regional-global-challenges",
+    "timestamp": "2026-08-01T21:08:36.508529+00:00",
+    "original_time": "2026-08-01T14:58:41+05:00"
+  },
+  {
+    "id": "article_6c3fb295cf46",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "US drops case against former Olympian accused of damaging Reflecting Pool, admits damage due to botched renovation",
+    "translated_title": "美国撤销对被指控破坏倒影池的前奥运选手的指控，承认因翻修不当而造成损失",
+    "url": "https://www.dawn.com/news/2019921/us-drops-case-against-former-olympian-accused-of-damaging-reflecting-pool-admits-damage-due-to-botched-renovation",
+    "timestamp": "2026-08-01T21:10:23.797745+00:00",
+    "original_time": "2026-08-01T14:12:42+05:00"
+  },
+  {
+    "id": "article_1cdd4a83bbd7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Second phase of AJK elections on Sunday in 9 Muzaffarabad division, 12 refugee constituencies",
+    "translated_title": "AJK 选举将于周日在 9 个穆扎法拉巴德分区、12 个难民选区举行",
+    "url": "https://www.dawn.com/news/2019959/second-phase-of-ajk-elections-on-sunday-in-9-muzaffarabad-division-12-refugee-constituencies",
+    "timestamp": "2026-08-01T21:11:54.711871+00:00",
+    "original_time": "2026-08-01T23:51:08+05:00"
+  },
+  {
+    "id": "article_976895131384",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "‘Enough is enough’: MQM-P leaders, Shahid Khaqan back creation of new administrative units",
+    "translated_title": "“够了”：MQM-P 领导人 Shahid Khaqan 支持创建新的行政单位",
+    "url": "https://www.dawn.com/news/2019935/enough-is-enough-mqm-p-leaders-shahid-khaqan-back-creation-of-new-administrative-units",
+    "timestamp": "2026-08-01T21:13:51.580011+00:00",
+    "original_time": "2026-08-01T19:29:32+05:00"
   }
 ]
