@@ -1,6 +1,22 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_5332162778738727004",
+    "id": "tweet_ForeignOfficePk_8023296451100906421",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50chaired a meeting to review preparations for the 14th South Asian Games, which Pakistan will host in March 2027.\n\nDPM/FM directed the establishment of subcommittees tasked with overseeing key aspects",
+    "translated_text": "副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 主持了一次会议，审查巴基斯坦将于 2027 年 3 月主办的第 14 届南亚运动会的筹备情况。\n\nDPM/FM 指示成立小组委员会，负责监督关键方面",
+    "images": [
+      "8d94f0f908d53fd6.jpg",
+      "4a43d4a9750e0999.jpg",
+      "095ffcb44cb582e6.jpg",
+      "686133dcff33e7db.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/8023296451100906421",
+    "timestamp": "2026-08-11T09:59:22.932251+00:00",
+    "original_time": "2026-08-11T09:03:44+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-2203936992030152971",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Message by the Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50on the Occasion of National Minorities Day",
@@ -14,12 +30,12 @@
       "1d7695f51048fca1.svg",
       "c9c1312c2f9f89c6.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/5332162778738727004",
-    "timestamp": "2026-08-11T08:54:03.832504+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-2203936992030152971",
+    "timestamp": "2026-08-11T09:59:23.726924+00:00",
     "original_time": "2026-08-11T07:23:28+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_5594123977537780726",
+    "id": "tweet_ForeignOfficePk_8175243728984967934",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50received a call from H.E. Dr. Abdullatif bin Rashid Al Zayani, Foreign Minister of the Kingdom of Bahrain, last night.\n\nForeign Minister Al Zayani congratulated the DPM/FM on the signing of the Makkah",
@@ -27,12 +43,12 @@
     "images": [
       "8c98dbc531185315.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/5594123977537780726",
-    "timestamp": "2026-08-11T08:54:04.514721+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/8175243728984967934",
+    "timestamp": "2026-08-11T09:59:24.183493+00:00",
     "original_time": "2026-08-11T06:37:50+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-2515028068667801409",
+    "id": "tweet_ForeignOfficePk_4295514770549134770",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Pakistan extends its heartiest felicitations to the Government and the people of the Republic of Chad on their Independence day.\n\nHappy Independence day!@ChadianMFA@PakinNiger",
@@ -43,209 +59,319 @@
       "f679b28bf795b6d1.svg",
       "e148f4eea5b3f16e.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-2515028068667801409",
-    "timestamp": "2026-08-11T08:54:04.900723+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/4295514770549134770",
+    "timestamp": "2026-08-11T09:59:24.872227+00:00",
     "original_time": "2026-08-11T03:56:58+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6279126981816087510",
+    "id": "tweet_CMShehbaz_1346240603274251616",
+    "type": "tweet",
+    "username": "CMShehbaz",
+    "text": "Deeply saddened by the tragic loss of lives and widespread devastation caused by the powerful earthquake in Colombia. On behalf of the people and Government of Pakistan, I extend my heartfelt condolences to President Abelardo De La Espriella, the people of Colombia, and all the",
+    "translated_text": "对哥伦比亚强烈地震造成的悲惨生命损失和广泛破坏深感悲痛。我代表巴基斯坦人民和政府，向阿韦拉多·德拉埃斯普里埃拉总统、哥伦比亚人民以及所有",
+    "images": [],
+    "url": "https://x.com/CMShehbaz/status/1346240603274251616",
+    "timestamp": "2026-08-11T09:59:52.815431+00:00",
+    "original_time": "2026-08-11T02:20:54+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_5730211064206615167",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Islamabad: August 11, 2026.\n\nA review meeting on the affairs of the Federal Board of Revenue was held today in Islamabad under the chairmanship of Prime Minister Muhammad Shehbaz Sharif.\n\nThe Prime Minister directed that an independent third-party audit of customs bonded",
+    "translated_text": "伊斯兰堡：2026 年 8 月 11 日。\n\n联邦税务委员会事务审查会议今天在伊斯兰堡举行，由总理穆罕默德·谢赫巴兹·谢里夫主持。\n\n总理指示对海关保税进行独立的第三方审核",
+    "images": [],
+    "url": "https://x.com/PakPMO/status/5730211064206615167",
+    "timestamp": "2026-08-11T10:00:10.021798+00:00",
+    "original_time": "2026-08-11T08:17:29+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-8370637812343615932",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif's Message on National Minorities Day 11 August 2026.\n\nPakistan commemorates National Minorities Day every year with a firm resolve to acknowledge the invaluable presence of minorities, their inclusion in the national mainstream, and their",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫 2026 年 8 月 11 日少数民族日致辞。\n\n巴基斯坦每年都会纪念少数民族日，并坚定地承认少数民族的宝贵存在、将其纳入国家主流以及他们的权利。",
+    "images": [
+      "5b1eef81cca0a6e8.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-8370637812343615932",
+    "timestamp": "2026-08-11T10:00:10.672324+00:00",
+    "original_time": "2026-08-11T02:01:02+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-2716908978435393906",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan is accelerating preparations to host the 14th South Asian Games in March 2027. Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar reviewed arrangements and directed the formation of subcommittees to oversee financing, infrastructure development,",
+    "translated_text": "巴基斯坦正在加紧筹备，将于 2027 年 3 月举办第 14 届南亚运动会。副总理兼外交部长参议员穆罕默德·伊沙克·达尔审查了各项安排，并指示成立小组委员会来监督融资、基础设施发展、",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-2716908978435393906",
+    "timestamp": "2026-08-11T10:00:42.582294+00:00",
+    "original_time": "2026-08-11T09:56:08+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1740008106265653313",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan’s national cricket team began preparations for the Test series against England with a practice session at Kent County Club in Beckenham. New batting coach Michael Smith also joined the squad and attended the batting session.#PakistanCricket#PakistanVsEngland",
+    "translated_text": "巴基斯坦国家板球队开始为对阵英格兰的测试系列赛做准备，他们在贝肯汉姆的肯特郡俱乐部进行了练习。新任击球教练迈克尔·史密斯也加入了球队并参加了击球训练。#PakistanCricket#PakistanVsEngland",
+    "images": [
+      "6b7cabf3b50f1aa6.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1740008106265653313",
+    "timestamp": "2026-08-11T10:00:43.095154+00:00",
+    "original_time": "2026-08-11T09:50:06+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2336843132441341533",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The Netherlands will host the first World Championship for the prestigious Turkmen Akhal-Teke horse from 4 to 6 September 2026, highlighting the breed’s beauty, athleticism and rich cultural heritage.#AkhalTeke#Equestrian#HorseWorld#Turkmenistan#PakistanTV",
+    "translated_text": "荷兰将于 2026 年 9 月 4 日至 6 日举办首届土库曼阿哈尔特克马世界锦标赛，突出该品种的美丽、运动能力和丰富的文化遗产。#AkhalTeke#Equestrian#HorseWorld#Turkmenistan#PakistanTV",
+    "images": [
+      "90a7102f014b6bac.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2336843132441341533",
+    "timestamp": "2026-08-11T10:00:43.682059+00:00",
+    "original_time": "2026-08-11T09:40:16+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3026882791961392834",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGLeading think tank Stimson Center has said Pakistan is playing a key role in efforts to ease tensions between the US and Iran, with its ties to both countries positioning Islamabad as a trusted mediator and a potential bridge back to ceasefire and negotiations.",
+    "translated_text": "#BREAKING领先智库史汀生中心表示，巴基斯坦在缓解美国和伊朗之间紧张局势的努力中发挥着关键作用，其与两国的关系使伊斯兰堡成为值得信赖的调解者，并有可能成为停火和谈判的桥梁。",
+    "images": [
+      "827e1b301489a0b9.jpg",
+      "bb56c86a5b9d99dc.jpg",
+      "dc0a3fbb0a765e26.jpg",
+      "fc8a4b37ebe15c64.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/3026882791961392834",
+    "timestamp": "2026-08-11T10:00:44.384528+00:00",
+    "original_time": "2026-08-11T09:24:55+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1654639980861044692",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "The Netherlands is set to host the first World Championship of the iconic Turkmen Akhal-Teke horses in September 2026 — celebrating beauty, heritage, sport and tradition.#Akhalteke#TurkmenHorse#WorldChampionship#Equestrian#PakistanTV",
     "translated_text": "荷兰将于 2026 年 9 月主办首届标志性土库曼阿哈尔特克马世界锦标赛，庆祝美丽、遗产、运动和传统。#Akhalteke#TurkmenHorse#WorldChampionship#Equestrian#PakistanTV",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/6279126981816087510",
-    "timestamp": "2026-08-11T08:56:14.698003+00:00",
+    "images": [
+      "dcdba25da5ffa534.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1654639980861044692",
+    "timestamp": "2026-08-11T10:00:44.868643+00:00",
     "original_time": "2026-08-11T08:50:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2042648097654896154",
+    "id": "tweet_PakTVGlobal_-3723511677471306084",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Jakob Ingebrigtsen made a stunning comeback from injury to win 5,000m gold at the European Athletics Championships.#JakobIngebrigtsen#EuropeanAthletics#5000m#Athletics#PakistanTV",
-    "translated_text": "雅各布·英格布里森 (Jakob Ingebrigtsen) 伤愈复出，在欧洲田径锦标赛上赢得 5000 米金牌。#JakobIngebrigtsen#EuropeanAthletics#5000m#Athletics#PakistanTV",
+    "text": "Russian overnight missile strikes killed at least nine people and wounded dozens across Kyiv, Zaporizhzhia and Dnipropetrovsk, Ukrainian authorities said.#Ukraine#Russia#Kyiv#RussianMissileStrikes#PakistanTV",
+    "translated_text": "乌克兰当局称，俄罗斯夜间导弹袭击在基辅、扎波罗热和第聂伯罗彼得罗夫斯克造成至少九人死亡，数十人受伤。#Ukraine#Russia#Kyiv#RussianMissileStrikes#PakistanTV",
+    "images": [
+      "07c48a336d975cc5.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3723511677471306084",
+    "timestamp": "2026-08-11T10:00:47.172022+00:00",
+    "original_time": "2026-08-11T06:38:14+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_8883572139636040706",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Hungarian lawmakers are expected to elect former Supreme Court chief Andras Baka as the country’s next president, following the removal of former president Katalin Novak.#Hungary#AndrasBaka#KatalinNovak#HungarianPolitics#PakistanTV",
+    "translated_text": "在前总统卡塔琳·诺瓦克被罢免后，匈牙利立法者预计将选举前最高法院院长安德拉斯·巴卡为该国下一任总统。#Hungary#AndrasBaka#KatalinNovak#HungarianPolitics#PakistanTV",
+    "images": [
+      "4b045d3b2553318b.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/8883572139636040706",
+    "timestamp": "2026-08-11T10:00:47.545546+00:00",
+    "original_time": "2026-08-11T06:16:02+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_7497462652702026163",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The number of dead from Venezuela's twin quakes in June rose to 6,301 on Monday, as rescue teams and family members continued to sift through the rubble in search of more victims.#Venezuela#Earthquake#EarthquakeAftermath#RescueEfforts#PakistanTV",
+    "translated_text": "周一，委内瑞拉 6 月两次地震的死亡人数上升至 6,301 人，救援队和家属继续在废墟中搜寻更多遇难者。#Venezuela#Earthquake#EarthquakeAftermath#RescueEfforts#PakistanTV",
+    "images": [
+      "210895586e175639.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/7497462652702026163",
+    "timestamp": "2026-08-11T10:00:48.064409+00:00",
+    "original_time": "2026-08-11T05:17:57+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1860780549340281197",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Kenyan-born American runner Jonah Koech has accepted a three-year ban for blood doping and been stripped of his 2025 US 1,500-meter title, the US Anti-Doping Agency announced on Monday.#JonahKoech#DopingBan#Athletics#USADA#PakistanTV",
+    "translated_text": "美国反兴奋剂机构周一宣布，出生于肯尼亚的美国运动员乔纳·科奇因服用兴奋剂而接受三年禁令，并被剥夺 2025 年美国 1,500 米冠军头衔。#JonahKoech#DopingBan#Athletics#USAADA#PakistanTV",
     "images": [
       "8e42d91f241621d2.png",
-      "825951b967c7cf29.jpg"
+      "0d9bc562c69d31c0.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-2042648097654896154",
-    "timestamp": "2026-08-11T08:56:15.249121+00:00",
-    "original_time": "2026-08-11T08:42:07+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-1860780549340281197",
+    "timestamp": "2026-08-11T10:00:48.646062+00:00",
+    "original_time": "2026-08-11T04:41:21+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_1271201691897565637",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Pakistan’s Senate marks National Minority Day, reaffirming the country’s commitment to equal rights, religious harmony and unity, while highlighting minorities’ vital role in the nation’s identity.#NationalMinorityDay#ReligiousHarmony#EqualRights#Pakistan#PakistanTV",
-    "translated_text": "巴基斯坦参议院纪念少数民族日，重申该国对平等权利、宗教和谐与团结的承诺，同时强调少数民族在国家认同中的重要作用。#NationalMinorityDay#ReligiousHarmony#EqualRights#Pakistan#PakistanTV",
-    "images": [
-      "fcee26c87664ba4e.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/1271201691897565637",
-    "timestamp": "2026-08-11T08:56:15.661687+00:00",
-    "original_time": "2026-08-11T08:40:02+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_7377296791344571939",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Fatima Zahra says she is proud to make history by winning a medal, adding that the achievement has boosted her confidence and filled her with pride.@Vjshahzadkhan@Eesh96527Rehan@SanaPtv13#FatimaZahra#HistoricAchievement#MedalWinner#PakistanSports#PakistanTV",
-    "translated_text": "法蒂玛·扎赫拉 (Fatima Zahra) 表示，她为赢得奖牌创造历史感到自豪，并补充说这一成就增强了她的信心，让她充满自豪。@Vjshahzadkhan@Eesh96527Rehan@SanaPtv13#FatimaZahra#HistoricAchievement#MedalWinner#PakistanSports#PakistanTV",
-    "images": [
-      "82792066b260e123.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/7377296791344571939",
-    "timestamp": "2026-08-11T08:56:16.064680+00:00",
-    "original_time": "2026-08-11T08:21:33+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_6694958938578952257",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Geopolitical Analyst Danish Kazi says caution is needed over the ongoing Iran-US peace negotiations, warning that prolonged talks could allow both sides to regroup for a potential new conflict. He urges mediators, particularly Pakistan, to push both Washington and Tehran to",
-    "translated_text": "地缘政治分析师丹麦卡齐表示，需要对正在进行的伊朗与美国和平谈判保持谨慎，并警告说，长期谈判可能会让双方重新集结，以应对潜在的新冲突。他敦促调解人，特别是巴基斯坦，推动华盛顿和德黑兰双方",
-    "images": [
-      "e5dc8fdb3456f227.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/6694958938578952257",
-    "timestamp": "2026-08-11T08:56:16.504046+00:00",
-    "original_time": "2026-08-11T08:07:31+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-897411644469066812",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "New York City Mayor Zohran Mamdani joined members of the Pakistani community at the Allama Iqbal Community Center’s Mela to commemorate Pakistan’s Independence Day and honour the contributions of Pakistani-Americans to New York City.#ZohranMamdani#PakistanIndependenceDay",
-    "translated_text": "纽约市市长佐赫兰·马姆达尼 (Zohran Mamdani) 与巴基斯坦社区成员一起在阿拉马·伊克巴尔社区中心的梅拉 (Mela) 纪念巴基斯坦独立日，并表彰巴基斯坦裔美国人对纽约市的贡献。#ZohranMamdani#PakistanIndependenceDay",
-    "images": [
-      "8c7c24ce3bfc8f4a.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-897411644469066812",
-    "timestamp": "2026-08-11T08:56:18.764460+00:00",
-    "original_time": "2026-08-11T04:16:40+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-2282727646973799468",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The US State Department's number-two attended the recommissioning ceremony of a steel mill in Trinidad and Tobago on Monday, underlining the plant's strategic importance for Washington as it seeks to limit reliance on China.#US#TrinidadAndTobago#SteelIndustry#China",
-    "translated_text": "美国国务院二号人物周一出席了特立尼达和多巴哥一家钢厂的重新投产仪式，强调了该工厂对华盛顿寻求限制对中国的依赖的战略重要性。#US#TrinidadAndTobago#SteelIndustry#China",
-    "images": [
-      "23712ec8b8049af7.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-2282727646973799468",
-    "timestamp": "2026-08-11T08:56:18.929001+00:00",
-    "original_time": "2026-08-11T04:06:26+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-672946967048133084",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "US President Donald Trump signed an executive order Monday pushing for a rethink of school vaccine mandates and repeating calls for the measles, mumps, and rubella (MMR) vaccine to be separated into three individual shots.#DonaldTrump#USPolitics#Vaccines#MMRVaccine",
-    "translated_text": "美国总统唐纳德·特朗普周一签署了一项行政命令，推动重新考虑学校疫苗接种规定，并再次呼吁将麻疹、腮腺炎和风疹 (MMR) 疫苗分为三针。#DonaldTrump#USPolitics#Vaccines#MMRVaccine",
-    "images": [
-      "0bb22c93883fccf3.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-672946967048133084",
-    "timestamp": "2026-08-11T08:56:19.104416+00:00",
-    "original_time": "2026-08-11T03:29:48+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-8900890157334915140",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Meta boss Mark Zuckerberg laid out a vision for how the United States and the social media giant could win a global race to dominate AI amid fierce competition from China.#MetaAI#MarkZuckerberg#ArtificialIntelligence#AICompetition#PakistanTV",
-    "translated_text": "Meta 老板马克·扎克伯格阐述了美国和社交媒体巨头如何在来自中国的激烈竞争中赢得全球人工智能主导地位的愿景。#MetaAI#MarkZuckerberg#ArtificialIntelligence#AICompetition#PakistanTV",
-    "images": [
-      "3da038e6cf8a6116.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-8900890157334915140",
-    "timestamp": "2026-08-11T08:56:19.287416+00:00",
-    "original_time": "2026-08-11T02:31:28+00:00"
-  },
-  {
-    "id": "tweet_AJENews_2675189919930720368",
+    "id": "tweet_AJENews_-8159159018984070203",
     "type": "tweet",
     "username": "AJENews",
     "text": "LIVE: Former security chief sentenced for 2011 crackdown in Syria.",
     "translated_text": "直播：前安全负责人因 2011 年在叙利亚的镇压行动而被判刑。",
     "images": [
+      "9b20f961c2ada6de.svg",
+      "e63ca20961aa8cd1.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-8159159018984070203",
+    "timestamp": "2026-08-11T10:02:45.313041+00:00",
+    "original_time": "2026-08-11T09:08:55+00:00"
+  },
+  {
+    "id": "tweet_AJENews_9071474920592951008",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Iran plans to restore 95 million cubic metres of gas output by end SeptemberLIVE updates:https://aje.news/suhi9z?update=4845447…",
+    "translated_text": "突发新闻：伊朗计划到 9 月底恢复 9500 万立方米天然气产量实时更新：https://aje.news/suhi9z?update=4845447…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "d13522a4ccfa5d0d.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/9071474920592951008",
+    "timestamp": "2026-08-11T10:02:45.843970+00:00",
+    "original_time": "2026-08-11T10:00:18+00:00"
+  },
+  {
+    "id": "tweet_AJENews_6367033256566972065",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Russia's Defence Ministry says that Russian forces have taken control of two villages in Ukraine - Shcherbakivka in the Kharkiv region, and Nove Pole in the Zaporizhzhia region.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：俄罗斯国防部表示，俄罗斯军队已经控制了乌克兰的两个村庄 - 哈尔科夫地区的谢尔巴基夫卡 (Shcherbakivka) 和扎波罗热地区的诺夫波尔 (Nove Pole)。更多信息请访问 http://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "84c9839444369e15.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/6367033256566972065",
+    "timestamp": "2026-08-11T10:02:46.530052+00:00",
+    "original_time": "2026-08-11T09:47:21+00:00"
+  },
+  {
+    "id": "tweet_AJENews_746620375149964053",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Tanker, military forces involved in incident in Gulf of Oman: UKMTOLIVE updates:https://aje.news/suhi9z?update=4845575…",
+    "translated_text": "突发：油轮、军队参与阿曼湾事件：UKMTOLIVE 更新：https://aje.news/suhi9z?update=4845575…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "1d4bf2797577f5df.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/746620375149964053",
+    "timestamp": "2026-08-11T10:02:46.953168+00:00",
+    "original_time": "2026-08-11T09:26:23+00:00"
+  },
+  {
+    "id": "tweet_AJENews_-7306912468265206144",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "UPDATE: Lebanon Civil Defence says its firefighters targeted in Israeli drone attackLIVE updates:https://aje.news/suhi9z?update=4845507…",
+    "translated_text": "更新：黎巴嫩民防部门表示其消防员成为以色列无人机袭击的目标实时更新：https://aje.news/suhi9z?update=4845507…",
+    "images": [
+      "7f1a451786c84548.svg",
+      "8332a7abfda86fcf.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/-7306912468265206144",
+    "timestamp": "2026-08-11T10:02:47.423643+00:00",
+    "original_time": "2026-08-11T09:10:41+00:00"
+  },
+  {
+    "id": "tweet_AJENews_4656586718340316253",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: An industrial enterprise caught fire in Russia's Orenburg region following an attack by \"enemy drones\", the local governor Yevgeny Solntsev said. No casualties reported.More onhttp://Aljazeera.com",
+    "translated_text": "突发新闻：俄罗斯奥伦堡地区州长叶夫根尼·索尔恩采夫 (Yevgeny Solntsev) 表示，一家工业企业在遭到“敌方无人机”袭击后起火。暂无人员伤亡报告。更多信息请访问http://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "a7227ead9ea9ca80.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/4656586718340316253",
+    "timestamp": "2026-08-11T10:02:50.022481+00:00",
+    "original_time": "2026-08-11T06:31:26+00:00"
+  },
+  {
+    "id": "tweet_AJENews_0",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "",
+    "translated_text": "",
+    "images": [
       "9b20f961c2ada6de.svg"
     ],
-    "url": "https://x.com/AJENews/status/2675189919930720368",
-    "timestamp": "2026-08-11T08:58:24.583902+00:00",
-    "original_time": "2026-08-11T08:26:06+00:00"
+    "url": "https://x.com/AJENews/status/0",
+    "timestamp": "2026-08-11T10:02:50.065307+00:00",
+    "original_time": "2026-08-11T06:20:32+00:00"
   },
   {
-    "id": "tweet_AJENews_-60262618941295451",
+    "id": "tweet_AJENews_-7621648238768246746",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Gaza death toll reaches 73,387LIVE updates:https://aje.news/suhi9z?update=4845351…",
-    "translated_text": "突发新闻：加沙死亡人数达到 73,387 实时更新：https://aje.news/suhi9z?update=4845351…",
+    "text": "BREAKING: Israeli military shells southern Lebanese town of Zawtar al-SharqiyahLIVE updates:https://aje.news/suhi9z?update=4845033…",
+    "translated_text": "突发新闻：以色列军队炮击黎巴嫩南部城镇 Zawtar al-Sharqiyah 实时更新：https://aje.news/suhi9z?update=4845033…",
     "images": [
       "7f1a451786c84548.svg",
-      "195a6a2544ccf9aa.jpg"
+      "bfe489878d959a41.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-60262618941295451",
-    "timestamp": "2026-08-11T08:58:25.159908+00:00",
-    "original_time": "2026-08-11T08:45:16+00:00"
+    "url": "https://x.com/AJENews/status/-7621648238768246746",
+    "timestamp": "2026-08-11T10:02:50.525821+00:00",
+    "original_time": "2026-08-11T06:15:23+00:00"
   },
   {
-    "id": "tweet_AJENews_7170120326098545715",
+    "id": "tweet_AJENews_1448894410099339173",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Two people have been injured in an Israeli attack on southern Lebanon's Nabatieh cityLIVE updates:https://aje.news/suhi9z?update=4845429…",
-    "translated_text": "突发新闻：以色列对黎巴嫩南部纳巴蒂耶市的袭击造成两人受伤实时更新：https://aje.news/suhi9z?update=4845429…",
+    "text": "BREAKING: Israel continues bombing southern Lebanon despite US-backed ceasefireLIVE updates:https://aje.news/suhi9z?update=4844578…",
+    "translated_text": "突发新闻：尽管美国支持停火，以色列仍继续轰炸黎巴嫩南部实时更新：https://aje.news/suhi9z?update=4844578…",
     "images": [
       "7f1a451786c84548.svg",
-      "81e54c97ae45f55a.jpg"
+      "fe6143a8aefae00b.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7170120326098545715",
-    "timestamp": "2026-08-11T08:58:25.784419+00:00",
-    "original_time": "2026-08-11T08:42:03+00:00"
+    "url": "https://x.com/AJENews/status/1448894410099339173",
+    "timestamp": "2026-08-11T10:02:50.938869+00:00",
+    "original_time": "2026-08-11T00:45:20+00:00"
   },
   {
-    "id": "tweet_AJENews_-2097880536984294675",
+    "id": "tweet_AJENews_-1418462232544136972",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial\n\nRead more:https://aje.news/jpcaqh",
-    "translated_text": "突发新闻：巴沙尔·阿萨德和阿提夫·纳吉布在具有里程碑意义的叙利亚审判中被判处死刑\n\n了解更多：https://aje.news/jpcaqh",
-    "images": [
-      "aea92573250b161f.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-2097880536984294675",
-    "timestamp": "2026-08-11T08:58:26.326470+00:00",
-    "original_time": "2026-08-11T08:28:01+00:00"
-  },
-  {
-    "id": "tweet_AJENews_8863874183453948851",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Two people have been wounded in an Israeli drone strike on the city of Nabatieh in southern Lebanon, according to Lebanon's health ministry. A second strike targeted a rescue team, damaging an ambulance.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：据黎巴嫩卫生部称，以色列无人机袭击黎巴嫩南部纳巴蒂耶市，造成两人受伤。第二次袭击针对救援队，损坏了一辆救护车。更多信息请访问http://Aljazeera.com",
+    "text": "BREAKING: Houthis launch ballistic missile attack on Yemen’s al-Mokha, military saysLIVE updates:https://aje.news/suhi9z?update=4844538…",
+    "translated_text": "突发事件：军方称胡塞武装对也门的莫卡发动弹道导弹袭击实时更新：https://aje.news/suhi9z?update=4844538…",
     "images": [
       "7f1a451786c84548.svg",
-      "e38ab84e7e4938ae.jpg"
+      "cec7cebbace94c3c.jpg"
     ],
-    "url": "https://x.com/AJENews/status/8863874183453948851",
-    "timestamp": "2026-08-11T08:58:26.953385+00:00",
-    "original_time": "2026-08-11T08:21:12+00:00"
+    "url": "https://x.com/AJENews/status/-1418462232544136972",
+    "timestamp": "2026-08-11T10:02:51.490929+00:00",
+    "original_time": "2026-08-11T00:10:29+00:00"
   },
   {
-    "id": "tweet_AJENews_-5648305987120197306",
+    "id": "tweet_AJENews_2871743161738688787",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Yemeni army says Houthis target residential areas in MaribLIVE updates:https://aje.news/pntq5h?update=4844487…",
     "translated_text": "突发新闻：也门军队称胡塞武装瞄准马里布的住宅区更新：https://aje.news/pntq5h?update=4844487…",
     "images": [
-      "7f1a451786c84548.svg"
+      "7f1a451786c84548.svg",
+      "b5f7e5de6cb7fac4.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-5648305987120197306",
-    "timestamp": "2026-08-11T08:58:29.444015+00:00",
+    "url": "https://x.com/AJENews/status/2871743161738688787",
+    "timestamp": "2026-08-11T10:02:51.813740+00:00",
     "original_time": "2026-08-10T23:10:25+00:00"
   },
   {
-    "id": "tweet_AJENews_-7098575276181036494",
+    "id": "tweet_AJENews_-1898634754935566232",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Libya’s Military Intelligence Chief Fawzi Al-Mansouri has been killed after an IED exploded in his car in Benghazi, according to local reports.More onhttp://Aljazeera.com",
@@ -254,40 +380,51 @@
       "7f1a451786c84548.svg",
       "803ad87ce895c61d.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-7098575276181036494",
-    "timestamp": "2026-08-11T08:58:30.040985+00:00",
+    "url": "https://x.com/AJENews/status/-1898634754935566232",
+    "timestamp": "2026-08-11T10:02:52.389127+00:00",
     "original_time": "2026-08-10T23:01:21+00:00"
   },
   {
-    "id": "tweet_AJENews_834528196839261391",
+    "id": "tweet_CBSNews_2838777852832627994",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Libya's National Oil Corporation says a drone fell near an oil tank and pipeline network at the Zawiya oil plant, the third attack in two days. It warned it could halt refinery operations.\n\nNo damage or casualties were reported.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：利比亚国家石油公司表示，一架无人机落在扎维耶油厂的油罐和管道网络附近，这是两天内的第三次袭击。它警告称可能会停止炼油厂运营。\n\n没有损坏或人员伤亡的报告。更多信息请访问http://Aljazeera.com",
+    "username": "CBSNews",
+    "text": "At least 2,000 people have died among the confirmed cases in Congo's Ebola outbreak that is the fastest spreading on record, according to the latest government data, as health authorities struggle to get help quickly to remote localities due to rebel conflict, bad roads and work",
+    "translated_text": "最新政府数据显示，刚果埃博拉疫情确诊病例已造成至少 2,000 人死亡，这是有记录以来传播速度最快的一次，由于叛军冲突、道路状况不佳和工作繁忙，卫生当局难以迅速向偏远地区提供帮助",
     "images": [
-      "7f1a451786c84548.svg",
-      "b0c3bebee4b25756.jpg"
+      "3c98bc2badcce8fc.jpg"
     ],
-    "url": "https://x.com/AJENews/status/834528196839261391",
-    "timestamp": "2026-08-11T08:58:30.602353+00:00",
-    "original_time": "2026-08-10T22:16:59+00:00"
+    "url": "https://x.com/CBSNews/status/2838777852832627994",
+    "timestamp": "2026-08-11T10:03:51.467901+00:00",
+    "original_time": "2026-08-11T10:00:00+00:00"
   },
   {
-    "id": "tweet_AJENews_-8964057876884174991",
+    "id": "tweet_CBSNews_-8241271072038074089",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: The death toll from twin earthquakes that struck Venezuela in June has risen to 6,301, according to lawmaker Jorge Rodriguez. \n\nMore than 73,000 people have been treated, while 23% of the debris has been removed.More onhttp://Aljazeera.com",
-    "translated_text": "突发新闻：根据立法者豪尔赫·罗德里格斯 (Jorge Rodriguez) 的说法，委内瑞拉 6 月发生的两次地震造成的死亡人数已上升至 6,301 人。 \n\n超过 73,000 人已接受治疗，23% 的碎片已被清除。更多信息请访问 http://Aljazeera.com",
+    "username": "CBSNews",
+    "text": "President Trump told reporters on Monday that the U.S. controls the Strait of Hormuz and insisted Iran's economy is suffering due to the war, which started Feb. 28. Trump also mirrored Tehran's demands of compensation for the damage caused by the conflict.",
+    "translated_text": "特朗普总统周一告诉记者，美国控制着霍尔木兹海峡，并坚称伊朗经济因2月28日开始的战争而受到影响。特朗普还反映了德黑兰要求对冲突造成的损失进行赔偿的要求。",
     "images": [
-      "7f1a451786c84548.svg",
-      "9cfde09957a5aac6.jpg"
+      "a433c6cd5c6ddf81.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-8964057876884174991",
-    "timestamp": "2026-08-11T08:58:31.162914+00:00",
-    "original_time": "2026-08-10T21:10:17+00:00"
+    "url": "https://x.com/CBSNews/status/-8241271072038074089",
+    "timestamp": "2026-08-11T10:03:52.033483+00:00",
+    "original_time": "2026-08-11T09:37:48+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4171551469739288181",
+    "id": "tweet_CBSNews_8713534683670976943",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "There were no winning tickets sold for Monday night's $905 million Powerball jackpot bringing the estimated grand prize for Wednesday night's drawing to at least $975 million, Powerball says.",
+    "translated_text": "强力球表示，周一晚上的 9.05 亿美元强力球大奖没有中奖彩票售出，因此周三晚上的抽奖预估大奖至少达到 9.75 亿美元。",
+    "images": [
+      "c90bf75b98a80a89.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8713534683670976943",
+    "timestamp": "2026-08-11T10:03:52.869732+00:00",
+    "original_time": "2026-08-11T09:31:04+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-5616529759670009620",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Shortly before Air Force One took off from Turkey after last month’s NATO summit, President Trump secretly left the jet and was moved to another plane with the help of an airport catering truck, according to a U.S. official.",
@@ -295,12 +432,12 @@
     "images": [
       "796f18c5834026db.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4171551469739288181",
-    "timestamp": "2026-08-11T08:59:14.311439+00:00",
+    "url": "https://x.com/CBSNews/status/-5616529759670009620",
+    "timestamp": "2026-08-11T10:03:53.064281+00:00",
     "original_time": "2026-08-11T07:17:38+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1518430192373369693",
+    "id": "tweet_CBSNews_2118439520182652347",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Drone footage from Monday showed a neighborhood in Spokane, Washington, left in ruins after raging wildfires tore through the area, destroying hundreds of homes.",
@@ -308,52 +445,36 @@
     "images": [
       "516f4d920ae0f284.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-1518430192373369693",
-    "timestamp": "2026-08-11T08:59:14.515786+00:00",
+    "url": "https://x.com/CBSNews/status/2118439520182652347",
+    "timestamp": "2026-08-11T10:03:53.269166+00:00",
     "original_time": "2026-08-11T06:53:05+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3376634897013515868",
+    "id": "tweet_CBSNews_-4664016344105935171",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Trump secretly switched to a different plane in Turkey, with the help of an airport catering truck, at the end of last month's NATO summit amid an Iranian missile threat, according to officials.",
-    "translated_text": "据官员称，在上个月末的北约峰会上，由于伊朗导弹威胁，特朗普在一辆机场餐饮卡车的帮助下，在土耳其秘密转乘另一架飞机。",
+    "text": "Judge grants DOJ's request to dismiss charges against billionaire Adani, but sharply criticizes DOJ officials.",
+    "translated_text": "法官批准了司法部的请求，驳回对亿万富翁阿达尼的指控，但严厉批评了司法部官员。",
     "images": [
-      "8b2d3ae815115495.jpg"
+      "8f7298762b6e6db5.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3376634897013515868",
-    "timestamp": "2026-08-11T08:59:14.772986+00:00",
-    "original_time": "2026-08-11T06:34:06+00:00"
+    "url": "https://x.com/CBSNews/status/-4664016344105935171",
+    "timestamp": "2026-08-11T10:03:55.479456+00:00",
+    "original_time": "2026-08-10T23:50:38+00:00"
   },
   {
-    "id": "tweet_CBSNews_4866414229339483114",
+    "id": "tweet_CBSEveningNews_3001625074120391577",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "President Donald Trump says FIFA would be making a “terrible mistake” if it considered replacing its president, Gianni Infantino, calling him “fantastic” and crediting him with presiding over the “most successful World Cup” in a Truth Social post Monday night.",
-    "translated_text": "美国总统唐纳德·特朗普表示，如果国际足联考虑更换主席詹尼·因凡蒂诺，那将是一个“可怕的错误”，他在周一晚上的《真相社会》帖子中称他“太棒了”，并称赞他主持了“最成功的世界杯”。",
-    "images": [
-      "16fff239ed88040e.jpg",
-      "0fe842831ea40022.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/4866414229339483114",
-    "timestamp": "2026-08-11T08:59:15.004583+00:00",
-    "original_time": "2026-08-11T06:02:17+00:00"
+    "username": "CBSEveningNews",
+    "text": "Sen. Chuck Grassley has said goodbye to Beth, the Hoover vacuum that served his family for nearly 50 years. And now, thanks to a constituent, a 17-year-old Hoover is ready to carry on the family tradition.",
+    "translated_text": "参议员查克·格拉斯利 (Chuck Grassley) 告别了为他的家人服务了近 50 年的胡佛真空吸尘器贝丝 (Beth)。现在，多亏了一位选民的帮助，17 岁的胡佛已经准备好继承家族传统。",
+    "images": [],
+    "url": "https://x.com/CBSEveningNews/status/3001625074120391577",
+    "timestamp": "2026-08-11T10:03:55.641261+00:00",
+    "original_time": "2026-08-10T23:15:28+00:00"
   },
   {
-    "id": "tweet_CBSNews_6222093659285991299",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "At least 111 people have been killed, with at least 87 others injured, after a 7.4-magnitude earthquake struck western Colombia on Monday. It was the largest earthquake ever recorded in the South American country.",
-    "translated_text": "周一哥伦比亚西部发生7.4级地震，已造成至少111人死亡、至少87人受伤。这是这个南美国家有记录以来最大的地震。",
-    "images": [
-      "4875daa7dd7560fc.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/6222093659285991299",
-    "timestamp": "2026-08-11T08:59:15.164659+00:00",
-    "original_time": "2026-08-11T05:08:24+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_-5257675642878639727",
+    "id": "tweet_CBSEveningNews_-1192565382452691320",
     "type": "tweet",
     "username": "CBSEveningNews",
     "text": "CBS News’ Chief Medical Correspondent@DrLaPookgives insight into President Trump’s new childhood vaccine recommendations.https://cbsn.ws/4wS5iRz",
@@ -361,23 +482,25 @@
     "images": [
       "ea05360ad3664ecb.jpg"
     ],
-    "url": "https://x.com/CBSEveningNews/status/-5257675642878639727",
-    "timestamp": "2026-08-11T08:59:17.774232+00:00",
+    "url": "https://x.com/CBSEveningNews/status/-1192565382452691320",
+    "timestamp": "2026-08-11T10:03:55.853802+00:00",
     "original_time": "2026-08-10T23:13:44+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_-8750686907502060287",
+    "id": "tweet_CBSEveningNews_9212849566564834266",
     "type": "tweet",
     "username": "CBSEveningNews",
     "text": "President Trump signed an executive order Monday outlining new childhood vaccine recommendations, including a plan to limit the number of vaccines routinely recommended and divide them into tiers based on risk.@EdOKeefereports.https://cbsn.ws/4g22gmx",
     "translated_text": "特朗普总统周一签署了一项行政命令，概述了新的儿童疫苗建议，包括一项限制常规推荐疫苗数量并根据风险将其分为几级的计划。@EdOKeefereports.https://cbsn.ws/4g22gmx",
-    "images": [],
-    "url": "https://x.com/CBSEveningNews/status/-8750686907502060287",
-    "timestamp": "2026-08-11T08:59:18.489105+00:00",
+    "images": [
+      "2332ec7941947e46.jpg"
+    ],
+    "url": "https://x.com/CBSEveningNews/status/9212849566564834266",
+    "timestamp": "2026-08-11T10:03:56.061575+00:00",
     "original_time": "2026-08-10T23:10:57+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_-4038989366163374318",
+    "id": "tweet_CBSEveningNews_2960646361519712524",
     "type": "tweet",
     "username": "CBSEveningNews",
     "text": "One person was injured in England when a house exploded due to a gas leak.",
@@ -385,12 +508,12 @@
     "images": [
       "f771853950808522.jpg"
     ],
-    "url": "https://x.com/CBSEveningNews/status/-4038989366163374318",
-    "timestamp": "2026-08-11T08:59:18.886970+00:00",
+    "url": "https://x.com/CBSEveningNews/status/2960646361519712524",
+    "timestamp": "2026-08-11T10:03:56.279785+00:00",
     "original_time": "2026-08-10T23:05:09+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_5853259055259576479",
+    "id": "tweet_CBSEveningNews_4115931626640573389",
     "type": "tweet",
     "username": "CBSEveningNews",
     "text": "One person was injured when a semi-truck overturned after striking an overpass on I-87 in New York. The driver of the truck was ticketed.https://cbsn.ws/45RIHsa",
@@ -398,12 +521,12 @@
     "images": [
       "c582e112d8b540e9.jpg"
     ],
-    "url": "https://x.com/CBSEveningNews/status/5853259055259576479",
-    "timestamp": "2026-08-11T08:59:19.332878+00:00",
+    "url": "https://x.com/CBSEveningNews/status/4115931626640573389",
+    "timestamp": "2026-08-11T10:03:56.481397+00:00",
     "original_time": "2026-08-10T23:03:12+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_3771018294860264060",
+    "id": "tweet_CBSEveningNews_-8997869355139611806",
     "type": "tweet",
     "username": "CBSEveningNews",
     "text": "Jackie, the bald eagle who gained national attention for raising eaglets in Big Bear with her partner Shadow, has died after receiving care in an animal care center.https://cbsn.ws/4wpbpvA",
@@ -411,12 +534,12 @@
     "images": [
       "07357560bb18dbe0.jpg"
     ],
-    "url": "https://x.com/CBSEveningNews/status/3771018294860264060",
-    "timestamp": "2026-08-11T08:59:19.519014+00:00",
+    "url": "https://x.com/CBSEveningNews/status/-8997869355139611806",
+    "timestamp": "2026-08-11T10:03:57.133872+00:00",
     "original_time": "2026-08-10T23:02:27+00:00"
   },
   {
-    "id": "tweet_CBSNews_3829044782180412767",
+    "id": "tweet_CBSNews_6051250795976553063",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Psychiatrist Dr. Jennifer Tufts, who started seeing Lindsay Clancy as a telehealth patient in September 2022, was cross-examined by Clancy's defense attorney Kevin Reddington on Monday, resulting in several tense exchanges.\n\nAt one moment, Tufts testified that Clancy had told her",
@@ -424,58 +547,79 @@
     "images": [
       "898046a73060cfa3.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/3829044782180412767",
-    "timestamp": "2026-08-11T08:59:19.737003+00:00",
+    "url": "https://x.com/CBSNews/status/6051250795976553063",
+    "timestamp": "2026-08-11T10:03:57.734421+00:00",
     "original_time": "2026-08-10T23:07:29+00:00"
   },
   {
-    "id": "tweet_CBSEveningNews_-5495676472151791171",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Taylor Farms, the agricultural giant whose lettuce has been linked to the deadly cyclospora outbreak, is recalling several prepared products made with jalapeños amid a salmonella outbreak linked to the peppers.https://cbsn.ws/3TRWX1t",
-    "translated_text": "农业巨头泰勒农场 (Taylor Farms) 的生菜与致命的环孢子虫爆发有关，在与辣椒有关的沙门氏菌爆发期间，该公司正在召回几种用墨西哥胡椒制成的预制产品。 https://cbsn.ws/3TRWX1t",
-    "images": [
-      "c522d498633ac08d.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/-5495676472151791171",
-    "timestamp": "2026-08-11T08:59:19.946947+00:00",
-    "original_time": "2026-08-10T22:59:22+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_-766970166582369736",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "New body camera video shows the rescue of two women and a 9-year-old boy who spent days lost in the woods along a Michigan river during a tubing trip.",
-    "translated_text": "新的随身摄像机视频显示，两名妇女和一名 9 岁男孩在一次漂流旅行中在密歇根河沿岸的树林里迷路了几天。",
-    "images": [
-      "e687994cc2cdbf35.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/-766970166582369736",
-    "timestamp": "2026-08-11T08:59:20.164098+00:00",
-    "original_time": "2026-08-10T22:56:30+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_2826739558005951372",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "The West is facing its worst wildfire season in a decade, with more than 46,000 fires burning 6.3 million acres so far this year. From Washington to California and Utah, firefighters are battling blazes that have destroyed hundreds of homes and stretched resources thin.",
-    "translated_text": "西部地区正面临十年来最严重的野火季节，今年迄今已有超过 46,000 起火灾，烧毁面积达 630 万英亩。从华盛顿到加利福尼亚州和犹他州，消防队员正在与大火搏斗，这场大火已经摧毁了数百所房屋，资源也十分紧张。",
-    "images": [
-      "b0aada6c2a64cf90.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/2826739558005951372",
-    "timestamp": "2026-08-11T08:59:20.372743+00:00",
-    "original_time": "2026-08-10T22:51:57+00:00"
-  },
-  {
-    "id": "tweet_John_Hudson_2086838835728156924",
+    "id": "tweet_John_Hudson_-7298591262837450928",
     "type": "tweet",
     "username": "John_Hudson",
     "text": "My favorite part: This Turkish catering truck nonchalantly moving from Air Force One to the other plane",
     "translated_text": "我最喜欢的部分：这辆土耳其餐饮卡车漫不经心地从空军一号转移到另一架飞机",
     "images": [],
-    "url": "https://x.com/John_Hudson/status/2086838835728156924",
-    "timestamp": "2026-08-11T09:00:18.925970+00:00",
+    "url": "https://x.com/John_Hudson/status/-7298591262837450928",
+    "timestamp": "2026-08-11T10:04:38.888885+00:00",
     "original_time": "2026-08-11T00:38:27+00:00"
+  },
+  {
+    "id": "tweet_NewsNation_-4289338872762952675",
+    "type": "tweet",
+    "username": "NewsNation",
+    "text": "A Washington Post report says President Trump was secretly transferred to a C-32A military aircraft in July after officials identified a credible Iranian threat against him.@KellieMeyerNewsjoins \"On Balance with@LelandVittert\" to discuss the reported aircraft transfer. MORE:",
+    "translated_text": "《华盛顿邮报》报道称，在官员发现伊朗对特朗普总统构成可信威胁后，特朗普总统于 7 月被秘密转移到一架 C-32A 军用飞机上。@KellieMeyerNews 加入“与 @LelandVittert 保持平衡”讨论所报道的飞机转移事件。更多的：",
+    "images": [],
+    "url": "https://x.com/NewsNation/status/-4289338872762952675",
+    "timestamp": "2026-08-11T10:04:56.372744+00:00",
+    "original_time": "2026-08-11T02:40:32+00:00"
+  },
+  {
+    "id": "tweet_bstarrreports_4595632978748743889",
+    "type": "tweet",
+    "username": "bstarrreports",
+    "text": "Just heard@davidaxelrodand@ScottJenningsKYon AF1 story. Crucial: if the threat was so serious President could not be on AF1  WHY did AF conduct the mission? Iran thought he was on the flight. Wasn’t everyone else on board still at risk? why did AF think this was a legal",
+    "translated_text": "刚刚听到@davidaxelrod 和@ScottJenningsKY 关于 AF1 的故事。至关重要的是：如果威胁如此严重，总统不可能出现在 AF1 上，为什么 AF 执行这项任务？伊朗以为他在飞机上。船上的其他人不是仍然处于危险之中吗？为什么 AF 认为这是合法的",
+    "images": [],
+    "url": "https://x.com/bstarrreports/status/4595632978748743889",
+    "timestamp": "2026-08-11T10:04:56.851539+00:00",
+    "original_time": "2026-08-11T01:42:26+00:00"
+  },
+  {
+    "id": "tweet_DanLamothe_7320225267575158034",
+    "type": "tweet",
+    "username": "DanLamothe",
+    "text": "The Washington Post credited this great plane tracker account with an import detail in our exclusive tonight. Sharing credit where it's due:",
+    "translated_text": "《华盛顿邮报》在我们今晚的独家报道中将进口详细信息归功于这个伟大的飞机追踪帐户。在应得的地方分享信用：",
+    "images": [
+      "d6671dc50750bcfe.svg",
+      "4c69469ccbf40995.jpg"
+    ],
+    "url": "https://x.com/DanLamothe/status/7320225267575158034",
+    "timestamp": "2026-08-11T10:04:57.100415+00:00",
+    "original_time": "2026-08-11T02:09:30+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_9147877430553953081",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "WILD STORY from the Washington Post@DanLamothe@John_Hudson@abtrantonight that President Trump secretly flew on a seperate military aircraft while the White House said he was aboard the old Air Force One. \n\nAll to avoid any assassination attempt from Iran. \n\nOn camera he",
+    "translated_text": "来自《华盛顿邮报》@DanLamothe@John_Hudson@abtrantonnight 的疯狂故事称，特朗普总统秘密乘坐另一架军用飞机，而白宫称他乘坐的是旧空军一号。 \n\n这一切都是为了避免伊朗的任何暗杀企图。 \n\n镜头前的他",
+    "images": [
+      "5df935743671aab2.jpg"
+    ],
+    "url": "https://x.com/KellieMeyerNews/status/9147877430553953081",
+    "timestamp": "2026-08-11T10:04:57.641220+00:00",
+    "original_time": "2026-08-11T02:36:14+00:00"
+  },
+  {
+    "id": "tweet_John_Hudson_7580372530285588557",
+    "type": "tweet",
+    "username": "John_Hudson",
+    "text": "Asked why reporters had been instructed to lower the window shades on the plane, Trump said that it was “because you’re probably on a dangerous flight.\" \n\n“But if I go, you go. Right?\" Trump added. “Perhaps someday you want to change professions”",
+    "translated_text": "当被问及为什么要求记者放下飞机上的百叶窗时，特朗普说，这是“因为你可能正在乘坐危险的航班”。 \n\n“但如果我走了，你也跟着走。对吧？”特朗普补充道。 “也许有一天你想换职业”",
+    "images": [],
+    "url": "https://x.com/John_Hudson/status/7580372530285588557",
+    "timestamp": "2026-08-11T10:04:58.134064+00:00",
+    "original_time": "2026-08-11T00:45:02+00:00"
   }
 ]
