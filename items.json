@@ -1,17 +1,35 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-6698325041063650573",
+    "id": "tweet_ForeignOfficePk_-9109385827934530342",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50chaired a meeting at the Ministry of Foreign Affairs today to review Pakistan’s upcoming diplomatic engagements and assess preparations for forthcoming high-level visits, including the visit of the",
+    "translated_text": "副总理/外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50今天在外交部主持了一次会议，回顾巴基斯坦即将进行的外交活动，并评估即将进行的高层访问的准备工作，包括巴基斯坦总统的访问",
+    "images": [
+      "8da7012dfacfd649.jpg",
+      "e1d04f530e3ccfca.jpg",
+      "4aabffab32801bcd.jpg",
+      "c9b75deb32752352.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-9109385827934530342",
+    "timestamp": "2026-08-12T15:58:21.385260+00:00",
+    "original_time": "2026-08-12T15:27:07+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-8754037152680875457",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Gaza/Palestine - related Query",
     "translated_text": "发言人@TahirAndrabi每周举行新闻发布会关于加沙/巴勒斯坦相关问题",
-    "images": [],
-    "url": "https://x.com/ForeignOfficePk/status/-6698325041063650573",
-    "timestamp": "2026-08-12T14:55:40.490096+00:00",
+    "images": [
+      "b5c4bae1033f54c1.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-8754037152680875457",
+    "timestamp": "2026-08-12T15:58:22.179161+00:00",
     "original_time": "2026-08-12T12:58:21+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_6677143244976986545",
+    "id": "tweet_ForeignOfficePk_-7415030134458933593",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Statement by the President of Iran about Pakistan’s Border Controls",
@@ -19,25 +37,25 @@
     "images": [
       "50f3d3e2ece4b159.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/6677143244976986545",
-    "timestamp": "2026-08-12T14:55:41.424041+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-7415030134458933593",
+    "timestamp": "2026-08-12T15:58:22.595271+00:00",
     "original_time": "2026-08-12T12:57:06+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_1455951592021290258",
+    "id": "tweet_ForeignOfficePk_7681929189223852411",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn the Status of the Iran-U.S. Peace Process & Iran-Oman Talks on the Strait of Hormuz",
-    "translated_text": "发言人@TahirAndrabi 关于伊朗-美国现状的每周新闻发布会和平进程与伊朗-阿曼霍尔木兹海峡会谈",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
       "a33cb92d07be1f34.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/1455951592021290258",
-    "timestamp": "2026-08-12T14:55:42.415956+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/7681929189223852411",
+    "timestamp": "2026-08-12T15:58:22.810804+00:00",
     "original_time": "2026-08-12T12:55:11+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_4306810562503082924",
+    "id": "tweet_ForeignOfficePk_7079171254307552435",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn the Status of Islamabad MoU, 60 Days Deadline and Prospect of Future Talks",
@@ -45,50 +63,132 @@
     "images": [
       "f4a6288e1f3e33e1.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/4306810562503082924",
-    "timestamp": "2026-08-12T14:55:43.222333+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/7079171254307552435",
+    "timestamp": "2026-08-12T15:58:23.206706+00:00",
     "original_time": "2026-08-12T12:46:23+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-4370258617617011947",
+    "id": "tweet_PakPMO_-8904136768841230434",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Weekly Press Briefing by the Spokesperson@TahirAndrabiOn Makkah Joint Defence Agreement - related Queries",
-    "translated_text": "发言人@TahirAndrabi 每周举行新闻发布会关于麦加联合防御协议 - 相关询问",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif presented awards to high achievers at the International Youth Day ceremony in Islamabad on 12 August 2026.",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫于 2026 年 8 月 12 日在伊斯兰堡举行的国际青年日仪式上向杰出成就者颁奖。",
     "images": [
-      "9eb97b197d1f4183.jpg",
-      "e74fc44e9b03903f.jpg"
+      "b159b6d5460d0968.jpg",
+      "7456ad0e4b41ea1d.jpg",
+      "0b94d1f399a9232d.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-4370258617617011947",
-    "timestamp": "2026-08-12T14:55:43.948533+00:00",
-    "original_time": "2026-08-12T12:44:13+00:00"
+    "url": "https://x.com/PakPMO/status/-8904136768841230434",
+    "timestamp": "2026-08-12T15:59:34.655841+00:00",
+    "original_time": "2026-08-12T15:41:35+00:00"
   },
   {
-    "id": "tweet_CMShehbaz_4027250394880165505",
+    "id": "tweet_PakPMO_-6454653669744951137",
     "type": "tweet",
-    "username": "CMShehbaz",
-    "text": "Deeply saddened by the passing of former Chinese Premier Zhu Rongji, a great leader and a good friend of Pakistan. \n\nOn behalf of the Government and people of Pakistan, I extend heartfelt condolences to President Xi Jinping, Premier Li Qiang, the Chinese people and the bereaved",
-    "translated_text": "对巴基斯坦伟大领袖、好朋友中国前总理朱镕基的逝世深感悲痛。 \n\n我谨代表巴基斯坦政府和人民，向习近平主席、李强总理、中国人民和遇难者家属表示诚挚慰问",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif commended Muhammad Qasim, a talented student of Danish School Fazilpur, and presented him with an award for securing first position in the Science Group and second position overall in the SSC Part-II examinations conducted by the Board of",
+    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理赞扬了丹麦法齐尔布尔学校的才华横溢的学生穆罕默德·卡西姆，并为他在丹麦委员会举办的 SSC 第二部分考试中获得科学组第一名和总体第二名颁发了奖励。",
+    "images": [
+      "18e452eb01fc1e92.jpg",
+      "0fa5b81614fd3048.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-6454653669744951137",
+    "timestamp": "2026-08-12T15:59:35.685228+00:00",
+    "original_time": "2026-08-12T15:40:11+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_6949590744541215891",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif participated today in an event held in Islamabad on the occasion of International Youth Day and addressed the gathering. Federal ministers, parliamentarians, students, and others attended the event.\n\nThe Prime Minister launched the First",
+    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理今天参加了国际青年日之际在伊斯兰堡举行的活动并发表讲话。联邦部长、议员、学生等出席了此次活动。\n\n总理启动了第一",
+    "images": [
+      "1dee5f8aa2aa1496.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/6949590744541215891",
+    "timestamp": "2026-08-12T15:59:36.522619+00:00",
+    "original_time": "2026-08-12T15:32:14+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_4876126705107221910",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif addresses the International Youth Day Ceremony in Islamabad on 12 August 2026.",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫于 2026 年 8 月 12 日在伊斯兰堡举行的国际青年日仪式上发表讲话。",
+    "images": [
+      "f35c47551821b1fb.jpg",
+      "504de9ee76b812b1.jpg",
+      "4a54ed7b35ea7d6a.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/4876126705107221910",
+    "timestamp": "2026-08-12T15:59:36.985333+00:00",
+    "original_time": "2026-08-12T15:22:15+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-5516802104801519753",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif digitally launches the National Youth Employment Policy, on the International Youth Day Ceremony in Islamabad on 12 August 2026.",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫于 2026 年 8 月 12 日在伊斯兰堡举行的国际青年日仪式上以数字方式启动了国家青年就业政策。",
+    "images": [
+      "4db126eff50e0a04.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-5516802104801519753",
+    "timestamp": "2026-08-12T15:59:37.182401+00:00",
+    "original_time": "2026-08-12T15:20:45+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_-5414488033039004558",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif in a group photo with high achievers at the International Youth Day Ceremony in Islamabad on 12 August 2026.",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫于 2026 年 8 月 12 日在伊斯兰堡举行的国际青年日仪式上与杰出人士合影。",
+    "images": [
+      "e65ad7808a9e7b2c.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/-5414488033039004558",
+    "timestamp": "2026-08-12T15:59:37.384615+00:00",
+    "original_time": "2026-08-12T15:19:49+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-8238223044192888708",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan’s freedom was not won by men alone. From Fatima Sughra raising the Muslim League flag in Lahore to Fatima Jinnah mobilising women nationwide, countless women marched, campaigned, endured imprisonment and carried the demand for Pakistan into streets, campuses and homes.",
+    "translated_text": "巴基斯坦的自由不是靠男人一人赢得的。从法蒂玛·苏格拉 (Fatima Sughra) 在拉合尔升起穆斯林联盟旗帜，到法蒂玛·真纳 (Fatima Jinnah) 动员全国妇女，无数妇女游行、竞选、忍受监禁，并将对巴基斯坦的要求带入街道、校园和家庭。",
     "images": [],
-    "url": "https://x.com/CMShehbaz/status/4027250394880165505",
-    "timestamp": "2026-08-12T14:56:15.764891+00:00",
-    "original_time": "2026-08-12T13:44:57+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-8238223044192888708",
+    "timestamp": "2026-08-12T16:00:36.172378+00:00",
+    "original_time": "2026-08-12T15:48:45+00:00"
   },
   {
-    "id": "tweet_CMShehbaz_-1839641670693997848",
+    "id": "tweet_PakTVGlobal_5072301533313921707",
     "type": "tweet",
-    "username": "CMShehbaz",
-    "text": "On International Youth Day, we celebrate the energy, talent and resolve of Pakistan’s youth. Our young people are the driving force of Pakistan’s progress and prosperity, with their innovation and leadership shaping a brighter future for our nation.\n\nMy government remains",
-    "translated_text": "在国际青年日，我们庆祝巴基斯坦青年的活力、才华和决心。我们的年轻人是巴基斯坦进步和繁荣的驱动力，他们的创新和领导力为我们的国家塑造了更加光明的未来。\n\n我的政府依然存在",
+    "username": "PakTVGlobal",
+    "text": "The IMF has reached a staff-level agreement with Guinea on a new $439 million loan program aimed at turning the West African nation’s resource wealth into broader economic growth. The more than three-year program, which remains subject to IMF Executive Board approval in",
+    "translated_text": "国际货币基金组织与几内亚就一项新的 4.39 亿美元贷款计划达成了工作人员级协议，旨在将这个西非国家的资源财富转化为更广泛的经济增长。这项为期三年多的计划仍有待国际货币基金组织执行董事会批准",
     "images": [
-      "1e2d0d4b0e79fb5f.jpg"
+      "6d6c12b3fdc9d650.jpg"
     ],
-    "url": "https://x.com/CMShehbaz/status/-1839641670693997848",
-    "timestamp": "2026-08-12T14:56:16.482604+00:00",
-    "original_time": "2026-08-12T10:29:27+00:00"
+    "url": "https://x.com/PakTVGlobal/status/5072301533313921707",
+    "timestamp": "2026-08-12T16:00:36.922338+00:00",
+    "original_time": "2026-08-12T15:35:19+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6117019554519142959",
+    "id": "tweet_PakTVGlobal_7558848127294506898",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Colombia has declared three days of national mourning for victims of the devastating 7.4-magnitude earthquake that struck the west of the country, killing more than 200 people. Monday’s quake was the strongest to hit Colombia in a century.#ColombiaEarthquake#EarthquakeDisaster",
+    "translated_text": "哥伦比亚宣布全国哀悼三天，悼念该国西部发生的 7.4 级地震，造成 200 多人死亡。周一的地震是哥伦比亚一个世纪以来最强烈的地震。#ColombiaEarthquake#EarthquakeDisaster",
+    "images": [
+      "48a4f894c0786c88.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/7558848127294506898",
+    "timestamp": "2026-08-12T16:00:38.255286+00:00",
+    "original_time": "2026-08-12T14:58:37+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-5110718197641568296",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "President Asif Ali Zardari has expressed deep grief over the demise of former Chinese Premier Zhu Rongji, extending heartfelt condolences to his family, President Xi Jinping and the people of China. He said Pakistan had lost a good friend and Premier Zhu’s contribution to",
@@ -96,67 +196,68 @@
     "images": [
       "6f494d07d8fbfcce.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6117019554519142959",
-    "timestamp": "2026-08-12T14:57:28.207453+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-5110718197641568296",
+    "timestamp": "2026-08-12T16:00:38.644344+00:00",
     "original_time": "2026-08-12T14:51:41+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3215314154121808555",
+    "id": "tweet_PakTVGlobal_-2442914322336229033",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "“Pakistan understands the value of peace, having itself paid a heavy price for terrorism,” says Geopolitical Analyst Dr. Irfan Raja, speaking from London. He says Pakistan’s diplomatic efforts to promote peace in the Middle East have received recognition regionally and",
-    "translated_text": "“巴基斯坦了解和平的价值，它自己也为恐怖主义付出了沉重的代价，”地缘政治分析师伊尔凡·拉贾博士在伦敦发表讲话时表示。他说，巴基斯坦促进中东和平的外交努力得到了地区和地区的认可。",
+    "text": "Spain's 19-year-old Rafael Jodar defeats Arthur Fils 7-6 (7-5), 6-3 to reach the Canadian Open semi-finals and climb to 11th in the live ATP rankings. A win over Brandon Nakashima would take Jodar into the top 10 and put him within reach of Boris Becker's record.#RafaelJodar",
+    "translated_text": "西班牙19岁选手拉斐尔·乔达尔以7-6（7-5）、6-3击败阿瑟·菲尔斯，进入加拿大公开赛半决赛，并在ATP实时排名中攀升至第11位。战胜布兰登·中岛将使乔达尔进入前十名，并使他接近鲍里斯·贝克尔的记录。#RafaelJodar",
     "images": [
-      "437adc635857d9f0.jpg"
+      "663c9116abfe2406.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3215314154121808555",
-    "timestamp": "2026-08-12T14:57:29.182492+00:00",
-    "original_time": "2026-08-12T14:38:06+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-2442914322336229033",
+    "timestamp": "2026-08-12T16:00:41.188275+00:00",
+    "original_time": "2026-08-12T10:10:05+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7944321415692977116",
+    "id": "tweet_PakTVGlobal_-4389135932964497556",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Eighteen terrorists affiliated with Fitna Al Hindustan have been killed in Surab district, Balochistan. Eight died after an under-preparation VBIED detonated prematurely, while security forces neutralized 10 more fleeing terrorists. According to ISPR, three civilians were",
-    "translated_text": "与 Fitna Al Hindustan 有关联的 18 名恐怖分子在俾路支省苏拉布地区被击毙。准备不足的 VBIED 过早引爆，造成 8 人死亡，同时安全部队又消灭了另外 10 名逃跑的恐怖分子。据 ISPR 报道，三名平民",
-    "images": [
-      "1021670a0ab0cc0d.jpg",
-      "0a4a73281bc60186.jpg",
-      "f0b3606493c25273.jpg",
-      "d823e0ac3458396c.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/7944321415692977116",
-    "timestamp": "2026-08-12T14:57:30.354744+00:00",
-    "original_time": "2026-08-12T13:18:42+00:00"
+    "text": "Iranian Ambassador Reza Amiri Moghadam called on DPM/FM Ishaq Dar and briefed him on progress in bilateral cooperation, while the two sides exchanged views on regional developments and the importance of dialogue and diplomacy.@MIshaqDar50@IranAmbPak#Pakistan#Iran",
+    "translated_text": "伊朗大使礼萨·阿米里·莫哈达姆拜会副总理兼外长伊沙克·达尔，介绍了双边合作进展情况，双方就地区发展以及对话和外交的重要性交换了意见。@MIshaqDar50@IranAmbPak#Pakistan#Iran",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-4389135932964497556",
+    "timestamp": "2026-08-12T16:00:41.649411+00:00",
+    "original_time": "2026-08-12T09:49:00+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_4641083521470348998",
+    "id": "tweet_PakTVGlobal_-177443858081636259",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "US consumer inflation eased slightly to 3.4 percent year-on-year in July, government data showed, despite volatile oil prices linked to the Iran war. The Consumer Price Index rose 0.1 percent from the previous month, potentially giving the Federal Reserve more room on interest",
-    "translated_text": "政府数据显示，尽管伊朗战争导致油价波动，但 7 月份美国消费者通胀同比小幅回落至 3.4%。消费者价格指数环比上涨0.1%，可能给美联储更大的加息空间",
+    "text": "#BREAKINGIranian Ambassador Reza Amiri Moghadam called on Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar in Islamabad. The two sides reviewed progress under bilateral mechanisms to strengthen cooperation and exchanged views on regional developments.",
+    "translated_text": "#BREAKING伊朗大使礼萨·阿米里·穆加达姆在伊斯兰堡拜会副总理兼外交部长参议员穆罕默德·伊沙克·达尔。双方回顾了双边机制下加强合作的进展，并就地区发展交换了意见。",
     "images": [
-      "84ad3700241ceec8.jpg"
+      "08bf91f237749af1.jpg",
+      "a69223c387b2a0b2.jpg",
+      "3619dbb20e3c320c.jpg",
+      "959103bab97f7203.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/4641083521470348998",
-    "timestamp": "2026-08-12T14:57:31.445910+00:00",
-    "original_time": "2026-08-12T13:08:42+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-177443858081636259",
+    "timestamp": "2026-08-12T16:00:42.442110+00:00",
+    "original_time": "2026-08-12T09:43:54+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6840508437838509455",
+    "id": "tweet_PakTVGlobal_-2079792322717602699",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Extreme weather and a jellyfish invasion knocked more than 20 percent of France’s nuclear power production capacity offline, marking a record environmentally linked shortfall. Thirteen of the country’s 57 reactors were affected, with jellyfish clogging cooling pumps at the",
-    "translated_text": "极端天气和水母入侵导致法国 20% 以上的核电产能停产，创下了与环境相关的缺口记录。该国 57 座反应堆中有 13 座受到影响，水母堵塞了冷却泵",
+    "text": "Reports of an Air India pilot testing positive for marijuana following a flight incident have triggered renewed concerns over pilot screening, airline safety protocols and regulatory oversight. The incident reportedly involved a sudden 300-foot drop that injured 24 passengers,",
+    "translated_text": "印度航空一名飞行员在一次飞行事故后大麻检测呈阳性的报道引发了人们对飞行员筛查、航空公司安全协议和监管监督的新担忧。据报道，这起事件涉及从 300 英尺处突然坠落，导致 24 名乘客受伤。",
     "images": [
-      "2a19af60eaca9816.jpg"
+      "c6f9e75179c4575c.jpg",
+      "1b9d263a706e3bad.jpg",
+      "acc55bcbc8dbaa14.jpg",
+      "dc23303882ab9383.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6840508437838509455",
-    "timestamp": "2026-08-12T14:57:32.503650+00:00",
-    "original_time": "2026-08-12T13:06:59+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-2079792322717602699",
+    "timestamp": "2026-08-12T16:00:43.305175+00:00",
+    "original_time": "2026-08-12T09:19:40+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7902329460025079481",
+    "id": "tweet_PakTVGlobal_-6402293056376393529",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Bangladesh captain Najmul Hossain Shanto says wicketkeeper-batter Litton Das is \"100 percent fit\" for the first Test against Australia in Darwin. Das, who has been sidelined since June with a calf injury, is set to return after being added to the squad late.#LittonDas",
@@ -164,25 +265,25 @@
     "images": [
       "56379222a078f1f8.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-7902329460025079481",
-    "timestamp": "2026-08-12T14:57:35.168880+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-6402293056376393529",
+    "timestamp": "2026-08-12T16:00:43.977035+00:00",
     "original_time": "2026-08-12T08:52:34+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_4711549417108372095",
+    "id": "tweet_PakTVGlobal_8896482472035289642",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Two rebels were killed in airstrikes ordered by Colombia’s new government, according to a military source. The strikes come as Bogotá steps up efforts to combat escalating violence gripping the country.#Colombia#Airstrikes#RebelConflict#ColombiaViolence#PakistanTV",
-    "translated_text": "据军方消息人士称，两名叛乱分子在哥伦比亚新​​政府下令的空袭中被打死。此次袭击发生之际，波哥大正加大力度打击全国不断升级的暴力事件。#Colombia#Airstrikes#RebelConflict#ColombiaViolence#PakistanTV",
+    "translated_text": "据军方消息人士称，哥伦比亚新​​政府下令发动空袭，两名叛乱分子被打死。此次袭击发生之际，波哥大正加大力度打击全国不断升级的暴力事件。#Colombia#Airstrikes#RebelConflict#ColombiaViolence#PakistanTV",
     "images": [
       "2755e54e082c21bc.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/4711549417108372095",
-    "timestamp": "2026-08-12T14:57:36.426827+00:00",
+    "url": "https://x.com/PakTVGlobal/status/8896482472035289642",
+    "timestamp": "2026-08-12T16:00:44.555646+00:00",
     "original_time": "2026-08-12T08:50:51+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_7787581642560689700",
+    "id": "tweet_PakTVGlobal_-7401570629543913925",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "A Hong Kong court has sentenced a 19-year-old to 18 months of probation for writing “seditious” words on a toilet wall, including a slogan associated with the city’s 2019 pro-democracy protests.#HongKong#FreeSpeech#Sedition#ProDemocracy#PakistanTV",
@@ -190,51 +291,23 @@
     "images": [
       "733155af9abc0664.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/7787581642560689700",
-    "timestamp": "2026-08-12T14:57:37.609480+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-7401570629543913925",
+    "timestamp": "2026-08-12T16:00:45.306087+00:00",
     "original_time": "2026-08-12T08:49:24+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_5043091871487260552",
+    "id": "tweet_CBSNews_-1223650066124556630",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Ipswich Town have reached an agreement to sign Paraguay forward Julio Enciso from Strasbourg. The 22-year-old will reunite with manager Gary O'Neil after impressing under him in France last season and previously spending six months on loan at Ipswich.#JulioEnciso#IpswichTown",
-    "translated_text": "伊普斯维奇镇已达成协议，从斯特拉斯堡签下巴拉圭前锋胡里奥·恩西索。这位 22 岁的球员上赛季在法国表现出色，此前曾被租借至伊普斯维奇六个月，之后将与主教练加里·奥尼尔重聚。#JulioEnciso#IpswichTown",
-    "images": [
-      "fa2ca3a4d5bfd438.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/5043091871487260552",
-    "timestamp": "2026-08-12T14:57:38.985185+00:00",
-    "original_time": "2026-08-12T08:48:05+00:00"
+    "username": "CBSNews",
+    "text": "After more than five years in detention, Myanmar’s former leader Aung San Suu Kyi has been seen in public photos for the first time since the country's military ousted her elected government in 2021. \n\nIt’s the first time her son, Kim Aris, has seen her since 2021, CBS News’",
+    "translated_text": "在被拘留五年多后，缅甸前领导人昂山素季自 2021 年缅甸军方推翻其民选政府以来首次出现在公开照片中。 \n\n据哥伦比亚广播公司新闻报道，这是她的儿子 Kim Aris 自 2021 年以来第一次见到她",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/-1223650066124556630",
+    "timestamp": "2026-08-12T16:04:09.106690+00:00",
+    "original_time": "2026-08-12T15:31:52+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4068439633298906317",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Pep Chavarria joins Chelsea from Rayo Vallecano on a five-year deal worth around £16.3m plus £1.7m in add-ons. The 28-year-old left-back, who made his La Liga debut at 24, calls the move a dream opportunity.#PepChavarria#ChelseaFC#RayoVallecano#PremierLeague#PakistanTV",
-    "translated_text": "佩普·查瓦里亚 (Pep Chavarria) 从巴列卡诺 (Rayo Vallecano) 加盟切尔西，签订了一份价值约 1630 万英镑的五年合同，外加 170 万英镑的附加费。这位 28 岁的左后卫在 24 岁时首次亮相西甲，他称这次转会是一个梦想的机会。#PepChavarria#ChelseaFC#RayoVallecano#PremierLeague#PakistanTV",
-    "images": [
-      "7fc1ee2903f32fee.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-4068439633298906317",
-    "timestamp": "2026-08-12T14:57:39.338544+00:00",
-    "original_time": "2026-08-12T08:46:11+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_8094936645778399161",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Deputy Prime Minister and Foreign Minister Ishaq Dar and Indonesian Foreign Minister Sugiono discuss bilateral ties, regional and international developments. Sugiono appreciates Pakistan’s constructive and important role in promoting dialogue and facilitating efforts for peace",
-    "translated_text": "副总理兼外交部长伊沙克·达尔和印度尼西亚外交部长苏吉奥诺讨论双边关系、地区和国际发展。苏吉野赞赏巴基斯坦在促进对话和促进和平努力方面发挥的建设性重要作用",
-    "images": [
-      "8ee397613d7a8880.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8094936645778399161",
-    "timestamp": "2026-08-12T14:57:42.341712+00:00",
-    "original_time": "2026-08-12T06:04:57+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_5509747144337266445",
+    "id": "tweet_CBSNews_6900123558133737206",
     "type": "tweet",
     "username": "CBSNews",
     "text": "The Powerball jackpot drawing on Wednesday has crossed the $1 billion mark.",
@@ -242,12 +315,12 @@
     "images": [
       "a5a194833a964d4d.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/5509747144337266445",
-    "timestamp": "2026-08-12T15:00:28.742141+00:00",
+    "url": "https://x.com/CBSNews/status/6900123558133737206",
+    "timestamp": "2026-08-12T16:04:09.330182+00:00",
     "original_time": "2026-08-12T14:28:44+00:00"
   },
   {
-    "id": "tweet_CBSNews_-5120336724725228858",
+    "id": "tweet_CBSNews_-467706072882815890",
     "type": "tweet",
     "username": "CBSNews",
     "text": "The only total solar eclipse of 2026 will cross the Northern Hemisphere later today, with a path of totality across parts of Greenland, Iceland and northern Spain. See when and where it will be visible.",
@@ -255,12 +328,12 @@
     "images": [
       "a468d96c4ccf5224.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-5120336724725228858",
-    "timestamp": "2026-08-12T15:00:29.632976+00:00",
+    "url": "https://x.com/CBSNews/status/-467706072882815890",
+    "timestamp": "2026-08-12T16:04:09.561400+00:00",
     "original_time": "2026-08-12T14:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_1638532236479601956",
+    "id": "tweet_CBSNews_-5438729746536219268",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Norah O'Donnell sat down with her own doctor, Rachel Rubin, to tackle the important topic of menopause: How your body changes, why women may be needlessly suffering, and what you can actually do about it.",
@@ -268,12 +341,12 @@
     "images": [
       "ab91a21270d9c805.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1638532236479601956",
-    "timestamp": "2026-08-12T15:00:30.453878+00:00",
+    "url": "https://x.com/CBSNews/status/-5438729746536219268",
+    "timestamp": "2026-08-12T16:04:09.791760+00:00",
     "original_time": "2026-08-12T13:30:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2461424883303050454",
+    "id": "tweet_CBSNews_-2960851379369518072",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Defense Secretary Pete Hegseth was with President Trump last month when he secretly took a different plane from the publicly identified Air Force One aircraft from the NATO summit, according to sources familiar with the situation.",
@@ -281,38 +354,49 @@
     "images": [
       "5ce3c6bc8cdf50d3.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2461424883303050454",
-    "timestamp": "2026-08-12T15:00:30.635322+00:00",
+    "url": "https://x.com/CBSNews/status/-2960851379369518072",
+    "timestamp": "2026-08-12T16:04:10.046446+00:00",
     "original_time": "2026-08-12T13:24:21+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6573323945329109919",
+    "id": "tweet_CBSNews_-6263208376667053407",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "BREAKING: Inflation eased for a second consecutive month, rising at an annual rate of 3.4% in July.",
-    "translated_text": "突发新闻：通货膨胀连续第二个月放缓，7 月份年率上升 3.4%。",
-    "images": [
-      "7d4555ca411559b9.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-6573323945329109919",
-    "timestamp": "2026-08-12T15:00:31.143251+00:00",
-    "original_time": "2026-08-12T12:48:14+00:00"
+    "text": "Indonesian authorities rescued at least 172 people on Wednesday after a ferry traveling from the tourist island of Bali caught fire in waters off Lombok, officials said, as the search continued for any other missing passengers.\n\nThe KM Putri Yasmin ferry left Padangbai port in",
+    "translated_text": "官员称，周三，一艘从旅游岛巴厘岛出发的渡轮在龙目岛附近海域起火，印尼当局救出了至少 172 人，同时仍在继续寻找其他失踪乘客。\n\nKM Putri Yasmin 渡轮于",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/-6263208376667053407",
+    "timestamp": "2026-08-12T16:04:12.655116+00:00",
+    "original_time": "2026-08-12T09:50:56+00:00"
   },
   {
-    "id": "tweet_CBSNews_-524321224669358217",
+    "id": "tweet_CBSNews_-651993101804800059",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "F-16 fighter jets intercepted a civilian plane that violated a temporary flight restriction over Geneva, Ohio, where President Trump attended the 2026 Patriot Games.",
-    "translated_text": "F-16 战斗机在特朗普总统出席 2026 年爱国者运动会的俄亥俄州日内瓦上空拦截了一架违反临时飞行限制的民用飞机。",
+    "text": "Footage posted on social media shows baby rescued from rubble in Colombia after devastating earthquake kills at least 181.",
+    "translated_text": "社交媒体上发布的视频显示，哥伦比亚发生毁灭性地震，造成至少 181 人死亡，婴儿从废墟中被救出。",
     "images": [
-      "9e4f200365d1e4a5.jpg"
+      "cfbf0e4f85982a20.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-524321224669358217",
-    "timestamp": "2026-08-12T15:00:32.040782+00:00",
-    "original_time": "2026-08-12T12:20:00+00:00"
+    "url": "https://x.com/CBSNews/status/-651993101804800059",
+    "timestamp": "2026-08-12T16:04:12.875069+00:00",
+    "original_time": "2026-08-12T09:00:20+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8607032647686631288",
+    "id": "tweet_CBSNews_1924882662297605417",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Senator Darline Graham, sister of the late Senator Lindsey Graham, is headed to a runoff against Rep. Ralph Norman in South Carolina’s special Republican Senate primary, CBS News projects.",
+    "translated_text": "据哥伦比亚广播公司新闻报道，已故参议员林赛·格雷厄姆的妹妹参议员达林·格雷厄姆将在南卡罗来纳州特别共和党参议院初选中与众议员拉尔夫·诺曼进行决选。",
+    "images": [
+      "4d0020cea4241e53.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1924882662297605417",
+    "timestamp": "2026-08-12T16:04:13.124163+00:00",
+    "original_time": "2026-08-12T07:48:12+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-8930207674431489242",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Donald Trump praised Darline Graham on Tuesday after she advanced to a runoff later this month in the South Carolina special Republican primary for Senate, CBS News projects. \n\nGraham, the sister of the late Senator Lindsey Graham, was praised by Trump as a “very good woman”",
@@ -320,12 +404,12 @@
     "images": [
       "157adf777197df6a.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8607032647686631288",
-    "timestamp": "2026-08-12T15:00:34.225012+00:00",
+    "url": "https://x.com/CBSNews/status/-8930207674431489242",
+    "timestamp": "2026-08-12T16:04:13.606743+00:00",
     "original_time": "2026-08-12T07:27:25+00:00"
   },
   {
-    "id": "tweet_CBSNews_2130039134976034488",
+    "id": "tweet_CBSNews_773355207890952747",
     "type": "tweet",
     "username": "CBSNews",
     "text": "CBS News projects: Lt. Gov. Peggy Flanagan wins Democratic primary for Senate in Minnesota.",
@@ -333,12 +417,12 @@
     "images": [
       "19e4a408a94f9168.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2130039134976034488",
-    "timestamp": "2026-08-12T15:00:34.418364+00:00",
+    "url": "https://x.com/CBSNews/status/773355207890952747",
+    "timestamp": "2026-08-12T16:04:13.853556+00:00",
     "original_time": "2026-08-12T06:58:16+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6390564253778770561",
+    "id": "tweet_CBSNews_-6881661236432324480",
     "type": "tweet",
     "username": "CBSNews",
     "text": "CBS News projects: Rep. Ilhan Omar wins Democratic primary in Minnesota's 5th Congressional District.",
@@ -346,38 +430,25 @@
     "images": [
       "a48997b0e2cbae5d.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-6390564253778770561",
-    "timestamp": "2026-08-12T15:00:34.594259+00:00",
+    "url": "https://x.com/CBSNews/status/-6881661236432324480",
+    "timestamp": "2026-08-12T16:04:14.149647+00:00",
     "original_time": "2026-08-12T06:56:11+00:00"
   },
   {
-    "id": "tweet_CBSNews_4340671567314961099",
+    "id": "tweet_CBSNews_-4500245694595365701",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A high school football player in Arkansas found a 2-foot-long cottonmouth snake inside his helmet last week.\n\nThe pit viper was so reluctant to exit the helmet that police officers had to pour water into it to force the snake out and into a bag.",
-    "translated_text": "上周，阿肯色州一名高中橄榄球运动员在头盔内发现了一条 2 英尺长的棉口蛇。\n\n毒蛇不愿意从头盔中出来，警察不得不将水倒入头盔中，将蛇推出并放入袋子中。",
+    "translated_text": "上周，阿肯色州一名高中橄榄球运动员在头盔内发现了一条 2 英尺长的棉口蛇。\n\n毒蛇不愿意从头盔中出来，警察不得不将水倒入头盔中，将蛇推出并装进袋子里。",
     "images": [
       "66f23e864799c4fb.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4340671567314961099",
-    "timestamp": "2026-08-12T15:00:34.764083+00:00",
+    "url": "https://x.com/CBSNews/status/-4500245694595365701",
+    "timestamp": "2026-08-12T16:04:14.434132+00:00",
     "original_time": "2026-08-12T06:41:12+00:00"
   },
   {
-    "id": "tweet_CBSNews_5214458754855700297",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "CBS News projects: Minnesota's progressive Lt. Gov. Peggy Flanagan defeats Rep. Angie Craig in the Democratic primary for U.S. Senate.",
-    "translated_text": "哥伦比亚广播公司新闻报道：明尼苏达州进步派副州长佩吉·弗拉纳根 (Peggy Flanagan) 在美国参议院民主党初选中击败众议员安吉·克雷格 (Angie Craig)。",
-    "images": [
-      "19e4a408a94f9168.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/5214458754855700297",
-    "timestamp": "2026-08-12T15:00:35.721950+00:00",
-    "original_time": "2026-08-12T06:21:20+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_5365158523478740493",
+    "id": "tweet_JenniferJJacobs_1704783204353511942",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "NEWS via@CBSNews: One cabinet secretary was on the secret plane with Trump -- Pete Hegseth -- when he employed a ruse to evade an Iran threat after the NATO summit. \nTwo cabinet secretary were on the decoy (the plane publicly identified as AF1): Marco Rubio and Scott Bessent,",
@@ -385,8 +456,8 @@
     "images": [
       "5ce3c6bc8cdf50d3.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/5365158523478740493",
-    "timestamp": "2026-08-12T15:00:54.073602+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/1704783204353511942",
+    "timestamp": "2026-08-12T16:04:29.687089+00:00",
     "original_time": "2026-08-12T13:35:07+00:00"
   }
 ]
