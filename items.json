@@ -1,171 +1,333 @@
 [
   {
-    "id": "tweet_CBSNews_3718585675644006675",
+    "id": "tweet_ForeignOfficePk_-404265344179741207",
     "type": "tweet",
-    "username": "CBSNews",
-    "text": "Democrats pick candidates in 2 crucial Wisconsin House districts as Sean Duffy's son-in-law wins a GOP primary.",
-    "translated_text": "肖恩·达菲的女婿赢得共和党初选，民主党在威斯康星州众议院的两个关键选区选出候选人。",
+    "username": "ForeignOfficePk",
+    "text": "LIVE: Spokesperson's Weekly Press Briefing 12-08-2026 at Ministry of Foreign Affairs, Islamabad",
+    "translated_text": "直播：发言人于 2026 年 8 月 12 日在伊斯兰堡外交部举行的每周新闻发布会",
+    "images": [
+      "7f1a451786c84548.svg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-404265344179741207",
+    "timestamp": "2026-08-12T08:16:17.301202+00:00",
+    "original_time": "2026-08-12T06:42:05+00:00"
+  },
+  {
+    "id": "tweet_MIshaqDar50_2610893915866905605",
+    "type": "tweet",
+    "username": "MIshaqDar50",
+    "text": "I have learnt with deep concern about the unfortunate incident involving an attack on a commercial vessel in the Red Sea. According to the information available so far, three Pakistani nationals have lost their lives and one has sustained injuries in the incident. We extend our",
+    "translated_text": "我深感关切地了解到红海一艘商船遭到袭击的不幸事件。据目前掌握的消息，事件中已有3名巴基斯坦国民丧生，1人受伤。我们延长我们的",
     "images": [],
-    "url": "https://x.com/CBSNews/status/3718585675644006675",
-    "timestamp": "2026-08-12T06:18:33.385920+00:00",
-    "original_time": "2026-08-12T06:17:03+00:00"
+    "url": "https://x.com/MIshaqDar50/status/2610893915866905605",
+    "timestamp": "2026-08-12T08:16:18.122955+00:00",
+    "original_time": "2026-08-12T06:23:06+00:00"
   },
   {
-    "id": "tweet_CBSNews_8133775750455860114",
+    "id": "tweet_PakTVGlobal_-291475701071111401",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Former Liverpool head coach Arne Slot confirms he held talks over the vacant Netherlands job but withdrew from the process as he wants his next role to be in club football. Slot says reports of a dispute over salary and contract length were incorrect.#ArneSlot#Netherlands",
+    "translated_text": "前利物浦主教练阿恩·斯洛特证实，他​​曾就荷兰队的空缺职位进行过谈判，但他退出了谈判，因为他希望自己的下一个角色是在俱乐部足球中。斯洛特表示有关工资和合同期限争议的报道不正确。#ArneSlot#Netherlands",
+    "images": [
+      "d2d1544d47657681.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-291475701071111401",
+    "timestamp": "2026-08-12T08:18:02.314106+00:00",
+    "original_time": "2026-08-12T08:04:42+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-5706952448776167279",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "54-year-old American surfing legend Kelly Slater battles through heavy wipeouts at Teahupo'o to defeat Brazil's Gabriel Medina and advance to the third round of the Tahiti Pro. Slater scored a stunning 9.73 after threading a deep tube in challenging waves.#KellySlater",
+    "translated_text": "54 岁的美国冲浪传奇人物凯利·斯雷特 (Kelly Slater) 在 Teahupo'o 球场上惨遭淘汰，击败了巴西选手加布里埃尔·梅迪纳 (Gabriel Medina)，晋级大溪地职业冲浪赛第三轮。 Slater 在具有挑战性的波浪中穿过深管后获得了惊人的 9.73。#KellySlater",
+    "images": [
+      "ccb64a518f398042.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-5706952448776167279",
+    "timestamp": "2026-08-12T08:18:03.157344+00:00",
+    "original_time": "2026-08-12T08:04:11+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1734875469200017689",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGForeign Office spokesperson Tahir Andrabi says Pakistan remains actively engaged in efforts to resolve the Middle East and Gulf crisis; spokesperson says Islamabad is making all-out efforts to bring parties to the negotiating table and will support dialogue through",
+    "translated_text": "#BREAKING外交部发言人塔希尔·安德拉比表示，巴基斯坦仍然积极致力于解决中东和海湾危机；发言人表示，伊斯兰堡正在全力推动各方回到谈判桌，并将支持通过",
+    "images": [
+      "25115b4a6aea8c52.jpg",
+      "48fde4503c029661.jpg",
+      "e3b99640d6bbef4d.jpg",
+      "011db1611a948392.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1734875469200017689",
+    "timestamp": "2026-08-12T08:18:03.684428+00:00",
+    "original_time": "2026-08-12T08:00:01+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3608992577037146636",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGForeign Office spokesperson Tahir Andrabi briefs media, says Pakistan, Saudi Arabia and Turkiye sign Makkah Joint Defence Agreement; spokesperson says accord reflects brotherly ties, shared commitment to regional peace and enables joint response to security threats.",
+    "translated_text": "#BREAKING外交部发言人塔希尔·安德拉比向媒体通报称，巴基斯坦、沙特阿拉伯和土耳其签署了麦加联合防御协议；发言人表示，该协议体现了兄弟般的关系、对地区和平的共同承诺，并能够共同应对安全威胁。",
+    "images": [
+      "0b6f0a308f11b5cc.jpg",
+      "134ca1e4fca282b0.jpg",
+      "5cacfbd187f2a1de.jpg",
+      "1ed572450d53bba4.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/3608992577037146636",
+    "timestamp": "2026-08-12T08:18:04.799957+00:00",
+    "original_time": "2026-08-12T07:52:07+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3170336950919034306",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The California State Assembly recognized the valuable contributions of Pakistani Americans and welcomed Pakistan’s Ambassador Rizwan Sheikh to the floor of the House.@MattHaneySF@ForeignOfficePk@AmbRizSaeed#PakistanUSRelations#PakistaniAmericans#California#Diplomacy",
+    "translated_text": "加利福尼亚州议会认可了巴基斯坦裔美国人的宝贵贡献，并欢迎巴基斯坦大使 Rizwan Sheikh 来到众议院。@MattHaneySF@ForeignOfficePk@AmbRizSaeed#PakistanUSRelations#PakistaniAmericans#California#Diplomacy",
+    "images": [
+      "f6b593de64092d9d.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/3170336950919034306",
+    "timestamp": "2026-08-12T08:18:05.236035+00:00",
+    "original_time": "2026-08-12T07:50:07+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-8566183592267102330",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Cristiano Ronaldo and his long-time partner Georgina Rodriguez married on Tuesday in a ceremony in the Portuguese resort of Cascais, said the football superstar's representatives.#CristianoRonaldo#GeorginaRodriguez#RonaldoWedding#Portugal#CelebrityNews#PakistanTV",
+    "translated_text": "这位足球巨星的代表表示，克里斯蒂亚诺·罗纳尔多和他的长期伴侣乔治娜·罗德里格斯周二在葡萄牙度假胜地卡斯卡伊斯举行了婚礼。#CristianoRonaldo#GeorginaRodriguez#RonaldoWedding#Portugal#CelebrityNews#PakistanTV",
+    "images": [
+      "0fd463819f89e7ef.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-8566183592267102330",
+    "timestamp": "2026-08-12T08:18:07.740589+00:00",
+    "original_time": "2026-08-12T01:49:06+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_5454395004619776850",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "New Zealand Prime Minister Christopher Luxon said he had the \"full support\" of his ruling National Party on Wednesday after surviving a leadership challenge called with less than three months until a general election.#ChristopherLuxon#NewZealand#NZPolitics#NationalParty",
+    "translated_text": "新西兰总理克里斯托弗·卢克森 (Christopher Luxon) 周三表示，在距大选不到三个月的时间里，他在领导层挑战中幸存下来，并获得了执政党国家党的“全力支持”。#ChristopherLuxon#NewZealand#NZPolitics#NationalParty",
+    "images": [
+      "5d45b0de71083689.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/5454395004619776850",
+    "timestamp": "2026-08-12T08:18:09.105134+00:00",
+    "original_time": "2026-08-12T01:35:13+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1861533822311209052",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Around 2.4 million girls in Afghanistan have been denied access to secondary education since the Taliban returned to power in 2021, UN's cultural and educational agency UNESCO said, urging an end to such discrimination.#Afghanistan#GirlsEducation#UNESCO#EducationRights",
+    "translated_text": "联合国文化和教育机构联合国教科文组织表示，自塔利班于 2021 年重新掌权以来，阿富汗约有 240 万女孩被剥夺接受中等教育的机会，并敦促结束这种歧视。#Afghanistan#GirlsEducation#UNESCO#EducationRights",
+    "images": [
+      "27ede6e7d6a3847a.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1861533822311209052",
+    "timestamp": "2026-08-12T08:18:09.275683+00:00",
+    "original_time": "2026-08-11T22:28:20+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_7617451160932784308",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The death toll from a powerful earthquake that struck Colombia rose to 240 on Tuesday, according to figures provided by local authorities.#Colombia#Earthquake#EarthquakeUpdate#DeathToll#PakistanTV",
+    "translated_text": "根据地方当局提供的数据，周二哥伦比亚发生的强烈地震造成的死亡人数上升至 240 人。#Colombia#Earthquake#EarthquakeUpdate#DeathToll#PakistanTV",
+    "images": [
+      "e637e6198c87c806.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/7617451160932784308",
+    "timestamp": "2026-08-12T08:18:09.447252+00:00",
+    "original_time": "2026-08-11T22:01:41+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-4254446933765057333",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "CBS News projects: Michele Tafoya wins Republican primary for Senate in Minnesota.",
-    "translated_text": "哥伦比亚广播公司新闻报道：米歇尔·塔福亚赢得明尼苏达州参议院共和党初选。",
+    "text": "Senator Darline Graham, sister of the late Senator Lindsey Graham, is headed to a runoff against Rep. Ralph Norman in South Carolina’s special Republican Senate primary, CBS News projects.",
+    "translated_text": "据哥伦比亚广播公司新闻报道，已故参议员林赛·格雷厄姆的妹妹参议员达林·格雷厄姆将在南卡罗来纳州特别共和党参议院初选中与众议员拉尔夫·诺曼进行决选。",
     "images": [
-      "7f550ffc43481ac5.jpg"
+      "4d0020cea4241e53.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/8133775750455860114",
-    "timestamp": "2026-08-12T06:18:33.906907+00:00",
-    "original_time": "2026-08-12T06:15:45+00:00"
+    "url": "https://x.com/CBSNews/status/-4254446933765057333",
+    "timestamp": "2026-08-12T08:21:19.552127+00:00",
+    "original_time": "2026-08-12T07:48:12+00:00"
   },
   {
-    "id": "tweet_CBSNews_-2873396154621467958",
+    "id": "tweet_CBSNews_-5906531752768056023",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Democratic Rep. John Larson — who has represented central Connecticut since the late 1990s — lost his party's primary Tuesday to former Hartford Mayor Luke Bronin, CBS News has projected, after a campaign dominated by debates about generational change.",
-    "translated_text": "哥伦比亚广播公司新闻预计，民主党众议员约翰·拉尔森自 20 世纪 90 年代末以来一直代表康涅狄格州中部，在一场围绕代际变革的辩论主导​​的竞选活动之后，他在周二的党内初选中输给了前哈特福德市长卢克·布罗宁。",
+    "text": "Donald Trump praised Darline Graham on Tuesday after she advanced to a runoff later this month in the South Carolina special Republican primary for Senate, CBS News projects. \n\nGraham, the sister of the late Senator Lindsey Graham, was praised by Trump as a “very good woman”",
+    "translated_text": "据哥伦比亚广播公司新闻报道，唐纳德·特朗普周二赞扬了达琳·格雷厄姆，此前她在本月晚些时候的南卡罗来纳州参议院共和党特别初选中晋级决选。 \n\n已故参议员林赛·格雷厄姆的妹妹格雷厄姆被特朗普称赞为“非常好的女人”",
     "images": [
-      "6af8212cf8eb14eb.jpg"
+      "157adf777197df6a.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-2873396154621467958",
-    "timestamp": "2026-08-12T06:18:34.091624+00:00",
-    "original_time": "2026-08-12T06:12:15+00:00"
+    "url": "https://x.com/CBSNews/status/-5906531752768056023",
+    "timestamp": "2026-08-12T08:21:21.010146+00:00",
+    "original_time": "2026-08-12T07:27:25+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3183758484486868646",
+    "id": "tweet_CBSNews_-834163640201446973",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Donald Trump praised Darline Graham, sister of the late Senator Lindsey Graham, on Tuesday after she advanced to a runoff later this month in the South Carolina special Republican primary for Senate.",
-    "translated_text": "周二，唐纳德·特朗普总统赞扬了已故参议员林赛·格雷厄姆的妹妹达琳·格雷厄姆，此前她在本月晚些时候的南卡罗来纳州参议院共和党特别初选中晋级决选。",
+    "text": "CBS News projects: Lt. Gov. Peggy Flanagan wins Democratic primary for Senate in Minnesota.",
+    "translated_text": "哥伦比亚广播公司新闻报道：副州长佩吉·弗拉纳根赢得明尼苏达州参议院民主党初选。",
     "images": [
-      "18bece4504249a13.jpg"
+      "19e4a408a94f9168.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-3183758484486868646",
-    "timestamp": "2026-08-12T06:18:34.543810+00:00",
-    "original_time": "2026-08-12T06:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/-834163640201446973",
+    "timestamp": "2026-08-12T08:21:22.370305+00:00",
+    "original_time": "2026-08-12T06:58:16+00:00"
   },
   {
-    "id": "tweet_CBSNews_-419948650990246193",
+    "id": "tweet_CBSNews_3231120213890715515",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Rescue crews are racing to find survivors after a powerful earthquake caused widespread destruction in western Colombia, with people pulled from beneath collapsed buildings as rescuers search through the rubble.",
-    "translated_text": "哥伦比亚西部发生强烈地震，造成大面积破坏，救援人员正在竞相寻找幸存者，救援人员在废墟中搜寻，人们从倒塌的建筑物下被救出。",
+    "text": "CBS News projects: Rep. Ilhan Omar wins Democratic primary in Minnesota's 5th Congressional District.",
+    "translated_text": "哥伦比亚广播公司新闻报道：众议员伊尔汗·奥马尔在明尼苏达州第五国会选区赢得民主党初选。",
     "images": [
-      "757db239dbe04e7e.jpg"
+      "a48997b0e2cbae5d.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-419948650990246193",
-    "timestamp": "2026-08-12T06:18:34.895865+00:00",
-    "original_time": "2026-08-12T05:14:43+00:00"
+    "url": "https://x.com/CBSNews/status/3231120213890715515",
+    "timestamp": "2026-08-12T08:21:23.647442+00:00",
+    "original_time": "2026-08-12T06:56:11+00:00"
   },
   {
-    "id": "tweet_CBSNews_-5765207626682841887",
+    "id": "tweet_CBSNews_6168886116227718948",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A high school football player in Arkansas found a 2-foot-long cottonmouth snake inside his helmet last week.\n\nThe pit viper was so reluctant to exit the helmet that police officers had to pour water into it to force the snake out and into a bag.",
+    "translated_text": "上周，阿肯色州一名高中橄榄球运动员在头盔内发现了一条 2 英尺长的棉口蛇。\n\n毒蛇不愿意从头盔中出来，警察不得不将水倒入头盔中，将蛇推出并放入袋子中。",
+    "images": [
+      "66f23e864799c4fb.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/6168886116227718948",
+    "timestamp": "2026-08-12T08:21:24.439737+00:00",
+    "original_time": "2026-08-12T06:41:12+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3777844342237393647",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "\"I'd love to run, but the law is very strong,\" President Trump said when asked about a possible 2028 presidential run.",
+    "translated_text": "当被问及可能参加 2028 年总统竞选时，特朗普总统表示：“我很想参选，但法律非常严格。”",
+    "images": [
+      "8d80116bce39913f.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3777844342237393647",
+    "timestamp": "2026-08-12T08:21:27.491810+00:00",
+    "original_time": "2026-08-12T02:12:27+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-1067415973445220810",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Trump-backed Rhett Marques won a crowded Republican primary in Alabama's newly drawn 2nd Congressional District on Tuesday, the Associated Press projects.",
+    "translated_text": "据美联社报道，特朗普支持的瑞德·马克斯周二在阿拉巴马州新划定的第二国会选区赢得了一场拥挤的共和党初选。",
+    "images": [
+      "3929da211bcb821d.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-1067415973445220810",
+    "timestamp": "2026-08-12T08:21:29.068029+00:00",
+    "original_time": "2026-08-12T01:57:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-8706021909489903331",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Lindsay Clancy's murder trial in Massachusetts resumed Tuesday with testimony from Rebecca Jollotta, a second psychiatric nurse practitioner who treated Clancy in 2022.\n\nClancy's defense attorney Kevin Reddington asked Jollotta about Patrick Clancy's involvement in advocating for",
+    "translated_text": "马萨诸塞州林赛·克兰西谋杀案的审判周二重新开始，丽贝卡·乔洛塔 (Rebecca Jollotta) 提供了证词，丽贝卡·乔洛塔是 2022 年治疗克兰西的第二位精神科执业护士。\n\n克兰西的辩护律师凯文·雷丁顿向乔洛塔询问帕特里克·克兰西参与倡导人权的情况",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/-8706021909489903331",
+    "timestamp": "2026-08-12T08:21:30.109139+00:00",
+    "original_time": "2026-08-12T01:51:49+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_2207209211554334047",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "CBS News projects: Sen. Amy Klobuchar will win the Democratic primary in Minnesota's gubernatorial race.",
+    "translated_text": "哥伦比亚广播公司新闻预计：参议员艾米·克洛布查尔将赢得明尼苏达州州长竞选的民主党初选。",
+    "images": [
+      "bb6e1a53bf2742d5.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/2207209211554334047",
+    "timestamp": "2026-08-12T08:21:31.042269+00:00",
+    "original_time": "2026-08-12T01:39:55+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_1316219140655913845",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "ICE plans to give officers gloves that can deliver electric shocks.",
+    "translated_text": "ICE 计划为警员提供可以进行电击的手套。",
+    "images": [
+      "914ba12315c756d6.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/1316219140655913845",
+    "timestamp": "2026-08-12T08:21:31.990602+00:00",
+    "original_time": "2026-08-12T01:30:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_484907544160823214",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "CBS News projects: Rep. Ralph Norman will face Sen. Darline Graham in a GOP primary runoff for the late Lindsey Graham's Senate seat.",
+    "translated_text": "哥伦比亚广播公司新闻报道：众议员拉尔夫·诺曼将在共和党初选决选中与参议员达林·格雷厄姆争夺已故林赛·格雷厄姆的参议院席位。",
+    "images": [
+      "355eb7eeef69e3fe.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/484907544160823214",
+    "timestamp": "2026-08-12T08:21:33.552929+00:00",
+    "original_time": "2026-08-12T01:19:06+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-8375860607399702169",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Mayor of New Jersey beach town worries social media trend could lead to shark attack.",
+    "translated_text": "新泽西州海滨小镇市长担心社交媒体趋势可能导致鲨鱼袭击。",
+    "images": [
+      "4d0f348e84ad9d8a.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-8375860607399702169",
+    "timestamp": "2026-08-12T08:21:34.649847+00:00",
+    "original_time": "2026-08-12T01:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_4916005516018177633",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A new surface radar system has arrived at Newark Liberty International Airport with technology designed to help prevent dangerous close calls on the runway.\n\nAir traffic controllers will be able to track planes and vehicles moving around the airport better, Transportation",
     "translated_text": "新型地面雷达系统已抵达纽瓦克自由国际机场，其技术旨在帮助防止跑道上的险情。\n\n空中交通管制员将能够更好地跟踪机场周围移动的飞机和车辆，交通",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/-5765207626682841887",
-    "timestamp": "2026-08-12T06:18:37.158181+00:00",
+    "images": [
+      "66a6ef0f08d03fca.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/4916005516018177633",
+    "timestamp": "2026-08-12T08:21:35.923530+00:00",
     "original_time": "2026-08-12T00:45:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_1754896354090103697",
+    "id": "tweet_CBSNews_-7826752348648665450",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "CBS News projects: Darline Graham will head to a runoff in the Republican primary for her late brother's Senate seat.",
-    "translated_text": "哥伦比亚广播公司新闻报道：达林·格雷厄姆将在共和党初选中角逐她已故哥哥的参议院席位。",
+    "text": "Rep. Grace Meng (D-NY) says she remains “skeptical” that the Justice Department’s proposed “anti-weaponization” fund is dead.\n\n“Let me clear. The fight is not over,” Meng tells CBS News’ Major Garrett, saying Democrats would use congressional oversight to prevent the fund, or",
+    "translated_text": "纽约州民主党众议员格蕾丝·孟表示，她仍然“怀疑”司法部提议的“反武器化”基金是否已失效。\n\n“让我澄清一下。战斗还没有结束，”孟告诉哥伦比亚广播公司新闻的加勒特少校，并表示民主党将利用国会的监督来阻止该基金，或者",
     "images": [
-      "c5968249d72d693c.jpg"
+      "5cd7938e56242943.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1754896354090103697",
-    "timestamp": "2026-08-12T06:18:37.331090+00:00",
-    "original_time": "2026-08-12T00:38:18+00:00"
+    "url": "https://x.com/CBSNews/status/-7826752348648665450",
+    "timestamp": "2026-08-12T08:21:39.462339+00:00",
+    "original_time": "2026-08-11T22:25:48+00:00"
   },
   {
-    "id": "tweet_CBSNews_-3360965571645876292",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Powerful storms and suspected tornadoes slam Midwest, leaving nearly 1 million without power.",
-    "translated_text": "强大的风暴和疑似龙卷风袭击了中西部，导致近百万人口断电。",
-    "images": [
-      "565c7ab66d3cb695.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-3360965571645876292",
-    "timestamp": "2026-08-12T06:18:37.570817+00:00",
-    "original_time": "2026-08-12T00:10:01+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-7338689635873746439",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Trump administration bars use of Medicaid funds for some youth transgender care.",
-    "translated_text": "特朗普政府禁止将医疗补助资金用于某些青少年跨性别者护理。",
-    "images": [
-      "784fd86989a74549.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-7338689635873746439",
-    "timestamp": "2026-08-12T06:18:37.738388+00:00",
-    "original_time": "2026-08-11T23:50:01+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_6670341506402487822",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "A Long Island Little League team is just a few wins away from the World Series — and they’re doing it without their phones. Coaches collect the players’ phones before every game, giving the kids time to focus, bond and simply be kids.",
-    "translated_text": "长岛少年棒球联盟队距离世界职业棒球大赛仅几场胜利，而且他们在没有手机的情况下完成比赛。教练在每场比赛前都会收集球员的手机，让孩子们有时间集中注意力、建立联系并做回孩子。",
-    "images": [
-      "fd9aecd05ff2a456.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/6670341506402487822",
-    "timestamp": "2026-08-12T06:18:37.977018+00:00",
-    "original_time": "2026-08-11T23:16:25+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_7921920590269271469",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Severe weather and thunderstorms are impacting much of the country. Meteorologist@RobMarcianois tracking the forecast from Spain, where he’s preparing to cover 2026’s only total solar eclipse this week.",
-    "translated_text": "恶劣天气和雷暴正在影响该国大部分地区。气象学家@RobMarcianois 正在跟踪西班牙的天气预报，他准备在本周报道 2026 年唯一一次日全食。",
-    "images": [
-      "d52d941df41e5a07.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/7921920590269271469",
-    "timestamp": "2026-08-12T06:18:38.209674+00:00",
-    "original_time": "2026-08-11T23:15:34+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_1617440151580169821",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "Severe weather is hammering parts of the country, with flooding in Ohio leaving at least one person dead, damaging winds and a possible tornado in the Midwest and fast-growing wildfires threatening communities across the West.",
-    "translated_text": "恶劣天气正在袭击该国部分地区，俄亥俄州发生洪水，造成至少一人死亡，中西部地区出现破坏性大风和可能的龙卷风，快速蔓延的野火威胁着西部各地的社区。",
-    "images": [
-      "ca38494d8c519370.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/1617440151580169821",
-    "timestamp": "2026-08-12T06:18:38.377110+00:00",
-    "original_time": "2026-08-11T23:14:06+00:00"
-  },
-  {
-    "id": "tweet_CBSEveningNews_1119451174307976994",
-    "type": "tweet",
-    "username": "CBSEveningNews",
-    "text": "An unauthorized Wi-Fi network impersonating Delta’s onboard Wi-Fi was detected on a flight from Las Vegas to Atlanta, prompting the crew to shut down Wi-Fi for about 30 minutes. The FAA is investigating, but says no flight systems were affected. It’s unclear whether there was any",
-    "translated_text": "从拉斯维加斯飞往亚特兰大的航班上检测到未经授权的 Wi-Fi 网络冒充达美航空机上 Wi-Fi，导致机组人员关闭 Wi-Fi 约 30 分钟。美国联邦航空局正在调查，但表示没有飞行系统受到影响。目前尚不清楚是否有任何",
-    "images": [
-      "d5829bf77e04413d.jpg"
-    ],
-    "url": "https://x.com/CBSEveningNews/status/1119451174307976994",
-    "timestamp": "2026-08-12T06:18:38.535990+00:00",
-    "original_time": "2026-08-11T23:11:27+00:00"
-  },
-  {
-    "id": "tweet_natalie_allison_-1691056200128830144",
+    "id": "tweet_natalie_allison_1494153351754407864",
     "type": "tweet",
     "username": "natalie_allison",
     "text": "Ralph Norman's call w/ Trump last month to ask for an endorsement, per his recollection to me —\n\nDJT: \"Didn’t you endorse Nikki?\"\n\nRN: \"Look, Mr. President. Lindsey ran against you. He said awful things. I never did that, and I support your policy.”\n\nDJT: \"Yeah, I know you’re a",
@@ -173,23 +335,23 @@
     "images": [
       "8ab70ee4a8d9aecb.jpg"
     ],
-    "url": "https://x.com/natalie_allison/status/-1691056200128830144",
-    "timestamp": "2026-08-12T06:19:44.428930+00:00",
+    "url": "https://x.com/natalie_allison/status/1494153351754407864",
+    "timestamp": "2026-08-12T08:22:59.251514+00:00",
     "original_time": "2026-08-12T01:52:07+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-3116031951446678511",
+    "id": "tweet_KellieMeyerNews_-6730006159142232180",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Trump told reporters tonight \"we have total control over the Hormuz Strait right now.\"",
     "translated_text": "特朗普今晚告诉记者“我们现在完全控制霍尔木兹海峡”。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-3116031951446678511",
-    "timestamp": "2026-08-12T06:19:44.860191+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-6730006159142232180",
+    "timestamp": "2026-08-12T08:22:59.412593+00:00",
     "original_time": "2026-08-12T01:49:09+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-5136074666746162435",
+    "id": "tweet_JenniferJJacobs_-7724089518664559612",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Asked if he was worried about a missile when he secretly slipped away from AF1 after NATO summit and was whisked to another plane with the help of an airport catering truck, Trump didn't answer directly. He told@nancycordes: \"Uhhhh, I don't worry about anything, to be honest.",
@@ -197,23 +359,23 @@
     "images": [
       "bf28544d8a4c7b11.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-5136074666746162435",
-    "timestamp": "2026-08-12T06:19:45.034152+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/-7724089518664559612",
+    "timestamp": "2026-08-12T08:22:59.599999+00:00",
     "original_time": "2026-08-12T01:19:09+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-2904681961865565171",
+    "id": "tweet_KellieMeyerNews_440278138352091205",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "NEW: President Trump responding to questions about his ride in the catering truck to a secret flight back to the US from Turkey due to Iranian threat.\n\n\"It's up to Secret Service and the military. They wanted me to go on a different flight from a different plane. I do what they",
     "translated_text": "新消息：特朗普总统回答了有关他因伊朗威胁而乘坐餐饮卡车从土耳其返回美国的秘密航班的问题。\n\n“这取决于特勤局和军方。他们希望我从不同的飞机上乘坐不同的航班。我按照他们的要求去做",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-2904681961865565171",
-    "timestamp": "2026-08-12T06:19:45.457066+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/440278138352091205",
+    "timestamp": "2026-08-12T08:22:59.805972+00:00",
     "original_time": "2026-08-12T01:02:11+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-7860887725070822701",
+    "id": "tweet_KellieMeyerNews_2569961353815429469",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Today I pressed Border Czar Tom Homan if he and the President have confidence in DHS Sec. Markwayne Mullin after the WSJ reported Trump is growing increasingly frustrated with Mullin. \n\nOur@AliBradleyTVconfirmed from a source familiar with the situation that President Trump is",
@@ -221,12 +383,12 @@
     "images": [
       "95001f9c44f8bce1.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-7860887725070822701",
-    "timestamp": "2026-08-12T06:19:45.790877+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/2569961353815429469",
+    "timestamp": "2026-08-12T08:23:00.003338+00:00",
     "original_time": "2026-08-12T00:39:39+00:00"
   },
   {
-    "id": "tweet_DecisionDeskHQ_7425552088800958050",
+    "id": "tweet_DecisionDeskHQ_4963078202335444248",
     "type": "tweet",
     "username": "DecisionDeskHQ",
     "text": "Decision Desk HQ projects Darline Graham advances in SC US Senate Republican Special Election Primary#DecisionMade: 7:28 PM EDT",
@@ -234,179 +396,187 @@
     "images": [
       "29c7b86c9d379527.jpg"
     ],
-    "url": "https://x.com/DecisionDeskHQ/status/7425552088800958050",
-    "timestamp": "2026-08-12T06:19:46.307029+00:00",
+    "url": "https://x.com/DecisionDeskHQ/status/4963078202335444248",
+    "timestamp": "2026-08-12T08:23:00.214547+00:00",
     "original_time": "2026-08-11T23:29:33+00:00"
   },
   {
-    "id": "article_5bfe95d7c597",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PM Shehbaz orders warehouse audit",
-    "translated_title": "PM Shehbaz 下令仓库审计",
-    "url": "https://www.dawn.com/news/2022264",
-    "timestamp": "2026-08-12T06:21:42.615450+00:00",
-    "original_time": "2026-08-12T06:23:11+05:00"
+    "id": "tweet_geonews_urdu_-8200036057290181319",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "بارش کے باعث ہولی فیملی اسپتال راولپنڈی کی او پی ڈی میں پانی داخل",
+    "translated_text": "由于下雨，拉瓦尔品第圣家医院 OPD 进水",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/-8200036057290181319",
+    "timestamp": "2026-08-12T08:24:07.854619+00:00",
+    "original_time": "2026-08-12T08:21:00+00:00"
   },
   {
-    "id": "article_5ebe52d55303",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "NCCIA arrests three for cyber harassment in Lahore",
-    "translated_title": "NCCIA 在拉合尔逮捕了三名网络骚扰者",
-    "url": "https://www.dawn.com/news/2022237/nccia-arrests-three-for-cyber-harassment-in-lahore",
-    "timestamp": "2026-08-12T06:21:49.775335+00:00",
-    "original_time": "2026-08-12T06:23:42+05:00"
+    "id": "tweet_geonews_urdu_6095135448319713044",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "راولپنڈی میں وقفے وقفے سے بارش کا سلسلہ جاری، کئی نشیبی علاقوں کو کلیئر کردیا گیا",
+    "translated_text": "拉瓦尔品第持续降雨 多处低洼地区被清理",
+    "images": [
+      "b62495aab483be97.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/6095135448319713044",
+    "timestamp": "2026-08-12T08:24:08.855470+00:00",
+    "original_time": "2026-08-12T08:20:00+00:00"
   },
   {
-    "id": "article_8f5c1e052c67",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Golden relay double for Britain at European swimming",
-    "translated_title": "英国队获得欧洲游泳接力金牌",
-    "url": "https://www.dawn.com/news/2022199/golden-relay-double-for-britain-at-european-swimming",
-    "timestamp": "2026-08-12T06:21:56.482318+00:00",
-    "original_time": "2026-08-12T06:23:19+05:00"
+    "id": "tweet_geonews_urdu_502830069282575269",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "فی الحال کوئی بھی مون سون سسٹم سندھ پر اثرانداز ہوتا نظر نہیں آرہا: محکمہ موسمیات",
+    "translated_text": "目前，没有看到季风系统影响信德省：气象部门",
+    "images": [
+      "36a879779aa68c06.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/502830069282575269",
+    "timestamp": "2026-08-12T08:24:10.794923+00:00",
+    "original_time": "2026-08-12T08:15:02+00:00"
   },
   {
-    "id": "article_2e1bc77abaf2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Trump secretly flew smaller jet out of Turkiye amid Iran threat: Washington Post",
-    "translated_title": "特朗普在伊朗威胁下秘密驾驶小型飞机离开土耳其：《华盛顿邮报》",
-    "url": "https://www.dawn.com/news/2022270/trump-secretly-flew-smaller-jet-out-of-turkiye-amid-iran-threat-washington-post",
-    "timestamp": "2026-08-12T06:22:01.411173+00:00",
-    "original_time": "2026-08-12T06:22:56+05:00"
+    "id": "tweet_geonews_urdu_-8145572025627436925",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "حملے کے خطرات پر ٹرمپ نے طیارہ بدلنے کی تصدیق کر دی",
+    "translated_text": "特朗普确认因袭击威胁而更换飞机",
+    "images": [
+      "abe1ff518273a8b7.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8145572025627436925",
+    "timestamp": "2026-08-12T08:24:11.761755+00:00",
+    "original_time": "2026-08-12T08:13:46+00:00"
   },
   {
-    "id": "article_be925cb212ca",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "‘FIFA’s flawed funding system behind silence of smaller nations’",
-    "translated_title": "“国际足联有缺陷的资助体系导致小国沉默”",
-    "url": "https://www.dawn.com/news/2022209",
-    "timestamp": "2026-08-12T06:22:16.208443+00:00",
-    "original_time": "2026-08-12T06:23:19+05:00"
+    "id": "tweet_geonews_urdu_-2871292564856058092",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "دن 12 بجے کی ہیڈلائنز - 12 اگست 2026",
+    "translated_text": "第 12 天头条新闻 - 2026 年 8 月 12 日",
+    "images": [
+      "26ce80be27fcbc23.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-2871292564856058092",
+    "timestamp": "2026-08-12T08:24:12.762648+00:00",
+    "original_time": "2026-08-12T08:08:15+00:00"
   },
   {
-    "id": "article_f0012f36b26d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Trump says secret flight change at directives of Secret Service, plane ultimately used faced 'greater risk'",
-    "translated_title": "特朗普表示按照特勤局的指示进行秘密航班变更，最终使用的飞机面临“更大风险”",
-    "url": "https://www.dawn.com/news/2022334/trump-says-secret-flight-change-at-directives-of-secret-service-plane-ultimately-used-faced-greater-risk",
-    "timestamp": "2026-08-12T06:22:26.500124+00:00",
-    "original_time": "2026-08-12T10:21:04+05:00"
+    "id": "tweet_geonews_urdu_-8801111221926007511",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "کراچی میں تاجر میر رضا قتل کیس کی تحقیقات جاری، جیوفینسنگ کے عمل میں مشکلات کا سامنا",
+    "translated_text": "卡拉奇商人米尔·拉扎谋杀案调查仍在继续，地理围栏过程面临困难",
+    "images": [
+      "1848cbfeaf6f8517.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8801111221926007511",
+    "timestamp": "2026-08-12T08:24:14.480419+00:00",
+    "original_time": "2026-08-12T08:08:00+00:00"
   },
   {
-    "id": "article_b81710b96fe8",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt plans to turn Karachi into maritime hub: maritime affairs minister",
-    "translated_title": "海事部长：政府计划将卡拉奇变成海事中心",
-    "url": "https://www.dawn.com/news/2022198/govt-plans-to-turn-karachi-into-maritime-hub-maritime-affairs-minister",
-    "timestamp": "2026-08-12T06:22:33.333698+00:00",
-    "original_time": "2026-08-12T06:23:35+05:00"
+    "id": "tweet_geonews_urdu_3874517007153353992",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Flood situation in Chitral's areas after rainfall, relief operations underway",
+    "translated_text": "降雨后吉德拉尔地区洪水情况，救援行动正在进行中",
+    "images": [
+      "1bd9408bf58ef4bc.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/3874517007153353992",
+    "timestamp": "2026-08-12T08:24:17.145588+00:00",
+    "original_time": "2026-08-12T07:15:00+00:00"
   },
   {
-    "id": "article_7fa9573cca47",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Commission to protect minority rights announced",
-    "translated_title": "宣布成立保护少数群体权利委员会",
-    "url": "https://www.dawn.com/news/2022286/commission-to-protect-minority-rights-announced",
-    "timestamp": "2026-08-12T06:22:37.795501+00:00",
-    "original_time": "2026-08-12T06:23:04+05:00"
+    "id": "tweet_geonews_urdu_3184713126640900360",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Operation underway to search for more missing children who fell into the canal in Tehsil Kot Addu, Muzaffargarh",
+    "translated_text": "穆扎法尔加尔 Tehsil Kot Addu 地区正在开展搜寻更多落入运河的失踪儿童的行动",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/3184713126640900360",
+    "timestamp": "2026-08-12T08:24:17.522561+00:00",
+    "original_time": "2026-08-12T07:12:47+00:00"
   },
   {
-    "id": "article_02c726db66e4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Auto sales hit 18,818 units in July",
-    "translated_title": "7月份汽车销量达18,818辆",
-    "url": "https://www.dawn.com/news/2022265/auto-sales-hit-18818-units-in-july",
-    "timestamp": "2026-08-12T06:22:41.642573+00:00",
-    "original_time": "2026-08-12T06:23:11+05:00"
+    "id": "tweet_geonews_urdu_8971991626895124007",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Don't Marry Your Daughter to Financially Weak Men: Namra Khan's Advice to Girls' Parents",
+    "translated_text": "不要把女儿嫁给经济上薄弱的男人：纳姆拉·汗给女孩父母的建议",
+    "images": [
+      "5f67e9dba97d9d3e.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/8971991626895124007",
+    "timestamp": "2026-08-12T08:24:18.294749+00:00",
+    "original_time": "2026-08-12T07:10:20+00:00"
   },
   {
-    "id": "article_b47dffd87968",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Australian PM under fire for ‘melons’ gag about Takaichi",
-    "translated_title": "澳大利亚总理因高市的“瓜”笑话而受到批评",
-    "url": "https://www.dawn.com/news/2022282/australian-pm-under-fire-for-melons-gag-about-takaichi",
-    "timestamp": "2026-08-12T06:23:01.010687+00:00",
-    "original_time": "2026-08-12T06:23:28+05:00"
+    "id": "tweet_geonews_urdu_8704308544666770813",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Intermittent rain continues in Islamabad, with forecasts of more clouds to gather.",
+    "translated_text": "伊斯兰堡持续出现间歇性降雨，预计将有更多云层聚集。",
+    "images": [
+      "69d28d6df5c84e8c.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/8704308544666770813",
+    "timestamp": "2026-08-12T08:24:18.745207+00:00",
+    "original_time": "2026-08-12T07:10:00+00:00"
   },
   {
-    "id": "article_d50bab65cec2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Below-average monsoon threatens crops in India",
-    "translated_title": "低于平均水平的季风威胁着印度的农作物",
-    "url": "https://www.dawn.com/news/2022271/below-average-monsoon-threatens-crops-in-india",
-    "timestamp": "2026-08-12T06:23:10.110534+00:00",
-    "original_time": "2026-08-12T06:22:56+05:00"
+    "id": "tweet_geonews_urdu_-7331085836215995966",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The water level in the drain has risen to a dangerous level, rescue teams on alert",
+    "translated_text": "排水沟水位已升至危险水位，救援人员处于戒备状态",
+    "images": [
+      "db1e67ec72495dce.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7331085836215995966",
+    "timestamp": "2026-08-12T08:24:19.135859+00:00",
+    "original_time": "2026-08-12T07:02:08+00:00"
   },
   {
-    "id": "article_6b92cbec0ee5",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "SC rejects Punjab plea seeking review of rape-to-fornication verdict",
-    "translated_title": "SC拒绝旁遮普请求审查强奸至通奸判决的请求",
-    "url": "https://www.dawn.com/news/2022287/sc-rejects-punjab-plea-seeking-review-of-rape-to-fornication-verdict",
-    "timestamp": "2026-08-12T06:23:26.243427+00:00",
-    "original_time": "2026-08-12T06:23:04+05:00"
+    "id": "tweet_geonews_urdu_6596658564978729968",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Three Pakistanis killed in Houthi attack on merchant ship in Red Sea, Foreign Minister's strong condemnation",
+    "translated_text": "胡塞武装红海袭击商船 3名巴基斯坦人丧生 外交部长强烈谴责",
+    "images": [
+      "946eef6ce1bbd93f.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/6596658564978729968",
+    "timestamp": "2026-08-12T08:24:19.629351+00:00",
+    "original_time": "2026-08-12T06:51:46+00:00"
   },
   {
-    "id": "article_0edbe18f10f4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Colombia quake toll tops 250 as rescuers race to find survivors",
-    "translated_title": "哥伦比亚地震死亡人数突破 250 救援人员竞相寻找幸存者",
-    "url": "https://www.dawn.com/news/2022269/colombia-quake-toll-tops-250-as-rescuers-race-to-find-survivors",
-    "timestamp": "2026-08-12T06:23:32.953300+00:00",
-    "original_time": "2026-08-12T06:22:56+05:00"
+    "id": "tweet_geonews_urdu_3250027840590167084",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Pakistani youth's splendid achievement in the global arena, winning three medals including gold in the Nuclear Science Olympiad",
+    "translated_text": "巴基斯坦青年在国际舞台上取得辉煌成就，赢得核科学奥林匹克竞赛金牌等三枚奖牌",
+    "images": [
+      "39b7d74fef0e72d9.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/3250027840590167084",
+    "timestamp": "2026-08-12T08:24:20.429596+00:00",
+    "original_time": "2026-08-12T06:46:05+00:00"
   },
   {
-    "id": "article_0d1c2b676ecb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Woman killed in Lower Dir house collapse",
-    "translated_title": "一名妇女在下第尔房屋倒塌中丧生",
-    "url": "https://www.dawn.com/news/2022256/woman-killed-in-lower-dir-house-collapse",
-    "timestamp": "2026-08-12T06:23:40.249353+00:00",
-    "original_time": "2026-08-12T06:23:58+05:00"
-  },
-  {
-    "id": "article_0ff66855ce7d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Islamabad looking to breathe new life into mediation push",
-    "translated_title": "伊斯兰堡希望为调解注入新活力",
-    "url": "https://www.dawn.com/news/2022296",
-    "timestamp": "2026-08-12T06:23:55.907198+00:00",
-    "original_time": "2026-08-12T06:22:49+05:00"
-  },
-  {
-    "id": "article_591740ff5050",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "3 Pakistanis die as multiple ships attacked in Gulf waters",
-    "translated_title": "多艘船只在海湾水域遭到袭击 3名巴基斯坦人死亡",
-    "url": "https://www.dawn.com/news/2022293/3-pakistanis-die-as-multiple-ships-attacked-in-gulf-waters",
-    "timestamp": "2026-08-12T06:24:05.847627+00:00",
-    "original_time": "2026-08-12T06:22:49+05:00"
-  },
-  {
-    "id": "article_575d917ca4b1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "BRICS nations discuss linking payment systems",
-    "translated_title": "金砖国家讨论连接支付系统",
-    "url": "https://www.dawn.com/news/2022281/brics-nations-discuss-linking-payment-systems",
-    "timestamp": "2026-08-12T06:24:10.545287+00:00",
-    "original_time": "2026-08-12T06:23:28+05:00"
+    "id": "tweet_geonews_urdu_8965945730640015335",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The energy, creative abilities, and determination of the youth are Pakistan's precious asset: President of the State",
+    "translated_text": "国家主席：年轻人的活力、创造力和决心是巴基斯坦的宝贵财富",
+    "images": [
+      "38db758450e8f311.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/8965945730640015335",
+    "timestamp": "2026-08-12T08:24:20.936346+00:00",
+    "original_time": "2026-08-12T06:43:11+00:00"
   },
   {
     "id": "article_0bbbbac1f503",
@@ -415,8 +585,98 @@
     "title": "Flooding in Baein drain submerges villages, roads in Narowal",
     "translated_title": "Baein排水沟洪水淹没了纳罗瓦尔的村庄和道路",
     "url": "https://www.dawn.com/news/2022239/flooding-in-baein-drain-submerges-villages-roads-in-narowal",
-    "timestamp": "2026-08-12T06:24:25.984808+00:00",
+    "timestamp": "2026-08-12T08:26:12.041338+00:00",
     "original_time": "2026-08-12T06:23:42+05:00"
+  },
+  {
+    "id": "article_43daa7c4d737",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Lebanon abolishes death penalty",
+    "translated_title": "黎巴嫩废除死刑",
+    "url": "https://www.dawn.com/news/2022276/lebanon-abolishes-death-penalty",
+    "timestamp": "2026-08-12T08:26:16.084944+00:00",
+    "original_time": "2026-08-12T06:23:29+05:00"
+  },
+  {
+    "id": "article_591740ff5050",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "3 Pakistanis die as multiple ships attacked in Gulf waters",
+    "translated_title": "多艘船只在海湾水域遭到袭击 3名巴基斯坦人死亡",
+    "url": "https://www.dawn.com/news/2022293/3-pakistanis-die-as-multiple-ships-attacked-in-gulf-waters",
+    "timestamp": "2026-08-12T08:26:25.727435+00:00",
+    "original_time": "2026-08-12T06:22:49+05:00"
+  },
+  {
+    "id": "article_aac8bac285eb",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Senate panel questions need for climate change authority",
+    "translated_title": "参议院小组质疑气候变化权威的必要性",
+    "url": "https://www.dawn.com/news/2022289/senate-panel-questions-need-for-climate-change-authority",
+    "timestamp": "2026-08-12T08:26:29.687391+00:00",
+    "original_time": "2026-08-12T06:23:04+05:00"
+  },
+  {
+    "id": "article_0ff66855ce7d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Islamabad looking to breathe new life into mediation push",
+    "translated_title": "伊斯兰堡希望为调解注入新活力",
+    "url": "https://www.dawn.com/news/2022296",
+    "timestamp": "2026-08-12T08:26:36.017371+00:00",
+    "original_time": "2026-08-12T06:22:49+05:00"
+  },
+  {
+    "id": "article_508e28d66726",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2021364",
+    "timestamp": "2026-08-12T08:27:08.156071+00:00",
+    "original_time": "2026-08-12T08:27:08.156035+00:00"
+  },
+  {
+    "id": "article_571e8d8c800b",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Armoured personnel carriers, other vehicles handed over to police in several KP districts",
+    "translated_title": "开伯尔省几个地区的装甲运兵车和其他车辆已移交给警方",
+    "url": "https://www.dawn.com/news/2022253/armoured-personnel-carriers-other-vehicles-handed-over-to-police-in-several-kp-districts",
+    "timestamp": "2026-08-12T08:27:15.920517+00:00",
+    "original_time": "2026-08-12T06:23:59+05:00"
+  },
+  {
+    "id": "article_24b9eaf9c2df",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "SHC reserves order on plea for independent probe into HIV outbreak",
+    "translated_title": "SHC 保留请求对艾滋病毒疫情进行独立调查的命令",
+    "url": "https://www.dawn.com/news/2022193/shc-reserves-order-on-plea-for-independent-probe-into-hiv-outbreak",
+    "timestamp": "2026-08-12T08:27:20.263327+00:00",
+    "original_time": "2026-08-12T06:23:35+05:00"
+  },
+  {
+    "id": "article_2e1bc77abaf2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Trump secretly flew smaller jet out of Turkiye amid Iran threat: Washington Post",
+    "translated_title": "特朗普在伊朗威胁下秘密驾驶小型飞机离开土耳其：《华盛顿邮报》",
+    "url": "https://www.dawn.com/news/2022270/trump-secretly-flew-smaller-jet-out-of-turkiye-amid-iran-threat-washington-post",
+    "timestamp": "2026-08-12T08:27:30.438014+00:00",
+    "original_time": "2026-08-12T06:22:56+05:00"
+  },
+  {
+    "id": "article_ea2b492a7b5c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "All but three new judges sworn in after Zardari’s nod",
+    "translated_title": "在扎尔达里点头后，除三名新法官外，其他法官均宣誓就职",
+    "url": "https://www.dawn.com/news/2022294/all-but-three-new-judges-sworn-in-after-zardaris-nod",
+    "timestamp": "2026-08-12T08:27:43.778441+00:00",
+    "original_time": "2026-08-12T06:22:49+05:00"
   },
   {
     "id": "article_0948671268da",
@@ -425,48 +685,8 @@
     "title": "Extreme heat becoming more frequent and intense: UN",
     "translated_title": "极端高温变得更加频繁和强烈：联合国",
     "url": "https://www.dawn.com/news/2022284/extreme-heat-becoming-more-frequent-and-intense-un",
-    "timestamp": "2026-08-12T06:24:45.271372+00:00",
+    "timestamp": "2026-08-12T08:27:48.320751+00:00",
     "original_time": "2026-08-12T06:23:28+05:00"
-  },
-  {
-    "id": "article_9fe3139def40",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Presidency rejects former vice chancellor’s representation against dismissal",
-    "translated_title": "总统拒绝前副总理反对解雇的陈述",
-    "url": "https://www.dawn.com/news/2022244/presidency-rejects-former-vice-chancellors-representation-against-dismissal",
-    "timestamp": "2026-08-12T06:24:49.480772+00:00",
-    "original_time": "2026-08-12T06:23:50+05:00"
-  },
-  {
-    "id": "article_cfea8d0e6bc9",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2022053/world-bank-unhappy-over-fund-diversion-from-balochistan",
-    "timestamp": "2026-08-12T06:25:16.156268+00:00",
-    "original_time": "2026-08-12T06:25:16.156221+00:00"
-  },
-  {
-    "id": "article_664c1529614c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Shortage of students forces University of Peshawar to reduce number of depts",
-    "translated_title": "学生短缺迫使白沙瓦大学减少院系数量",
-    "url": "https://www.dawn.com/news/2022259/shortage-of-students-forces-university-of-peshawar-to-reduce-number-of-depts",
-    "timestamp": "2026-08-12T06:25:26.911962+00:00",
-    "original_time": "2026-08-12T06:23:58+05:00"
-  },
-  {
-    "id": "article_97bd6f5569a1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Petroleum dealers issue 72-hour ultimatum",
-    "translated_title": "石油经销商发出72小时最后通牒",
-    "url": "https://www.dawn.com/news/2022267",
-    "timestamp": "2026-08-12T06:25:39.751662+00:00",
-    "original_time": "2026-08-12T06:23:11+05:00"
   },
   {
     "id": "article_fd47513c5ce8",
@@ -475,38 +695,78 @@
     "title": "Mideast outreach",
     "translated_title": "中东外展",
     "url": "https://www.dawn.com/news/2022312",
-    "timestamp": "2026-08-12T06:25:46.550122+00:00",
+    "timestamp": "2026-08-12T08:27:52.469981+00:00",
     "original_time": "2026-08-12T06:39:53+05:00"
   },
   {
-    "id": "article_d66585440c74",
+    "id": "article_8acc0ec256e2",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "US report calls for strengthening parliamentary oversight of Pakistan's public finances",
-    "translated_title": "美国报告呼吁加强议会对巴基斯坦公共财政的监督",
-    "url": "https://www.dawn.com/news/2022331/us-report-calls-for-strengthening-parliamentary-oversight-of-pakistans-public-finances",
-    "timestamp": "2026-08-12T06:25:53.397491+00:00",
-    "original_time": "2026-08-12T09:54:46+05:00"
+    "title": "Modi’s Pakistan policy",
+    "translated_title": "莫迪的巴基斯坦政策",
+    "url": "https://www.dawn.com/news/2022306",
+    "timestamp": "2026-08-12T08:28:06.939611+00:00",
+    "original_time": "2026-08-12T06:39:47+05:00"
   },
   {
-    "id": "article_bfe4534c7e2e",
+    "id": "article_552a9e967699",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Pakistan Medical and Dental Council directs doctors to renew registration certificates in 6 months",
-    "translated_title": "巴基斯坦医疗和牙科委员会指示医生在6个月内更新注册证书",
-    "url": "https://www.dawn.com/news/2022246/pakistan-medical-and-dental-council-directs-doctors-to-renew-registration-certificates-in-6-months",
-    "timestamp": "2026-08-12T06:26:06.248131+00:00",
-    "original_time": "2026-08-12T06:23:50+05:00"
+    "title": "Woman killed for ‘honour’ in Kohistan",
+    "translated_title": "科希斯坦妇女因“荣誉”而被杀",
+    "url": "https://www.dawn.com/news/2022250/woman-killed-for-honour-in-kohistan",
+    "timestamp": "2026-08-12T08:28:11.063328+00:00",
+    "original_time": "2026-08-12T06:23:59+05:00"
   },
   {
-    "id": "article_b93f8b1b72bd",
+    "id": "article_077d80318465",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "PTI protests outside Supreme Court over Imran’s health, pending cases",
-    "translated_title": "PTI 在最高法院外抗议伊姆兰的健康状况，悬而未决的案件",
-    "url": "https://www.dawn.com/news/2022272/pti-protests-outside-supreme-court-over-imrans-health-pending-cases",
-    "timestamp": "2026-08-12T06:26:24.550130+00:00",
-    "original_time": "2026-08-12T06:22:56+05:00"
+    "title": "Sui to be turned into modern city, says CM Bugti",
+    "translated_title": "CM Bugti 表示，睢县将被打造成现代化城市",
+    "url": "https://www.dawn.com/news/2022291/sui-to-be-turned-into-modern-city-says-cm-bugti",
+    "timestamp": "2026-08-12T08:28:15.674694+00:00",
+    "original_time": "2026-08-12T06:23:04+05:00"
+  },
+  {
+    "id": "article_ffd962bef0e3",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "FO says Naqvi's visit to Iran aimed at discussing bilateral relations, regional peace and stability",
+    "translated_title": "FO表示纳克维访问伊朗旨在讨论双边关系和地区和平与稳定",
+    "url": "https://www.dawn.com/news/2022344/fo-says-naqvis-visit-to-iran-aimed-at-discussing-bilateral-relations-regional-peace-and-stability",
+    "timestamp": "2026-08-12T08:28:37.058052+00:00",
+    "original_time": "2026-08-12T12:43:36+05:00"
+  },
+  {
+    "id": "article_02c726db66e4",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Auto sales hit 18,818 units in July",
+    "translated_title": "7月份汽车销量达18,818辆",
+    "url": "https://www.dawn.com/news/2022265/auto-sales-hit-18818-units-in-july",
+    "timestamp": "2026-08-12T08:28:41.253402+00:00",
+    "original_time": "2026-08-12T06:23:11+05:00"
+  },
+  {
+    "id": "article_8f5c1e052c67",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Golden relay double for Britain at European swimming",
+    "translated_title": "英国队获得欧洲游泳接力金牌",
+    "url": "https://www.dawn.com/news/2022199/golden-relay-double-for-britain-at-european-swimming",
+    "timestamp": "2026-08-12T08:28:48.346569+00:00",
+    "original_time": "2026-08-12T06:23:19+05:00"
+  },
+  {
+    "id": "article_7fa9573cca47",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Commission to protect minority rights announced",
+    "translated_title": "宣布成立保护少数群体权利委员会",
+    "url": "https://www.dawn.com/news/2022286/commission-to-protect-minority-rights-announced",
+    "timestamp": "2026-08-12T08:28:52.911245+00:00",
+    "original_time": "2026-08-12T06:23:04+05:00"
   },
   {
     "id": "article_ce3c9b1e99fd",
@@ -515,48 +775,38 @@
     "title": "Patient services at Karachi's JPMC disrupted as nurses protest seniority violation",
     "translated_title": "由于护士抗议违反资历规定，卡拉奇 JPMC 的患者服务中断",
     "url": "https://www.dawn.com/news/2022196/patient-services-at-karachis-jpmc-disrupted-as-nurses-protest-seniority-violation",
-    "timestamp": "2026-08-12T06:26:41.420684+00:00",
+    "timestamp": "2026-08-12T08:28:57.290300+00:00",
     "original_time": "2026-08-12T06:23:35+05:00"
   },
   {
-    "id": "article_83b6c7971d0a",
+    "id": "article_5ebe52d55303",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Woman dies of shock after seeing daughter being abducted in Rawalpindi",
-    "translated_title": "拉瓦尔品第女子目睹女儿被绑架后震惊身亡",
-    "url": "https://www.dawn.com/news/2022242/woman-dies-of-shock-after-seeing-daughter-being-abducted-in-rawalpindi",
-    "timestamp": "2026-08-12T06:26:46.043872+00:00",
-    "original_time": "2026-08-12T06:23:50+05:00"
+    "title": "NCCIA arrests three for cyber harassment in Lahore",
+    "translated_title": "NCCIA 在拉合尔逮捕了三名网络骚扰者",
+    "url": "https://www.dawn.com/news/2022237/nccia-arrests-three-for-cyber-harassment-in-lahore",
+    "timestamp": "2026-08-12T08:29:26.116373+00:00",
+    "original_time": "2026-08-12T06:23:42+05:00"
   },
   {
-    "id": "article_68e399e719f2",
+    "id": "article_3e7732f09a11",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Global food inflation risks for Pakistan",
-    "translated_title": "巴基斯坦面临全球食品通胀风险",
-    "url": "https://www.dawn.com/news/2022268",
-    "timestamp": "2026-08-12T06:26:52.703863+00:00",
-    "original_time": "2026-08-12T06:23:11+05:00"
+    "title": "North Korea fires missile ahead of major US-South Korea drills: South Korea",
+    "translated_title": "朝鲜在美韩大型演习之前发射导弹：韩国",
+    "url": "https://www.dawn.com/news/2022338/north-korea-fires-missile-ahead-of-major-us-south-korea-drills-south-korea",
+    "timestamp": "2026-08-12T08:29:30.792758+00:00",
+    "original_time": "2026-08-12T11:31:53+05:00"
   },
   {
-    "id": "article_5e7c6bec29e2",
+    "id": "article_3e6f3a0d5121",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "2 terrorists killed in Bannu operation",
-    "translated_title": "班努行动中两名恐怖分子被打死",
-    "url": "https://www.dawn.com/news/2022260/2-terrorists-killed-in-bannu-operation",
-    "timestamp": "2026-08-12T06:27:05.901235+00:00",
-    "original_time": "2026-08-12T06:23:58+05:00"
-  },
-  {
-    "id": "article_e6d246116d84",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Results withheld in Bagh, Haveli amid demands for recounting",
-    "translated_title": "由于要求重新计票，巴格和哈维利的结果被扣留",
-    "url": "https://www.dawn.com/news/2022292",
-    "timestamp": "2026-08-12T06:27:09.945510+00:00",
-    "original_time": "2026-08-12T06:22:49+05:00"
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2021770/top-ranked-aryna-sabalenka-jessica-pegula-stunned-in-toronto-fourth-round",
+    "timestamp": "2026-08-12T08:29:56.729086+00:00",
+    "original_time": "2026-08-12T08:29:56.729055+00:00"
   },
   {
     "id": "article_bd34fbd1268c",
@@ -565,7 +815,7 @@
     "title": "Three injured inmates booked for ‘attack’ on jail staff in Bahawalpur",
     "translated_title": "三名受伤囚犯因“袭击”巴哈瓦尔布尔监狱工作人员而被登记",
     "url": "https://www.dawn.com/news/2022236/three-injured-inmates-booked-for-attack-on-jail-staff-in-bahawalpur",
-    "timestamp": "2026-08-12T06:27:17.530193+00:00",
+    "timestamp": "2026-08-12T08:30:22.966271+00:00",
     "original_time": "2026-08-12T06:23:42+05:00"
   },
   {
@@ -575,7 +825,107 @@
     "title": "3 judges with diverse legal backgrounds join Islamabad High Court",
     "translated_title": "3名具有不同法律背景的法官加入伊斯兰堡高等法院",
     "url": "https://www.dawn.com/news/2022245/3-judges-with-diverse-legal-backgrounds-join-islamabad-high-court",
-    "timestamp": "2026-08-12T06:27:21.647929+00:00",
+    "timestamp": "2026-08-12T08:30:34.969560+00:00",
+    "original_time": "2026-08-12T06:23:50+05:00"
+  },
+  {
+    "id": "article_5bfe95d7c597",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz orders warehouse audit",
+    "translated_title": "PM Shehbaz 下令仓库审计",
+    "url": "https://www.dawn.com/news/2022264",
+    "timestamp": "2026-08-12T08:30:48.264828+00:00",
+    "original_time": "2026-08-12T06:23:11+05:00"
+  },
+  {
+    "id": "article_b8cb4b2619c2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PSX stays jittery, index falls below 180,000-level",
+    "translated_title": "PSX 持续紧张，指数跌破 180,000 点",
+    "url": "https://www.dawn.com/news/2022261/psx-stays-jittery-index-falls-below-180000-level",
+    "timestamp": "2026-08-12T08:30:55.398287+00:00",
+    "original_time": "2026-08-12T06:23:11+05:00"
+  },
+  {
+    "id": "article_6b92cbec0ee5",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "SC rejects Punjab plea seeking review of rape-to-fornication verdict",
+    "translated_title": "SC拒绝旁遮普请求审查强奸至通奸判决的请求",
+    "url": "https://www.dawn.com/news/2022287/sc-rejects-punjab-plea-seeking-review-of-rape-to-fornication-verdict",
+    "timestamp": "2026-08-12T08:31:06.357381+00:00",
+    "original_time": "2026-08-12T06:23:04+05:00"
+  },
+  {
+    "id": "article_9fe3139def40",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Presidency rejects former vice chancellor’s representation against dismissal",
+    "translated_title": "总统拒绝前副总理反对解雇的陈述",
+    "url": "https://www.dawn.com/news/2022244/presidency-rejects-former-vice-chancellors-representation-against-dismissal",
+    "timestamp": "2026-08-12T08:31:10.850875+00:00",
+    "original_time": "2026-08-12T06:23:50+05:00"
+  },
+  {
+    "id": "article_d66585440c74",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "US report calls for strengthening parliamentary oversight of Pakistan's public finances",
+    "translated_title": "美国报告呼吁加强议会对巴基斯坦公共财政的监督",
+    "url": "https://www.dawn.com/news/2022331/us-report-calls-for-strengthening-parliamentary-oversight-of-pakistans-public-finances",
+    "timestamp": "2026-08-12T08:31:15.217537+00:00",
+    "original_time": "2026-08-12T09:54:46+05:00"
+  },
+  {
+    "id": "article_7a0485437f0c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Murad vows action over police, medico-legal lapses as Mir Raza murder probe progresses",
+    "translated_title": "随着米尔拉扎谋杀案调查的进展，穆拉德誓言对警方和医疗法律失误采取行动",
+    "url": "https://www.dawn.com/news/2022195/murad-vows-action-over-police-medico-legal-lapses-as-mir-raza-murder-probe-progresses",
+    "timestamp": "2026-08-12T08:31:19.485881+00:00",
+    "original_time": "2026-08-12T06:23:35+05:00"
+  },
+  {
+    "id": "article_b03a74f24075",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan warns UN Security Council of ‘tipping point’ in occupied West Bank",
+    "translated_title": "巴基斯坦警告联合国安理会，被占领的约旦河西岸已达到“临界点”",
+    "url": "https://www.dawn.com/news/2022274/pakistan-warns-un-security-council-of-tipping-point-in-occupied-west-bank",
+    "timestamp": "2026-08-12T08:31:27.340924+00:00",
+    "original_time": "2026-08-12T06:22:56+05:00"
+  },
+  {
+    "id": "article_0edbe18f10f4",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Colombia quake toll tops 250 as rescuers race to find survivors",
+    "translated_title": "哥伦比亚地震死亡人数突破 250 救援人员竞相寻找幸存者",
+    "url": "https://www.dawn.com/news/2022269/colombia-quake-toll-tops-250-as-rescuers-race-to-find-survivors",
+    "timestamp": "2026-08-12T08:31:31.585341+00:00",
+    "original_time": "2026-08-12T06:22:56+05:00"
+  },
+  {
+    "id": "article_fa45886c74db",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "New regional security order",
+    "translated_title": "新的地区安全秩序",
+    "url": "https://www.dawn.com/news/2022309",
+    "timestamp": "2026-08-12T08:31:37.900332+00:00",
+    "original_time": "2026-08-12T06:39:47+05:00"
+  },
+  {
+    "id": "article_22c1eeb2dda6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan, US extend higher education partnership for 5 years",
+    "translated_title": "巴基斯坦与美国延长高等教育合作伙伴关系五年",
+    "url": "https://www.dawn.com/news/2022247/pakistan-us-extend-higher-education-partnership-for-5-years",
+    "timestamp": "2026-08-12T08:31:44.937988+00:00",
     "original_time": "2026-08-12T06:23:50+05:00"
   },
   {
@@ -585,128 +935,38 @@
     "title": "Punjab protecting minorities’ rights: CM Maryam",
     "translated_title": "旁遮普保护少数群体权利：CM Maryam",
     "url": "https://www.dawn.com/news/2022233/punjab-protecting-minorities-rights-cm-maryam",
-    "timestamp": "2026-08-12T06:27:44.230337+00:00",
+    "timestamp": "2026-08-12T08:31:52.927938+00:00",
     "original_time": "2026-08-12T06:23:42+05:00"
   },
   {
-    "id": "article_ea2b492a7b5c",
+    "id": "article_b93f8b1b72bd",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "All but three new judges sworn in after Zardari’s nod",
-    "translated_title": "在扎尔达里点头后，除三名新法官外，其他法官均宣誓就职",
-    "url": "https://www.dawn.com/news/2022294/all-but-three-new-judges-sworn-in-after-zardaris-nod",
-    "timestamp": "2026-08-12T06:27:48.430228+00:00",
-    "original_time": "2026-08-12T06:22:49+05:00"
+    "title": "PTI protests outside Supreme Court over Imran’s health, pending cases",
+    "translated_title": "PTI 在最高法院外抗议伊姆兰的健康状况，未决案件",
+    "url": "https://www.dawn.com/news/2022272/pti-protests-outside-supreme-court-over-imrans-health-pending-cases",
+    "timestamp": "2026-08-12T08:32:19.705496+00:00",
+    "original_time": "2026-08-12T06:22:56+05:00"
   },
   {
-    "id": "article_43daa7c4d737",
+    "id": "article_78602ac59f3f",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Lebanon abolishes death penalty",
-    "translated_title": "黎巴嫩废除死刑",
-    "url": "https://www.dawn.com/news/2022276/lebanon-abolishes-death-penalty",
-    "timestamp": "2026-08-12T06:28:02.297067+00:00",
-    "original_time": "2026-08-12T06:23:29+05:00"
+    "title": "Rain pounds Beijing as Typhoon Dolphin sweeps through China",
+    "translated_title": "台风“海豚”横扫中国 降雨袭击北京",
+    "url": "https://www.dawn.com/news/2022346/rain-pounds-beijing-as-typhoon-dolphin-sweeps-through-china",
+    "timestamp": "2026-08-12T08:32:31.638279+00:00",
+    "original_time": "2026-08-12T12:53:28+05:00"
   },
   {
-    "id": "article_7a0485437f0c",
+    "id": "article_e6315f0f3013",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Murad vows action over police, medico-legal lapses as Mir Raza murder probe progresses",
-    "translated_title": "随着米尔拉扎谋杀案调查的进展，穆拉德誓言对警方和医疗法律失误采取行动",
-    "url": "https://www.dawn.com/news/2022195/murad-vows-action-over-police-medico-legal-lapses-as-mir-raza-murder-probe-progresses",
-    "timestamp": "2026-08-12T06:28:15.547912+00:00",
-    "original_time": "2026-08-12T06:23:35+05:00"
-  },
-  {
-    "id": "article_552a9e967699",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Woman killed for ‘honour’ in Kohistan",
-    "translated_title": "科希斯坦妇女因“荣誉”而被杀",
-    "url": "https://www.dawn.com/news/2022250/woman-killed-for-honour-in-kohistan",
-    "timestamp": "2026-08-12T06:28:19.567259+00:00",
-    "original_time": "2026-08-12T06:23:59+05:00"
-  },
-  {
-    "id": "article_8acc0ec256e2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Modi’s Pakistan policy",
-    "translated_title": "莫迪的巴基斯坦政策",
-    "url": "https://www.dawn.com/news/2022306",
-    "timestamp": "2026-08-12T06:28:23.414590+00:00",
-    "original_time": "2026-08-12T06:39:47+05:00"
-  },
-  {
-    "id": "article_077d80318465",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Sui to be turned into modern city, says CM Bugti",
-    "translated_title": "CM Bugti 表示，睢县将被打造成现代化城市",
-    "url": "https://www.dawn.com/news/2022291/sui-to-be-turned-into-modern-city-says-cm-bugti",
-    "timestamp": "2026-08-12T06:28:30.267892+00:00",
-    "original_time": "2026-08-12T06:23:04+05:00"
-  },
-  {
-    "id": "article_571e8d8c800b",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Armoured personnel carriers, other vehicles handed over to police in several KP districts",
-    "translated_title": "开伯尔省几个地区的装甲运兵车和其他车辆已移交给警方",
-    "url": "https://www.dawn.com/news/2022253/armoured-personnel-carriers-other-vehicles-handed-over-to-police-in-several-kp-districts",
-    "timestamp": "2026-08-12T06:28:50.166779+00:00",
-    "original_time": "2026-08-12T06:23:59+05:00"
-  },
-  {
-    "id": "article_bed914bb32ee",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "End to religion-based discrimination, protection to minorities sought in Karachi",
-    "translated_title": "卡拉奇寻求结束基于宗教的歧视并保护少数群体",
-    "url": "https://www.dawn.com/news/2022197/end-to-religion-based-discrimination-protection-to-minorities-sought-in-karachi",
-    "timestamp": "2026-08-12T06:28:59.899977+00:00",
-    "original_time": "2026-08-12T06:23:35+05:00"
-  },
-  {
-    "id": "article_03207e860d91",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Man burnt in LPG decanting shop fire in Sargodha",
-    "translated_title": "萨戈达一名男子在液化石油气倾倒店火灾中被烧伤",
-    "url": "https://www.dawn.com/news/2022228/man-burnt-in-lpg-decanting-shop-fire-in-sargodha",
-    "timestamp": "2026-08-12T06:29:19.928062+00:00",
-    "original_time": "2026-08-12T06:23:42+05:00"
-  },
-  {
-    "id": "article_aac8bac285eb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Senate panel questions need for climate change authority",
-    "translated_title": "参议院小组质疑气候变化权威的必要性",
-    "url": "https://www.dawn.com/news/2022289/senate-panel-questions-need-for-climate-change-authority",
-    "timestamp": "2026-08-12T06:29:24.749313+00:00",
-    "original_time": "2026-08-12T06:23:04+05:00"
-  },
-  {
-    "id": "article_3ae452acf527",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "黎明网",
-    "url": "https://www.dawn.com/news/2021881/mir-razas-grave-is-not-a-silent-one",
-    "timestamp": "2026-08-12T06:29:46.059425+00:00",
-    "original_time": "2026-08-12T06:29:46.059401+00:00"
-  },
-  {
-    "id": "article_b8cb4b2619c2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PSX stays jittery, index falls below 180,000-level",
-    "translated_title": "PSX 持续紧张，指数跌破 180,000 点",
-    "url": "https://www.dawn.com/news/2022261/psx-stays-jittery-index-falls-below-180000-level",
-    "timestamp": "2026-08-12T06:30:10.917654+00:00",
-    "original_time": "2026-08-12T06:23:11+05:00"
+    "title": "Gold rebounds towards 10-week high as markets brace for US inflation data",
+    "translated_title": "市场为美国通胀数据做好准备金价反弹至10周高位",
+    "url": "https://www.dawn.com/news/2022343/gold-rebounds-towards-10-week-high-as-markets-brace-for-us-inflation-data",
+    "timestamp": "2026-08-12T08:32:39.608632+00:00",
+    "original_time": "2026-08-12T12:38:56+05:00"
   },
   {
     "id": "article_45a3c1979e7b",
@@ -715,38 +975,88 @@
     "title": "2.4 million girls affected by Taliban ban on schooling, says Unesco",
     "translated_title": "联合国教科文组织称，240万女孩受到塔利班学校禁令的影响",
     "url": "https://www.dawn.com/news/2022277/24-million-girls-affected-by-taliban-ban-on-schooling-says-unesco",
-    "timestamp": "2026-08-12T06:30:18.970427+00:00",
+    "timestamp": "2026-08-12T08:32:53.742315+00:00",
     "original_time": "2026-08-12T06:23:29+05:00"
   },
   {
-    "id": "article_22c1eeb2dda6",
+    "id": "article_f0012f36b26d",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Pakistan, US extend higher education partnership for 5 years",
-    "translated_title": "巴基斯坦与美国延长高等教育合作伙伴关系五年",
-    "url": "https://www.dawn.com/news/2022247/pakistan-us-extend-higher-education-partnership-for-5-years",
-    "timestamp": "2026-08-12T06:30:23.658645+00:00",
-    "original_time": "2026-08-12T06:23:50+05:00"
+    "title": "Trump says secret flight change at directives of Secret Service, plane ultimately used faced 'greater risk'",
+    "translated_title": "特朗普表示按照特勤局的指示进行秘密航班变更，最终使用的飞机面临“更大风险”",
+    "url": "https://www.dawn.com/news/2022334/trump-says-secret-flight-change-at-directives-of-secret-service-plane-ultimately-used-faced-greater-risk",
+    "timestamp": "2026-08-12T08:32:59.340060+00:00",
+    "original_time": "2026-08-12T10:21:04+05:00"
   },
   {
-    "id": "article_b03a74f24075",
+    "id": "article_d50bab65cec2",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Pakistan warns UN Security Council of ‘tipping point’ in occupied West Bank",
-    "translated_title": "巴基斯坦警告联合国安理会，被占领的约旦河西岸已达到“临界点”",
-    "url": "https://www.dawn.com/news/2022274/pakistan-warns-un-security-council-of-tipping-point-in-occupied-west-bank",
-    "timestamp": "2026-08-12T06:30:35.304373+00:00",
+    "title": "Below-average monsoon threatens crops in India",
+    "translated_title": "低于平均水平的季风威胁着印度的农作物",
+    "url": "https://www.dawn.com/news/2022271/below-average-monsoon-threatens-crops-in-india",
+    "timestamp": "2026-08-12T08:33:06.717343+00:00",
     "original_time": "2026-08-12T06:22:56+05:00"
   },
   {
-    "id": "article_24b9eaf9c2df",
+    "id": "article_5e7c6bec29e2",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "SHC reserves order on plea for independent probe into HIV outbreak",
-    "translated_title": "SHC 保留请求对艾滋病毒疫情进行独立调查的命令",
-    "url": "https://www.dawn.com/news/2022193/shc-reserves-order-on-plea-for-independent-probe-into-hiv-outbreak",
-    "timestamp": "2026-08-12T06:31:16.840538+00:00",
-    "original_time": "2026-08-12T06:23:35+05:00"
+    "title": "2 terrorists killed in Bannu operation",
+    "translated_title": "班努行动中两名恐怖分子被打死",
+    "url": "https://www.dawn.com/news/2022260/2-terrorists-killed-in-bannu-operation",
+    "timestamp": "2026-08-12T08:33:39.365958+00:00",
+    "original_time": "2026-08-12T06:23:58+05:00"
+  },
+  {
+    "id": "article_03207e860d91",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Man burnt in LPG decanting shop fire in Sargodha",
+    "translated_title": "萨戈达一名男子在液化石油气倾倒店火灾中被烧伤",
+    "url": "https://www.dawn.com/news/2022228/man-burnt-in-lpg-decanting-shop-fire-in-sargodha",
+    "timestamp": "2026-08-12T08:33:44.606878+00:00",
+    "original_time": "2026-08-12T06:23:42+05:00"
+  },
+  {
+    "id": "article_83b6c7971d0a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Woman dies of shock after seeing daughter being abducted in Rawalpindi",
+    "translated_title": "拉瓦尔品第女子目睹女儿被绑架后震惊身亡",
+    "url": "https://www.dawn.com/news/2022242/woman-dies-of-shock-after-seeing-daughter-being-abducted-in-rawalpindi",
+    "timestamp": "2026-08-12T08:33:48.535607+00:00",
+    "original_time": "2026-08-12T06:23:50+05:00"
+  },
+  {
+    "id": "article_e6d246116d84",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Results withheld in Bagh, Haveli amid demands for recounting",
+    "translated_title": "由于要求重新计票，巴格和哈维利的结果被扣留",
+    "url": "https://www.dawn.com/news/2022292",
+    "timestamp": "2026-08-12T08:33:59.156165+00:00",
+    "original_time": "2026-08-12T06:22:49+05:00"
+  },
+  {
+    "id": "article_68e399e719f2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Global food inflation risks for Pakistan",
+    "translated_title": "巴基斯坦面临全球食品通胀风险",
+    "url": "https://www.dawn.com/news/2022268",
+    "timestamp": "2026-08-12T08:34:22.260520+00:00",
+    "original_time": "2026-08-12T06:23:11+05:00"
+  },
+  {
+    "id": "article_bfe4534c7e2e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan Medical and Dental Council directs doctors to renew registration certificates in 6 months",
+    "translated_title": "巴基斯坦医疗和牙科委员会指示医生在6个月内更新注册证书",
+    "url": "https://www.dawn.com/news/2022246/pakistan-medical-and-dental-council-directs-doctors-to-renew-registration-certificates-in-6-months",
+    "timestamp": "2026-08-12T08:34:26.668672+00:00",
+    "original_time": "2026-08-12T06:23:50+05:00"
   },
   {
     "id": "article_d90e1477fa75",
@@ -755,17 +1065,97 @@
     "title": "Afghanistan beat Ireland to seal 2027 World Cup berth",
     "translated_title": "阿富汗击败爱尔兰获得2027年世界杯参赛资格",
     "url": "https://www.dawn.com/news/2022211/afghanistan-beat-ireland-to-seal-2027-world-cup-berth",
-    "timestamp": "2026-08-12T06:31:31.443382+00:00",
+    "timestamp": "2026-08-12T08:34:45.308387+00:00",
     "original_time": "2026-08-12T06:23:19+05:00"
   },
   {
-    "id": "article_fa45886c74db",
+    "id": "article_664c1529614c",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "New regional security order",
-    "translated_title": "新的地区安全秩序",
-    "url": "https://www.dawn.com/news/2022309",
-    "timestamp": "2026-08-12T06:31:44.544743+00:00",
-    "original_time": "2026-08-12T06:39:47+05:00"
+    "title": "Shortage of students forces University of Peshawar to reduce number of depts",
+    "translated_title": "学生短缺迫使白沙瓦大学减少院系数量",
+    "url": "https://www.dawn.com/news/2022259/shortage-of-students-forces-university-of-peshawar-to-reduce-number-of-depts",
+    "timestamp": "2026-08-12T08:35:02.529262+00:00",
+    "original_time": "2026-08-12T06:23:58+05:00"
+  },
+  {
+    "id": "article_b81710b96fe8",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Govt plans to turn Karachi into maritime hub: maritime affairs minister",
+    "translated_title": "海事部长：政府计划将卡拉奇变成海事中心",
+    "url": "https://www.dawn.com/news/2022198/govt-plans-to-turn-karachi-into-maritime-hub-maritime-affairs-minister",
+    "timestamp": "2026-08-12T08:35:12.555856+00:00",
+    "original_time": "2026-08-12T06:23:35+05:00"
+  },
+  {
+    "id": "article_b58184c79824",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan condemns Houthi attack in Red Sea that claimed lives of 3 nationals",
+    "translated_title": "巴基斯坦谴责胡塞武装在红海发动的袭击，造成3名国民丧生",
+    "url": "https://www.dawn.com/news/2022341/pakistan-condemns-houthi-attack-in-red-sea-that-claimed-lives-of-3-nationals",
+    "timestamp": "2026-08-12T08:35:16.591848+00:00",
+    "original_time": "2026-08-12T11:59:11+05:00"
+  },
+  {
+    "id": "article_0d1c2b676ecb",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Woman killed in Lower Dir house collapse",
+    "translated_title": "一名妇女在下第尔房屋倒塌中丧生",
+    "url": "https://www.dawn.com/news/2022256/woman-killed-in-lower-dir-house-collapse",
+    "timestamp": "2026-08-12T08:35:25.940003+00:00",
+    "original_time": "2026-08-12T06:23:58+05:00"
+  },
+  {
+    "id": "article_b47dffd87968",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Australian PM under fire for ‘melons’ gag about Takaichi",
+    "translated_title": "澳大利亚总理因高市的“瓜”笑话而受到批评",
+    "url": "https://www.dawn.com/news/2022282/australian-pm-under-fire-for-melons-gag-about-takaichi",
+    "timestamp": "2026-08-12T08:35:41.339045+00:00",
+    "original_time": "2026-08-12T06:23:28+05:00"
+  },
+  {
+    "id": "article_be925cb212ca",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "‘FIFA’s flawed funding system behind silence of smaller nations’",
+    "translated_title": "“国际足联有缺陷的资助体系导致小国沉默”",
+    "url": "https://www.dawn.com/news/2022209",
+    "timestamp": "2026-08-12T08:35:48.669049+00:00",
+    "original_time": "2026-08-12T06:23:19+05:00"
+  },
+  {
+    "id": "article_575d917ca4b1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "BRICS nations discuss linking payment systems",
+    "translated_title": "金砖国家讨论连接支付系统",
+    "url": "https://www.dawn.com/news/2022281/brics-nations-discuss-linking-payment-systems",
+    "timestamp": "2026-08-12T08:35:56.937443+00:00",
+    "original_time": "2026-08-12T06:23:28+05:00"
+  },
+  {
+    "id": "article_97bd6f5569a1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Petroleum dealers issue 72-hour ultimatum",
+    "translated_title": "石油经销商发出72小时最后通牒",
+    "url": "https://www.dawn.com/news/2022267",
+    "timestamp": "2026-08-12T08:36:22.073462+00:00",
+    "original_time": "2026-08-12T06:23:11+05:00"
+  },
+  {
+    "id": "article_bed914bb32ee",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "End to religion-based discrimination, protection to minorities sought in Karachi",
+    "translated_title": "卡拉奇寻求结束基于宗教的歧视并保护少数群体",
+    "url": "https://www.dawn.com/news/2022197/end-to-religion-based-discrimination-protection-to-minorities-sought-in-karachi",
+    "timestamp": "2026-08-12T08:36:27.830894+00:00",
+    "original_time": "2026-08-12T06:23:35+05:00"
   }
 ]
