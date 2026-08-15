@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-1580551212882882965",
+    "id": "tweet_ForeignOfficePk_-2412246785156545413",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Pakistan extends its heartiest felicitations to the Government and the people of the Republic of Korea on their National Liberation day.@MOFAkr_eng@PakinROKorea",
@@ -11,56 +11,247 @@
       "86a65e9cb3ba9fd6.svg",
       "b88742aaabce691a.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-1580551212882882965",
-    "timestamp": "2026-08-15T08:26:50.078976+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-2412246785156545413",
+    "timestamp": "2026-08-15T09:24:40.861664+00:00",
     "original_time": "2026-08-15T05:00:13+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_549674808284884207",
+    "id": "tweet_PakTVGlobal_-809563545128500579",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Dr Saeed Uzzaman, IR Expert, says the ongoing US-Iran tensions remain dangerous for the region and the world, stressing the need to avoid provocative statements and give diplomacy another chance.@nailashuja@saeed_uzzaman#USIran#MiddleEast#Diplomacy#Geopolitics",
+    "translated_text": "国际关系专家 Saeed Uzzaman 博士表示，持续的美伊紧张局势对该地区和世界来说仍然是危险的，他强调需要避免挑衅性言论，并给外交一次机会。@nailashuja@saeed_uzzaman#USIran#MiddleEast#Diplomacy#Geopolitics",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-809563545128500579",
+    "timestamp": "2026-08-15T09:26:02.744610+00:00",
+    "original_time": "2026-08-15T08:53:58+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2075722417289558245",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Anza Saqib, Foreign Affairs Expert, discusses the legal, strategic and economic implications of Trump’s remarks on the Strait of Hormuz, and Iran’s response to the claim.@anzasaqib@nailashuja#StraitOfHormuz#Iran#Trump#Geopolitics#PakistanTV",
+    "translated_text": "外交事务专家 Anza Saqib 讨论了特朗普有关霍尔木兹海峡言论的法律、战略和经济影响，以及伊朗对此主张的回应。@anzasaqib@nailashuja#StraitOfHormuz#Iran#Trump#Geopolitics#PakistanTV",
+    "images": [
+      "2a0532c55f62cc20.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2075722417289558245",
+    "timestamp": "2026-08-15T09:26:03.237340+00:00",
+    "original_time": "2026-08-15T08:51:27+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_6728580044670521974",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Prime Minister Shehbaz Sharif, in a meeting with NDMA Chairman Lieutenant General Inam Haider Malik, directed that all available resources be utilised to provide maximum relief and assistance to flood-affected people, with effective coordination between NDMA and provincial",
+    "translated_text": "谢赫巴兹·谢里夫总理在会见 NDMA 主席伊纳姆·海德尔·马利克中将时指示，在 NDMA 和省级之间的有效协调下，利用所有可用资源为受洪灾影响的人们提供最大限度的救济和援助。",
+    "images": [
+      "09581f61691a27b1.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/6728580044670521974",
+    "timestamp": "2026-08-15T09:26:03.854650+00:00",
+    "original_time": "2026-08-15T08:12:28+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_7924831239246101574",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "South Korean President Lee Jae Myung proposed talks with North Korea to formally end the long-running Korean War, as Pyongyang deepens ties with Russia while asserting its status as an \"irreversible\" nuclear state.#SouthKorea#NorthKorea#KoreanWar#PeaceTalks#PakistanTV",
+    "translated_text": "韩国总统李在明提议与朝鲜进行会谈，正式结束长期的朝鲜战争，平壤深化与俄罗斯的关系，同时宣称其作为“不可逆转”的核国家的地位。#SouthKorea#NorthKorea#KoreanWar#PeaceTalks#PakistanTV",
+    "images": [
+      "245d15e021887732.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/7924831239246101574",
+    "timestamp": "2026-08-15T09:26:04.135003+00:00",
+    "original_time": "2026-08-15T06:04:32+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-8195281389191927512",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "After rejecting a previous offer, payments giant PayPal is considering a new deal to sell itself to a group of investors that includes private financial company Stripe, according to a Wall Street Journal report.#PayPal#Stripe#BusinessNews#TechNews#PakistanTV",
+    "translated_text": "据《华尔街日报》报道，在拒绝之前的报价后，支付巨头 PayPal 正在考虑一项新交易，将自己出售给包括私人金融公司 Stripe 在内的一群投资者。#PayPal#Stripe#BusinessNews#TechNews#PakistanTV",
+    "images": [
+      "3cb1e05c55c8a2a9.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-8195281389191927512",
+    "timestamp": "2026-08-15T09:26:04.521256+00:00",
+    "original_time": "2026-08-15T05:12:07+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_7192712604116638696",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "A Test victory over Australia would mean the world for Bangladesh. Defeating a side that has been a serial finalist in the World Test Championship, with one of the world's best bowling attacks, would rank as Bangladesh's most famous Test victory: Ahmad Bin Parvez, Dhaka-based",
+    "translated_text": "对澳大利亚的测试胜利对孟加拉国来说意味着世界。击败一支在世界测试锦标赛中连续进入决赛、拥有世界上最好的保龄球进攻之一的球队，将成为孟加拉国最著名的测试胜利：来自达卡的艾哈迈德·本·帕尔韦斯",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/7192712604116638696",
+    "timestamp": "2026-08-15T09:26:06.952671+00:00",
+    "original_time": "2026-08-14T22:08:49+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-5185011715121838438",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "India and Israel, for different reasons, wanted a different narrative to emerge. German media was used by both, allowing attention to be diverted as Israel faces growing international criticism and India remains unsettled by Pakistan's reputation: Air Cdre (Retd) Khalid Banuri,",
+    "translated_text": "印度和以色列出于不同的原因，希望出现不同的叙述。双方都使用了德国媒体，从而转移了注意力，因为以色列面临着越来越多的国际批评，而印度仍然对巴基斯坦的声誉感到不安：空军中校（退役军人）哈立德·巴努里（Khalid Banuri），",
+    "images": [
+      "0dd0a19d9b69ac14.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-5185011715121838438",
+    "timestamp": "2026-08-15T09:26:07.535482+00:00",
+    "original_time": "2026-08-14T22:02:44+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-3301602189273778137",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Ukraine's accession to the European Union remains challenging as the bloc is reluctant to admit a country at war, although its membership prospects have advanced significantly: Prof. Christoph Bluth, University of Bradford#Ukraine#EuropeanUnion#UkraineEU#EUEnlargement",
+    "translated_text": "乌克兰加入欧盟仍然充满挑战，因为该集团不愿承认一个处于战争状态的国家，尽管其入盟前景已显着改善：布拉德福德大学克里斯托夫·布卢斯教授#Ukraine#EuropeanUnion#UkraineEU#EUEnlargement",
+    "images": [
+      "054263d86ef2bc47.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3301602189273778137",
+    "timestamp": "2026-08-15T09:26:07.966193+00:00",
+    "original_time": "2026-08-14T21:52:12+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-8291487152219661542",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "FDA upgrades egg recall linked to salmonella to highest health risk level",
+    "translated_text": "FDA 将与沙门氏菌有关的鸡蛋召回升级至最高健康风险级别",
+    "images": [
+      "908d71b2d21ebf2f.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-8291487152219661542",
+    "timestamp": "2026-08-15T09:28:53.925203+00:00",
+    "original_time": "2026-08-15T09:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_8010531198682558117",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Violent crime plummeted in 2025, with murder rate hitting 20-year low, FBI says",
+    "translated_text": "FBI 称 2025 年暴力犯罪大幅下降，谋杀率创 20 年来最低",
+    "images": [
+      "8dfcd355ef510a80.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8010531198682558117",
+    "timestamp": "2026-08-15T09:28:54.479300+00:00",
+    "original_time": "2026-08-15T07:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_591042899969323687",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Why incoming freshmen at one Oklahoma high school must give their mothers a goodbye kiss on their first day",
+    "translated_text": "为什么俄克拉荷马州一所高中的新生必须在第一天给母亲一个吻别吻",
+    "images": [
+      "8ff87a44ad1e805e.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/591042899969323687",
+    "timestamp": "2026-08-15T09:28:54.677526+00:00",
+    "original_time": "2026-08-15T05:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_5577893400556492185",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Phoenix air traffic controller saves day when 2 American Airlines flights with same call number converge: \"Pretty incredible\"",
+    "translated_text": "菲尼克斯空中交通管制员拯救了两架美国航空相同呼叫号码的航班：“太不可思议了”",
+    "images": [
+      "5af2e42e9867222b.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/5577893400556492185",
+    "timestamp": "2026-08-15T09:28:54.918476+00:00",
+    "original_time": "2026-08-15T03:53:07+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_4466981039785154314",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "An abandoned Russian tanker carrying millions of gallons of oil off the coast of Oman could potentially cause a larger environmental disaster after it was damaged from an unexplained explosion in early June. Satellite images show a growing oil slick in the area.",
+    "translated_text": "一艘载有数百万加仑石油的废弃俄罗斯油轮在阿曼海岸附近因六月初不明原因爆炸而受损，可能会造成更大的环境灾难。卫星图像显示该地区浮油不断增加。",
+    "images": [
+      "ec0c123a6a1a7ec8.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/4466981039785154314",
+    "timestamp": "2026-08-15T09:28:55.105698+00:00",
+    "original_time": "2026-08-15T02:11:13+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-79481349239304218",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Count Binface, the candidate wearing a garbage can on his head, just won over a quarter of the votes in a contest against Nigel Farage, one of Britain's most famous politicians.\n\nThe longtime satirical candidate had his best showing yet in a surreal campaign triggered by Farage's",
+    "translated_text": "头戴垃圾桶的候选人宾法斯伯爵刚刚在与英国最著名的政治家之一奈杰尔·法拉奇的竞选中赢得了四分之一以上的选票。\n\n这位长期的讽刺候选人在法拉奇的言论引发的一场超现实的竞选活动中取得了迄今为止最好的表现",
+    "images": [
+      "c29e0677023ffcaf.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-79481349239304218",
+    "timestamp": "2026-08-15T09:28:55.387295+00:00",
+    "original_time": "2026-08-15T01:48:24+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-509134879949533081",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Violent crime plummeted in 2025, with the murder rate hitting a 20-year low: FBI Uniform Crime Report",
+    "translated_text": "联邦调查局统一犯罪报告：2025 年暴力犯罪大幅下降，谋杀率创 20 年来最低",
+    "images": [
+      "8dfcd355ef510a80.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-509134879949533081",
+    "timestamp": "2026-08-15T09:28:57.526056+00:00",
+    "original_time": "2026-08-14T21:41:18+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_-2184546112535178447",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "A man is in custody after disrupting Shabbat services in Manhattan tonight. \n\n\"As synagogue security was escorting him out, he struck a member of the congregation, damaged synagogue property, and then spit at and headbutted a member of the security team. An NYPD sergeant working",
     "translated_text": "一名男子今晚在曼哈顿扰乱安息日仪式后被拘留。 \n\n“当犹太教堂的保安护送他出去时，他袭击了一名会众，损坏了犹太教堂的财产，然后向一名保安人员吐口水并用头顶撞。一名纽约警察局警官正在工作",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/549674808284884207",
-    "timestamp": "2026-08-15T08:33:09.529589+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-2184546112535178447",
+    "timestamp": "2026-08-15T09:29:55.188986+00:00",
     "original_time": "2026-08-15T02:09:57+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_4671929178045853456",
+    "id": "tweet_KellieMeyerNews_1479278511486113233",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Trump Truth social posting spree- and still going...\n\nIn new Friday night Truth Social posts, President Trump posted about the vandalism at the World War II Memorial in Washington, D.C. with the words \"Vandalism, again.\" \n\nAnother is a photo of the \"wall of steel blockade\" in the",
     "translated_text": "特朗普真相社交发帖热潮——而且还在继续……\n\n在周五晚上的真相社会新帖子中，特朗普总统发布了有关华盛顿特区二战纪念碑的破坏行为，并写道“再次破坏”。 \n\n另一张是照片中的“钢铁封锁墙”",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/4671929178045853456",
-    "timestamp": "2026-08-15T08:33:09.695361+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/1479278511486113233",
+    "timestamp": "2026-08-15T09:29:55.383783+00:00",
     "original_time": "2026-08-15T01:58:50+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_1731124693864617125",
+    "id": "tweet_KellieMeyerNews_5881691791598701927",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "I asked the White House when the President may next be on the road like he was today.\n\nA White House official responded with this, along with the list of where he has traveled so far this year.\n\n\"In the months ahead, President Trump will continue fighting to lower costs for",
     "translated_text": "我问白宫总统下次什么时候会像今天一样出访。\n\n一名白宫官员对此做出了回应，并附上了他今年迄今为止去过的地方的清单。\n\n“未来几个月，特朗普总统将继续努力降低成本",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/1731124693864617125",
-    "timestamp": "2026-08-15T08:33:09.854670+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/5881691791598701927",
+    "timestamp": "2026-08-15T09:29:55.528211+00:00",
     "original_time": "2026-08-14T22:13:51+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_931677620411987432",
+    "id": "tweet_KellieMeyerNews_7644593579236699141",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Social media has so many gems today. Thanks for making my Friday.",
     "translated_text": "如今，社交媒体拥有如此多的瑰宝。谢谢你让我度过了周五。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/931677620411987432",
-    "timestamp": "2026-08-15T08:33:10.008941+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/7644593579236699141",
+    "timestamp": "2026-08-15T09:29:55.660648+00:00",
     "original_time": "2026-08-14T22:00:28+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-8570131067242367356",
+    "id": "tweet_KellieMeyerNews_2492509949963559265",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "team effort.",
@@ -68,8 +259,8 @@
     "images": [
       "1536a08ca0233ec1.svg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-8570131067242367356",
-    "timestamp": "2026-08-15T08:33:10.203574+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/2492509949963559265",
+    "timestamp": "2026-08-15T09:29:55.827379+00:00",
     "original_time": "2026-08-14T21:52:25+00:00"
   }
 ]
