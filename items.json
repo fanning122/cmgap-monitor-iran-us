@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_1813964885138399256",
+    "id": "tweet_ForeignOfficePk_7311968966581289263",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Pakistan extends its heartiest felicitations to the Government and the people of the Republic of Korea on their National Liberation day.@MOFAkr_eng@PakinROKorea",
@@ -11,23 +11,64 @@
       "86a65e9cb3ba9fd6.svg",
       "b88742aaabce691a.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/1813964885138399256",
-    "timestamp": "2026-08-15T12:34:06.750093+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/7311968966581289263",
+    "timestamp": "2026-08-15T13:29:03.483258+00:00",
     "original_time": "2026-08-15T05:00:13+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1768167215979506724",
+    "id": "tweet_PakTVGlobal_2540004758499120331",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "A rare 5.0-magnitude earthquake struck Spain’s tourist hotspot Granada shortly after 1:00 am, damaging buildings and prompting hundreds of emergency calls. Officials reported no casualties or serious damage, including at the UNESCO-listed Alhambra palace.#Spain#Granada",
+    "translated_text": "凌晨 1:00 后不久，西班牙旅游热点格拉纳达发生罕见的 5.0 级地震，建筑物受损，并引发了数百个紧急呼叫。官员称没有人员伤亡或严重损坏，包括被联合国教科文组织列为世界遗产的阿罕布拉宫。#西班牙#格拉纳达",
+    "images": [
+      "46d3e363bfb8d4d9.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2540004758499120331",
+    "timestamp": "2026-08-15T13:31:06.700957+00:00",
+    "original_time": "2026-08-15T13:23:51+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_10562094144943208",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Renowned Pakistani climber Sohail Sakhi’s mortal remains have been evacuated from Broad Peak Base Camp to Skardu by helicopter. The Alpine Club of Pakistan has paid tribute to his passion for mountaineering and extended condolences to his family, friends and the mountaineering",
+    "translated_text": "巴基斯坦著名登山家索海尔·萨基的遗体已被直升机从布洛阿特峰大本营疏散至斯卡杜。巴基斯坦高山俱乐部向他对登山的热情致敬，并向他的家人、朋友和登山界表示慰问",
+    "images": [
+      "cbdbf07e9ca7c00c.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/10562094144943208",
+    "timestamp": "2026-08-15T13:31:07.598467+00:00",
+    "original_time": "2026-08-15T13:07:54+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1385382835569199470",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Catania airport in Sicily has reopened after a week of flight disruptions caused by Mount Etna’s volcanic eruption. Flights resumed after authorities downgraded the volcanic activity alert from red to orange.#CataniaAirport#MountEtna#Sicily#VolcanicEruption#PakistanTV",
+    "translated_text": "西西里岛卡塔尼亚机场在埃特纳火山喷发造成航班中断一周后重新开放。当局将火山活动警报从红​​色降级为橙色后，航班恢复。#CataniaAirport#MountEtna#Sicily#VolcanicEruption#PakistanTV",
+    "images": [
+      "7402f8557d8e7801.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1385382835569199470",
+    "timestamp": "2026-08-15T13:31:08.151783+00:00",
+    "original_time": "2026-08-15T12:56:24+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_323755597746698907",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Record-breaking reach. 500M+ organic views on Meta in under 10 months.\n\nA phenomenal milestone for Pakistan TV, reflecting the vision, relentless effort and creativity behind its rapidly growing global presence. From Pakistan to audiences around the world, the journey is only",
     "translated_text": "破纪录的触及范围。不到 10 个月，Meta 的自然浏览量就超过 5 亿次。\n\n这是巴基斯坦电视台的一个非凡的里程碑，反映了其快速增长的全球影响力背后的远见、不懈的努力和创造力。从巴基斯坦到世界各地的观众，旅程仅",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-1768167215979506724",
-    "timestamp": "2026-08-15T12:35:18.453699+00:00",
+    "images": [
+      "b7ced978f33190f6.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/323755597746698907",
+    "timestamp": "2026-08-15T13:31:08.395683+00:00",
     "original_time": "2026-08-15T10:52:42+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2994012043606300551",
+    "id": "tweet_PakTVGlobal_-7704869862794781240",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Pakistan TV marks a major digital milestone, with views across Meta platforms soaring from around 1.5 million to more than 500 million in just 10 months, a rise of over 4,700%. The achievement reflects the team’s digital-first approach, hard work and commitment to authentic and",
@@ -35,110 +76,31 @@
     "images": [
       "0a3e5733e171b317.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-2994012043606300551",
-    "timestamp": "2026-08-15T12:35:18.667548+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-7704869862794781240",
+    "timestamp": "2026-08-15T13:31:08.699698+00:00",
     "original_time": "2026-08-15T10:17:03+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2571670555964614333",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Dr Saeed Uzzaman, IR Expert, says the ongoing US-Iran tensions remain dangerous for the region and the world, stressing the need to avoid provocative statements and give diplomacy another chance.@nailashuja@saeed_uzzaman#USIran#MiddleEast#Diplomacy#Geopolitics",
-    "translated_text": "国际关系专家 Saeed Uzzaman 博士表示，持续的美伊紧张局势对该地区和世界来说仍然是危险的，他强调需要避免挑衅性言论，并给外交一次机会。@nailashuja@saeed_uzzaman#USIran#MiddleEast#Diplomacy#Geopolitics",
-    "images": [
-      "2c7ca61688ad37ce.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-2571670555964614333",
-    "timestamp": "2026-08-15T12:35:18.879307+00:00",
-    "original_time": "2026-08-15T08:53:58+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-3453478944788407907",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Anza Saqib, Foreign Affairs Expert, discusses the legal, strategic and economic implications of Trump’s remarks on the Strait of Hormuz, and Iran’s response to the claim.@anzasaqib@nailashuja#StraitOfHormuz#Iran#Trump#Geopolitics#PakistanTV",
-    "translated_text": "外交事务专家 Anza Saqib 讨论了特朗普有关霍尔木兹海峡言论的法律、战略和经济影响，以及伊朗对此主张的回应。@anzasaqib@nailashuja#StraitOfHormuz#Iran#Trump#Geopolitics#PakistanTV",
-    "images": [
-      "2a0532c55f62cc20.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-3453478944788407907",
-    "timestamp": "2026-08-15T12:35:19.113402+00:00",
-    "original_time": "2026-08-15T08:51:27+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3451117345695609683",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Prime Minister Shehbaz Sharif, in a meeting with NDMA Chairman Lieutenant General Inam Haider Malik, directed that all available resources be utilised to provide maximum relief and assistance to flood-affected people, with effective coordination between NDMA and provincial",
-    "translated_text": "谢赫巴兹·谢里夫总理在会见 NDMA 主席伊纳姆·海德尔·马利克中将时指示，在 NDMA 和省级之间的有效协调下，利用所有可用资源为受洪灾影响的人们提供最大限度的救济和援助。",
-    "images": [
-      "09581f61691a27b1.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3451117345695609683",
-    "timestamp": "2026-08-15T12:35:19.351499+00:00",
-    "original_time": "2026-08-15T08:12:28+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-7061231938539848340",
+    "id": "tweet_KellieMeyerNews_-8380695762699197157",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "A man is in custody after disrupting Shabbat services in Manhattan tonight. \n\n\"As synagogue security was escorting him out, he struck a member of the congregation, damaged synagogue property, and then spit at and headbutted a member of the security team. An NYPD sergeant working",
     "translated_text": "一名男子今晚在曼哈顿扰乱安息日仪式后被拘留。 \n\n“当犹太教堂的保安护送他出去时，他袭击了一名会众，损坏了犹太教堂的财产，然后向一名保安人员吐口水并用头顶撞。一名纽约警察局警官正在工作",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-7061231938539848340",
-    "timestamp": "2026-08-15T12:39:59.110639+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-8380695762699197157",
+    "timestamp": "2026-08-15T13:35:28.920911+00:00",
     "original_time": "2026-08-15T02:09:57+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-1145850004231461323",
+    "id": "tweet_KellieMeyerNews_-7761017672663381681",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Trump Truth social posting spree- and still going...\n\nIn new Friday night Truth Social posts, President Trump posted about the vandalism at the World War II Memorial in Washington, D.C. with the words \"Vandalism, again.\" \n\nAnother is a photo of the \"wall of steel blockade\" in the",
     "translated_text": "特朗普真相社交发帖热潮——而且还在继续……\n\n在周五晚上的真相社会新帖子中，特朗普总统发布了有关华盛顿特区二战纪念碑的破坏行为，并写道“再次破坏”。 \n\n另一张是照片中的“钢铁封锁墙”",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-1145850004231461323",
-    "timestamp": "2026-08-15T12:39:59.248927+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-7761017672663381681",
+    "timestamp": "2026-08-15T13:35:29.084969+00:00",
     "original_time": "2026-08-15T01:58:50+00:00"
-  },
-  {
-    "id": "article_7f4296d3d104",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Taliban mark 5 years in power as aid groups warn of crisis",
-    "translated_title": "援助组织警告塔利班面临危机，塔利班庆祝执政五周年",
-    "url": "https://www.dawn.com/news/2023028/taliban-mark-5-years-in-power-as-aid-groups-warn-of-crisis",
-    "timestamp": "2026-08-15T12:41:41.136185+00:00",
-    "original_time": "2026-08-15T14:34:17+05:00"
-  },
-  {
-    "id": "article_8316897146c4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Political rivals should not let differences turn into animosity, says Nawaz",
-    "translated_title": "纳瓦兹表示，政治对手不应让分歧演变成敌意",
-    "url": "https://www.dawn.com/news/2023039/political-rivals-should-not-let-differences-turn-into-animosity-says-nawaz",
-    "timestamp": "2026-08-15T12:42:58.647080+00:00",
-    "original_time": "2026-08-15T17:24:10+05:00"
-  },
-  {
-    "id": "article_773f510a1858",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "The strategic imperative: Why Europe cannot afford to sideline Pakistan",
-    "translated_title": "战略要务：为什么欧洲不能承受巴基斯坦的边缘化",
-    "url": "https://www.dawn.com/news/2023032/the-strategic-imperative-why-europe-cannot-afford-to-sideline-pakistan",
-    "timestamp": "2026-08-15T12:43:02.888535+00:00",
-    "original_time": "2026-08-15T16:12:08+05:00"
-  },
-  {
-    "id": "article_1c997f937bcf",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Islamabad police get 30 new vehicles ending 14-year wait",
-    "translated_title": "伊斯兰堡警方获得 30 辆新车，结束 14 年的等待",
-    "url": "https://www.dawn.com/news/2023018/islamabad-police-get-30-new-vehicles-ending-14-year-wait",
-    "timestamp": "2026-08-15T12:43:07.404979+00:00",
-    "original_time": "2026-08-15T14:59:11+05:00"
   },
   {
     "id": "article_6df537e779b8",
@@ -147,18 +109,48 @@
     "title": "Ex-Cambridge professor at centre of plagiarism scandal found dead",
     "translated_title": "抄袭丑闻中心的前剑桥教授被发现死亡",
     "url": "https://www.dawn.com/news/2023009/ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead",
-    "timestamp": "2026-08-15T12:45:02.689269+00:00",
+    "timestamp": "2026-08-15T13:37:37.600361+00:00",
     "original_time": "2026-08-15T10:49:06+05:00"
   },
   {
-    "id": "article_dce5186d5482",
+    "id": "article_1c997f937bcf",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Indonesian rescuers search for survivors as 7.7 quake death toll rises to 38",
-    "translated_title": "印尼7.7级地震死亡人数升至38人，救援人员正在搜寻幸存者",
-    "url": "https://www.dawn.com/news/2023007/indonesian-rescuers-search-for-survivors-as-77-quake-death-toll-rises-to-38",
-    "timestamp": "2026-08-15T12:46:37.770192+00:00",
-    "original_time": "2026-08-15T10:11:59+05:00"
+    "title": "Islamabad police get 30 new vehicles ending 14-year wait",
+    "translated_title": "伊斯兰堡警方获得 30 辆新车，结束 14 年的等待",
+    "url": "https://www.dawn.com/news/2023018/islamabad-police-get-30-new-vehicles-ending-14-year-wait",
+    "timestamp": "2026-08-15T13:39:12.709044+00:00",
+    "original_time": "2026-08-15T14:59:11+05:00"
+  },
+  {
+    "id": "article_c80e772add54",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "18 girls’ schools in Upper Dir border areas recommended for week-long closure over security concerns",
+    "translated_title": "出于安全考虑，上第尔边境地区的 18 所女子学校建议关闭一周",
+    "url": "https://www.dawn.com/news/2023038/18-girls-schools-in-upper-dir-border-areas-recommended-for-week-long-closure-over-security-concerns",
+    "timestamp": "2026-08-15T13:39:44.047922+00:00",
+    "original_time": "2026-08-15T17:58:11+05:00"
+  },
+  {
+    "id": "article_1c692ba223bc",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Who ultimately bears the cost of higher petroleum dealer margins?",
+    "translated_title": "谁最终承担石油经销商利润提高的成本？",
+    "url": "https://www.dawn.com/news/2023043/who-ultimately-bears-the-cost-of-higher-petroleum-dealer-margins",
+    "timestamp": "2026-08-15T13:40:39.666376+00:00",
+    "original_time": "2026-08-15T18:33:05+05:00"
+  },
+  {
+    "id": "article_8316897146c4",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Political rivals should not let differences turn into animosity, says Nawaz",
+    "translated_title": "纳瓦兹表示，政治对手不应让分歧演变成敌意",
+    "url": "https://www.dawn.com/news/2023039/political-rivals-should-not-let-differences-turn-into-animosity-says-nawaz",
+    "timestamp": "2026-08-15T13:40:53.438180+00:00",
+    "original_time": "2026-08-15T17:24:10+05:00"
   },
   {
     "id": "article_4bcb6a255128",
@@ -167,18 +159,18 @@
     "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
     "translated_title": "米尔·拉扎·阿里谋杀案：死者商业伙伴的临时保释期延长至8月24日",
     "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
-    "timestamp": "2026-08-15T12:49:25.638114+00:00",
+    "timestamp": "2026-08-15T13:41:27.354216+00:00",
     "original_time": "2026-08-15T14:02:17+05:00"
   },
   {
-    "id": "article_7255eccc6cd5",
+    "id": "article_773f510a1858",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "PM Shehbaz directs NDMA to ensure relief for citizens in flood-hit areas",
-    "translated_title": "谢赫巴兹总理指示 NDMA 确保为洪水灾区的公民提供救济",
-    "url": "https://www.dawn.com/news/2023012/pm-shehbaz-directs-ndma-to-ensure-relief-for-citizens-in-flood-hit-areas",
-    "timestamp": "2026-08-15T12:50:42.635852+00:00",
-    "original_time": "2026-08-15T12:00:22+05:00"
+    "title": "The strategic imperative: Why Europe cannot afford to sideline Pakistan",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2023032/the-strategic-imperative-why-europe-cannot-afford-to-sideline-pakistan",
+    "timestamp": "2026-08-15T13:42:32.597064+00:00",
+    "original_time": "2026-08-15T16:12:08+05:00"
   },
   {
     "id": "article_e2e4f14fec81",
@@ -187,7 +179,47 @@
     "title": "Polling concludes at 23 polling stations in 2 constituencies of AJK's Bagh district",
     "translated_title": "AJK巴格区2个选区的23个投票站的投票结束",
     "url": "https://www.dawn.com/news/2023001/polling-concludes-at-23-polling-stations-in-2-constituencies-of-ajks-bagh-district",
-    "timestamp": "2026-08-15T12:52:04.626113+00:00",
+    "timestamp": "2026-08-15T13:42:50.797326+00:00",
     "original_time": "2026-08-15T08:26:48+05:00"
+  },
+  {
+    "id": "article_77135b26c27a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "India's Modi woos youth with free coaching, AI training",
+    "translated_title": "印度莫迪通过免费辅导和人工智能培训吸引年轻人",
+    "url": "https://www.dawn.com/news/2023037/indias-modi-woos-youth-with-free-coaching-ai-training",
+    "timestamp": "2026-08-15T13:43:27.759822+00:00",
+    "original_time": "2026-08-15T18:09:09+05:00"
+  },
+  {
+    "id": "article_7255eccc6cd5",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz directs NDMA to ensure relief for citizens in flood-hit areas",
+    "translated_title": "谢赫巴兹总理指示 NDMA 确保为洪水灾区的公民提供救济",
+    "url": "https://www.dawn.com/news/2023012/pm-shehbaz-directs-ndma-to-ensure-relief-for-citizens-in-flood-hit-areas",
+    "timestamp": "2026-08-15T13:43:45.163020+00:00",
+    "original_time": "2026-08-15T12:00:22+05:00"
+  },
+  {
+    "id": "article_7f4296d3d104",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Taliban mark 5 years in power as aid groups warn of crisis",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2023028/taliban-mark-5-years-in-power-as-aid-groups-warn-of-crisis",
+    "timestamp": "2026-08-15T13:44:24.457607+00:00",
+    "original_time": "2026-08-15T14:34:17+05:00"
+  },
+  {
+    "id": "article_dce5186d5482",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Indonesian rescuers search for survivors as 7.7 quake death toll rises to 38",
+    "translated_title": "印尼7.7级地震死亡人数升至38人，救援人员正在搜寻幸存者",
+    "url": "https://www.dawn.com/news/2023007/indonesian-rescuers-search-for-survivors-as-77-quake-death-toll-rises-to-38",
+    "timestamp": "2026-08-15T13:44:58.921688+00:00",
+    "original_time": "2026-08-15T10:11:59+05:00"
   }
 ]
