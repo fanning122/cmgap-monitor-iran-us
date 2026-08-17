@@ -1,10 +1,42 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_1921497492666597688",
+    "id": "tweet_ForeignOfficePk_1637174200534420967",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Pakistan extends its warmest felicitations to the Government and the people of the Republic of Indonesia.\n\nHappy Independence day!@Kemlu_RI@PakinIndonesia",
+    "translated_text": "巴基斯坦向印度尼西亚共和国政府和人民致以最热烈的祝贺。\n\n独立日快乐！@Kemlu_RI@PakinIndonesia",
+    "images": [
+      "dee669a0abb351a1.svg",
+      "473a714cee691346.svg",
+      "9196ea84059a877f.svg",
+      "73cf2e3be9be6dd7.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/1637174200534420967",
+    "timestamp": "2026-08-17T03:54:04.349488+00:00",
+    "original_time": "2026-08-17T03:37:52+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-7732328408006844352",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Pakistan extends its warmest felicitations to the Government and the people of the Gabonese Republic. \n\nHappy Independence day!@GouvGabon@PakinEthiopia",
+    "translated_text": "巴基斯坦向加蓬共和国政府和人民致以最热烈的祝贺。 \n\n独立日快乐！@GouvGabon@PakinEthiopia",
+    "images": [
+      "dee669a0abb351a1.svg",
+      "473a714cee691346.svg",
+      "e1943e3c23b6ef68.svg",
+      "697e11b30a3b6b18.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-7732328408006844352",
+    "timestamp": "2026-08-17T03:54:04.990649+00:00",
+    "original_time": "2026-08-17T03:37:13+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_1768893549473160441",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Joint Statement by 8 Islamic Countries Condemning Israel’s Rejection of the Gaza Comprehensive Plan and Palestinian Statehood",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "PR号/8个伊斯兰国家联合声明谴责以色列拒绝加沙全面计划和巴勒斯坦建国",
     "images": [
       "6b2cfb320981d1a0.svg",
       "59563c1a40d3d73b.svg",
@@ -17,431 +49,21 @@
       "5f267a3c7f422a86.jpg",
       "976ef8cec7496725.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/1921497492666597688",
-    "timestamp": "2026-08-17T02:58:19.493775+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/1768893549473160441",
+    "timestamp": "2026-08-17T03:54:06.083688+00:00",
     "original_time": "2026-08-16T17:04:43+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-243577232721478554",
+    "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "New Zealand opener Tim Seifert's blistering innings paved the way for Manchester Super Giants' five-wicket win over Trent Rockets in the final of the Hundred at Lord's on Sunday.#TimSeifert#ManchesterSuperGiants#TheHundred#Cricket#PakistanTV",
-    "translated_text": "新西兰揭幕战球员蒂姆·塞弗特 (Tim Seifert) 的精彩局数为周日在洛德举行的百强赛决赛中曼彻斯特超级巨人队 (Manchester Super Giants) 以五柱门战胜特伦特火箭队 (Trent Rockets) 铺平了道路。#TimSeifert#ManchesterSuperGiants#TheHundred#Cricket#PakistanTV",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
     "images": [
-      "e37a278ceae48f5d.jpg"
+      "a39a3ae19a137f77.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-243577232721478554",
-    "timestamp": "2026-08-17T03:00:53.492272+00:00",
-    "original_time": "2026-08-17T02:45:26+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_1704809189210426798",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "World number one Scottie Scheffler powered to an eight-stroke victory in the St. Jude Championship on Sunday, capturing his first PGA Tour title since January.#ScottieScheffler#StJudeChampionship#PGATour#Golf#PakistanTV",
-    "translated_text": "世界排名第一的斯科蒂·舍夫勒周日在圣裘德锦标赛中以八杆优势获胜，赢得了自一月份以来的第一个 PGA 巡回赛冠军。#ScottieScheffler#StJudeChampionship#PGAtour#Golf#PakistanTV",
-    "images": [
-      "d3c5d883e80faf87.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/1704809189210426798",
-    "timestamp": "2026-08-17T03:00:55.821529+00:00",
-    "original_time": "2026-08-17T02:08:26+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3747532395461910450",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "The Japanese economy eked out modest growth in the second quarter despite the impact of the Iran war, official data showed Monday, but the reading fell short of market expectations.#JapanEconomy#JapanGDP#EconomicGrowth#IranWar#PakistanTV",
-    "translated_text": "周一官方数据显示，尽管受到伊朗战争的影响，日本经济第二季度仍保持温和增长，但数据低于市场预期。#JapanEconomy#JapanGDP#EconomicGrowth#IranWar#PakistanTV",
-    "images": [
-      "9ab328557e39e494.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3747532395461910450",
-    "timestamp": "2026-08-17T03:00:56.158375+00:00",
-    "original_time": "2026-08-17T01:51:15+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-8927011946320230485",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "China has successfully launched a new group of internet satellites aboard a Long March-12 rocket, further advancing the country’s expanding space-based communications network.\n\nDisclaimer: This video is intended for informational and editorial use only. All footage, visuals, and",
-    "translated_text": "中国利用长征十二号火箭成功发射了一组新的互联网卫星，进一步推进了中国不断扩大的天基通信网络。\n\n免责声明：该视频仅供参考和编辑用途。所有的镜头、视觉效果和",
-    "images": [
-      "a1c2f9f223457691.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-8927011946320230485",
-    "timestamp": "2026-08-17T03:00:58.825583+00:00",
-    "original_time": "2026-08-16T21:13:37+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3564615340054564633",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "AVM (R) Ijaz Malik says Kabul’s growing alignment with New Delhi has undermined dialogue with Pakistan, arguing that external pressure is needed to bring the Taliban back to meaningful negotiations.#Pakistan#Afghanistan#Taliban#India#RegionalSecurity#PakistanTV",
-    "translated_text": "AVM（R）伊贾兹·马利克表示，喀布尔与新德里日益结盟破坏了与巴基斯坦的对话，他认为需要外部压力才能使塔利班重返有意义的谈判。#Pakistan#Afghanistan#Taliban#India#RegionalSecurity#PakistanTV",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/3564615340054564633",
-    "timestamp": "2026-08-17T03:00:59.504227+00:00",
-    "original_time": "2026-08-16T20:55:13+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-129007847022609776",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Israeli settler violence is reshaping life across the occupied West Bank, particularly around Palestinian villages near expanding settlement corridors, says Palestinian journalist Osama Nazal from Jenin.\n\nHe alleges that settlers are being armed and supported by Israeli",
-    "translated_text": "来自杰宁的巴勒斯坦记者奥萨马·纳扎尔表示，以色列定居者的暴力正在重塑被占领的约旦河西岸地区的生活，特别是在扩建的定居点走廊附近的巴勒斯坦村庄周围。\n\n他声称定居者正在得到以色列的武装和支持",
-    "images": [
-      "d7e11073d49c35a9.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-129007847022609776",
-    "timestamp": "2026-08-17T03:01:00.905077+00:00",
-    "original_time": "2026-08-16T19:29:20+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_8010460643586330482",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Lebanon’s fragile ceasefire remains caught in a security dilemma: Israel links withdrawal to Hezbollah’s disarmament, while Hezbollah makes disarmament conditional on an Israeli pullout.\n\nSocio-Political Researcher Hibat Allah Soukariyyah argues that shifting the equation towards",
-    "translated_text": "黎巴嫩脆弱的停火仍然陷入安全困境：以色列将撤军与真主党解除武装联系起来，而真主党则以以色列撤军为解除武装的条件。\n\n社会政治研究员 Hibat Allah Soukariyyah 认为，将等式转向",
-    "images": [
-      "172017469d74dd0e.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8010460643586330482",
-    "timestamp": "2026-08-17T03:01:02.315285+00:00",
-    "original_time": "2026-08-16T19:29:02+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_2589876299193444578",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "From Gaza to the West Bank, Israel’s policy towards Palestinians remains part of a broader strategy of displacement, according to H.E. Dr. Zuhair Mohammad, Palestinian Ambassador to Pakistan.\n\nHe says military pressure has shifted in intensity and location, but the underlying",
-    "translated_text": "以色列对巴勒斯坦人的政策仍然是更广泛的流离失所战略的一部分，从加沙到约旦河西岸。祖海尔·穆罕默德博士，巴勒斯坦驻巴基斯坦大使。\n\n他表示，军事压力的强度和地点已经发生了变化，但潜在的",
-    "images": [
-      "b6efdc2657273a4f.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/2589876299193444578",
-    "timestamp": "2026-08-17T03:01:02.734623+00:00",
-    "original_time": "2026-08-16T19:28:37+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_7184946235709314631",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Five years after the Taliban’s return to power, Afghanistan remains burdened by terrorism, strained regional ties and economic isolation, says Defence Analyst Maj. Gen. (R) Samrez Salik.\n\nHe argues that repairing relations with Pakistan and returning to dialogue are essential for",
-    "translated_text": "防务分析师萨姆雷兹·萨利克少将表示，塔利班重新掌权五年后，阿富汗仍然深受恐怖主义、地区关系紧张和经济孤立的困扰。\n\n他认为修复与巴基斯坦的关系并恢复对话对于",
-    "images": [
-      "15aa92852e3b1b8a.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/7184946235709314631",
-    "timestamp": "2026-08-17T03:01:03.359061+00:00",
-    "original_time": "2026-08-16T19:27:26+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-4986046262779329493",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Zahir Shah Sherazi, Afghan Affairs Expert, says Taliban rule has deepened Afghanistan’s governance, economic and social crises, citing restrictions on women’s education, marginalisation of communities and growing instability in parts of the country.#Afghanistan#AfghanTaliban",
-    "translated_text": "阿富汗事务专家查希尔·沙赫·谢拉齐表示，塔利班的统治加深了阿富汗的治理、经济和社会危机，理由是对妇女教育的限制、社区边缘化以及该国部分地区日益不稳定。#阿富汗#阿富汗塔利班",
-    "images": [
-      "b72e31aa5b21c880.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-4986046262779329493",
-    "timestamp": "2026-08-17T03:01:03.875690+00:00",
-    "original_time": "2026-08-16T18:20:42+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_6980260532705820890",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "NATO fighter jet shoots down drone in Romania near border with Ukraine",
-    "translated_text": "北约战斗机在罗马尼亚与乌克兰边境附近击落无人机",
-    "images": [
-      "73e05aaf44e167ef.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/6980260532705820890",
-    "timestamp": "2026-08-17T03:04:11.016274+00:00",
-    "original_time": "2026-08-17T02:45:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-544606474582707073",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Firefighters rescued a dog that was stranded more than 100 feet down a cliff in Dickson County, Tennessee on Friday. The dog was reportedly stuck there for around 17 hours after separating from his owner.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "281efe40660bd133.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-544606474582707073",
-    "timestamp": "2026-08-17T03:04:11.195669+00:00",
-    "original_time": "2026-08-17T02:30:20+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2721694149736185413",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say",
-    "translated_text": "官员称，印度尼西亚地震后发生近 1,000 次余震，造成至少 53 人死亡",
-    "images": [
-      "4b87ae570a7ee1cb.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/2721694149736185413",
-    "timestamp": "2026-08-17T03:04:11.471882+00:00",
-    "original_time": "2026-08-17T02:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-4780748222622964216",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Rapidly advancing AI models have sparked breakthroughs in long-standing math problems. From solving problems at the International Math Olympiad to disproving decades-old conjectures - some in the math world are now questioning whether they have a future in the field.\n\nBut not",
-    "translated_text": "快速发展的人工智能模型引发了长期存在的数学问题的突破。从解决国际数学奥林匹克竞赛中的问题到反驳几十年前的猜想——数学界的一些人现在正在质疑他们在这个领域是否有未来。\n\n但不是",
-    "images": [
-      "d7d2c4aa202a2402.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-4780748222622964216",
-    "timestamp": "2026-08-17T03:04:12.196106+00:00",
-    "original_time": "2026-08-17T00:52:44+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-2410294714270981681",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "A severe thunderstorm in Colorado brought so much hail that a snow plow had to be brought in to clear the roads.\n\nMillions of people across the country have been dealing with severe weather this weekend, as Lala brought strong winds and heavy rain to Hawaii and massive storms",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "a072d7213acd5da9.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-2410294714270981681",
-    "timestamp": "2026-08-17T03:04:12.346559+00:00",
-    "original_time": "2026-08-17T00:30:53+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6942064763100501434",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "At least six deaths in Indiana have been linked to storms that triggered what many described as historic flooding, according to Gov. Mike Braun.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "ce39e5d12445225a.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-6942064763100501434",
-    "timestamp": "2026-08-17T03:04:14.510640+00:00",
-    "original_time": "2026-08-16T16:01:03+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_8583232155384139560",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Kentucky Gov. Andy Beshear said Sunday that he hasn't heard back from Sen. Mitch McConnell following formal requests for updates on his health last month amid a weekslong hospitalization that prompted widespread speculation and concern.",
-    "translated_text": "肯塔基州州长安迪·贝希尔周日表示，参议员米奇·麦康奈尔上个月正式要求更新他的健康状况，他在长达一周的住院期间引发了广泛的猜测和担忧，之后他还没有收到任何回复。",
-    "images": [
-      "645b502965e3eeec.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/8583232155384139560",
-    "timestamp": "2026-08-17T03:04:15.929866+00:00",
-    "original_time": "2026-08-16T15:58:40+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-8064051926106786445",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Democrats on Saturday approved a new presidential nominating calendar for 2028, cementing South Carolina's place as the first official Democratic primary state, as the party looks to elevate states that better reflect its diverse coalition of voters.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "64fac24e632c5707.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-8064051926106786445",
-    "timestamp": "2026-08-17T03:04:16.140711+00:00",
-    "original_time": "2026-08-16T15:57:11+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_1653075390907717853",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "The president said he told Defense Secretary Pete Hegseth to “substantially reduce” joint military exercises with South Korea in the future.",
-    "translated_text": "总统表示，他告诉国防部长皮特·赫格斯未来“大幅减少”与韩国的联合军事演习。",
-    "images": [
-      "41301724d7fcf210.jpg"
-    ],
-    "url": "https://x.com/KellieMeyerNews/status/1653075390907717853",
-    "timestamp": "2026-08-17T03:05:12.728418+00:00",
-    "original_time": "2026-08-16T22:55:51+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_7178760821774754363",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Rain in Islamabad, Sialkot, and Shakargarh; Flooding in Rivers and Nullahs",
-    "translated_text": "伊斯兰堡、锡亚尔科特和沙卡尔加尔有雨；河流和明渠的洪水",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/7178760821774754363",
-    "timestamp": "2026-08-17T03:05:55.786644+00:00",
-    "original_time": "2026-08-17T02:29:16+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_3973821523681906951",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The Bangladeshi Prime Minister will not visit India until Sheikh Hasina's extradition.",
-    "translated_text": "在谢赫·哈西娜引渡之前，孟加拉国总理不会访问印度。",
-    "images": [
-      "ba3eb2ae056d4dc6.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/3973821523681906951",
-    "timestamp": "2026-08-17T03:05:56.247626+00:00",
-    "original_time": "2026-08-17T02:24:21+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_1853922443195533953",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "6 AM Headlines - 17 August 2026",
-    "translated_text": "早上 6 点头条新闻 - 2026 年 8 月 17 日",
-    "images": [
-      "48b8131f11b56ff9.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/1853922443195533953",
-    "timestamp": "2026-08-17T03:05:56.725310+00:00",
-    "original_time": "2026-08-17T02:17:05+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-5390859674410968647",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Heavy Rains in Rawalpindi and Islamabad, Low-Lying Areas Submerged",
-    "translated_text": "拉瓦尔品第和伊斯兰堡暴雨，低洼地区被淹没",
-    "images": [
-      "f0db9809be63ccbf.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-5390859674410968647",
-    "timestamp": "2026-08-17T03:05:57.176757+00:00",
-    "original_time": "2026-08-17T01:46:36+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-598686362814588111",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Trump Expresses Displeasure with South Korea Over Not Supporting in Iran War",
-    "translated_text": "特朗普对韩国不支持伊朗战争表示不满",
-    "images": [
-      "5c3526b19735736a.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-598686362814588111",
-    "timestamp": "2026-08-17T03:05:57.516508+00:00",
-    "original_time": "2026-08-17T00:10:48+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_8290021303195919098",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Trump Welcomes Mecca Joint Defense Agreement",
-    "translated_text": "特朗普欢迎麦加联合防御协议",
-    "images": [
-      "7fd721610e48dfb3.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/8290021303195919098",
-    "timestamp": "2026-08-17T03:05:58.036344+00:00",
-    "original_time": "2026-08-17T00:02:57+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-1874176185989749322",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Children should be taught according to their times, in a way that suits them—Shoaib Akhtar's important advice",
-    "translated_text": "孩子们应该根据他们的时代，以适合他们的方式接受教育——Shoaib Akhtar 的重要建议",
-    "images": [
-      "8d6b574c2f6cce15.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-1874176185989749322",
-    "timestamp": "2026-08-17T03:06:01.649933+00:00",
-    "original_time": "2026-08-16T19:46:52+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-7692600600393856852",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Shoaib Akhtar has revealed the main reason for getting married late...",
-    "translated_text": "Shoaib Akhtar 透露了晚婚的主要原因......",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/-7692600600393856852",
-    "timestamp": "2026-08-17T03:06:02.560993+00:00",
-    "original_time": "2026-08-16T19:46:46+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-456508406372586999",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "I am Shoaib Akhtar's biggest fan.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "de7c745a011aec34.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-456508406372586999",
-    "timestamp": "2026-08-17T03:06:02.741868+00:00",
-    "original_time": "2026-08-16T19:46:40+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_3967054460466908878",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Shoaib Akhtar has revealed the reality about the character’s fabricated tale...",
-    "translated_text": "肖阿布·阿赫塔尔揭露了这个角色编造的故事的真相……",
-    "images": [
-      "328147208c2937c3.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/3967054460466908878",
-    "timestamp": "2026-08-17T03:06:03.306490+00:00",
-    "original_time": "2026-08-16T19:46:36+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_2691350761707260098",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Virender Sehwag is a very good and helpful person, Shoaib Akhtar",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "49ee762297b37fa3.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/2691350761707260098",
-    "timestamp": "2026-08-17T03:06:03.490702+00:00",
-    "original_time": "2026-08-16T19:46:28+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_4797130643883534354",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Has Shoaib Akhtar ever felt nervous in life?",
-    "translated_text": "Shoaib Akhtar 在生活中是否感到紧张？",
-    "images": [
-      "6182ad28b28320ae.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/4797130643883534354",
-    "timestamp": "2026-08-17T03:06:04.230629+00:00",
-    "original_time": "2026-08-16T19:46:24+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3461187825078268944",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Will More Muslim Countries Join the Mecca Defense Pact?@SaleemKhanSafi",
-    "translated_text": "会有更多穆斯林国家加入麦加防御条约吗？@SaleemKhanSafi",
-    "images": [
-      "243142b5482d2b1e.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-3461187825078268944",
-    "timestamp": "2026-08-17T03:06:04.689107+00:00",
-    "original_time": "2026-08-16T19:15:33+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_5858907820259127563",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Will the Mecca Defense Pact be effective against any aggression from India?@SaleemKhanSafi",
-    "translated_text": "麦加防御条约对印度的任何侵略有效吗？@SaleemKhanSafi",
-    "images": [
-      "7fd0bc582eeb48e2.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/5858907820259127563",
-    "timestamp": "2026-08-17T03:06:05.896247+00:00",
-    "original_time": "2026-08-16T19:15:26+00:00"
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-08-17T03:54:20.886282+00:00",
+    "original_time": "2026-08-16T16:07:39+00:00"
   }
 ]
