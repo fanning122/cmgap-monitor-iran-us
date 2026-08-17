@@ -1,6 +1,64 @@
 [
   {
-    "id": "tweet_PakTVGlobal_3015811280968020137",
+    "id": "tweet_ForeignOfficePk_3902938713533106464",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Pakistan extends its warmest felicitations to the Government and the people of the Republic of Indonesia.\n\nHappy Independence day!@Kemlu_RI@PakinIndonesia",
+    "translated_text": "巴基斯坦向印度尼西亚共和国政府和人民致以最热烈的祝贺。\n\n独立日快乐！@Kemlu_RI@PakinIndonesia",
+    "images": [
+      "dee669a0abb351a1.svg",
+      "473a714cee691346.svg",
+      "9196ea84059a877f.svg",
+      "73cf2e3be9be6dd7.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/3902938713533106464",
+    "timestamp": "2026-08-17T05:33:51.917935+00:00",
+    "original_time": "2026-08-17T03:37:52+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_3512082459514805377",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Pakistan extends its warmest felicitations to the Government and the people of the Gabonese Republic. \n\nHappy Independence day!@GouvGabon@PakinEthiopia",
+    "translated_text": "巴基斯坦向加蓬共和国政府和人民致以最热烈的祝贺。 \n\n独立日快乐！@GouvGabon@PakinEthiopia",
+    "images": [
+      "dee669a0abb351a1.svg",
+      "473a714cee691346.svg",
+      "e1943e3c23b6ef68.svg",
+      "697e11b30a3b6b18.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/3512082459514805377",
+    "timestamp": "2026-08-17T05:33:52.169014+00:00",
+    "original_time": "2026-08-17T03:37:13+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_2001360847915402784",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Actress Hayden Panettiere, best known for her roles in ‘Heroes’ and ‘Nashville’, has died at the age of 36. Her father, Skip Panettiere, confirmed her passing in a statement, describing her as “an incredible light and a force of nature”. Details surrounding her death were not",
+    "translated_text": "因出演《英雄》和《纳什维尔》而闻名的女演员海顿·潘妮蒂尔去世，享年 36 岁。她的父亲斯基普·潘妮蒂尔在一份声明中证实了她的去世，称她是“令人难以置信的光芒和自然的力量”。有关她死亡的细节并未透露",
+    "images": [
+      "5074d16c1db4aba0.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2001360847915402784",
+    "timestamp": "2026-08-17T05:36:00.694910+00:00",
+    "original_time": "2026-08-17T05:25:43+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1904349879383945446",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "NPR News Editor Mujeeb Ur Rehman says the Makkah Joint Defence Agreement is a major positive development for the United States, as it brings three key American security allies — Pakistan, Saudi Arabia and Turkiye — into a single regional security framework.#MakkahAgreement",
+    "translated_text": "NPR 新闻编辑穆吉布·乌尔·拉赫曼 (Mujeeb Ur Rehman) 表示，《麦加联合防御协议》对美国来说是一项重大的积极进展，因为它将美国的三个主要安全盟友——巴基斯坦、沙特阿拉伯和土耳其——纳入了一个单一的地区安全框架。#MakkahAgreement",
+    "images": [
+      "02a51577fe081472.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/1904349879383945446",
+    "timestamp": "2026-08-17T05:36:01.676533+00:00",
+    "original_time": "2026-08-17T04:42:53+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-8387354213307993533",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Damage assessments and clean up efforts began Sunday as Hurricane Lala, which was downgraded to a tropical storm overnight, rolled past Hawaii's Big Island and kept dumping heavy rain across the US Pacific state's archipelago.#Hawaii#HurricaneLala#TropicalStorm#StormRecovery",
@@ -8,12 +66,12 @@
     "images": [
       "91638592f81d72f4.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3015811280968020137",
-    "timestamp": "2026-08-17T04:42:12.295696+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-8387354213307993533",
+    "timestamp": "2026-08-17T05:36:01.858296+00:00",
     "original_time": "2026-08-17T04:09:57+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3395547084734008640",
+    "id": "tweet_PakTVGlobal_-1771142866917432250",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "A bus overturned in a steep, mountainous region north of Rio de Janeiro on Sunday, killing at least eight people, firefighters said in a statement#Brazil#RioDeJaneiro#BusCrash#BreakingNews#PakistanTV",
@@ -21,12 +79,12 @@
     "images": [
       "4c01a9bc36fafd40.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3395547084734008640",
-    "timestamp": "2026-08-17T04:42:13.434508+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-1771142866917432250",
+    "timestamp": "2026-08-17T05:36:02.037707+00:00",
     "original_time": "2026-08-17T03:52:37+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-9130520769428276430",
+    "id": "tweet_PakTVGlobal_-2032554456094888246",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Ten-man Lens denied Paris Saint-Germain a second trophy in five days as Florian Thauvin's first-half goal secured a 1-0 victory in the French Champions' Trophy on Sunday.#RCLens#PSG#FlorianThauvin#FrenchFootball#PakistanTV",
@@ -34,25 +92,23 @@
     "images": [
       "40f01a44e246c441.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-9130520769428276430",
-    "timestamp": "2026-08-17T04:42:14.112428+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-2032554456094888246",
+    "timestamp": "2026-08-17T05:36:02.274324+00:00",
     "original_time": "2026-08-17T03:21:32+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1809346146201233140",
+    "id": "tweet_PakTVGlobal_7694866762997722480",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "New Zealand opener Tim Seifert's blistering innings paved the way for Manchester Super Giants' five-wicket win over Trent Rockets in the final of the Hundred at Lord's on Sunday.#TimSeifert#ManchesterSuperGiants#TheHundred#Cricket#PakistanTV",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "e37a278ceae48f5d.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-1809346146201233140",
-    "timestamp": "2026-08-17T04:42:14.280828+00:00",
-    "original_time": "2026-08-17T02:45:26+00:00"
+    "text": "JHU lecturer Syed Muhammad Ali says the Gaza crisis and developments in the West Bank have further dimmed prospects for a two-state solution, while questioning the effectiveness of international peace efforts.#Gaza#Palestine#WestBank#TwoStateSolution#MiddleEast",
+    "translated_text": "约翰霍普金斯大学讲师赛义德·穆罕默德·阿里表示，加沙危机和约旦河西岸的事态发展进一步削弱了两国解决方案的前景，同时质疑国际和平努力的有效性。#Gaza#Palestine#WestBank#TwoStateSolution#MiddleEast",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/7694866762997722480",
+    "timestamp": "2026-08-17T05:36:04.784225+00:00",
+    "original_time": "2026-08-16T21:28:12+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6425490486782606335",
+    "id": "tweet_PakTVGlobal_-6588882221610701548",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "JHU lecturer Syed Muhammad Ali says sustained high-tempo operations are straining US carrier personnel, with reports of exhaustion and onboard supply and maintenance issues.#US#MiddleEast#USNavy#RegionalSecurity#PakistanTV",
@@ -60,23 +116,25 @@
     "images": [
       "9011fe0e49eedc66.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6425490486782606335",
-    "timestamp": "2026-08-17T04:42:16.964359+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-6588882221610701548",
+    "timestamp": "2026-08-17T05:36:04.980763+00:00",
     "original_time": "2026-08-16T21:27:22+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5014555130567686875",
+    "id": "tweet_PakTVGlobal_-7154520657472010939",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Col (R) Jonathan Sweet says the US military presence near the Strait of Hormuz is aimed at protecting shipping and deterring Iran, while retaining strike capability if ordered.@JESweet2022#US#Iran#StraitOfHormuz#MiddleEast#PakistanTV",
     "translated_text": "乔纳森·斯威特上校表示，美国在霍尔木兹海峡附近的军事存在旨在保护航运和威慑伊朗，同时根据命令保留打击能力。@JESweet2022#US#Iran#StraitOfHormuz#MiddleEast#PakistanTV",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-5014555130567686875",
-    "timestamp": "2026-08-17T04:42:17.392989+00:00",
+    "images": [
+      "b6004483a85af56a.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-7154520657472010939",
+    "timestamp": "2026-08-17T05:36:05.151231+00:00",
     "original_time": "2026-08-16T21:20:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2516227029123382294",
+    "id": "tweet_PakTVGlobal_2662085582010109771",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "China has successfully launched a new group of internet satellites aboard a Long March-12 rocket, further advancing the country’s expanding space-based communications network.\n\nDisclaimer: This video is intended for informational and editorial use only. All footage, visuals, and",
@@ -84,12 +142,12 @@
     "images": [
       "a1c2f9f223457691.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-2516227029123382294",
-    "timestamp": "2026-08-17T04:42:17.594076+00:00",
+    "url": "https://x.com/PakTVGlobal/status/2662085582010109771",
+    "timestamp": "2026-08-17T05:36:05.322039+00:00",
     "original_time": "2026-08-16T21:13:37+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_1386063751148983193",
+    "id": "tweet_PakTVGlobal_-9108935307683599120",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "AVM (R) Ijaz Malik says Kabul’s growing alignment with New Delhi has undermined dialogue with Pakistan, arguing that external pressure is needed to bring the Taliban back to meaningful negotiations.#Pakistan#Afghanistan#Taliban#India#RegionalSecurity#PakistanTV",
@@ -97,12 +155,12 @@
     "images": [
       "57b235f1e1da48df.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/1386063751148983193",
-    "timestamp": "2026-08-17T04:42:18.293411+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-9108935307683599120",
+    "timestamp": "2026-08-17T05:36:05.505811+00:00",
     "original_time": "2026-08-16T20:55:13+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_9053773148322929945",
+    "id": "tweet_PakTVGlobal_-1343334056760061410",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Israeli settler violence is reshaping life across the occupied West Bank, particularly around Palestinian villages near expanding settlement corridors, says Palestinian journalist Osama Nazal from Jenin.\n\nHe alleges that settlers are being armed and supported by Israeli",
@@ -110,12 +168,12 @@
     "images": [
       "d7e11073d49c35a9.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/9053773148322929945",
-    "timestamp": "2026-08-17T04:42:19.263895+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-1343334056760061410",
+    "timestamp": "2026-08-17T05:36:05.691049+00:00",
     "original_time": "2026-08-16T19:29:20+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1990408954452509934",
+    "id": "tweet_PakTVGlobal_-2682599707907600833",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Lebanon’s fragile ceasefire remains caught in a security dilemma: Israel links withdrawal to Hezbollah’s disarmament, while Hezbollah makes disarmament conditional on an Israeli pullout.\n\nSocio-Political Researcher Hibat Allah Soukariyyah argues that shifting the equation towards",
@@ -123,47 +181,21 @@
     "images": [
       "172017469d74dd0e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1990408954452509934",
-    "timestamp": "2026-08-17T04:42:19.873100+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-2682599707907600833",
+    "timestamp": "2026-08-17T05:36:05.866350+00:00",
     "original_time": "2026-08-16T19:29:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6825536782496774323",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "From Gaza to the West Bank, Israel’s policy towards Palestinians remains part of a broader strategy of displacement, according to H.E. Dr. Zuhair Mohammad, Palestinian Ambassador to Pakistan.\n\nHe says military pressure has shifted in intensity and location, but the underlying",
-    "translated_text": "以色列对巴勒斯坦人的政策仍然是更广泛的流离失所战略的一部分，从加沙到约旦河西岸。祖海尔·穆罕默德博士，巴勒斯坦驻巴基斯坦大使。\n\n他表示，军事压力的强度和地点已经发生了变化，但潜在的",
-    "images": [
-      "b6efdc2657273a4f.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6825536782496774323",
-    "timestamp": "2026-08-17T04:42:20.070240+00:00",
-    "original_time": "2026-08-16T19:28:37+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_7879791828386273916",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Five years after the Taliban’s return to power, Afghanistan remains burdened by terrorism, strained regional ties and economic isolation, says Defence Analyst Maj. Gen. (R) Samrez Salik.\n\nHe argues that repairing relations with Pakistan and returning to dialogue are essential for",
-    "translated_text": "防务分析师萨姆雷兹·萨利克少将表示，塔利班重新掌权五年后，阿富汗仍然深受恐怖主义、地区关系紧张和经济孤立的困扰。\n\n他认为修复与巴基斯坦的关系并恢复对话对于",
-    "images": [
-      "15aa92852e3b1b8a.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/7879791828386273916",
-    "timestamp": "2026-08-17T04:42:20.278102+00:00",
-    "original_time": "2026-08-16T19:27:26+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_4235911725149570274",
+    "id": "tweet_KellieMeyerNews_-8687592474371568019",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "The president said he told Defense Secretary Pete Hegseth to “substantially reduce” joint military exercises with South Korea in the future.",
-    "translated_text": "总统表示，他告诉国防部长皮特·赫格斯未来“大幅减少”与韩国的联合军事演习。",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
       "41301724d7fcf210.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/4235911725149570274",
-    "timestamp": "2026-08-17T04:47:44.064620+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-8687592474371568019",
+    "timestamp": "2026-08-17T05:41:18.467543+00:00",
     "original_time": "2026-08-16T22:55:51+00:00"
   }
 ]
