@@ -1,10 +1,10 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-2888551622470686862",
+    "id": "tweet_ForeignOfficePk_2494319252869466757",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Statement by the Spokesperson",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "PR 编号/发言人声明",
     "images": [
       "88f40ae084ace679.svg",
       "59563c1a40d3d73b.svg",
@@ -16,12 +16,12 @@
       "1d7695f51048fca1.svg",
       "6826151b9141c86b.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-2888551622470686862",
-    "timestamp": "2026-08-17T21:25:51.958376+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/2494319252869466757",
+    "timestamp": "2026-08-17T22:22:50.645569+00:00",
     "original_time": "2026-08-17T18:05:42+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_7178406021462003372",
+    "id": "tweet_ForeignOfficePk_-4568460366568872638",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Address by the Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50at the Graduation Ceremony of the 45th Specialized Diplomatic Course & Inauguration of Renovated Premises (Phase-I) of the Foreign Service Academy, Islamabad",
@@ -37,12 +37,12 @@
       "fd315995fa8ef408.jpg",
       "baff207decd7d89c.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/7178406021462003372",
-    "timestamp": "2026-08-17T21:25:52.798318+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-4568460366568872638",
+    "timestamp": "2026-08-17T22:22:52.036699+00:00",
     "original_time": "2026-08-17T17:42:38+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_2400030723000913806",
+    "id": "tweet_ForeignOfficePk_5524984331090718304",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Video of the Address by the Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50at the Graduation Ceremony of the 45th Specialized Diplomatic Course & Inauguration of Renovated Premises (Phase-I) of the Foreign Service Academy, Islamabad\n(17 August",
@@ -50,12 +50,12 @@
     "images": [
       "a0053291b6731a11.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/2400030723000913806",
-    "timestamp": "2026-08-17T21:25:53.005389+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/5524984331090718304",
+    "timestamp": "2026-08-17T22:22:53.193604+00:00",
     "original_time": "2026-08-17T17:35:00+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_3670810076037667066",
+    "id": "tweet_ForeignOfficePk_-3406204000126194820",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50with the graduating officers of the 45th Specialized Diplomatic Course and position holders of the 44th SDC at the Foreign Service Academy, Islamabad.\n\nDPM/FM distributed medals to the position holders",
@@ -66,12 +66,12 @@
       "5ec299555e2ad5f8.jpg",
       "32ed8e27eff15af6.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/3670810076037667066",
-    "timestamp": "2026-08-17T21:25:53.425656+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-3406204000126194820",
+    "timestamp": "2026-08-17T22:22:54.727313+00:00",
     "original_time": "2026-08-17T17:27:10+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_3207989547628281501",
+    "id": "tweet_ForeignOfficePk_-4434567506789373470",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister, Senator Mohammad Ishaq Dar@MIshaqDar50, today addressed the graduation ceremony of the 45th Specialized Diplomatic Course (SDC) at the Foreign Service Academy, Islamabad, and inaugurated Phase-I of its renovated premises.\n\nCongratulating",
@@ -82,46 +82,173 @@
       "29039d0aacb1a669.jpg",
       "70e193d99e04ad9e.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/3207989547628281501",
-    "timestamp": "2026-08-17T21:25:53.763616+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-4434567506789373470",
+    "timestamp": "2026-08-17T22:22:56.603311+00:00",
     "original_time": "2026-08-17T17:23:18+00:00"
   },
   {
-    "id": "tweet_MIshaqDar50_0",
+    "id": "tweet_PakPMO_1808845958921881071",
     "type": "tweet",
-    "username": "MIshaqDar50",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "5cd61b28f22648af.jpg"
-    ],
-    "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-08-17T21:26:10.655858+00:00",
-    "original_time": "2026-08-17T16:19:19+00:00"
+    "username": "PakPMO",
+    "text": "Islamabad: 17 August 2026.\n\nA review meeting regarding the ongoing reforms in the National Information Technology Board and the progress of the construction of Islamabad Technology Park was held today in Islamabad under the chairmanship of Prime Minister Muhammad Shehbaz Sharif.",
+    "translated_text": "伊斯兰堡：2026 年 8 月 17 日。\n\n国家信息技术委员会正在进行的改革和伊斯兰堡科技园建设进展审查会议今天在伊斯兰堡举行，由总理穆罕默德·谢赫巴兹·谢里夫主持。",
+    "images": [],
+    "url": "https://x.com/PakPMO/status/1808845958921881071",
+    "timestamp": "2026-08-17T22:24:33.456773+00:00",
+    "original_time": "2026-08-17T13:44:13+00:00"
   },
   {
-    "id": "tweet_araghchi_3644256939438346168",
+    "id": "tweet_PakTVGlobal_-4245016897084363055",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Cricket commentator Ahmed Bin Parvez says Australia’s ageing Test side is entering a major transition, with concerns over its veteran bowling attack, opening combination and player form.@ahmadnawaz93#AustraliaCricket#TestCricket#Cricket#PakistanTV",
+    "translated_text": "板球评论员艾哈迈德·本·帕尔韦兹 (Ahmed Bin Parvez) 表示，澳大利亚老化的测试队正在进入重大转型，对其老将保龄球进攻、开局组合和球员状态感到担忧。@ahmadnawaz93#AustraliaCricket#TestCricket#Cricket#PakistanTV",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-4245016897084363055",
+    "timestamp": "2026-08-17T22:25:29.281528+00:00",
+    "original_time": "2026-08-17T22:21:54+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_6023651833109761908",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Former Olympian Imran Butt calls Pakistan’s missing short-corner protective gear against England a major professional blunder, stressing that such lapses are unacceptable at World Cup level.@AhmadNawaz93#ImranButt#PakistanHockey#HockeyWorldCup#England#PakistanTV",
+    "translated_text": "前奥运选手伊姆兰·巴特称巴基斯坦在对阵英格兰时缺少短角防护装备是一个重大职业错误，并强调这种失误在世界杯级别上是不可接受的。@AhmadNawaz93#ImranButt#PakistanHockey#HockeyWorldCup#England#PakistanTV",
+    "images": [
+      "51187a8991530121.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/6023651833109761908",
+    "timestamp": "2026-08-17T22:25:30.595219+00:00",
+    "original_time": "2026-08-17T22:20:15+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-2354761406172819939",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Cricket analyst Oliver Riley says The Hundred is helping attract a new generation of cricket fans in the UK, though questions remain over whether it can fully win over traditional supporters.@ahmadnawaz93#TheHundred#Cricket#EnglandCricket#T20Blast#UKCricket#PakistanTV",
+    "translated_text": "板球分析师奥利弗·赖利 (Oliver Riley) 表示，The Hundred 正在帮助吸引英国新一代板球迷，但其是否能够完全赢得传统支持者仍存在疑问。@ahmadnawaz93#TheHundred#Cricket#EnglandCricket#T20Blast#UKCricket#PakistanTV",
+    "images": [
+      "783dd4f27081622c.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-2354761406172819939",
+    "timestamp": "2026-08-17T22:25:31.239875+00:00",
+    "original_time": "2026-08-17T22:18:17+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-7970036033837033410",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Prof. David Roches says the Gaza impasse stems from opposing demands by Israel and Hamas, while arguing that Washington has limited leverage over Netanyahu ahead of Israel’s elections.@SanaMaqboool#Gaza#Israel#Hamas#US#MiddleEast#Geopolitics",
+    "translated_text": "大卫·罗奇斯教授表示，加沙僵局源于以色列和哈马斯的反对要求，同时认为在以色列选举之前华盛顿对内塔尼亚胡的影响力有限。@SanaMaqboool#Gaza#Israel#Hamas#US#MiddleEast#Geopolitics",
+    "images": [
+      "b59cbd9b298506f5.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-7970036033837033410",
+    "timestamp": "2026-08-17T22:25:31.930814+00:00",
+    "original_time": "2026-08-17T22:09:41+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-1721462324229114792",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Dr. Mansour Almarzaqi, Director of the Center for American Studies, says the Pakistan-Saudi Arabia-Türkiye alliance is defensive in nature and reflects growing regional efforts to strengthen deterrence, political coordination and defence cooperation amid an emerging global order.",
+    "translated_text": "美国研究中心主任曼苏尔·阿尔马扎奇博士表示，巴基斯坦-沙特阿拉伯-土耳其联盟本质上是防御性的，反映了在新兴的全球秩序中加强威慑、政治协调和防务合作的地区努力。",
+    "images": [
+      "effcbbda08395e5f.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-1721462324229114792",
+    "timestamp": "2026-08-17T22:25:32.603487+00:00",
+    "original_time": "2026-08-17T21:13:10+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1336026216092241309",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan TV Correspondent Musharraf Zahoor reports that in a dialogue held by SDPI  in Islamabad discussed about new administrative units, constitutional reforms and devolution.\nSpeakers at the workshop stressed the need for new administrative units, stronger local governments,",
+    "translated_text": "巴基斯坦电视台记者穆沙拉夫·扎胡尔报道称，SDPI 在伊斯兰堡举行的对话中讨论了新的行政单位、宪法改革和权力下放等问题。\n研讨会上的发言者强调需要新的行政单位、更强大的地方政府、",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/1336026216092241309",
+    "timestamp": "2026-08-17T22:25:35.850186+00:00",
+    "original_time": "2026-08-17T17:14:22+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-6760817658771780961",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan TV Correspondent Rana Hammad Abdullah reports that Pakistan has rejected allegations linking it to any criminal or terrorist gang operating in India, calling the claims unverified and baseless. India has provided no case files, forensic reports or independently",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "images": [
+      "ccc3cfbd1b34984a.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-6760817658771780961",
+    "timestamp": "2026-08-17T22:25:36.271859+00:00",
+    "original_time": "2026-08-17T17:04:11+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-3562608891264238163",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan has assumed the final Presidency of the 2026 session of the UN Conference on Disarmament, with Ambassador Tahir Hussain Andrabi presiding over the proceedings. Pakistan will lead discussions on the Conference’s annual report and reaffirm it's commitment to multilateral",
+    "translated_text": "巴基斯坦担任2026年联合国裁军谈判会议最后主席国，塔希尔·侯赛因·安德拉比大使主持会议。巴基斯坦将主导会议年度报告的讨论，并重申其对多边合作的承诺",
+    "images": [
+      "ff79b775ea2706c4.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3562608891264238163",
+    "timestamp": "2026-08-17T22:25:37.607058+00:00",
+    "original_time": "2026-08-17T16:56:55+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_4535844288702708365",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Ambassador Sardar Masood Khan, a seasoned foreign affairs expert, says the Pakistan-Saudi Arabia-Turkiye pact is a bold step that is not aimed at challenging the United States. He says the three countries maintain strong ties with Washington, while the new mechanism could",
+    "translated_text": "经验丰富的外交事务专家萨达尔·马苏德·汗大使表示，巴基斯坦-沙特阿拉伯-土耳其协议是一个大胆的步骤，并不是为了挑战美国。他表示，这三个国家与华盛顿保持着密切的关系，而新机制可以",
+    "images": [
+      "1353a7db2952d2a6.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/4535844288702708365",
+    "timestamp": "2026-08-17T22:25:38.281519+00:00",
+    "original_time": "2026-08-17T16:50:02+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_9219615862531616412",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "#BREAKINGDeputy Prime Minister and Foreign Minister Ishaq Dar addresses the graduation ceremony of the 45th Specialized Diplomatic Course, highlighting the importance of professional excellence and effective diplomacy.@MIshaqDar50@ForeignOfficePk#IshaqDar#ForeignPolicy",
+    "translated_text": "#BREAKING副总理兼外交部长伊沙克·达尔在第 45 届专业外交课程毕业典礼上致辞，强调专业卓越和有效外交的重要性。@MIshaqDar50@ForeignOfficePk#IshaqDar#ForeignPolicy",
+    "images": [
+      "2723ce543c941e12.jpg",
+      "4271b2a1331bff72.jpg",
+      "06ead823a53027b4.jpg",
+      "6dad35151996f2b2.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/9219615862531616412",
+    "timestamp": "2026-08-17T22:25:39.601624+00:00",
+    "original_time": "2026-08-17T16:42:57+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-7130504126093737482",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Pakistan TV Correspondent Rana Hammad Abdullah reports that, at a national debate organized by SDPI, lawmakers and experts discussed whether new provinces could help address Pakistan’s capacity crisis and empower citizens.\nThe debate over creating more administrative units",
+    "translated_text": "巴基斯坦电视记者拉纳·哈马德·阿卜杜拉 (Rana Hammad Abdullah) 报道称，在 SDPI 组织的全国辩论中，立法者和专家讨论了新省份是否可以帮助解决巴基斯坦的能力危机并赋予公民权力。\n关于设立更多行政单位的争论",
+    "images": [
+      "65c18af8a36e5f0c.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-7130504126093737482",
+    "timestamp": "2026-08-17T22:25:41.206606+00:00",
+    "original_time": "2026-08-17T15:27:26+00:00"
+  },
+  {
+    "id": "tweet_araghchi_4433987193002940562",
     "type": "tweet",
     "username": "araghchi",
     "text": "Nothing justifies the reckless attack on PM Barzani's office. Kurdish friends should be vigilant against false-flag ploys to sow discord between neighbors.\n\nWe protected our Kurdish friends against Saddam and DAESH, and we're thankful for security they've provided on our border.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "对巴尔扎尼总理办公室的鲁莽袭击毫无道理可言。库尔德朋友应该警惕在邻国之间挑拨离间的假旗伎俩。\n\n我们保护我们的库尔德朋友免受萨达姆和伊斯兰国的袭击，我们感谢他们为我们的边境提供的安全。",
     "images": [],
-    "url": "https://x.com/araghchi/status/3644256939438346168",
-    "timestamp": "2026-08-17T21:28:38.895194+00:00",
+    "url": "https://x.com/araghchi/status/4433987193002940562",
+    "timestamp": "2026-08-17T22:26:52.191403+00:00",
     "original_time": "2026-08-17T18:35:29+00:00"
-  },
-  {
-    "id": "tweet_IRIMFA_-8758390933563878423",
-    "type": "tweet",
-    "username": "IRIMFA",
-    "text": "The most important development that took place in our region after the two imposed wars by the United States and the Zionist regime against Iran—especially in this recent war—was that the countries of the region came to the conclusion that America is an unreliable and",
-    "translated_text": "在美国和犹太复国主义政权对伊朗发动两次战争之后，特别是在最近的这场战争之后，我们地区发生的最重要的事态发展是，该地区国家得出了这样的结论：美国是一个不可靠、不可靠的国家。",
-    "images": [
-      "a8ad6550c1bd6db2.jpg"
-    ],
-    "url": "https://x.com/IRIMFA/status/-8758390933563878423",
-    "timestamp": "2026-08-17T21:28:54.114305+00:00",
-    "original_time": "2026-08-17T15:13:43+00:00"
   },
   {
     "id": "tweet_AJENews_0",
@@ -134,11 +261,25 @@
       "9b20f961c2ada6de.svg"
     ],
     "url": "https://x.com/AJENews/status/0",
-    "timestamp": "2026-08-17T21:29:24.975722+00:00",
+    "timestamp": "2026-08-17T22:28:31.972085+00:00",
     "original_time": "2026-08-17T13:20:49+00:00"
   },
   {
-    "id": "tweet_AJENews_-7455052891420516082",
+    "id": "tweet_AJENews_3096959213697053439",
+    "type": "tweet",
+    "username": "AJENews",
+    "text": "BREAKING: Turkish President Erdogan urged Trump to continue talks with Iran to de-escalate tensions, offering Ankara’s support. \n\nHe also warned Israel’s attacks on Gaza have increased as Trump’s “peace” plan nears its second phase.More onhttps://Aljazeera.com",
+    "translated_text": "突发新闻：土耳其总统埃尔多安敦促特朗普继续与伊朗谈判以缓和紧张局势，并表示将提供安卡拉的支持。 \n\n他还警告说，随着特朗普的“和平”计划接近第二阶段，以色列对加沙的袭击有所增加。更多信息请访问https://Aljazeera.com",
+    "images": [
+      "7f1a451786c84548.svg",
+      "40b7aeb809233eb0.jpg"
+    ],
+    "url": "https://x.com/AJENews/status/3096959213697053439",
+    "timestamp": "2026-08-17T22:28:33.325812+00:00",
+    "original_time": "2026-08-17T22:24:02+00:00"
+  },
+  {
+    "id": "tweet_AJENews_3297931785164407849",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: Trump says that Iran is in \"big trouble\" and a state of \"chaos,\" and that its army has been defeated.More onhttps://Aljazeera.com",
@@ -147,12 +288,12 @@
       "7f1a451786c84548.svg",
       "79c8d6cd560bf28c.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-7455052891420516082",
-    "timestamp": "2026-08-17T21:29:25.549157+00:00",
+    "url": "https://x.com/AJENews/status/3297931785164407849",
+    "timestamp": "2026-08-17T22:28:34.267737+00:00",
     "original_time": "2026-08-17T18:36:17+00:00"
   },
   {
-    "id": "tweet_AJENews_985732682252263075",
+    "id": "tweet_AJENews_-8872193657689099135",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: President Trump says the Strait of Hormuz is open, the US is exporting millions of barrels of oil weekly, and oil prices continue to decline.More onhttps://Aljazeera.com",
@@ -161,12 +302,12 @@
       "7f1a451786c84548.svg",
       "cc3ef63f854b9612.jpg"
     ],
-    "url": "https://x.com/AJENews/status/985732682252263075",
-    "timestamp": "2026-08-17T21:29:26.379504+00:00",
+    "url": "https://x.com/AJENews/status/-8872193657689099135",
+    "timestamp": "2026-08-17T22:28:35.271369+00:00",
     "original_time": "2026-08-17T18:27:00+00:00"
   },
   {
-    "id": "tweet_AJENews_7507604744601692778",
+    "id": "tweet_AJENews_382907319632119565",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: President Donald Trump says the United States is not seeking an extension of the memorandum of understanding with Iran.More onhttps://Aljazeera.com",
@@ -175,26 +316,25 @@
       "7f1a451786c84548.svg",
       "6fbf57a0e65a4ac1.jpg"
     ],
-    "url": "https://x.com/AJENews/status/7507604744601692778",
-    "timestamp": "2026-08-17T21:29:26.898329+00:00",
+    "url": "https://x.com/AJENews/status/382907319632119565",
+    "timestamp": "2026-08-17T22:28:36.118512+00:00",
     "original_time": "2026-08-17T18:23:13+00:00"
   },
   {
-    "id": "tweet_AJENews_-1831721124259991957",
+    "id": "tweet_AJENews_-5647438081342833607",
     "type": "tweet",
     "username": "AJENews",
-    "text": "BREAKING: Trump says Iran won't make the deal he thinks is neededLIVE updates:https://aje.news/zaz8nc?update=4861708…",
-    "translated_text": "突发新闻：特朗普表示伊朗不会达成他认为需要的协议实时更新：https://aje.news/zaz8nc?update=4861708…",
+    "text": "BREAKING: At least five Palestinians have been killed and 18 injured in new Israeli attacks on the Gaza Strip in the past 48 hours, the enclave's Health Ministry says.LIVE updates:https://aje.news/zaz8nc?update=4860655…",
+    "translated_text": "突发新闻：飞地卫生部称，过去 48 小时内以色列对加沙地带的新袭击已造成至少 5 名巴勒斯坦人死亡、18 人受伤。实时更新：https://aje.news/zaz8nc?update=4860655…",
     "images": [
-      "7f1a451786c84548.svg",
-      "b684e323e63c207d.jpg"
+      "7f1a451786c84548.svg"
     ],
-    "url": "https://x.com/AJENews/status/-1831721124259991957",
-    "timestamp": "2026-08-17T21:29:27.325113+00:00",
-    "original_time": "2026-08-17T18:13:43+00:00"
+    "url": "https://x.com/AJENews/status/-5647438081342833607",
+    "timestamp": "2026-08-17T22:28:38.830322+00:00",
+    "original_time": "2026-08-17T11:00:18+00:00"
   },
   {
-    "id": "tweet_AJENews_-6335976559845402397",
+    "id": "tweet_AJENews_-2692835472481778740",
     "type": "tweet",
     "username": "AJENews",
     "text": "BREAKING: US President Donald Trump reiterated that Iran cannot have a nuclear weapon, amid a lack of progress in diplomatic efforts to resolve the war on Iran.More onhttps://Aljazeera.com",
@@ -203,90 +343,205 @@
       "7f1a451786c84548.svg",
       "c195679cc70c3b3c.jpg"
     ],
-    "url": "https://x.com/AJENews/status/-6335976559845402397",
-    "timestamp": "2026-08-17T21:29:29.990492+00:00",
+    "url": "https://x.com/AJENews/status/-2692835472481778740",
+    "timestamp": "2026-08-17T22:28:40.422694+00:00",
     "original_time": "2026-08-17T10:52:02+00:00"
   },
   {
-    "id": "tweet_AJENews_255161236017592606",
+    "id": "tweet_CBSNews_4849076075013548379",
     "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Trump renews call for Iran to never posses nuclear weapons in 'any way'LIVE updates:https://aje.news/zaz8nc?update=4860590…",
-    "translated_text": "突发新闻：特朗普再次呼吁伊朗永远不要以“任何方式”拥有核武器实时更新：https://aje.news/zaz8nc?update=4860590…",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/255161236017592606",
-    "timestamp": "2026-08-17T21:29:30.422151+00:00",
-    "original_time": "2026-08-17T10:28:26+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-6400640847063873018",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "Trump told us Kim Jong Un has answered a message from US. \nAsked in Oval why hasn't KJU hasn't responded to his request to have a conversation, Trump said: \"How do you know he hasn't responded?\" Asked if the North Korean *did* respond, Trump paused then said: \"Yeah, he has.\"",
-    "translated_text": "特朗普告诉我们金正恩已经回复了来自美国的信息。 \n当被问及为什么 KJU 没有回应他的对话请求时，特朗普说：“你怎么知道他没有回应？”当被问及朝鲜是否“确实”做出回应时，特朗普停顿了一下然后说：“是的，他有。”",
-    "images": [
-      "37f5f773e7ee8bc6.jpg",
-      "ddde2e3beba7c2a5.jpg"
-    ],
-    "url": "https://x.com/JenniferJJacobs/status/-6400640847063873018",
-    "timestamp": "2026-08-17T21:31:19.761170+00:00",
-    "original_time": "2026-08-17T18:20:26+00:00"
-  },
-  {
-    "id": "tweet_JenniferJJacobs_-5348987132159325692",
-    "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "\"No, I haven't,\" Trump says when asked in Oval if he'd heard a CCP intelligence official had purchased a building overlooking the White House.",
+    "username": "CBSNews",
+    "text": "School vaccination rates inch down again to record low as exemptions reach new high.",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "a0a5567fd8c5b81a.svg",
-      "d059a1513afd0231.jpg"
+      "efdc9a94848c961b.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-5348987132159325692",
-    "timestamp": "2026-08-17T21:31:20.017743+00:00",
-    "original_time": "2026-08-17T18:07:56+00:00"
+    "url": "https://x.com/CBSNews/status/4849076075013548379",
+    "timestamp": "2026-08-17T22:29:47.995330+00:00",
+    "original_time": "2026-08-17T22:00:00+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-5513500076936816094",
+    "id": "tweet_CBSNews_-3191181375851389842",
     "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "\"You mean Pee Wee Herman? Pee-wee Herman look-alike?\" Trump say in Oval when asked about@ossoff",
+    "username": "CBSNews",
+    "text": "The BBC has asked a Florida court to subpoena Ivanka Trump, Jared Kushner and Donald Trump, Jr. as part of the British public broadcaster's legal defense against President Trump's $10 billion defamation lawsuit, according to a court filing released Friday.\n\nThe subpoenas would",
+    "translated_text": "根据周五发布的一份法庭文件，BBC 已要求佛罗里达州法院传唤伊万卡·特朗普、贾里德·库什纳和小唐纳德·特朗普，作为英国公共广播公司对特朗普总统 100 亿美元诽谤诉讼进行法律辩护的一部分。\n\n传票将",
+    "images": [
+      "17574a824c67d139.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-3191181375851389842",
+    "timestamp": "2026-08-17T22:29:49.538488+00:00",
+    "original_time": "2026-08-17T21:53:35+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3876635457695263669",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Stellantis recalls nearly 850,000 vehicles in U.S. over rearview camera issue.",
+    "translated_text": "Stellantis 因后视摄像头问题在美国召回近 85 万辆汽车。",
+    "images": [
+      "ec2c96ef1df89061.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3876635457695263669",
+    "timestamp": "2026-08-17T22:29:50.308198+00:00",
+    "original_time": "2026-08-17T21:40:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3068993393683750197",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Defense Secretary Pete Hegseth was scheduled to head to Iowa on Monday to give remarks, speak to veterans and campaign, sources told CBS News, as Republicans try to protect multiple GOP-held seats in Congress.",
+    "translated_text": "消息人士告诉哥伦比亚广播公司新闻，国防部长皮特·赫格斯定于周一前往爱荷华州发表讲话，与退伍军人和竞选活动交谈，共和党人试图保护共和党在国会中占据的多个席位。",
+    "images": [
+      "60a4ab15054e4282.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/3068993393683750197",
+    "timestamp": "2026-08-17T22:29:50.605252+00:00",
+    "original_time": "2026-08-17T21:20:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-4320322012286072116",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Two Penn State University fraternities are at the center of a cocaine trafficking ring bust, leading to charges against 14 people, authorities announced on Monday.",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "images": [
+      "2cde1158f015ddb6.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-4320322012286072116",
+    "timestamp": "2026-08-17T22:29:50.912237+00:00",
+    "original_time": "2026-08-17T21:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-9051925014775327061",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "British Prime Minister Andy Burnham exchanged messaged with someone pretending to be White House chief of staff Susie Wiles.",
+    "translated_text": "英国首相安迪·伯纳姆与冒充白宫办公厅主任苏西·怀尔斯的人交换了信息。",
+    "images": [
+      "efad3728f00c02db.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-9051925014775327061",
+    "timestamp": "2026-08-17T22:29:53.366196+00:00",
+    "original_time": "2026-08-17T18:00:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_3776630329864179931",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "WATCH LIVE: President Trump welcomes lifeguard Ryder Williams to the White House and takes questions.",
+    "translated_text": "观看直播：特朗普总统欢迎救生员莱德·威廉姆斯来到白宫并回答问题。",
     "images": [],
-    "url": "https://x.com/JenniferJJacobs/status/-5513500076936816094",
-    "timestamp": "2026-08-17T21:31:20.206179+00:00",
-    "original_time": "2026-08-17T18:02:29+00:00"
+    "url": "https://x.com/CBSNews/status/3776630329864179931",
+    "timestamp": "2026-08-17T22:29:54.273350+00:00",
+    "original_time": "2026-08-17T17:51:02+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_7171106196769943615",
+    "id": "tweet_CBSNews_-1453185639091880142",
     "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "\"The columns were falling apart,\" Trump says of White House amid summer construction on north portico",
-    "translated_text": "特朗普在夏季北门廊施工期间谈到白宫时说：“柱子正在倒塌”",
+    "username": "CBSNews",
+    "text": "American tourist killed by lightning strike on Italy's Mount Etna.",
+    "translated_text": "美国游客在意大利埃特纳火山遭遇雷击身亡。",
     "images": [
-      "f9fb23b4934b378e.jpg"
+      "00567abe292b6b8b.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/7171106196769943615",
-    "timestamp": "2026-08-17T21:31:20.475981+00:00",
-    "original_time": "2026-08-17T18:00:03+00:00"
+    "url": "https://x.com/CBSNews/status/-1453185639091880142",
+    "timestamp": "2026-08-17T22:29:54.950479+00:00",
+    "original_time": "2026-08-17T17:45:01+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_5599373353335563087",
+    "id": "tweet_CBSNews_2476554347399421328",
     "type": "tweet",
-    "username": "JenniferJJacobs",
-    "text": "Trump says he'd like to have 2,000 people for dinner with Xi when the Chinese leader comes to White House next month, \"but we only have a room that's going to hold 89 people, and 89 people is not appropriate.\"",
-    "translated_text": "特朗普表示，当中国领导人下个月访问白宫时，他希望与 2000 人共进晚餐，“但我们的房间只能容纳 89 人，89 人是不合适的。”",
+    "username": "CBSNews",
+    "text": ".@FedorovMykhailo, who was ousted as Ukraine’s defense minister last month, tells CBS News’@aidan_stretchthat isolating Crimea “could be our key” to defeating Russia. Fedorov says Ukraine needs to keep changing its tactics, scale up drone strikes and stay ahead of Russia in",
+    "translated_text": "上个月被免职的乌克兰国防部长@FedorovMykhailo 告诉哥伦比亚广播公司新闻@aidan_stretch，孤立克里米亚“可能是我们击败俄罗斯的关键”。费多罗夫表示，乌克兰需要不断改变战术，扩大无人机袭击规模，并在军事领域保持领先于俄罗斯",
     "images": [
-      "b18518f617ebb6ad.jpg"
+      "0e495e5087851856.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/5599373353335563087",
-    "timestamp": "2026-08-17T21:31:20.691309+00:00",
-    "original_time": "2026-08-17T17:57:27+00:00"
+    "url": "https://x.com/CBSNews/status/2476554347399421328",
+    "timestamp": "2026-08-17T22:29:55.575995+00:00",
+    "original_time": "2026-08-17T17:41:43+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-6897287865289381593",
+    "id": "tweet_CBSNews_99555892753858253",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The prosecution rested its case in the Lindsay Clancy trial on Monday. The final prosecution witness called was Ian Whiffin, who works for digital forensic company Cellebrite and testified at both of Karen Read's trials.\n\nThe defense is now calling witnesses, including Clancy's",
+    "translated_text": "周一，检方在林赛·克兰西案的审判中搁置了案件。最后传唤的控方证人是伊恩·惠芬 (Ian Whiffin)，他在数字取证公司 Cellebrite 工作，并在凯伦·里德 (Karen Read) 的两次审判中作证。\n\n辩方现在正在传唤证人，包括克兰西的",
+    "images": [
+      "54a6bedf07aaf4a4.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/99555892753858253",
+    "timestamp": "2026-08-17T22:29:56.787515+00:00",
+    "original_time": "2026-08-17T17:39:02+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_7795201242135308038",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "The Greenville County Coroner's Office in South Carolina said emergency responders found Hayden Panettiere in cardiac arrest and \"initiated advanced cardiac life support measures; however, resuscitation efforts were unsuccessful.\"\n\nThe coroner's office said an autopsy was",
+    "translated_text": "南卡罗来纳州格林维尔县验尸官办公室表示，紧急救援人员发现海顿·潘妮蒂尔心脏骤停，并“启动了高级心脏生命支持措施；然而，复苏努力并不成功。”\n\n验尸官办公室表示正在进行尸检",
+    "images": [
+      "f102092348b56d43.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/7795201242135308038",
+    "timestamp": "2026-08-17T22:29:58.250069+00:00",
+    "original_time": "2026-08-17T17:36:51+00:00"
+  },
+  {
+    "id": "tweet_KellieMeyerNews_6718022966597981612",
+    "type": "tweet",
+    "username": "KellieMeyerNews",
+    "text": "Marine sentry posted outside the West Wing on this Monday evening 6pm Et.",
+    "translated_text": "美国东部时间周一晚上 6 点，海军陆战队哨兵在西翼外驻扎。",
+    "images": [
+      "5452315cc2389a3b.jpg"
+    ],
+    "url": "https://x.com/KellieMeyerNews/status/6718022966597981612",
+    "timestamp": "2026-08-17T22:30:59.989152+00:00",
+    "original_time": "2026-08-17T22:09:56+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-8516363375553879059",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "امریکا ایران مفاہمتی یادداشت میں مذاکرات کیلئے رکھی گئی 60 روز کی ڈیڈ لائن ختم",
+    "translated_text": "美伊谅解备忘录规定的60天谈判期限已结束",
+    "images": [
+      "ee288f977d9593f7.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-8516363375553879059",
+    "timestamp": "2026-08-17T22:32:09.138540+00:00",
+    "original_time": "2026-08-17T22:08:36+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-6840186917569095606",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "امریکا اور پاسداران انقلاب کے درمیان براہِ راست رابطے قائم ہوگئے ہیں، ٹرمپ",
+    "translated_text": "特朗普表示，美国和伊斯兰革命卫队之间已经建立了直接联系",
+    "images": [
+      "47ebefba990b7a21.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-6840186917569095606",
+    "timestamp": "2026-08-17T22:32:10.359323+00:00",
+    "original_time": "2026-08-17T22:07:04+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-3174903356825227468",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Pakistan has assumed the chairmanship of the United Nations Conference on Disarmament",
+    "translated_text": "巴基斯坦担任联合国裁军谈判会议主席",
+    "images": [
+      "6fc3fdf1d1893e77.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-3174903356825227468",
+    "timestamp": "2026-08-17T22:32:11.287663+00:00",
+    "original_time": "2026-08-17T21:44:09+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-3095546813223974583",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Ice Melting Between Government and Opposition Begins, Government Ministers Meet with Opposition Leaders",
@@ -294,12 +549,12 @@
     "images": [
       "18e4d63ae58666fd.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-6897287865289381593",
-    "timestamp": "2026-08-17T21:32:46.447419+00:00",
+    "url": "https://x.com/geonews_urdu/status/-3095546813223974583",
+    "timestamp": "2026-08-17T22:32:11.932010+00:00",
     "original_time": "2026-08-17T21:08:25+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_5302198747504248961",
+    "id": "tweet_geonews_urdu_9163004357893621878",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "US Navy fleet in the South China Sea has been without power for 4 days, air conditioners have stopped working",
@@ -307,12 +562,12 @@
     "images": [
       "8697ea113ece93a6.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/5302198747504248961",
-    "timestamp": "2026-08-17T21:32:46.986454+00:00",
+    "url": "https://x.com/geonews_urdu/status/9163004357893621878",
+    "timestamp": "2026-08-17T22:32:12.494281+00:00",
     "original_time": "2026-08-17T21:00:57+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2382893844143161910",
+    "id": "tweet_geonews_urdu_-1351020214559898939",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "IG Khyber Pakhtunkhwa Zulfikar Hamid Likely to be Replaced",
@@ -320,62 +575,64 @@
     "images": [
       "fb2d93174086f984.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2382893844143161910",
-    "timestamp": "2026-08-17T21:32:47.474792+00:00",
+    "url": "https://x.com/geonews_urdu/status/-1351020214559898939",
+    "timestamp": "2026-08-17T22:32:13.049408+00:00",
     "original_time": "2026-08-17T20:55:22+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-4246048932831422909",
+    "id": "tweet_geonews_urdu_4808241128279601005",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "The so-called Indian documentary on Operation Sindoor is an attempt to distort facts, India is in denial of accepting defeat in the face of the battle: ISPR",
-    "translated_text": "印度所谓“辛多尔行动”纪录片企图歪曲事实，印度否认在战斗中接受失败：ISPR",
+    "text": "Why is there a protest in Kalabagh over the dam when the second dam, which everyone agrees on, hasn't been built yet? Nasir Hussain Shah",
+    "translated_text": "为什么大家都同意的第二座大坝还没有建成，卡拉巴赫就大坝引发抗议？纳西尔·侯赛因·沙阿",
     "images": [
-      "385e3478a3c7a081.jpg"
+      "25c859f314bb3f11.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-4246048932831422909",
-    "timestamp": "2026-08-17T21:32:48.229358+00:00",
-    "original_time": "2026-08-17T20:38:54+00:00"
+    "url": "https://x.com/geonews_urdu/status/4808241128279601005",
+    "timestamp": "2026-08-17T22:32:16.410640+00:00",
+    "original_time": "2026-08-17T19:08:46+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_7855350312867424738",
+    "id": "tweet_geonews_urdu_-8097704704911187270",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Why haven't Karachi's problems been solved? Who is responsible?",
-    "translated_text": "为什么卡拉奇的问题还没有得到解决？谁负责？",
+    "text": "Will the creation of new provinces solve Karachi's problems?",
+    "translated_text": "创建新省份能解决卡拉奇的问题吗？",
     "images": [
-      "29de5a3ed1b6da5f.jpg"
+      "ccf0ac2898433007.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/7855350312867424738",
-    "timestamp": "2026-08-17T21:32:48.763306+00:00",
-    "original_time": "2026-08-17T20:13:17+00:00"
+    "url": "https://x.com/geonews_urdu/status/-8097704704911187270",
+    "timestamp": "2026-08-17T22:32:17.238004+00:00",
+    "original_time": "2026-08-17T19:08:18+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2516746561317193110",
+    "id": "tweet_geonews_urdu_283214950850633700",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Midnight Headlines - 18 August 2026",
-    "translated_text": "午夜头条 - 2026 年 8 月 18 日",
+    "text": "Why was Mustafa Kamal against the division of Sindh in the past?",
+    "translated_text": "穆斯塔法·卡迈勒过去为何反对信德省分裂？",
     "images": [
-      "26c4a9c0f65bc84e.jpg"
+      "0e4f3e9efafe9b30.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2516746561317193110",
-    "timestamp": "2026-08-17T21:32:49.293499+00:00",
-    "original_time": "2026-08-17T20:13:16+00:00"
+    "url": "https://x.com/geonews_urdu/status/283214950850633700",
+    "timestamp": "2026-08-17T22:32:18.090170+00:00",
+    "original_time": "2026-08-17T19:06:36+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_8682205176695624297",
+    "id": "tweet_geonews_urdu_5262523390085432823",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Why did the debate over new provinces turn into a fight between the People's Party and MQM?",
     "translated_text": "为什么关于新省份的争论变成了人民党和民族运动党之间的斗争？",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/8682205176695624297",
-    "timestamp": "2026-08-17T21:32:51.692718+00:00",
+    "images": [
+      "6ca5ef8332f9dab8.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5262523390085432823",
+    "timestamp": "2026-08-17T22:32:18.841284+00:00",
     "original_time": "2026-08-17T19:06:19+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-7165756342478699706",
+    "id": "tweet_geonews_urdu_-129774565486503004",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Why did the agreement between the People's Party and MQM fail?",
@@ -383,86 +640,34 @@
     "images": [
       "f9c70e551a43a73b.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-7165756342478699706",
-    "timestamp": "2026-08-17T21:32:52.076133+00:00",
+    "url": "https://x.com/geonews_urdu/status/-129774565486503004",
+    "timestamp": "2026-08-17T22:32:19.293425+00:00",
     "original_time": "2026-08-17T19:05:58+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-342888214776133390",
+    "id": "tweet_geonews_urdu_-3609469774021747103",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "The government has increased the prices of petrol and diesel for August 18",
-    "translated_text": "政府提高了8月18日汽油和柴油的价格",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
       "72980fa4416e5205.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-342888214776133390",
-    "timestamp": "2026-08-17T21:32:52.502382+00:00",
+    "url": "https://x.com/geonews_urdu/status/-3609469774021747103",
+    "timestamp": "2026-08-17T22:32:19.589223+00:00",
     "original_time": "2026-08-17T18:28:19+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_4087174999164173998",
+    "id": "tweet_geonews_urdu_-5470645038013151616",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Iran's shortage of weapons in war, Pentagon's $22.9 billion deal for purchasing Tomahawk missiles finalized",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "伊朗战争武器短缺，五角大楼229亿美元采购战斧导弹协议敲定",
     "images": [
       "3fa080b92b7bd943.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/4087174999164173998",
-    "timestamp": "2026-08-17T21:32:52.744314+00:00",
+    "url": "https://x.com/geonews_urdu/status/-5470645038013151616",
+    "timestamp": "2026-08-17T22:32:20.635611+00:00",
     "original_time": "2026-08-17T18:15:47+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-173787262655559692",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The Telegraph has included Pakistan in the list of the world's unique tourist destinations for 2026",
-    "translated_text": "《每日电讯报》将巴基斯坦列入 2026 年世界独特旅游目的地名单",
-    "images": [
-      "c9b8fa88570e526f.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-173787262655559692",
-    "timestamp": "2026-08-17T21:32:53.220609+00:00",
-    "original_time": "2026-08-17T17:31:19+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-8345650655965802653",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "US Navy fleet in the South China Sea has been without power for 4 days, air conditioners also unusable",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "d77888af3e594f6e.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-8345650655965802653",
-    "timestamp": "2026-08-17T21:32:53.407427+00:00",
-    "original_time": "2026-08-17T17:18:08+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-1418924277897501698",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "American Support: Is the Mecca Defense Pact a Sign of U.S. Distance from Israel and India? Mehmal Sarfraz's Opinion@Mehmal",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "0f40db7c8094ddb1.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-1418924277897501698",
-    "timestamp": "2026-08-17T21:32:53.597257+00:00",
-    "original_time": "2026-08-17T16:29:55+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-4949368596665551743",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Court bursts into laughter during hearing on bail plea of woman arrested on charge of violence against husband, over husband's lawyer's arguments",
-    "translated_text": "一名因暴力侵害丈夫而被捕的妇女在保释听证会上，法庭在丈夫律师的论点下爆发出笑声",
-    "images": [
-      "710e70ac12d5691b.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-4949368596665551743",
-    "timestamp": "2026-08-17T21:32:56.143472+00:00",
-    "original_time": "2026-08-17T13:11:17+00:00"
   }
 ]
