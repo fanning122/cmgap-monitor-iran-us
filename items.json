@@ -1,6 +1,19 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_7447531129110832351",
+    "id": "tweet_ForeignOfficePk_881232853605591726",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50spoke last night with the Foreign Minister of Türkiye, Hakan Fidan@HakanFidan.\n\nThe two Foreign Ministers discussed recent regional developments and reaffirmed their commitment to further",
+    "translated_text": "副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 昨晚与土耳其外交部长 Hakan Fidan@HakanFidan 进行了交谈。\n\n两国外长讨论了近期地区事态发展，并重申致力于进一步推进",
+    "images": [
+      "f443c4fb8be3fc41.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/881232853605591726",
+    "timestamp": "2026-08-17T09:39:44.650088+00:00",
+    "original_time": "2026-08-17T08:53:14+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-2765391420516565047",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Pakistan extends its warmest felicitations to the Government and the people of the Republic of Indonesia.\n\nHappy Independence day!@Kemlu_RI@PakinIndonesia",
@@ -11,12 +24,12 @@
       "9196ea84059a877f.svg",
       "73cf2e3be9be6dd7.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/7447531129110832351",
-    "timestamp": "2026-08-17T08:41:20.014568+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-2765391420516565047",
+    "timestamp": "2026-08-17T09:39:45.130042+00:00",
     "original_time": "2026-08-17T03:37:52+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-8312951483333587554",
+    "id": "tweet_ForeignOfficePk_6683544136802542108",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Pakistan extends its warmest felicitations to the Government and the people of the Gabonese Republic. \n\nHappy Independence day!@GouvGabon@PakinEthiopia",
@@ -27,12 +40,12 @@
       "e1943e3c23b6ef68.svg",
       "697e11b30a3b6b18.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-8312951483333587554",
-    "timestamp": "2026-08-17T08:41:20.899693+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/6683544136802542108",
+    "timestamp": "2026-08-17T09:39:45.491170+00:00",
     "original_time": "2026-08-17T03:37:13+00:00"
   },
   {
-    "id": "tweet_CMShehbaz_6155177516435077823",
+    "id": "tweet_CMShehbaz_-8737425253804542194",
     "type": "tweet",
     "username": "CMShehbaz",
     "text": "Deeply appreciate President Donald Trump’s kind words of support on the signing of the Makkah Joint Defence Agreement.\n\nTogether with the brotherly Kingdom of Saudi Arabia and the Republic of Turkiye, Pakistan will continue to play a constructive role in ensuring the defence of",
@@ -40,142 +53,132 @@
     "images": [
       "6f27aa63401b5d15.jpg"
     ],
-    "url": "https://x.com/CMShehbaz/status/6155177516435077823",
-    "timestamp": "2026-08-17T08:41:49.542547+00:00",
+    "url": "https://x.com/CMShehbaz/status/-8737425253804542194",
+    "timestamp": "2026-08-17T09:40:14.578938+00:00",
     "original_time": "2026-08-17T05:33:08+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7251072278966545802",
+    "id": "tweet_PakTVGlobal_-1615865631114480543",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Two terrorists killed, three injured in an intelligence-based operation in Balochistan’s Kilizak area. Security forces also recovered ammunition, hand grenades and IED-making materials.#Balochistan#SecurityForces#CounterTerrorism#Pakistan#PakistanTV",
-    "translated_text": "在俾路支省基利扎克地区的一次情报行动中，两名恐怖分子被杀，三人受伤。安全部队还收缴了弹药、手榴弹和简易爆炸装置制造材料。#Balochistan#SecurityForces#CounterTerrorism#Pakistan#PakistanTV",
+    "text": "International media highlight worsening rights restrictions, economic hardship and a deepening humanitarian crisis in Afghanistan five years after the Taliban takeover.#Afghanistan#Taliban#HumanRights#HumanitarianCrisis#PakistanTV",
+    "translated_text": "国际媒体强调塔利班接管五年后阿富汗日益恶化的权利限制、经济困难和日益加深的人道主义危机。#阿富汗#塔利班#HumanRights#HumanarianCrisis#PakistanTV",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-7251072278966545802",
-    "timestamp": "2026-08-17T08:43:29.450864+00:00",
-    "original_time": "2026-08-17T08:27:45+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-1615865631114480543",
+    "timestamp": "2026-08-17T09:41:00.873170+00:00",
+    "original_time": "2026-08-17T09:26:10+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6956671768420782148",
+    "id": "tweet_PakTVGlobal_1261063576483168955",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "#BREAKINGAfghan United Front commander Gen Sami Sadat says the group has carried out 18 operations across six Afghan provinces in the past 15 days, vowing to expand attacks against the Taliban and calling for international political and material support.#Afghanistan#Taliban",
-    "translated_text": "#BREAKING阿富汗联合阵线指挥官萨米·萨达特将军表示，该组织在过去 15 天内在阿富汗六个省份开展了 18 次行动，誓言扩大对塔利班的袭击，并呼吁国际政治和物质支持。#阿富汗#塔利班",
+    "text": "According to a DW report China’s growing footprint in South Asia and deepening ties with Pakistan are challenging India’s regional influence.#China#Pakistan#SouthAsia#India#PakistanTV",
+    "translated_text": "据德国之声报道，中国在南亚的足迹不断扩大，与巴基斯坦的关系日益加深，正在挑战印度的地区影响力。#China#Pakistan#SouthAsia#India#PakistanTV",
     "images": [
-      "e2638299eb5af9d9.jpg",
-      "357168e309f9434a.jpg",
-      "6102289c73aa4a36.jpg",
-      "93026132acfbdae2.jpg"
+      "468ece61d92e5d43.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6956671768420782148",
-    "timestamp": "2026-08-17T08:43:31.083301+00:00",
-    "original_time": "2026-08-17T08:26:11+00:00"
+    "url": "https://x.com/PakTVGlobal/status/1261063576483168955",
+    "timestamp": "2026-08-17T09:41:02.214046+00:00",
+    "original_time": "2026-08-17T09:20:10+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_554798356130749134",
+    "id": "tweet_PakTVGlobal_-3959821667706335897",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "U.S. Middle East envoy John Kushner arrives in Israel for talks with PM Benjamin Netanyahu following rare discussions with Hamas on implementing the U.S.-backed Gaza peace plan.#GazaPeacePlan#JohnKushner#BenjaminNetanyahu#MiddleEast#PakistanTV",
-    "translated_text": "美国中东特使约翰·库什纳抵达以色列与总理本杰明·内塔尼亚胡举行会谈，此前与哈马斯就实施美国支持的加沙和平计划进行了罕见的讨论。#GazaPeacePlan#JohnKushner#BenjaminNetanyahu#MiddleEast#PakistanTV",
+    "text": "Seven people have died and several others were injured in a crowd incident at the Ashok Dham temple in Bihar, India, with police suspecting a falling electricity pole triggered the panic.#Bihar#AshokDhamTemple#IndiaNews#CrowdIncident#PakistanTV",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "bfe6b056ac6a0a00.jpg"
+      "1d41fa726e2f5b19.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/554798356130749134",
-    "timestamp": "2026-08-17T08:43:32.058565+00:00",
-    "original_time": "2026-08-17T08:24:52+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-3959821667706335897",
+    "timestamp": "2026-08-17T09:41:02.489062+00:00",
+    "original_time": "2026-08-17T09:16:33+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-7629222933988941228",
+    "id": "tweet_PakTVGlobal_94177541562553135",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "#BREAKINGClashes between the Afghan Taliban and Daesh in Nangarhar kills 25 Taliban fighters, underscoring growing security challenges near the Pakistan-Afghanistan border.#Afghanistan#Nangarhar#Daesh#PakistanAfghanistan#PakistanTV",
-    "translated_text": "#BREAKING阿富汗塔利班和伊斯兰国在楠格哈尔省发生冲突，造成 25 名塔利班武装分子死亡，突显巴基斯坦-阿富汗边境附近日益严峻的安全挑战。#阿富汗#楠格哈尔#Daesh#PakistanAfghanistan#PakistanTV",
+    "text": "#BREAKINGDeputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar held a telephonic conversation with Turkish Foreign Minister Hakan Fidan, discussing recent regional developments and reaffirming their commitment to strengthening bilateral cooperation. The two",
+    "translated_text": "#BREAKING副总理兼外交部长参议员穆罕默德·伊沙克·达尔与土耳其外交部长哈坎·菲丹进行了电话交谈，讨论了最近的地区事态发展，并重申了他们对加强双边合作的承诺。两人",
     "images": [
-      "eeebcaf2213786e7.jpg",
-      "c9a39d37b001439f.jpg",
-      "beea9ae4ffcd7627.jpg",
-      "507a861a1c8b5518.jpg"
+      "4298f0ceaeb289a5.jpg",
+      "452fa3b02a51d986.jpg",
+      "37bf697c73b01c33.jpg",
+      "a0cfffb029d096a8.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-7629222933988941228",
-    "timestamp": "2026-08-17T08:43:33.580184+00:00",
-    "original_time": "2026-08-17T08:19:35+00:00"
+    "url": "https://x.com/PakTVGlobal/status/94177541562553135",
+    "timestamp": "2026-08-17T09:41:03.521476+00:00",
+    "original_time": "2026-08-17T09:13:16+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_344592592978505597",
+    "id": "tweet_PakTVGlobal_5723519883884339543",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Pakistan’s Test series in England will be a crucial test of confidence and consistency, with the pace battle and middle-order form key to the team’s chances.#PakistanCricket#PakistanVsEngland#TestCricket#Cricket#PakistanTV",
-    "translated_text": "巴基斯坦在英格兰举行的测试系列赛将是对信心和稳定性的关键考验，节奏战和中阶状态对球队的机会至关重要。#PakistanCricket#PakistanVsEngland#TestCricket#Cricket#PakistanTV",
+    "text": "Bangladesh signals PM Tarique Rahman will not visit India until New Delhi extradites fugitive former PM Sheikh Hasina, deepening diplomatic tensions between the two neighbours.#Bangladesh#TariqueRahman#SheikhHasina#IndiaBangladesh#PakistanTV",
+    "translated_text": "孟加拉国表示，在新德里引渡逃亡的前总理谢赫·哈西娜之前，总理塔里克·拉赫曼不会访问印度，从而加深两个邻国之间的外交紧张关系。#Bangladesh#TariqueRahman#SheikhHasina#IndiaBangladesh#PakistanTV",
     "images": [
-      "e3afadc662e63645.jpg"
+      "879ab102acb811ea.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/344592592978505597",
-    "timestamp": "2026-08-17T08:43:34.749376+00:00",
-    "original_time": "2026-08-17T08:18:12+00:00"
+    "url": "https://x.com/PakTVGlobal/status/5723519883884339543",
+    "timestamp": "2026-08-17T09:41:04.093075+00:00",
+    "original_time": "2026-08-17T09:06:15+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2489852365651908571",
+    "id": "tweet_PakTVGlobal_-6190630494954043617",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Actress Hayden Panettiere, best known for her roles in ‘Heroes’ and ‘Nashville’, has died at the age of 36. Her father, Skip Panettiere, confirmed her passing in a statement, describing her as “an incredible light and a force of nature”. Details surrounding her death were not",
-    "translated_text": "因出演《英雄》和《纳什维尔》而闻名的女演员海顿·潘妮蒂尔去世，享年 36 岁。她的父亲斯基普·潘妮蒂尔在一份声明中证实了她的去世，称她是“令人难以置信的光芒和自然的力量”。有关她死亡的细节并未透露",
+    "text": "World number one Aryna Sabalenka defeated Australia’s Talia Gibson 6-2, 7-6 (7/2) at the Cincinnati Masters, saving a tense second-set challenge to reach the third round.#ArynaSabalenka#CincinnatiOpen#Tennis#WTA#PakistanTV",
+    "translated_text": "世界排名第一的阿琳娜·萨巴伦卡 (Aryna Sabalenka) 在辛辛那提大师赛上以 6-2、7-6 (7/2) 击败澳大利亚选手塔利亚·吉布森 (Talia Gibson)，挽救了紧张的第二盘挑战，进入第三轮。#ArynaSabalenka#CincinnatiOpen#Tennis#WTA#PakistanTV",
     "images": [
-      "5074d16c1db4aba0.jpg"
+      "b4717780cb4e4b73.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-2489852365651908571",
-    "timestamp": "2026-08-17T08:43:38.160042+00:00",
-    "original_time": "2026-08-17T05:25:43+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-6190630494954043617",
+    "timestamp": "2026-08-17T09:41:06.960035+00:00",
+    "original_time": "2026-08-17T07:10:18+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2351478215755870820",
+    "id": "tweet_PakTVGlobal_-3102702120355093930",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "NPR News Editor Mujeeb Ur Rehman says the Makkah Joint Defence Agreement is a major positive development for the United States, as it brings three key American security allies — Pakistan, Saudi Arabia and Turkiye — into a single regional security framework.#MakkahAgreement",
-    "translated_text": "NPR 新闻编辑 Mujeeb Ur Rehman 表示，《麦加联合防御协议》对美国来说是一项重大的积极进展，因为它将美国的三个主要安全盟友——巴基斯坦、沙特阿拉伯和土耳其——纳入了一个单一的地区安全框架。#MakkahAgreement",
+    "text": "#BREAKINGSecurity forces killed two terrorists and injured three others during an intelligence-based operation in Killi Zaik, Balochistan. According to security sources, the operation was conducted following reports of terrorist presence in the area. Ammunition, hand grenades",
+    "translated_text": "#BREAKING安全部队在俾路支省基利扎伊克的一次情报行动中打死了两名恐怖分子，打伤了另外三人。据安全消息人士称，此次行动是在有报告称该地区存在恐怖分子后进行的。弹药、手榴弹",
     "images": [
-      "02a51577fe081472.jpg"
+      "82bb9dda364decf7.jpg",
+      "66592ec05d40f9e2.jpg",
+      "d996f64e861977f8.jpg",
+      "2e5c8905ccccd52e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2351478215755870820",
-    "timestamp": "2026-08-17T08:43:39.546577+00:00",
-    "original_time": "2026-08-17T04:42:53+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-3102702120355093930",
+    "timestamp": "2026-08-17T09:41:08.209861+00:00",
+    "original_time": "2026-08-17T06:20:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8310188329032478179",
+    "id": "tweet_PakTVGlobal_4519172042408990177",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Damage assessments and clean up efforts began Sunday as Hurricane Lala, which was downgraded to a tropical storm overnight, rolled past Hawaii's Big Island and kept dumping heavy rain across the US Pacific state's archipelago.#Hawaii#HurricaneLala#TropicalStorm#StormRecovery",
-    "translated_text": "损失评估和清理工作于周日开始，飓风拉拉在一夜之间降级为热带风暴，席卷夏威夷大岛，并持续给美国太平洋州群岛带来大雨。#Hawaii#HurricaneLala#TropicalStorm#StormRecovery",
+    "text": "#BREAKINGPrime Minister Shehbaz Sharif has appreciated US President Donald Trump’s support for the Makkah Joint Defence Agreement, stressing that Pakistan, Saudi Arabia and Turkiye will continue playing a constructive role in defending their countries and the region. He also",
+    "translated_text": "#BREAKING总理谢赫巴兹·谢里夫感谢美国总统唐纳德·特朗普对《麦加联合防御协议》的支持，并强调巴基斯坦、沙特阿拉伯和土耳其将继续在保卫各自国家和地区方面发挥建设性作用。他还",
     "images": [
-      "91638592f81d72f4.jpg"
+      "281e62a29aca7efa.jpg",
+      "f82232ab3adc61d1.jpg",
+      "8ebfb7e51ba973c7.jpg",
+      "ecaffa7c7cd43777.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8310188329032478179",
-    "timestamp": "2026-08-17T08:43:40.653815+00:00",
-    "original_time": "2026-08-17T04:09:57+00:00"
+    "url": "https://x.com/PakTVGlobal/status/4519172042408990177",
+    "timestamp": "2026-08-17T09:41:09.409272+00:00",
+    "original_time": "2026-08-17T06:02:10+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-9028725201977061738",
+    "id": "tweet_PakTVGlobal_9156379977215866982",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "A bus overturned in a steep, mountainous region north of Rio de Janeiro on Sunday, killing at least eight people, firefighters said in a statement#Brazil#RioDeJaneiro#BusCrash#BreakingNews#PakistanTV",
-    "translated_text": "消防队员在一份声明中表示，周日，一辆公共汽车在里约热内卢北部陡峭的山区翻车，造成至少八人死亡#Brazil#RioDeJaneiro#BusCrash#BreakingNews#PakistanTV",
+    "text": "Japan’s economy grew more slowly than expected in the second quarter, with weaker capital spending and consumption weighing on growth. The slowdown could complicate the Bank of Japan’s plans to raise interest rates as the yen faces renewed pressure from higher oil import costs",
+    "translated_text": "日本第二季度经济增长低于预期，资本支出和消费疲软拖累经济增长。由于日元面临石油进口成本上升的新压力，经济放缓可能会使日本央行的加息计划复杂化",
     "images": [
-      "4c01a9bc36fafd40.jpg"
+      "bf0495f51b128dd7.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-9028725201977061738",
-    "timestamp": "2026-08-17T08:43:42.142989+00:00",
-    "original_time": "2026-08-17T03:52:37+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-2619355572211868590",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "The president said he told Defense Secretary Pete Hegseth to “substantially reduce” joint military exercises with South Korea in the future.",
-    "translated_text": "总统表示，他告诉国防部长皮特·赫格斯未来“大幅减少”与韩国的联合军事演习。",
-    "images": [
-      "41301724d7fcf210.jpg"
-    ],
-    "url": "https://x.com/KellieMeyerNews/status/-2619355572211868590",
-    "timestamp": "2026-08-17T08:47:37.546909+00:00",
-    "original_time": "2026-08-16T22:55:51+00:00"
+    "url": "https://x.com/PakTVGlobal/status/9156379977215866982",
+    "timestamp": "2026-08-17T09:41:10.112171+00:00",
+    "original_time": "2026-08-17T06:01:39+00:00"
   }
 ]
