@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-8870802004579694",
+    "id": "tweet_ForeignOfficePk_3426701827131649402",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Joint Statement by 8 Islamic Countries Condemning Israel’s Rejection of the Gaza Comprehensive Plan and Palestinian Statehood",
@@ -17,8 +17,8 @@
       "5f267a3c7f422a86.jpg",
       "976ef8cec7496725.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-8870802004579694",
-    "timestamp": "2026-08-16T23:18:22.817539+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/3426701827131649402",
+    "timestamp": "2026-08-17T01:10:03.403209+00:00",
     "original_time": "2026-08-16T17:04:43+00:00"
   },
   {
@@ -31,306 +31,135 @@
       "a39a3ae19a137f77.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-08-16T23:18:35.247972+00:00",
+    "timestamp": "2026-08-17T01:10:18.316653+00:00",
     "original_time": "2026-08-16T16:07:39+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_613232899125103374",
+    "id": "tweet_CBSNews_4403007588897368688",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Borzou Daragahi says Iran’s decades of preparation for conflict gave it a strategic advantage, while the U.S. was less prepared for a prolonged confrontation and is facing pressure on key defensive and precision weapon stocks.#Iran#UnitedStates#USIran#MiddleEast#Military",
-    "translated_text": "博尔祖·达拉加希表示，伊朗数十年的冲突准备赋予其战​​略优势，而美国对长期对抗的准备不足，并面临关键防御和精确武器库存的压力。#Iran#UnitedStates#USIran#MiddleEast#Military",
-    "images": [
-      "bd24d2be2f9494ae.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/613232899125103374",
-    "timestamp": "2026-08-16T23:19:31.850562+00:00",
-    "original_time": "2026-08-16T22:46:28+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-8763266850784446111",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Brig (R) Haris Nawaz says Pakistan’s intelligence-based operations are disrupting terrorist networks by targeting militants and their facilitators, reducing their ability to coordinate, resupply and operate effectively.#Pakistan#CounterTerrorism#SecurityForces",
-    "translated_text": "哈里斯·纳瓦兹准将表示，巴基斯坦基于情报的行动正在破坏恐怖分子网络，目标是武装分子及其协助者，削弱他们有效协调、补给和行动的能力。#Pakistan#CounterTerrorism#SecurityForces",
-    "images": [
-      "19f0557b973c2531.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-8763266850784446111",
-    "timestamp": "2026-08-16T23:19:33.021493+00:00",
-    "original_time": "2026-08-16T22:39:13+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_507366130486431859",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Michael Jabri-Pickett says Donald Trump’s remarks on the Strait of Hormuz should be judged against what the U.S. can legally and practically do, arguing that his public statements are often contradictory and may be aimed at pressure or negotiation with Iran.#DonaldTrump#Iran",
-    "translated_text": "迈克尔·贾布里-皮克特表示，唐纳德·特朗普关于霍尔木兹海峡的言论应该根据美国在合法和实际中可以做的事情来判断，他认为他的公开声明往往相互矛盾，可能旨在向伊朗施压或与伊朗进行谈判。#DonaldTrump#Iran",
-    "images": [
-      "44833f1f7bc8ff5b.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/507366130486431859",
-    "timestamp": "2026-08-16T23:19:34.064640+00:00",
-    "original_time": "2026-08-16T22:35:09+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3233785749680139990",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Saudi Arabia is prioritising regional stability as it pushes ahead with economic transformation. Journalist Samantha Murray says Riyadh favours diplomacy over wider conflict, while renewed Houthi tensions add to regional uncertainty.#SaudiArabia#Riyadh#Iran#Houthis",
-    "translated_text": "沙特阿拉伯在推进经济转型时将地区稳定放在首位。记者萨曼莎·穆雷表示，利雅得更倾向于外交而不是更广泛的冲突，而胡塞武装的紧张局势再次加剧了地区的不确定性。#SaudiArabia#Riyadh#Iran#Houthis",
-    "images": [
-      "41fc87d8bba9ca88.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3233785749680139990",
-    "timestamp": "2026-08-16T23:19:35.248324+00:00",
-    "original_time": "2026-08-16T22:14:04+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_1362782886073827068",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Col (R) Jonathan Sweet says US and Israeli intelligence are closely tracking Iran’s missiles, drones, speedboats, nuclear facilities and reported military supplies arriving from China and Russia.@JESweet2022#Iran#US#Israel#IRGC#MiddleEast#RegionalSecurity#PakistanTV",
-    "translated_text": "乔纳森·斯威特上校表示，美国和以色列情报机构正在密切跟踪伊朗的导弹、无人机、快艇、核设施以及来自中国和俄罗斯的军事物资。@JESweet2022#Iran#US#Israel#IRGC#MiddleEast#RegionalSecurity#PakistanTV",
-    "images": [
-      "32ae63222e0799ef.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/1362782886073827068",
-    "timestamp": "2026-08-16T23:19:36.248483+00:00",
-    "original_time": "2026-08-16T21:34:22+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_383816104349505786",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Zahir Shah Sherazi, Afghan Affairs Expert, says Taliban rule has deepened Afghanistan’s governance, economic and social crises, citing restrictions on women’s education, marginalisation of communities and growing instability in parts of the country.#Afghanistan#AfghanTaliban",
-    "translated_text": "阿富汗事务专家查希尔·沙赫·谢拉齐表示，塔利班的统治加深了阿富汗的治理、经济和社会危机，理由是对妇女教育的限制、社区边缘化以及该国部分地区日益不稳定。#阿富汗#阿富汗塔利班",
+    "username": "CBSNews",
+    "text": "Rapidly advancing AI models have sparked breakthroughs in long-standing math problems. From solving problems at the International Math Olympiad to disproving decades-old conjectures - some in the math world are now questioning whether they have a future in the field.\n\nBut not",
+    "translated_text": "快速发展的人工智能模型引发了长期存在的数学问题的突破。从解决国际数学奥林匹克竞赛中的问题到反驳几十年前的猜想——数学界的一些人现在正在质疑他们在这个领域是否有未来。\n\n但不是",
     "images": [],
-    "url": "https://x.com/PakTVGlobal/status/383816104349505786",
-    "timestamp": "2026-08-16T23:19:38.454786+00:00",
-    "original_time": "2026-08-16T18:20:42+00:00"
+    "url": "https://x.com/CBSNews/status/4403007588897368688",
+    "timestamp": "2026-08-17T01:15:05.781844+00:00",
+    "original_time": "2026-08-17T00:52:44+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3914858776820565623",
+    "id": "tweet_CBSNews_7818110871127666577",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Coordinator to the Prime Minister for Commerce, Rana Ihsaan Afzal, says creating more provinces would amount to doing more of the same. He stresses that provinces are key drivers of the economy, revenue generation should be devolved, and effective national development requires",
-    "translated_text": "商务总理协调员拉纳·伊萨安·阿夫扎尔 (Rana Ihsaan Afzal) 表示，创建更多省份就等于做更多同样的事情。他强调，各省是经济的主要驱动力，创收应下放，有效的国家发展需要",
+    "username": "CBSNews",
+    "text": "A severe thunderstorm in Colorado brought so much hail that a snow plow had to be brought in to clear the roads.\n\nMillions of people across the country have been dealing with severe weather this weekend, as Lala brought strong winds and heavy rain to Hawaii and massive storms",
+    "translated_text": "科罗拉多州一场严重的雷暴带来了如此多的冰雹，以至于不得不用铲雪机来清理道路。\n\n本周末，全国数百万人遭遇恶劣天气，拉拉给夏威夷带来了强风和暴雨，还带来了巨大的风暴。",
     "images": [
-      "9e2806da5c9b4a6f.jpg"
+      "a072d7213acd5da9.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3914858776820565623",
-    "timestamp": "2026-08-16T23:19:39.178210+00:00",
-    "original_time": "2026-08-16T18:14:29+00:00"
+    "url": "https://x.com/CBSNews/status/7818110871127666577",
+    "timestamp": "2026-08-17T01:15:07.156066+00:00",
+    "original_time": "2026-08-17T00:30:53+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-2839121784763037558",
+    "id": "tweet_CBSNews_8176478655921694037",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Pakistani Journalist Mohammad Malick says that smaller local units could lead to greater public participation. Local government can be an effective solution, but prevailing political practices hinder its success.@MalickViews@SDPIPakistan#MohammadMalick#Pakistan",
-    "translated_text": "巴基斯坦记者穆罕默德·马利克表示，较小的地方单位可能会带来更多的公众参与。地方政府可以是一个有效的解决方案，但普遍的政治实践阻碍了其成功。@MalickViews@SDPIPakistan#MohammadMalick#Pakistan",
-    "images": [
-      "f7c377aab4bdc377.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-2839121784763037558",
-    "timestamp": "2026-08-16T23:19:40.431288+00:00",
-    "original_time": "2026-08-16T17:49:48+00:00"
+    "username": "CBSNews",
+    "text": "Trump orders scale-back of military exercises with South Korea after refusal to help with Iran's denuclearization",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/8176478655921694037",
+    "timestamp": "2026-08-17T01:15:07.334368+00:00",
+    "original_time": "2026-08-17T00:30:00+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6924164297756262610",
+    "id": "tweet_CBSNews_-2587901383963317557",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Danyal Chaudhry, Federal Parliamentary Secretary for Information and Broadcasting, says Pakistan needs stronger local governments and smaller administrative units to improve governance, devolve power and bring resources closer to citizens.@DanyalChaudhary@RanaAbdullahHam",
+    "username": "CBSNews",
+    "text": "A 15-year-old resident of Palangkaraya, Indonesia is stepping forward as a firefighting volunteer, wearing a Superman suit as he fights to save his home from forest fires.\n\n“Rather than just staying home and be on my phone, I’d rather join the firefighting crew. Because this is",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "4fa8e8bc15a86de1.jpg"
+      "34be3ea2b0e856ed.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6924164297756262610",
-    "timestamp": "2026-08-16T23:19:40.816281+00:00",
-    "original_time": "2026-08-16T17:43:38+00:00"
+    "url": "https://x.com/CBSNews/status/-2587901383963317557",
+    "timestamp": "2026-08-17T01:15:07.614759+00:00",
+    "original_time": "2026-08-16T23:46:18+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_4967638395200320683",
+    "id": "tweet_CBSNews_410567989056483197",
     "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "More provinces, empowered local governments and greater fiscal devolution could bring governance closer to the people, says Dr. Khaqan Hassan Najeeb, former adviser to the Ministry of Finance.@KhaqanNajeeb@RanaAbdullahHam@SDPIPakistan#Pakistan#Governance",
+    "username": "CBSNews",
+    "text": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian Islands",
+    "translated_text": "热带风暴拉拉给夏威夷群岛带来大雨和大风",
+    "images": [
+      "710c2a98a3357916.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/410567989056483197",
+    "timestamp": "2026-08-17T01:15:08.761179+00:00",
+    "original_time": "2026-08-16T23:45:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_5765618854054261424",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A 24-hour coffee shop run entirely by a single robot opened in Beijing on Sunday, offering coffee with an average wait time of less than 30 seconds per cup.\n\nOn its opening day, the shop served 202 cups of coffee in one hour, setting a Guinness World Record for the most cups of",
+    "translated_text": "周日，一家完全由单个机器人运营的 24 小时咖啡店在北京开业，提供每杯咖啡的平均等待时间不到 30 秒。\n\n开业当天，该店一小时内提供了202杯咖啡，创下了最多杯咖啡的吉尼斯世界纪录。",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/5765618854054261424",
+    "timestamp": "2026-08-17T01:15:12.118935+00:00",
+    "original_time": "2026-08-16T14:44:45+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_6567575274306332792",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Bodycam footage captured an intense rescue effort as deputies responded to a burning vehicle and helped the driver escape in early August in Wise County, Texas.",
+    "translated_text": "八月初，在德克萨斯州怀斯县，执法人员对一辆燃烧的车辆做出反应并帮助司机逃脱，随身摄像机的镜头捕捉到了紧张的救援工作。",
+    "images": [
+      "d5f531a43483864a.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/6567575274306332792",
+    "timestamp": "2026-08-17T01:15:13.427694+00:00",
+    "original_time": "2026-08-16T14:26:54+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-7507650924473145610",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Former Chicago Mayor Rahm Emanuel talks Trump, the left and what’s right for America.",
+    "translated_text": "芝加哥前市长拉姆·伊曼纽尔谈论特朗普、左派以及对美国有利的事情。",
+    "images": [
+      "71b6b368d429cfa0.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-7507650924473145610",
+    "timestamp": "2026-08-17T01:15:13.685954+00:00",
+    "original_time": "2026-08-16T13:59:02+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-6611470277226112728",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Lovina Zook left the Amish behind and joined the online world as a social media influencer. Here’s how.",
+    "translated_text": "洛维纳·祖克 (Lovina Zook) 抛弃了阿米什人，以社交媒体影响者的身份加入了网络世界。方法如下。",
+    "images": [
+      "af838e23c7dbf015.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-6611470277226112728",
+    "timestamp": "2026-08-17T01:15:14.830446+00:00",
+    "original_time": "2026-08-16T13:56:09+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-2470063662015367441",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Tropical storm Lala downgraded to tropical storm after lashing past Hawaii's Big Island as a hurricane, killing 1.",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "597dd7edc15c10b1.jpg"
+      "335dfc1787b148ad.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/4967638395200320683",
-    "timestamp": "2026-08-16T23:19:41.115071+00:00",
-    "original_time": "2026-08-16T17:36:23+00:00"
+    "url": "https://x.com/CBSNews/status/-2470063662015367441",
+    "timestamp": "2026-08-17T01:15:15.124408+00:00",
+    "original_time": "2026-08-16T13:53:47+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_9070754762432171716",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Dr. Farrukh Saleem, an economist says tax revenue is not Pakistan’s main problem, stressing that new provinces should be created on the basis of performance and administrative efficiency rather than identity.@SaleemFarrukh@SDPIPakistan#FarrukhSaleem#EconomicReform",
-    "translated_text": "经济学家 Farrukh Saleem 博士表示，税收收入不是巴基斯坦的主要问题，并强调新省份的创建应基于绩效和行政效率而不是身份。@SaleemFarrukh@SDPIPakistan#FarrukhSaleem#EconomicReform",
-    "images": [
-      "6672726ac60fa0ee.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/9070754762432171716",
-    "timestamp": "2026-08-16T23:19:42.382272+00:00",
-    "original_time": "2026-08-16T17:30:20+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3606260736488014751",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Dr. Khaqan Hassan Najeeb, an economist says Pakistan’s challenge is not a lack of money, but inefficient expenditure. He stresses the need for competent professionals with five-year model to put Pakistan on the path to sustainable progress.@KhaqanNajeeb@SDPIPakistan",
-    "translated_text": "经济学家卡坎·哈桑·纳吉布博士表示，巴基斯坦面临的挑战不是缺钱，而是支出效率低下。他强调需要具有五年模式的有能力的专业人士，让巴基斯坦走上可持续进步的道路。@KhaqanNajeeb@SDPIPakistan",
-    "images": [
-      "5c283b0e1a6a043b.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3606260736488014751",
-    "timestamp": "2026-08-16T23:19:43.707020+00:00",
-    "original_time": "2026-08-16T17:04:50+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6903675948423713061",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Jared Kushner met with Hamas leaders in Egypt to discuss Gaza peace road map",
-    "translated_text": "贾里德·库什纳在埃及会见哈马斯领导人，讨论加沙和平路线图",
-    "images": [
-      "7306c4e3079f992a.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-6903675948423713061",
-    "timestamp": "2026-08-16T23:23:23.914211+00:00",
-    "original_time": "2026-08-16T23:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6243084913752506272",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "GOP Rep. Don Bacon says Congress \"should have oversight\" amid concerns about USS Lincoln conditions",
-    "translated_text": "共和党众议员唐·培根表示，出于对林肯号航空母舰状况的担忧，国会“应该进行监督”",
-    "images": [
-      "886f2ccb7271a010.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-6243084913752506272",
-    "timestamp": "2026-08-16T23:23:25.251057+00:00",
-    "original_time": "2026-08-16T21:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_4396782360628575006",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Rainfall from Lala swelled rivers and waterfalls on Hawaii's Big Island, turning the typically picturesque Rainbow Falls into a raging cascade.\n\nThe storm brought damaging winds and heavy rains on Sunday after skirting past Hawaii's Big Island as a hurricane on Saturday.\n\nThe",
-    "translated_text": "拉拉的降雨使夏威夷大岛上的河流和瀑布水位上涨，将典型的风景如画的彩虹瀑布变成了汹涌的瀑布。\n\n这场风暴在周六以飓风形式掠过夏威夷大岛后，于周日带来了破坏性的大风和大雨。\n\n这",
-    "images": [
-      "a2940ba495ae466b.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/4396782360628575006",
-    "timestamp": "2026-08-16T23:23:25.719063+00:00",
-    "original_time": "2026-08-16T20:02:11+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_2863149395119732336",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "CENTCOM chief praises USS Abraham Lincoln crew after visit",
-    "translated_text": "中央司令部司令在访问后赞扬亚伯拉罕·林肯号航空母舰船员",
-    "images": [
-      "74ef6880dfbf4536.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/2863149395119732336",
-    "timestamp": "2026-08-16T23:23:26.132655+00:00",
-    "original_time": "2026-08-16T20:00:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_8809425141464261712",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Mounds of hail covered a road in Englewood, Colorado, after a severe thunderstorm moved through the area. \n\nA plow was brought in to clear the buildup after the storm dumped hail and heavy rain on Saturday.",
-    "translated_text": "一场严重的雷暴穿过科罗拉多州恩格尔伍德地区后，成堆的冰雹覆盖了该地区的一条道路。 \n\n周六，暴风雨带来冰雹和大雨后，人们用犁来清理堆积物。",
-    "images": [
-      "e74a4509c049c917.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/8809425141464261712",
-    "timestamp": "2026-08-16T23:23:26.486215+00:00",
-    "original_time": "2026-08-16T19:24:22+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_6304396015706023146",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "CBS News poll on whether Democrats split over socialism, and how Americans see parties in today's economy",
-    "translated_text": "哥伦比亚广播公司新闻调查关于民主党是否因社会主义而分裂，以及美国人如何看待当今经济中的政党",
-    "images": [
-      "bbc8c7bdede20e05.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/6304396015706023146",
-    "timestamp": "2026-08-16T23:23:28.908515+00:00",
-    "original_time": "2026-08-16T13:12:10+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-6554544439265016278",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Ukraine launched hundreds of drones across Russia on Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
-    "translated_text": "周日，乌克兰在俄罗斯境内发射了数百架无人机，这是基辅战争中最大规模的空袭之一，造成至少六人死亡。",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/-6554544439265016278",
-    "timestamp": "2026-08-16T23:23:29.218582+00:00",
-    "original_time": "2026-08-16T13:09:27+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_7531537432016587127",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Four Renaissance paintings stolen from museum in Italy",
-    "translated_text": "意大利博物馆四幅文艺复兴时期画作被盗",
-    "images": [
-      "f60f1f3e414fdae6.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/7531537432016587127",
-    "timestamp": "2026-08-16T23:23:29.638310+00:00",
-    "original_time": "2026-08-16T12:30:01+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-2320549569815895084",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Five people were injured in a shooting involving multiple suspects at Virginia State University on Saturday morning, prompting a temporary campus lockdown just days before the new academic year was set to begin.\n\nPolice have arrested a 19-year-old found hiding in a dormitory",
-    "translated_text": "周六上午，弗吉尼亚州立大学发生枪击事件，涉及多名嫌疑人，造成五人受伤，导致校园在新学年开始前几天暂时封锁。\n\n警方逮捕了一名躲藏在宿舍的 19 岁男子",
-    "images": [
-      "14d839f574453d5e.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-2320549569815895084",
-    "timestamp": "2026-08-16T23:23:29.946932+00:00",
-    "original_time": "2026-08-16T12:26:33+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-2170974592329575474",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "NATO fighter jet shoots down drone in Romania near border with Ukraine",
-    "translated_text": "北约战斗机在罗马尼亚与乌克兰边境附近击落无人机",
-    "images": [
-      "73e05aaf44e167ef.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/-2170974592329575474",
-    "timestamp": "2026-08-16T23:23:30.371503+00:00",
-    "original_time": "2026-08-16T12:15:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_6883926785155916769",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Ukraine launches hundreds of drones into Russia in one of the largest aerial attacks of the war",
-    "translated_text": "乌克兰向俄罗斯发射了数百架无人机，这是战争中最大规模的空袭之一",
-    "images": [
-      "991da015262af1ee.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/6883926785155916769",
-    "timestamp": "2026-08-16T23:23:31.373221+00:00",
-    "original_time": "2026-08-16T11:25:00+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_6065206778951001755",
+    "id": "tweet_KellieMeyerNews_2033039723052653307",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "The president said he told Defense Secretary Pete Hegseth to “substantially reduce” joint military exercises with South Korea in the future.",
@@ -338,186 +167,8 @@
     "images": [
       "41301724d7fcf210.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/6065206778951001755",
-    "timestamp": "2026-08-16T23:24:02.617610+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/2033039723052653307",
+    "timestamp": "2026-08-17T01:16:11.504478+00:00",
     "original_time": "2026-08-16T22:55:51+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-4389536504177056360",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "رات 3 بجے کی ہیڈلائنز - 17 اگست 2026",
-    "translated_text": "下午 3 点头条新闻 - 2026 年 8 月 17 日",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/-4389536504177056360",
-    "timestamp": "2026-08-16T23:25:12.382868+00:00",
-    "original_time": "2026-08-16T23:01:51+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-6552751759140095497",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "US President Trump is upset with South Korea for not participating in the war against Iran",
-    "translated_text": "美国总统特朗普对韩国不参加针对伊朗的战争感到不满",
-    "images": [
-      "b84625956288e430.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-6552751759140095497",
-    "timestamp": "2026-08-16T23:25:13.481989+00:00",
-    "original_time": "2026-08-16T22:52:49+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_7858924458099086806",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Jamaat-e-Islami's sit-in against the petroleum levy",
-    "translated_text": "伊斯兰大会党静坐反对石油税",
-    "images": [
-      "fc5fcbf464d9d594.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/7858924458099086806",
-    "timestamp": "2026-08-16T23:25:14.180871+00:00",
-    "original_time": "2026-08-16T22:30:48+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_503264107038930948",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Israel Rejects Gaza Plan, 8 Muslim Countries' Strong Reaction",
-    "translated_text": "以色列拒绝加沙计划，8个穆斯林国家强烈反应",
-    "images": [
-      "570b0ec970e4a7d2.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/503264107038930948",
-    "timestamp": "2026-08-16T23:25:15.500657+00:00",
-    "original_time": "2026-08-16T22:30:27+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-5328380160528266405",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "I'm delighted that Saudi Arabia, Turkey, and Pakistan have signed the Mecca Joint Defense Agreement, President Trump",
-    "translated_text": "特朗普总统，我很高兴沙特阿拉伯、土耳其和巴基斯坦签署了麦加联合防御协议",
-    "images": [
-      "b880c07f1dd64cb0.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-5328380160528266405",
-    "timestamp": "2026-08-16T23:25:16.757213+00:00",
-    "original_time": "2026-08-16T21:20:56+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_2060099896879202998",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Gulf allies are beginning to feel disappointed with President Trump over Iran's failure in effective diplomacy to end the war, says US newspaper",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "aaa6bd5ca3d392b5.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/2060099896879202998",
-    "timestamp": "2026-08-16T23:25:17.223307+00:00",
-    "original_time": "2026-08-16T21:00:58+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_7384461309885872181",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Will More Muslim Countries Join the Mecca Defense Pact?@SaleemKhanSafi",
-    "translated_text": "会有更多穆斯林国家加入麦加防御条约吗？@SaleemKhanSafi",
-    "images": [
-      "243142b5482d2b1e.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/7384461309885872181",
-    "timestamp": "2026-08-16T23:25:20.354326+00:00",
-    "original_time": "2026-08-16T19:15:33+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3684594979850041974",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Will the Mecca Defense Pact be effective against any aggression from India?@SaleemKhanSafi",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/-3684594979850041974",
-    "timestamp": "2026-08-16T23:25:20.502754+00:00",
-    "original_time": "2026-08-16T19:15:26+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_5058947721991865477",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "The Mecca Defense Pact... Is Pakistan also about to become part of a conflict?@SaleemKhanSafi",
-    "translated_text": "麦加防御条约……巴基斯坦也即将成为冲突的一部分吗？@SaleemKhanSafi",
-    "images": [
-      "e6beb3e101f9fd28.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/5058947721991865477",
-    "timestamp": "2026-08-16T23:25:20.943280+00:00",
-    "original_time": "2026-08-16T19:15:09+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-589373352575438819",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Mecca Defense Pact... What is its main objective?@SaleemKhanSafi",
-    "translated_text": "麦加防御条约...其主要目标是什么？@SaleemKhanSafi",
-    "images": [
-      "d0eef822ae606656.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-589373352575438819",
-    "timestamp": "2026-08-16T23:25:21.363126+00:00",
-    "original_time": "2026-08-16T19:15:00+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_9087589316318286612",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "How is Iran viewing the Mecca Defense Agreement?@SaleemKhanSafi",
-    "translated_text": "伊朗如何看待麦加防御协议？@SaleemKhanSafi",
-    "images": [
-      "3654f91887b85aff.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/9087589316318286612",
-    "timestamp": "2026-08-16T23:25:22.089384+00:00",
-    "original_time": "2026-08-16T19:07:04+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_2053935346532279788",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Gulf countries' trust in the US over?@SaleemKhanSafi",
-    "translated_text": "海湾国家对美国的信任结束了吗？@SaleemKhanSafi",
-    "images": [
-      "7725e1db37dc2964.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/2053935346532279788",
-    "timestamp": "2026-08-16T23:25:23.230326+00:00",
-    "original_time": "2026-08-16T19:06:53+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-5002079991170484721",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Why didn't Egypt join the Mecca Defense Agreement?@SaleemKhanSafi",
-    "translated_text": "埃及为什么不加入麦加防御协议？@SaleemKhanSafi",
-    "images": [
-      "0bc66e20aceeee95.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-5002079991170484721",
-    "timestamp": "2026-08-16T23:25:23.841386+00:00",
-    "original_time": "2026-08-16T19:06:38+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3117201210693197492",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "What is the significance of the Mecca Defense Pact?@SaleemKhanSafi",
-    "translated_text": "麦加防御条约的意义是什么？@SaleemKhanSafi",
-    "images": [
-      "1a5c1f06448c0d01.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-3117201210693197492",
-    "timestamp": "2026-08-16T23:25:24.439799+00:00",
-    "original_time": "2026-08-16T19:06:27+00:00"
   }
 ]
