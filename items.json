@@ -1,58 +1,129 @@
 [
   {
-    "id": "tweet_PakTVGlobal_-6372879077861857526",
+    "id": "tweet_ForeignOfficePk_-4656938194959222065",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "PR No./Message by the Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50on World Humanitarian Day (19 August 2026)",
+    "translated_text": "PR 号/副总理/外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 世界人道主义日致辞（2026 年 8 月 19 日）",
+    "images": [
+      "6b2cfb320981d1a0.svg",
+      "59563c1a40d3d73b.svg",
+      "49b80fa86f503c69.svg",
+      "965df5b38019fba9.svg",
+      "6dd70089c15d9c8c.svg",
+      "42c644bbf48e04fc.svg",
+      "6927007c5e94b687.svg",
+      "1d7695f51048fca1.svg",
+      "8c99d3ff069df5e0.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/-4656938194959222065",
+    "timestamp": "2026-08-19T05:29:11.614428+00:00",
+    "original_time": "2026-08-19T05:00:10+00:00"
+  },
+  {
+    "id": "tweet_PakPMO_5744475751243219595",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "Prime Minister Muhammad Shehbaz Sharif's Message on World Humanitarian Day 19 August 2026.\n\nOn World Humanitarian Day, Pakistan joins the international community in reaffirming its commitment to the noble values of humanitarian service, compassion, human dignity and solidarity.",
+    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫于 2026 年 8 月 19 日世界人道主义日致辞。\n\n值此世界人道主义日，巴基斯坦与国际社会一起重申其对人道主义服务、同情心、人类尊严和团结等崇高价值观的承诺。",
+    "images": [
+      "783a9a4cb6fe4524.jpg"
+    ],
+    "url": "https://x.com/PakPMO/status/5744475751243219595",
+    "timestamp": "2026-08-19T05:29:53.586786+00:00",
+    "original_time": "2026-08-19T03:14:10+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-6072348319253873421",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Meta knowingly hooked and exploited children, a US federal court heard in a trial against the social media giant on charges that it deliberately made Instagram and Facebook addictive to young users.#Meta#Instagram#Facebook#ChildSafety#PakistanTV",
+    "translated_text": "美国联邦法院在对这家社交媒体巨头的审判中审理了 Meta 故意诱骗和剥削儿童的案件，指控其故意让 Instagram 和 Facebook 使年轻用户上瘾。#Meta#Instagram#Facebook#ChildSafety#PakistanTV",
+    "images": [
+      "4ba5da1ee3a49edb.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-6072348319253873421",
+    "timestamp": "2026-08-19T05:30:48.868858+00:00",
+    "original_time": "2026-08-19T05:19:18+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-8485662015338425081",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Turkiye rejected on Wednesday Israeli allegations that it posed a threat by preparing to send troops to a base in Syria, which was hit in a strike that the United States blamed on Israel.#Turkiye#Syria#Israel#MiddleEast#PakistanTV",
+    "translated_text": "土耳其周三否认了以色列关于其准备向叙利亚基地派遣部队构成威胁的指控，该基地在美国归咎于以色列的袭击中遭到袭击。#Turkiye#Syria#Israel#MiddleEast#PakistanTV",
+    "images": [
+      "958dba9f0f184e9f.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-8485662015338425081",
+    "timestamp": "2026-08-19T05:30:49.546561+00:00",
+    "original_time": "2026-08-19T04:52:30+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_3630645749705853194",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Yields on longterm US Treasury bonds jumped to the highest level since 2007, underscoring rising price pressures due to the Middle East war and mounting anxiety about American deficit spending.#USTreasuries#BondYields#USEconomy#Inflation#PakistanTV",
+    "translated_text": "美国长期国债收益率跃升至 2007 年以来的最高水平，突显中东战争导致的物价压力上升以及对美国赤字支出的担忧加剧。#USTreasuries#BondYields#USEconomy#Inflation#PakistanTV",
+    "images": [
+      "de11e92b158789c4.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/3630645749705853194",
+    "timestamp": "2026-08-19T05:30:50.070401+00:00",
+    "original_time": "2026-08-19T04:33:32+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_4096016288752889969",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Australian toxic mushroom killer Erin Patterson began an appeal on Wednesday against her conviction in a triple-murder case that made headlines worldwide.#ErinPatterson#Australia#TripleMurder#CourtAppeal#PakistanTV",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "澳大利亚有毒蘑菇杀手艾琳·帕特森周三开始上诉，反对她在三重谋杀案中被定罪，该案成为全球头条新闻。#ErinPatterson#Australia#TripleMurder#CourtAppeal#PakistanTV",
     "images": [
       "c70a9079dfac6901.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6372879077861857526",
-    "timestamp": "2026-08-19T03:47:08.286122+00:00",
+    "url": "https://x.com/PakTVGlobal/status/4096016288752889969",
+    "timestamp": "2026-08-19T05:30:50.538279+00:00",
     "original_time": "2026-08-19T03:43:42+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_9071738673869906860",
+    "id": "tweet_PakTVGlobal_3149006269110093834",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Joint military drills between South Korea and the United States will end on Friday, not August 27 as originally scheduled, Seoul's military said after US President Donald Trump said he had ordered the exercises scaled back.#SouthKorea#UnitedStates#MilitaryDrills#USSouthKorea",
-    "translated_text": "在美国总统唐纳德·特朗普表示他已下令缩减演习规模后，首尔军方表示，韩国和美国之间的联合军事演习将于周五结束，而不是原定的 8 月 27 日。#SouthKorea#UnitedStates#MilitaryDrills#USSouthKorea",
+    "text": "Prime Minister Shehbaz Sharif, while inaugurating Google’s Pakistan office, congratulated the Google team and Pakistani team and described the partnership as a stepping stone toward a long journey of contributing to a field that is “very attractive” and “the call of the day.” He",
+    "translated_text": "谢赫巴兹·谢里夫总理在为谷歌巴基斯坦办事处揭幕时，向谷歌团队和巴基斯坦团队表示祝贺，并将此次合作描述为迈向为“非常有吸引力”和“当今时代呼唤”的领域做出贡献的漫长旅程的垫脚石。他",
     "images": [
-      "e9f9b3d348439c8b.jpg"
+      "b6206c1c777d8c53.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/9071738673869906860",
-    "timestamp": "2026-08-19T03:47:09.978652+00:00",
-    "original_time": "2026-08-19T03:11:04+00:00"
+    "url": "https://x.com/PakTVGlobal/status/3149006269110093834",
+    "timestamp": "2026-08-19T05:30:53.277899+00:00",
+    "original_time": "2026-08-18T20:43:30+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4799439816824701070",
+    "id": "tweet_PakTVGlobal_-7135810988624212645",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "The United States on Tuesday imposed sanctions against International Criminal Court President Tomoko Akane of Japan and another senior official as part of its campaign against the body that it accuses of being \"politicised.\"#UnitedStates#ICC#TomokoAkane#Sanctions#PakistanTV",
-    "translated_text": "美国周二对日本国际刑事法院院长 Tomoko Akane 和另一名高级官员实施制裁，作为针对该机构“政治化”的行动的一部分。#UnitedStates#ICC#TomokoAkane#Sanctions#PakistanTV",
-    "images": [
-      "a59c9dead7f84eda.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-4799439816824701070",
-    "timestamp": "2026-08-19T03:47:10.150006+00:00",
-    "original_time": "2026-08-19T02:41:34+00:00"
+    "text": "More than 200 people were caught across 14 states in India just before Independence Day, linking them to Pakistan. The whole episode is a sort of Bollywood-style drama—a stage-managed happening that forms part of a playbook India has been following for quite some time: Air",
+    "translated_text": "就在独立日之前，印度 14 个邦有 200 多人被捕，将他们与巴基斯坦联系起来。整个情节就像是一部宝莱坞风格的戏剧——一场舞台管理的事件，构成了印度长期以来遵循的剧本的一部分：空气",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-7135810988624212645",
+    "timestamp": "2026-08-19T05:30:53.830589+00:00",
+    "original_time": "2026-08-18T19:47:35+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-8630107728914421314",
+    "id": "tweet_PakTVGlobal_7458784865744406765",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "New Zealand has passed hotly contested legislation to block lawsuits that seek to hold companies liable for climate change harm. The right-wing coalition government's legal amendment cleared a final hurdle in parliament on Tuesday night by a margin of 67 votes to 53.#NewZealand",
-    "translated_text": "新西兰通过了备受争议的立法，以阻止寻求让公司对气候变化损害承担责任的诉讼。周二晚，右翼联合政府的法律修正案以 67 票对 53 票的优势在议会扫清了最后障碍。#NewZealand",
+    "text": "The disagreement between Iran and the US over reopening the Strait of Hormuz resurfaced soon after the signing of the Islamabad MOU. Until that issue is resolved, progress on other matters awaiting negotiations will remain difficult, although efforts are continuing: Javid Husain,",
+    "translated_text": "伊斯兰堡谅解备忘录签署后不久，伊朗和美国在重新开放霍尔木兹海峡问题上的分歧再次浮出水面。在这个问题得到解决之前，尽管仍在继续努力，但等待谈判的其他事项取得进展仍然困难重重：贾维德·侯赛因，",
     "images": [
-      "5019e4453bdc5639.jpg"
+      "9544a077398aed5d.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-8630107728914421314",
-    "timestamp": "2026-08-19T03:47:10.337966+00:00",
-    "original_time": "2026-08-19T02:10:05+00:00"
+    "url": "https://x.com/PakTVGlobal/status/7458784865744406765",
+    "timestamp": "2026-08-19T05:30:54.300420+00:00",
+    "original_time": "2026-08-18T19:20:23+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-684314224875869915",
+    "id": "tweet_PakTVGlobal_-1941630937986709020",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "The Indian military is trying to cover up the scale of damage Pakistan inflicted on it during the May 2025 war: Brig (Retd) Waqar Khan, defence analyst@OmarButtPK@waqarkauravi#PakistanIndia#PakistanDefence#India#May2025War#PakistanTV",
@@ -60,23 +131,25 @@
     "images": [
       "27130ce1bf4ece58.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-684314224875869915",
-    "timestamp": "2026-08-19T03:47:13.744344+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-1941630937986709020",
+    "timestamp": "2026-08-19T05:30:55.085888+00:00",
     "original_time": "2026-08-18T19:16:44+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3685356125246378344",
+    "id": "tweet_PakTVGlobal_3020576290850730177",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "A country with a long record of ignoring, violating and coercing international law—India—is, in the opinion of most rational observers, permanently disqualified from any leadership position in any multilateral organization until it begins to answer for its long record of human",
     "translated_text": "大多数理性观察家认为，一个长期无视、违反和胁迫国际法的国家——印度——将永远失去在任何多边组织中担任领导职务的资格，除非它开始对其长期的人类行为负责。",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-3685356125246378344",
-    "timestamp": "2026-08-19T03:47:14.923191+00:00",
+    "images": [
+      "812d24541a234b28.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/3020576290850730177",
+    "timestamp": "2026-08-19T05:30:55.530917+00:00",
     "original_time": "2026-08-18T18:51:55+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5528297801912673347",
+    "id": "tweet_PakTVGlobal_-2214497231794819567",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Journalism begins with some very basic rules: check your facts, provide context, separate evidence from assumption and, principally, don’t decide the verdict first and then go shopping for material to support it later. That’s not journalism; that’s propaganda. Big difference.",
@@ -84,12 +157,12 @@
     "images": [
       "c7eaf935bdc8ed62.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-5528297801912673347",
-    "timestamp": "2026-08-19T03:47:15.119783+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-2214497231794819567",
+    "timestamp": "2026-08-19T05:30:56.271644+00:00",
     "original_time": "2026-08-18T18:19:58+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4677908474347906344",
+    "id": "tweet_PakTVGlobal_-3933133133096714294",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "DW targets Pakistan’s nuclear program with unsubstantiated claims while conveniently ignoring India’s documented history of radioactive material and uranium theft spanning over three decades. DW’s journalism is selective journalism: Dr. Maria Zulfiqar@DocMZK#Pakistan#DW",
@@ -97,12 +170,12 @@
     "images": [
       "0bbecfac27e8d7e2.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-4677908474347906344",
-    "timestamp": "2026-08-19T03:47:15.326388+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-3933133133096714294",
+    "timestamp": "2026-08-19T05:30:56.876813+00:00",
     "original_time": "2026-08-18T18:09:52+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6194564331616202270",
+    "id": "tweet_PakTVGlobal_-7217063569708917166",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "DW’s documentary portrays Pakistan as a nuclear security risk without presenting credible evidence of a compromised arsenal, command failure, or security breach. Its timing and sensationalist framing raise serious questions about the agenda behind the documentary: Dr. Maria",
@@ -110,73 +183,49 @@
     "images": [
       "e09ffbcf42da56ce.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6194564331616202270",
-    "timestamp": "2026-08-19T03:47:15.526261+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-7217063569708917166",
+    "timestamp": "2026-08-19T05:30:57.475384+00:00",
     "original_time": "2026-08-18T17:52:08+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4265780610453385206",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "DW is part of a broader propaganda agenda set in motion by those feeling the heat of Pakistan’s strategic and diplomatic successes: Dr. Maria Zulfiqar@DocMZK#Pakistan#DW#StrategicSuccess#Diplomacy#PakistanTV",
-    "translated_text": "德国之声是那些感受到巴基斯坦战略和外交成功热度的人们发起的更广泛宣传议程的一部分：Maria Zulfiqar 博士@DocMZK#Pakistan#DW#StrategicSuccess#Diplomacy#PakistanTV",
-    "images": [
-      "9dc939673d69b21b.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-4265780610453385206",
-    "timestamp": "2026-08-19T03:47:15.702806+00:00",
-    "original_time": "2026-08-18T17:50:52+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-6604343226742234225",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Former Ambassador Sardar Masood Khan says the G4 proposal for permanent UN Security Council seats has become outdated after decades without consensus. He says that Pakistan-backed Uniting for Consensus offers a more democratic and representative approach, reflecting the",
-    "translated_text": "前大使萨达尔·马苏德·汗表示，四国集团关于联合国安理会常任理事国席位的提议在数十年未能达成共识后已经过时。他说，巴基斯坦支持的“团结谋共识”提供了一种更加民主和更具代表性的方法，反映了",
-    "images": [
-      "b4ab3073345eb042.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6604343226742234225",
-    "timestamp": "2026-08-19T03:47:15.900176+00:00",
-    "original_time": "2026-08-18T17:22:55+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_3802155288756176771",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Dr. Bishara A. Bahbah, Founder and President of Americans for Global Peace, speaking from Washington, D.C., says settler violence in the occupied West Bank cannot be dismissed as the actions of isolated extremists. He says that settlers operate with the protection or cooperation",
-    "translated_text": "美国促进全球和平组织创始人兼主席比沙拉·A·巴巴博士在华盛顿特区发表讲话说，被占领的约旦河西岸定居者的暴力行为不能被视为孤立的极端分子的行为。他说，定居者在保护或合作下进行活动",
-    "images": [
-      "541d66bf1c54cb4f.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/3802155288756176771",
-    "timestamp": "2026-08-19T03:47:16.094837+00:00",
-    "original_time": "2026-08-18T17:16:20+00:00"
-  },
-  {
-    "id": "tweet_mb_ghalibaf_-7651897082710157158",
+    "id": "tweet_mb_ghalibaf_6726178103669515420",
     "type": "tweet",
     "username": "mb_ghalibaf",
     "text": "The relationship that binds the Iranian and Iraqi peoples is a historical bond that cannot be severed. Our neighborliness was founded on the basis of brotherhood in the most trying of times, resistance to foreign interventions, and faith in the shared destiny of both countries;",
     "translated_text": "伊朗和伊拉克人民的关系是不可分割的历史纽带。我们的睦邻友好关系是建立在最困难时期的兄弟情谊、抵制外国干涉以及对两国共同命运的信念的基础上的；",
     "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/-7651897082710157158",
-    "timestamp": "2026-08-19T03:49:35.486833+00:00",
+    "url": "https://x.com/mb_ghalibaf/status/6726178103669515420",
+    "timestamp": "2026-08-19T05:33:43.106748+00:00",
     "original_time": "2026-08-19T03:29:14+00:00"
   },
   {
-    "id": "tweet_mb_ghalibaf_4186720038907020874",
+    "id": "tweet_CBSNews_-3038470585457450933",
     "type": "tweet",
-    "username": "mb_ghalibaf",
-    "text": "Americans think squeezing Iran harder will win concessions that were never part of the agreement.\n\nBessent and Hegseth are way out of their league. Stop waiting for the clown crew to pull a rabbit out of their hat and clean up the mess you made.",
-    "translated_text": "美国人认为，更加严厉地压制伊朗将赢得协议中从未包含的让步。\n\n贝森特和赫格斯远远超出了他们的范围。别再等着小丑从帽子里变出兔子来清理你造成的混乱了。",
-    "images": [],
-    "url": "https://x.com/mb_ghalibaf/status/4186720038907020874",
-    "timestamp": "2026-08-19T03:49:35.647119+00:00",
-    "original_time": "2026-08-18T17:00:16+00:00"
+    "username": "CBSNews",
+    "text": "U.S., South Korea cut short their joint military drills at Trump's direction",
+    "translated_text": "美韩在特朗普的指示下缩短了联合军演",
+    "images": [
+      "0723fe19dc264e9d.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-3038470585457450933",
+    "timestamp": "2026-08-19T05:35:06.026489+00:00",
+    "original_time": "2026-08-19T04:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_1172364256589116831",
+    "id": "tweet_CBSNews_-190092563268379041",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Trump says he paused 50% tariffs on some Canadian goods as deal being finalized",
+    "translated_text": "特朗普表示，随着协议敲定，他暂停对部分加拿大商品征收 50% 的关税",
+    "images": [
+      "737f7273ff58a26a.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-190092563268379041",
+    "timestamp": "2026-08-19T05:35:06.242428+00:00",
+    "original_time": "2026-08-19T03:50:59+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-221344772907045049",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Oliver Gilbert wins Democratic primary for Florida's 24th Congressional District; Jones concedes",
@@ -184,12 +233,12 @@
     "images": [
       "62b46d5eb6602dd1.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/1172364256589116831",
-    "timestamp": "2026-08-19T03:50:55.641139+00:00",
+    "url": "https://x.com/CBSNews/status/-221344772907045049",
+    "timestamp": "2026-08-19T05:35:06.460771+00:00",
     "original_time": "2026-08-19T03:50:15+00:00"
   },
   {
-    "id": "tweet_CBSNews_-4753247949194218302",
+    "id": "tweet_CBSNews_-5748805357186254440",
     "type": "tweet",
     "username": "CBSNews",
     "text": "The Trump administration has been quietly deporting migrants from Mexico to Honduras and Guatemala, despite the Mexican government’s willingness to accept the return of all its citizens, Homeland Security sources tell CBS News’@camiloreports.",
@@ -197,12 +246,12 @@
     "images": [
       "0490175f1248d515.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-4753247949194218302",
-    "timestamp": "2026-08-19T03:50:55.845529+00:00",
+    "url": "https://x.com/CBSNews/status/-5748805357186254440",
+    "timestamp": "2026-08-19T05:35:06.702482+00:00",
     "original_time": "2026-08-19T00:59:52+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1554696531520600707",
+    "id": "tweet_CBSNews_612169732238093122",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Scandal-ridden Rep. Cory Mills ousted in GOP primary in Florida's 7th District, AP projects.",
@@ -210,62 +259,62 @@
     "images": [
       "1d8356ef38fd57db.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-1554696531520600707",
-    "timestamp": "2026-08-19T03:50:56.057856+00:00",
+    "url": "https://x.com/CBSNews/status/612169732238093122",
+    "timestamp": "2026-08-19T05:35:06.929738+00:00",
     "original_time": "2026-08-19T00:32:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-569670173770543875",
+    "id": "tweet_CBSNews_3107831823023113081",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Jared Moskowitz wins Democratic primary for Florida's Congressional District 25, AP projects.",
-    "translated_text": "贾里德·莫斯科维茨 (Jared Moskowitz) 赢得了佛罗里达州国会第 25 区美联社项目的民主党初选。",
+    "text": "Most Americans probably hadn't heard of Natalie Harp before this week, but the close Trump aide has been in the political spotlight in recent days. Here's what to know about her.",
+    "translated_text": "大多数美国人可能在本周之前没有听说过娜塔莉·哈普，但这位特朗普的亲密助手最近几天一直处于政治聚光灯下。以下是关于她的一些了解。",
     "images": [
-      "53c2d1618bf9051d.jpg"
+      "86826ab2eb42da92.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-569670173770543875",
-    "timestamp": "2026-08-19T03:50:56.261853+00:00",
-    "original_time": "2026-08-19T00:28:00+00:00"
+    "url": "https://x.com/CBSNews/status/3107831823023113081",
+    "timestamp": "2026-08-19T05:35:09.138570+00:00",
+    "original_time": "2026-08-18T21:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-8259028001432394326",
+    "id": "tweet_CBSNews_-506650111696484206",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "BREAKING: Republican Byron Donalds will face Democrat David Jolly in the race for Florida governor, AP projects.",
-    "translated_text": "突发新闻：据美联社报道，共和党人拜伦·唐纳德斯将在佛罗里达州州长竞选中对阵民主党人大卫·乔利。",
+    "text": "A former senior adviser at the National Institute of Allergy and Infectious Diseases has pleaded guilty to a charge stemming from a scheme to hide federal records during the COVID-19 pandemic.",
+    "translated_text": "美国国家过敏和传染病研究所的一名前高级顾问承认了一项因在 COVID-19 大流行期间隐藏联邦记录的计划而受到的指控。",
     "images": [
-      "2c42c49313e6ff5f.jpg"
+      "284ede6b926c3f39.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8259028001432394326",
-    "timestamp": "2026-08-19T03:50:57.298891+00:00",
-    "original_time": "2026-08-19T00:23:01+00:00"
+    "url": "https://x.com/CBSNews/status/-506650111696484206",
+    "timestamp": "2026-08-19T05:35:09.329784+00:00",
+    "original_time": "2026-08-18T20:40:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_4814026345112772775",
+    "id": "tweet_CBSNews_-5195011531191747052",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Expert defense witness in the Lindsay Clancy trial, Psychiatrist Dr. Donald Condie, said that records he reviewed showed that Clancy had called a suicide hotline on two occasions and was told that, since she did not have a suicide plan, she did not require a higher level of care.",
     "translated_text": "林赛·克兰西审判中的专家辩护证人、精神病学家唐纳德·康迪博士表示，他查阅的记录显示，克兰西曾两次拨打自杀热线，并被告知，由于她没有自杀计划，因此不需要更高级别的护理。",
-    "images": [
-      "02db06acf5ee7c37.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/4814026345112772775",
-    "timestamp": "2026-08-19T03:50:59.766060+00:00",
+    "images": [],
+    "url": "https://x.com/CBSNews/status/-5195011531191747052",
+    "timestamp": "2026-08-19T05:35:09.837655+00:00",
     "original_time": "2026-08-18T20:36:54+00:00"
   },
   {
-    "id": "tweet_CBSNews_-5634454116797556832",
+    "id": "tweet_CBSNews_-7803093145320115201",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A cardiac cath lab at NewYork-Presbyterian/Columbia is using AI to change the way its doctors are treating patients' hearts.\n\nDr. Ajay Kirtane showed CBS News' Riley Callanan how physicians can now analyze angiogram images with AI.",
     "translated_text": "纽约长老会/哥伦比亚医院的心导管实验室正在使用人工智能来改变医生治疗患者心脏的方式。\n\nAjay Kirtane 博士向哥伦比亚广播公司新闻的 Riley Callanan 展示了医生现在如何使用人工智能分析血管造影图像。",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/-5634454116797556832",
-    "timestamp": "2026-08-19T03:51:01.101026+00:00",
+    "images": [
+      "b56dc425188fa3ed.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-7803093145320115201",
+    "timestamp": "2026-08-19T05:35:10.062475+00:00",
     "original_time": "2026-08-18T20:30:50+00:00"
   },
   {
-    "id": "tweet_CBSNews_4080565411377554640",
+    "id": "tweet_CBSNews_-3091078988404125407",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Former DOJ lawyer alleges Trump administration abused investigative process to target Harvard, Brown and Columbia.",
@@ -273,12 +322,12 @@
     "images": [
       "fba6555089e134db.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/4080565411377554640",
-    "timestamp": "2026-08-19T03:51:01.294567+00:00",
+    "url": "https://x.com/CBSNews/status/-3091078988404125407",
+    "timestamp": "2026-08-19T05:35:10.258473+00:00",
     "original_time": "2026-08-18T20:20:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7205956388077328666",
+    "id": "tweet_CBSNews_-1996567449063203717",
     "type": "tweet",
     "username": "CBSNews",
     "text": "Hayden Panettiere was with on-and-off boyfriend Brian Hickerson when she died, police report says.",
@@ -286,12 +335,12 @@
     "images": [
       "eff4bb8cf6631a15.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7205956388077328666",
-    "timestamp": "2026-08-19T03:51:01.466555+00:00",
+    "url": "https://x.com/CBSNews/status/-1996567449063203717",
+    "timestamp": "2026-08-19T05:35:10.460528+00:00",
     "original_time": "2026-08-18T20:00:56+00:00"
   },
   {
-    "id": "tweet_CBSNews_-486183792004742904",
+    "id": "tweet_CBSNews_-5127017650534294383",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A suspect in a creepy doll mask allegedly threatened and chased at least a half dozen people around Philadelphia City Hall last Wednesday and asked one woman if she was \"ready to die,\" according to police.@LiliaLucianois on her way to the area.",
@@ -299,49 +348,23 @@
     "images": [
       "f258faa1b906c999.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-486183792004742904",
-    "timestamp": "2026-08-19T03:51:01.656562+00:00",
+    "url": "https://x.com/CBSNews/status/-5127017650534294383",
+    "timestamp": "2026-08-19T05:35:10.718568+00:00",
     "original_time": "2026-08-18T19:51:57+00:00"
   },
   {
-    "id": "tweet_CBSNews_5758285442412582671",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "Frank Beard, longtime ZZ Top drummer, has died. He was 77.",
-    "translated_text": "ZZ Top 长期鼓手 Frank Beard 去世。他77岁了。",
-    "images": [
-      "103e4ba4526dc4f2.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/5758285442412582671",
-    "timestamp": "2026-08-19T03:51:01.848295+00:00",
-    "original_time": "2026-08-18T19:50:00+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_1904608789837437222",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "\"At times, she reported she heard a voice, yes,\" Dr. Donald Condie confirmed to Attorney Kevin Reddington on the first full day of defense witness testimony in the Lindsay Clancy trial. Dr. Condie, a psychiatrist, reviewed the medical records in the case and was called to the",
-    "translated_text": "“有时，她报告说她听到了一个声音，是的，”唐纳德·康迪博士在林赛·克兰西审判中辩方证人作证的第一天向律师凯文·雷丁顿证实。精神科医生康迪医生审查了该案的医疗记录，并被叫到医院。",
-    "images": [
-      "6ef1b4178d53a224.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/1904608789837437222",
-    "timestamp": "2026-08-19T03:51:02.021956+00:00",
-    "original_time": "2026-08-18T19:30:00+00:00"
-  },
-  {
-    "id": "tweet_KellieMeyerNews_-3375858715581296767",
+    "id": "tweet_KellieMeyerNews_2786714580703500078",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "NEW: President Trump says he has paused the 50% tariffs against Canada that were scheduled to kick in after midnight.\n\n\"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the",
     "translated_text": "新消息：特朗普总统表示，他已暂停原定于午夜后开始对加拿大征收 50% 的关税。\n\n“我已暂停对加拿大征收 50% 的关税，该关税原定于明天早上开始实施，为期三天，因为加拿大和",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-3375858715581296767",
-    "timestamp": "2026-08-19T03:51:38.250878+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/2786714580703500078",
+    "timestamp": "2026-08-19T05:36:10.843231+00:00",
     "original_time": "2026-08-19T02:18:58+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-3832949803957489533",
+    "id": "tweet_KellieMeyerNews_561629252776785526",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "President Trump reacting to tonight’s primary results.",
@@ -350,12 +373,12 @@
       "417ba361c4d5fc9c.jpg",
       "2a5b16f8291789e0.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/-3832949803957489533",
-    "timestamp": "2026-08-19T03:51:38.492811+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/561629252776785526",
+    "timestamp": "2026-08-19T05:36:11.228587+00:00",
     "original_time": "2026-08-19T01:39:54+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_5110296533685031492",
+    "id": "tweet_KellieMeyerNews_4260783807217760538",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "Sen. Darline Graham: \"I’m not that informed on national security, so — but I do support the military\" when pressed by@gretaon Taiwan and the South China Sea.",
@@ -363,30 +386,30 @@
     "images": [
       "eae7c6680da8e917.jpg"
     ],
-    "url": "https://x.com/KellieMeyerNews/status/5110296533685031492",
-    "timestamp": "2026-08-19T03:51:38.707971+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/4260783807217760538",
+    "timestamp": "2026-08-19T05:36:11.757627+00:00",
     "original_time": "2026-08-19T01:29:56+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-5483310916946514117",
+    "id": "tweet_KellieMeyerNews_4504907783171870090",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "TOMORROW: President Trump delivers remarks with tech leaders tomorrow afternoon at 2:30pm ET in the Roosevelt Room at the White House. The White House press pool will be inside.",
     "translated_text": "明天：美国东部时间明天下午 2:30，特朗普总统在白宫罗斯福厅与科技领袖发表讲话。白宫新闻发布会将在里面。",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-5483310916946514117",
-    "timestamp": "2026-08-19T03:51:38.966547+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/4504907783171870090",
+    "timestamp": "2026-08-19T05:36:12.533619+00:00",
     "original_time": "2026-08-19T01:26:22+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-2782333833748519654",
+    "id": "tweet_KellieMeyerNews_-2334848593728863689",
     "type": "tweet",
     "username": "KellieMeyerNews",
     "text": "TRUMP WEDNESDAY:\n\n8:00am ET: Participates in Executive Time, The White House, Closed Press\n\n11:00am ET: Participates in a Policy Meeting, Oval Office, Closed Press\n\n12:30pm ET: Participates in a Policy Meeting, Oval Office, Closed Press\n\n2:30pm ET: Delivers Remarks with",
-    "translated_text": "特朗普周三：\n\n东部时间上午 8:00：参加行政时间，白宫，新闻闭门\n\n东部时间上午 11:00：参加政策会议，椭圆形办公室，媒体闭门\n\n中午 12:30（东部时间）：参加政策会议，椭圆形办公室，闭门媒体\n\n东部时间下午 2:30：发表评论",
+    "translated_text": "特朗普周三：\n\n东部时间上午 8:00：参加行政会议，白宫，新闻闭门\n\n东部时间上午 11:00：参加政策会议，椭圆形办公室，媒体闭门\n\n中午 12:30（东部时间）：参加政策会议，椭圆形办公室，闭门媒体\n\n东部时间下午 2:30：发表评论",
     "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-2782333833748519654",
-    "timestamp": "2026-08-19T03:51:39.120148+00:00",
+    "url": "https://x.com/KellieMeyerNews/status/-2334848593728863689",
+    "timestamp": "2026-08-19T05:36:13.120906+00:00",
     "original_time": "2026-08-19T01:25:10+00:00"
   }
 ]
