@@ -1,6 +1,25 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_1080436509406953921",
+    "id": "tweet_ForeignOfficePk_2696717015692085497",
+    "type": "tweet",
+    "username": "ForeignOfficePk",
+    "text": "PR No./Syrian Foreign Minister Concludes Official Visit to Pakistan",
+    "translated_text": "PR号/叙利亚外长结束对巴基斯坦的正式访问",
+    "images": [
+      "88f40ae084ace679.svg",
+      "59563c1a40d3d73b.svg",
+      "42c644bbf48e04fc.svg",
+      "6dd70089c15d9c8c.svg",
+      "6927007c5e94b687.svg",
+      "1d7695f51048fca1.svg",
+      "505a4e96e92be5dc.jpg"
+    ],
+    "url": "https://x.com/ForeignOfficePk/status/2696717015692085497",
+    "timestamp": "2026-08-21T19:24:50.347759+00:00",
+    "original_time": "2026-08-21T18:41:25+00:00"
+  },
+  {
+    "id": "tweet_ForeignOfficePk_-5559468047713381167",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50held a meeting today with Malaysian Home Minister H.E. Saifuddin Nasution Ismail at the Ministry of Foreign Affairs, Islamabad.\n\nThe two sides reaffirmed close & brotherly ties between Pak & Malaysia",
@@ -11,12 +30,12 @@
       "b715cfa1759a82e1.jpg",
       "5e2884d3aa692a2b.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/1080436509406953921",
-    "timestamp": "2026-08-21T18:34:35.059320+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-5559468047713381167",
+    "timestamp": "2026-08-21T19:24:50.777411+00:00",
     "original_time": "2026-08-21T14:57:01+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-4667463810390798606",
+    "id": "tweet_ForeignOfficePk_-7207403797013315254",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Joint Statement by Foreign Ministers of Eight Arab-Islamic States",
@@ -32,12 +51,12 @@
       "71ba4821764f7f6b.jpg",
       "6a9afde800cae317.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-4667463810390798606",
-    "timestamp": "2026-08-21T18:34:36.011809+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-7207403797013315254",
+    "timestamp": "2026-08-21T19:24:51.099502+00:00",
     "original_time": "2026-08-21T14:37:23+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_-7015565976290683668",
+    "id": "tweet_ForeignOfficePk_-2218287185725569462",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No./Joint Statement by the Foreign Ministers of Pakistan,  Algeria, Indonesia, Jordan, Lebanon,  Malaysia,  Mauritania,  Palestine, Qatar, Saudi Arabia,  Somalia and Turkiye",
@@ -53,12 +72,12 @@
       "62010f52b61ba1f6.jpg",
       "798f7a4eb3ed9a14.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/-7015565976290683668",
-    "timestamp": "2026-08-21T18:34:36.472132+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-2218287185725569462",
+    "timestamp": "2026-08-21T19:24:51.411519+00:00",
     "original_time": "2026-08-21T14:16:24+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_32086075805609663",
+    "id": "tweet_ForeignOfficePk_1139746708587752930",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "PR No:/Statement by Pakistan on the International Day of Remembrance of and Tribute to Victims of Terrorism (21 August, 2026)",
@@ -74,25 +93,9 @@
       "9078f19997ce0779.jpg",
       "6d9d6dbf45a3d2e6.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/32086075805609663",
-    "timestamp": "2026-08-21T18:34:36.973171+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/1139746708587752930",
+    "timestamp": "2026-08-21T19:24:51.730125+00:00",
     "original_time": "2026-08-21T10:45:40+00:00"
-  },
-  {
-    "id": "tweet_ForeignOfficePk_-2592031986768809837",
-    "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50chaired a meeting today to review Pakistan’s forthcoming high-level diplomatic engagements scheduled in the coming weeks.\n\nDPM/FM underscored key substantive priorities and provided guidance on",
-    "translated_text": "副总理兼外交部长参议员 Mohammad Ishaq Dar@MIshaqDar50 今天主持了一次会议，审查巴基斯坦计划在未来几周内举行的高层外交活动。\n\nDPM/FM 强调了关键的实质性优先事项并提供了指导",
-    "images": [
-      "1e2140ed5258621b.jpg",
-      "4e4345e0616bd120.jpg",
-      "69a4ca19706d96e0.jpg",
-      "5af22773ee7f54c2.jpg"
-    ],
-    "url": "https://x.com/ForeignOfficePk/status/-2592031986768809837",
-    "timestamp": "2026-08-21T18:34:37.475725+00:00",
-    "original_time": "2026-08-21T10:22:48+00:00"
   },
   {
     "id": "tweet_MIshaqDar50_0",
@@ -104,201 +107,137 @@
       "66e2a269d7337f16.jpg"
     ],
     "url": "https://x.com/MIshaqDar50/status/0",
-    "timestamp": "2026-08-21T18:34:54.583543+00:00",
+    "timestamp": "2026-08-21T19:25:08.171265+00:00",
     "original_time": "2026-08-21T16:53:06+00:00"
   },
   {
-    "id": "tweet_PakPMO_-4795585224685317704",
+    "id": "tweet_CMShehbaz_623880616310083841",
     "type": "tweet",
-    "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif witnessed the signing of the Agreement on the Transfer of Sentenced Persons between Pakistan and Malaysia, signed by the Home Minister of Malaysia H.E. Dato' Seri Saifuddin Nasution Ismail and Interior Minister Syed Mohsin Raza Naqvi.",
-    "translated_text": "总理穆罕默德·谢赫巴兹·谢里夫见证了由马来西亚内政部长 H.E. 签署的《巴基斯坦和马来西亚之间被判刑人员移管协议》的签署。拿督斯里赛夫丁纳苏蒂安伊斯梅尔和内政部长赛莫辛拉扎纳克维。",
-    "images": [
-      "7ac1bab39834e3e6.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-4795585224685317704",
-    "timestamp": "2026-08-21T18:35:48.805595+00:00",
-    "original_time": "2026-08-21T16:10:47+00:00"
+    "username": "CMShehbaz",
+    "text": "I was pleased to speak with my dear brother, Prime Minister Dato’ Seri Anwar Ibrahim, earlier this evening. I inquired regarding his health and wished him a swift and complete recovery.\n\nWe expressed satisfaction over the positive trajectory of Pakistan–Malaysia relations and",
+    "translated_text": "我很高兴今晚早些时候与我亲爱的兄弟、总理拿督斯里安瓦尔易卜拉欣交谈。我询问了他的健康状况，并祝愿他早日康复。\n\n我们对巴马关系的积极发展轨迹表示满意",
+    "images": [],
+    "url": "https://x.com/CMShehbaz/status/623880616310083841",
+    "timestamp": "2026-08-21T19:25:23.747376+00:00",
+    "original_time": "2026-08-21T15:21:40+00:00"
   },
   {
-    "id": "tweet_PakPMO_-3587738159213209993",
+    "id": "tweet_PakTVGlobal_8325993206275987706",
     "type": "tweet",
-    "username": "PakPMO",
-    "text": "H.E. Dato' Seri Saifuddin Nasution Ismail, Minister of Home Affairs of Malaysia, calls on Prime Minister Muhammad Shehbaz Sharif at the Prime Minister House. Islamabad, 21 August 2026.",
-    "translated_text": "他。马来西亚内政部长拿督斯里赛夫丁纳苏蒂安伊斯梅尔在总理府拜会总理穆罕默德谢赫巴兹谢里夫。伊斯兰堡，2026 年 8 月 21 日。",
-    "images": [
-      "2d1e04c4a9696f6b.jpg",
-      "6db5b7715008d931.jpg",
-      "56898552401736f3.jpg",
-      "0fe3bcb4128e1381.jpg"
-    ],
-    "url": "https://x.com/PakPMO/status/-3587738159213209993",
-    "timestamp": "2026-08-21T18:35:50.046439+00:00",
-    "original_time": "2026-08-21T16:08:47+00:00"
+    "username": "PakTVGlobal",
+    "text": "Israel is more than a spoiler; it is the source of instability in large parts of the region, including Gaza, the West Bank, Jerusalem, Lebanon and Syria, as well as through its role in the war against Iran. This is expected to continue until the outcome of Israel’s elections in",
+    "translated_text": "以色列不仅仅是一个破坏者，更是一个破坏者。它是该地区大部分地区（包括加沙、约旦河西岸、耶路撒冷、黎巴嫩和叙利亚）不稳定的根源，也是其在针对伊朗的战争中所扮演的角色。预计这种情况将持续到以色列选举结果出来为止",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/8325993206275987706",
+    "timestamp": "2026-08-21T19:26:34.989998+00:00",
+    "original_time": "2026-08-21T19:22:43+00:00"
   },
   {
-    "id": "tweet_PakPMO_3962176475106489523",
+    "id": "tweet_PakTVGlobal_-6992141639558143791",
     "type": "tweet",
-    "username": "PakPMO",
-    "text": "Islamabad: 21 August 2026. \n\nH.E. Dato' Seri Saifuddin Nasution Ismail, Minister of Home Affairs of Malaysia, called on Prime Minister Muhammad Shehbaz Sharif at the Prime Minister House, Islamabad, this afternoon.\n\nWelcoming the Malaysian Home Minister, the Prime Minister",
-    "translated_text": "伊斯兰堡：2026 年 8 月 21 日。 \n\n阁下马来西亚内政部长拿督斯里赛夫丁纳苏蒂安伊斯梅尔今天下午在伊斯兰堡总理府拜会总理穆罕默德谢赫巴兹谢里夫。\n\n欢迎马来西亚内政部长、总理",
+    "username": "PakTVGlobal",
+    "text": "There’s a huge debate going on in Iran’s elite power circles. Iranian President Masoud Pezeshkian and Parliament Speaker Mohammad Bagher Ghalibaf are saying the U.S. sanctions and maximum economic pressure will be really tough on the people, but Iran should cash in on the",
+    "translated_text": "伊朗精英权力圈内正在进行一场激烈的争论。伊朗总统马苏德·佩泽什基安和议会议长穆罕默德·巴格尔·加利巴夫表示，美国的制裁和最大经济压力对人民来说确实很严厉，但伊朗应该从中获利。",
     "images": [
-      "8687a80cfa895e41.jpg"
+      "519b08be6faccbf6.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/3962176475106489523",
-    "timestamp": "2026-08-21T18:35:50.706343+00:00",
-    "original_time": "2026-08-21T16:00:09+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-6992141639558143791",
+    "timestamp": "2026-08-21T19:26:35.441563+00:00",
+    "original_time": "2026-08-21T19:13:24+00:00"
   },
   {
-    "id": "tweet_PakPMO_7578608375632495440",
+    "id": "tweet_PakTVGlobal_5366733722238065046",
     "type": "tweet",
-    "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif giving reponses to the participant's questions at the Balochistan National Workshop in Islamabad on 21 August 2026.",
-    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理于 2026 年 8 月 21 日在伊斯兰堡举行的俾路支省国家研讨会上回答与会者的问题。",
+    "username": "PakTVGlobal",
+    "text": "Google is one of the world’s top companies and a pioneer of many models. Google's Gemini was the most searched item in Pakistan over the last year, after ranking fifth the year before. Opening an office in Pakistan is a very good development for the country’s youth: Dr. Yasar",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "234e6c02fc8fd398.jpg",
-      "85fd04437c8cd5f8.jpg"
+      "73894253de3921b3.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/7578608375632495440",
-    "timestamp": "2026-08-21T18:35:51.680474+00:00",
-    "original_time": "2026-08-21T15:27:00+00:00"
+    "url": "https://x.com/PakTVGlobal/status/5366733722238065046",
+    "timestamp": "2026-08-21T19:26:35.646696+00:00",
+    "original_time": "2026-08-21T18:54:36+00:00"
   },
   {
-    "id": "tweet_PakPMO_-5292451201271074874",
+    "id": "tweet_PakTVGlobal_1506395535907034118",
     "type": "tweet",
-    "username": "PakPMO",
-    "text": "Prime Minister Muhammad Shehbaz Sharif addresses the Balochistan National Workshop in Islamabad on 21 August 2026.",
-    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理于 2026 年 8 月 21 日在伊斯兰堡举行的俾路支省国家研讨会上发表讲话。",
+    "username": "PakTVGlobal",
+    "text": "The Ministry of IT and Ministry of Planning have worked on this, while HEC has introduced several MS and PhD programs to educate Pakistani youth in this field. The National Centre of AI also offers fast-track training programs for senior professionals, developers and others.",
+    "translated_text": "IT部和规划部已在这方面开展了工作，而HEC也推出了多个硕士和博士课程来教育巴基斯坦年轻人在这一领域的教育。国家人工智能中心还为高级专业人员、开发人员和其他人员提供快速培训计划。",
     "images": [
-      "ae07a87dd00daee4.jpg",
-      "4a2f729e38620321.jpg",
-      "73246bbf6bc72998.jpg",
-      "647f116ff7f8941e.jpg"
+      "c4c7f3fd66e20517.jpg"
     ],
-    "url": "https://x.com/PakPMO/status/-5292451201271074874",
-    "timestamp": "2026-08-21T18:35:52.601148+00:00",
-    "original_time": "2026-08-21T15:26:13+00:00"
+    "url": "https://x.com/PakTVGlobal/status/1506395535907034118",
+    "timestamp": "2026-08-21T19:26:35.983992+00:00",
+    "original_time": "2026-08-21T18:48:37+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5901373726012804005",
+    "id": "tweet_PakTVGlobal_2378509891686551628",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "India and Israel are investing heavily in Afghanistan through proxies such as the TTP and BLA to create unrest in Balochistan, primarily because Pakistan chose to join China’s Belt and Road Initiative through CPEC:  Air Marshal (Retd) Saeed, defence analyst#Pakistan",
     "translated_text": "印度和以色列正在通过 TTP 和 BLA 等代理人在阿富汗进行大量投资，以在俾路支省制造骚乱，这主要是因为巴基斯坦选择通过 CPEC 加入中国的“一带一路”倡议：空军元帅（退役）赛义德，国防分析师#巴基斯坦",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-5901373726012804005",
-    "timestamp": "2026-08-21T18:36:51.153262+00:00",
+    "images": [
+      "c100dda70efa36c9.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/2378509891686551628",
+    "timestamp": "2026-08-21T19:26:36.582380+00:00",
     "original_time": "2026-08-21T18:34:09+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5559716001008424935",
+    "id": "tweet_PakTVGlobal_4114608360253584511",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Rich in natural resources and strategically located between Europe and Asia, Kazakhstan is emerging as a key hub for energy, connectivity and diplomacy, earning Astana the nickname “Geneva of Eurasia.” At a CFive-Hudson Institute roundtable, experts highlighted Kazakhstan’s",
-    "translated_text": "哈萨克斯坦自然资源丰富，地处欧洲和亚洲之间，地理位置优越，正在成为能源、互联互通和外交的重要枢纽，阿斯塔纳因此被誉为“欧亚大陆的日内瓦”。在 CFive-哈德逊研究所圆桌会议上，专家们强调了哈萨克斯坦的",
+    "text": "The Ebola outbreak in the Democratic Republic of Congo has killed more than 2,500 people and is “growing exponentially,” according to a senior UN coordinator. Half of the deaths were recorded in the last 20 days as the country battles its largest Ebola outbreak on record.#DRC",
+    "translated_text": "联合国高级协调员表示，刚果民主共和国爆发的埃博拉疫情已造成 2500 多人死亡，而且疫情正在“呈指数级增长”。一半的死亡病例发生在过去 20 天内，该国正与有记录以来最大规模的埃博拉疫情作斗争。#DRC",
     "images": [
-      "493a5ae64936cdd0.jpg"
+      "fdca90e4d50b8979.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-5559716001008424935",
-    "timestamp": "2026-08-21T18:36:52.442855+00:00",
-    "original_time": "2026-08-21T18:14:25+00:00"
+    "url": "https://x.com/PakTVGlobal/status/4114608360253584511",
+    "timestamp": "2026-08-21T19:26:38.832093+00:00",
+    "original_time": "2026-08-21T12:59:54+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5023858916556774733",
+    "id": "tweet_PakTVGlobal_-2373634589864032528",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Pakistan TV and the Alpine Club of Pakistan have signed an MoU in Islamabad to strengthen cooperation in promoting Pakistan’s mountains, mountaineering potential and adventure tourism. Under the partnership, Pakistan TV will leverage its national, international and digital",
-    "translated_text": "巴基斯坦电视台和巴基斯坦高山俱乐部在伊斯兰堡签署了一份谅解备忘录，以加强在推广巴基斯坦山区、登山潜力和探险旅游方面的合作。根据合作伙伴关系，巴基斯坦电视台将利用其国内、国际和数字媒体资源",
+    "text": "In a landmark partnership, Pakistan TV and the Alpine Club of Pakistan have signed an MoU to showcase the country’s mountain heritage, mountaineers and northern adventure-tourism potential to audiences worldwide.@adilshahzeb@AlpinePakistan#AlpineClubPakistan",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "e0e3b3b46966c3be.jpg"
+      "b2e23e25adb97f37.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-5023858916556774733",
-    "timestamp": "2026-08-21T18:36:53.546645+00:00",
-    "original_time": "2026-08-21T17:30:14+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-2373634589864032528",
+    "timestamp": "2026-08-21T19:26:39.025929+00:00",
+    "original_time": "2026-08-21T12:54:53+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6243021674641933941",
+    "id": "tweet_PakTVGlobal_-6728581070748325273",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "TRT World Executive Producer Mubashir Zaidi, speaking from Istanbul, says renewed US sanctions are unlikely to force Iran to change course, adding that decades of economic pressure have failed to achieve Washington’s objectives. He says opposition from China and Russia along with",
-    "translated_text": "TRT World 执行制片人穆巴希尔·扎伊迪 (Mubashir Zaidi) 在伊斯坦布尔发表讲话时表示，美国的新制裁不太可能迫使伊朗改变路线，并补充说，数十年的经济压力未能实现华盛顿的目标。他说，中国和俄罗斯都反对",
+    "text": "US President Donald Trump announces temporary tariff relief on ground beef imports, allowing up to 300,000 metric tons to enter the United States tariff-free over the next 90 days in an effort to lower prices for American consumers.#Trump#GroundBeef#USImports#FoodPrices",
+    "translated_text": "美国总统唐纳德·特朗普宣布暂时减免碎牛肉进口关税，在未来 90 天内允许最多 30 万吨免关税进入美国，以降低美国消费者的价格。#Trump#GroundBeef#USImports#FoodPrices",
     "images": [
-      "b22d8890fce2f5ec.jpg"
+      "aeb5f9cb81534961.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6243021674641933941",
-    "timestamp": "2026-08-21T18:36:53.822682+00:00",
-    "original_time": "2026-08-21T17:26:59+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-6728581070748325273",
+    "timestamp": "2026-08-21T19:26:39.239428+00:00",
+    "original_time": "2026-08-21T12:49:32+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-3736600652192391758",
+    "id": "tweet_PakTVGlobal_2974266438697660750",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Pakistan isn’t just looking to use the next generation of technology, it wants to build, export and compete with it. A new Google-Pakistan MoU targets digital skills, AI, startups, digital payments and stronger IT exports with plans for 150,000 Google Career Certificates and an",
-    "translated_text": "巴基斯坦不仅希望使用下一代技术，还希望建造、出口并与之竞争。新的 Google-巴基斯坦谅解备忘录针对数字技能、人工智能、初创公司、数字支付和更强的 IT 出口，计划颁发 150,000 个 Google 职业证书和",
+    "text": "Test cricket continues to produce moments of rare significance.\nAt Headingley, Ollie Robinson and Josh Tongue both claimed five-wicket hauls, before splitting the match ball between them. A unique piece of cricket history for both bowlers to keep.#TestCricket#EnglandCricket",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "b65948be5f5bc3fa.jpg"
+      "914b0b12bf2d823f.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-3736600652192391758",
-    "timestamp": "2026-08-21T18:36:54.103268+00:00",
-    "original_time": "2026-08-21T17:21:43+00:00"
+    "url": "https://x.com/PakTVGlobal/status/2974266438697660750",
+    "timestamp": "2026-08-21T19:26:39.442983+00:00",
+    "original_time": "2026-08-21T12:26:25+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2383050070709821879",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Prime Minister Shehbaz Sharif addresses the Balochistan National Workshop, saying the Baloch people are known for their bravery, hospitality and rich traditions. He says the purpose of dialogue is to listen to the people of Balochistan and stresses that the province’s issues must",
-    "translated_text": "谢赫巴兹·谢里夫总理在俾路支国家研讨会上发表讲话，表示俾路支人民以勇敢、热情好客和丰富的传统而闻名。他说对话的目的是倾听俾路支省人民的声音，并强调该省的问题必须得到解决",
-    "images": [
-      "970ef15988fb42a2.jpg",
-      "50ebfe9149e51c2d.jpg",
-      "cd64d7919dd219ca.jpg",
-      "b1fed0f9a98a57b2.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/2383050070709821879",
-    "timestamp": "2026-08-21T18:36:58.425193+00:00",
-    "original_time": "2026-08-21T12:20:23+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-7324401784595907993",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Google’s first local office in Pakistan could open doors far beyond the tech sector. From investing in Pakistani talent and expanding AI skills to locally assembled Chromebooks with export potential, the partnership signals growing opportunities for the country’s digital economy.",
-    "translated_text": "谷歌在巴基斯坦的第一个当地办事处可能会打开远远超出科技行业的大门。从投资巴基斯坦人才、扩大人工智能技能到本地组装具有出口潜力的 Chromebook，此次合作标志着该国数字经济面临着越来越多的机遇。",
-    "images": [
-      "3866ea305040f73c.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-7324401784595907993",
-    "timestamp": "2026-08-21T18:36:58.761515+00:00",
-    "original_time": "2026-08-21T12:03:56+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_-6514627417739653174",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar chaired a meeting to review Pakistan’s forthcoming high-level diplomatic engagements in the coming weeks. He outlined key priorities, provided guidance on advancing Pakistan’s diplomatic objectives, and",
-    "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔主持了一次会议，回顾巴基斯坦未来几周即将举行的高层外交活动。他概述了关键优先事项，为推进巴基斯坦的外交目标提供了指导，并",
-    "images": [
-      "f1e461dd4489fa54.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6514627417739653174",
-    "timestamp": "2026-08-21T18:36:59.093844+00:00",
-    "original_time": "2026-08-21T11:18:34+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_8375114197270847045",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Digital rights expert Asad Baig welcomed Google’s growing engagement in Pakistan, calling it a “big step in the right direction.” He highlighted initiatives including professional certificates, an AI Center of Excellence in Islamabad and the Software Expo, while stressing that",
-    "translated_text": "数字版权专家阿萨德·拜格 (Asad Baig) 对谷歌在巴基斯坦日益增多的参与表示欢迎，称其为“朝着正确方向迈出的一大步”。他强调了包括专业证书、伊斯兰堡人工智能卓越中心和软件博览会在内的举措，同时强调",
-    "images": [
-      "6198dcdf361172eb.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8375114197270847045",
-    "timestamp": "2026-08-21T18:36:59.401066+00:00",
-    "original_time": "2026-08-21T11:02:56+00:00"
-  },
-  {
-    "id": "tweet_araghchi_8996134842114754042",
+    "id": "tweet_araghchi_2711209682886505435",
     "type": "tweet",
     "username": "araghchi",
     "text": "14 years ago: “Most crippling sanctions in history.” Failed.\n\n8 years ago: “Maximum pressure.” Failed.\n\n5 months ago: “Unconditional surrender.” Failed.\n\nToday: “Most crushing economic operation ever.” Bound to fail.\n\nWe have seen this movie before. Same bull. Different bullies.",
@@ -306,12 +245,12 @@
     "images": [
       "9df30a0b91c4f3af.jpg"
     ],
-    "url": "https://x.com/araghchi/status/8996134842114754042",
-    "timestamp": "2026-08-21T18:37:46.166927+00:00",
+    "url": "https://x.com/araghchi/status/2711209682886505435",
+    "timestamp": "2026-08-21T19:27:21.336535+00:00",
     "original_time": "2026-08-21T15:18:58+00:00"
   },
   {
-    "id": "tweet_IRIMFA_3656343618505543950",
+    "id": "tweet_IRIMFA_-4699759085270216101",
     "type": "tweet",
     "username": "IRIMFA",
     "text": "14 years ago: \"The most paralyzing sanctions in history.\" Failed.\n\n8 years ago: \"Maximum pressure.\" Failed.\n\n5 months ago: \"Unconditional surrender.\" Failed.\n\nToday: \"The most backbreaking economic operation in history.\" This one is doomed to fail too.\n\nWe've seen this movie",
@@ -319,12 +258,12 @@
     "images": [
       "9df30a0b91c4f3af.jpg"
     ],
-    "url": "https://x.com/IRIMFA/status/3656343618505543950",
-    "timestamp": "2026-08-21T18:38:01.908159+00:00",
+    "url": "https://x.com/IRIMFA/status/-4699759085270216101",
+    "timestamp": "2026-08-21T19:27:35.381230+00:00",
     "original_time": "2026-08-21T18:30:01+00:00"
   },
   {
-    "id": "tweet_JenniferJJacobs_-7141660917978381408",
+    "id": "tweet_JenniferJJacobs_-4775490950064680541",
     "type": "tweet",
     "username": "JenniferJJacobs",
     "text": "Pentagon has given separation notices to both the publisher and the editor in chief of Stars and Stripes, the U.S. military news outlet partly funded by American taxpayers, according to sources familiar with the matter. The notices, delivered Friday, gave publisher Max Lederer",
@@ -332,119 +271,230 @@
     "images": [
       "354c075a56a30b7e.jpg"
     ],
-    "url": "https://x.com/JenniferJJacobs/status/-7141660917978381408",
-    "timestamp": "2026-08-21T18:40:21.067319+00:00",
+    "url": "https://x.com/JenniferJJacobs/status/-4775490950064680541",
+    "timestamp": "2026-08-21T19:29:53.753783+00:00",
     "original_time": "2026-08-21T18:30:13+00:00"
   },
   {
-    "id": "article_82dd6576f102",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "People of Balochistan will have first right to province’s wealth: PM Shehbaz",
-    "translated_title": "俾路支省人民将拥有获得该省财富的优先权：总理谢巴兹",
-    "url": "https://www.dawn.com/news/2024362/people-of-balochistan-will-have-first-right-to-provinces-wealth-pm-shehbaz",
-    "timestamp": "2026-08-21T18:42:40.052691+00:00",
-    "original_time": "2026-08-21T19:02:08+05:00"
+    "id": "tweet_JenniferJJacobs_3444481258817948540",
+    "type": "tweet",
+    "username": "JenniferJJacobs",
+    "text": "1st on@CBSNews",
+    "translated_text": "第一@CBS新闻",
+    "images": [
+      "354c075a56a30b7e.jpg"
+    ],
+    "url": "https://x.com/JenniferJJacobs/status/3444481258817948540",
+    "timestamp": "2026-08-21T19:29:54.062148+00:00",
+    "original_time": "2026-08-21T18:55:35+00:00"
   },
   {
-    "id": "article_1346a55a6c27",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt says shifting Imran to Pims instead of Shifa a ‘security decision’, insists move not political",
-    "translated_title": "政府表示将伊姆兰转移到皮姆斯而不是希法是一个“安全决定”，坚称此举不是政治性的",
-    "url": "https://www.dawn.com/news/2024378/govt-says-shifting-imran-to-pims-instead-of-shifa-a-security-decision-insists-move-not-political",
-    "timestamp": "2026-08-21T18:42:44.293760+00:00",
-    "original_time": "2026-08-21T21:04:53+05:00"
+    "id": "tweet_geonews_urdu_5603174799501558542",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Geo News was the first to highlight the key questions raised by Mir Reza's mysterious death...\nWe will keep asking questions, keep bringing facts to light,\n\nEverywhere, every time — Geo News first!",
+    "translated_text": "《地理新闻》率先强调了米尔·雷扎神秘死亡引发的关键问题……\n我们将不断提出问题，不断揭露事实，\n\n无处不在，每次——地理新闻第一！",
+    "images": [
+      "e7b8c38502b536b5.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/5603174799501558542",
+    "timestamp": "2026-08-21T19:31:15.143610+00:00",
+    "original_time": "2026-08-21T18:27:28+00:00"
   },
   {
-    "id": "article_4d6a0aa75ac9",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Turkiye issues 'genocide' warrant for Israel's Netanyahu",
-    "translated_title": "土耳其向以色列内塔尼亚胡发出“种族灭绝”逮捕令",
-    "url": "https://www.dawn.com/news/2024364/turkiye-issues-genocide-warrant-for-israels-netanyahu",
-    "timestamp": "2026-08-21T18:43:54.000622+00:00",
-    "original_time": "2026-08-21T18:38:42+05:00"
+    "id": "tweet_geonews_urdu_4914356836543122019",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The Prime Minister says, \"Come, let's talk; applause is made with two hands,\" but here there is one hand that is slapping the nation: Maulana Fazlur Rehman",
+    "translated_text": "总理说，“来吧，让我们谈谈；掌声是用两只手发出的”，但这里有一只手在拍打国家：Maulana Fazlur Rehman",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/4914356836543122019",
+    "timestamp": "2026-08-21T19:31:15.786708+00:00",
+    "original_time": "2026-08-21T18:20:57+00:00"
   },
   {
-    "id": "article_b94a8c92ddf0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Students to get free access to Google's AI tools for a year as Pakistan, tech giant ink agreement",
-    "translated_title": "巴基斯坦与科技巨头签署协议，学生将免费使用谷歌人工智能工具一年",
-    "url": "https://www.dawn.com/news/2024318/students-to-get-free-access-to-googles-ai-tools-for-a-year-as-pakistan-tech-giant-ink-agreement",
-    "timestamp": "2026-08-21T18:44:24.473090+00:00",
-    "original_time": "2026-08-21T11:56:45+05:00"
+    "id": "tweet_geonews_urdu_3846972105450040099",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Don't miss out on laughing tonight at 11:05 with Ali Ammar, only on Geo News...",
+    "translated_text": "不要错过今晚 11:05 与阿里·阿马尔 (Ali Ammar) 一起开怀大笑，仅限 Geo News...",
+    "images": [
+      "84241cfef9b2e797.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/3846972105450040099",
+    "timestamp": "2026-08-21T19:31:16.314181+00:00",
+    "original_time": "2026-08-21T18:00:01+00:00"
   },
   {
-    "id": "article_d53d93ff0eb6",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistan, seven other Muslim states condemn Israel’s illegal settlement policies in occupied Palestinian territory",
-    "translated_title": "巴基斯坦和其他七个穆斯林国家谴责以色列在巴勒斯坦被占领土上的非法定居点政策",
-    "url": "https://www.dawn.com/news/2024377/pakistan-seven-other-muslim-states-condemn-israels-illegal-settlement-policies-in-occupied-palestinian-territory",
-    "timestamp": "2026-08-21T18:44:43.191154+00:00",
-    "original_time": "2026-08-21T20:48:29+05:00"
+    "id": "tweet_geonews_urdu_-7910905389118738817",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The government has further increased the prices of petrol and diesel",
+    "translated_text": "政府进一步提高汽油和柴油价格",
+    "images": [
+      "7ce67becc0235fd3.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7910905389118738817",
+    "timestamp": "2026-08-21T19:31:16.935085+00:00",
+    "original_time": "2026-08-21T17:59:34+00:00"
   },
   {
-    "id": "article_6b188fd56ed7",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "NA speaker urges govt, opposition to sit together on CEC appointment for political stability",
-    "translated_title": "国会发言人敦促政府和反对派就中央选举委员会的任命进行磋商，以确保政治稳定",
-    "url": "https://www.dawn.com/news/2024350/na-speaker-urges-govt-opposition-to-sit-together-on-cec-appointment-for-political-stability",
-    "timestamp": "2026-08-21T18:45:15.246130+00:00",
-    "original_time": "2026-08-21T17:34:42+05:00"
+    "id": "tweet_geonews_urdu_-4795380614261947029",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The government claims that the decision to take Imran Khan to PIMS instead of Shifa was sudden. However, our sources informed us at 12:47 AM last night that preparations to bring Imran Khan to PIMS were complete.\n\nIf there were obstacles outside Shifa, then how did Dr. Faisal",
+    "translated_text": "政府声称，将伊姆兰·汗带到PIMS而不是希法的决定是突然的。然而，我们的消息来源于昨晚 12:47 告诉我们，将伊姆兰·汗带到 PIMS 的准备工作已经完成。\n\n如果希法之外有障碍，那么费萨尔博士怎么办？",
+    "images": [
+      "5f7a42f89d7b3a50.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-4795380614261947029",
+    "timestamp": "2026-08-21T19:31:17.491210+00:00",
+    "original_time": "2026-08-21T17:58:26+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-988465698305729233",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Imran Khan's hospital check-up deal happened as a result. The rumors that circulated through YouTubers led to this outcome—it's only shown returning after the check-up that if relief is being given, a return is also possible. Fakhar Durani@FrehmanD",
+    "translated_text": "伊姆兰·汗的医院检查交易就这样发生了。 YouTuber上流传的谣言导致了这个结果——检查后才显示返回，如果给予缓解，也有可能返回。 Fakhar Durani@FrehmanD",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/-988465698305729233",
+    "timestamp": "2026-08-21T19:31:19.674111+00:00",
+    "original_time": "2026-08-21T15:52:46+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-7846971185509223503",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Those who were saying a deal has been made with PTI should now rest easy. The government is reluctant to allow Imran Khan an independent medical check-up. It has defied the court order, Arshad Bhatti@IrshadBhatti336",
+    "translated_text": "那些声称已与 PTI 达成协议的人现在应该高枕无忧了。政府不愿意让伊姆兰·汗接受独立体检。它违反了法院命令，Arshad Bhatti@IrshadBhatti336",
+    "images": [
+      "aba1f3ecbe67b820.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-7846971185509223503",
+    "timestamp": "2026-08-21T19:31:20.192889+00:00",
+    "original_time": "2026-08-21T15:52:29+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-2686844803170149208",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "All eyes are focused on the Asian Games, Sufyan Khan",
+    "translated_text": "所有目光都聚焦亚运会，苏菲扬·汗",
+    "images": [
+      "afae5ffdccd726a5.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-2686844803170149208",
+    "timestamp": "2026-08-21T19:31:20.731496+00:00",
+    "original_time": "2026-08-21T15:23:24+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-2181493584176689359",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Don't get discouraged, we will perform well in the future, Imad Butt",
+    "translated_text": "不要灰心，我们将来会表现得很好，Imad Butt",
+    "images": [
+      "37da2f5cc844bb48.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-2181493584176689359",
+    "timestamp": "2026-08-21T19:31:21.089718+00:00",
+    "original_time": "2026-08-21T15:23:18+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-1898436961025321115",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "The Pakistan Hockey Federation will have to make the right decisions, says Taiba Ikram",
+    "translated_text": "泰巴·伊克拉姆表示，巴基斯坦曲棍球联合会必须做出正确的决定",
+    "images": [
+      "57156714d645afe4.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-1898436961025321115",
+    "timestamp": "2026-08-21T19:31:21.653030+00:00",
+    "original_time": "2026-08-21T15:23:13+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-902002010098537637",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Pakistan-India federations are also in agreement for the matches of both countries, Tayyab Ikram",
+    "translated_text": "塔亚布·伊克拉姆 (Tayyab Ikram) 表示，巴基斯坦-印度联合会也就两国的比赛达成一致",
+    "images": [
+      "d662bb918f300f2f.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-902002010098537637",
+    "timestamp": "2026-08-21T19:31:21.971473+00:00",
+    "original_time": "2026-08-21T15:23:07+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_3349604138604151714",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Nations are working on the top two, Tayyab Ikram",
+    "translated_text": "各国正在努力争取前两名，Tayyab Ikram",
+    "images": [
+      "dce63a5ab2159e83.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/3349604138604151714",
+    "timestamp": "2026-08-21T19:31:22.305350+00:00",
+    "original_time": "2026-08-21T15:23:01+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-5212979020781131956",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Obtained coaching analysis right here in Pakistan, Tayyab Ikram",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "images": [
+      "8f87f4207f66baf7.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-5212979020781131956",
+    "timestamp": "2026-08-21T19:31:22.533901+00:00",
+    "original_time": "2026-08-21T15:22:55+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_-4500181949687599551",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Hearing in Peshawar High Court on the contempt of court petition against Provincial Minister Mina Khan for including her name in the PCL",
+    "translated_text": "白沙瓦高等法院就针对省部长米娜·汗 (Mina Khan) 的名字列入 PCL 的藐视法庭请愿书举行听证会",
+    "images": [
+      "7035e496b26a1c4d.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-4500181949687599551",
+    "timestamp": "2026-08-21T19:31:25.165659+00:00",
+    "original_time": "2026-08-21T11:10:53+00:00"
   },
   {
     "id": "article_1dac2f84bd5c",
     "type": "article",
     "source": "www.dawn.com",
     "title": "Nadra makes Proof of Life certificate free for pensioners, expands access points",
-    "translated_title": "纳德拉为养老金领取者免费提供生命证明证书，并扩大了接入点",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.dawn.com/news/2024341/nadra-makes-proof-of-life-certificate-free-for-pensioners-expands-access-points",
-    "timestamp": "2026-08-21T18:45:32.319788+00:00",
+    "timestamp": "2026-08-21T19:34:23.180954+00:00",
     "original_time": "2026-08-21T16:39:02+05:00"
   },
   {
-    "id": "article_023d4d3ab76f",
+    "id": "article_739cee4aec7a",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "'An unprecedented event': UK Met Office says this year's El Niño to be 'biggest for over a century'",
-    "translated_title": "“前所未有的事件”：英国气象局表示，今年的厄尔尼诺现象将是“一个多世纪以来最严重的”",
-    "url": "https://www.dawn.com/news/2024333/an-unprecedented-event-uk-met-office-says-this-years-el-nino-to-be-biggest-for-over-a-century",
-    "timestamp": "2026-08-21T18:45:47.900537+00:00",
-    "original_time": "2026-08-21T14:21:08+05:00"
+    "title": "Govt hikes petrol price by Rs3.81, high-speed diesel by Rs3.59",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2024389/govt-hikes-petrol-price-by-rs381-high-speed-diesel-by-rs359",
+    "timestamp": "2026-08-21T19:34:29.670034+00:00",
+    "original_time": "2026-08-21T22:57:31+05:00"
   },
   {
-    "id": "article_341ea28d67fa",
+    "id": "article_021a971547cc",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Top India court orders new steps to protect threatened elephants",
-    "translated_title": "印度最高法院下令采取新措施保护受威胁的大象",
-    "url": "https://www.dawn.com/news/2024331/top-india-court-orders-new-steps-to-protect-threatened-elephants",
-    "timestamp": "2026-08-21T18:46:04.855924+00:00",
-    "original_time": "2026-08-21T14:07:36+05:00"
-  },
-  {
-    "id": "article_e7ab3e41a071",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "49 terrorists killed in IBOs in KP, Balochistan: ISPR",
-    "translated_title": "ISPR：俾路支省 KP 的 IBO 中有 49 名恐怖分子被杀",
-    "url": "https://www.dawn.com/news/2024356/49-terrorists-killed-in-ibos-in-kp-balochistan-ispr",
-    "timestamp": "2026-08-21T18:46:08.898768+00:00",
-    "original_time": "2026-08-21T17:29:36+05:00"
-  },
-  {
-    "id": "article_b13c336526f2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Fresh spell of rain, thunderstorms forecast across Punjab, KP from Aug 21 to 23",
-    "translated_title": "8月21日至23日，堪培拉省旁遮普省将迎来新一轮降雨和雷暴",
-    "url": "https://www.dawn.com/news/2024355/fresh-spell-of-rain-thunderstorms-forecast-across-punjab-kp-from-aug-21-to-23",
-    "timestamp": "2026-08-21T18:46:20.614622+00:00",
-    "original_time": "2026-08-21T18:21:42+05:00"
+    "title": "Supreme Court lets Trump continue work on White House ballroom for now",
+    "translated_title": "最高法院允许特朗普暂时继续在白宫舞厅工作",
+    "url": "https://www.dawn.com/news/2024392/supreme-court-lets-trump-continue-work-on-white-house-ballroom-for-now",
+    "timestamp": "2026-08-21T19:34:39.620129+00:00",
+    "original_time": "2026-08-21T23:58:02+05:00"
   },
   {
     "id": "article_b900b5aabbe7",
@@ -453,98 +503,8 @@
     "title": "Aisha Wahab makes history as first Afghan American elected to US Congress",
     "translated_title": "艾莎·瓦哈卜 (Aisha Wahab) 创造历史，成为首位当选美国国会议员的阿富汗裔美国人",
     "url": "https://www.dawn.com/news/2024327/aisha-wahab-makes-history-as-first-afghan-american-elected-to-us-congress",
-    "timestamp": "2026-08-21T18:46:39.897645+00:00",
+    "timestamp": "2026-08-21T19:34:51.557389+00:00",
     "original_time": "2026-08-21T13:27:44+05:00"
-  },
-  {
-    "id": "article_34398e23e693",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Body of US climber who died in Broad Peak avalanche found",
-    "translated_title": "在布洛阿特峰雪崩中丧生的美国登山者遗体被发现",
-    "url": "https://www.dawn.com/news/2024322/body-of-us-climber-who-died-in-broad-peak-avalanche-found",
-    "timestamp": "2026-08-21T18:47:17.557710+00:00",
-    "original_time": "2026-08-21T13:06:12+05:00"
-  },
-  {
-    "id": "article_d1712fc9c3bb",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Iran president says time to end war while in position of strength",
-    "translated_title": "伊朗总统表示，在实力雄厚的情况下是时候结束战争了",
-    "url": "https://www.dawn.com/news/2024360/iran-president-says-time-to-end-war-while-in-position-of-strength",
-    "timestamp": "2026-08-21T18:47:49.110082+00:00",
-    "original_time": "2026-08-21T19:08:17+05:00"
-  },
-  {
-    "id": "article_5adbdfe6033a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt announces public holiday on Aug 26 for Eid Miladun Nabi",
-    "translated_title": "政府宣布8月26日为开斋节公众假期",
-    "url": "https://www.dawn.com/news/2024337/govt-announces-public-holiday-on-aug-26-for-eid-miladun-nabi",
-    "timestamp": "2026-08-21T18:48:43.283380+00:00",
-    "original_time": "2026-08-21T14:46:07+05:00"
-  },
-  {
-    "id": "article_739cee4aec7a",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt hikes petrol price by Rs3.81, high-speed diesel by Rs3.59",
-    "translated_title": "政府将汽油价格提高 3.81 卢比，高速柴油价格提高 3.59 卢比",
-    "url": "https://www.dawn.com/news/2024389/govt-hikes-petrol-price-by-rs381-high-speed-diesel-by-rs359",
-    "timestamp": "2026-08-21T18:50:11.519010+00:00",
-    "original_time": "2026-08-21T22:57:31+05:00"
-  },
-  {
-    "id": "article_32aaaf4d013e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PM Shehbaz reaffirms commitment to further strengthening ties with Malaysia in security, trade",
-    "translated_title": "谢巴兹总理重申致力于进一步加强与马来西亚在安全和贸易方面的关系",
-    "url": "https://www.dawn.com/news/2024387/pm-shehbaz-reaffirms-commitment-to-further-strengthening-ties-with-malaysia-in-security-trade",
-    "timestamp": "2026-08-21T18:50:42.267073+00:00",
-    "original_time": "2026-08-21T23:21:41+05:00"
-  },
-  {
-    "id": "article_596a0e9d2123",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "England rout Pakistan by an innings and 103 runs in Headingley Test",
-    "translated_title": "英格兰队在海丁利测试中以一局和 103 分击败巴基斯坦",
-    "url": "https://www.dawn.com/news/2024383/england-rout-pakistan-by-an-innings-and-103-runs-in-headingley-test",
-    "timestamp": "2026-08-21T18:50:48.517646+00:00",
-    "original_time": "2026-08-21T21:52:19+05:00"
-  },
-  {
-    "id": "article_4f51cb7ab310",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Islamabad chief commissioner again moves SC against ‘discriminatory’ order to shift Imran to private hospital",
-    "translated_title": "伊斯兰堡首席专员再次呼吁最高委员会反对将伊姆兰转移到私立医院的“歧视性”命令",
-    "url": "https://www.dawn.com/news/2024368/islamabad-chief-commissioner-again-moves-sc-against-discriminatory-order-to-shift-imran-to-private-hospital",
-    "timestamp": "2026-08-21T18:50:59.523728+00:00",
-    "original_time": "2026-08-21T20:07:18+05:00"
-  },
-  {
-    "id": "article_aa250d44b348",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "PTI slams govt for ‘flouting’ SC order, opp says it will approach SC over contempt",
-    "translated_title": "PTI抨击政府“藐视”SC命令，OPP表示将就藐视法庭的行为与SC联系",
-    "url": "https://www.dawn.com/news/2024325/pti-slams-govt-for-flouting-sc-order-opp-says-it-will-approach-sc-over-contempt",
-    "timestamp": "2026-08-21T18:51:11.983613+00:00",
-    "original_time": "2026-08-21T12:56:05+05:00"
-  },
-  {
-    "id": "article_2971a6690dc6",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pakistani, Turkish, Saudi companies show interest in Gepco privatisation, commission says",
-    "translated_title": "委员会表示，巴基斯坦、土耳其和沙特公司对 Gepco 私有化表现出兴趣",
-    "url": "https://www.dawn.com/news/2024373/pakistani-turkish-saudi-companies-show-interest-in-gepco-privatisation-commission-says",
-    "timestamp": "2026-08-21T18:52:32.819912+00:00",
-    "original_time": "2026-08-21T21:13:50+05:00"
   },
   {
     "id": "article_4f9bfaeec9f8",
@@ -553,7 +513,177 @@
     "title": "At least 4 killed, 3 injured in blast in Balochistan's Mastung: police",
     "translated_title": "俾路支省马斯通发生爆炸，至少4人死亡、3人受伤：警方",
     "url": "https://www.dawn.com/news/2024379/at-least-4-killed-3-injured-in-blast-in-balochistans-mastung-police",
-    "timestamp": "2026-08-21T18:53:49.827365+00:00",
+    "timestamp": "2026-08-21T19:34:55.513848+00:00",
     "original_time": "2026-08-21T21:46:50+05:00"
+  },
+  {
+    "id": "article_023d4d3ab76f",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "'An unprecedented event': UK Met Office says this year's El Niño to be 'biggest for over a century'",
+    "translated_title": "“前所未有的事件”：英国气象局表示，今年的厄尔尼诺现象将是“一个多世纪以来最严重的”",
+    "url": "https://www.dawn.com/news/2024333/an-unprecedented-event-uk-met-office-says-this-years-el-nino-to-be-biggest-for-over-a-century",
+    "timestamp": "2026-08-21T19:35:00.871069+00:00",
+    "original_time": "2026-08-21T14:21:08+05:00"
+  },
+  {
+    "id": "article_2971a6690dc6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistani, Turkish, Saudi companies show interest in Gepco privatisation, commission says",
+    "translated_title": "委员会表示，巴基斯坦、土耳其和沙特公司对 Gepco 私有化表现出兴趣",
+    "url": "https://www.dawn.com/news/2024373/pakistani-turkish-saudi-companies-show-interest-in-gepco-privatisation-commission-says",
+    "timestamp": "2026-08-21T19:35:20.871485+00:00",
+    "original_time": "2026-08-21T21:13:50+05:00"
+  },
+  {
+    "id": "article_6b188fd56ed7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "NA speaker urges govt, opposition to sit together on CEC appointment for political stability",
+    "translated_title": "国会发言人敦促政府和反对派就中央选举委员会的任命进行磋商，以确保政治稳定",
+    "url": "https://www.dawn.com/news/2024350/na-speaker-urges-govt-opposition-to-sit-together-on-cec-appointment-for-political-stability",
+    "timestamp": "2026-08-21T19:36:11.287422+00:00",
+    "original_time": "2026-08-21T17:34:42+05:00"
+  },
+  {
+    "id": "article_4d6a0aa75ac9",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Turkiye issues 'genocide' warrant for Israel's Netanyahu",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2024364/turkiye-issues-genocide-warrant-for-israels-netanyahu",
+    "timestamp": "2026-08-21T19:36:52.275357+00:00",
+    "original_time": "2026-08-21T18:38:42+05:00"
+  },
+  {
+    "id": "article_341ea28d67fa",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Top India court orders new steps to protect threatened elephants",
+    "translated_title": "印度最高法院下令采取新措施保护受威胁的大象",
+    "url": "https://www.dawn.com/news/2024331/top-india-court-orders-new-steps-to-protect-threatened-elephants",
+    "timestamp": "2026-08-21T19:37:29.199633+00:00",
+    "original_time": "2026-08-21T14:07:36+05:00"
+  },
+  {
+    "id": "article_d53d93ff0eb6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan, seven other Muslim states condemn Israel’s illegal settlement policies in occupied Palestinian territory",
+    "translated_title": "巴基斯坦和其他七个穆斯林国家谴责以色列在巴勒斯坦被占领土上的非法定居点政策",
+    "url": "https://www.dawn.com/news/2024377/pakistan-seven-other-muslim-states-condemn-israels-illegal-settlement-policies-in-occupied-palestinian-territory",
+    "timestamp": "2026-08-21T19:37:35.672839+00:00",
+    "original_time": "2026-08-21T20:48:29+05:00"
+  },
+  {
+    "id": "article_b13c336526f2",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Fresh spell of rain, thunderstorms forecast across Punjab, KP from Aug 21 to 23",
+    "translated_title": "8月21日至23日，堪培拉省旁遮普省将迎来新一轮降雨和雷暴",
+    "url": "https://www.dawn.com/news/2024355/fresh-spell-of-rain-thunderstorms-forecast-across-punjab-kp-from-aug-21-to-23",
+    "timestamp": "2026-08-21T19:40:17.774838+00:00",
+    "original_time": "2026-08-21T18:21:42+05:00"
+  },
+  {
+    "id": "article_aa250d44b348",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PTI slams govt for ‘flouting’ SC order, opp says it will approach SC over contempt",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2024325/pti-slams-govt-for-flouting-sc-order-opp-says-it-will-approach-sc-over-contempt",
+    "timestamp": "2026-08-21T19:41:10.832048+00:00",
+    "original_time": "2026-08-21T12:56:05+05:00"
+  },
+  {
+    "id": "article_34398e23e693",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Body of US climber who died in Broad Peak avalanche found",
+    "translated_title": "在布洛阿特峰雪崩中丧生的美国登山者遗体被发现",
+    "url": "https://www.dawn.com/news/2024322/body-of-us-climber-who-died-in-broad-peak-avalanche-found",
+    "timestamp": "2026-08-21T19:42:22.838831+00:00",
+    "original_time": "2026-08-21T13:06:12+05:00"
+  },
+  {
+    "id": "article_82dd6576f102",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "People of Balochistan will have first right to province’s wealth: PM Shehbaz",
+    "translated_title": "俾路支省人民将拥有获得该省财富的优先权：总理谢巴兹",
+    "url": "https://www.dawn.com/news/2024362/people-of-balochistan-will-have-first-right-to-provinces-wealth-pm-shehbaz",
+    "timestamp": "2026-08-21T19:42:42.488940+00:00",
+    "original_time": "2026-08-21T19:02:08+05:00"
+  },
+  {
+    "id": "article_32aaaf4d013e",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz reaffirms commitment to further strengthening ties with Malaysia in security, trade",
+    "translated_title": "谢巴兹总理重申致力于进一步加强与马来西亚在安全和贸易方面的关系",
+    "url": "https://www.dawn.com/news/2024387/pm-shehbaz-reaffirms-commitment-to-further-strengthening-ties-with-malaysia-in-security-trade",
+    "timestamp": "2026-08-21T19:43:26.566008+00:00",
+    "original_time": "2026-08-21T23:21:41+05:00"
+  },
+  {
+    "id": "article_e7ab3e41a071",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "49 terrorists killed in IBOs in KP, Balochistan: ISPR",
+    "translated_title": "ISPR：俾路支省 KP 的 IBO 中有 49 名恐怖分子被杀",
+    "url": "https://www.dawn.com/news/2024356/49-terrorists-killed-in-ibos-in-kp-balochistan-ispr",
+    "timestamp": "2026-08-21T19:43:39.894299+00:00",
+    "original_time": "2026-08-21T17:29:36+05:00"
+  },
+  {
+    "id": "article_d1712fc9c3bb",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Iran president says time to end war while in position of strength",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2024360/iran-president-says-time-to-end-war-while-in-position-of-strength",
+    "timestamp": "2026-08-21T19:44:35.679639+00:00",
+    "original_time": "2026-08-21T19:08:17+05:00"
+  },
+  {
+    "id": "article_596a0e9d2123",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "England rout Pakistan by an innings and 103 runs in Headingley Test",
+    "translated_title": "英格兰队在海丁利测试中以一局和 103 分击败巴基斯坦",
+    "url": "https://www.dawn.com/news/2024383/england-rout-pakistan-by-an-innings-and-103-runs-in-headingley-test",
+    "timestamp": "2026-08-21T19:44:49.799776+00:00",
+    "original_time": "2026-08-21T21:52:19+05:00"
+  },
+  {
+    "id": "article_5adbdfe6033a",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Govt announces public holiday on Aug 26 for Eid Miladun Nabi",
+    "translated_title": "政府宣布8月26日为开斋节公众假期",
+    "url": "https://www.dawn.com/news/2024337/govt-announces-public-holiday-on-aug-26-for-eid-miladun-nabi",
+    "timestamp": "2026-08-21T19:45:12.522145+00:00",
+    "original_time": "2026-08-21T14:46:07+05:00"
+  },
+  {
+    "id": "article_1346a55a6c27",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Govt says shifting Imran to Pims instead of Shifa a ‘security decision’, insists move not political",
+    "translated_title": "政府表示将伊姆兰转移到皮姆斯而不是希法是一个“安全决定”，坚称此举不是政治性的",
+    "url": "https://www.dawn.com/news/2024378/govt-says-shifting-imran-to-pims-instead-of-shifa-a-security-decision-insists-move-not-political",
+    "timestamp": "2026-08-21T19:45:48.028738+00:00",
+    "original_time": "2026-08-21T21:04:53+05:00"
+  },
+  {
+    "id": "article_4f51cb7ab310",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Islamabad chief commissioner again moves SC against ‘discriminatory’ order to shift Imran to private hospital",
+    "translated_title": "伊斯兰堡首席专员再次呼吁最高委员会反对将伊姆兰转移到私立医院的“歧视性”命令",
+    "url": "https://www.dawn.com/news/2024368/islamabad-chief-commissioner-again-moves-sc-against-discriminatory-order-to-shift-imran-to-private-hospital",
+    "timestamp": "2026-08-21T19:45:55.546425+00:00",
+    "original_time": "2026-08-21T20:07:18+05:00"
   }
 ]
