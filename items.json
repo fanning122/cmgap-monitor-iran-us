@@ -1,6 +1,6 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_5588967487214173515",
+    "id": "tweet_ForeignOfficePk_893311710647762490",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50spoke today with Foreign Minister of Uzbekistan Bakhtiyor Saidov@FM_Saidovfrom London. They discussed matters of mutual interest and the upcoming SCO Council of Heads of State meeting in Kyrgyzstan.",
@@ -8,12 +8,12 @@
     "images": [
       "255c6f258fbc806b.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/5588967487214173515",
-    "timestamp": "2026-08-23T19:21:10.164876+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/893311710647762490",
+    "timestamp": "2026-08-23T20:20:59.372561+00:00",
     "original_time": "2026-08-23T17:04:43+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_4099328699779512619",
+    "id": "tweet_ForeignOfficePk_-6761920125205844725",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50arrived in London today ahead of his official visit to the United Kingdom from 24 to 28 August 2026.\n\nHigh Commissioner of Pakistan to the United Kingdom, Mr. Tipu Usman@TipuUsman, received the Deputy",
@@ -22,23 +22,62 @@
       "3b0b3ebfb27c9623.jpg",
       "0d5ce1adb4f7aa9a.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/4099328699779512619",
-    "timestamp": "2026-08-23T19:21:10.466020+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/-6761920125205844725",
+    "timestamp": "2026-08-23T20:20:59.648793+00:00",
     "original_time": "2026-08-23T16:47:26+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5900073483717269381",
+    "id": "tweet_MIshaqDar50_0",
+    "type": "tweet",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
+    "images": [
+      "524f563050519790.jpg"
+    ],
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-08-23T20:21:13.889220+00:00",
+    "original_time": "2026-08-23T18:43:35+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_5596360429554201072",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Professor Mark N Katz of George Mason University in Washington, DC, says Americans increasingly view President Trump’s tariffs as harmful to the United States.@Mark_N_Katz#TrumpTariffs#USTariffs#USPolitics#USEconomy#PakistanTV",
+    "translated_text": "华盛顿特区乔治梅森大学的马克·N·卡茨教授表示，美国人越来越认为特朗普总统的关税对美国有害。@Mark_N_Katz#TrumpTariffs#USTariffs#USPolitics#USEconomy#PakistanTV",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/5596360429554201072",
+    "timestamp": "2026-08-23T20:22:36.209018+00:00",
+    "original_time": "2026-08-23T19:48:13+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_7081307263845852161",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "Former Canadian ambassador Stephen DE Boer says Trump administration tariffs and sanctions are increasing economic pressures on the US.@JawadTehami#TrumpTariffs#USSanctions#China#GlobalTrade#PakistanTV",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "images": [
+      "b02881b77c92f528.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/7081307263845852161",
+    "timestamp": "2026-08-23T20:22:36.381964+00:00",
+    "original_time": "2026-08-23T19:42:11+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_8135780473576364476",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Greg Priddy, Senior Fellow for the Middle East at CFTNI, Washington D.C., says global oil markets are increasingly adjusting to prolonged disruption as strategic reserves have rapidly drawn down and Brent prices continue to rise. He says the economic impact could gradually worsen",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-5900073483717269381",
-    "timestamp": "2026-08-23T19:22:55.065270+00:00",
+    "images": [
+      "4f1ebc08b7c84303.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/8135780473576364476",
+    "timestamp": "2026-08-23T20:22:36.545040+00:00",
     "original_time": "2026-08-23T18:38:25+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1666067944611670795",
+    "id": "tweet_PakTVGlobal_-6415749047151361046",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Greg Priddy, Senior Fellow for the Middle East at CFTNI, Washington D.C., says Iran has built considerable economic resilience through greater self-sufficiency and alternative trade routes, but signs of shortages are increasing. He says economic pressure is being felt by the",
@@ -46,12 +85,12 @@
     "images": [
       "9d17d0fe90bd18ed.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-1666067944611670795",
-    "timestamp": "2026-08-23T19:22:55.280773+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-6415749047151361046",
+    "timestamp": "2026-08-23T20:22:36.775203+00:00",
     "original_time": "2026-08-23T18:35:24+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_3494648032462628584",
+    "id": "tweet_PakTVGlobal_-4504333478868725855",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Former US Ambassador Gordon Gray says Washington may struggle to rally other countries behind its economic campaign against Iran, as major powers weigh their own strategic and trade interests. Speaking from Washington, D.C., Gray says countries taking economic measures against",
@@ -59,49 +98,38 @@
     "images": [
       "ea82ed1390f7fcc4.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/3494648032462628584",
-    "timestamp": "2026-08-23T19:22:55.495178+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-4504333478868725855",
+    "timestamp": "2026-08-23T20:22:36.925689+00:00",
     "original_time": "2026-08-23T18:31:26+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_5166528684907431423",
+    "id": "tweet_PakTVGlobal_-3864944855769584910",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Dr. Frederic Schneider, GCC Political Economist says Gulf economies remain highly vulnerable as the Iran conflict puts critical energy infrastructure and export routes under growing pressure. Speaking from London, he says even alternative export routes in Saudi Arabia and the UAE",
+    "text": "Craig Patchett, Trade & Geoeconomics Analyst, speaking from London, says last-minute US conditions appear to have complicated trade negotiations with Canada including disagreements over auto tariffs and Ottawa’s ability to pursue other trade deals. He says Canada’s decision to",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "5d3cb011103d5415.jpg"
+      "772c4bbbfd874f28.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/5166528684907431423",
-    "timestamp": "2026-08-23T19:22:55.696876+00:00",
-    "original_time": "2026-08-23T18:28:11+00:00"
+    "url": "https://x.com/PakTVGlobal/status/-3864944855769584910",
+    "timestamp": "2026-08-23T20:22:39.129365+00:00",
+    "original_time": "2026-08-23T15:44:27+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-1902596808016639553",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Zeinab Nikookar, Middle East Affairs Expert says Tehran does not view preparation for confrontation and negotiations as mutually exclusive but sees deterrence as a way to strengthen its position at the negotiating table.\nSpeaking from London, she says US military superiority does",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "1d0cc11cc46115d9.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-1902596808016639553",
-    "timestamp": "2026-08-23T19:22:55.925440+00:00",
-    "original_time": "2026-08-23T18:23:06+00:00"
-  },
-  {
-    "id": "tweet_PakTVGlobal_6104555844447343607",
+    "id": "tweet_PakTVGlobal_-2734124301586775317",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Air Cdre (R) Khalid Chishti, Defence Analyst, says growing frustration in Afghanistan stems from deteriorating conditions, lack of opportunities and unmet expectations under the Taliban. He says that grievances among different communities and armed groups could further escalate",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/6104555844447343607",
-    "timestamp": "2026-08-23T19:22:58.064527+00:00",
+    "images": [
+      "2145a297173ff900.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-2734124301586775317",
+    "timestamp": "2026-08-23T20:22:39.297751+00:00",
     "original_time": "2026-08-23T15:40:38+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-4588575243211393115",
+    "id": "tweet_PakTVGlobal_7236408419771660069",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Musharraf Zahoor, Pakistan TV’s Correspondent, reporting from Astana, says the international observers and journalists have expressed satisfaction over Kazakhstan’s ongoing parliamentary elections, describing the process as smooth, transparent and inclusive. Observers also",
@@ -109,12 +137,12 @@
     "images": [
       "67e349f0953f2e3d.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-4588575243211393115",
-    "timestamp": "2026-08-23T19:22:58.248645+00:00",
+    "url": "https://x.com/PakTVGlobal/status/7236408419771660069",
+    "timestamp": "2026-08-23T20:22:39.470518+00:00",
     "original_time": "2026-08-23T15:30:04+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_185670718239167095",
+    "id": "tweet_PakTVGlobal_-7544515794274268575",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Polling in Kazakhstan’s parliamentary elections has proceeded smoothly, with foreign observers expressing satisfaction with the arrangements. Pakistan TV'S Correspondent Musharraf Zahoor, reporting from Astana, highlights strong participation by women and young voters, as well as",
@@ -122,12 +150,12 @@
     "images": [
       "7816550a62f20bdd.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/185670718239167095",
-    "timestamp": "2026-08-23T19:22:58.438743+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-7544515794274268575",
+    "timestamp": "2026-08-23T20:22:39.631046+00:00",
     "original_time": "2026-08-23T15:26:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8655567301490430319",
+    "id": "tweet_PakTVGlobal_3535984529950294456",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Pakistan’s Yahya Khan and Abu Bakar emerged champions at the 37th Japan Junior Open 2026, winning gold in the U-17 and U-11 categories respectively. Two players, two titles — a proud moment for Pakistan squash.#PakistanSquash#JapanJuniorOpen#SquashChampions#YahyaKhan",
@@ -135,12 +163,12 @@
     "images": [
       "4c305ed15579e685.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8655567301490430319",
-    "timestamp": "2026-08-23T19:22:58.634465+00:00",
+    "url": "https://x.com/PakTVGlobal/status/3535984529950294456",
+    "timestamp": "2026-08-23T20:22:39.859962+00:00",
     "original_time": "2026-08-23T14:35:57+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2924897979907401897",
+    "id": "tweet_PakTVGlobal_-599224075290988631",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Former Minister for Investment Haroon Sharif, says the US-Iran confrontation is becoming increasingly worrying as unilateral sanctions and retaliatory pressure weaken prospects for diplomacy. He says credible multilateral engagement or mediation by strong allies remains the",
@@ -148,25 +176,12 @@
     "images": [
       "ee9e8eca6cd81a32.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2924897979907401897",
-    "timestamp": "2026-08-23T19:22:58.805005+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-599224075290988631",
+    "timestamp": "2026-08-23T20:22:40.039056+00:00",
     "original_time": "2026-08-23T14:22:57+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-5116803409984381517",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Turkish Journalist and Regional Affairs Expert Mehmet Ozturk says the Makkah Joint Defence framework creates a powerful strategic synergy by bringing together the military and technological capabilities of Pakistan, Turkiye and Saudi Arabia. Ozturk says the combined strength of",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "6df064020d49d52e.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-5116803409984381517",
-    "timestamp": "2026-08-23T19:22:58.991879+00:00",
-    "original_time": "2026-08-23T12:38:30+00:00"
-  },
-  {
-    "id": "tweet_mb_ghalibaf_-1356210350258943595",
+    "id": "tweet_mb_ghalibaf_4426292881962323862",
     "type": "tweet",
     "username": "mb_ghalibaf",
     "text": "Importing frozen meat to fix meat prices. Okay, that might work. \nWhat’s the plan for bonds, import frozen yields? \nFrozen homebuyers for housing? \nFrozen paychecks for wages? \n\nA frozen foreign policy delivers a frozen economy.\n\nThe only thing still moving? The Iran boomerang.",
@@ -174,12 +189,38 @@
     "images": [
       "583e7e8be70d3e74.jpg"
     ],
-    "url": "https://x.com/mb_ghalibaf/status/-1356210350258943595",
-    "timestamp": "2026-08-23T19:24:17.715322+00:00",
+    "url": "https://x.com/mb_ghalibaf/status/4426292881962323862",
+    "timestamp": "2026-08-23T20:24:23.989624+00:00",
     "original_time": "2026-08-23T14:21:53+00:00"
   },
   {
-    "id": "tweet_CBSNews_2801785384527390398",
+    "id": "tweet_CBSNews_8470834987017539384",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "President Trump and McLaren Racing CEO Zak Brown took an apparent FaceTime call in the presidential suite during Sunday's IndyCar race in Washington, D.C. Brown, a race car driver himself, oversees the Arrow McLaren IndyCar team.",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "images": [
+      "412277200ad66c67.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8470834987017539384",
+    "timestamp": "2026-08-23T20:25:46.299971+00:00",
+    "original_time": "2026-08-23T19:46:33+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_7970171854239117392",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Newly released bodycam footage shows the moment an Orange County deputy crashed into a young couple as they made a legal left turn, leaving them seriously injured in late 2023.\n\nMegan Doan and her boyfriend, Jan Tan, who was seated in the passenger seat, were knocked unconscious",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "images": [
+      "6d7d534fac4d5905.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/7970171854239117392",
+    "timestamp": "2026-08-23T20:25:46.465239+00:00",
+    "original_time": "2026-08-23T19:31:23+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_7501022154254116200",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A car burst into flames after being struck by an Amtrak train at an intersection in Fort Lauderdale, Florida on Saturday. No one inside the vehicle was injured, fire officials say.",
@@ -187,12 +228,12 @@
     "images": [
       "32b6a64f11b604c2.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/2801785384527390398",
-    "timestamp": "2026-08-23T19:25:18.051765+00:00",
+    "url": "https://x.com/CBSNews/status/7501022154254116200",
+    "timestamp": "2026-08-23T20:25:46.628656+00:00",
     "original_time": "2026-08-23T19:20:52+00:00"
   },
   {
-    "id": "tweet_CBSNews_6688134011417823532",
+    "id": "tweet_CBSNews_-186874593818846361",
     "type": "tweet",
     "username": "CBSNews",
     "text": "President Trump and first lady Melania Trump began the Freedom 250 Grand Prix IndyCar race through the streets of Washington, D.C., with a slow lap around the course.",
@@ -200,12 +241,12 @@
     "images": [
       "c1d38ddff29f5b29.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/6688134011417823532",
-    "timestamp": "2026-08-23T19:25:18.254449+00:00",
+    "url": "https://x.com/CBSNews/status/-186874593818846361",
+    "timestamp": "2026-08-23T20:25:46.795032+00:00",
     "original_time": "2026-08-23T19:13:34+00:00"
   },
   {
-    "id": "tweet_CBSNews_-7952035393359223312",
+    "id": "tweet_CBSNews_5949614175870906345",
     "type": "tweet",
     "username": "CBSNews",
     "text": "A routine traffic stop in Parker, Colorado, took an unexpected turn when an officer realized the driver spoke Mandarin. \n\nShe used the translation feature on her body camera to translate her English instructions into Mandarin, explaining that his taillight was out and why he was",
@@ -213,225 +254,45 @@
     "images": [
       "4efad5e140c1a456.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-7952035393359223312",
-    "timestamp": "2026-08-23T19:25:18.460612+00:00",
+    "url": "https://x.com/CBSNews/status/5949614175870906345",
+    "timestamp": "2026-08-23T20:25:46.964014+00:00",
     "original_time": "2026-08-23T18:49:47+00:00"
   },
   {
-    "id": "tweet_CBSNews_-5639960291853232800",
+    "id": "tweet_CBSNews_2824696646445440504",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "18 migrants were laid to rest at Ceuta’s Muslim cemetery on Friday, following last month’s mass border surge into the Spanish enclave.",
-    "translated_text": "继上个月大规模边境涌入西班牙飞地之后，周五，18 名移民被安葬在休达的穆斯林公墓。",
+    "text": "Zelenskyy rejects wartime elections citing \"huge risk\" and \"split\" for Ukraine",
+    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "35d74d06400c3112.jpg"
+      "5ece3a8fee411e7e.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-5639960291853232800",
-    "timestamp": "2026-08-23T19:25:18.793768+00:00",
-    "original_time": "2026-08-23T18:15:15+00:00"
+    "url": "https://x.com/CBSNews/status/2824696646445440504",
+    "timestamp": "2026-08-23T20:25:49.122220+00:00",
+    "original_time": "2026-08-23T11:30:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_6490546509391686156",
+    "id": "tweet_CBSNews_-5810118669400235902",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "President Trump sent 25 cars roaring down the streets of Washington, D.C. as he waved the green flag to start Sunday's Freedom250 IndyCar race. The event is the first major auto race in the capital in more than 24 years.",
+    "text": "Chinese robot beats Usain Bolt's 100-meter sprint world record in humanoid bot games",
     "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "images": [
-      "33472aae5b9cb4e7.jpg"
+      "7fd4a1c80603ac07.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/6490546509391686156",
-    "timestamp": "2026-08-23T19:25:19.023414+00:00",
-    "original_time": "2026-08-23T17:51:14+00:00"
+    "url": "https://x.com/CBSNews/status/-5810118669400235902",
+    "timestamp": "2026-08-23T20:25:49.248020+00:00",
+    "original_time": "2026-08-23T11:15:00+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_6307805841268456285",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "حکومت نے عدالتی فیصلے پر آدھا عمل کیوں کیا؟@SaleemKhanSafi",
-    "translated_text": "政府为何半执行法院判决？ @SaleemKhanSafi",
-    "images": [],
-    "url": "https://x.com/geonews_urdu/status/6307805841268456285",
-    "timestamp": "2026-08-23T19:26:59.800904+00:00",
-    "original_time": "2026-08-23T19:16:15+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-6806170921597970095",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "ن لیگ کا صحت کے معاملے پر نواز شریف کیلئے اصول الگ عمران خان کیلئے الگ؟@SaleemKhanSafi",
-    "translated_text": "PML-N 在健康问题上的原则对于纳瓦兹·谢里夫和伊姆兰·汗来说不同吗？ @SaleemKhanSafi",
-    "images": [
-      "88d11e293fea1780.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-6806170921597970095",
-    "timestamp": "2026-08-23T19:27:00.723943+00:00",
-    "original_time": "2026-08-23T19:16:07+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-3773497329687755344",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "حکومت کی الٹی گنتی شروع ہوگئی؟\nبلاول کے بیان پر طارق فضل چوہدری کا مؤقف دیکھئے@SaleemKhanSafi",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "5e566e593904276b.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-3773497329687755344",
-    "timestamp": "2026-08-23T19:27:00.912943+00:00",
-    "original_time": "2026-08-23T19:15:58+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-5621148263317874764",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "اسٹیبلشمنٹ نے ابھی تک صوبوں کے معاملے پر حکومت سے کوئی رابطہ نہیں کیا، طارق فضل چوہدری@SaleemKhanSafi",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "7b1c029998463bf3.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-5621148263317874764",
-    "timestamp": "2026-08-23T19:27:01.170160+00:00",
-    "original_time": "2026-08-23T19:15:46+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-6554289011975021691",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "صوبوں کی تقسیم 18 ویں ترمیم سے پہلے ہوتی تو وہ آسان ہوتا، طارق فضل چوہدری@SaleemKhanSafi",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "faca52c8e14104c8.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-6554289011975021691",
-    "timestamp": "2026-08-23T19:27:01.350323+00:00",
-    "original_time": "2026-08-23T19:15:30+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_7259032229414987887",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "نئے صوبوں کے معاملے پر ن لیگ کی کیا پالیسی ہے؟@SaleemKhanSafi",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "996d7ea00b8dda99.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/7259032229414987887",
-    "timestamp": "2026-08-23T19:27:01.532546+00:00",
-    "original_time": "2026-08-23T19:15:20+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_6638978532225610595",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Nawaz Sharif's camp is not very happy about the issue of new provinces. Nawaz Sharif does not like Mohsin Naqvi much either, but compulsion is such that they cannot go too far against him, Mansoor Ali Khan",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "7a0d8434a684942a.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/6638978532225610595",
-    "timestamp": "2026-08-23T19:27:03.723840+00:00",
-    "original_time": "2026-08-23T17:40:15+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-6280744899220576380",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "9 PM Headlines - 23 August 2026",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "a301bc48908e8956.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-6280744899220576380",
-    "timestamp": "2026-08-23T19:27:03.971515+00:00",
-    "original_time": "2026-08-23T17:29:23+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_714266143807836436",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Why was the Akbari Gate of Shahi Qila kept closed to the public?",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "639680174d961947.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/714266143807836436",
-    "timestamp": "2026-08-23T19:27:04.224600+00:00",
-    "original_time": "2026-08-23T16:23:35+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_1699281418770986041",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "How far has the restoration work of Shish Mahal been completed?",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "e994a7ccb7a2a3af.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/1699281418770986041",
-    "timestamp": "2026-08-23T19:27:04.466310+00:00",
-    "original_time": "2026-08-23T16:23:29+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_2577779374214781017",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "What kinds of pictures are present in the world's largest picture wall?",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "9821ede250e42552.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/2577779374214781017",
-    "timestamp": "2026-08-23T19:27:04.704440+00:00",
-    "original_time": "2026-08-23T16:23:25+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-2214889932963331493",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "How did Endorn, the institution starting from Lahore, reach the entire city of Lahore?  \nThe DG of Walled City has revealed it.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "84c55cd4bec18c20.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-2214889932963331493",
-    "timestamp": "2026-08-23T19:27:04.939871+00:00",
-    "original_time": "2026-08-23T16:23:18+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_8368161952551904618",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "A 5.8 magnitude earthquake struck Hoonah Island in Japan.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "2823b9213fcddc8e.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/8368161952551904618",
-    "timestamp": "2026-08-23T19:27:07.129478+00:00",
-    "original_time": "2026-08-23T11:26:55+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-7198806973558781227",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "Dacoity by robbers near Kot Digi on Mehrane Highway in Khairpur",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "c8733620949a38a3.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-7198806973558781227",
-    "timestamp": "2026-08-23T19:27:07.308542+00:00",
-    "original_time": "2026-08-23T11:26:34+00:00"
-  },
-  {
-    "id": "article_5e4db4fd1107",
+    "id": "article_4c40ab535f35",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Sindh govt to seek judicial commission to review Mir Raza murder probe; family to move SHC against decision",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2024762/sindh-govt-to-seek-judicial-commission-to-review-mir-raza-murder-probe-family-to-move-shc-against-decision",
-    "timestamp": "2026-08-23T19:29:06.681304+00:00",
-    "original_time": "2026-08-23T17:13:52+05:00"
+    "title": "ISI chief meets Bahrain's crown prince, discusses regional and international developments: report",
+    "translated_title": "三军情报局局长会见巴林王储，讨论地区和国际发展：报告",
+    "url": "https://www.dawn.com/news/2024778/isi-chief-meets-bahrains-crown-prince-discusses-regional-and-international-developments-report",
+    "timestamp": "2026-08-23T20:28:33.719110+00:00",
+    "original_time": "2026-08-23T23:14:05+05:00"
   },
   {
     "id": "article_7e067eb2c348",
@@ -440,18 +301,8 @@
     "title": "Cricket greats appeal to PM Shehbaz for Imran's medical treatment in line with SC directives",
     "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.dawn.com/news/2024773/cricket-greats-appeal-to-pm-shehbaz-for-imrans-medical-treatment-in-line-with-sc-directives",
-    "timestamp": "2026-08-23T19:29:43.984259+00:00",
+    "timestamp": "2026-08-23T20:28:39.227908+00:00",
     "original_time": "2026-08-23T21:51:15+05:00"
-  },
-  {
-    "id": "article_d8b0e67a1284",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Syria foreign minister sees Israel security talks resuming despite no trust",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2024753/syria-foreign-minister-sees-israel-security-talks-resuming-despite-no-trust",
-    "timestamp": "2026-08-23T19:30:40.056801+00:00",
-    "original_time": "2026-08-23T14:00:20+05:00"
   },
   {
     "id": "article_ed7cadfba488",
@@ -460,8 +311,28 @@
     "title": "Hina Javed murder case: Rawalpindi court sends husband, servant on 3-day physical remand",
     "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.dawn.com/news/2024768/hina-javed-murder-case-rawalpindi-court-sends-husband-servant-on-3-day-physical-remand",
-    "timestamp": "2026-08-23T19:31:14.334250+00:00",
+    "timestamp": "2026-08-23T20:29:15.813097+00:00",
     "original_time": "2026-08-23T20:31:40+05:00"
+  },
+  {
+    "id": "article_21dd93816ad7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "First Lady Aseefa calls on Punjab govt to thoroughly investigate Hina Javed murder",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2024756/first-lady-aseefa-calls-on-punjab-govt-to-thoroughly-investigate-hina-javed-murder",
+    "timestamp": "2026-08-23T20:30:55.999433+00:00",
+    "original_time": "2026-08-23T15:02:22+05:00"
+  },
+  {
+    "id": "article_de266ce2bc45",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Robots can outrun humans, but can they plug in a cable?",
+    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.dawn.com/news/2024752/robots-can-outrun-humans-but-can-they-plug-in-a-cable",
+    "timestamp": "2026-08-23T20:31:06.196848+00:00",
+    "original_time": "2026-08-23T13:43:46+05:00"
   },
   {
     "id": "article_7d61c05a3ef7",
@@ -470,7 +341,7 @@
     "title": "Road in Duki to be named after female doctor who survived acid attack: Balochistan CM Bugti",
     "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.dawn.com/news/2024757/road-in-duki-to-be-named-after-female-doctor-who-survived-acid-attack-balochistan-cm-bugti",
-    "timestamp": "2026-08-23T19:31:55.811225+00:00",
+    "timestamp": "2026-08-23T20:31:21.312469+00:00",
     "original_time": "2026-08-23T15:39:18+05:00"
   },
   {
@@ -480,38 +351,18 @@
     "title": "Former aide to Taliban commander Mullah Nazir group killed in Lower South Waziristan",
     "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.dawn.com/news/2024750/former-aide-to-taliban-commander-mullah-nazir-group-killed-in-lower-south-waziristan",
-    "timestamp": "2026-08-23T19:32:35.846445+00:00",
+    "timestamp": "2026-08-23T20:33:34.462413+00:00",
     "original_time": "2026-08-23T13:36:35+05:00"
   },
   {
-    "id": "article_0a2b3e49fdb6",
+    "id": "article_5e4db4fd1107",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "Spantik Peak mission to retrieve body of Pakistani climber halted amid heavy snowfall",
+    "title": "Sindh govt to seek judicial commission to review Mir Raza murder probe; family to move SHC against decision",
     "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2024747/spantik-peak-mission-to-retrieve-body-of-pakistani-climber-halted-amid-heavy-snowfall",
-    "timestamp": "2026-08-23T19:34:15.243001+00:00",
-    "original_time": "2026-08-23T13:06:53+05:00"
-  },
-  {
-    "id": "article_31aaf881cce4",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Nordic nations say they have lost confidence in Infantino and Fifa governance",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2024770/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance",
-    "timestamp": "2026-08-23T19:34:56.899251+00:00",
-    "original_time": "2026-08-23T21:16:51+05:00"
-  },
-  {
-    "id": "article_de266ce2bc45",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Robots can outrun humans, but can they plug in a cable?",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2024752/robots-can-outrun-humans-but-can-they-plug-in-a-cable",
-    "timestamp": "2026-08-23T19:35:26.719417+00:00",
-    "original_time": "2026-08-23T13:43:46+05:00"
+    "url": "https://www.dawn.com/news/2024762/sindh-govt-to-seek-judicial-commission-to-review-mir-raza-murder-probe-family-to-move-shc-against-decision",
+    "timestamp": "2026-08-23T20:36:47.609410+00:00",
+    "original_time": "2026-08-23T17:13:52+05:00"
   },
   {
     "id": "article_9c9e6a9c5fbc",
@@ -520,37 +371,37 @@
     "title": "CDF Munir to visit Tehran on Monday, says Iranian foreign ministry",
     "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.dawn.com/news/2024771/cdf-munir-to-visit-tehran-on-monday-says-iranian-foreign-ministry",
-    "timestamp": "2026-08-23T19:36:06.423770+00:00",
+    "timestamp": "2026-08-23T20:37:13.529291+00:00",
     "original_time": "2026-08-23T22:28:06+05:00"
   },
   {
-    "id": "article_21dd93816ad7",
+    "id": "article_31aaf881cce4",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "First Lady Aseefa calls on Punjab govt to thoroughly investigate Hina Javed murder",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2024756/first-lady-aseefa-calls-on-punjab-govt-to-thoroughly-investigate-hina-javed-murder",
-    "timestamp": "2026-08-23T19:37:41.231386+00:00",
-    "original_time": "2026-08-23T15:02:22+05:00"
+    "title": "Nordic nations say they have lost confidence in Infantino and Fifa governance",
+    "translated_title": "北欧国家表示他们对因凡蒂诺和国际足联治理失去了信心",
+    "url": "https://www.dawn.com/news/2024770/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance",
+    "timestamp": "2026-08-23T20:39:24.819009+00:00",
+    "original_time": "2026-08-23T21:16:51+05:00"
   },
   {
-    "id": "article_4c40ab535f35",
+    "id": "article_d8b0e67a1284",
     "type": "article",
     "source": "www.dawn.com",
-    "title": "ISI chief meets Bahrain's crown prince, discusses regional and international developments: report",
+    "title": "Syria foreign minister sees Israel security talks resuming despite no trust",
     "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2024778/isi-chief-meets-bahrains-crown-prince-discusses-regional-and-international-developments-report",
-    "timestamp": "2026-08-23T19:40:40.737541+00:00",
-    "original_time": "2026-08-23T23:14:05+05:00"
+    "url": "https://www.dawn.com/news/2024753/syria-foreign-minister-sees-israel-security-talks-resuming-despite-no-trust",
+    "timestamp": "2026-08-23T20:41:14.703594+00:00",
+    "original_time": "2026-08-23T14:00:20+05:00"
   },
   {
     "id": "article_ae15406aeb3b",
     "type": "article",
     "source": "www.dawn.com",
     "title": "PTI demands Imran's CT angiography be conducted at Shifa International Hospital",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_title": "PTI 要求伊姆兰的 CT 血管造影在 Shifa 国际医院进行",
     "url": "https://www.dawn.com/news/2024760/pti-demands-imrans-ct-angiography-be-conducted-at-shifa-international-hospital",
-    "timestamp": "2026-08-23T19:40:48.973613+00:00",
+    "timestamp": "2026-08-23T20:41:36.437232+00:00",
     "original_time": "2026-08-23T19:19:49+05:00"
   }
 ]
