@@ -1,17 +1,17 @@
 [
   {
-    "id": "tweet_ForeignOfficePk_-8506614861423004231",
+    "id": "tweet_ForeignOfficePk_8177462633735318188",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50addressed Pakistani community in London.",
     "translated_text": "副总理兼外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50向伦敦的巴基斯坦社区发表讲话。",
     "images": [],
-    "url": "https://x.com/ForeignOfficePk/status/-8506614861423004231",
-    "timestamp": "2026-08-29T19:17:05.975487+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/8177462633735318188",
+    "timestamp": "2026-08-29T22:22:44.464830+00:00",
     "original_time": "2026-08-29T16:55:03+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_353444836600644043",
+    "id": "tweet_ForeignOfficePk_3866066324599804211",
     "type": "tweet",
     "username": "ForeignOfficePk",
     "text": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50's address to the Pakistani community in London",
@@ -19,36 +19,73 @@
     "images": [
       "3ba5f46bb94571c5.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/353444836600644043",
-    "timestamp": "2026-08-29T19:17:06.679030+00:00",
+    "url": "https://x.com/ForeignOfficePk/status/3866066324599804211",
+    "timestamp": "2026-08-29T22:22:45.637641+00:00",
     "original_time": "2026-08-29T16:48:11+00:00"
   },
   {
-    "id": "tweet_ForeignOfficePk_5628281593913213732",
+    "id": "tweet_MIshaqDar50_0",
     "type": "tweet",
-    "username": "ForeignOfficePk",
-    "text": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar@MIshaqDar50addressed a press conference at Pakistan High Commission in London.@PakistaninUK",
-    "translated_text": "副总理/外交部长参议员穆罕默德·伊沙克·达尔@MIshaqDar50在伦敦巴基斯坦高级专员公署的新闻发布会上致辞。@PakistaninUK",
+    "username": "MIshaqDar50",
+    "text": "",
+    "translated_text": "",
     "images": [
-      "a15c340482c36415.jpg"
+      "d8cb4b792b82e049.jpg"
     ],
-    "url": "https://x.com/ForeignOfficePk/status/5628281593913213732",
-    "timestamp": "2026-08-29T19:17:07.308710+00:00",
-    "original_time": "2026-08-29T08:20:26+00:00"
+    "url": "https://x.com/MIshaqDar50/status/0",
+    "timestamp": "2026-08-29T22:22:57.716166+00:00",
+    "original_time": "2026-08-29T19:47:42+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_5588235496504620360",
+    "id": "tweet_PakPMO_9162783822019753179",
+    "type": "tweet",
+    "username": "PakPMO",
+    "text": "An high-level meeting was held under the chairmanship of Prime Minister Muhammad Shehbaz Sharif on the PIMS fire incident, during which the preliminary report of the investigative committee was presented to the Prime Minister.\n\nThe Prime Minister approved the immediate suspension",
+    "translated_text": "穆罕默德·谢赫巴兹·谢里夫总理主持召开了关于PIMS火灾事件的高级别会议，会议期间向总理提交了调查委员会的初步报告。\n\n总理批准立即暂停",
+    "images": [],
+    "url": "https://x.com/PakPMO/status/9162783822019753179",
+    "timestamp": "2026-08-29T22:23:24.143225+00:00",
+    "original_time": "2026-08-29T15:03:59+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_1459524536412550561",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The latest deal may repair the sagging morale of India’s armed forces, but it is unlikely to affect the strategic balance of power. Trump may also not be very impressed with the Indian deal, given that he had earlier offered India F-35 jets, but India was reluctant to buy them:",
+    "translated_text": "最新协议可能会修复印度武装部队低迷的士气，但不太可能影响战略力量平衡。特朗普可能也对印度的交易印象不深，因为他早些时候曾向印度提供 F-35 战斗机，但印度不愿意购买：",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/1459524536412550561",
+    "timestamp": "2026-08-29T22:23:54.785221+00:00",
+    "original_time": "2026-08-29T21:21:28+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_-3952543999929453140",
+    "type": "tweet",
+    "username": "PakTVGlobal",
+    "text": "The world is finding the US to be less of a trusted partner, especially after the war in the Middle East. There is a trust deficit, particularly among regional countries and globally, and they think that if there is a choice between Israel and any particular country, the US would",
+    "translated_text": "世界发现美国不再是值得信赖的合作伙伴，尤其是在中东战争之后。存在信任赤字，特别是在地区国家和全球范围内，他们认为，如果在以色列和任何特定国家之间做出选择，美国会",
+    "images": [
+      "d55d759035d34053.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-3952543999929453140",
+    "timestamp": "2026-08-29T22:23:56.438829+00:00",
+    "original_time": "2026-08-29T21:09:21+00:00"
+  },
+  {
+    "id": "tweet_PakTVGlobal_4554247141297827955",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "The USS Abraham Lincoln is being relieved after spending more than 200–250 days at sea, while the USS George Washington is leaving the Pacific to replace it, meaning there will be no aircraft carrier in the Pacific. If China were to use this moment to attack Taiwan, the US could",
     "translated_text": "亚伯拉罕·林肯号航空母舰在海上度过了200-250多天后正在松一口气，而乔治·华盛顿号航空母舰则离开太平洋取而代之，这意味着太平洋上将不再有航空母舰。如果中国利用这个时机攻击台湾，美国可以",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/5588235496504620360",
-    "timestamp": "2026-08-29T19:18:51.307708+00:00",
+    "images": [
+      "e5598b58a9d66d05.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/4554247141297827955",
+    "timestamp": "2026-08-29T22:23:57.957490+00:00",
     "original_time": "2026-08-29T19:17:07+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_1558673883861529552",
+    "id": "tweet_PakTVGlobal_593711850431526236",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Iran wants to make sure that not just the Gulf allies and the US, but the world understands that it is in control of the Strait of Hormuz and that this is its domain. Negotiations with Oman could stabilize the situation in the short term, while the US midterm elections could put",
@@ -56,101 +93,101 @@
     "images": [
       "00ea7a31511cfc6c.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/1558673883861529552",
-    "timestamp": "2026-08-29T19:18:52.320050+00:00",
+    "url": "https://x.com/PakTVGlobal/status/593711850431526236",
+    "timestamp": "2026-08-29T22:23:59.222274+00:00",
     "original_time": "2026-08-29T18:33:03+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_2365939343073787023",
+    "id": "tweet_PakTVGlobal_1172630971604028895",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "The $20 million amount that is supposed to come from the Loss and Damage Fund is tiny compared to what Nepal requires to deal with the devastation caused by the flooding. Nepalese are facing disaster after disaster every year, with their magnitude and frequency increasing: Sunil",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "损失和损害基金本应提供的 2000 万美元资金与尼泊尔应对洪水造成的破坏所需的资金相比微不足道。苏尼尔：尼泊尔人每年都面临着一场又一场的灾难，其规模和频率都在增加",
     "images": [
       "c9d1ef283ca23451.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/2365939343073787023",
-    "timestamp": "2026-08-29T19:18:52.505768+00:00",
+    "url": "https://x.com/PakTVGlobal/status/1172630971604028895",
+    "timestamp": "2026-08-29T22:24:00.636728+00:00",
     "original_time": "2026-08-29T18:21:38+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8416438130288318725",
+    "id": "tweet_PakTVGlobal_-3920301426010445745",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "Cooperation between researchers and public institutions is essential, because if we wait for the perfect science to come into place, we maybe waiting too long. Nepal needs to go beyond scientific knowledge and put more effort into the operational capacity of early warning",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "6c5d38188bb530d5.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/8416438130288318725",
-    "timestamp": "2026-08-29T19:18:52.692919+00:00",
-    "original_time": "2026-08-29T18:14:13+00:00"
+    "text": "PM Shehbaz Sharif approves the immediate suspension of eight officials identified by an inquiry committee over the PIMS fire incident. Chairing a high-level meeting, the prime minister directs that those found responsible face both departmental and criminal proceedings without",
+    "translated_text": "谢赫巴兹·谢里夫总理批准立即停职调查委员会就 PIMS 火灾事件确定的八名官员。在主持一次高级别会议时，总理指示那些被发现负有责任的人将面临部门和刑事诉讼，而无需承担任何责任。",
+    "images": [],
+    "url": "https://x.com/PakTVGlobal/status/-3920301426010445745",
+    "timestamp": "2026-08-29T22:24:03.686160+00:00",
+    "original_time": "2026-08-29T15:32:50+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_8306297136170147546",
+    "id": "tweet_PakTVGlobal_5130233128082265199",
     "type": "tweet",
     "username": "PakTVGlobal",
-    "text": "After the 2022 floods, Pakistan reached out to the international community for support, but what it was provided was mostly loans rather than grants, meaning the country had to further go into debt to deal with a crisis it didn’t create. We don’t want a similar situation to",
-    "translated_text": "2022年洪水过后，巴基斯坦向国际社会寻求支持，但得到的大多是贷款而不是赠款，这意味着该国不得不进一步负债以应对一场并非由其造成的危机。我们不希望出现类似的情况",
+    "text": "International Law Advisor Ali Sultan says India’s decision to hold the Indus Waters Treaty in abeyance is a political rather than legal move and cannot be justified under international law. He says Pakistan committed no material breach by approaching the Court of Arbitration",
+    "translated_text": "国际法顾问阿里·苏丹表示，印度暂停《印度河水域条约》的决定是政治而非法律举动，根据国际法是不合理的。他表示巴基斯坦向仲裁法院提起诉讼并没有构成重大违约行为",
     "images": [
-      "7b937e6ef500c30e.jpg"
+      "80177ae03f213e52.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/8306297136170147546",
-    "timestamp": "2026-08-29T19:18:54.503183+00:00",
-    "original_time": "2026-08-29T18:02:42+00:00"
+    "url": "https://x.com/PakTVGlobal/status/5130233128082265199",
+    "timestamp": "2026-08-29T22:24:05.116379+00:00",
+    "original_time": "2026-08-29T15:32:31+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-8027643521155883883",
+    "id": "tweet_PakTVGlobal_-8776661503596875899",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Speaking from Kathmandu, Nepal, Environmental reporter Indira Aryal says the death toll from the devastating floods has risen to 675 with 2,498 people still missing. She says an effective early warning system and better coordination between countries could have saved many lives.",
     "translated_text": "环境记者 Indira Aryal 在尼泊尔加德满都表示，毁灭性洪水造成的死亡人数已上升至 675 人，仍有 2,498 人失踪。她说，有效的预警系统和国家之间更好的协调可以挽救许多生命。",
-    "images": [],
-    "url": "https://x.com/PakTVGlobal/status/-8027643521155883883",
-    "timestamp": "2026-08-29T19:18:57.172546+00:00",
+    "images": [
+      "fd1a275e6e20ca15.jpg"
+    ],
+    "url": "https://x.com/PakTVGlobal/status/-8776661503596875899",
+    "timestamp": "2026-08-29T22:24:06.323601+00:00",
     "original_time": "2026-08-29T15:28:32+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6341008737887662465",
+    "id": "tweet_PakTVGlobal_-8235687201759155256",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "PM Shehbaz Sharif orders tough action over the deadly PIMS fire, approving the immediate suspension of eight officials, including hospital's Executive Director, identified by the inquiry committee and directing criminal proceedings against those responsible. He says those guilty",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "总理谢巴兹·谢里夫下令对 PIMS 致命火灾采取严厉行动，批准立即停职八名官员，其中包括调查委员会确定的医院执行主任，并对责任人提起刑事诉讼。他说那些有罪的人",
     "images": [
       "7547a7ba5ee11160.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6341008737887662465",
-    "timestamp": "2026-08-29T19:18:57.361900+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-8235687201759155256",
+    "timestamp": "2026-08-29T22:24:07.626674+00:00",
     "original_time": "2026-08-29T15:05:11+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6469753351673240984",
+    "id": "tweet_PakTVGlobal_-8032140020700425025",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Former US diplomat Joanne Held Cummings says the war with Iran has caused enormous strategic damage to the United States, weakening regional confidence in its military presence. She says Gulf countries can maintain close ties with Washington while expanding cooperation with China",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "美国前外交官乔安妮·赫尔德·卡明斯表示，与伊朗的战争对美国造成了巨大的战略损害，削弱了地区对其军事存在的信心。她表示海湾国家可以在扩大与中国合作的同时与华盛顿保持密切关系",
     "images": [
       "dffa7195368184ec.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6469753351673240984",
-    "timestamp": "2026-08-29T19:18:57.576078+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-8032140020700425025",
+    "timestamp": "2026-08-29T22:24:08.925746+00:00",
     "original_time": "2026-08-29T13:59:15+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_6559312520235346757",
+    "id": "tweet_PakTVGlobal_6709336725522190195",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "As he prepares to leave Pakistan after three memorable years, UN Resident Coordinator Mohamed Yahya says what he will remember most is the people is their warmth, resilience and generosity.#UNPakistan#MohamedYahya#Pakistan#Farewell#PakistanTV",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "度过难忘的三年后，当他准备离开巴基斯坦时，联合国驻地协调员穆罕默德·叶海亚表示，他最难忘的是巴基斯坦人民的热情、坚韧和慷慨。#UNPakistan#MohamedYahya#Pakistan#Farewell#PakistanTV",
     "images": [
       "876ba96e8e036989.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/6559312520235346757",
-    "timestamp": "2026-08-29T19:18:57.812774+00:00",
+    "url": "https://x.com/PakTVGlobal/status/6709336725522190195",
+    "timestamp": "2026-08-29T22:24:10.013565+00:00",
     "original_time": "2026-08-29T12:40:25+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6379120822554523424",
+    "id": "tweet_PakTVGlobal_-3166625336894064829",
     "type": "tweet",
     "username": "PakTVGlobal",
     "text": "Norway enters a new era under King Haakon VIII as the nation mourns the death of his father, King Harald, at 89. Flags flew at half-mast as thousands gathered at Oslo’s Royal Palace to pay tribute to the late monarch after 35 years on the throne.#Norway#KingHaakonVIII",
@@ -158,36 +195,23 @@
     "images": [
       "0db107bfea85c38e.jpg"
     ],
-    "url": "https://x.com/PakTVGlobal/status/-6379120822554523424",
-    "timestamp": "2026-08-29T19:18:58.372529+00:00",
+    "url": "https://x.com/PakTVGlobal/status/-3166625336894064829",
+    "timestamp": "2026-08-29T22:24:10.796675+00:00",
     "original_time": "2026-08-29T12:14:02+00:00"
   },
   {
-    "id": "tweet_PakTVGlobal_-6700711535972519530",
-    "type": "tweet",
-    "username": "PakTVGlobal",
-    "text": "Climate Expert Dr. Zainab Naeem says the Loss and Damage Fund remains severely underfunded as developed countries fail to meet their commitments. She says the Global South, G77 plus China can play a stronger role in pushing developed nations to pay for climate-related losses and",
-    "translated_text": "气候专家扎伊纳布·纳伊姆博士表示，由于发达国家未能履行其承诺，损失和损害基金资金仍然严重不足。她表示，全球南方国家、77国集团加上中国可以发挥更强有力的作用，推动发达国家支付与气候相关的损失和费用。",
-    "images": [
-      "df83c70b9e5a4c79.jpg"
-    ],
-    "url": "https://x.com/PakTVGlobal/status/-6700711535972519530",
-    "timestamp": "2026-08-29T19:18:59.054792+00:00",
-    "original_time": "2026-08-29T11:49:59+00:00"
-  },
-  {
-    "id": "tweet_araghchi_656002715917974168",
+    "id": "tweet_araghchi_1011100290475831403",
     "type": "tweet",
     "username": "araghchi",
     "text": "Our intelligence shows major efforts to game energy markets. U.S. Govt elements use gullible media to influence prices for personal gain and keep POTUS mired in a losing war. Israel-aligned actors also promote war with rosy assessments.\n\nU.S. consumers feel the real bottom line.",
     "translated_text": "我们的情报显示，他们在能源市场上进行了重大博弈。美国政府人员利用容易上当受骗的媒体来影响价格以谋取个人利益，并使美国总统陷入一场失败的战争。与以色列结盟的行为体也以乐观的评估来推动战争。\n\n美国消费者感受到了真正的底线。",
     "images": [],
-    "url": "https://x.com/araghchi/status/656002715917974168",
-    "timestamp": "2026-08-29T19:19:58.882373+00:00",
+    "url": "https://x.com/araghchi/status/1011100290475831403",
+    "timestamp": "2026-08-29T22:25:50.409047+00:00",
     "original_time": "2026-08-29T11:27:38+00:00"
   },
   {
-    "id": "tweet_mb_ghalibaf_-7848626329218541848",
+    "id": "tweet_mb_ghalibaf_307729441177205470",
     "type": "tweet",
     "username": "mb_ghalibaf",
     "text": "Liar liar pants on fire.\n\nFor real 130s, tell your staffer to pull Moody's showing $130+ billion in war costs, and ask another how much Jane Street burned north of $130 million shorting oil for you in just one futures roll.\n\nLiar liar yields on fire.",
@@ -195,434 +219,423 @@
     "images": [
       "ed4d3d827e248dd6.jpg"
     ],
-    "url": "https://x.com/mb_ghalibaf/status/-7848626329218541848",
-    "timestamp": "2026-08-29T19:20:26.295716+00:00",
+    "url": "https://x.com/mb_ghalibaf/status/307729441177205470",
+    "timestamp": "2026-08-29T22:26:16.360053+00:00",
     "original_time": "2026-08-29T15:36:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-9052891051312581254",
+    "id": "tweet_CBSNews_8054947409065189983",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "A military judge on Friday tossed out a confession that alleged Sept. 11 attacks mastermind Khalid Sheikh Mohammed delivered to FBI agents almost 20 years ago.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "Missouri college football player dies after medical emergency during season opener",
+    "translated_text": "密苏里州大学橄榄球运动员在赛季揭幕战期间因医疗紧急情况死亡",
+    "images": [
+      "6118db4d90eec432.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/8054947409065189983",
+    "timestamp": "2026-08-29T22:27:16.367549+00:00",
+    "original_time": "2026-08-29T22:23:23+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_293781297822864197",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Video shows two planes flying dramatically low over a rugby stadium in Cape Town, South Africa on Saturday.",
+    "translated_text": "视频显示，周六，两架飞机在南非开普敦的一个橄榄球场上空飞得很低。",
+    "images": [
+      "bb383d4ad9e2e4fb.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/293781297822864197",
+    "timestamp": "2026-08-29T22:27:17.598424+00:00",
+    "original_time": "2026-08-29T22:18:25+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_2471210822079571235",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "August 30 marks five years since the last American soldier left Afghanistan.@margbrennanis taking a look back on the negotiations with the Taliban spanning two presidencies and their lasting impact on the region.",
+    "translated_text": "8 月 30 日是最后一名美国士兵离开阿富汗五年。@margbrennanis 回顾了两届总统任期内与塔利班的谈判及其对该地区的持久影响。",
+    "images": [
+      "6dad6c14e3e4bbc2.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/2471210822079571235",
+    "timestamp": "2026-08-29T22:27:17.953179+00:00",
+    "original_time": "2026-08-29T20:39:06+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_4684822679880444893",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "Ontario Premier Doug Ford unveiled a large Lake Ontario sign on Saturday near Canada's shore in the latest spat with President Trump over the lake's name, which Trump changed to \"Lake America\" via an executive order on Thursday.\n\n\"I've received numerous calls from governors that",
+    "translated_text": "安大略省省长道格·福特周六在加拿大海岸附近揭开了安大略湖的一个巨大标志，这是与特朗普总统就安大略湖名称发生的最新争执，特朗普周四通过一项行政命令将安大略湖名称改为“美国湖”。\n\n“我接到了很多州长的电话",
+    "images": [
+      "ef63daaf36e8e5a1.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/4684822679880444893",
+    "timestamp": "2026-08-29T22:27:20.527915+00:00",
+    "original_time": "2026-08-29T20:28:54+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-2633648476730252485",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A U.S. official told CBS News that interim Venezuelan President Delcy Rodriguez granted a private joint venture a 100-year concession to operate in oil fields containing 65 billion barrels of petroleum.",
+    "translated_text": "一名美国官员告诉哥伦比亚广播公司新闻，委内瑞拉临时总统德尔西·罗德里格斯授予一家私人合资企业为期 100 年的特许经营权，允许其在蕴藏 650 亿桶石油的油田运营。",
+    "images": [
+      "fa0e7c40b084b852.jpg"
+    ],
+    "url": "https://x.com/CBSNews/status/-2633648476730252485",
+    "timestamp": "2026-08-29T22:27:20.749172+00:00",
+    "original_time": "2026-08-29T19:45:00+00:00"
+  },
+  {
+    "id": "tweet_CBSNews_-1137056076411865082",
+    "type": "tweet",
+    "username": "CBSNews",
+    "text": "A military judge on Friday tossed out a confession that alleged Sept. 11 attacks mastermind Khalid Sheikh Mohammed delivered to FBI agents almost 20 years ago, CBS News has learned, finding it was not given voluntarily.",
+    "translated_text": "据哥伦比亚广播公司新闻获悉，一名军事法官周五驳回了一份供词，称 9 月 11 日袭击事件的策划者哈立德·谢赫·穆罕默德 (Khalid Sheikh Mohammed) 在近 20 年前向联邦调查局 (FBI) 特工提供了一份供词，但发现该供词并非自愿提供。",
     "images": [
       "d97948a75ee19b96.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-9052891051312581254",
-    "timestamp": "2026-08-29T19:21:51.562306+00:00",
-    "original_time": "2026-08-29T19:15:00+00:00"
+    "url": "https://x.com/CBSNews/status/-1137056076411865082",
+    "timestamp": "2026-08-29T22:27:22.940669+00:00",
+    "original_time": "2026-08-29T11:30:01+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6968746794268862535",
+    "id": "tweet_CBSNews_3788772338220319515",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "Trump-shaped ecstasy pills potentially contain a lethal chemical, a Dutch health group warns.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "\"There are regulations in place - ammunition cannot be stored near homes or other residential areas,\" Zelenskyy said in a social media post on Saturday morning. \n\nThe president did not explicitly say what had caused the detonation or what the warehouse was storing when it was",
+    "translated_text": "泽连斯基周六早上在社交媒体上发帖称：“有规定——弹药不能存放在房屋或其他住宅区附近。” \n\n总统没有明确说明爆炸的原因，也没有明确说明爆炸发生时仓库里存放着什么。",
     "images": [
-      "a38e216070bc251f.jpg"
+      "522ff85b8d2e0c9c.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-6968746794268862535",
-    "timestamp": "2026-08-29T19:21:51.761201+00:00",
-    "original_time": "2026-08-29T18:30:01+00:00"
+    "url": "https://x.com/CBSNews/status/3788772338220319515",
+    "timestamp": "2026-08-29T22:27:23.389171+00:00",
+    "original_time": "2026-08-29T11:00:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-1431201100138439728",
+    "id": "tweet_CBSNews_6979403727532923952",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "BREAKING: Far-right political commentator and deportation advocate Milo Yiannopoulos was deported Friday, officials say.",
-    "translated_text": "突发新闻：官员称，极右政治评论员兼驱逐出境倡导者米洛·扬诺普洛斯于周五被驱逐出境。",
-    "images": [],
-    "url": "https://x.com/CBSNews/status/-1431201100138439728",
-    "timestamp": "2026-08-29T19:21:51.927687+00:00",
-    "original_time": "2026-08-29T17:56:18+00:00"
-  },
-  {
-    "id": "tweet_CBSNews_-8511789431110901573",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "President Trump insists Iran is \"begging to make a deal\" to end the war, but Tehran, and crucially China, say his economic warfare tactics will fail.",
-    "translated_text": "特朗普总统坚称伊朗正在“乞求达成协议”以结束战争，但德黑兰，尤其是中国，表示他的经济战策略将会失败。",
+    "text": "Tehran continued signalling that there is a path forward through diplomacy but that it would continue to defend its national interests militarily.",
+    "translated_text": "德黑兰继续表示，可以通过外交途径取得进展，但将继续以军事手段捍卫其国家利益。",
     "images": [
       "8d87d9177a544b0f.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-8511789431110901573",
-    "timestamp": "2026-08-29T19:21:52.158542+00:00",
-    "original_time": "2026-08-29T17:00:00+00:00"
+    "url": "https://x.com/CBSNews/status/6979403727532923952",
+    "timestamp": "2026-08-29T22:27:23.554082+00:00",
+    "original_time": "2026-08-29T10:45:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_-6557343972883809676",
+    "id": "tweet_CBSNews_-4210173546918247570",
     "type": "tweet",
     "username": "CBSNews",
-    "text": "\"If we had sat on the bus one minute longer, we were gone.”\n\nPattabiraman Venkatesan and his wife Anjana Raja narrowly escaped the ferocious Nepal floods on their way back from a pilgrimage to Tibet.\n\nThe couple from the San Francisco Bay Area witnessed a surge of water destroy",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "Poor weather is currently hampering aerial rescue operations for the workers and military personnel who have been working around the clock since Wednesday to find survivors in the mud.",
+    "translated_text": "目前，恶劣的天气阻碍了工人和军事人员的空中救援行动，他们自周三以来一直在全天候工作，寻找泥泞中的幸存者。",
     "images": [
-      "c00f936510cc6a48.jpg"
+      "053149c4145e4895.jpg"
     ],
-    "url": "https://x.com/CBSNews/status/-6557343972883809676",
-    "timestamp": "2026-08-29T19:21:52.383339+00:00",
-    "original_time": "2026-08-29T16:41:35+00:00"
+    "url": "https://x.com/CBSNews/status/-4210173546918247570",
+    "timestamp": "2026-08-29T22:27:23.775438+00:00",
+    "original_time": "2026-08-29T10:30:00+00:00"
   },
   {
-    "id": "tweet_CBSNews_6465398294680147996",
-    "type": "tweet",
-    "username": "CBSNews",
-    "text": "See which jobs are forecast to grow fastest — and slowest — over the next decade.",
-    "translated_text": "了解未来十年哪些工作预计增长最快和最慢。",
-    "images": [
-      "9a827367e0f28a2c.jpg"
-    ],
-    "url": "https://x.com/CBSNews/status/6465398294680147996",
-    "timestamp": "2026-08-29T19:21:54.658067+00:00",
-    "original_time": "2026-08-29T08:00:01+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_1310150085868329108",
+    "id": "tweet_geonews_urdu_-281007921432159467",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "In PIMS, 14 newborns passed away; one of the children was an orphan, whom the Edhi Foundation buried, Mustafa Kamal",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "5db3409ea2de8032.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/1310150085868329108",
-    "timestamp": "2026-08-29T19:23:34.606335+00:00",
-    "original_time": "2026-08-29T18:57:08+00:00"
+    "text": "سانحہ پمز کی رپورٹ پر وزیر اعظم کا ایکشن\nایگزیکٹو ڈائریکٹر پیر سمیت 8 افسران معطل",
+    "translated_text": "总理对皮姆斯悲剧报告采取的行动\n包括执行董事Peer在内的8名官员被停职",
+    "images": [],
+    "url": "https://x.com/geonews_urdu/status/-281007921432159467",
+    "timestamp": "2026-08-29T22:28:36.963082+00:00",
+    "original_time": "2026-08-29T22:28:26+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-2142707570362010410",
+    "id": "tweet_geonews_urdu_999171363681909455",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "The boy who came into the audience for the number recited a hilarious verse!",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "پاکستان سندھ طاس معاہدہ پر تعمیری بات چیت کا خواہاں ہے ، سفیر رضوان سعید شیخ",
+    "translated_text": "里兹万·赛义德·谢赫大使表示，巴基斯坦希望就印度河流域协议进行建设性谈判",
     "images": [
-      "8784d9e9e72591cf.jpg"
+      "4e7e58b225c49229.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-2142707570362010410",
-    "timestamp": "2026-08-29T19:23:34.830626+00:00",
-    "original_time": "2026-08-29T18:36:16+00:00"
+    "url": "https://x.com/geonews_urdu/status/999171363681909455",
+    "timestamp": "2026-08-29T22:28:39.156792+00:00",
+    "original_time": "2026-08-29T22:18:24+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_2978935135797632085",
+    "id": "tweet_geonews_urdu_-2240531725883548413",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "What is the process of writing a song?",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "بلاول بھٹو زرداری کی یورپ میں منگنی کی اطلاعات",
+    "translated_text": "关于比拉瓦尔·布托·扎尔达里参与欧洲活动的报道",
     "images": [
-      "294cc7cc966d342f.jpg"
+      "d90ddc43789d31bb.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/2978935135797632085",
-    "timestamp": "2026-08-29T19:23:35.066302+00:00",
-    "original_time": "2026-08-29T18:36:12+00:00"
+    "url": "https://x.com/geonews_urdu/status/-2240531725883548413",
+    "timestamp": "2026-08-29T22:28:40.274585+00:00",
+    "original_time": "2026-08-29T22:13:31+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-731750745526565130",
+    "id": "tweet_geonews_urdu_-431560811843386815",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Tabish played with Nimra immediately foreign translation...",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "The board will respond to not selecting Shaheen Afridi and Naseem Shah for the England tour: Mohammad Ali",
+    "translated_text": "董事会将对不选择沙欣·阿夫里迪和纳西姆·沙阿参加英格兰之旅做出回应：穆罕默德·阿里",
     "images": [
-      "17a201bcacaa1d25.jpg"
+      "936e6e6889a81016.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-731750745526565130",
-    "timestamp": "2026-08-29T19:23:35.296414+00:00",
-    "original_time": "2026-08-29T18:36:07+00:00"
+    "url": "https://x.com/geonews_urdu/status/-431560811843386815",
+    "timestamp": "2026-08-29T22:28:41.219637+00:00",
+    "original_time": "2026-08-29T21:55:41+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_199211375729505384",
+    "id": "tweet_geonews_urdu_-3437950134720855817",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Reports of Bilawal Bhutto Zardari's engagement in Europe",
+    "translated_text": "关于比拉瓦尔·布托·扎尔达里参与欧洲活动的报道",
+    "images": [
+      "9845728062d0bc60.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/-3437950134720855817",
+    "timestamp": "2026-08-29T22:28:41.477871+00:00",
+    "original_time": "2026-08-29T21:08:12+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_9061639092666458048",
+    "type": "tweet",
+    "username": "geonews_urdu",
+    "text": "Murtaza Wahab: Reports of Bilawal Bhutto's engagement or marriage are baseless.",
+    "translated_text": "穆尔塔扎·瓦哈卜：有关比拉瓦尔·布托订婚或结婚的报道毫无根据。",
+    "images": [
+      "08f6bdd8d42e6f75.jpg"
+    ],
+    "url": "https://x.com/geonews_urdu/status/9061639092666458048",
+    "timestamp": "2026-08-29T22:28:42.468990+00:00",
+    "original_time": "2026-08-29T20:43:09+00:00"
+  },
+  {
+    "id": "tweet_geonews_urdu_1832690311563751041",
     "type": "tweet",
     "username": "geonews_urdu",
     "text": "Tabish played with Namra, futa futa...",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_text": "Tabish 和 Namra 一起玩，futa futa...",
     "images": [
       "17a201bcacaa1d25.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/199211375729505384",
-    "timestamp": "2026-08-29T19:23:35.429574+00:00",
+    "url": "https://x.com/geonews_urdu/status/1832690311563751041",
+    "timestamp": "2026-08-29T22:28:46.593356+00:00",
     "original_time": "2026-08-29T18:36:02+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-4046878419715224657",
+    "id": "tweet_geonews_urdu_4906124305324382766",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "No aspect of Health Minister Mustafa Kamal's negligence has actually come to light. The Health Minister had offered his resignation, but the Prime Minister has restrained him from resigning until the inquiry is completed, Tareq Fazal Chaudhry",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "What is a very bad habit of Number's?",
+    "translated_text": "Number的一个非常坏的习惯是什么？",
     "images": [],
-    "url": "https://x.com/geonews_urdu/status/-4046878419715224657",
-    "timestamp": "2026-08-29T19:23:37.629313+00:00",
-    "original_time": "2026-08-29T18:02:26+00:00"
+    "url": "https://x.com/geonews_urdu/status/4906124305324382766",
+    "timestamp": "2026-08-29T22:28:47.636800+00:00",
+    "original_time": "2026-08-29T18:35:58+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8320220369913903555",
+    "id": "tweet_geonews_urdu_8910745735123704173",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "It is wrong to say that ministers do not get treatment from government hospitals. My mother had angioplasty done at PIMS; Tariq Fazal Chaudhry's reaction to the statements of Pervez Rashid and Mushtaq Malik.",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "When is Nomrah's film coming out?",
+    "translated_text": "诺姆拉的电影什么时候上映？",
     "images": [
-      "32b806515243b4b4.jpg"
+      "f51e4450f030fde7.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-8320220369913903555",
-    "timestamp": "2026-08-29T19:23:37.821446+00:00",
-    "original_time": "2026-08-29T17:59:09+00:00"
+    "url": "https://x.com/geonews_urdu/status/8910745735123704173",
+    "timestamp": "2026-08-29T22:28:48.746432+00:00",
+    "original_time": "2026-08-29T18:35:54+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_3982310619083854550",
+    "id": "tweet_geonews_urdu_-79401355781794005",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "The government has rejected CNN's allegations regarding claims about Imran Khan's health and conditions in jail",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "Will Nimra Mehra sing a song for any political party?",
+    "translated_text": "Nimra Mehra 会为任何政党唱一首歌吗？",
     "images": [
-      "45db8fb1529035a7.jpg"
+      "0203ceadff0f5ebc.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/3982310619083854550",
-    "timestamp": "2026-08-29T19:23:38.064740+00:00",
-    "original_time": "2026-08-29T17:44:54+00:00"
+    "url": "https://x.com/geonews_urdu/status/-79401355781794005",
+    "timestamp": "2026-08-29T22:28:49.162142+00:00",
+    "original_time": "2026-08-29T18:35:48+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-3573644781626704383",
+    "id": "tweet_geonews_urdu_-5254297430271785518",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Karachi: Drop scene in private hospital for childbirth case, woman pretended to be pregnant out of fear of taunts for being childless",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "Why did Number Mehr steal a hanger from the hotel?",
+    "translated_text": "梅尔号为什么要从酒店偷衣架？",
     "images": [
-      "737fa510274bfc57.jpg"
+      "845e54c64908a68b.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-3573644781626704383",
-    "timestamp": "2026-08-29T19:23:38.265628+00:00",
-    "original_time": "2026-08-29T16:51:56+00:00"
+    "url": "https://x.com/geonews_urdu/status/-5254297430271785518",
+    "timestamp": "2026-08-29T22:28:49.777343+00:00",
+    "original_time": "2026-08-29T18:35:33+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_8125448733318172156",
+    "id": "tweet_geonews_urdu_3822515890731433176",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "If initial inquiry into the Pims fire has proven criminal negligence, then an FIR should now be registered and action taken against the accused, Mazhar Abbas@MazharAbbasGEO",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "What was Nimra Mehra like in her childhood?",
+    "translated_text": "尼姆拉·梅赫拉（Nimra Mehra）童年时是什么样的？",
     "images": [
-      "358ec423ee3e2a48.jpg"
+      "d75416c64dd2cdd6.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/8125448733318172156",
-    "timestamp": "2026-08-29T19:23:38.471210+00:00",
-    "original_time": "2026-08-29T15:32:35+00:00"
+    "url": "https://x.com/geonews_urdu/status/3822515890731433176",
+    "timestamp": "2026-08-29T22:28:51.157614+00:00",
+    "original_time": "2026-08-29T18:35:29+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_-8959190681659444653",
+    "id": "tweet_geonews_urdu_5954690954006211720",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "Appointing Syed Fakhar Ali Gilani as the Prime Minister of Azad Kashmir is an undemocratic decision. It is an insult to those who came through votes, and Nawaz Sharif is responsible for this, Mazhar Abbas@MazharAbbasGEO",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "A delivery case has been dropped at a private hospital in Karachi.",
+    "translated_text": "卡拉奇一家私人医院已丢弃一例分娩病例。",
     "images": [
-      "f19db2d5425912bb.jpg"
+      "8e041f5039ecd2e6.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/-8959190681659444653",
-    "timestamp": "2026-08-29T19:23:38.663833+00:00",
-    "original_time": "2026-08-29T15:32:15+00:00"
+    "url": "https://x.com/geonews_urdu/status/5954690954006211720",
+    "timestamp": "2026-08-29T22:28:51.795654+00:00",
+    "original_time": "2026-08-29T18:16:27+00:00"
   },
   {
-    "id": "tweet_geonews_urdu_6455886094577145211",
+    "id": "tweet_geonews_urdu_-374098034029032793",
     "type": "tweet",
     "username": "geonews_urdu",
-    "text": "The administration, including Mustafa Kamal and Shehbaz Sharif, should face FIRs for the negligence at PIMS, so that such negligence never happens in any hospital in the future, Irshad Bhatti@IrshadBhatti336",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text": "PHF Expresses Satisfaction with 11th Position in Hockey World Cup",
+    "translated_text": "PHF 对曲棍球世界杯第 11 名表示满意",
     "images": [
-      "028aab726083bfa7.jpg"
+      "d5479e7a0139d543.jpg"
     ],
-    "url": "https://x.com/geonews_urdu/status/6455886094577145211",
-    "timestamp": "2026-08-29T19:23:38.847685+00:00",
-    "original_time": "2026-08-29T15:31:49+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_6882074041467573131",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "6 PM Headlines - 29 August 2026",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "f15be81affce02cd.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/6882074041467573131",
-    "timestamp": "2026-08-29T19:23:41.057070+00:00",
-    "original_time": "2026-08-29T14:02:44+00:00"
-  },
-  {
-    "id": "tweet_geonews_urdu_-2307914268336853261",
-    "type": "tweet",
-    "username": "geonews_urdu",
-    "text": "One day, 5 jobs, 5 jobs, Suhail Sameer has revealed the reality of life...",
-    "translated_text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "images": [
-      "da05e9926e70fa23.jpg"
-    ],
-    "url": "https://x.com/geonews_urdu/status/-2307914268336853261",
-    "timestamp": "2026-08-29T19:23:41.244209+00:00",
-    "original_time": "2026-08-29T13:09:38+00:00"
-  },
-  {
-    "id": "article_97754a36872d",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Bangladesh confirms deal to buy Chinese J-10 fighter jets: report",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025977/bangladesh-confirms-deal-to-buy-chinese-j-10-fighter-jets-report",
-    "timestamp": "2026-08-29T19:25:28.545672+00:00",
-    "original_time": "2026-08-29T19:17:38+05:00"
-  },
-  {
-    "id": "article_4ea9c2cdb50e",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Christians in India fear that tighter laws target them",
-    "translated_title": "印度的基督徒担心更严格的法律会针对他们",
-    "url": "https://www.dawn.com/news/2025951/christians-in-india-fear-that-tighter-laws-target-them",
-    "timestamp": "2026-08-29T19:26:39.981148+00:00",
-    "original_time": "2026-08-29T15:10:53+05:00"
-  },
-  {
-    "id": "article_7a7e31a86850",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt rebuts claims of cancelling power-generation component of Diamer-Bhasha Dam",
-    "translated_title": "政府反驳取消迪亚默-巴沙大坝发电部分的说法",
-    "url": "https://www.dawn.com/news/2025942/govt-rebuts-claims-of-cancelling-power-generation-component-of-diamer-bhasha-dam",
-    "timestamp": "2026-08-29T19:26:48.850539+00:00",
-    "original_time": "2026-08-29T13:17:55+05:00"
-  },
-  {
-    "id": "article_cadb7723c78c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Pims fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
-    "translated_title": "皮姆斯解雇：总理谢巴兹下令停职，并对 8 名官员提起刑事诉讼，调查小组提交临时报告",
-    "url": "https://www.dawn.com/news/2025962/pims-fire-pm-shehbaz-orders-suspension-criminal-action-against-8-officials-as-inquiry-panel-submits-interim-report",
-    "timestamp": "2026-08-29T19:27:51.610857+00:00",
-    "original_time": "2026-08-29T18:15:17+05:00"
-  },
-  {
-    "id": "article_fa66dd762cc2",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "India's javelin champion Neeraj Chopra ends season early after ligament tear",
-    "translated_title": "印度标枪冠军尼拉吉·乔普拉因韧带撕裂提前结束赛季",
-    "url": "https://www.dawn.com/news/2025952/indias-javelin-champion-neeraj-chopra-ends-season-early-after-ligament-tear",
-    "timestamp": "2026-08-29T19:28:19.420395+00:00",
-    "original_time": "2026-08-29T15:07:10+05:00"
-  },
-  {
-    "id": "article_8911f3db5e47",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "War weighs on Iran's economy as US intensifies sanctions",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025973/war-weighs-on-irans-economy-as-us-intensifies-sanctions",
-    "timestamp": "2026-08-29T19:29:10.204018+00:00",
-    "original_time": "2026-08-29T18:56:55+05:00"
-  },
-  {
-    "id": "article_b8376c5130a0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "25 Pakistanis return home after release from Indian jails via Wagah border",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025987/25-pakistanis-return-home-after-release-from-indian-jails-via-wagah-border",
-    "timestamp": "2026-08-29T19:30:01.859149+00:00",
-    "original_time": "2026-08-29T21:23:33+05:00"
-  },
-  {
-    "id": "article_8ae9f5bf62a0",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Info ministry rejects ‘misleading’ foreign media reports on ‘convicted prisoner’",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025992/info-ministry-rejects-misleading-foreign-media-reports-on-convicted-prisoner",
-    "timestamp": "2026-08-29T19:33:04.097176+00:00",
-    "original_time": "2026-08-29T23:39:59+05:00"
-  },
-  {
-    "id": "article_a38b1451e7dd",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "www.dawn.com",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2024315/carbon-credits-explained-how-pakistan-can-turn-climate-action-into-investable-projects",
-    "timestamp": "2026-08-29T19:33:26.536938+00:00",
-    "original_time": "2026-08-29T19:33:26.536899+00:00"
-  },
-  {
-    "id": "article_d85b9276bf3c",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "CM Afridi vows tougher child protection laws in KP after 5-year-old girl's rape, murder",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025944/cm-afridi-vows-tougher-child-protection-laws-in-kp-after-5-year-old-girls-rape-murder",
-    "timestamp": "2026-08-29T19:33:49.319949+00:00",
-    "original_time": "2026-08-29T14:14:23+05:00"
-  },
-  {
-    "id": "article_92b094227a33",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Lawrence's fifty leaves Pakistan facing record chase to level England series",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025972/lawrences-fifty-leaves-pakistan-facing-record-chase-to-level-england-series",
-    "timestamp": "2026-08-29T19:34:18.338322+00:00",
-    "original_time": "2026-08-29T17:50:39+05:00"
-  },
-  {
-    "id": "article_5d6b111610e6",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Clashes in Niger's Niamey after troops attempt to storm presidential palace",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025966/clashes-in-nigers-niamey-after-troops-attempt-to-storm-presidential-palace",
-    "timestamp": "2026-08-29T19:34:35.183946+00:00",
-    "original_time": "2026-08-29T17:08:02+05:00"
-  },
-  {
-    "id": "article_621991e873dd",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Govt apologises for ‘temporary’ night-time loadshedding due to unavailability of RLNG",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025978/govt-apologises-for-temporary-night-time-loadshedding-due-to-unavailability-of-rlng",
-    "timestamp": "2026-08-29T19:34:42.838131+00:00",
-    "original_time": "2026-08-29T19:38:37+05:00"
-  },
-  {
-    "id": "article_715a67203ea1",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "Inquiry ordered as CCTV footage emerges of police's alleged involvement in scuffle in Karachi's DHA",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025940/inquiry-ordered-as-cctv-footage-emerges-of-polices-alleged-involvement-in-scuffle-in-karachis-dha",
-    "timestamp": "2026-08-29T19:35:23.090679+00:00",
-    "original_time": "2026-08-29T13:24:13+05:00"
-  },
-  {
-    "id": "article_3c95cd377257",
-    "type": "article",
-    "source": "www.dawn.com",
-    "title": "40pc of Pakistan's children are stunted. What does it cost the country's economy?",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://www.dawn.com/news/2025970/40pc-of-pakistans-children-are-stunted-what-does-it-cost-the-countrys-economy",
-    "timestamp": "2026-08-29T19:35:55.821374+00:00",
-    "original_time": "2026-08-29T17:32:27+05:00"
+    "url": "https://x.com/geonews_urdu/status/-374098034029032793",
+    "timestamp": "2026-08-29T22:28:52.882857+00:00",
+    "original_time": "2026-08-29T18:15:44+00:00"
   },
   {
     "id": "article_18bed3c95911",
     "type": "article",
     "source": "www.dawn.com",
     "title": "Two minor girls being prepared for suicide attacks rescued in Balochistan, home minister claims",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_title": "内政部长称，俾路支省两名准备自杀式袭击的未成年女孩获救",
     "url": "https://www.dawn.com/news/2025976/two-minor-girls-being-prepared-for-suicide-attacks-rescued-in-balochistan-home-minister-claims",
-    "timestamp": "2026-08-29T19:36:05.831377+00:00",
+    "timestamp": "2026-08-29T22:31:50.309900+00:00",
     "original_time": "2026-08-29T20:05:50+05:00"
+  },
+  {
+    "id": "article_5d6b111610e6",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Clashes in Niger's Niamey after troops attempt to storm presidential palace",
+    "translated_title": "军队试图冲进总统府后，尼日尔尼亚美发生冲突",
+    "url": "https://www.dawn.com/news/2025966/clashes-in-nigers-niamey-after-troops-attempt-to-storm-presidential-palace",
+    "timestamp": "2026-08-29T22:33:22.488444+00:00",
+    "original_time": "2026-08-29T17:08:02+05:00"
+  },
+  {
+    "id": "article_97754a36872d",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Bangladesh confirms deal to buy Chinese J-10 fighter jets: report",
+    "translated_title": "孟加拉国确认购买中国歼10战斗机的交易：报告",
+    "url": "https://www.dawn.com/news/2025977/bangladesh-confirms-deal-to-buy-chinese-j-10-fighter-jets-report",
+    "timestamp": "2026-08-29T22:34:06.879063+00:00",
+    "original_time": "2026-08-29T19:17:38+05:00"
+  },
+  {
+    "id": "article_8911f3db5e47",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "War weighs on Iran's economy as US intensifies sanctions",
+    "translated_title": "美国加大制裁力度，战争给伊朗经济带来压力",
+    "url": "https://www.dawn.com/news/2025973/war-weighs-on-irans-economy-as-us-intensifies-sanctions",
+    "timestamp": "2026-08-29T22:34:35.985416+00:00",
+    "original_time": "2026-08-29T18:56:55+05:00"
+  },
+  {
+    "id": "article_cadb7723c78c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pims fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
+    "translated_title": "皮姆斯解雇：总理谢巴兹下令停职，并对 8 名官员采取刑事行动，调查小组提交临时报告",
+    "url": "https://www.dawn.com/news/2025962/pims-fire-pm-shehbaz-orders-suspension-criminal-action-against-8-officials-as-inquiry-panel-submits-interim-report",
+    "timestamp": "2026-08-29T22:34:41.496985+00:00",
+    "original_time": "2026-08-29T18:15:17+05:00"
+  },
+  {
+    "id": "article_8612161dc3c1",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "黎明网",
+    "url": "https://www.dawn.com/news/2025238/govt-increases-petrol-price-by-rs112-high-speed-diesel-by-rs111",
+    "timestamp": "2026-08-29T22:35:20.504577+00:00",
+    "original_time": "2026-08-29T22:35:20.504369+00:00"
+  },
+  {
+    "id": "article_b8376c5130a0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "25 Pakistanis return home after release from Indian jails via Wagah border",
+    "translated_title": "25名巴基斯坦人从印度监狱获释后经瓦加边境返回家园",
+    "url": "https://www.dawn.com/news/2025987/25-pakistanis-return-home-after-release-from-indian-jails-via-wagah-border",
+    "timestamp": "2026-08-29T22:36:07.579788+00:00",
+    "original_time": "2026-08-29T21:23:33+05:00"
+  },
+  {
+    "id": "article_621991e873dd",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Govt apologises for ‘temporary’ night-time loadshedding due to unavailability of RLNG",
+    "translated_title": "政府对因 RLNG 无法使用而导致的“临时”夜间减负荷表示歉意",
+    "url": "https://www.dawn.com/news/2025978/govt-apologises-for-temporary-night-time-loadshedding-due-to-unavailability-of-rlng",
+    "timestamp": "2026-08-29T22:36:35.866817+00:00",
+    "original_time": "2026-08-29T19:38:37+05:00"
+  },
+  {
+    "id": "article_92b094227a33",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Lawrence's fifty leaves Pakistan facing record chase to level England series",
+    "translated_title": "劳伦斯五十岁离开巴基斯坦面临追平英格兰系列赛纪录的挑战",
+    "url": "https://www.dawn.com/news/2025972/lawrences-fifty-leaves-pakistan-facing-record-chase-to-level-england-series",
+    "timestamp": "2026-08-29T22:37:11.947113+00:00",
+    "original_time": "2026-08-29T17:50:39+05:00"
+  },
+  {
+    "id": "article_8ae9f5bf62a0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Info ministry rejects ‘misleading’ foreign media reports on ‘convicted prisoner’",
+    "translated_title": "信息部拒绝接受外国媒体关于“被定罪囚犯”的“误导性”报道",
+    "url": "https://www.dawn.com/news/2025992/info-ministry-rejects-misleading-foreign-media-reports-on-convicted-prisoner",
+    "timestamp": "2026-08-29T22:37:19.059063+00:00",
+    "original_time": "2026-08-29T23:39:59+05:00"
   },
   {
     "id": "article_006c9a518fbf",
     "type": "article",
     "source": "www.dawn.com",
     "title": "Naqvi visits passport office at Karachi's Awami Markaz, says facility to be expanded",
-    "translated_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "translated_title": "纳克维参观了卡拉奇 Awami Markaz 的护照办公室，表示设施将得到扩建",
     "url": "https://www.dawn.com/news/2025959/naqvi-visits-passport-office-at-karachis-awami-markaz-says-facility-to-be-expanded",
-    "timestamp": "2026-08-29T19:36:22.746909+00:00",
+    "timestamp": "2026-08-29T22:38:20.559932+00:00",
     "original_time": "2026-08-29T16:50:01+05:00"
+  },
+  {
+    "id": "article_3c95cd377257",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "40pc of Pakistan's children are stunted. What does it cost the country's economy?",
+    "translated_title": "40% 的巴基斯坦儿童发育迟缓。国家经济为此付出了什么代价？",
+    "url": "https://www.dawn.com/news/2025970/40pc-of-pakistans-children-are-stunted-what-does-it-cost-the-countrys-economy",
+    "timestamp": "2026-08-29T22:39:04.687349+00:00",
+    "original_time": "2026-08-29T17:32:27+05:00"
   }
 ]
