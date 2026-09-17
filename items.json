@@ -1,240 +1,242 @@
 [
   {
-    "id": "tweet_AJENews_0",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "",
-    "translated_text": "",
-    "images": [
-      "d416a2159b975fc8.jpg",
-      "9b20f961c2ada6de.svg"
-    ],
-    "url": "https://x.com/AJENews/status/0",
-    "timestamp": "2026-09-17T19:38:29.688838+00:00",
-    "original_time": "2026-09-17T09:30:16+00:00"
+    "id": "article_8e764279671c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Two siblings’ bodies recovered in Mirpur canal, search for third child called off",
+    "translated_title": "Two siblings’ bodies recovered in Mirpur canal, search for third child called off",
+    "url": "https://www.dawn.com/news/2030629/two-siblings-bodies-recovered-in-mirpur-canal-search-for-third-child-called-off",
+    "timestamp": "2026-09-17T22:49:57.602763+00:00",
+    "original_time": "2026-09-17T20:02:34+05:00"
   },
   {
-    "id": "tweet_AJENews_8593593889938814919",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "Houthi leader Abdul Malik al-Houthi pledges to defend Mecca and other Islamic holy sites and rejects Saudi claims that his group tried to strike Mecca.",
-    "translated_text": "Houthi leader Abdul Malik al-Houthi pledges to defend Mecca and other Islamic holy sites and rejects Saudi claims that his group tried to strike Mecca.",
-    "images": [
-      "b29783e73d8c0471.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/8593593889938814919",
-    "timestamp": "2026-09-17T19:38:30.322740+00:00",
-    "original_time": "2026-09-17T19:35:17+00:00"
+    "id": "article_791c8971ea06",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Energy disruption hits Pakistan and Bangladesh as Gulf crisis worsens",
+    "translated_title": "Energy disruption hits Pakistan and Bangladesh as Gulf crisis worsens",
+    "url": "https://www.dawn.com/news/2030642/energy-disruption-hits-pakistan-and-bangladesh-as-gulf-crisis-worsens",
+    "timestamp": "2026-09-17T22:50:08.736738+00:00",
+    "original_time": "2026-09-17T19:50:51+05:00"
   },
   {
-    "id": "tweet_AJENews_399786714219037990",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: US State Department approves sale of 48 F-35 fighter jets to Saudi ArabiaLIVE updates:https://aje.news/cc84eq?update=4960558…",
-    "translated_text": "BREAKING: US State Department approves sale of 48 F-35 fighter jets to Saudi ArabiaLIVE updates:https://aje.news/cc84eq?update=4960558…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "c972ef2bc0783610.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/399786714219037990",
-    "timestamp": "2026-09-17T19:38:30.911897+00:00",
-    "original_time": "2026-09-17T19:30:22+00:00"
+    "id": "article_9c6e0fb075ad",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM’s fuel subsidy scheme faces first-day hurdles at petrol pumps",
+    "translated_title": "PM’s fuel subsidy scheme faces first-day hurdles at petrol pumps",
+    "url": "https://www.dawn.com/news/2030654/pms-fuel-subsidy-scheme-faces-first-day-hurdles-at-petrol-pumps",
+    "timestamp": "2026-09-17T22:50:19.236770+00:00",
+    "original_time": "2026-09-17T23:43:25+05:00"
   },
   {
-    "id": "tweet_AJENews_1517027306749079686",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "The US State Department says it has approved visas for a core Iranian delegation and essential staffers to attend a UN General Assembly meeting in New York next week.\n\nIranian President Masoud Pezeshkian is due to be part of the delegation.LIVE Updates:",
-    "translated_text": "The US State Department says it has approved visas for a core Iranian delegation and essential staffers to attend a UN General Assembly meeting in New York next week.\n\nIranian President Masoud Pezeshkian is due to be part of the delegation.LIVE Updates:",
-    "images": [
-      "7f1a451786c84548.svg",
-      "5d0528b5d4979965.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/1517027306749079686",
-    "timestamp": "2026-09-17T19:38:31.497244+00:00",
-    "original_time": "2026-09-17T19:25:44+00:00"
+    "id": "article_e4ff608f0040",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "'A chief minister's trips are never personal': Maryam claps back at criticism over use of govt aircraft",
+    "translated_title": "'A chief minister's trips are never personal': Maryam claps back at criticism over use of govt aircraft",
+    "url": "https://www.dawn.com/news/2030633/a-chief-ministers-trips-are-never-personal-maryam-claps-back-at-criticism-over-use-of-govt-aircraft",
+    "timestamp": "2026-09-17T22:50:33.205569+00:00",
+    "original_time": "2026-09-17T18:31:07+05:00"
   },
   {
-    "id": "tweet_AJENews_-4947830786592856924",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Qatar condemns drone attack on Saudi Arabia's Taif governorateLIVE updates:https://aje.news/cc84eq?update=4960535…",
-    "translated_text": "BREAKING: Qatar condemns drone attack on Saudi Arabia's Taif governorateLIVE updates:https://aje.news/cc84eq?update=4960535…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "617df47d5d976045.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-4947830786592856924",
-    "timestamp": "2026-09-17T19:38:32.011407+00:00",
-    "original_time": "2026-09-17T19:15:27+00:00"
+    "id": "article_6eaadeee3af5",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "UN mission finds grounds to believe US committed war crimes in Iran with strikes on school, sports centre",
+    "translated_title": "UN mission finds grounds to believe US committed war crimes in Iran with strikes on school, sports centre",
+    "url": "https://www.dawn.com/news/2030616/un-mission-finds-grounds-to-believe-us-committed-war-crimes-in-iran-with-strikes-on-school-sports-centre",
+    "timestamp": "2026-09-17T22:50:44.684567+00:00",
+    "original_time": "2026-09-17T18:12:26+05:00"
   },
   {
-    "id": "tweet_AJENews_8702600298645853958",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Russia and China have vetoed a US draft resolution at the UN Security Council to extend the mandate of a committee that oversees sanctions on IranLIVE updates:https://aje.news/cc84eq?update=4960002…",
-    "translated_text": "BREAKING: Russia and China have vetoed a US draft resolution at the UN Security Council to extend the mandate of a committee that oversees sanctions on IranLIVE updates:https://aje.news/cc84eq?update=4960002…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "22b011cf234327d0.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/8702600298645853958",
-    "timestamp": "2026-09-17T19:38:34.559908+00:00",
-    "original_time": "2026-09-17T17:00:23+00:00"
+    "id": "article_8c10620d5b62",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "www.dawn.com",
+    "url": "https://www.dawn.com/news/2030525/woman-kills-husband-injures-daughters-in-jaranwala",
+    "timestamp": "2026-09-17T22:51:04.615475+00:00",
+    "original_time": "2026-09-17T22:51:04.615440+00:00"
   },
   {
-    "id": "tweet_AJENews_5843927806984823632",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: US military says 104 commercial vessels redirected in Iran blockadeLIVE updates:https://aje.news/cc84eq?update=4959915…",
-    "translated_text": "BREAKING: US military says 104 commercial vessels redirected in Iran blockadeLIVE updates:https://aje.news/cc84eq?update=4959915…",
-    "images": [
-      "7f1a451786c84548.svg"
-    ],
-    "url": "https://x.com/AJENews/status/5843927806984823632",
-    "timestamp": "2026-09-17T19:38:34.980276+00:00",
-    "original_time": "2026-09-17T16:40:28+00:00"
+    "id": "article_a2e1fddf62b0",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan ranked among bottom three in WEF's Global Gender Gap Report 2026",
+    "translated_title": "Pakistan ranked among bottom three in WEF's Global Gender Gap Report 2026",
+    "url": "https://www.dawn.com/news/2030632/pakistan-ranked-among-bottom-three-in-wefs-global-gender-gap-report-2026",
+    "timestamp": "2026-09-17T22:51:23.288358+00:00",
+    "original_time": "2026-09-17T17:44:42+05:00"
   },
   {
-    "id": "tweet_AJENews_-8635033710995254899",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: WHO chief says fighting in Yemen pushing health system towards ‘collapse’LIVE updates:https://aje.news/cc84eq?update=4959850…",
-    "translated_text": "BREAKING: WHO chief says fighting in Yemen pushing health system towards ‘collapse’LIVE updates:https://aje.news/cc84eq?update=4959850…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "1a61b9569e98341d.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-8635033710995254899",
-    "timestamp": "2026-09-17T19:38:35.589351+00:00",
-    "original_time": "2026-09-17T16:30:44+00:00"
+    "id": "article_99afaf3cd5fd",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Salman Akram Raja says released after PTI claims detention by Islamabad police",
+    "translated_title": "Salman Akram Raja says released after PTI claims detention by Islamabad police",
+    "url": "https://www.dawn.com/news/2030635/salman-akram-raja-says-released-after-pti-claims-detention-by-islamabad-police",
+    "timestamp": "2026-09-17T22:51:36.916202+00:00",
+    "original_time": "2026-09-17T16:58:14+05:00"
   },
   {
-    "id": "tweet_AJENews_6827750725545105719",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Tanker pursued by skiff east of Yemen's Aden: UKMTOLIVE updates:https://aje.news/cc84eq?update=4960079…",
-    "translated_text": "BREAKING: Tanker pursued by skiff east of Yemen's Aden: UKMTOLIVE updates:https://aje.news/cc84eq?update=4960079…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "01099490974dfdb2.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/6827750725545105719",
-    "timestamp": "2026-09-17T19:38:36.225010+00:00",
-    "original_time": "2026-09-17T16:25:41+00:00"
+    "id": "article_4b94834eadc7",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "www.dawn.com",
+    "url": "https://www.dawn.com/news/2030353/bangladesh-govt-committee-says-national-team-should-have-participated-in-t20-world-cup",
+    "timestamp": "2026-09-17T22:52:08.947603+00:00",
+    "original_time": "2026-09-17T22:52:08.947566+00:00"
   },
   {
-    "id": "tweet_AJENews_-8851563485898480923",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "The UN's deputy envoy to Syria, Claudio Cordone, says Israel is carrying out daily incursions into Syria in violation of the disengagement agreement. \n\nHe also says Netanyahu’s visit to Israeli forces in Syria is another breach of sovereignty.More onhttps://Aljazeera.com",
-    "translated_text": "The UN's deputy envoy to Syria, Claudio Cordone, says Israel is carrying out daily incursions into Syria in violation of the disengagement agreement. \n\nHe also says Netanyahu’s visit to Israeli forces in Syria is another breach of sovereignty.More onhttps://Aljazeera.com",
-    "images": [
-      "7f1a451786c84548.svg",
-      "6b038a7a9a4a86be.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-8851563485898480923",
-    "timestamp": "2026-09-17T19:38:36.800662+00:00",
-    "original_time": "2026-09-17T16:25:09+00:00"
+    "id": "article_4ce703e94381",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Govt lowers petrol price by Rs0.43 per litre, raises HSD by Rs3.47 per litre",
+    "translated_title": "Govt lowers petrol price by Rs0.43 per litre, raises HSD by Rs3.47 per litre",
+    "url": "https://www.dawn.com/news/2030655/govt-lowers-petrol-price-by-rs043-per-litre-raises-hsd-by-rs347-per-litre",
+    "timestamp": "2026-09-17T22:52:21.617019+00:00",
+    "original_time": "2026-09-17T22:55:41+05:00"
   },
   {
-    "id": "tweet_AJENews_-1626886859883425103",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Death toll from Israeli attacks in Lebanon since March 2 rises to 4,386: Lebanese health ministryLIVE updates:https://aje.news/cc84eq?update=4959450…",
-    "translated_text": "BREAKING: Death toll from Israeli attacks in Lebanon since March 2 rises to 4,386: Lebanese health ministryLIVE updates:https://aje.news/cc84eq?update=4959450…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "aebde96f9ec546ca.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/-1626886859883425103",
-    "timestamp": "2026-09-17T19:38:37.289411+00:00",
-    "original_time": "2026-09-17T16:20:30+00:00"
+    "id": "article_67be844cb388",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "www.dawn.com",
+    "url": "https://www.dawn.com/news/2029894/cdf-munir-reaffirms-commitment-to-bolstering-defence-ties-in-meeting-with-indonesian-naval-chief",
+    "timestamp": "2026-09-17T22:53:16.960300+00:00",
+    "original_time": "2026-09-17T22:53:16.960269+00:00"
   },
   {
-    "id": "tweet_AJENews_5185280328974822933",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Four people killed in Yemen by Saudi, Yemeni government air raids, reports Houthi-backed mediaLIVE updates:https://aje.news/cc84eq?update=4959887…",
-    "translated_text": "BREAKING: Four people killed in Yemen by Saudi, Yemeni government air raids, reports Houthi-backed mediaLIVE updates:https://aje.news/cc84eq?update=4959887…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "f19621f5994341a5.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/5185280328974822933",
-    "timestamp": "2026-09-17T19:38:38.037400+00:00",
-    "original_time": "2026-09-17T16:15:05+00:00"
+    "id": "article_dc7f383537fc",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Punjab opposition leader moves LHC against law allowing trials under confidential regime in terrorism cases",
+    "translated_title": "Punjab opposition leader moves LHC against law allowing trials under confidential regime in terrorism cases",
+    "url": "https://www.dawn.com/news/2030637/punjab-opposition-leader-moves-lhc-against-law-allowing-trials-under-confidential-regime-in-terrorism-cases",
+    "timestamp": "2026-09-17T22:53:20.597517+00:00",
+    "original_time": "2026-09-17T17:29:18+05:00"
   },
   {
-    "id": "tweet_AJENews_2110564023582202162",
-    "type": "tweet",
-    "username": "AJENews",
-    "text": "BREAKING: Britain affirms 'unwavering and permanent support' for Lebanon in call with foreign ministerLIVE updates:https://aje.news/cc84eq?update=4959522…",
-    "translated_text": "BREAKING: Britain affirms 'unwavering and permanent support' for Lebanon in call with foreign ministerLIVE updates:https://aje.news/cc84eq?update=4959522…",
-    "images": [
-      "7f1a451786c84548.svg",
-      "86b4d13f0a2dfdc2.jpg"
-    ],
-    "url": "https://x.com/AJENews/status/2110564023582202162",
-    "timestamp": "2026-09-17T19:38:38.484985+00:00",
-    "original_time": "2026-09-17T16:00:29+00:00"
+    "id": "article_67ffeb4a7427",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "www.dawn.com",
+    "url": "https://www.dawn.com/news/2029996/car-sales-rise-11pc-in-august",
+    "timestamp": "2026-09-17T22:54:46.810251+00:00",
+    "original_time": "2026-09-17T22:54:46.810214+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_1782035344954100150",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Kennedy Center response to the photo of President Trump appearing to look at a poster about the demolition of the center.\n\n“The Chairman and the Board of Trustees are working hard to save this great American institution. Our goal has always been to address critical infrastructure",
-    "translated_text": "Kennedy Center response to the photo of President Trump appearing to look at a poster about the demolition of the center.\n\n“The Chairman and the Board of Trustees are working hard to save this great American institution. Our goal has always been to address critical infrastructure",
-    "images": [
-      "5e5c79301761bbc7.jpg",
-      "6c588fb1bf826ef3.jpg"
-    ],
-    "url": "https://x.com/KellieMeyerNews/status/1782035344954100150",
-    "timestamp": "2026-09-17T19:40:42.264935+00:00",
-    "original_time": "2026-09-17T19:40:11+00:00"
+    "id": "article_b3fedea72e85",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Markets to close at 9pm as govt reintroduces austerity measures for fuel conservation",
+    "translated_title": "Markets to close at 9pm as govt reintroduces austerity measures for fuel conservation",
+    "url": "https://www.dawn.com/news/2030636/markets-to-close-at-9pm-as-govt-reintroduces-austerity-measures-for-fuel-conservation",
+    "timestamp": "2026-09-17T22:55:04.858917+00:00",
+    "original_time": "2026-09-17T17:29:41+05:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-9149654382532775992",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "The Kennedy Center’s executive director Charles “Matt” Floca wrote in an \"all staff\" email yesterday, per a source with knowledge\n\n“Effective immediately, beginning today, September 16, we are closing the main building for the next seven days due to safety concerns with our",
-    "translated_text": "The Kennedy Center’s executive director Charles “Matt” Floca wrote in an \"all staff\" email yesterday, per a source with knowledge\n\n“Effective immediately, beginning today, September 16, we are closing the main building for the next seven days due to safety concerns with our",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-9149654382532775992",
-    "timestamp": "2026-09-17T19:40:42.760659+00:00",
-    "original_time": "2026-09-17T19:34:40+00:00"
+    "id": "article_18420d612fea",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "PM Shehbaz reaches London before heading to New York for UNGA session",
+    "translated_title": "PM Shehbaz reaches London before heading to New York for UNGA session",
+    "url": "https://www.dawn.com/news/2030656/pm-shehbaz-reaches-london-before-heading-to-new-york-for-unga-session",
+    "timestamp": "2026-09-17T22:55:13.565418+00:00",
+    "original_time": "2026-09-17T23:50:38+05:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-241103491781367292",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Nvidia's CEO Jensen Huang will be at Trump's State Dinner for Chinese President Xi Jinping next week at the White House, a source familiar tells me@NewsNationPresident Trump just called Huang when he was onstage at the All-In-Summit on Monday in Los Angeles. During the call,",
-    "translated_text": "Nvidia's CEO Jensen Huang will be at Trump's State Dinner for Chinese President Xi Jinping next week at the White House, a source familiar tells me@NewsNationPresident Trump just called Huang when he was onstage at the All-In-Summit on Monday in Los Angeles. During the call,",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-241103491781367292",
-    "timestamp": "2026-09-17T19:40:43.270240+00:00",
-    "original_time": "2026-09-17T19:24:14+00:00"
+    "id": "article_92d237345051",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan abstains in UN vote on Iran sanctions panel",
+    "translated_title": "Pakistan abstains in UN vote on Iran sanctions panel",
+    "url": "https://www.dawn.com/news/2030647/pakistan-abstains-in-un-vote-on-iran-sanctions-panel",
+    "timestamp": "2026-09-17T22:55:34.286920+00:00",
+    "original_time": "2026-09-17T21:46:48+05:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_5058919613138234529",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "Closure of the Kennedy Center is \"temporary\" after photos are shared appearing to show President Trump looking at a poster about the \"demolition\" of the Kennedy Center,@romadaraviVP of PR for Kennedy Center tells me@NewsNation.\n\nA source with knowledge tells me@NewsNation",
-    "translated_text": "Closure of the Kennedy Center is \"temporary\" after photos are shared appearing to show President Trump looking at a poster about the \"demolition\" of the Kennedy Center,@romadaraviVP of PR for Kennedy Center tells me@NewsNation.\n\nA source with knowledge tells me@NewsNation",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/5058919613138234529",
-    "timestamp": "2026-09-17T19:40:43.616625+00:00",
-    "original_time": "2026-09-17T18:56:02+00:00"
+    "id": "article_86763bf1c9bc",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "www.dawn.com",
+    "url": "https://www.dawn.com/news/2030306/sanju-samson-fires-india-to-t20-series-win-over-afghanistan",
+    "timestamp": "2026-09-17T22:56:01.219987+00:00",
+    "original_time": "2026-09-17T22:56:01.219959+00:00"
   },
   {
-    "id": "tweet_KellieMeyerNews_-1444227144733587680",
-    "type": "tweet",
-    "username": "KellieMeyerNews",
-    "text": "A federal judge on Thursday declined Rep. Joyce Beatty’s (D-Ohio) request for an emergency hearing to review the Kennedy Center board’s latest vote to close the building for renovations.\n\nU.S. District Judge Christopher Cooper will, however, require the government to provide at",
-    "translated_text": "A federal judge on Thursday declined Rep. Joyce Beatty’s (D-Ohio) request for an emergency hearing to review the Kennedy Center board’s latest vote to close the building for renovations.\n\nU.S. District Judge Christopher Cooper will, however, require the government to provide at",
-    "images": [],
-    "url": "https://x.com/KellieMeyerNews/status/-1444227144733587680",
-    "timestamp": "2026-09-17T19:40:44.162449+00:00",
-    "original_time": "2026-09-17T18:32:17+00:00"
+    "id": "article_ad8d48df0fba",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan Bar Council urges govt to contain fuel price inflation, provide relief to citizens",
+    "translated_title": "Pakistan Bar Council urges govt to contain fuel price inflation, provide relief to citizens",
+    "url": "https://www.dawn.com/news/2030643/pakistan-bar-council-urges-govt-to-contain-fuel-price-inflation-provide-relief-to-citizens",
+    "timestamp": "2026-09-17T22:56:21.595600+00:00",
+    "original_time": "2026-09-17T20:57:02+05:00"
+  },
+  {
+    "id": "article_ec8f6f4384e9",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "www.dawn.com",
+    "url": "https://www.dawn.com/news/2030521/england-were-waiting-for-death-in-world-cup-semi-final-defeat-thomas-tuchel",
+    "timestamp": "2026-09-17T22:56:43.977939+00:00",
+    "original_time": "2026-09-17T22:56:43.977904+00:00"
+  },
+  {
+    "id": "article_d67c157b506c",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "www.dawn.com",
+    "url": "https://www.dawn.com/news/2030628/after-record-rain-typhoon-threatens-new-challenge-to-asian-games",
+    "timestamp": "2026-09-17T22:57:05.794981+00:00",
+    "original_time": "2026-09-17T22:57:05.794532+00:00"
+  },
+  {
+    "id": "article_ba2375be8e41",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Bab al-Mandab chokepoint: What complete closure would mean for Pakistan",
+    "translated_title": "Bab al-Mandab chokepoint: What complete closure would mean for Pakistan",
+    "url": "https://www.dawn.com/news/2030640/bab-al-mandab-chokepoint-what-complete-closure-would-mean-for-pakistan",
+    "timestamp": "2026-09-17T22:57:09.251394+00:00",
+    "original_time": "2026-09-17T20:23:38+05:00"
+  },
+  {
+    "id": "article_48e51cc81d47",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Pakistan, China reaffirm consensus at inaugural Boundary Joint Commission meeting",
+    "translated_title": "Pakistan, China reaffirm consensus at inaugural Boundary Joint Commission meeting",
+    "url": "https://www.dawn.com/news/2030650/pakistan-china-reaffirm-consensus-at-inaugural-boundary-joint-commission-meeting",
+    "timestamp": "2026-09-17T22:57:37.078245+00:00",
+    "original_time": "2026-09-17T23:33:23+05:00"
+  },
+  {
+    "id": "article_54545c09de71",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "www.dawn.com",
+    "translated_title": "www.dawn.com",
+    "url": "https://www.dawn.com/news/2030424/lawyers-seek-early-hearing-of-mazari-chattha-appeals-against-conviction",
+    "timestamp": "2026-09-17T22:58:07.499590+00:00",
+    "original_time": "2026-09-17T22:58:07.499555+00:00"
+  },
+  {
+    "id": "article_32890b870267",
+    "type": "article",
+    "source": "www.dawn.com",
+    "title": "Punjab Assembly begins evaluation of AI use in public services",
+    "translated_title": "Punjab Assembly begins evaluation of AI use in public services",
+    "url": "https://www.dawn.com/news/2030652/punjab-assembly-begins-evaluation-of-ai-use-in-public-services",
+    "timestamp": "2026-09-17T22:58:32.826937+00:00",
+    "original_time": "2026-09-17T22:09:02+05:00"
   }
 ]
